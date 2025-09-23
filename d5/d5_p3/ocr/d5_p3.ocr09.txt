@@ -1,0 +1,51 @@
+DEFORMATION AND FRACTURE OF ICE 1
+
+Since axial deformation was measured over the entire length of a dumbbell specimen. it
+was necessary to determine an effective gage length in order 1o obtain strains from displace-
+ments. Making certain simplifying assumptions. and representing the dumbbell shape by a
+simple geometry, elastic calenlations gave the axial strain in the neck of the specimen as
+0.3 AL owhere AL s the axial deformation measured between the end caps, ice. the caleulated
+cffective gage length for the specimen shown in Fig. 2 was 8.0 mm 3,33 inch). To check
+this siniple caleulation experimentally. tests were made on two specimens of” cpoxy resin.
+one of them a simple right circular evlinder and the other a model of the ice dumbbell speci-
+men. Results of these tests gave axial strain in the neck of the dumbbell specimen as 0.2 1A/
+I'he caleulated value 0.3 AL was accepted for reduction of test data for ice
+
+5 V‘OHS
+|
+<
+LOAD CELL
+. lockisitod
+LVDT S l
+:" < é Y Input
+i c
+M o
+.
+.’ v
+X-Y
+RECORDER
+CARRIER
+Source
+Fig. 4. Equipment for recording load and deformation
+
+Nominal machine speed does not give a reliable indication of strain-rate in the specimen,
+since specimen connectors are clastic and machine speed tends to vary somewhat under load.
+I'he V1 =plotter provided time marks on load-deformation curves. and “time-to-failure™ was
+measured by a stop watch. The strain-rates tabulated for presentation of results were the
+average strain-rates {rom zero stress to peak stress failure strain divided by time o failure
+and the strain-rate at peak stress (usually equal to machine speed divided by gage length .
+I'he average stress rate (peak stress divided by time o failure ) was also tabulated.
+
+Load was measured by two independent systems. The clectrical vesistance strain-gage
+load cell of the basic testing machine was used, and a separate load cell was fitted o the
+machine for use in conjunction with the LVID'T strain gages, so as 1o obtain a continuous plot
+of load against displacement on the X1 plotter  Fig. 8 . The swip chart recorder of the
+Instron testing machine was used throughout to keep a back-up record of load as a function
+of cross-head displacement.
+
+For high speed tests the output from the independent load cell was fed to an oscilloscope.
+and load time curves were recorded from the oscilloscope sereen by a Polaroid camera
+I'he oscilloscope gave stress rate and time 1o failure, but strain-rates had o be estimated
+indirectly. Strain-rate at peak stress was taken as actuator speed divided by gage Tength.
+and average strain-rate was estimated from a graphical correlation of average strain-rate with
+average stress rate, using data from all tests.

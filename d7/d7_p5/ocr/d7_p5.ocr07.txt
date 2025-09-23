@@ -1,0 +1,18 @@
+2 " Electrical Conductivity
+3 of Igneous Rocks
+o Ak after Parkhomenko 1967
+E 5 A\
+S ~1eV
+L 6 R
+=] RN
+o -7 NN 1
+o N
+> -8 NN
+2 1 Andesite basalt %
+B 9 2Norite gabbro NG
+3 3 Diorite Py
+& -10 | 4 Peridotite
+o 5 Olivinite 6 \&
+o 11} 6&Pyroxenite
+840 630 495 390 310 255 200°C
+07 09 11 13 15 1.7 1.9 1000/T [K]

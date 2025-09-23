@@ -1,0 +1,64 @@
+410 JOURNAL OF GLACIOLOGY
+
+of the liquid. Further, the equations apply also to three-dimensionally rough beds if the
+projection of the total arca exposed 1o the water pressure on a plane which is normal to the
+direction 8 is the same as in the two-dimensional case.
+
+For the special case of a sinusoidal bed the steepest tangent of the stoss face is
+
+(tan f) ., = 2malA,
+and thus
+P = po—A7/(2ma). (3)
+
+In the formulation of the overall force balance the material properties of the glacier are
+irrelevant. However, there are differences in the pressure disribution and size of’ contact
+areas when the glacier is assumed to be viscous rather than rigid. When the water pressure
+rises to the limiting value, a rigid body on an undulating (e.g. sinusoidal) bed is in contact with
+the bed only at the inflexion points of the stoss faces. A viscous body, however, touches the
+bed on finite arcas so that extreme stress concentrations are avoided. Consequences of this
+difference will not be pursued further in this paper.
+
+A stability limit for sliding under the action of a water pressure has already been derived
+by Lliboutry in a different way. For the case of a sinusoidal bed he has found a maximum,
+limiting value of the reduced friction /i [/, of 1.525 (Lliboutry, 1968, p. 34). This value refers
+to a maximum size of stable cavities, they cover one-half of the sinusoidal bed. By definition
+fw = 7and f, — im(2a/\)( p,—pw), hence Lliboutry’s limiting value of the water pressure 1s
+
+po—A7/(1.325ma). (4)
+This value is smaller than that derived above (Equation (3)). The difference may result
+from Lliboutry’s assumption of a symmetric pressure distribution on a (large) contact area,
+which has its centre well above the inflexion point of the stoss face (Lliboutry, 1968, p. 33).
+
+The remaining part of this paper deals with water pressures below the limiting pressure
+which correspond to the stable range of sliding velocities. Before discussion of the numerical
+analysis, the effect of a water pressure which is in the range between the separation pressure
+and the limiting water pressure will be described in a qualitative manner.
+
+When water at the pressure py in this range penetrates to the lee faces of the protuberances
+of the glacier bed, a part of the ice sole is subjected to the boundary pressurce py and is thus
+separated immediately from the bed, a separation which includes not only that part where
+the normal siress had originally been smaller than gy but a larger zone as a result of a canti-
+lever effect. In the subsequent process of cavity growth, the ice in the central part of the
+separated zone no longer moves paralicel to the bed but away from it. The lower edge of the
+separated zone moves further along the bed while the upper edge retreats only a litde from its
+original position. ‘Thus, the extent of that part of the ice sole which is supported by water
+at the pressure py becomes much larger in the course of time. When the cavity has grown to
+its final, steady form the ice at the ceiling moves parallel to it.
+
+ASSUMPTIONS FOR THE NUMERICAL MODEL
+
+The present analysis is based on several assumptions:
+
+1. No tangential stresses at the ice—bed interface.
+
+2. A linear flow law for the ice. The ice is taken to be nearly incompressible in time ; more
+specifically, that parameter which is the linear viscous analogue of Poisson’s ratio in
+clasticity is assigned the numerical value 0.499. Perfectincompressibility in time would
+require the numerical value 0.5, which is not acceptable for the finite-element program.
+
+3. Plane-strain, periodic bed undulations in the xz plane.
+
+4. Instantsupply or drainage of water of a given pressure at all lee faces of the undulating
+bed.
+
+5. No regelation.

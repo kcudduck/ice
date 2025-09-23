@@ -1,0 +1,66 @@
+Journal of Glaciology
+. power supply arc unimportant, provided that the
+a regulator is adequately supplied. In addition to the
+basic components, a small signal diode (IN4148) and a
+1 capacitor (0.1 uF) are used to protect and stabilize the
+REFERENCE s :
+DETECTOR /]__L VOLTAGE regulator (Horowitz and Hill, 1989, p.341). Two 1kQ
+S~ . _~ REGULATOR resistors serve as loads on the emitter outputs of the
+™ N detectors. To minimize wire costs, the entire circuit
+CASTING / — operates on four conductors: one for each detector, one for
+RESIN —— PLASTIC SHELL
+| the voltage regulator supply and one for ground.
+W\‘\ SAMPLE As shown in Figure la, the sensor components are
+e "DETECTOR housed in a spherical shell from which a wedge has been
+INCANDE/éCENT “L415 mm—-‘ cut; table-tennis balls work well for this purpose. Our
+SOURCE design has two important features: it is small enough to fit
+down unreamed boreholes and the wedge-shaped water
+gap reduces the possibility that the sample path will
+o " become clogged. The electronic components inside the
+plastic shell are sealed in a casting resin. In selecting a
+1N4148 casting material, chemical reactions of the resin with
+< b mineralized water must be considered. We have found
++10V to | that Sun Cure—a clear laminating resin available from
+35V | 7808 Industrial Formulators of Canada—is excellent. The
+[o.mF 8097) -~ ! "91*?10 sensor is cast in a two-stage process. First, the sensor is
+positioned so that one of the planes forming the wedge
+- - d\glﬂ) provides a level surface; one half of the sensor is then filled
+v j ) with resin and allowed to harden. When this stage is
+" finished, the sensor is rotated so that the other wedge
+100 1ko plane is horizontal, and the remaining part of the sensor is
+= R cast.
+g Calibration
+Fug. 1. Turbidity sensor schematic and circuit diagram
+showing the relative positions and physical connections of Turbidity is usually defined as the reduction in
+electronic components. a. The basic components are an intensity of a beam of light passing through a suspension:
+incandescent light source, two infrared photo-Darlington T
+detectors— one for the reference light path and one for the — =exp(—71L) (1)
+light path through the water sample— and a voltage To
+regulator. These components are housed in a plastic shell where T is the intensity of light after passing through a
+and then sealed in a casting resin that does not degrade in length L of suspension, Zg is the intensity of the
+the presence of mineralized water. b. Circuit diagram for unobstructed light beam and 7 is the turbidity (Kerker,
+turbidity sensor and voltage measurement. Shown in this 1969; Melik and Fogler, 1983; Gregory, 1983). In
+diagram are the unregulated supply voltage from the general, phototransistors have non-lincar behavior over
+surface (upper left), the sensor components (middle and the full collector-emitter voltage range. However, for
+right) and the surface-voltage measurement circuit (lower small changes, the response is approximately linear (Bliss,
+left). 1983 p.4-13). Under these conditions, there is a direct
+relation between the photo-induced current I and the
+partially covering the detector faces with small picces of  intensity of incident light, I o Z, and Equation (1) can be
+black electrical tape. rewritten as
+If the sensor is in thermal equilibrium with its I
+surroundings, variations in reference measurements A = GXP(—TL) (2)
+result only from changes in source intensity, assuming 0
+that there is no variation in ambient light. Sample where Iy is the current induced by the unobstructed light
+detector measurements depend on the source intensity beam. To use this expression, the value of Iy must be
+and on the number of infrared-wavelength photons that known. However, we cannot measure simultaneously the
+pass through the water gap; more photons reach the intensity of incident light through both “‘clear” and
+sample detector when the path is unobstructed than when turbid paths with the same detector. Thus, we employ the
+intervening scatterers are present. As explained below, reference detector to monitor an internal path and
+turbidity measurement is based on the ratio of currents provide an approximate measure of Iy. Solving Equat-
+from the reference and sample detectors. ion (2) for 7, and using Ohm’s law to rewrite current in
+A series 7800 voltage regulator provides a constant 8 V terms of voltage V and resistance R, we obtain
+supply for the light source and for collector inputs of the 1 RoV
+detectors (Fig. 1b). By including the regulator as part of T _Zln (W)) ®3)
+the sensor assembly, voltage variations due to different
+lead-wire lengths or changes in voltage of the surface In Equation (3), subscripted quantities refer to the
+416

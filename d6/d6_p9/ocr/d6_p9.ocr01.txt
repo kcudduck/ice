@@ -1,0 +1,75 @@
+Jowrnal of Glaciology, Vol. 32, No. 112, 1986
+HYDRAULICS OF SUBGLACIAL CAVITIES
+By JOseri S. WALDER
+(Quaternary Rescarch Center AK-60. University of Washington. Seattle, Washington 98195, U.S.A.)
+
+ABSTRACT. A theoretical model is developed to describe R. Si la pression de I'eau croit jusqu'a plusieurs bars prés
+the steadv-state  behavior of interconnected, water-filled de la valeur de la pression de la glace susjacente, la vitesse
+cavities  at  the glacier bed. Physically plausible cavities de fermeture des cavités par déformation descends en
+should contain constrictions along the flow path, with flow dessous de celle d’ouverture due au glissement et a la fonte:
+in the wider sections being relatively sluggish. Mean flow le systeme des cavités devient alors instable. En conséquence
+rates in cavities may be at least one order of magnitude I"évolution du systeme de drainage doit dépendre du flux
+less than in channels incised into the basal ice (R channels) total d'eau de fonte. Il peut arriver que les chenaux et
+Melting due to viscous dissipation — the process that allows cavités soient des conduits d'eau de fonte; une telle situation
+R channels to exist — probably plays a minor or negligible ferait apparaitre un comportement transitoire non habituel.
+role, as compared to glacier sliding, in determining the size
+of cavities. Furthermore, a system of subglacial cavities
+should not show a tendency for localization of flow in a
+few main conduits, as does an R-channel svstem. If water ZUSAMMENFASSUNG.  [lydraulik  subglazialer  Hohlriume.
+pressure rises to within several bars of oxerl;urdcn pressure, Zur Beschreibung des stationiren Verhaltens von miteinander
+the rate of cavity closure by creep falls below the rate of verbundenen, wassergefiillten Hohlrziume{\ am Glelsqherpcll
+cavity opening by sliding and melting, with cavities then wird ein theoretisches  Modell  entwickelt. Physikalisch
+becoming unstable. Subsequent evolution of the drainage mogliche  Hohlriume  sollten entlang  des  Fliessweges
+system  should  depend upon the total melt-water flux Einengungen aufweisen, mit relativ trigem Fluss in QCn
+Circumstances may arise in which cavities and channels act weiter geoffneten Abschnitien. Die mittlere Fliessgeschwin-
+as conduits  for melt water; such a configuration would digkeit in - Hohlraumen durfte mindestens eine  Grossen-
+probably show unusual transient behavior. . ordnung geringer sein als die in Kanilen, die ins FEis am
+
+. Untergrund  eingeschnitten  sind  (R-Kanile) Schmelzen
+B infolge viskoser Dissipation — ein Prozess der die Existenz
+
+RESUME. L'hydraulique des cavités sous glaciaires. On von R-Kanilen erméglicht — spielt vermutlich — verglichen
+développe un modeéle théorique  pour décrire le mit dem Gletschergleiten — eine geringere oder vernach-
+comportement en éfat stationnaire des cavités remplies d'eau lissighare  Rolle  bei der Bemessung der Hohlraumgrossen.
+et interconnectées sur le  lit du glacier Des  cavités Weiterhin sollte  ein System  von  subglazialen  Hohlriumen
+physiguement plausibles doivent comporter des keine Tendenz  zur Einschrinkung des Flusses auf einige
+rétrécissements fe long du trajet de I'écoulement, avec un wenige Hauptfuhrungen zeigen, wie dies bei einem System
+ecoulement dans les sections plus larges relativement calme. von R-Kanilen der Fall ist. Steigt der Wasserdruck auf
+Les vitesses d'¢coulement dans les cavités peuvent etre d'au einen Wert innerhalb von einigen bar des Auflastdruckes, so
+moins un ordre de grandeur plus faible que dans les canaux sinkt die Rate der Hohlraumverschlisse durch Kriechen
+taillés dans la glace basale (chenaux R). La fonte due 2 la unter die Rate der Hohlrauméffnungen durch Gleiten und
+chaleur de déformation, responsable de [Pexistence des Schmelzen; die Hohlriiume werden dann instabil. Die daraus
+chenaux R, joue probablement un role mineur ou méme folgende Entwicklung des Abflussystems sollte vom Gesamt-
+négligeable, en comparaison du glissement du glacier pour le Schmelzwasserfluss abhingen. Es konnen Umstinde eintreten,
+controle de la taille des cavités. De plus, un systeme de unter  denen  Hohlriume  zusammen mit  Kandlen als
+cavités sous glaciaires ne devrait pas montrer de tendance a Fuhrungen fiir Schmelzwasser dienen; eine solche
+lalocalisation  de Iécoulement en quelques conduits Ausprigung  wirde aber vermutlich nur ein  Ubergangs-
+principaux, comme cela se passe dans le svsteme de chenaux stadium sein.
+
+INTRODUCTION “separation” of sliding ice from the glacier bed. Lliboutry
+(1976, 1978, 1979) has suggested that cavities at temperate-
+
+Basal melt water is widely considered to have a major glacier beds may be characterized B eilher."autonomous”
+influence upon the sliding behavior of temperate glaciers. 5‘““‘33“‘5""5 or as _f(_)”“”‘g part  of an_”lnlcrconnecte.d
+Numerous field studies have demonstrated links between hydraulic regime" draining melt water. Detailed geomorphic
+variations in the subglacial drainage network and variations mapping - of recently deglaciated bedrock surfaces (Walder
+in sliding speed, with enhanced sliding during the melt and Hallet, 19797 Hallet and Anderson, 1980) suggests that
+season a  nearly ubiquilous observation. Nonetheless, there ‘interconnected”  cavities  form  part  of a network of
+has been a lack of consensus as to whether sliding-speed anastomosing - conduits, the other "segments” of the conduit
+variations are due primarily to the amownt of melt water or network  being  channels incised into the basal ice (R
+o the water pressure. Much of this controversy centers on channels) or into the bed (Nye channels). Recent field
+issues of geometry: just how is melt water at the glacier bed studies of glacier dynamics and hydraulics (e.g. Tken and
+distributed? Is melt water transported primarily  through others,  1983;  Kamb and  others, 1985, lken and
+conduits, through a widespread, thin sheet, or through Bindschadler, 1986) also strongly suggest an important role
+permeable till? How might the flow configuration be related for subglacial cavities in melt-water drainage. This paper
+to the glacier's dynamic behavior? describes a  theoretical model developed to explain some
+
+Analyses have been developed to describe various aspects of water flow through subglacial cavities.
+aspects  of  subglacial water flow, both for sheet flow
+(Weertman, 1972, Walder, 1982; Weertman and Birchfield, ANALYSIS OF STEADY FLOW IN CAVITIES
+1983[b]) and for flow in channels incised into the basal ice
+(Rathlisberger, 1972, Shreve, 1972; Weertman, 1972; Nve. I will focus attention on flow in cavities filled with
+1976; Spring and Hutter, 1981). The subglacial drainage water such that the water flows "under pressure”. Viscous
+system is  likely also to include cavities formed by dissipation in the flowing water produces frictional heat that
+
+439

@@ -1,0 +1,16 @@
+pC N
+3D plot : Right-handed « quartz -
+c
+-a 1
+0.5
+0.5 +a +a
+Z o
+0
+-05 -a
+15 -a 05
+1 : 15
+0.5 1
+0 +a 5 0.5 1
+Yy -05 .
+p ) g 05 X
+15 -1.5 15

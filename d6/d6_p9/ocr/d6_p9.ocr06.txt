@@ -1,0 +1,82 @@
+Journal of Glaciology
+The transient hydraulic response of subglacial cavities Lliboutry, L. 1978. Glissement d'un glacier sur un plan
+must also be analyzed. This analysis will necessarily be parsemé d'obstacles hémisphériques. Annales de
+complicated by the need to treat the connectivity of the Géophysique, Tom. 34, Fasc. 2, p. 147-62.
+cavity system as time-dependent. Some beginnings at Lliboutry, L. 1979. Local friction laws for glaciers: a
+analyses of this type, with the aim of explaining the propa- critical review and new openings. Journal of Glaciology,
+gation of wave-like transients in the subglacial drainage Vol. 23, No. 89, p. 67-95.
+system, have been recently reported by M. Fahnestock and Lliboutry, L. 1983. Modifications to the theory of
+B. Kamb (personal communication). Coupled with this work intraglacial waterways for the case of subglacial ones.
+should be analyses of the transient glacier-sliding behavior Journal of Glaciology, Vol. 29, No. 102, p. 216-26.
+induced by hydraulic transients. Such work should lead to a Nye, J.F. 1953. The flow law of ice from measurements in
+better understanding of the observed time differences glacier tunnels, laboratory experiments and the Jungfraufirn
+between, say, peaks in water pressure and in sliding speed. borehole experiment.  Proceedings of the Royal Society of
+London, Ser. A, Vol. 219, No. 1139, p. 477-89.
+ACKNOWLEDGEMENTS Nye, J.F. 1976. Water flow in glaciers: jokulhlaups, tunnels
+and veins. Journal of Glaciology, Vol. 17, No. 76, p.
+This work was begun in 1984 while 1 was with the 181-207.
+Project Office—Glaciology of the U.S. Geological Survey, Rothlisberger, H. 1972, Water pressure in intra- and
+Tacoma, Washington. I am grateful to Dr M. Meier for subglacial channels. Journal of Glaciology, Vol. 11, No.
+providing me with the opportunity to spend several months 62, p. 177-203.
+with the Project Office, as well as for his comments on Seeburger, D.A., and Nur, A. 1984. A pore space model for
+this work during early stages in its development. I am also rock  permeability and  bulk modulus. Journal of
+pleased to thank C. Raymond, N. Humphrey, B. Hallet, H. Geophysical Research, Vol. 89, No. Bl, p. 527-36.
+Rothlisberger, and an anonymous referee for comments on Selby, S.M., ed. [°1972.] Standard mathematical tables. 20th
+earlier versions of this manuscript. edition. Cleveland, OH, Chemical Rubber Company.
+Shreve, R.L. 1972. Movement of water in glaciers. Journal
+of Glaciology, Vol. 11, No. 62, p. 205-14.
+REFERENCES Spring, U., and Hutter, K. 1981. Numerical studies of
+jokulhlaups. Cold Regions Science and Technology, Vol. 4,
+Burkimsher, M. 1983. Investigations of glacier hydrological No. 3, p. 227-44.
+systems using dye tracer techniques: observations at Stenborg, T. 1969. Studies of the internal drainage of
+Pasterzengletscher, Austria. Journal of Glaciology, Vol. 29, glaciers.  Geografiska Annaler, Vol. S1A, Nos. 1-2, p.
+No. 103, p. 403-16. 13-41.
+Duilien, F.A.L. [€1979.] Porous media: fluid transport and Walder, J.S. 1982. Stability of sheet flow of water beneath
+pore structure. New York, etc., Academic Press. temperate glaciers and implications for glacier surging.
+Engelhardt, H.F., and others. 1978. Basal sliding and Journal of Glaciology, Vol. 28, No. 99, p. 273-93.
+conditions at the glacier bed as revealed by bore-hole Walder, J[S.], and Hallet, B. 1979. Geometry of former
+photography, by H.F. Engelhardt, W.D. Harrison, and B. subglacial water channels and cavities. Jownal of
+Kamb. Journal of Glaciology, Vol. 20, No. 84, p. Glaciology, Vol. 23, No. 89, p. 335-46.
+469-508. Weertman, J. 1972, General theory of water flow at the
+Hallet, B., and Anderson, R.S. 1980. Detailed glacial base of a glacier or ice shect. Reviews of Geophysics and
+geomorphology of a proglacial bedrock area at Castleguard Space Physics, Vol. 10, No. 1, p. 287-333.
+Gilacier, Alberta, Canada. Zeitschrift fiir Gletscherkunde Weertman, J., and Birchfield, G.E. 1983[a]. Basal water film,
+und Glazialgeologie, Bd. 16, Ht. 2, p. 171-84. i basal water pressure, and velocity of traveling waves on
+Hooke, R.L. 1984. On the role of mechanical energy in glaciers. Journal of Glaciology, Vol. 29, No. 101, p.
+maintaining subglacial water conduits at atmospheric 20-27.
+pressure. Journal of Glaciology, Vol. 20, No. 105, p Weertman, J., and Birchfield, G.E. 1983[b]. Stability of
+180-87. sheet water flow under a glacier. Journal of Glaciology,
+Iken, A. 1981. The effect of the subglacial water pressure Vol. 29, No. 103, p. 374-82. .
+on the sliding velocity of a glacier in an idealized Yale, D.P. Unpublished. Network modelling of flow,
+numerical model. Journal of Glaciology, Vol. 27, No. 97, storage, and deformation in porous rocks. [Ph.D. thesis,
+p. 407-21. Stanford University, 1984.]
+Iken, A., and Bindschadler, R.A. 1986, Combined
+measurements of subglacial water pressure and surface
+velocity of the Findelengletscher, Switzerland: conclusions
+about drainage system and sliding mechanism. Journal of APPENDIX
+Glaciology, Vol. 32, No. 110, p. 101-19.
+Tken, A., mn_i others. 1983. The uplift of Unteraargletscher HYDRAULIC GRADIENT IN CAVITY SYSTEM WITH
+at the beginning of the melt season — a consequence of CONSTRICTIONS
+water storage at the bed? By A. Iken, H. Rothlisberger,
+A. F!olmn, and W. Haeberli. Journal of Glaciology, Vol In the main text, I derived an expression (Equation
+29, No. 101, p. 28-47. i . . (11)) relating the flux Q@ to hydraulic gradient G, sliding
+Knmb., B. In. press. An gbser\'atlonally based mech.:\msm of speed  ug, cavity height R, effective pressure P, and rough-
+glacier surging. International workshop on hydraulic effects ness m. If the water pressure is not so high that the
+at .lhg glacier bed and related phenomena, Interlaken cavities are nearly unstable, then a good approximation to
+Switzerland, 16—19 September 1985. [Abstract.] Equation (11) is
+Kamb, B., and others. 1985. Glacier surge mechanism:
+1982-1983 surge of Variegated Glacier, Alaska, by B. Al
+Kamb [and 7 others]. Science, Vol. 227, No. 4686, p. 0 - Cmm_[';} R G121 (A1)
+469-79. Pe
+Krimmel, RM., and others. 1973. Water flow through a
+temperate glacier, by R M. Krimmel, W'_V' Tangborn, q"d where n and A4 are the flow-law parameters (Nye, 1953).
+M.F. Meier. (/n [International Hydrological Decade.] 7he Consider now a cavity containing constrictions as shown
+role of snow ‘and ice in hydrology. Proceedings of  the in Figure 3. In the steady state, the flux must be the same
+Banff symposia, September 1972, A coumhuum to r.hz' in both the "wide" and "narrow" sections of the cavity,
+International ~ Hydrological —Decade. Paris, UNESCO; hence from Equation (A-1)
+Geneva, WMO; Budapest, IAHS, Vol. 1, p. 401-16. .
+(Publication  No. 107 de [I'Association Internationale R 535 ?/2 R 8/3 G 1/2
+d'Hydrologie Scientifique.)) e e e (A-2)
+Lliboutry, L. 1976. Physical processes in temperate glaciers. s 5
+Journal of Glaciology, Vol. 16, No. 74, p. 151-58. ce Te. narrow
+444

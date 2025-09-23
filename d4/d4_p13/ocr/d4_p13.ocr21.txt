@@ -1,0 +1,19 @@
+a)
+15
+%' . after wet-grinding CaCO3
+T 13 /after wet-grinding with addition
+G \\ of hydrogen peroxide
+—_ 12 I
+g --_______._..\>_-=QL——.:_,5;_._.,____..._..___-_-_-_
+L /Sﬁr;‘:ﬁ:;z—;=° JE =116 eV
+= after dry-grinding
+1‘02?:0 300 3',‘50 400 450 500 550 600
+Temperature [K]
+) 13
+@ “|withoutirradiation™>~___
+5 -
+=10
+D o9 // after X-irradiation
+08 /
+250 300 350 400 450 500 550 600
+Temperature [K]

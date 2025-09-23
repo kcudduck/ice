@@ -1,0 +1,11 @@
+402 5 3 : .
+—Non-treated-dry
+30 5 — Treated-wet
+w : : Treated-dry
+a L i : :
+M @ ; < : é
+0\ %Inst nt 1 ilnst nt 2 3Instant3 ;Inst nt4
+0 0.005 0.01 0.015 0.02 0.025
+D[mm/mm)]
+Instant 1) Instant 2 Instant 3 Instant 4
+) __

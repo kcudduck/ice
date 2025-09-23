@@ -1,0 +1,20 @@
+ATTENUATION OF SOUND IN SEA ICE, 10 _')()t)klll 4o1
+|FREQ. ATTEN] [FREQ. ATTEN.|
+k=2 db/m kHz db/m
+0.3 478 e -
+1L 593 L 21 .52\
+[EEE A3 i I N N N
+740 472 - ~ . h :
+: e i - 384 225, T .
+Ge.2 5.35 ~ - N ~ \ v
+ok 5.54 ~ . . . . .
+i . . - , 428 33.3,
+. . 477 255 .
+RN SRR L I R R
+Y 6 20 24 4 8 12 18
+RANGE  (feet) RANGE  (feer)
+R R I
+RANGE  (meters) RANGE  (meters)
+Fig 1. Transmitter of diameter Gin (15 cm). Signal intensity level as a_function of range at frequencies between 10 kH= and
+goo Kz Values of the attenvation cocfficient, listed in the ATTEN. column. are the negative of the slopes of the straight
+lines.

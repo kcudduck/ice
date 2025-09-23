@@ -1,0 +1,63 @@
+SLIDING VELOCITIES OF GLACIERS 413
+stress could not be eliminated. Therefore the arithmetic mean of computed velocities in Py,
+and P;, was prescribed at £ (and P;;) in every second step. The iteration was continued until
+the velocity did not vary along the upper boundary by more than 3.59,.
+
+A PROBLEM IN MODELLING WATER-FILLED CAVITIES
+
+Let nodal points situated on the bedrock profile be labelled P,. P, Py, ... Points on the
+
+ceiling of a cavity are marked with a star. The point P; (- P;*) at the corner of a cavity
+(Fig. g) is in contact with the bed and should move parallel to the original bed, that is parallel
+to the line connecting P;_; and P;,,. In accordance with the specification given above,
+however, the point moves parallel to the line connecting the points P;_ *and P; ;. (Disregard
+of the specification would imply that forces act on a surface which is not closed.) Calculations
+carried out for various positions of point P; * showed that the overall sliding velocity depends
+nearly linearly on the direction of movement of the point 2. The dependency is negligible for
+small cavities but very strong for large ones. For example, in the case of the largest cavity
+modelled (Fig. 6b) a variation of the direction of movement of point P; by 1” caused a change
+of the sliding velocity by 167, at a water pressure close (o the steady-state value. The difficulty
+is avoided to a large extent by putting P; * approximately on the bedrock surface at a very
+small distance from P;. A change of the distance between 72 *and P; affects the sliding
+velocity very little. In the casc already quoted, an increase of this distance by 359 caused a
+change of the sliding velocity by 1.29, only. Some uncertainty, however, remains. Indeed,
+not even the “slope of the original bed™ is well defined in the finite-clement approximation if
+distances of nodal points are varied. The tolerances shown in the final plot of sliding velocities
+(Fig. 8) refer to the uncertainty.
+
+\l ce
+
+L e
+
+SN Water \
+
+Y. _ p o
+
+Yy, . I Pt 1+1 s
+
+S / . aays
+
+e e N ) ///////
+
+Y ) . —_ S
+
+I — - /7/ IS
+
+S S S S IS s
+
+“Rock 7. YIS ,P,,]/// S
+Fig. 3. Finite-clement approximation of  water-filled cavity. The nodal point Py marks the edge of the cazity.
+
+MODELLING OF STEADY CAVITIES
+
+These are cavities which are neither shrinking nor expanding at the given water pressure;
+at the cavity ceiling the ice moves parallel to it the sliding velocity does not change with time
+as long as the water pressure is constant.
+
+The appropriate cavity geometry was found by a trial-and-crror approach, an arbitrary
+shape was assumed at first.  Running the finite-clement program with boundary conditions
+corresponding to this cavity shape revealed that a cavity was shrinking in some places and
+expanding in others. Accordingly, nodal points of the cavity ceiling were put into slightly
+different positions in the next iteration (e.g. the cavity was made wider where it had been
+expanding). This procedure was continued until nodal points of the cavity ceiling moved
+(approximately) parallel to the ceiling.

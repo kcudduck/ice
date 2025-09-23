@@ -1,0 +1,16 @@
+a. b c 1
+‘rl 1 | ‘
+50 I| =Mos
+=
+100 %;
+E Sl 106
+£ 150 2
+Q.
+o) N
+a ' =| 104
+200 g
+S
+250 =| 102
+a0 L Rayleigh-Z Rayleigh-X Love
+0 5 10 15 0 5 10 15 0 5 10 15 0
+Frequency (Hz)

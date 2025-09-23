@@ -1,0 +1,58 @@
+1o JOURNAL OF GLACIOLOGY
+to the steel ball. Compression testing technique for brittde materials is discussed in detail
+clsewhere (Hawkes and Mellor, 1970,
+
+Simiple cylindrical specimens were loaded through a steel ball in a similar manner and
+the same criticism applies.
+
+Strain and load measurements. "T'he basic testing machine was cquipped to record cross-head
+displacement automatically, but in general cross-head displacement exceeds displacement in
+the test specimen, especially when thin cables are used for tensile tests.
+
+Ideally. strain gages should be attached directly to the test specimen so as to measure strain
+in the mid-section and thus avoid confusing “end-cflects™. However, this proved diflicult
+1o arrange for ice. and measurements were made between the end caps of the specimen.
+Axial deformation was measured by a matched pair of lincar variable differential transforme
+transducers (LVDT's . which were supported by frames clamped to the specimen end caps
+
+320 . - ———— s
+S |
+c : . 20
+B e .
+< L . |
+< 280 {
+k3 1 * 3 g
+<
+< . .
+- . T bor
+o 240~ ‘ .-
+.
+5 Selected . ~i6
+a Tolerance
+b4 |
+s - |
+E L
+— 14
+200! {
+1 IR | | L S S
+o] 2 4 6 8x1073 inches
+L TR B S S S )
+¢} 0.04 008 012 Q. 020 mm
+Eccentricity
+Fig. 7. Correlation between measured tensile strength and eccentricity of the specimen (eccentricity is one-half the comparator ot~
+of-round™ measwrement
+Fig. 6. One advantage of LVDT's is that there is no mechanical connection between the
+transformers and the core rods. so that there is no restraint and no damage when the specimen
+fails
+
+The LVIYT's were calibrated by attaching them o a eylindrical aluminum specimen of
+known modulus and applying load through a calibrated load cell. The aluminum test
+eylinder was also fitted with clectrical resistance foil strain gages 1o provide a check on the
+book value of Young’s modulus.  An independent calibration was made by linking the
+LVDTs in parallel with a proving ring and dial gage and loading the system through an
+clectrical strain-gage load cell. These calibration tests showed that the gage outputs were
+linear with displacement and free from hysteresis effects. The output was independent of
+longitudinal or lateral positioning of the core rod in the transformer. The gage sensitivity
+which actually can be altered by adjustment of the carrier amplifier) was 1.47 inch mV’
+
+37.35 mm mV . Output from the LVDT'S was recorded continuously on an '} plotter

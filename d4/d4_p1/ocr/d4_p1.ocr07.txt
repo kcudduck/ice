@@ -1,0 +1,13 @@
+Right-handed a-quartz -
+pCN
+Max: -
+1.92
+15
+1
+05
+|| | 0
+-05
+| -1
+-15
+Min:
+1.92

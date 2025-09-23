@@ -1,0 +1,17 @@
+-4 _
+
+10 : —— Signal spectrum
+
+) —— Noise spectrum
+
+>
+v 107° -
+I®) :
+S _
+-+ -
+B_ -
+E -
+< i
+1076 -
+8.25 8.50 8.75 9.00 9.25 9.50 9.75 10.00
+Frequency [kHZ]

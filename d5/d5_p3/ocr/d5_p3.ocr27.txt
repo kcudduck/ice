@@ -1,0 +1,38 @@
+DEFORMATION AND FRACGTURE OF [CE 120
+Fatlure stramn. "The increase in failure strain with decreasing strain-rate can probably be
+attributed to creep effects. In Fig. 25 the pure clastic strain to failure, obtained by dividing
+the peak stress by the initial tangent modulus. is plotted against average strain-rate. For
+tension the clastic strain to failure shows little variation with strain-rate. For compression,
+clastic strain to failure increases with increasing strain-rate. roughly in proportion to the
+increase in peak stress with strain-rate.
+0
+10 f 1 T T T 1
+107" s |
+| AA |
+A
+1074 |
+]
+1
+g€ ! |
+7 . a
+Compression, [
+bar/s A {
+1073 f
+Tension {
+. |
+1074 !
+|
+1077 10°% 1072 1074 10°3 1072
+Average Strain—Rarte , s
+Lonergy input. For some engineering purposes it is ol interest to consider the work done on
+the specimen o cause failure. The energy input per unit voluine required o fail a specimen
+is fooper where oy is peak stress. e is failure straing and A s a shape factor for the stress strain
+curve ving between o and tos Tn Fig 26 the product aep is plotied against average strain-
+rate: since A x oo at the highest sirain-rates hut nearer 0.75 for the low strain-races, it can
+be seen that the work done i failing the specimen inercases with decreasing strain-rate. e
+work done in straining ice clastically  proportional to the square of the peak stress divided by
+the initial tangent modulus ) is recoverable, hut not usefully so
+I'he power expended in failing specimens (energy input divided by time o failure
+increases very strongly with increasing strain-rate (Fig. 27, but there are no abrupt dis-
+continuities that could be associated with a sharp tansition from ductile 1o brittle hehavior.
+Sa

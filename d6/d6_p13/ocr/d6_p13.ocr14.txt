@@ -1,0 +1,69 @@
+220 JOURNAL OF GLACIOLOGY
+Tanre TL ESTIMATES OF 0 siti VEIN SIZEAND EXPECTED K10
+
+Column 1: Lower limit assuming constant (.
+
+Column 2: Upper limit assuming constant (.
+
+Column 3: Estimated size from thermal diffusion assuming (7 constant,
+
+Column §: Estimated size rom adiabatic relaxation by replacement of impurities.
+
+Ao = 6.6 <1071 m? is size observed in samples collectéd from depths greater than 7 m.
+
+Texture and depth of origin ! 2 3 1
+
+—_— e — e —
+
+“ 4 depith Ak AL e ekl T AN
+mm m 3 m
+
+2 10" nearsurface 0073 1300 1.0 25  0.20 400 12 20
+
+B 10° 6o 0.073 1 500 1.3 20 0.2 300 15 50
+2 10t near surface 0,073 2 000 Lo 200 0.087% 1700 8% g
+25 Lo 60 0073 2000 27 30 2.0t 70 52t og
+
+* assuming bubble pressure is atmospheric pressure.,
+
++ clear ice.
+
+* bubbly ice.
+
+A typical depth below the sample surface for measured veins is about 5 mm., and time of
+measurement is about 30 min after sample collection. Based on the above limits on i situ size.
+the possible range of vein properties predicted ac this depth and time are represented as
+curves short dashes) in Figure g for various textures and depths of origin. For example,
+fine-grained ice originating from 60 m and inidal size A 1.9 - 10 '"m? would follow the
+path P, P, P and would have a size about equal to the observed size at the time of observa-
+tion. Very coarse clear ice relaxes rapidly hecause of a low water content, which causes the
+contribution from the internal source term to be small. At the other extreme, coarse bubbly
+ice does not heat up above the temperature depression caused by air pressure in the bubbles
+isolated from the veins, and relaxation of the bubble pressure by heat conduction or mechani-
+cal effects is very slow (Raymond, in press). The inital bubble pressure is probably near the
+ice overburden pressure, which for 60 m origin depth gives 6” — 0.049 deg and this changes
+very slowly during the first hour. Table T1, column g gives values ol in situ size expected
+from this model for several textures and depths of origin.
+
+Adiabatic relaxation by rapid replacement of impurities. At the opposite extreme we may
+consider a case where the liquid in the veins not only experiences an abrupt pressure drop but
+also a drop in impurity content to a concentration corresponding to that in the layer of water
+on the external surface. Because the diffusivity of typical soluble impurities in water is small
+in comparison to the effective thermal diffusivity of the ice, diffusion is not rapid enough to
+exchange impurities before significant heat flow from the surface has occurred. However,
+water {low could possibly replace the vein water rapidly and continuously. If this happens.
+the vein would be held at a temperature depression 8 corresponding to 65 except for a small
+contribution due to vein-wall curvature. The ice could be heated up nearly 1o its final
+equilibrium temperature by [reezing in the veins and local redistribution of heat on a granular
+scale. The net effect would be reduction in vein size, and is worked out in Appendix B.
+assuming no heat flows in from the sample surface. This gives estimates of in situ sizes shown
+in Table 11, column 4. The time scale for this 1o happen is similar to that for the pressure
+relaxation considered above and in Appendix B, but the size and temperature changes are
+larger because the impurities are not permitted (o concentrate in the shrinking veins.
+
+Il the water-drainage velocities were too slow to affect the bulk core before a sample was
+cut from it, which seems likely, then the replacement of impurities beneath the upper flat
+surface of a disk-like sample (Scetion 2) would not start until it was cut out. Even il the sub-
+sequent replacement of impurities were essentially instantancous, heat flow from the sample
+surface would contribute to the heating of the ice within several grain diameters below the
+surface. The estimates in Table T, column 4 apply only at greater depth in the sample.

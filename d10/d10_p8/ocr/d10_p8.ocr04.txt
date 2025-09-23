@@ -1,0 +1,93 @@
+Journal of Glaciology
+(1933), a 1kg solution containing 0.745263 g of KCI in packed with debris or sheared by glacier motion; if a
+distilled water in a vacuum will have a conductivity of  sensor is placed too high, it will be removed from the
+0.07736 Sm™' at 0°C. Our standard solutions are active-flow region. For solitary sensors, weight must be
+prepared in air by dissolving ~0.7452g of KCl in added to promote sinking. If both turbidity and
+enough distilled water to yield exactly 1litre. The clectrical-conductivity sensors are to be installed in the
+conductivity of our standard solution differs slightly same borehole, we usually place the conductivity sensor
+from that described by Jones and Bradshaw (1933) immediately above the turbidity sensor and fix their
+because we have implicitly assumed that 1 litre of solution relative positions using self-vulcanizing tape. Once in
+weighs exactly 1kg and we have not applied a vacuum place, the sensors arc tethered by their lead wires to an ice
+correction. Nevertheless, discrepancies arising from screw at the surface.
+differences in the preparation procedures are small and
+do not influence calibration accuracy appreciably. Measurement procedures
+The reference solution is used to obtain a cell-constant
+value for each sensor. The cell constant K is the constant As illustrated in Figure 1b, a turbidity reading is obtained
+of proportionality between conductivity o and conduc- by measuring the voltage drop across a 1082 precision
+tance G: resistor for both the reference and sample detectors. The
+o= K.G. 6 measured voltages are used with Equation (5) to calculate
+g q
+turbidity. Before the first measurement is made, the lamp
+The cell constant depends on sensor geometry and has .
+i . 1 ; o is turned on and allowed to warm up for 2s. We delay
+dimensions (L7'). For simple geometries, K. can be . -
+i i . > | 0.5s between measurements to allow switching transients
+determined analytically, if the inter-electrode distance . .
+to decay. Power to the sensor is then turned off until the
+and electrode surface areas are known. Unfortunately, | .
+ductivi havi - . b s next measurement is to be made.
+conductivity Sensors law,ng Sl,mp € geometnies, such as Electrical conductivity is measured using the circuit
+parallel plates or concentric cylinders, tend to accumulate . . . -
+. i . shown in Figure 2. To avoid polarization effects, the
+debris between the electrodes when used in a glacial . . . B .
+. . : sensor voltage is measured twice in quick succession, with
+environment, Our sensors have been designed to avoid - .
+. . . the excitation-voltage polarity reversed between measure-
+clogging. Because of this design, the cell constants cannot . . .
+be d ined Wwiically. T lues for K. found ments. The two readings are averaged to obtain a single
+. etermm-e analytcally. 'hus], va uesd ord clal’ff ound value. This procedure constitutes an a.c. half-bridge
+by subn?ergmg the cl?ctrodes i the standard sofution an measurement and is a standard function on Campbell
+geasurmg the resistance R beit-w]an [her}r:. Since dataloggers (Campbell Scientific, 1989). The conduc-
+. 1/}?’_ these resistances are mu up ied by t, e known tance is obtained from the following relation:
+conductivity o of the standard solution to obtain the cell
+constants: G- 1 (Ve 1 ®)
+K. = Ro,. (7) Ry \V
+. . . . where V, is the excitation voltage, V is the measured
+Flectrical conductivity of aqueous solutions is strongly © ) 8¢, }
+p voltage and Ry is the reference resistance. Conductance
+dependent on temperature because the conduction i i N i
+B . . o . values, obtained by this procedure, are combined with the
+process is electrolytic and ion mobility always increases . . .
+R PR known cell constants according to Equation (6) to obtain
+with temperature. To minimize the effects of temperature o ) 5
+o B o conductivity. For optimal performance, values of V; and
+variation, our standard solution is held constant at 0°C ) . o ;
+. . . . Ry should be chosen to maximize output fluctuations
+throughout the calibration procedure. To achieve this, we - N
+. within the measurement range. Typically, we use an
+pass a cooled fluid through a curved copper tube that has o SRR :
+R . . excitation voltage of V., =250mV and a reference
+been placed in the bottom of the solution container. The .
+. . . . . . . resistance of Ry = 10k,
+solution is continuously stirred during calibrations to
+ensure a uniform temperature distribution.
+In a given year, all sensors are calibrated simul-
+& vean . . RESULTS AND DISCUSSION
+taneously in the same solution. Typically, we record
+solution temperature and sensor readings at 2min i . )
+. P . . ¢ < Examples of data collected using the sensors described in
+intervals for at least 40min using Campbell CR10 ) R
+o . . . this paper are shown in Figures 3 and 4. These data were
+dataloggers. To approximate the conditions under which i : ’
+. i - collected from beneath Trapridge Glacier, Yukon
+our sensors are used in the field, we apply an excitation of Territ Th ted | o illustrate the t
+. . rritory. They are presented here to illustrate the types
+9250 mV and use a nominal reference resistance of 10 k2 ¢ vy Y P . YP
+o B . of responses that we have recorded with our sensors; thus,
+(£2%) for each sensor. (The measurement procedure is o . | i
+. . . . . only brief interpretations are given. The interval between
+described in the following section.) For each sensor, the R, |
+: individual measurements for the data shown in these
+mean value of the set of measurements is computed. These | ) . .
+i R figures is 2min. For ease of plotting, we have omitted
+values are then used to calculate individual cell constants .
+: . every second data point from these records.
+according to Equation (7). ) i . : ) )
+A range of subglacial turbidity signals is shown in
+FIELD USAGE 'Flgl:l-fﬁ 3. The small-amplitude dlurnAal ﬂuCtl:lathnS shov_vn
+in Figure 3a are known to be associated with hydraulic-
+Installation head gradient, which we have computed from basal-
+water pressure measurements; turbidity is maximum
+We position our sensors ~ 0.25-0.5m above the bottom of  when the gradient is largest and is minimum when the
+the borehole. If a sensor is placed too low, it may become gradient is smallest. Such correspondence indicates that
+418

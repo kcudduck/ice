@@ -1,0 +1,23 @@
+Z M
+y B ¥4
+T<: O ®¢ 0.015 k)’ D¢
+X 1 1 1
+0.01 X
+0.005 0.5
+0.5 o5 > 0 0.5
+-0.005
+-0.01 0
+0 o -0015 0
+NumRock1 NumRock2
+001 0 001
+a b 9 c
+20 Numrock1, contact forces S 20
+15 il 15 ~ = Paug NR2
+= Zz
+o] =,
+g 10 2 10
+' 2
+5 5
+0 0
+0 100 200 300 400 0 100 200 300 400
+d Time [us] e Time [us]

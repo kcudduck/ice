@@ -1,0 +1,44 @@
+412 JOURNAL OF GLACGIOLOGY
+Where the ice sole was supported by water of a given pressure, the corresponding force
+per unit width at a nodal point P; was calculated as
+F; = o.5pwibi.
+Here py; is the water pressure at the depth of the point Py and by is the distance between two
+neighbouring nodal points P; ; and P;; on the interface. Because of the cantilever effect
+mentioned above, the extent of the area on which a given water pressure can act is not known
+exactly at the beginning. Thercfore, after running the program, it was necessary to make
+sure that the points on the edges of the separated zone did not move downward into the bed
+but parallel to the interface or upward. On the other hand, the pressure calculated by the
+program for a point remaining on the assumed ice rock interface ought to be larger than
+the given water pressure; if this was not the case the extent of the ice-water interface was
+changed and the program was run again.
+(b) Upper boundary
+Normal stress p and shear stress 7. on the upper boundary result from the weight of the
+ice layer on top of the modelled section. In a real glacier the drag of the valley sides reduces
+the shear stress. In order to account approximately for this reduction a shape factor f = 0.5
+has been assumed in the calculation of 74.
+Thus
+75 = [pgAh cos = sin « = 0.875 bar
+and
+ps = pgAh cos?a — 25.0 bar
+where Ak — 285 m and « — 4° (sce Fig. 2). p is the density of the ice and ¢ the acceleration
+due to gravity.
+Components of the force acting at a nodal point P; on the upper boundary are
+Fpi = 7sb; (unit width)/2
+Fai — psb; (unit width)/2
+st | I
+where b; is the distance between the two neighbouring points P; ; and Py, on the boundary.
+(c) Sides of the modelled section
+Since the stresses vary in a non-lincar way along the sides of the section, the force com-
+ponents in a nodal P; were calculated from the stresses at the three successive points Py, Py,
+and P;, on the boundary according to an interpolation formula commonly used in statics.
+The stresses on the lateral faces were, however, not known at the beginning and had to be
+determined by means of an iteration. In the first step these stresses were tentatively assumed
+to be equal to those on a vertical cut in a plane-parallel inclined slab of ice which is frozen to
+the bed. On this assumption, stresses in the interior of the modelled section were computed,
+from which the boundary stresses for the second iteration step were deduced as follows:
+Consider a line parallel to the y-axis which is drawn through a nodal point £; on the left side
+of the section. The points on this line at distances A, 2, and 3 from P; are labelled Py, Py,
+and P;,. ‘The arithmetic mean of the stresses in Py and P, was assigned to the boundary
+point P;. The same mean stresses but with opposite sign were allocated to the boundary point
+P;,. If the iteration were continued entirely in this way a possible superimposed Tongitudinal
+3 Y yal I g

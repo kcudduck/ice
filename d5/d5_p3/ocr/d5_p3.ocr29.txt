@@ -1,0 +1,69 @@
+DEFORMATION AND FRACTURE OF 1CE 131
+
+Mellor, Moy and Testa Re 196g[b]. Effect of temperature on the creep of ice. Jounal of Glaciology, V'ol. 8. No. 52,
+[T
+
+Nakaya. U 1050 Visco-clastic properties of snow and ice in the Greenland ice cap. .S, Snowe, lee and Permafrost
+Researeh Ftablishment. Rescarch Report 46,
+
+Peschanskiv, 1S, 1967, Ledovedenive 1 ledotelhnika. Lzdaniye 2-ve. dopolnennoye @ pererabotannoye | Glaciology and ice
+technology. end edition. angmented and revised |, Leningrad, Gidrometcorologicheskove Tzdatel stvo.
+
+Robin, Gode QL 1938, Glaciology. 1L Seismic shooting and related investigations. Norwegian British Swedish
+Antarctic Expedition, 149 52, Scientific Results, Nol. 5
+
+Savles, 1o and Epanchin, N\ Unpublished. Rate of strain compression tests on frozen Ottawa sand and ice
+[US. Cold Regions Rescarch and Enginecring Laboratory technical note, 1966.]
+
+Steinemani, S, 1058, Reésultats expérimentans sur b dynamique de laglace et leurs corrélations avee le mouves
+ment et la pétrographic des glaciers. Cnion Glodisique et Géophysique Internationale. Association Internationale
+£ Hydrologie Scientifique. Symposinm de Chamonix, 1624 sept. 195% p. 184-98.
+
+Vovtkovskiy, K. F. 1960, Mekhanicheskive stoystea Uda | Mechanical properties of iee]. Moscow, Lzdatel'stvo Akademii
+Nauk SSSR.[U.S. Dept. of Conmnerce. Office of Technical Services, Translation ANIS-T-R-3q1.
+
+Weeks, WL I g6, Studies of salt ice. U8 Cold Regions Rescarch and Engineering Laboratory. Rescarch Report 8o.
+
+Wilson. James Toand Hovethe ] N 1948, Bending and shear tests on lake ice. Transactions of the American
+CGeoplysical Union, \'ol. 29, No. 6, p. gog-12.
+
+Yakunin. AL E 1968, Tzmenenive modula deformatsii Pda v zavisimosti ot temperatury 1 veemeni deysiviva
+nagruzki [ Variations of the deformation modulus of ice in relation o wmperature and the duration of loading |
+Vinistersteo Visshego i Srednogo Spetsial nogo Obrazovaniya. Lzeestiva Vsshikh Uchebnibhe Javdenii. Stroitel steo
+Ukhitektura, Vom 11, Noo 50 pe g2 43,
+
+APPENDIN
+Frreer or HIE DOPING ON TENSILE STRENGTH OF POLYCRYSTALLINE 1CL
+
+\ few tests were made onice doped with hyvdrogen fluoride. Standard dumbbell specimens were treated with
+dilute hydrofluoric acid immediately after molding, and the hvdrogen fluoride was allowed o diffuse through the
+ice for about 3 months before testing. Estimated average concentration of HE i the e was 10 popamn. Tensile
+tests were made in the usual way, but sinee the LN strain gage system was not available for these tests the
+output of the external load cell was recorded as o function of time onan oscilloscope. Both the oscilloscope record
+and the Tnstron chart record gave stress as o function of cross-head displacement, but strains calculated from
+cross-head displacement for control specimens proved 1o be greatly in excess of the strains measured by the LADT
+astenn. Phus no reliable stress strain curves were obtained.
+
+Phe tests were madeat 7 G Coowith aomachine speed of 0.5 conmin (8.33 10 2 mm's). For ordinary
+e specimens this machine speed gave an average steain-vate of 2,28 = 10 55 £ but for T specimens the average
+crainerate would be lower than this. The results of four good tests on doped specimens gave tensile strength
+vanging (rom .10 1o g.g3 bar, with a mean value of g.62 bar. The tensile sirength of a control samiple of untreated
+ice tested at the same time was 22,4 bar, and the mean tensile strength ol ordinary ice tested carlier under the
+same conditions was 20.6 har.
+
+Tt has previously been shown ¢ Jones, 19671 Jones and Glen, 1960 that small aimounts of HIT in single crystals
+ofice at 70 Cand 20 C produce a diamatic lowering of deformation resistance and vield strength. The
+softening effect of HE apparently becomes less pronounced as temperature inereases. An’ explanation of the
+effect has been given by Glen (1968
+
+REFERENCES
+
+Glen, J. W o686, The effect of hydrogen disorder on dislocation movement and plastic deformation of ice.
+Physik der kondensicrten: Materie, Bdo 70 He o pepy 51
+
+Jones. S. J. 1967, Soltening of ice erystals by dissolved fluoride ions. Phisics Letters, Vol 258, No. 5. p. 366 67
+
+Jones, S, o and Glen, J.W. 1960, The effect of dissolved impurities on the mechanical properties of ice crystals.
+Philosophical Maga=ine. Fighth Ser. Vol 19, No. 157, p. 13 24
+
+<

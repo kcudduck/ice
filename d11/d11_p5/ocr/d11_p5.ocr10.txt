@@ -1,0 +1,17 @@
+60 20 .
+-=-210 /E\ Tetrakis Hexahedron
+- 50|-e150
+8 — 60 £18
+) o
+e N 16 o N .
+2 30 @
+o Qo
+[0] f © 14
+Q 20 =
+5 $ 12 .
+10
+'_
+<
+0 10
+0 10 20 30 40 0 60 120 180 240 300
+Time (min) Irradiation power (W)

@@ -1,0 +1,58 @@
+170 Bromirski and Stephen: Response of the Ross Ice Shelf to ocean gravity-waves
+a ; y 30 mhock ice shelf 0 d
+: § il | iV/ﬁ 8{ Compressional
+AZOO - ’ 3 " \ )‘ ¥ ' i E S Water thickness below the ice
+% 400- - LA N ) NS 6 is 100m in each case
+& 600 A\ 4 300m thick ice tes=t]
+’ \ 1 \\ 25 150m thick ice
+800+ 1N 12
+0 T 20
+b mesauw NGVl S ———— I g \
+[ ] :' \‘ \p Shear 2 = i
+_ 20 LN AV o5
+% 600 BN ) 8
+o / 0 o d F o5
+800 / 7/ / 7 1
+- e -10 0
+c R R R RS TR IO,
+Ice
+% 400 Frequency (Hz)
+& 6001 | ,
+800
+1000 2000 3000 4000 5000 6000 7000 8000
+Range (m)
+Fig. 6. TDFD model results for an icequake in a floating ice shelf over a 100 m sub-shelf water cavity. The time series of the source in particle
+velocity, analogous to acoustic pressure, has a Gaussian spectrum with a peak frequency of T0Hz. (a, b) TDFD model snapshots of the
+(a) compressional and (b) shear wave field at 1.725 s for an icequake at zero range and 150 m depth. Considerable energy interacts with the
+sea-floor. For long-range propagation, compressional and converted shear wave reflections and refractions from the sea-floor affect the
+vibration of the ice shelf. (c) The structure of the model. The dark blue bar in the upper left corner is the ice sheet, extending out to 4 km (with
+Vp=3800ms~', Vs=2194ms" and density of 917 kgm™). The water layer (light blue) has a typical sound speed gradient, with a free
+surface (air: thin white bar in top right-hand corner). The ice thickness is 300 m and the water thickness below the ice is 100 m. The sea-floor
+consists of 100 m of soft sediment (brown), 2 km of basalt with a typical crustal gradient (red) and 4 km of gabbro with a typical crustal
+gradient (not shown). (d) Transfer functions for two ice models similar to the model in (a—c), one with a 300 m thick ice shelf and one with a
+150m ice shelf. The transfer functions are computed from time series at the surface of the model and are normalized for the source
+spectrum. Prominent resonances are observed near 6 and 11 Hz. These preliminary results suggest that the resonance band at 10 Hz (Fig. 5)
+could be an elastic wave resonance in the ice-water-sea-floor system that is excited by icequakes forced by ocean gravity-wave impacts.
+modulus is 11 GPa and the shear modulus is 4.4 GPa. This  year. Second, ocean waters free of sea ice are a prerequisite
+Young’s modulus is comparable to commonly accepted  for swell generation by regional storms. As sea-ice cover
+values for ice at =5°C (Scambos and others, 2005), but is  diminishes, more swell energy from distant storms will
+about an order of magnitude larger than values determined  impact the ice shelves and there will be more swell energy
+from some ice-shelf and laboratory studies (Vaughan, 1995).  generated in regional storms. In essence, a significant
+Analyzing and modeling multi-station seismic data would  consequence of global warming may be that both the
+allow determination of the spatial variability of the RIS  seasonal duration and the magnitude of swell energy
+elastic moduli. reaching the ice shelf will increase. Larger, more intense
+storms also generate more long-period gravity-wave energy,
+which more easily penetrates the RIS sea-ice buffer. In
+DISCUSSION particular, larger more energetic North Pacific winter storms
+Projections of increasing atmospheric storm intensity and  (Bromirski and others, 2005a) will generate more swell and
+frequency, ranging from extratropical cyclones to hurricanes  1G wave energy that will reach the RIS during the austral
+(typhoons), suggest that ocean wave amplitudes may also ~ summer when sea ice is absent (MacAyeal and others, 2006;
+increase as the global climate system warms (Bromirski and ~ Bromirski and others, 2010).
+others, 2005a; Bromirski and Kossin, 2008). At least two The primary data sources for this study are the RIST and
+factors contribute to the hypothesized positive feedback  RIS2 seismometer data located relatively near the RIS front
+loop between global warming, gravity-wave amplitudes and ~ and close to a propagating rift system near the ‘hinge’ of the
+their impact on Antarctic ice shelves. First, because sea ice  Nascent Iceberg. This geometry may be responsible for some
+attenuates swell, continuation of the long-term trend of the  of the anomalous signals observed, perhaps causing hinge
+reduction of sea ice surrounding Antarctica (e.g. De laMare,  effect resonances that appear as spectral and coherence
+1997; Curran and others, 2003) will result in increased peaks in the RIS2 response. However, because the ice
+gravity-wave energy impacting ice shelves for more of each  structure of B15A is likely similar to that near the RIS seismic

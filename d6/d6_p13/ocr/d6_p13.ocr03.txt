@@ -1,0 +1,58 @@
+LIQUID AND GAS PHASES IN TEMPERATE GLAGIER 1CE 215
+oblique transmitted light provided the highest contrast and best viewing. In the upper part of
+the sample, where most observations were made, calculation ol the rate of absorption of
+radiation indicates that at most 10 ¢ fractional volume of the ice could be melied per hour
+ol continuous illumination. "I'o minimize internal melting from the lamp. it was turned on
+only when measurements were being made, and an aperture was used so only a small part of
+the sample was illuminated at any one time.
+
+T'hin sections of the core cross-sections were made from samples cut near the microscope
+samples. They were photographed under crossed polaroids o record textural information.
+Some thin sections and ctched surfaces were also examined divectly.
+
+3. OBSERVATIONS ON SAMPLES
+s Texture
+
+The number of grain-boundary intercepts per unit length of randomly oriented lines was
+measured on thin sections and ctched surfaces. The reciprocal is denoted by a and is a
+standard definition of grain size (McLean, 1957, p. 112). The number of three-grain inter-
+sections crossing unit area of section was also counted. This quantity is denoted by n. A«
+long as the grain texture is isotropic or 2 is counted on a number of random sections, the length
+[ of three-grain intersections per unit volume is given by [ — 2n (Smith and Guttman, 19535,.
+
+Although' there is no unique relationship between a and n. one expects for dimensional
+reasons that 7 - k/a*, where & is a textural parameter. On six thin sections which were
+measured with special care £ ranged from 0.8 to 2.1. Since water content and water flow are
+more direetly related to 7 than a, n is used in most of the subsequent discussion, and a corres-
+ponding approximatc grain size is based on a single value of & — 2.
+
+As expected from Allen and others (1960}, the samples usually fell into two basic textural
+types: fine ice with 7z x 5105 m * (@ x 2 mm) and coarse ice with 103 m 2 nol 2 10h
+m 2 romm < a <7 50 mm). lee of intermediate or mixed grain size was also present but
+in smaller amounts.,
+
+Over the depth range of the core hole, three distinet structural zones could be distinguished.
+I'he highest zone was a layer of snow about 2 m deep. Between the snow and depth 27 m
+there was a zone of mostly fine ice with only weak foliation. There were local occurrences
+of mixed or coarse texture. Most of the ice was bubbly, but there were several 1 10 2m
+lengths of perfectly clear core from depths of 1o, 20, and 235 m. Below 27 m. there was a
+transition over several meters depth to a third zone of mostly coarse-grained bubbly ice with
+well developed foliation dipping at angles of about 75 at 30 m depth and 6o at 60 m depth.
+In this zone. clear ice was restricted to relatively thin layers in the foliation pattern.
+
+Densities of 15 typical coarse bubbly ice samples were measured and 0.go Mg m 3 was
+found to be characteristic. Distributions of bubble size were measured in three typical coarse
+bubbly samples: these gave average bubble diameters ranging from 0.5 to 1.2 mm.  An
+additional measure of bubble content in two coarse bubbly samples was determined by
+counting the number of bubbles intersecting a line of known length randomly placed on a
+planc section. T'he average bubble spacing on such lines was 25 mm for a sample with
+a 21 mm and was 15 mm for a sample with @ — 14 mm.
+
+In order to investigate the distribution of bubbles with respect to grain boundaries, the
+number of bubbles touching the trace of grain boundaries was also counted for these two
+samples. In cach case the length of grain boundary trace was also estimated by the method of
+Smith and Gutiman (1953) using three orientations of a square grid with mesh about equal
+to a. The resulting estimates of the average spacing of bubbles along grain boundary trace
+were somewhat smaller 743, and 45",,) than along random lines. This suggests some con-
+centration of bubbles along grain boundaries, but with so few samples it is difficult to say
+whether this is characteristic.

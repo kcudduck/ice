@@ -1,0 +1,47 @@
+418 JOURNAL OF GLACIOLOGY
+(1) transient phases
+(a) instantaneous scparation, which is in our terminology the instantancous
+re-distribution of pressure by the action of the water pressure pyw;
+(b) various stages of growing or shrinking cavitics;
+
+(2) steady-state sliding over cavities which arc steady at the given water pressure.
+
+First a remark is due concerning the extent and effect of instantaneous separation. It
+has alrcady been mentioned that the separated zone is larger than that part of the ice sole
+which had originally been subjected to a normal pressure < py. In other words, when
+separation takes place, the pressure on the central, steep part of the separated ice sole is
+increased while it is decrcased along the edges of the separated zone. At first sight it may
+therefore appear that no net force change at the lee faces is accomplished by the action of the
+water. This is, however, not so since the separated zone is curved. Therefore, at the instant
+of separation, the positive and negative pressurc changes at the ice sole correspond to force
+changes which do not compensate. Indeed, the action of the water pressurc causes a net
+increase of the force exerted on the ice in the x-direction, in contrast to a slight decrease in the
+s-dircction. The incrcase of force in the x-direction causes an equivalent increase of pressure
+on the stoss face. This effect could also have been caused by an increase of the basal shear
+stress. In either case the sliding velocity increases—linearly with the driving force when the
+flow law is linear.
+
+It has been seen that the effect of a water pressurc py on the sliding velocity is largest at the
+instant of separation and then gradually decreases until steady cavities have formed. Tt is
+informative to compare the distribution of forces on the ice sole in the different cases; for
+illustration a particularly simplified bed will be considered. In Figure ga the mean normal
+stress on face a, and on face a, is equal 10 p,, the ice overburden pressure. The mean normal
+stresses on faces a, and a, are p, = p,—Ap and p; = po-+ Ap, respectively, where the magni-
+tude of Ap depends on the basal shear stress. If a water pressure py = p, separates the ice
+from the faces a, and exerts an additional force on the ice sole, the stress on a; increases to
+by = (pw—po) —py Figure ge shows the situation when cavities have grown under the
+influence of the water pressure py. The mean stress on faces ayis still py'. "The stress on a,,
+however, is reduced to py while the stress on ay is increased to p," = (poa, (po—pw) az)/a,.
+Itis only this re-distribution of pressure on troughs and crests which causes the differences in
+sliding velocity at the beginning of cavity growth and when steady cavitics have formed. The
+larger pressure in the wave troughs during the phase of cavity growth permits flow along
+
+Po Py
+[
+M ﬂ
+| . I 3
+ay 3 f
+Py
+ST
+Fig. 9. Typical stress distributions, illustrated with simplified glacier bed. a. Stress distribution before waler at a given pressure
+P has access lo the lee faces; b. a water pressure py = p1 acts on the lee faces; c. cavities have formed.

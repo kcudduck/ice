@@ -1,0 +1,45 @@
+404 JOURNAL OF GLACIOLOGY
+
+frequency axis (10 points per inch) and were then put on punch cards. Computer data
+processing averaged the signal intensity level within frequency increments 38 increments for
+the [requency band covered) and prepared in tabular form values of signal intensity level
+under colmm headings of transmission range and row headings of frequency. Tt should be
+pointed out that. as part of the computer program. these signal levels had been range corrected
+10 allow for beam spread of the transmitter. The directionality characteristics of the trans-
+ducers when immersed in the oil-filled eylindrical holes in the ice cover had been investigated
+and it was found that they behaved essentially as point sources in these conditions.
+
+In the next step of the analysis, signal intensity level was plotted as a function of range foy
+cach of the frequency increments in turn, producing 38 graphs. The straight line of best it and
+its slope was computer calculated for cach graph using the method of least-squares. These
+
+35
+30 .
+Los
+Q
+S o)
+=z 20
+9 R
+=
+<D(
+15
+Z
+8] .
+—
+- .
+<0 / ..
+10 20 50 100 200 500
+FREQUENCY (kHZ)
+Fig. 4. Attenuation coefficient as a_function of frequency.
+slopes should have established values of the attenuation cocflicient and its variation with
+frequency. However, some of the data points on the graphs were obviously spurious. a not
+uncommon occurrence in acoustical measurements. Points which deviated most from the
+line of best (it were removed one by one, recaleulating a new line of best fit cach time, until
+the scatter was limited o within 5 db.
+
+The final results of this procedure are shown in Figures 1, 2 and 3 for the three series off
+measurements with transmitting transducers of respectively 6, 4 and 1in (15, 10 and 2.5 cm)
+diameter. In cach diagram, the ordinate is received signal as intensity level in decibels and the
+abscissa is the length of the transmission path or range in feet. The series of graphs display the
+measured points and the lines of best fit at the various frequencies. The two columns beside
+the graphs list the relevant frequencies in order of increasing magnitude and the corresponding

@@ -1,0 +1,14 @@
+1
+—— Normal operating nozzle
+—— Nozzle failure
+0.5
+% 0 ‘ ‘ "bvawa,.‘
+g TV
+wv
+Q -05
+Q
+o |
+-1
+-15
+0 10 20
+Time [s] x10~°

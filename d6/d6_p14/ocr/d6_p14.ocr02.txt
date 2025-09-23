@@ -1,0 +1,55 @@
+408 JOURNAL OF GLACIOLOGY
+
+Change of thickness of the lubricating water film between ice and bedrock (Weertman,
+
+1962).
+Deformation of saturated sediments below a glacier (Boulton, 1979: Jones, 1979).
+Participation of subsole drift in the sliding process (Engelhardt and others, 1978;
+Kamb and others, 1979; Boulton and others, 1979).
+
+Slip along water-activated shear planes within a glacier (Tyulina, 1976).
+If the velocity variations are indeed caused by short-term water-pressure variations which are
+synchronous over large arcas of the glacier bed, then high permeability of the subglacial
+drainage system is an essential assumption. This requirement is best satisfied if bed separation
+is extensive. Extensive bed separation also provides an appropriate explanation for the
+variations of vertical velocity which may then be understood as the result of simultancous
+growth (or shrinkage) of subglacial, communicating cavities. It thus appears probable that
+the velocity variations in the quoted field examples were a direct consequence of sliding over an
+undulating bed with bed separation conwolled by a varying subglacial water pressure.
+Certainly, other mechanisms may have played a part: in particular, friction between rock
+particles in the ice sole and below has probably modified the observed variations of the sliding
+velocity. The present paper will be confined, however, to an understanding of the principles.
+It concentrates on the idealized problem of sliding on a perfectly lTubricated bed with the
+action of an imposed water pressure. To a large part this problem is well known, owing to the
+comprchensive sliding theories of Kamb (1970) and Lliboutry 1968, 1979). The pioncering
+ideas on the action of the subglacial water pressure were developed in the original work of
+Lliboutry, yet the transient stages of cavity growth and shrinkage have not been analysed so
+far. It is exactly these phases, however, which seem to determine the velocity variations in
+question.
+FUNDAMENTAT CONSIDERATIONS OF THE EFFECT OF THE SUBGLACIAL WATER PRESSURE ACTING ON
+
+A GLACIER SOLE WITH NON-UNIFORM PRESSURE DISTRIBUTION
+
+Tn the absence of a basal shear stress the pressure which the ice exerts on its bed is every-
+where p,, the ice overburden pressure. If. however, the basal shear stress is not zero, the
+pressurc on the bed is no longer uniform, but is larger than p, on the stoss faces of bedrock
+protuberances and smaller on the lee faces, so that equilibrium of forces is maintained. It is
+in the low-pressure zones at the lee faces where a change of water pressure caused by, say, a
+change of water input into the subglacial drainage system can aflect motion of the glacier even
+if the water pressure stays well below the ice overburden pressure. I'he lower bound of water
+pressure which has an effect is the minimum pressure occurring at the lee faces, the separation
+pressure. At a larger water pressure a part of the ice sole is separated from the bed. The
+scparation pressure has been introduced and given in quantitative terms in the sliding theories
+of Lliboutry (1968). Nye (196g), Kamb (1970), Morland (1976). and others. For the special
+case of a sinusoidal bed the separation pressure py is
+
+AT .
+ps=ho (1)
+where = is the basal shear stress, A the wavelength, and a the amplitude (one half of the
+difference of the maximum and minimum of the sine function).
+
+Another important paramcter is the limiting water pressure above which the sliding
+becomes unstable, that is to say, a non-zero acceleration term enters into the balance of forces.
+This pressure is well below the ice overburden pressure. C. I'. Raymond and H. Rothlisberger
+(personal communications) have independently arrived at the prediction of this pressure and
+have derived an explicit expression.

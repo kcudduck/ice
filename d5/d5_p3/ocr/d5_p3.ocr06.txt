@@ -1,0 +1,51 @@
+106 JOURNAL OF GLACIOLOGY
+PESTING EQUIPMENT
+Loading machine. The basic loading device for all tests was a screw-driven Instron universal
+testing machine. model TT-BNM-L. with a capacity of 500 kgl (x5 000 N and head speeds
+from 5 10 5 to 5.0 em min. The loading unit was housed in a cold room. with the control
+unit and read-out system outside the cold room. Communication between operators inside
+and ouside the cold room was by telephone, and there was a frost-free window in the cold-
+room wall
+For tests at speeds higher than 5 cmomin a special variable-rate loading deviee was built.
+I'his was a dashpot-controlled actuator operated by compressed air introduced through a
+solenoid valve. Calibration tests gave actuator speed as a function of input pressure and
+dashpot setting. The variable rate loading device was bolted to the Instron testing machine
+<o that the pulling system and load cells used for low speed work could still be used.
+LOAD CELL |
+CONNECTOR
+= —y
+i
+i
+ficaBLE
+i
+T e
+q’?ﬁ‘j—\,{END cupP -
+R i A g
+Lot B O | LvoT
+DEFORMATION HOLDER
+GAGE | s TEST
+° i SPECIMEN |
+| {
+/| | orce
+¢ /| | BOND
+i /
+E | 4%l V& 777977
+CLAMP v NOSS 4
+[ N |
+SCREWKI \ah,){) - y
+oy —N ol Soider fil
+-8 SCREW ¥ ) Pl ,'"\,\
+A i ; p
+4 V v~
+\ - J\/ IEIQIPi 2
+m LJA 6 )
+= 1ZIR 1 |
+CABLE REN /
+i Anchor Details
+.
+j ICONNECTOR
+To testing machine
+N crossheod
+. ‘
+a)
+Fio. 6. Tensile testing arvangements : () pulling systens and LVD'T gages: b detail of connector.

@@ -1,0 +1,68 @@
+Stone and others: Subglacial measurement of turbidity and electrical conductivity
+turbidity signals of this type are associated with water  ure 3b—is indicated. Signals of this type could be
+flow. The general rising trend apparent in this signal is produced if water-flow passageways developed in the
+due to chemical interaction of the 1989 casting resin with  vicinity of the sensor or if the sensor was carried by glacier
+basal water—confirmed by removal and post-mortem motion over an arca in which drainage was already
+examination of another 1989 sensor. This deficiency was established.
+corrected in subsequent years. Typical subglacial conductivity records for Trapridge
+
+A large-amplitude turbidity event is illustrated in  Glacier are shown in Figure 4. The S.1. unit for electrical
+Figure 3b. Prior to this event, there were no indications of conductivity is Siemens per meter (Sm™'); we have
+subglacial water flow; evidence from this, and other  expressed our results as micro-Siemens per centimeter
+sensors, suggests that basal water was ponded over a part (uSem™') because this is the more commonly used unit.
+of the glacier bed. The rapid rise in turbidity coincided The data shown in Figure 4a were obtained from a sensor
+with large changes in basal-water pressure and electrical — that had been in place at the glacier bed for a full year;
+conductivity, as observed by many sensors in different this sensor was originally installed and used in 1989. At
+locations. Following this event, a rclease of basal water  the beginning of the 1990 field season, the lead wires to
+was recorded in a proglacial outlet stream and subglacial this sensor were uncovered at the glacier surface and the
+sensors indicated a return to ponded conditions. These  sensor was re-attached to a data logger. The large drop in
+observations suggest that a sudden and temporary re- conductivity on day 204 coincides with the turbidity
+arrangement of the drainage system took place and was  event that was discussed in connection with Figure 3b.
+accompanied by release of stored basal water. Reduction in electrical conductivity suggests that an
+
+A large turbidity rise, followed by a period of small- infusion of fresh surface water — thereby diluting miner-
+amplitude diurnal oscillations, is evident in Figure 3c. In alized basal water—accompanied this event.
+this case, a change in subglacial flow conditions less A long period of gradually increasing conduciivity is
+abrupt and longer lasting than that shown in Fig-  shown in Figure 4b. Similar trends, on various time-
+
+scales, are also evident in Figure 4a. Such behavior may
+indicate increasing ion concentration with increasing
+—~ 153 contact time between water and basal sediments; in
+TE 151 1989 a hydrology, it is well known that the conductivity of storm
+£ run-off or ground water depends on the amount of time
+149 spent in contact with sediments (e.g. Pilgrim and others,
+a 1979). Note that the increase in conductivity on day 192
+E 147 coincides with rising turbidity, as shown in Figure 3c.
+=) Unlike the 1990 “event” illustrated in Figures 3b and 4a
+= 145 in which there was an inverse relation between turbidity
+188 196 204 212 220 and conductivity, the data in 1991 show a direct
+correspondence. In contrast to the 1990 example, the
+P 80 1990 b direct relationship suggests that the two 1991 sensors were
+£ 60 ’ hydraulically isolated from each other but were still
+~ subjected to the same glacier forcings.
+40 We have run sensors of both types at intervals ranging
+a from 2 to 20 min for more than a year without failure.
+g 20 The continuous records shown in Figures 3 and 4 are
+= evidence of the reliability and longevity of our sensors.
+0 Another attractive feature of these sensors is their low
+188 196 204 212 220 cost; the parts for either sensor can be obtained for
+215 roughly U.S. $10.
+T’\ c Because of their low cost, it is feasible to deploy
+£ 185 subglacial arrays of turbidity and electrical conductivity
+= sensors. Arrays of these sensors can be used to estimate the
+& 155 rate and direction of water flow at the bed. For instance,
+é when boreholes connect with the subglacial drainage
+E 125 system, nearby sensors register turbidity and conductivity
+E 1991 pulses. We have employed conductivity sensors in
+951 88 196 204 212 220 bor.cholc-m-borehole tracer tests successfully, usix?g
+DAY ordinary table salt as the tracer. The data shown in
+Figure 4 suggest that clectrical conductivity may also be
+Fig. 3. Observations of subglacial turbidity from different used to estimate the residence time of subglacial water.
+sensors beneath  Trapridge Glacier, Yukon Territory,
+during three consecutive field seasons: 1989 (a), 1990
+(6) and 1991 (¢). Day 188 corresponds to 7 July. These CONCLUDING REMARKS
+data illustrate the wide range of responses that we have
+measured with our sensors— from small-amplitude diurnal In some respects the subglacial environment is better
+Sluctuation (a), to large-amplitude turbidity events (b). suited than the subaerial one for measurements of
+Both response types are evident in (c). turbidity and eclectrical conductivity. Although risk of
+19

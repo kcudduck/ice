@@ -1,0 +1,10 @@
+a) b)
+Transformer High Voltage (HV) Electrode electrode
+220V/100KV
+Variable voltage Tested cell
+source N |
+0-250V AC RN TRR
+Dielectric fluid
+Ground electrode
+= Ground
+Treated rock specimen

@@ -1,0 +1,55 @@
+DEFORMATION AND FRACTURE OF 1CI 127
+smooth curve over more than g orders of magnitude: there are no distinet linear sections and
+abrupt transitions. such as are sometimes scen in discussion of “power-law™ creep. nor s there
+much indication of a drop in strength attributable to onset of brittle fracture. In tension, an
+upper limit of stress was reached at a strain-rate of order 1o+ s ' although the stress strain
+diagrams continued 1o show noticeable curvature up to about 10 5 1. In compression. it
+appears that an upper it of stress is being reached at a strain-rate of 1o 2« and at this
+strain-rate the stress strain diagrams cease (o show noticeable curvature, The curves for
+tension and compression bilurcate at 1o 05 1
+
+1077 | i rr, ]
+0°ca/ by i
+/ o]
+/’?" Il
+11/ o
+-6, /-10°C
+1077 [/ mericr —
+t ng 1
+b /] b smin |
+f 4 Tser |
+-2°c [/4
+Mellor /
+Testa [/
+10 7 \9697;/' / {
+f /] a-20% 1
+! /4 |
+- IS |
+o //n‘ 1
+= | /5 |
+© . //
+-4°C //
+= I Mellor . //A 1
+! | and h d/
+< —sl» Smith // -
+s 10 967 //
+v ' ' 4-40°C
+o J
+<079 —
+a-60°C |
+- Mellor
+10710 ond —
+Testa 1
+19690 1
+[ele]] [eX] 1.0 10 100
+Axial Stress, bar
+Figo 2go Relationships betweeen stress, strain=rate and temperature given by uniaxial compressive creep fests ab constant sress
+! g
+Since there is probably a direct relation between ereep and yielding, relationships pre-
+viowsly established for secondary creep - Mellor and Smith. 1967 Mellor and Testa. 1966[1 |
+are expected to give dependence of vield stress tor strength ) on strain-rate and temperature
+Fig. oy
+A already mentioned. there is a widespread belief that strength initially inereases with
+strain-rate, eventually reaching a maximum and thercalier decreasing o an asvimptotic limit
+tor high strain-rates. The strength maximum and the strain-rate associated with it tend 1o be
+regarded as eritical values for a transition from ductile o brittde failure. Korzhavin and

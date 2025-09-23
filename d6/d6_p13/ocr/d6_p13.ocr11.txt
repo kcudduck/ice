@@ -1,0 +1,55 @@
+LIQUID AND GAS PHASES IN TEMPERATE GLAGIER 1CE 223
+5. RELATION TO in silu CONDITIONS
+
+The relation between conditions in the ice as seen under the microscope and the i situ
+conditions in the glacier, where the stress and temperature environments are different, is
+considered in this section.
+
+5.1. Bubbles
+
+The bubbles isolated from the veins always contained water at the time of observation,
+but the i situ liquid content was probably small or zero. More details are given by Raymond
+in press).
+
+T'he pressure in the veins probably dropped from its in sitw value to near aumospheric
+pressure while the core was being raised 1o the glacicr surface. "The gas bubbles touching
+veins should have expanded into the vein network 1o reach the sample surface and relax the
+bubble pressure. During the inidal stages of this process. Equation (2h) and the pressure
+gradient expected from the in sitw bubble pressures and the core size predict that water should
+have been forced out of the veins at speeds in excess of millimeters per second. This is so rapid
+that the process probably happened progressively as a core was brought to the surface. At
+the time of observations. some sporadic motion of the ends of gas columns still was occurring
+but was less than about 1 mms . This was caused possibly by small residual excess gas
+pressure, readjustment of capillary forces with vein-size change, or by exsolution of dissolved
+air. During the large initial pressure relaxation. the expulsion of gas was possibly along
+favored vein paths because of the range in vein size (Fig. 7). and the vein liquid being forced
+toward the core exterior probably would have been trapped in intervening bubbles. There-
+fore. the process was not necessarily accompanied by a gross expulsion of the original vein
+liquid.
+
+The pressure velaxation could have produced air columns extending from bubbles into
+veins as seen in the samples. Teis doubtful that this was the in situ configuration hecause it
+cannot be in local thermal equilibrivim. Where such columns exist, the air pressure in the
+bubbles exceeds the vein water pressure by pe Section 1.5, From Equations (5 and (4a)
+the temperature depression in the bubbles from pe is Bpe — 2.0+ 10 8y L1z thisis Targer than
+the temperature depression from wall curvature in the veins given by =/ .l x 0.82 < 10 ¥
+\ L Ifdiffusion of impurities can occur and even out differences in concentration between
+the vein liquid and any liquid on the walls of bubbles. then bubbles would be colder than veins.
+At the other extreme. if gas only partially fills the volume ofa bubble cavity. then the thermal
+effect of capillary pressure is eliminated and the veins are colder than the bubbles. A stable
+configuration is probably an intermediate one in which the gas liquid meniscus lies within
+the bubble vein orifice at a location such that its curvature produces a pressure difference
+which just balances the effect of vein-wall curvature.
+
+5.2. Lenses and other isolated liquid inclusions
+
+Because of the elastic anisotropy of the ice erystals, it seems probable that certain sub-
+volumes and grain faces continued 1o experience compressive stress for some time after the
+core was raised 10 the glacier surface and the exterior pressure had dropped. In such zones
+the pressure inisolated inclusions could have heen larger than the pressure in the veins or on
+the sample exterior. Heat flow from the veins or the exterior could have caused the growth
+of lenses on grain boundaries ' Nye and Mac. 1972) or liquid pods on certain three-grain
+intersections for which grain-boundary energy relationships preclude the existence of stable
+veins, Because the ice was initially cold and the veins contained impurities. the growth of
+such inclusions could have heen blocked at fisst. However, the ice and veins could have
+warmed rapidly as is discussed in Section 5.5,

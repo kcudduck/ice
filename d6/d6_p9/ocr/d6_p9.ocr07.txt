@@ -1,0 +1,69 @@
+Walder:  Hydraulics of subglacial cavities
+Now let Gi be the gradient that would apply for a conduit
+N along the ice-flow direction, and let T be the tortuosity of
+AN the actual cavity network, defined as
+I, . ~ lharow * lwide
+. wide T= I (A-8)
+6’;/_ i
+4
+where /; is defined in Figure 3. The average hydraulic
+d narrow gradient <G> along the cavity network may therefore also
+| \5/ be expressed as
+i .
+G
+G> = —- (A-9)
+T
+Lquating the two expressions for <G> and using Equation
+ice flow (A-4), one finds after a bit of algebra:
+1 1
+narrow
+I+ [—]
+G- lviae
+Opige = 7| = |. (A-10)
+Lnarrow) [ Ruide 71073
+L+ [ |—
+Lyide narrow
+Supposing, for example, that T = 2 (perhaps an under-
+nds
+) Gige ® 0.05G;
+- ) It seems clear that the hydraulic gradient in the wide
+Fig. 3. Schematic view of cavity network with constrictions. sections of the cavity may be only a very small fraction of
+the hydraulic gradient that would obtain in conduits along
+N i the ice-flow direction =
+where 1 assume m to be umfnrm_fﬂong _\’he \.a\'m] )net‘}mik The mean flow rate U through the cavity network may
+The relative values of the hydraulic gradients are therefore also be readily related to the flow rates in the different
+sections. The time required for a "parcel' of water to
+. . traverse the narrow section is
+Grarrow Ryide 11/3(Pes narrow) !
+— | — —_ . (A-3)
+Guide narrow Pe> wide [—
+_ Inserow = (A-11)
+The difference in p, between adjacent narrow and wide narrow
+sections will not be large in comparison to pg. so to a good . ) )
+approximation and similarly for the wide sections,
+G R, 10/3 Luide
+narrow wide
+—_ = [—] . (A-4) Lwide = % (A-12)
+Gride R sarrow wide
+It is clear from this expression that the hydraulic gradient where l',n.‘rruv{ and U, are  the fk’”f‘ rates for the
+in narrow constrictions may easily be one or two orders of respective sections. The mean flow rate U is defined as
+magnitude greater than in wide parts of a cavity.
+To estimate the actual value of G, consider again [ O L
+Figure 3. The total drop in hydraulic gradient 4¢ through U= l‘+t B (A-13)
+the combined narrow and wide parts of the cavity is narrow wide
+B - Straightforward algebra leads to the resul
+8¢ = Gyroulnarrow + Gwidelwide (A-5) : e
+where /. and [/, are the lengths of the respective L arrow
+cavity segments. The average hydraulic gradient <G> along ZI I+ —I )
+the cavity network is therefore - wide
+U N - (A-14)
+s wide Lnarrow Uside
+Gy = — (A-6) I+ o .
+lnarrow * Luide wide narrow
+. . B ] . .
+or using Equation (A-5) élm; "K;’;‘ be less than U, oso if £ /1 << 1 one
+Grarrowlnarrow * Owidelwide (A7) .
+Gy - I . U= Uy, (A-15)
+narrow wide
+MS. received 15 April 1986 and in revised form 17 July 1986
+445

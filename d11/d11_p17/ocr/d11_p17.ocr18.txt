@@ -1,0 +1,5 @@
+1 mm
+3 pits 3 pits ’
+High Low .
+1 pit 2 pits
+Low Low |

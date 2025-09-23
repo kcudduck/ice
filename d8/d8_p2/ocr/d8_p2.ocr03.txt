@@ -1,0 +1,13 @@
+: : 100000
+
+_ 120000 | ,, 1000 [ERCREER S ¢ § -
+& 100000 150 § E % TR | 150000 &
+8 80000 = £ [ 60000 §
+5 60000 g1 £ l i 5
+£ 20000 = 1 : £
+
+0 0 3000 : 0
+
+35 4 455 55 6 0 10 20 30 40 35 4 45 5 55 6
+
+Frequency, mHz Reduced Vertical Displacement Frequency, mHz

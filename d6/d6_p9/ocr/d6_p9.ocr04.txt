@@ -1,0 +1,84 @@
+Journal of Glaciology
+The lower limit on allowable values of p,, which I will the water pressure in an imercon.nected cavity system rose
+denote by pg™", should be in the range of physically to values high enough to stop cavity closure, the amount of
+reasonable values. To calculate pem'"‘ I take the flow-law ice—bedrock separation would increase rapidly, lowering the
+parameters n and A to be 3 and 5.14 x 107 Pas!/3, effective bed roughness and causing accelerated sliding
+respectively (Lliboutry, 1983, p. 220). R is probably on the (Iken, 1981; Tken and others, 1983; lken and Bindschadler,
+order of 0.1 m, a value suggested by measurements of uplift 1986). It is likely that flow through the interconnected
+of glacier surfaces (Iken and others, 1983; Kamb and cavities could be "short-circuited” by rapidly growing R
+others, 1985; Iken and Bindschadler, 1986) and by observa- channels oriented along the ice-flow direction. "Leakage" of
+tions of deglaciated bedrock (Walder and Hallet, 1979; Hallet water from cavities by way of a thick water sheet is less
+and Anderson, 1980); the weak dependence of pe"‘“" on R likely because of adverse pressure gradients near cavity
+(pe™" = R¥® for n = 3) means that a ten-fold change in margins (cf. Rothlisberger and Iken, 1982); moreover, any
+R will change p,™" by a factor of only about 1.7. The sheet-like leakage would be unstable relative to channelized
+Manning roughness is probably on the order of 0.1m /35 leakage (Walder, 1982)
+(Réthlisberger, 1972, p. 181, table I). Estimation of the I suggest that, once the "short-circuits” develop, the
+hydraulic potential gradient G is somewhat more problemat- drainage network will evolve along one of two paths. In the
+ical. The tortuous flow paths in an interconnected cavity first, which is related to the scenario proposed by Kamb
+system will reduce G below the values of ¢. 10%-10° Pa/m (in press) in relation to glacier-surge termination, the newly
+that would likely obtain in R channels along the ice-flow created R channels rapidly grow and capture the melt water
+direction (e.g. Weertman, 1972, p. 293). Moreover, the likely previously carried by the interconnected cavities. An
+existence of constrictions in the cavity network may have a arborescent network of R channels develops. This is
+large effect on G in the "wide" cavities on which we are probable only if the total melt-water discharge through
+focusing; as shown in the Appendix, much of the hydraulic these unfavorably situated R channels (which must cross
+potential drop may occur in fairly short constrictions (as high-pressure regions of the bed) remains very large,
+also stressed by Kamb (in press)). I therefore estimate G to leading to the high melting rates necessary to overcome the
+be c. 10-10? Pa/m in the "wide" cavities. Using the above relatively high rates of creep closure. If the melt-water
+estimates and taking vi = L1 x 10 m® kg™ !, discharge. is not sufficiently high, the drainage system will
+vy = 103 m3 kg, ¢ =98m s m=01m 1/3 s, and evolve differently; either newly formed R channels will be
+H =33 x 10°Jkg'!, one finds squeezed shut before an arborescent R-channel network has
+time to develop, or such a network may form, but only
+pe™™ % 1.8-5.7 x 10° Pa (1.8-5.7 bar). temporarily. Collapse of these R channels will essentially
+restore the former interconnected cavity system. This latter
+The upper bound on this estimate seems somewhat large — evolutionary palhﬂresemb!es that suggested Dby lken and
+certainly, smaller values of p, have been measured at others (1983, p. 36). It is also noteworthy that 'lken_ and
+glaciers that are apparently not behaving unstably (e.g. B?ndschadler “986‘) found ‘the g VEISUS Dy relationship at
+Engelhardt and others, 1978) — but the estimated values of Findelengletscher is essentially hme—.mvanant, despite the
+pemin are certainly in the range of physically plausible occu_rrence of 5§veral_lmrge perlu_rbatxons causcd_ by d(_)wn—
+values. glacier propagating disturbances in the subglacial drainage
+The notion of a water-pressure threshold at which network.  Apparently,  this  network, which lken and
+interconnected  cavities would become  unstable  was Bindschadler concluded is cavity-dominated, was able to
+apparently first advanced by Iken (1981, p. 34). On the recover from the effects of the high-pressure disturbances.
+basis of simple force-balance arguments rather than any i
+explicit model of cavity formation, lken gave the minimum Flow rates in the subglacial drainage system
+effective pressure for cavity stability on a "wavy" bed as AThe rate of movement of melt water through the sub-
+glacial drainage system, as determined from dye-tracer
+i T studies, has been used to infer characteristics of that system
+Pt = —— (14) (e.g. Stenborg, 1969; Krimmel and others, 1973; Burkimsher,
+an B 1983). It is important to recognize that flow rates may be
+quite different for various drainage configurations.
+where T s the basal shear stress and 5 is "the angle The mean flow rate U for a conduit may generally be
+between the steepest tangent on the stoss faces of bed defined as
+obstacles and the mean bed slope". For T on the order of
+0.1 MPa (1 bar) and 8 ax NO more than a few tens of N 0
+degrees, p,™" from this criterion would probably be less U = — (16)
+than ¢. 1 MPa (10 bar). N
+Kamb (in press) has proposed that an interconnected
+cavity system will be unstable to pressure perturbations at where @ is the volumetric flux and § is the cross-sectional
+sufficiently high water pressure. Based on a formal analysis area. For a cavity, Equation (10) implies that
+of cavity formation rather more complex than presented
+above, Kamb predicted that (in our notation)
+. nM3 . G W2 -
+) GR7/S"i Ucamy = [T] [—“u“““-“—g ] R*¥mt, (17)
+pein S (15) 1
+ugm .
+
+Before estimating numerical values for Ucamy, it is critical
+where 7n; is the effective linear viscosity of the ice. to recognizg (_hn! any ph_ysxcally plausible cn\'i(y system will
+Equa(ionl(lfi) and Kamb's expression (Equation (15)) are have constn:tmfls in \».hnch the flow cross-section s .grcn(l)
+similar, though not identical, for n = | (in which case 4 is rgduced (cf. Kamb, m_ press; see also field studies by
+equal to "i)' One obvious difference between the two Walder and Hallet‘ (1979) and ‘by Hallet and Anderson
+expressions is that sliding speed ug does not enter explicitly “980).)’ .AS shown in the Appendix, the peourrenee of such
+into Equation (13). This might be related to the fact that, constrictions nearly always leads to the condition
+ur}hke Kamb,. I have not explicitly examined the hydraulics l_' . l_/ (s)
+of the constrictions between cavities. Kamb has argued that cavity wide
+such constrictions (which he calls "wave cavities") differ R - . .
+significantly in their hydraulic characteristics from the larger “I‘C.Ie Ihc; subscript Mwide x?lels " _the x‘elr\\_x\'ely“ e
+“step cavities” (cavities typically formed at the lee of bed- sections o! the cavity. 1 lhersiorg restrict the dfscussxon to
+slope discontinuities) that 1 have analyzed here. those sections. .h is :.llsu sh()wn.m the .Appcndns t_l\ul the
+
+Despite uncertainty over the detailed nature of the h_\dr;.nfhc gradient in the wide sections satisfies the
+parameters controlling the instability, it does seem clear that condition
+a system of interconnected cavities will be unstable at N N
+sufficiently high water pressure. It seems probable that, if Owide << Gchannel (19)
+442

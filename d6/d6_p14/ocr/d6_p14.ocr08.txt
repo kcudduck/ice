@@ -1,0 +1,46 @@
+414 JOURNAL OF GLACIOLOGY
+RESULTS OF THE NUMERICAL MODELLING
+List of numerical values to which results refer
+
+ice density p — 0.9x 10 kg m—3
+
+viscosity 7 — 2.273> 105 Pas (= 7.208 bara)
+
+mean bed slope o = 4
+
+period of bed undulation A =z20m
+
+amplitude a=1.5m
+
+shape factor, assumed for calculation of shear /=05
+
+stress above the modelled section
+
+shear stress on top of modelled section® 7« = 0.875 bar = 8.g2 t/m?
+
+basal shear stress (at = = o, Iig. 2) 7 — 1.020 bar = 10.49 t/m?
+
+ice overburden pressure (at z — 0) po — 27.2 bar — 277.6 (/m?
+
+maximum slope of stoss faces in finite-clement  f—=x = 23.3 —4" = 19.3"
+
+model
+
+limiting water pressurc = 24.8 bar = 253.3 {/m?
+
+The flow on a nearly sinusoidal bed was modelled as a reference. Then the shape of the
+lee faces was modified while the shape of the stoss faces and the periodicity were held un-
+changed in all cases studied. "The velocity fields on the nearly sinusoidal bed and on a bed
+with steeper lee faces are shown in Figure 4h and a. Figures 5a to 6b illustrate the eflect of
+water pressurc py — 24.1 bar. In Figure 5a and b the stage at which cavity growth begins
+on the beds of Figure 4a and b is shown. Figure 6a represents the sliding over water-filled
+
+a Tt ‘\\~_>_—-'>4_’_‘;\~\\\‘ \‘AA-
+- - - e NS - - -
+[ [ Y U pene
+b et e e T T T T
+20mm/d ~2 “—'_", B T U7
+0 5m ) 1 e -
+Fig. 4. Velocity feld in Newtonian liguid on a perfectly lubricated bed swith periodic ndulations. a. Bed with steep lec faces;
+b. nearly sinusoidal bed. The scale of the velocity vectors refers to a viscosity 1 = 2.273% 10" Pas (= 7.208 bar a).
+* A column of water, one metre high, exerts a pressure of 1 t/m?2.

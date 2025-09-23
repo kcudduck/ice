@@ -1,0 +1,18 @@
+e Gabbro
+Run #090308
+—_ negative ions
+L100 |2
+A 2
+e g e
+AE
+5 3
+O 6 1.5 msec l
+= :
+H Time {msec]
+v 20,000 T
+S =
+D 20 10,000 F
+=z 2
+[ = 0
+2350 2385 2420 2455 2490
+Time [sec]

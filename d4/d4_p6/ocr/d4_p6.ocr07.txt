@@ -1,0 +1,10 @@
+4 1
+——PTFE
+---- Alumina
+|z LN
+el
+g l- ..n
+3
+o .
+240 260 280 300 320 340
+Temperature (K)

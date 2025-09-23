@@ -1,0 +1,44 @@
+LIQUID AND GAS PHASES IN TEMPERATE GLAGIER ICE 233
+
+In order to estimate p. we consider the average spacing s of bubbles along veins. 1t is reasonable to assume
+that the probability of finding  single bubble touching a vein in a very shortlength interval is proportional to the
+average number of hubbles per unit length of vein (1/s) and that the probability of finding more than one bubble
+for such a short length interval is zevo. In this case the probability of finding £ bubbles on a link of length b is
+given by Poisson’s formula. Tn particular the probability of no blockage or & — 0 is given by
+
+12 exp (—bis. D-2
+- — - reference plane—
+p - 1st level
+2nd level
+3rd level —
+Fig. D-1. Simplified topological model of the vein network.
+
+Fo estimate Qp consider access to successively more remote groups of four-grain intersections denoted as
+Jevels 1. 2. 3. cte. in the simplified topological model of the vein network shown in Figure D-1. For the first level
+itis clear that @, (1 p%. To get Q. consider asingle one of the links leading w level 1. Starting along this
+path. access o level 2 s blocked if this link o level 1is blocked (probability (1 p10 or i this Tink is unblocked
+probability £ but the triplet of veins joining it to level 2 is blocked (probability @, Thus, Q. [(1-p1 - pQ, |°
+where the third power arises because there are three possible starting paths. Successive application of this argu-
+ment gives
+
+Qusr = [(1=prpQu ] D-3
+1.0 LA B S R
+c
+~ 05
+1)
+c
+OL_L T
+0] 0.5 1.0
+b/s
+Fig. D-2. Fraction of veins capable of transporting liquid across reference plane (ne'n) versus the ratio of mean spacing of
+four-grain intersections (b to the mean spacing (51 of blockages in veins.
+11 was found that the sequence {Qu ) converges fairly rapidly. which is consistent with the obvious requirement
+that when g does not depend on position, local connectedness of the network implies large-seale connectedness
+as well. The topological model used in this caleulation neglects the fact that some of the paths lead back on
+themselves and that some eross back over the reference plane. Because these complications should become most
+important at the more distant levels of four-grain intersections and {Q, 1 converges fairly rapidly, the limit of the
+sequence is probably a reasonable estimate of @ for the real network.
+
+Fogether. Lguations (D-17. (D=2 and (D-31 define the relationship between nen, b and s Thisis plotted in
+
+Figure D-2. One finds that z.nis essentially zero (< 1o 30 for by 1.2,

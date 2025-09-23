@@ -1,0 +1,57 @@
+SLIDING VELOCITIES OF GLAGIERS 417
+" 1 e e N B e T
+2 /
+s |
+/ VAl
+I P ‘
+, IR
+" nS/ -V
+e — T |
+05 P |
+0 ‘
+222 226 230 234 w8 o a6 20 254 t/m?2
+05 T [E—— B S S
+22 23 2 25 bar
+water pressure
+Fig. 8. Plot of sliding velocity versus waler pressure. w is the x-component of the sliding velocity ; the index s refers to (steady-
+
+state) sliding on the sinusoidal bed at the separation pressure. ulus is the x-component of the sliding velocity expressed as a
+
+Sraction of the sliding velocity on the sinusoidal bed at the separation pressure. pn is the limiting water pressure at which
+
+sliding becomes unstable. Curves I to IV show the initial, transient sliding velocity at the instant when the water pressure is
+
+applied (except for the horizontal parts and two points on lines 1 and 1V which show steady-state sliding). Curve I refers
+to sliding on the bed shown in Figure qa, curve 11 refers to the sinusoidal bed, lines 11T and 1V refer to sliding with the
+water-filled cavities of Figures Ga and b, respectively. T he horizontal branch 111 depicts the sliding celocity when the cavity
+ceiling in Figure 6 is replaced by bedyock. The dotted line marks steady-state sliding., below this line cavities are shrinking
+
+(indicated by broken lincs).
+
+which determines the slope of the velocity pressure function, but the orientation of this
+
+arca is also influential.
+
+The sliding velocity varies linearly with the water pressure as long as the area of the
+ice sole which is subjected (o the imposed water pressure is constant, The relationship
+is of the form
+
+u(py) — ust[1+Clpw—pat) [pai] )
+where u(py) is the transient sliding velocity at a water pressure py, ug is the steady-state
+sliding velocity for the given cavity size, py is the water pressure at which the considered
+cavity is steady, and (' is a constant which depends on size and orientation of the arca
+covered by the cavity and on the geometry of the remaining contact arca. Numerical
+values of Care: 64 for line 111 (Fig. 8) and 51 for line 1V,
+
+In the finite-clement model the area of spontancous separation of the ice sole increases in
+finite steps with increasing water pressure, therefore curves I and 1T consist of finite sections
+of straight lines. Once cavities have formed, a further increase of water pressure does not
+cause an additional spontancous separation, but only slow cavity growth—as long as the
+pressure increase is not very large. Therefore, the sliding velocity is approximately given by
+Equation (5) during a finite period of time.
+
+Discusston
+
+Considering the effect of a water pressure p, acting on the ice sole at the lee sides of bedrock
+
+obstacles, different phases have been distinguished :

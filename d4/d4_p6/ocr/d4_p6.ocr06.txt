@@ -1,0 +1,14 @@
+HV electrode Yacuum chamber DC HV
+source
+' 5 5 i s: L
+TestI l %%, T T
+sample 1 2 ]:
+’ ' J =
+L ]
+l Electrometer
+LV electrode
+= © BAAAA
+Temperature ::>
+measurement
+[ 0o =]
+Computer

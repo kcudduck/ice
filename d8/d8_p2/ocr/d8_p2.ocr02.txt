@@ -1,0 +1,18 @@
+200 200
+E 150 150
+8 100 100
+2
+< 50 50
+Winter at McMurdo Summer at McMurdo
+0 0
+0 200 400 600 800 1000 1200 0O 200 400 600 800 1000 1200
+200 W 00 1))/
+£ 150 150
+S 100 100
+)
+=
+Z 50 50
+Summer at Wallops Island Winter at Wallops Island
+0 0
+0 200 400 600 800 1000 1200 0 200 400 600 800 1000
+Temperature, K Temperature, K

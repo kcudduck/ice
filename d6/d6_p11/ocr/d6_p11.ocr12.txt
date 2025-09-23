@@ -1,0 +1,19 @@
+ﬁ; o Rainfal —— Piezometer Melt e Cross-correlation 3168.0 ;:',F!
+[e}
+o 0.6 3
+g 0.4 @
+; 3168.0 @
+02
+S 04 5
+5 o 3167.8 2
+= 40 4 8 12 ®
+S 02 Lag (n) 3167.6 2
+= T
+[0} =
+= S
+0.0
+Pumping — 3167.4 3
+o
+[
+1 September 15 September 1 October =
+Date (2012)

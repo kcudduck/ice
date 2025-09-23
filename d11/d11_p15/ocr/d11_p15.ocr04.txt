@@ -1,0 +1,18 @@
+20 KHz
+—Ga=05 —Ga=1 Ga=2 W Simul.
+100
+Cavitation
+10
+£
+=
+8
+2 1
+Z
+g' Gu=0.5
+< Gi=1
+01 i G2
+No Cavitation 2
+0.01
+- - o 5
+s = S
+Diameter (mm)

@@ -1,0 +1,46 @@
+(a) Linear fit over all data (Ngjopar) — b SRH1 using Ngjopal
+Attenuation Rate N ',:-1 Mean R over Lake: 10.8 dB
+209 '}M .| == 0IB2011/2012: 24.3 dB/km 4380 | P‘#ﬁ::i.}{ﬂ%» )
+0 : MI SRH1;21.8 dB/km = ‘t‘l.i'f!‘gi.l}”uﬁ.' < &
+e 20 4 2 370 LN S
+¢ l ‘ > TaNGleNG -, ey T e e R
+2 g c O G, R 5 M
+= _40 : g B e T S et e, T
+= s 8360 7L L reEd 'u.wl# i
+: Ao S $ T B e e i
+~60 : rw SRS 2 1,;15%"{7:&{:\?}‘;51%
+| T oo (FETE M DR
+_go 1 @OIB bed power data pointsi#=: Sha . uo. ARSI S | L 2 Proposed brine network § = . - “fwai |
+® SRH1 bed power data points i ~4and lake outlinel el ({7 S T ;i
+0 200 400 600 800 1000 420 430 440 450 460 470 480
+Ice thickness [m]
+A g
+-20 -10 0 10 20
+Relative Refl. [dB] (R)
+(C) Arrhenius modeled Att. Rates (Narh) 5590 (d) SRH1 using Narm
+= AN VL s s S g < 5 A MeanRr Lake: 5.7 dB
+8380 v .;Ef\“ﬁgm‘ 8380 1 }#i'.:: b }ll"iﬂrm‘ ﬁ:" : sal ;
+B et T R
+2 el [ ELE :;. R (r258 8370 . S0 y‘f"'i‘f{"ﬁ'ﬂfg&‘i 3
+g’ 8360 TGt ; R T P g ! ,1t5';’!‘1f’r’if§/£!$::t¢
+5 &350 AL 7] e =90 Tl t"fﬁﬁﬁ?:{"‘§ﬂ§.§f‘
+- S e b s & T e T R
+8340 S om, T 8350 a2 ;’g;’%&:ﬂ[l:n; n’.}
+8330 Eg ' b7 e~ S ¢ @Tp’&"" !..
+420 440 460 480 500 420 430 440 450 460 470 480
+e Adaptively fitted Att. Rates — (f) OIB using (Narh)
+8390 ﬁ- '{!7/’,”’[ '!"},\;3%“%} / A Mean R over Lake: 3.2 dB
+&wir. ""ﬁiﬂl”l 5 § Cied i YA ¢
+AVay T e A O Y e A
+=oee / iy 88 S RONRES 8880 , Vb
+— 8370 = NG T /TN =T P S ; YR :
+g U S Y %@!"igﬂ; 8370 ; A C" 3
+5 R~ 2 = Ny S i L
+2 8360 Son ST = b N, L=
+5 8350 “‘ Ner e F'.[‘ S0 ! gy R
+e liugy ] .' =] 3 . 4
+8340 -] ([ L 3 8350 ; :
+(WA i =: = ] 2 Gy >
+8330 5 & U T P & -
+420 440 460 480 500 420 430 440 450 460 470 480
+Easting [km] Easting [km]

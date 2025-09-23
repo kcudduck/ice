@@ -1,0 +1,31 @@
+250
+a =500 droplet impact b 1001 —gg Icing/Deicing cycles
+200 80
+%\ <
+£ 150 1 £ 60
+~ ~
+£ 100 £ 40
+2 1 2
+= ‘ =
+O 50 1 O 20 ; ‘
+0 30 60 90 120 150 o 50 100 150 200
+Time (s) Time (s)
+¢ 0.10 d 012 @
+—- Qice/Fice=0-44nC/N 16 I Roughness
+—+ Qice/Ece
+0.08 14 0.1
+Z E —
+< in 008 & Lom
+2 0.06 ® 10710 )
+£ ©, .%;&"‘. Coopte | 2}
+3 7 006 3
+5 0,04/ 000 ¢ *® eSedi00- ] L ¢ &
+- o © oy | = =
+g o 0g 000 0 o 2 g
+& E 004 &
+0.02 4
+0.02
+2
+0'000 20 40 60 80
+B Control 5000 wear Sand 0
+Icing/Deicing cycles o cyeles . erosion i

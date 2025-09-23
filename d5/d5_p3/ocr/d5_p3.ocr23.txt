@@ -1,0 +1,62 @@
+DEFORMATION AND FRACTURE OF 1CE 125
+
+I'he highest observed value for the vatio of compressive strength 1o tensile strength was
+approximately porat 1o s Cand 7 G This is smaller than the value of 8 predicted by
+simiple Grithich theory for fracture of brittle materials, and considerably smaller than values
+found for typical rocks (810 20 . Lavrov (1965 gave a compression tension ratio for colummnan
+ice of g but the strength values which give the ratio are not too convineing. A\ low compres-
+sion tension ratio for ice has significant bearing on problems involving failure eriteria.
+
+Taking into account the fact that bubbly ice tends 1o be weaker than clearer types of pure
+ice. most reported values (NMantis. 1957, Butkovich, 19540 1955, 19500 Kaplar, 1954,
+Vovikovskive 1960 Lavrove 1g65: NMellor and Smith, 1966 Peschanskive 19670 Savles and
+Epanchin, unpublished  seeni low in comparison with the results obtained here from dumbbell
+specimens. Some of these reported low values te.g. Mellor and Smith. 1966 are undoubtedly
+crroncous vesults produced by poor testing technique.
+
+Tensile strength. X significant vesult of the tensile tests is the demonstrated insensitivity o
+strain-rate over more than 5 orders ofmagnitude. This suggests that tensile strength might also
+be msensitive 1o temperature, as indeed it appears 1o be from the limited available data
+
+Wilson and Horeth. 19182 Butkovich, 1g54: Frankenstein. 1959 Hitch, 19591 also unpub-
+lished records of tests onvice by L. Hanson of U.S. AL CLRURVELL
+
+Very few direct measurements of uniaxial tensile strength have heen made for ice. and
+what values are available seem Tow in comparison with the present resulis. Butkovich 1G5
+obtained a strength of about 1 bar for clear® ice at 5 o 10 C.ousing the method illus-
+trated in Figs 2voes Kaplar's (19500 resulis. obtained by the method illustrated in Fig. 22
+give acan value ol about 13 bar for clearice at 6.5 Cafter rejection of data for specimens
+that broke in the end cups. A value of 2,75 bar for cohnnnar ice at some unspecified tempera-
+ture was obtained by Lavrov (1965 - who pulled prismatic specimens
+
+Because direct uniaxial tensile tests are diflicult to make, most of the tensile strength data
+for ice have been obtained from indircet tests. and as already stated. these can be misleading
+Following a detailed study of diametral compression testing. the writers used the Brazil test 1o
+measure tensile strength indirectly at 7 CoNlellor and Hawkes. 1971 . obtaining mean
+apparent tensile strengths incthe range 5.5 10 5.9 bar for machine speeds from 8.5 10 ¢ 10
+833 1o "mm/s. Unpublished data by Hanson give mean Brazil tensile saengths from 2. 10
+-2 bar for bubbly ice at 1o Coand from 2.2 to g0 bar for clear ice at temperatures from
+
+to.5 to g (o Data by Butkovich (1g59 0 give mean Brazil tensile strength as g bar for
+bubblyvice at 5 Clalthongh Butkovich himself multiplied his results by a factor of 6. Thus
+it seems certain that the Brazil testo when applied and interpreted in the accepted manner,
+gives strength values foriee that are far lower than the uniaxial tensile strength.
+
+The writers also made ring tests on bubbly ice at 7 C.ovarying the vatio of internal 1o
+external diameter from o o 0.25 and varving machine speed from 8.55 10+ 10 8,55 10
+i s Nellorand Hawkes, 1g71 0 Caleulated ving-tensile steength was strongly dependent on
+both diameter ratio and machine speed. and mean values ranged from 11 10 g4 bar. From
+these results. and from a detailed theoretical and experimental study of the ring test for rocks in
+general it was concluded that the ring test does not give a valid measure of the tensile strength
+ol ice Furthermore. it is doubtful whether it even gives a self-consistent index of tensile
+strength. Some reported mean values of ring-tensile strength for ice are: 21 1o 36 bar clear
+ice. 5 o0 35 CoWeekss 1961 010 10 32 bar clear icec o 1o 200 Co Hanson L 15 10
+20 bar ‘bubblyice, —o.5 10 20 L Hanson L 17.5 to 2 bar bubblyice. 5 €. Butkovich.
+1950 . 1 to g bar clear ice. o o o.5 CLopersonal communication from G.F. Franken-
+stein. Most of the data show broad scatter
+
+Beamn bending tests are widely used 1o provide a measure of tensile strength for brintle
+materials, even though they suffer from significant and well-known deficiencies. In recognition
+
+* o Clear™ bs used in o relative sense here to make a rough distmetion between ice formed by diveet freezing
+imd bubbly ice of the type used i these tests sometimes called “snow iee™

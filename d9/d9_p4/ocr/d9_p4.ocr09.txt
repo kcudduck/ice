@@ -1,0 +1,8 @@
+A S0 km B S5 km c 5o km
+Vel. fixedt Vel. fixed iy SN
+D 20 km E F
+p
+m=1 d2 m=4 i m=2 & b
+Year of Simulation When Ice First Ungrounds
+0 50 100 150 200 250
+[ I N ]

@@ -1,0 +1,25 @@
+() Non - contact region
+() Contact region
+(a) Approach Departure
+Compressor ldle ldle
+P \— —]
+_f— =
+SE - TENG
+CE CE
+Approach Departure
+(b) ’é‘ 4
+£ 2
+0,
+__10
+Z
+st 5
+L
+0
+< 30
+=
+-30
+O 0
+—
+6] -1
+0.8 0.9 1.0 1.1 1.2 4.0 41 4.2 4.3
+t(s)

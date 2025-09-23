@@ -1,0 +1,39 @@
+South (soundings aquired in the trough) (soundings aquired on the plateau) North
+1500 m along line A 2000 m along line A 3000 m along line A 3500 m along line A
+0 —_ 04 0 = 04 0 — 04 0 —_ 04
+z 500 e deoth | 500 500 p 500
+§ ce dep 03 Ice depth 03 03 03
+& 1000 1000 1000 1000
+‘g 025 025 025 025
+2]
+8 1500 02 1500 02 1500 02 1500 02
+£
+o 0.15 0.15 0.15 0.15
+= 2000 2000 2000 2000
+§ Resistivity range o1 o4 o1 o4
+2500 rexpected for a 2500 2500 2500
+hypersaline lake 005 005 005 005
+IS o 0 0 — 0 0
+= 10°Resistivity (m)io® 10°Resistivity (Qm)10° 10°Resistivity ((2m)10° 10°Resistivity (Qm)i0®
+@ 1000 1000 1000 1000
+k]
+Q 5 500 500 500
+s
+g o 0 0 0
+“;; 0 20 40 60 80 100 0 20 40 60 80 100 0 20 40 60 80 100 o 20 40 60 80 100
+s Number of layers Number of layers Number of layers Number of layers
+10 10 10 10
+£ N
+E Ry N by
+S 1010 10 10 = 10 -
+107 10° 10° 10°
+© <
+> ~
+g 1 e, 11 11 ¥ 11 N
+210" Bngaudmiseteve, T ] 101 P T T T T TR o ot m s s E e m g et mm s sy -
+3 ! |
+' \ ‘\
+N
+1072 10712 1072 10712
+107! 100 10° 107! 10° 10' 107! 100 10’ 107" 100 10’
+Time (ms) Time (ms) Time (ms) Time (ms)

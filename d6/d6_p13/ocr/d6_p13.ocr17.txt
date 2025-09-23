@@ -1,0 +1,55 @@
+LIQUID AND GAS PHASES IN TEMPERATE GLACIER ICE 220
+1), Yet deeper in the zone of foliated coarse ice, it is likely that the intergranular flux per
+unit arca would be even smaller because of the much lower density of three-grain intersections
+and the blockage of veins by bubbles ("Table I11).
+
+Since only a small fraction of the daily melt water can penetrate below a depth of about
+7 m on an intergranular scale, most of it must run laterally through the snow or the permeable
+near-surface ice to cracks or conduits. The fact that conduit-like features were observed in the
+small volume represented by the core and the fine scale of the branching (Section 3.4 suggests
+that the density of conduits could be as high as several per square meter near the surface. .\
+rough estimate of the water flow through such conduits suggests that a density of several 1o
+several tens per square meter would be suflicient to transport all of the daily melt. Therefore.
+it seems possible that much of the melt water could have penetrated into the ice locally,
+although not on an intergranular scale.
+
+T'his picture of water flow is similar to the theoretical predictions of Shreve (1g72), but
+the concentration of the surface melt-water flux from the fine-scale vein network to the larger-
+scale conduits occurs ina thin layer just below the surface. The small residual intergranular
+flux of less than o.1 ma ' during the height of the melt scason suggests that the vein network
+does not respond to the availability of surface melt water. This could be a consequence of a
+very small i sttu vein size and water velocity, in which case the propagation of kinematic
+waves hypothesized by Nye and Frank (1975) would also be slow. Howeversicmight also be
+caused by the tendency of water flux to concentrate from smaller into larger conduits Shreve,
+1972 Rothlisberger, 1972) and thermal constraints on the manner in which clean surface melt
+water can enter into the ice. "The nature of the control on the size of veins and the origin ol
+conduits arc important questions which remain unanswered.
+
+6.4 Water flowe and glacier temperature
+I'his picture of the water low needs to be reconciled with the known i situ ice temperature
+Harrison. 1975[b]). The ice below approximately 6 m depth is about 0.02 deg colder than
+expected from the temperature lowering by the overburden pressure. It is unlikely that
+this depression could be caused by a large difference between vein and ice pressures: most
+likely it arises from dissolved impuritics as assumed in Section 5.3. On the other hand. the
+temperature depression from impurities in the surface melc water (mostly dissolved air) is an
+order of magnitude smaller. 16 surface water does enter the veins, the impurities in it would
+have 1o be greatly concentrated ;s it is not clear that such concentration is possible. A\ large
+downward velocity in the veins therefore seems incompatible with the measured temperature
+At the upper limit of vein size (Table I, column 2) the mean downward water velocity would
+be about 6o ma ' if large numbers of veins are not blocked. This water motion should affect
+substantial thicknesses on a short time scale. However, the temperature changes over a year
+were extremely small even at the highest sensors (Harrison, 1975[b]). "This suggests that the
+in st vein sizes are indeed less than the upper limits which we set. or that the network is
+discontinuous because of bubbles or unknown effects not observable in the samples because
+of the relaxation. In coarse bubbly ice the mean velocity may be more than an ovder of
+magnitude smaller than in clear ice because of the blocking effects of bubbles. I it were less
+than several meters per year, then possibly ablation could keep pace with penetration of clean
+surface water even on a long time scale. It is possibly relevant that the temperature sensors
+were roughly 8o m down-glacicr from the core sites. where the fine-grained zone of ice may
+have been thinner or absent. In any case, the temperature measurements indicate that flow
+through the veins does not flush impurities very effectively.
+
+A second problem concerns the flow in conduits. Conduits would also tend to warm the
+ice, and their presence would not be consistent with the temperature if the warming time were
+less than the length of the melt season. For a conduit density of 1 m 2. one finds from the
+method deseribed in Appendix € that the ice could be warmed o the temperature of the

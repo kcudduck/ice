@@ -1,0 +1,10 @@
+. . 3 . . 3
+(a) 0 Velocity (m/s 4500 Density (g/cm’) 25 (b)O Velocity (m/s) 4500 Density (g/cm’) 25
+4000 4000
+200 2 || _200 2
+E 3500 E 3500
+& &
+2000 2000
+800 500 0.5 800 1500 0.5
+0 200400600 0 200400600 0 200400600 0 200400600
+Distance (m) Distance (m) Distance (m) Distance (m)

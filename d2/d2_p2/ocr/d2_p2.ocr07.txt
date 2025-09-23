@@ -1,0 +1,57 @@
+ATTENUATION OF SOUND IN SEA ICE, 10 500kHz 403
+attenuation cocflicients in dbm ' (1 dbm ! 0.115 nepers m-') which are equal o the
+negative of the slope of the lines of best fit. The trend indicated in these figures is that the
+attenuation cocflicient inereases with increasing frequency. i, that the slope becomes pro-
+gressively more negative. Since attenuation is a property of the medium and not of the
+measuring system, the data of Figures 110 5 were combined. weighting the slopes at cach
+frequency according to the number of pomts used 1o establish the slopes. The resulis are
+plotted as points in Figure 4 for attenuation cocflicient (dbm ') against frequency (kHz ).
+[t is seen that attenuation is an ever rapidly increasing function of frequency. The attenuation
+coeflicient increases from a value of less than 1 dbm ' at 10 klz 0 about 5dbm
+100 kHz and to more than 35 db m " at 500 kHz. As comparison. Westphal (1965 obtained
+avalue for the attenuation cocflicient of 0.215 nepersm ' ing dbmofaty kHz in glacier ice.
+
+A considerable body of evidence exists (c.g. Mason, 1964, p. 1650 1o indicate that in
+
+polyerystalline materials the attenuation may vary as the sum of two frequency-dependent
+terms. One involves a linear dependency on frequency and is caused by frictional loss
+mechanisms between grains. The other is a termi in the fourth power of the frequency and
+arises from scattering at the grain boundaries caused by discontinuities in the elastic constants
+in going from onc crystal to the adjacent one. The data of Figure 4 were accordingly fitted,
+using the least-squares method, by an cquation of the form
+x = of eyt
+
+where » is the attenuation coeflicient, /" is the frequency, ¢, 145 1o rdbm "kHz .
+and c. — 2.8 <10 "dbm "kllz 4
+
+Ttis seen that the curve fits the data points reasonably well. The points seem o follow a
+series of oscillations above the curve which may be caused by thermal relaxation processes.
+However no attempt was made 10 investigate these features,
+
+Discussion
+
+Calculations indicate that the lincar term in the above cquation is the predominant one
+in the frequency band studied. Tt accounts for more than 99.9",, ol the attenuation at fre-
+quencies below 6o kHz, for 9o, at about 120 kHz. for G0 at somewhat less than 300 kHz
+and for 60", at about 500 kllz. This result is not entirely unexpected when one considers that
+sea ice has a complicated substructure of platelets with heavy concentration of liquid brine in
+cells between the platelets and also numerous air bubbles, The brine cells, air bubbles,
+platelets and even grains may act as sites of strain concentration resulting from passage of the
+acoustic pressure wave.  Savage (1965 points out that localized temperature fluctuations
+would be induced at such sites and that the diffusion of these fluctuations by conduction
+produces the Toss mechanism which he calls thermoclastic internal friction.
+
+As for the scattering term, since the velocity of compressional waves in sea ice of the
+properties encountered is about 3.7 - 1o ms ! Langleben, 1962, the wavelength of the
+acoustic waves approaches the typical horizontal dimension of the ice crystals. about 2 cm,
+at a frequency of approximately 150 kHz. It would thus appear that, in a lossy medium such
+as sea ice, Rayleigh-type scattering is insignificant compared with other loss mechanisims until
+frequencies having wavelengths very much less than the average crystal size are attained.
+ACKNOWLEDGEMENTS
+
+This work has been supported by the U.S. Naval Ordnance Laborator v under ONR
+Contract NONR 4915(00). Task No. NR307 200 and by the Defence Research Board of
+Canada under D.D.P. Contract GR.813007. Dr G. Hattersley-Smith arranged the logistics of
+the field wip and Mr P. Stalinski assisted with the measurements.
+
+MS. recetved 25 January 1969

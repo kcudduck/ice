@@ -1,0 +1,21 @@
+40 40P
+Ve Non-treated-dry Treated-wet
+30 A \ 30 N
+g / \\ § / \
+£.20 / £.20 ,
+b 10 74 \‘ b 10 /
+0 oF
+0 20 40 60 0 20 40 60
+time[us] time[us]
+40 ¢ 409
+Treated-dry —T-Non-treated-dry
+—ITreated-wet
+30 30 . I
+— / —_ P4 L Treated-dry
+%20 \ % 20 / Ny
+2 \ 2 ;
+° N SN AN
+10 \\ 10/ SSSE
+= 0
+0 0 20 40 60 0 0.005 0.01 0.015 0.02 0.025
+time[us] D[mm/mm)]

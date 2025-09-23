@@ -1,0 +1,51 @@
+DEFORMATION AND FRACTURE OF I1CE 121
+100 LI B e R
+- T
+2
+. °
+580
+< .
+@ a.
+J’ o
+. 60 {\-
+> >
+a4
+5
+v e
+&40k T
+13 ‘k
+o
+O }, n o_
+° 20+
+s L
+5
+= '
+i — _ 1 N T—
+0] 400 800 1200 1600
+Time to Failure , s
+Fig. 2o. Uniaxial compressive strongth as a function of time=to-failure
+Cniaxial tensile strength. Uniaxial tensile strength showed remarkably licde dependence
+on loading rate g, 1g). The variation in strength was only about 257 as strain-rate varied
+through more than 5 orders of magnitude. For the range of strain-rates from 10 410 10 25 1
+tensile strength at 7 Coremained approximately constant at a mean value of 214 har
+sro Ibfineh? . There was a slow decrcase in strength as strain-rate increased or decreased
+from this range.
+‘o C e + ey - - . —r—r——— g
+102 e s ]
+< & s ~Compression |
+o s = - a N
+! a
+o o % s
+v { a
+=y a T
+° .
+[T — o -
+£ o T 3
+[ — ° 3
+. O~ " Tension s 3
+L e 1
+L ] 4
+10-4 L D - - Ll - o,
+o 1076 10 10 10 10
+Average Strain -Rate, s°!
+Fig. 21. Failure strain as a function of average strain-rate

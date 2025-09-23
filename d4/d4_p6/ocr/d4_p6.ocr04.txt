@@ -1,0 +1,15 @@
+[_] Glow-like discharge
+[ Uniform mixed with filaments
+[ Filamentary discharge
+50000
+40000
+3
+e
+P 30000
+S
+I
+@
+2 20000
+o
+10000
+Alumina Quartz PTFE

@@ -1,0 +1,57 @@
+Fournal of Glaciology, Vol. 27, No. 07, 1081
+THE EFFECT O THE SUBGLACIAL WATER PRESSURE ON
+THE SLIDING VELOCITY OF A GLACIER IN AN
+IDEALIZED NUMERICAL MODEL
+By Atavur IkEN
+(Versuchsanstalt fir Wasserbau, Hydrologic, und Glaziologie, Eidg. T'echnische Hochschule
+Zirich, CH-80g2 Zurich, Switzerland)
+Apstract. In order to interpret observed short-term variations of the sliding velocity of a glacier the
+effect of a variable subglacial water pressure on the sliding velocity has been studied wsing an idealized
+numerical model. In particular the transicnt stages of growing or shrinking water-filled cavities at the ice—
+bedrock interface were analysed. 10 was found izt tie sliding velocity was larger when cavities were growing
+than when they had reached the sicady-state size for @ given water pressure. The smallest sliding velocitics
+occurred while cavities were shrinking. When cavitation is substantial a small drop of water pressure below
+the steady-state value (c.g. by 0.5 bar) can temporarily cause backward sliding. A limiting water pressure at
+which sliding becomes unstable is derived. The consequences of more realistic assumptions than those of the
+model are discussed.
+ReEsuMe.  Iufluence de la pression hydrauligue sows-glaciaire sur la vitesse de glissement d’un glacier dans un modéle
+numérique idéalisé. Dans le but d'interpréter les variations de vitesse a court terme qui ont é1é observées, on a
+étudié a Paide d'un modéle numérique idealisé Uefler exercé par une pression hydraulique sous-glaciaire
+variable sur la vitesse de glissement d'un glacier. On - éadié en particulier les éats transitoires de la
+croissance ct de L décroissance des poches diean situces a Uinterface glace—bedrock, 11 s’est révélé que
+pendant la phase de croissance des cavités. la vitese de glissement et plus grande qu'a létat stationnaire
+pour une pression hydraulique donnce. Les vitesses de glisement les plus faibles se produisent Tors du
+rétrécissement des cavites. Lorscue le volume des cavites est sulfisamment grand, unc faible diminution de la
+pression (p.ex. de 0.5 bar) peat temporairement provoquer un glissement vers amont. On a déterminé une
+valeur limite de la pression hydraulique pour Liquelle de glissement devient instable. On discute les conse.
+Guences d'hypotheses plus réalistes que cclles sur lesquelles fe modéle repose.
+ZusaMMENVASSUNG. Der Linfluss des subslazialen Wasserdruckes auf dic Glettgeschwindigkeit eines Gletschers,
+untersucht mit einem tdealisicrten numerischen Modell. Mit dem Ziel, beobachtete kurzzeitige Geschwindigkeits-
+schwankungen zu erklaren, wurde der Einfluss eines veranderlichen subglazialen Wasserdruckes auf die
+Gleitgeschwindigkeit mit cinem idealisicrten numerischen Modell untersucht. Insbesondere wurden die
+Ubergangsphiasen von wachsenden oder schrumplenden, wassergefullien Holilraumen an der Grenzfliche
+von Eis und Felsbett analysiori. Es zeigte sich. dass die Gleitgeschwindigkeit grosser war, wenn Hohlraume
+zu wachsen begannen, als wenn sie die flr cinen bestimmien Wasserdruck endgiiltige Grasse erreicht hatten.
+Die kleinsten Gleitgeschwindigkeiten kamen vor, wahrend die Hohlranme schrumpfien. Bei geniigendem
+Ausmass der Hohlriumbildung kann ein geringligiges Absinken des Wasserdruckes unter den Gleich-
+gewichtswert (2.B. um 0.5 bar) vordbergehend  Ruckwirtsgleiien verursachen.  Ein Grenzwert  des
+Wasserdruckes, bet dem das Gleiten unstabil wird, wird hergeleiter. Die Auswirkung weniger spezieller
+Annahmen als derer, dic dem Modell zugrundehiegen, wird diskutiert,
+INTRODUCTION
+
+Surface measurcments of glacier movement have occasionally revealed significant changes
+of horizontal velo ity within short periods of time. a few days or even a few hours (e.g. Tken,
+[1978]). More recent short-term measurements included vertical velocity which showed
+related variations. “The dependency of the velocity variations on melt- or rain-water supply
+suggested that the variations were caused by changes in subglacial water pressure. In parti-
+cular the substantial variations of vertical velocity observed in a detailed study have been
+interpreted as variations of water storase at the bed.® A mechanism explaining the typical
+features of the observations is now sought. The (ollowing water-pressure-dependent sliding
+mechanisms have been proposed in the past:
+
+Sliding over a lubricated, undulating, or three-dimensionally rough bed with formation
+
+of water-filled cavides (Lliboutry, 1968, 1979; Kamb, 1970).
+* Paper in preparation: Tken, Ao, and others. The uplift of the Unteraargletscher at the beginning of the
+melt season —a conscequence of water storage at the bed, by A, Tken. A. Flotron, W, Hacberli, and H. Raothlisberger.
+407

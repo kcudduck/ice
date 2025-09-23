@@ -1,0 +1,19 @@
+a \ -
+A A
+% Crack w . 2
+- 3 ° ‘/‘” '
+-_— —-——l e Ice ——
+Rain — Ice layer removal ol ;
+: Heating/sensing
+L droplet ‘ system
+Rain Detection Icing Detection Passive A‘?“‘Icmg Active De-icing/Sensing
+Detection
+b Droplet Ice-free Conditi()n C 1.8 FH=1cm: H=3cm: H=5cm: H=7cm :H=10cm: d H=1cm ; H=3cmH=>5cm : H=Tcm {H=10cm!
+seh s CIET N A TR (TR T S I T
+I < . UHMWPE I [V ~ : i i i = No ice : :
+< Electrode S - E" 0.9 : - : ) '\L -L.5 :
+Icing condition o : : : : g m
+Ice layer 0 - 506 : : ] - g 0 :
+Fﬂq \ ILF 0 2mm ice layer 5
+L W I WV 0 10 20 30 40 50 60 0 2 4 6 8 10
+Al B UHMWPE [ Ice Time (s) Time (s)

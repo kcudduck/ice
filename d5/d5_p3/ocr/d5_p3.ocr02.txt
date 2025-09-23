@@ -1,0 +1,64 @@
+104 JOURNAL OF GLACIOLOGY
+
+2. The ice should he homogencous and sotropic. This implies that the constituent crystals
+
+must have random orientation.
+
+;. The grain size should be small enough to permit determination of bulk properties from
+
+small test specimens, In praciice, this means a grain size not exceeding about 1 mm
+
+I'he present studies evolved from carlier work on polar glacier ice. and so the type of ice
+used was similar o that formed by sintering and visco-plastic compaction of snow grains
+under dry” sub-freezing ) conditions, e it is porous, or “hubbly”lices A few specimens
+were doped with hydrogen fluovide to test the effect of that impurity.
+
+The general procedure for preparing isotropic polyerystalline ice was o pack cquant ice
+grains into molds. saturate the vesulting compact with water, and freeze. The ice grains of the
+initial compact provided randomly oricnted freezing nuclei and Timited the amounnt of water
+which had 1o be frozen in the mold thus reducing the problem of freezing strains
+
+lee grains for the compact were produced from clean snow. Snow was removed from
+storage at 35 Chin the form of hard sintered blocks, and these were disaggregated by rubbing
+snow on snow. Disaggregated snow was allowed to fall into a nest of vibrating sieves, and
+after 5 min of vibration the fraction passing a number 20 sieve but retained on a number 4o
+sieve was collected for ice-making purposes. Disaggregation and sieving was carried out at an
+ambient temperature not exceeding 20 Cso as to avoid adhesion or sintering of the grains.
+
+Cylindrical specimens were made in “Lucite™ Cpolymethyl-methacrylate) mold blocks,
+which were split along the center-line o allow casy removal of finished specimens. “Dumb-
+bell™ specimens were made by fitting special = Lucite” inserts into the eylindrical molds. The
+mold block was prepared by greasing the main joints and gaskets with = Vaseline™ (petwoleunm
+jelly . and lightly smearing the mold surfaces with silicone grease. A\ special aluminum jig
+was used to position the dumbbell inserts during assembly of the mold block.
+
+The molding operation began with formation of the ice-grain compact. Freshly sieved
+grains were slowly added to vibrated molds, and vibration continued until there was no further
+settlement of the compact. This took place ata temperature not exceeding 20 € but when
+packing was complete the mold block was transferved o a room where temperature was only
+a few degrees below the melting point. After adjustment to the higher temperatre, distilled
+degassed water® at o Cowas run into the compacts from a water passage in the base ol the
+mold block: a vacant mold in the block was used to maintain the necessary head of water.
+\s water rose through the compact it displaced most of the air. but enough was left o form
+bubbles. Saturated compacts were then left to freeze inan ambient temperature a few degrees
+below o C:owith air circulating beneath the mold block and an insulating cover on top of it
+freezing progressed along the length of the specimens and freezing strains were minimized.
+Specimens were removed by disassembling the mold block. They were packed in polyethylenc
+hags for storage. and copious quantities of loose snow were added o the bags (o minimize
+cvaporation.
+
+Completely clear ice could not be made by this method, but it is believed that clear ice
+might possibly he made by saturating under vacuum at a temperature fractionally below
+o (L
+
+The ice used in this study had a bulk density of 0.89g -+ 0.002 Mg me: the average grain
+size was approximately 0.7 mm and the average bubble size was approximately o.2 mm (Fig
+1. 1t was not of high chemical purity. having a melt-water conductivity o approximately
+510 2 Q tem tat 2y Cand 6o 1z,
+
+Test specimens. "The conventional test specimen for uniaxial tests on ice is a simple right
+cireular eylinder. In compression testing it is usually pressed between flat platens, and in
+tension testing it is [rozen to end caps which can be attached 1o a pulling system. For tests 1o
+failure under brittde conditions, end effects are very important. and test results can vary over a
+
+* See Appendix for influence of dissolved Huorides,

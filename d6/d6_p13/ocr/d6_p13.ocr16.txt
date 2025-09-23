@@ -1,0 +1,57 @@
+228 JOURNAL OF GLACIOLOGY
+intergranular water flux per unit arca can be calculated from Equation (3a) and this value
+of I, using the upper limiting values of .1 determined in Section 5.3 (Table 11, column 2).
+L'he results for typical fine and coarse ice textures are listed in Table TT1. column 2.
+Capre ITL UPPER LIMITS TO VEIN WATER CONTENT AND FLUX DENSITY
+Texture and depth of origin ! 2 3
+fractional dbunbly
+a ! . depth water content felear TJerear
+mim m = m ma~'
+2 10" near surface 7 1o o.11 X1
+2 10" 60 g 10t 0.19 B2
+20 10+ near surface 7 1076 011 <10 2 % 0.06
+20 104 6o 21078 0.80 102 X 0.06
+6.2. Effect of bubbles
+
+‘The in situ configuration of gas bubbles touching veins expected from Section 5.1 agrees
+with the view of Lliboutry (1971, p. 20, fig. 2). Such bubbles constitute local blockages of
+veins which can support pressure differences up to the capillary pressure pe. Since by Equation
+
+5) peis about 0.1 bar or more for the expected in situ vein sizes, the bubbles are closely spaced,
+and the effective pressure gradient is only about 0.01 bar m=', it seems unlikely that such
+pressure differences would be achieved in typical circumstances in the glacier.
+
+A simple statistical model developed in Appendix D gives the fractional reduction in ice
+permeability in terms of the average spacing s of bubbles along veins and the average distance
+b between four-grain intersections. I bubbles are randomly distributed in the ice volume,
+then from Lliboutry (1971, p. 19)
+
+L4k -
+
+5 ; I '7)
+where R is the average bubble radius, and v is the fractional void volume. Although the two
+bubble counts reported in Section 3.1 suggest that bubbles were not strictly randomly distri-
+buted, there probably arce not any large errors from this source and Equation (8) should give a
+reasonable estimate. The density and bubble sizes measured on coarse bubbly ice (Section
+3.1) give s about 20 mm. This also agrees with the average spacing of bubbles on random
+lines (s equals 25 mm and 15 mm) measured on the two coarse bubbly samples (grain size a
+cquals 21 mm and 14 mm) which were measured in more detail (Section 3.1). One also
+expects that b x a. Thercfore in typical coarse bubbly ice b/s is on the order of 1 or larger,
+in which case the results of Appendix D predict that bubbles substantially reduce the water
+flux. In fine-grained ice the effects of bubbles are much less. Theoretical fractional reduction
+in water flux by bubbles is given in Table I11. column § for various grain sizes assuming
+s = 20mm and b — a.
+6.3. General pattern of flow and discussion
+
+At the core-hole site, water production averaged over a typical day was about 25 mm d !
+or gma '), ‘The pattern of ice texture (Section 3.1) and the limits on intergranular water
+flow ("T'able 111} place some constraints on how this melt water moved.
+
+The absence of any surface pools or streams indicates that all of the melt water penetrated
+into the snow. Fine ice with the vein size seen in the sample from 4.8 m would transport a
+flux per unit area of about 10 ma~" according to Equation (3a). This suggests that much
+of the melt water could have penetrated into the uppermost ice and agrees with the observa-
+tions of Wakahama and others (1973). who concluded that the ice near the surface of Menden-
+hall Glacier was permeable. However, once below 7 m depth in the zone of mostly fine ice
+
+a & 2 mm), the intergranular flux per unit area would be no greater than 0.1 ma ' (‘Table

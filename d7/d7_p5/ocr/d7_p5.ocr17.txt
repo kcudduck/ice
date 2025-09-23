@@ -1,0 +1,16 @@
+Sierra White Granite 1V g
+Run#42 . =
+Stress vs. Time Q“J:’
+
+80 major cracks "y Failure
+w i
+oL 60 E
+2 E
+2 40 E
+
+20 start
+
+loading
+0 * i
+0 5 10 15 20 25 30
+Time [min]

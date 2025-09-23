@@ -1,0 +1,15 @@
+-6
+Y DC Electrical Conductivity
+= & MgO Single Crystal
+-8 99.99% purity grade
+heated/cooled 10°C/min
+"T_‘ K 2 (after Kathrein et al. 1983)
+£ -10
+o 4
+2 r“a S
+2 b,
+2 -14 ‘\‘DDDDDD
+\ o
+16 636 560 496 440 394 352 282°C
+1.0 1.2 14 1.6 1.8 2.0
+1000/T [K]

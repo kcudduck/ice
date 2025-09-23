@@ -1,0 +1,16 @@
+\ e 5
+5 260 '
+K ®
+=)
+2 240 [
+2 N —
+< :
+2 220 i\ Gabbro
+=
+S % Run #175
+§ 200 . log lvst
+g LY A .
+T 180  |loadingto48MPa N ==
+w within 5 sec R
+2 4 6 8 10 12
+Time [hrs]

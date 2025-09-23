@@ -1,0 +1,59 @@
+122 JOURNAL OF GLAGIOLOGY
+
+Failure stramn. Failure strain is shown as a function of average strain-rate in Fig. 21, The
+<train (o failure decreases with inereasing strain-rate for both tension and compression. but the
+yates of change differ for tension and compression. The failure strain in compression is
+roughly an order of magnitude greater than the failure strain in tension.
+
+Discussiox
+
+Testing technigue. The technique used for uniaxial tensile testing is believed to be basically
+<atisfactory for tests in the elastic brittle realm of hehaviour. where precise methods and fine
+tolerances are essential. For tests on anisotropic ice it would, of course, be necessary to modify
+the specimen-molding technique. and for work on coarse-grained ice much larger specimens
+would he required. A “stiffer”™ loading system might be desirable. and it would certainly be
+desivable 1o impose better temperature control by having the test specimen inside a small
+chamber
+
+Most of the uniaxial test methods deseribed in the ice literature seem 1o be deficient in
+some respeet. The direct butt=joint used by Jellinek (Fig. 22a) is. in principle. the hestarrange-
+ment but it is difficult to ensure that a simple ice-metal bond will not break before the body
+of the specimen does when temperatures are above about 1o (. The alternative of hbonding
+a simple evlinder into a cup or collar (Fig. 22¢) is unsatisfactory for tests to failure. as stress
+concentrations are introduced at the junction of specimen and collar, and the specimen tends
+10 break at the collar. Specimens which have enlarged end sections and short-radius fillets
+
+Fig. 22b. d. ¢ have significant stress concentrations near the fillet, and if they are prepared
+and pulled with precision (mo bending stresses ) they will usually break at the fillet.
+
+The difficulty of making direct uniaxial tensile tests on ice is evidenced by the popularity
+of indirect tests, chiefly diametral compression and beam bending tests. However. these
+indirect tests are no substitute for the uniaxial test for the following reasons:
+
+a Ttis usually necessary to compute the peak stresses that are assumed to cause failure
+from linear clastic theory. with equal moduli for tension and compression.
+
+b It is usually necessary o assume that failure is determined by the greatest principal
+stress. and is unaflected by the values of the other two principal stresses.
+
+¢ The pereentage volume of the total specimen which is subjected to the peak tensile
+stresses is often very small, and in many cases is only of the order of the grain or flaw
+size
+
+dThere are often steep stress gradients in the failure zone.
+
+Of the indirect tensile tests in present use. the beam bending test is perhaps the one most
+widely used. However, it has been recognized for many vears that the heam bending test
+does not measure uniaxial tensile strength: the value caleulated as the stress in the Tower
+fibres of the beam is termed the “modulus of rupture”™. which for most materials substantially
+exceeds the uniaxial tensile strength. A\ detailed study of diametral compression testing  Nellor
+and Hawkes. 197 1) hasshown that. provided certain experimental conditions are met. the Brazil
+test diametral compression of a solid disc ) gives an acceptable measure of the uniaxial tensile
+strength for typical rocks. For ice. however, it gives a strength value far lower than the
+uniaxial tensile strength. The reasons for this anomaly are not yet clear. although the Tow
+ratio of compressive strength to tensile strength for ice may well be involved. The same
+diametral compression study brought out serious deficiencies in the ving tensile test. and led o
+a conclusion that any correspondence between ring tensile strength and uniaxial tensile
+<rength is largely coincidental. However, the ring test may give an approximation to the
+modulus of rupture when the ratio of internal to external diameter for the specimen is sufli-
+ciently large.

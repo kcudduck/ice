@@ -1,0 +1,35 @@
+Driving -1.2atm
+pressure
+
+v
+
+§ 100
+
+S
+
+£
+
+@ Bul;ble
+
+=) radius
+
+2 50
+
+o —
+
+w 2]
+
+=l =
+
+g A
+
+2 0 sL 5
+a
+E
+)
+o
+
+005
+a
+0 40 80 120 160 200
+TIME (microseconds)

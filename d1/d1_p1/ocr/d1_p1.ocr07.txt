@@ -1,0 +1,21 @@
+[2 D ; : b Initial condition Spray 1 7
+Slip ring . ] 1
+Airfoil shape s | y - :
+Heater | IS e holder Heater e B =
+N Spray 9 | Spray20 =
+\THEE 7 s ;
+C Spray 1 Spray3  Spray5 Spray7 Spray 9 Spray 11 Spray 13 Spray 15 Spray 17 Spray 19 Spray 20
+m W e ﬂ Before [ b 15 152
+DReAw ab 1.0 é < w = 940RPM
+— 8. J—— - SN0 08
+3 g oo
+_ Flat T 06F Zos [ ) 0.5 § @ = 960RPM
+S\ sample - S . €
+. After £ 02 T 2 3
+W | “ DReAM Lab 5 = Length of ice, L (cm) |
+b— | Ice seperation O RS A—
+\ Silicone rubber S~ -y 01.0) o i
+A 1 = [ —Ice sample IN—‘———"'"""'""“-'—”- ]
+L/ / » -0.2 Ice sample 2
+Eﬁz::_,@fﬁ 0 20 40 60 80 100
+o &= N Time (s)

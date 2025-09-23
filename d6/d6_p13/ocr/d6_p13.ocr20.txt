@@ -1,0 +1,75 @@
+232 JOURNAL OF GLACIOLOGY
+APPENDIX
+HEAT CONDUGTION INTO SAMPLE
+
+If the fractional liquid-water content of a temperate ice sample is small, and if the liquid is confined to the
+
+veins, the thermal diflusion equation is
+
+e T ol .
+
+KV2T = pei =+ pihl =— (Cex
+
+ot ot
+where T is temperature. . is the vein crossssectional area, and (s time. A 2.0 Wom ' deg ©is the thermal
+conductivity of ice. ¢i — 2.1 107 ] kg 1 is its specific heat capacity. pi 092 Mgm s its density. and
+A 3,34 2107 [ kg ' is dts specific Tatent heat. pis the bulk density of the sample (p 3 piand L is the total vein
+3 J ke | heat. p nsity ple (px p ¢
+
+length per unit volume. /4 is the total liquid content per unit volume, and the second term on the right side
+expresses the fact that it may change with temperature. 4 can be climinated with the help of Equations 4.
+which give
+
+. . % Cr
+
+7 S—-pp — = e
+
+By N
+I the special case that the impurity content per unit Tength of vein € remains constunt, Equations  C-1
+and (C-2) give
+ol
+KN pr— -3
+ot
+where the effective heat capacity ¢ is given by
+MO\ 1 (i A A
+I3 cif1 — ) -
+e )07 (1 A2
+Here o o Bp T is the combined temperature-lowering by impurities and curvature, and A w2 G
+An effective thermal diffusivity « can also be defined as xR pe.
+
+In the applications considered, the temperature depression # due to impurities is the major contribution to
+0": this gives # > 0" and A x 0. Since 18 by definition from Equation (4b 1, the effective heat capacity
+may be written in the alternative forms
+
+MO 1 2!
+cxalr (—)5| xalt =5
+! o )6 ! B
+T'he first of these is the form given by Harrison (19721 [Cy s identified as the temperature depression by im-
+purities when the last of the solid phase disappears upon melting. and this single parameter determines the
+behavior,
+I 0is constant, 2.1/2¢ is found from Equation (4a) with # constant. Then
+222hl 1
+3 1 — ———
+o EERCEE
+where 878 is the temperature lowering due to curvature.
+
+The numerical solution of the diffusion equation with temperature-dependent heat capacity is straight-
+forward by a method similar to that described in Carslaw and Jacger (1959, chapter 18, Onee the temperature
+is found. the vein area can be found from Equation (C-2). Alternatively, the vein area can be found directly by
+eliminating 7 rather than .1 in Equations (C-1) and (C-2).
+
+APPENDIX D
+STATISTICAL ANALYSIS OF BLOCKAGE OF VEINS BY BUBRBLES
+
+Consider a unit area ol some reference plane. There are noveins crossing this arca. We want 1o know how
+many of these veins can actually transport water.
+
+Let p be the probability that any given network link represented by a segment of vein between two four-grain
+intersections is not blocked by any bubbles (or other type of blockage . Then it is clear that only pr of the Tinks
+crossing the unit area on the plane are unblocked. In addition, some of these pn unblocked links cannot transport
+water because all of the paths leading to them from above or below the plane are blocked. Let Q(p) be the
+probability that a given link crossing the plane is cut ofl from distant veins below the plane. In order to transport
+water. the link must be connected to the vein network both above and below the reference surface. Therefore,
+the effective number of veins crossing the surface is
+
+ne o wpli- Q2 D-1

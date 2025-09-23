@@ -1,0 +1,59 @@
+400 JOURNAL OF GLACGIOLOGY
+
+o a depth of 5t (1.5 m) o house the sound source and the detector, and were filled with
+kerosene to provide good acoustic coupling o the ice. Afier completion of a st of measure-
+ments. a new hole was bored for the detector at a lesser range from the sound source and the
+procedure was repeated.
+
+The acoustic transducers were piezoelectric harium titanate crystals i ceramic dises off
+thickness Pin (6 mm) with a nataral frequency of about j50 kHz in thickness expansion.
+Dises of 1. pand 6 in (2.5, 10 and 15 cm) diameter served in turn as transmitting transducers
+and a disc of Lin (1.5 cm) diameter was used as receiving transducer. Fach transducer was
+cncased o provide water proofing and adequate clectric shielding. and in the process the
+resonant frequency was reduced by about a factor two.
+
+For use. cach transducer was mounted at the end of a long pole §in (1. e in diameter,
+with its axis perpendicular 1o the length of the pole. The transducers were then immersed 1o a
+depth of 4 it (g mL ies mid-way between the top and bottom of the ice cover. 1o minimize
+any possible boundary effects on the measurements. Optical alignment ol receiving and
+transmitting transducers was achieved by adjusunent of vertical height and orientation
+fiducial markers on the poles.
+
+The measuring system may be deseribed as follows. The sound source was driven. in C\W
+excitation, by a Hewlewt Packard (HP) 651\ oscillator through an TIP467.\ power amplifier.
+This oscillator was swept in frequency by an HP297.A mechanical sweep drive which also
+generated an clectrical output for the N-axis deflection on an HP135C A 1 recorder. The
+receiving system consisted of an HPgooE volimeter, used as a pre-amplifier, HP 66\ and
+150\ amplifiers in cascade and a diode detector leading to the T-axis input of the recorder.
+Ihe gain of the system was variable over a wide dynamic range with calibrated atienuators.
+
+In operation, the oscillator was set to sweep the desired frequency band and a graph of
+received signal as a function of frequency was automatically traced out on graph paper by the
+X Precorder. The procedure was repeated for cach reduction N transmitter- receiver range.,
+Care was taken to ensure that the transmitter was driven at constant voltage. In this way. no
+absolute power measurenients were necessary o determine changes in received power or
+intensity level with changes in length of transmission path.
+
+OBSERVATIONS AND REsvrrs
+
+Observations of the ice cover in the vicinity of the operating site indicated that it consisted
+of two-year-old ice of thickness about 8 [t (2.5 m). Tis salinity along the transmission path was
+about 0.1, by weight and its temperature at the same depth about — 6 C. Horizontal and
+vertical thin sections revealed the typical structure of sea ice. crystals long in the growth
+divection perpendicular 1o the surface and of horizontal dimensions varying from about 1 cm
+to greater than 5 em. The typical crystal size in the horizontal was about 2 cm.
+
+Measurements of relative signal intensity level were made at receiver transmitter ranges
+ol25. 20,18, 16, 15, 14, 12, 10, 8,6, 5 and 4 [ (7.6, 6.1, 5.5. 1.9, 1.6, 4.3. 3.6, 5.0, 2.4, 1.8, 1.5
+and 1.3 m) in the order given. At cach range, the frequency was swept over the band 1o klHz
+to 500 kHz. Three such series of measurements were performed using in furn as transmitter,
+the 1in (2.5 cm). 4 in (1o cm) and 6 in (15 cm) transducers. Detectable signal was obtained
+over a considerable band of frequency at all of the twelve ranges used. particularly with the
+two larger transducers (Figures 1, 2 and 3. At high frequencies where the attenuation was
+severe, signal merged with background noise at the more distant ranges. At low frequencics,
+far removed from the resonant frequency of the encased transmitting transducers, the acoustic
+power output was low and once again the signal could not be distinguished from noise at the
+more distant ranges used.
+
+The data analysis for each series of measurements was handled in the following manner.
+Values of recorded signal intensity level were read ofl the graphs at the grid points of the

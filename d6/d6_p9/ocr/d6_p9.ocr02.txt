@@ -1,0 +1,68 @@
+Journal of Glaciology
+tends to melt the cavity walls; at the same time, the cavity The model of the subglacial conduit system in Figure
+will tend to collapse as long as the water pressure is less la is clearly a simplification that leaves out important
+than the ice-overburden pressure. This is quite analogous to features of the "real" system. Perhaps the most significant
+the situation in an R channel (e.g. Réthlisberger. 1972, p. departure from reality is the implicit assumption that the
+178). The cavity will in addition tend to be "opened” by water flow is essentially rectilinear. Real cavities may have
+continual sliding of the glacier over its bed. In the steady more than one "entrance" and "exit", as well as "dead-end"
+state, the opening and closing processes must balance. It will regions that function essentially as storage sites (cf. Walder
+turn out that melting is often of secondary importance, and Hallet, 1979, fig. 7). Modeling the flow in such a
+compared to sliding, as a cavity-enlarging process. This drainage system might be possible by using numerical
+leads to very significant differences between the hydraulic techniques analogous to those developed for simulating flow
+behavior of R channels and that of cavities. In particular, in porous media (e.g. Dullien, [€1979]; Seeburger and Nur,
+the strong tendency for "stream capture" and flow localiza- 1984; Yale, unpublished). In the present study, however, 1
+tion in a few large cavities, so characteristic of R channels am seeking only to elucidate basic features of cavity
+(Roéthlisberger, 1972; Shreve, 1972), should not exist in a hydraulics; these should not be grossly affected by the geo-
+cavity-dominated drainage system. metrical simplifications introduced into the analysis.
+A major consideration in the present analysis is an
+idealization of cavity geometry motivated by observations of Cavity size
+exhumed melt-water drainage systems on recently deglaciated I now derive an approximate expression for steady-state
+bedrock (Walder and Hallet, 1979; Hallet and Anderson, cavity size in the interconnected regime. (The development
+1980; and my observations at  Findelengletscher and here parallels that of Weertman and Birchfield (1983[a], p.
+elsewhere). T assume that cavities are typically elongated 24-25), who considered the case of autonomous cavities.)
+along the lee sides of bedrock protuberances, with water For clarity, cavities will be assumed to form on the lee
+typically flowing through cavities in a direction oblique to sides of "steps" of height R on the bed and to be much
+the local ice-flow direction. The elongated, cavity-like con- longer along the water-flow direction than in any transverse
+duits may be linked to each other by short R channels and direction (Fig. 2). 1 will define an "effective cavity-closure
+Nye channels; furthermore, cavity cross-sections may change rate" w, as the difference between the rate of closure u.
+along the \\'gter-t'low’ direction due to variations in bed by creep and the rate of melting uy, of the walls. This
+topography (cf.  Kamb, in press). The result is a complex, effective closure rate will be balanced with the rate of
+tortuous drainage system that largely "avoids" regions of the cavity opening by sliding to find the cavity "length" L,
+bed where the normal stress exerted by the ice is large defined in Figure 2.
+(Fig. la). This model differs significantly from the
+hypothetical situation of cavities joined along the ice-flow
+direction by R channels and Nye channels, much like beads ice flow
+on a string (Fig. 1b). The latter scenario requires that \ >
+channels traverse high-pressure regions on the stoss sides of ’
+bed protuberances. T ‘ | “ cavity root
+N o T LS
+\\N\ S water low TSI
+ice flow =\ NN \x\\s\t\:\o}cs\\ N
+Nlnnss
+1/ .
+a /)] .
+—_— __/
+/ / / / | Fig. 2. Idealized cavity geomelry.
+‘J\ The creep-closure rate will be approximately (cf. Nye,
+S __/ 1953)
+Qg_ n
+(777 o= o] ®
+_“‘ll"‘ e - / / where p, = p; — py is the effective pressure, with p; being
+Il ice flow . __HI_— approximately the ice-overburden pressure and py, the water
+Do pressure in the cavity; n and A4 are flow-law parameters for
+|+J i |:':':| ice (Nye, 1953). The melting rate uy, is given by
+b s 4 B
+/ /::I/ / I‘i where @ is the volumetric flux of water through the cavity;
+G is  the hydraulic gradient (units of Pa/m), assumed
+r_ constant along the water-flow path; v; is the specific
+* volume of ice; P is the perimeter of the cavity roof for a
+I section transverse to the water-flow direction; and // is the
+latent  heat of fusion per unit mass. The factor
+Fig. 1. a. Schematic plan view of basal drainage network (I=7) & 0.68 corrects for the energy required to maintain
+Conduits largely "avoid" high-pressure regions of the bed the water at the pressure melting-point (Rothlisberger, 1972,
+(hatched ). p. 179). Implicit in Equation (2) are two assumptions: first,
+b. Hypothetical basal drainage system in which channels the rate of melting of the cavity roof is spatially uniform;
+and cavities connect only along the ice-[low direction. with secondly, any frictional heat that flows into the glacier bed
+channels crossing  high-pressure regions (hatched). This is eventually causes melting of basal ice in the vicinity of the
+probably not a physically plausible configuration. cavity.
+440

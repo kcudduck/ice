@@ -1,0 +1,5 @@
+lce 3700 m/s 0.92 g/cm’
+(1) (2) 3) 4) (5) (6)
+(1) Water  (2) Seawater (3) Brine at 0° (4) Brine at -4° (5) Brine at-10° (6) Sediment
+1500 m/s 1570 m/s 1477 m/s 1738 m/s 2200 m/s 3000 m/s
+1 glem® 1.03g/cm®> 1.05g/cm3  1.05g/cm® 1.05 g/cm’ 2 g/lcm’

@@ -1,0 +1,47 @@
+LIQUID AND GAS PHASES IN TEMPERATE GLACIER [CE 221
+
+Figure 6 shows the means and standard deviations of the width distributions for samples
+collected from various depths. Distributions measured within about the first hour and
+measured after one day are shown separately. Samples originating below 7 mshowed no
+significant differences in vein size: nor was there any apparent correlation of width with
+grain size or bubble content. Figure 7 shows the combined distribution of widths measured
+within the first hour of collection for all samples below 7 m. From this distribution. we find
+
+’ 13- 10 “m, oLl 6.6 10 om and 2 12 <10 N md,
+
+4.4 Larger-scale fealures
+
+Large-scale tubular features, suggestive ol conduits, were seen in two cores. One such
+featuwre with a diameter of about 1.9 mm was scen in a core cross section at .6 m depth.
+Several others with diameters of a few millimeters were seen ina vertical slab (30 mm -
+150 mm - 0.9 m) cut parallel to the core axis at 20 m depth (Figure 8/. In this case two o1
+possibly three junctions of upward hranching could be seen: this fits the upward branching
+“arborescent™ network of conduits envisaged by Shreve (1g72). The cross-sections of these
+features were irregular as a result of rounded protrusions of the hounding crystals toward the
+axis of the tube.
+
+200
+o A e »ml
+4oy s : o
+
+Fig. & Tubular features in a slab of mostly fine-grained. clear ice from 20 m depth. Up is to the left. White marks are spaced
+
+roo mm apart.
+t- PROPERTIES OF VEINS
+
+Some properties of the veins relevant o subsequent calculations in Sections 5 and 6 are
+considered here.
+q.1. Water transport
+
+The water flux @ through a vein in the presence of an effective pressure gradient /e,
+gradient of pressure and gravity potential) can be estimated by an approach similar to that
+of Nye and Frank 11973/, Tor a circular tube with cross-sectional arca 1.
+
+R U
+Qv — 5 ‘1
+Sy
+where 0,57 <10 15 bar year is the viscosity of water and y’ 1. Lquation (1) can be
+used fora vein iy is chosen to account for the non-circular cross section. A standard argu-
+ment gives y' x 2y where ry s the hydraulic radius. From Table Iwe find that y° 2.4
+which gives flux approximately as
+Qv x 2.8 10 (2a)

@@ -1,0 +1,26 @@
+-l Water capacitor - ol C ,..J 30
+— .
+- X 1 E
+Cu wire ~ 14 15 2
+SF \ < = Electrodes g
+Thermocouple \\ 04 0 £
+L ~ ——— - — o
+‘\ 7 f 0.014 | \ 15 %.
+\ ‘ Water / ‘ ! 2
+3 . A ) [a)
+ J L)/ Vo O 1 . -30
+5 . 1o N
+Ceramic bar EEEA | c = 0.0 0.1 02 03 04
+Time (s)
+i 10 7
+b Ice capacitor mm d 0.15 2
+- X2 sx, »Té‘ uh=1.65:0.12 nC/m .
+7, -
+b lx; Qo010 T
+: t Z 2
+i ‘. Ice v Noos ’
+[ I}
+| \ ° @ Polarization
+f= 7__‘1; I a Linear fitting
+Charge Oscilloscope |/ 1/ | Displacement 0'0%_00 0.03 0.06 0.09
+amplifier (synchronized) [ 777 sensor Strain gradient (1/m)

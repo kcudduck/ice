@@ -1,0 +1,60 @@
+124 JOURNAL OF GLACIOLOGY
+may be helpful, but thick extrudable cushions. such as the g mm thick rubber sheet used by
+Butkovich (1954 . cannot be recommended.
+
+Dumbbell specimens apparently overcome the end effect problems that can so casily
+vitiate compression tests. but they are more diflicult 1o prepare than eylinders
+
+Since uniaxial compressive strength is a strong function of strain-rate for the range repre-
+sented by typical speeds ol commercial testing machines, at least at high temperatures,
+selection of suitable strain-rates or loading rates can be a problem. In engineering studies the
+test loading rate may be decided by the nature of the practical problem involved. but i mon
+general studies it is not casy to decide upon any single strain-rate. since there i inter-relation-
+ship between the effects of strain-rate and temperature which might confuse results The
+present limited data suggest that uniaxial compression tests intended 1o induce clastic strain
+and brittle fracture ought to be run at strain-rates no less than 1o 2 s at peak stresscor o880
+average rate, when temperatures approach the melting point. Interms of stress rate, this is
+equivalent 1o about 30 to 50 bar/s. which is a great deal higher than the minimum rate of
+0.5 bar s recommended by Butkovich (1958 and followed by others. and the minimum rate
+of 1o bar s suggested by Gold (1968 Ihe present resulis CFable T Figs. oo show that at
+
+7 C there is inclastic straining and ductile failure at stress rates of order 1 bar s, and
+measured compressive strength is strongly sensitive to loading rate.
+
+Initial tangent modulus. The mean value of initial tangent modulus measured in compression
+was 8,76 - 104 bar, which is similar to values obtained by dynamic methods using flexural
+vibration or elastic wave propagation at sonic frequencies. For bubbly ice at temperatures
+between 5 and 10 (. dynamic methods give values of Young's modulus from about
+8 10t 10 g 1ot bar (Nakava. 1959: Bentley and others. 1g57: Crary and others. 1g62:
+Robin. 1958: Gold. 1958: Gold, 1968 . Most reported values for “static” Young's modulus
+in compression are lower than the dynamic modulus. particularly those resulting from: carly
+work. when creep effects were not fully appreciated (see. for example. Mantiso rg51. How-
+cver, it has been found that the static modulus becomes approximately equal to the dynaimic
+modulus ‘and 1o the modulus for a single crystal ) if temperature is low enough or strain-rate
+high enough (Gold. 1958, 1968 .
+
+Initial tangent modulus measured in tension inereased with inercasing strain-rate. but all
+values were close 10 6 10! bar. These values are similar to some of the more acceptable
+reported values for compression (e.g. Gold. 1958 and flexural tension (Yakunin. 1968 . but
+well helow the dynamic modulus. presumably because strain-rates were not sufliciently high
+
+Many of the low values of static moduli reported in the literatre (= 104 har undoubtedly
+represent secant moduli for slow tests, ies average slopes for non-lincar stress strain curves
+Data from the present tests give abundant evidence ol decrease of secant modulus with
+decreasing strain-rate or inercasing test duration (see ratio of peak stress o failure swain.
+Tables I and 11 . and the effect has been shown in flexsural tests by Yakunin (1968 .
+
+Compressive strength. Over the range of strain-rates comimonly cmployed i uniaxial testing
+compressive strength is strongly dependent on strain-rate and temperature, so that there is no
+unique value for strength. Neither is there a unique ratio of compressive strength to tensile
+strength, since tensile strength is relatively insensitive to changes of strain-rate and temperature
+
+At the highest strain-rates used in these tests (1025 1 compressive strength appeared
+10 be tending 1o a limiting value of approximately 85 to go barat 7 €. It has been sug-
+gested, from sketehy experimental evidence - Khomichevskaya. 1g4o: Butkovich. 1954, 1958:
+Korzhavin, 1955: Jellinek. 19571 Mellor and Smith. 19662 Voytkovskiv. 1960 Gold. 168 1.
+that strength actually decreases hefore settling 1o a steady value when aeritical strain-rate is
+exceeded. and in the carly stages of this work the preliminary results appeared to support this
+contention. However. it was later found that the apparent drop in compressive strength at
+high loading rate was actually a consequence of imperfect testing technique the apparent
+drop i strength disappeared when specimens were prepared and tested with greater care

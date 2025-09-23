@@ -1,0 +1,60 @@
+DEFORNMANTION AND FRACTURE OF TCE UNDER
+UNTANITAL STRESS
+By Ivor Hawkes and NMarcors Merior
+U.S. Army Cold Regions Research and Engineering Laboratory.
+Hanover. New Hampshire 03755, U.S.A.
+
+ApstrAacT. Techniques for making precise uniaxial tests for strength and deformability of ice ave described
+Results are given for tests made in uniaxial tension and uniaxial compression at constant displacement rate,
+using bubbly polverystalline ice. These results include stress strain curves, elastic moduli, rupture or vield
+wtrengths, and failure strains, all for @ range of strain-rates. A few results for ice doped with hydrogen fluoride
+are also given. The fracture mechanism for ice is discussed. and the test results are compared with data
+reported by previous investigators.
+
+REsUNME Déformation o rupture de la glace sous un tension umiaxial. On décrit les techniques propres & oréaliser
+wee précision des essais a Muniaxial pour La résistance et la déformabilité de Ta glace. On donne les résultats
+pour des essais en fraction uniaxiale ¢t en compression uniaxiale a vitesse de déformation constante aver
+de T glace polyeristalline bulbeuse. Ces résultats comprennent les courbes fension déformation. les modules
+délasticité, les résistances & la rupture ou & la dislocation, et les déformations au moment de I rupture, I
+tout pour une gamme de vitesses de déformation. On donne également quelques résultats valables pour la
+glace dopée & Facide luorhydrique. Le mécanisme de la rupture de la glace est discuté et Fon compare les
+résultats des essais aux données rapportées par des précédents chercheurs,
+
+JUSAMMENFASSUNG.  Verformung und Bruch von Eis unter einachsiger Belastung. Es werden Methoden zur
+Durchfuhrung von streng einachsigen Festigkeits- und Verformungsversuchen (e Eis beschricben. Ergeb-
+nisse fiir Versuche unter einachsigem Zug und cinachsigent Druck bei konstanter Versetzungsgeschwindigkeit
+werden mitgeteilt, wobei blasenhaltiges. polykristallines Eis benutzt wurde, Diese Ergebnisse erstrecken sich
+aul Belastungs-Dehnungs-Diagramme, Elastizitats moduln, Bruch- oder Koharenztesugkeiten und Grenz-
+dehnungen, durchwegs fir cinen Bercich von Verformungsgeschwindigkeiten.  Einige Ergebnisse fir Eis,
+das mit Hydrogen-Fluorid versetzt wurde, werden ehenfalls mitgeteilt.. Der Bruchvorgang in Eis wird
+chiskutiert. Die Versuchsergebnisse werden mit Werten verghichen, die von fritheren Autoren stammen.
+
+[NTRODUGTION
+
+In previous studies ac Cold Regions Rescarch and Engineering Laboratory the creep
+behavior of fine-grained polyerystalline ice under uniaxial loading was investigated | NMello
+and Smith. 1967: Mellor and Testa. 1g6g[al. 1gbg[b] . These studies have now been extended
+1o cover clastic straining. brittle fracture. and the ductile brittle transition.
+
+Although uniaxial tests are straightforward for ductile materials. they become trouble-
+~ome when the test material is truly britde, since any shght stress concentration can determine
+the outcome of the test. For this reason. special attention was paid to development of precise
+testing techniques for use at relatively high rates of loading. Since definition of tensile strength
+for britde materials is usually based on the uniaxial tensile teste considerable emphasis was
+given to tensile testing
+
+I'he test resulis give elastic moduli for compression and tension. uniaxial compressive
+strength for strain-rates from 1o 5 1o 1o 2 'and uniaxial tensile strength for strain-rates
+front 1o S toover o s L Used in conjunction with carlicr results from creep studies onice of
+the same type. they permit an examination of the relation between “strength™ - fracture
+strength or vield stress s and strain=rate over nearly 12 orders of magnitude.
+
+LSt MATERIAL
+
+Preparation of iee specimens. i an extended program of studies on ice it is iimportant 1o be
+able 1o produce test material of consistent and acceptable quality. Inomaking samples of
+polvervstalline ice for this study the following criteria were adopted:
+
+1 Theice should be consistently reproducible.
+
+10

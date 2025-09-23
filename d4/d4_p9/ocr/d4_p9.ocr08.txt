@@ -1,0 +1,17 @@
+HV electrode
+
+(elec de area 1.0 X 103m?2)
+SO
+
+SISO
+NS T H A
+NSNS s aSes
+N H
+..l.l..l..-'ll-'l'-- 1 mm
+i.l.'l.‘l.-’l--l---l
+AN s s S
+NN e
+NN G anite T
+e B
+
+Ground electrode

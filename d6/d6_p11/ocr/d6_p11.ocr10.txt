@@ -1,0 +1,41 @@
+c 1074 )
+£ o8
+% ) ©0.64
+
+£ 06 ‘
+
+5o 04
+
+@ ;
+
+e 02
+
+0.0 :
+-2 0] 2 4 6
+250 Time lag between melt and filling rates (days)
+b
+
+= 200
+
+b
+
+E
+
+I
+
+& 150
+
+o
+
+£
+
+& 100
+
+b see 3 -1 -1
+B sensitivity: 30 m (cmw.e.) d
+S
+
+50 .
+- 33m'd
+0 1 2 3 4 5 6 7
+Daily melt (cm w.e. d'1)

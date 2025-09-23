@@ -1,0 +1,40 @@
+a Trace number b Trace number c Trace number
+5 10 15 20 5 10 15 20 5 10 15 20
+circular array circular array circular array
+0 vertical component 0 radial component 0 transverse component
+02 —————————— 02 —— 0.2
+g ———— — 0.4 I —— ) 4
+_—————————= ————
+B e e e ] e e e e S S —
+0.6 ——— .0 | ———————————————— 0.0
+0.8 0.8 = — 0.8
+ge =z =
+Eo [0) [}
+®E 1 £ 1 £ 1
+5 = =
+3
+E 1.2 1.2 1.2
+o
+1.4 1.4 1.4
+air Wave =i Mg e ———— — = e —
+1.6 JEEE—————ee | 16
+P-wave e, R s R e R e e e e
+beq
+iy 1.8 1.8
+2 2 2
+z Radial Transverse
+Trace number Trace number Trace number
+d 20 40 60 e 20 40 60 f 20 40 60
+0 linear array 0 linear array 0 linear array
+vertical component radial component transverse component
+== e - ﬁ;ﬁ".‘ e e
+i = j.. R é e o
+2T o = N e @ = e e B =
+£o = o = e o
+5 - o, = . e o =
+3 . e, e g e oy o -
+& P-wave X. ~ -:.:.-.‘_‘-_-._- Wy g, \. ey e B i
+25 '; 25 '; 25
+3 3 - 3 -
+500 1100 1700 2300 500 1100 1700 2300 500 1100 1700 2300
+offset (m) offset (m) offset (m)

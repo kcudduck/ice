@@ -1,0 +1,8 @@
+00 ) 00 ' . 100 ' 1.
+i V=200m/s : g V=200m/s, °: :V=3000 m/s :
+easiward 2 | westward E : i E b=
+S 150 N h ; 100 N : : 8
+- Py z ; 0 : ; ° &
+0 0 0 -1
+15 2 25 15 2 25 35 4 45
+Frequency, mHz Frequency, mHz Frequency, mHz

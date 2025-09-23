@@ -1,0 +1,31 @@
+Back azimuth from north
+%0 1 0.02
+‘éa 45 ke 0015
+£ 9 ] 1 At AR )
+58 oA ] LL
+£ 18 *ﬁt {prSrammmeme | Moo S
+R 1Hg &
+o -45 a ki ; 0.005
+q -9 L a 0
+0 0.5 1 1.5 2 5 10 15 20
+sagittal angle form vertical
+90
+°© 0.15
+2% 60
+88 01 1w
+S5 g
+53 30
+3 0.05
+b ° 0
+0 0.5 1 15 2 5 10 15 20
+Ellipitcal component: 0 - linear polarization, 1 - circular polarization
+! 0.1
+0.08
+2
+£ W
+E— 05 0.06E
+] 0.04
+0.02
+0 0
+c 0 0.5 1 15 2 5 10 15 20
+Frequency (Hz)

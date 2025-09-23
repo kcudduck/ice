@@ -1,0 +1,103 @@
+Journal of Glaciology
+~ 75 REFERENCES
+
+T a
+g Behrens, H., H. Bergmann, H. Moser, W. Ambach and
+
+60 O. Jochum. 1975. On the water channels of the
+
+g = internal drainage system of the Hintereisferner, Otztal
+
+Alps, Austria. J. Glaciol., 14(72), 375-382.
+
+ﬁ 45 Bliss, J. 1983. Motorola optoelectronics device data. Phoenix,
+> AZ, Motorola.
+
+5 Brugman, M.M. 1986. Water flow at the base of a
+g 30 surging glacier. (Ph.D. thesis, California Institute of
+z Technology.)
+
+8 15 1990 Burkimsher, M. 1983. Investigations of glacier hydrol-
+
+ogical systems using dye tracer techniques: observat-
+188 =6 204 212 220 iogns at gasterzengle%schir, Austria. J. Gllacia[., 29(103),
+403-416.
+
+'F\ 44 b Campbell Scientific. 1989. CRI0 measurement and control
+£ module operator’s manual. T.ogan, UT, Campbell Scien-
+© 40 tific.
+
+g Colling, D.N. 1979. Quantitative determination of the
+
+subglacial hydrology of two Alpine glaciers. 7. Glaciol.,
+
+» 36 23(89), 347-362.
+> Gregory, J. 1985. Turbidity fluctuations in flowing
+5 32 suspensions. 7. Colloid Interface Sci., 105(2), 357-371.
+g Horowitz, P. and W. Hill. 1989. The art of electronics.
+=z 28 Cambridge, Cambridge University Press.
+
+8 1991 Humphrey, N., C. Raymond and W. Harrison. 1986.
+
+24 Discharges of turbid water during mini-surges of
+
+188 196 204 212 220 Variegated Glacier, Alaska, U.S.A. 7. Glaciol.,
+
+DAY 32(111), 195-207.
+
+Fig. 4. Electrical conductivity of water beneath Trapridge Jones, G. and B. C. Bradshaw. 1933. The measurement of
+
+Glacier measured with different sensors in 1990 (a) and the conductance of electrolytes. V. A redetermination
+
+1991 (b). Day 188 corresponds to 7 July. The data shown of the conductance of standard potassium chloride
+
+n (a) were obtained from a sensor that was installed solutions in absolute units. 7. Am. Chem. Soc., 55, 1780~
+
+during the 1989 field season. Note that in (a) the large 1800.
+
+conductivity decrease on day 204 coincides with the turbidity Kerker, M. 1969. The scattering of light and other
+pulse shown in Figure 3b. electromagnetic radiation. New York, Academic Press.
+
+Melik, D.H. and H.S. Fogler. 1983. Turbidimetric
+
+mechanical destruction is a concern, the absence of determination of particle size distributions of colloidal
+
+thermal fluctuations is advantageous to both turbidity systems. 7. Colloid Interface Sci., 92(1), 161-180.
+
+and conductivity sensors. For turbidity sensors, the Pilgrim, D. H., D.D. Huff'and T.D. Steele. 1979. Use of
+
+complete absence of ambient light is a major benefit. specific conductance and contact time relations for
+
+Lastly, and of greatest importance, the best approach to separating flow components in storm runoff. Water
+
+studying subglacial drainage is to monitor water flow in Resour. Res., 15(2), 329-339.
+
+situ, rather than rely on inferences based on proglacial Seaberg, S.Z., ]J.7. Seaberg, R.LeB. Hooke and D.W.
+
+observations. Wiberg. 1988. Character of the englacial and
+
+subglacial drainage system in the lower part of the
+
+ACKNOWLEDGEMENTS ablation area of Storglacidren, Sweden, as revealed by
+
+dye-trace studies. J. Glaciol., 34(117), 217-227.
+
+Support for this research has been provided by the  Stenborg, T. 1969. Studies of the internal drainage of
+Natural Sciences and Engineering Research Council of glaciers. Geogr. Ann., 51A(1-2), 13-41.
+
+Canada, the University of British Columbia and Geddes ~ Walder, J. and B. Hallet. 1979. Geometry of former
+Resources Limited. The data presented in this paper were subglacial water channels and cavities. 7. Glaciol.,
+collected in Kluane National Park. We thank Parks 23(89), 335-346.
+
+Canada and the Yukon Territorial Government for Willis, 1.C., M.]J. Sharp and K.S. Richards. 1990.
+granting permission to conduct ficld studies in the park. Configuration of the drainage system of Midtdals-
+We are indebted to F. Jones for laying the ground work breen, Norway, as indicated by dye-tracing exper-
+upon which our turbidity sensor was founded, and to D. iments. 7. Glaciol., 36(122), 89-101.
+
+Schreiber and W. Siep for the meticulous care that they
+have taken in constructing each and every conductivity The accuracy of references in the text and in this list is the
+sensor. responsibility of the authors, to whom queries should be addressed.
+
+MS received 10 March 1992 and in revised form 12 May 1992
+
+420

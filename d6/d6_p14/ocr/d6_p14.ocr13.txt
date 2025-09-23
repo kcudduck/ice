@@ -1,0 +1,58 @@
+SLIDING VELOCITIES OF GLAGIERS 110
+straighter flow lines, i.e. a nearly rigid movement of a part of the basal ice. Thercfore the
+sliding velocity is larger than in the steady-state. This is generally valid and illustrated in
+Figures 5 and 6.
+
+The present results have been obtained on the basis of very simplistic assumptions. More
+
+realistic assumptions would change the results in the following ways:
+
+1. The introduction of a tangential stress at the ice~bed contact, for instance a Coulomb
+friction law, has an eflect similar (o that of a reduction of the basal shear stress. Both
+the separation pressure (Lquation (1)) and the limiting water pressure (Equation (3))
+attain larger values. 'The difference in sliding velocities at the commencement of cavity
+growth and with steady cavities is reduced since in the latter case the contact arca is
+smaller and so is the friction.
+
+2. If the linear flow law is replaced by Glen’s law the difference between the transient and
+steady-state sliding velocity becomes larger presumably, because, when cavities begin
+to grow, ice deformation is more strongly concentrated in zones at the stoss faces than
+it would be in the steady-state giving a particularly small effective viscosity there
+of e — YA /ren=1. Here 7o (5i5'5ij'/2)4 is the effective shear stress and A and »
+are constants in Glen’s flow law: ¢ T 1oy’ /A, Furthermore, the straight lines
+in Figure 8 are replaced by parabolas.
+
+3. If; instead of periodic bed undulations, geometrically similar undulations with different
+wavelengths are assumed, the basal shear stress is no longer uniformly distributed
+amongst the different wavelengths: in order to maintain a uniform sliding velocity the
+smaller undulations require a larger proportion of the mean basal shear stress. There-
+fore, separation starts at the smaller obstacles at a smaller water pressure, Nevertheless,
+instability is attained no sooner than when the water pressure rises to the same limiting
+water pressure as in the case of periodic bed undulations. If the stoss faces of bed
+undulations have different maximum slopes, a rigid-body translation is only possible in
+the direction of the steepest stoss face which therefore determines the limiting water
+pressure for stability. Of course, if steep stoss faces are few, stress concentrations are
+immense when the limiting water pressure is approached. Consequently sliding is very
+fast and ice fracturing may occur.
+
+4. In reality, not all low-pressure zones at lee faces are in communication with subglacial
+drainage channels as has been assumed. For this reason the computed effect of the
+subglacial water pressure is an upper bound to the true effect which depends strongly
+on the degree of branching of the subglacial drainage system of a particular glacier in a
+certain scason. Furthermore, the capacity of water flow towards the low-pressure zones
+is not unrestricted. If the water pressure rises to the limiting pressure the sliding
+velocity is limited by the rate of water input into the subglacial cavity network.
+
+5. The contribution of regelation sliding to the total sliding velocity is negligible for the
+size of undulations modelled. However, the possibility that freezing of the ice sole
+occurs in zones where the pressure is temporarily reduced as a consequence of water-
+pressure variations cannot be dismissed. This mechanism has been discussed by Robin
+(1976). It is beyond the scope of the present paper to investigate its effect on the
+variations of the sliding velocity in more detail. Tt is noted, however, that some field
+observations indicate that the freezing mechanism is not influential enough to obscure
+variations of the sliding velocity which are consistent with the present model. The
+largest temporary pressure reduction takes place at the crests of bedrock obstacles at the
+time of rising water pressure in the cavities. One would therefore expect the most
+extensive refreezing of the ice sole to the bed (and consequently a small sliding velocity)
+in this time. Measured sliding velocities, however, were largest during the time of
+maximum or rising water pressure in moulins (Iken, 1974, pp. 9o, 94, and g6).

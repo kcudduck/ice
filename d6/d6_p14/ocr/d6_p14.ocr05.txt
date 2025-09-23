@@ -1,0 +1,44 @@
+SLIDING VELOGITIES OF GLACIERS 411
+GEOMETRY OF THE MODEL
+The finite-element analysis was applied to a section representing in two dimensions a small
+part of a glacier at its base. This section (Fig. 2) was taken to be 25 m high and 60 m long.
+It is resting on an unduladng bed which has a mean slope of 4°. The wavelength of the
+undulations was chosen to be 20 m, the amplitude 1.5 m. This section is part of an infinitely-
+wide ice mass which is 310 m thick (measured vertically in space) and has a surface- and bed-
+slope of 47 Thickness and slope are the same as at the central part of the Unteraargletscher
+where series of short-term movement measurements have been made.
+| T
+! T —
+| .
+. glacier
+Ah = 285m
+|
+e ~ modelled section
+2
+25m
+\ Pig
+] o i
+0 i B |
+TA 22 'A . l X
+34 e T
+Fig. 2. Modelled section at the bottom of a glacier. Surface slope and mean bed slope of the glacier is « = 4. Bed undulations
+have a period of X — 20 m.
+METHOD OF NUMERICAT, ANALYSIS
+The calculations were carried out with the finite-element program STAUB. This
+computer program and a related plotting program were developed at the Institut fur
+Strassen-, Fels-, und Eisenbahnbau, Eidgenossische Technische Hochschule, Zirich, for the
+purpose of stress and strain analysis in tunnel construction work (Kovéri and others, 1976).
+Different program versions for elastic and plastic materials and for substances with composite
+properties exist. For the present purpose the elastic version (Kovari, 1969) has been used;
+this is equally applicable o the analysis of a Newtonian liquid because there is a complete
+analogy between the elastic stress-strain relations and the lincar viscous stress—strain-rate
+relations. In thisapplication the shear modulus is replaced by a viscosity which was arbitrarily
+assumed o be n - 2.273 <108 Pas (— 7.208 bara). This particular assumption does not
+aflect the calculated stress field, but only the scale of the veloclty vectors.
+BOUNDARY CONDITIONS
+(a) Lower boundary
+The ice at point £; on the ice-rock interface moves parallel to the interface; in the finite-
+clement approximation this direction was specified o be parallel o the line connecting the
+two neighbouring nodal points 2; | and 2, on the interface. (Viee versa, the movement
+of a nodal point, calculated by the program, was considered to be parallel to the interface,
+if the same condition was satisfied.)

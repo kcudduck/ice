@@ -1,0 +1,58 @@
+224 JOURNAL OF GLACIOLOGY
+
+If the residual clastic compressive stress on a grain face is on the order of one bar and the
+corresponding elastic stress can be relieved by relative displacements on the scale of the grain
+size (¢. 1072 m), then the stress could be relieved by melting a 1 pm layer of water averaged
+over the grain face. From Nye and Mac (1972, p. 93 and g4) onc finds that the average
+thickness of a lens is about 0.07 times its diameter, which for lenses of diameter about 0.1 mm
+(for examples as shown in Fig. 3) amounts to 7 wm. This suggests that a considerable fraction
+of a grain face could have been covered by lenses before the driving compressive stress was
+relieved by the melting. The existence of lenses on grain boundarices of various orientations
+as seen in the samples (Section 3.2) gives support to this mode of lens formation. On the
+other hand, no concentration of lenses near the sample surface or veins was noticed, but this
+might be expected as a result of rapid formation by the above process. It seems difficult to
+draw any certain conclusions about the in situ existence of lenses.
+
+5.3. Veins
+
+Redistribution of heat within a sample, conduction of heat into the sample from its surface,
+and exchange of impurities, could have caused vein sizes to change before they were measured.
+The relaxation process can be discussed in terms of Figure g, in which the combined tempera-
+ture depression 0" of a vein from dissolved impurities and vein-wall curvature given by
+Equations (4)
+
+PR 6
+N
+
+is shown as a function of .1 for various values of impurity per unit length of vein €. The vein
+size .l is about 6.6 - 10 " m? in the samples. and the sample vein properties lie somewhere
+on the vertical line marked Aoupre. The i situ temperature 7 is known below a depth of
+about 6 m (Harrison, 1975[b]) and the in sitw 8" can be estimated from Equation (4a) and the
+assumption that vein pressure is equal to the mean stress in the ice. A very small vertical
+strain-rate (Harrison. 1975[a]) provides evidence that the ice mean stress is close o the
+overburden pressure. ‘This gives an i situ " ranging from 0.020 to 0.028 deg depending on
+depth and time: 0° — 0.024 deg is reasonably characteristic of the whole depth range. The
+i situ vein properties lie near the horizontal line marked 6,
+
+Relaxation without impurily exchange. 1f the impuritics do not move significantly along the
+length of veins by diffusion or water {low during the relaxation process, then it is reasonable
+to assume that (7 remains constant. In this case the vein properties change by displacement
+along the lines of constant € shown in Figure g.
+
+The initial stages of the relaxation are associated with pressure drop in the veins as a core
+is raised from depth to the surface of the glacier as discussed in Section 5.1, This raises the
+vein wall temperature above the temperature of the surrounding ice and the resulting heat
+flow causes freezing on the vein walls corresponding to displacement along a line of constant
+Cupward to the left. This process of local redistribution of heat is analysed in Appendix B.
+The process should have been complete within several minutes after the drop in pressure;
+it was probably already complete before samples were cut from the core. The resulting change
+in vein size and temperature depends on texture and the pressure drop. For samples collected
+near the glacier surface, there is little pressure drop. the changes are small, and the vein
+propertics would still plot near the horizontal line 6, in Figure 9. The possible vein size change
+and the corresponding change in 6" are substantial for samples collected from 60 m, and are
+shown by curves (long dashes in igure 9) for a fine texture (/ — 10m 2 ¢ x 2 mm) and a
+coarse texture (/= 10'm 2 a x 20mm). For example, fine-grained ice from 60 m with
+initial vein properties corresponding to P, would change to P,.
+
+On a somewhat longer time scale, heat conducts into the sample from its surface, which
+causes melting of the veins and displacement along a line of constant ¢ downward and to the

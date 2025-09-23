@@ -1,0 +1,21 @@
+DEFORMATION AND FRACTURE OF 1CH 17
+Initial tangent modulus. \When a uniaxial test vields a non-lincar stress strain characteristic,
+the slope of the curve at the origin is termed the “inital tangent modulus™ T terms of the
+Burgers rheologic model (series combination of Maxwell and Kelvin-Voigt models 1o could
+he regarded as the modulus of the Maxwell spring.
+‘ bR e A
+el M
+L Ve S y
+PG '
+ey
+}.:gg'ﬂ» R N
+£ N
+. Fo-
+Fag. 150 Dumbbell compression specimen after failure. The conter section is filled with internal crack 1t an carlier stage
+the deformation, such specimens decelop a Twmpy surtace as surface grains bulge out
+Values of initial tangent modulus given by the tensile tests were reasonably consistent for a
+g 9 )
+aroup of replications. The mean value tended o increase with increasing strain-rate (Fig. 18
+and the variance in the results tended to decrease with inereasing strain-rate. Mean values
+of the tensile modulus Tay in the range 5.4 104 10 6.6 - 10* bar 7.8 108 10 .6 108
+Ibfinch?

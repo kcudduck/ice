@@ -1,0 +1,15 @@
+@ 5 .
+4
+2 L
+3
+T gas poor_ s
+
+x 2 X
+
+]
+
+>1 P o'\gas rich
+
+o LB
+0 10 20 30
+E (uJ)

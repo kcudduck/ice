@@ -1,0 +1,26 @@
+(a ) Model
+70 4 —— MO07
+—— DIC impurities
+_ 60 ’//’//,/
+A\é // //’ //
+E 40 //// ,/’//
+c /// /,/ //"“,
+.© e e
+= A
+35 30 ’/// /,»” ,g,c"
+c e /// ’;41"
+< 2 O //,/’::::,/‘// ,;‘»’””;'
+-40 =35 -30 -25 -20 -15 -10 -5 0
+Temperature [°C]
+0 b T 0{©
+1 O o é i{ E‘. “\\\ 1 O 0 /,":l,’/ //%%,
+200 1\ 2004/
+a 400 T 400 —
+o | /
+500 4 500 -
+600 600 -
+§ Depth-averaged Att. Rate
+700 \\\\\ \\‘\\ 700 ; _— 18.3 + 7-9 dB/km
+i —— 15.4 + 7.2 dB/km
+-20 -15 10 20 30
+Ice temperature [°C] Attenuation through ice column [dB]

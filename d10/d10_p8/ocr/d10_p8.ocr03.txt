@@ -1,0 +1,65 @@
+Stone and others: Subglacial measurement of turbidity and electrical conductivity
+reference circuit. The turbidity sensors we have des- ELECTRICAL CONDUCTIVITY
+cribed employ nearly identical components in close
+proximity. Under these conditions Ry &~ R, and the last  Description of the device
+expression reduces to
+1 1% The electrical-conductivity sensor consists of two parallel,
+T _ZIH<VO>' (4) cylindrical electrodes embedded side-by-side in a non-
+There are several factors that complicate measure- cox?ductmg material and hous?d e protectlve-tubé
+ment of the actual intensity of the undisturbed beam by (Fig. 2) ,Thc, electrodes are stainless SFCd rods 635 mm
+the reference detector: (1) the source may not be a perfect (0.25in) in .dlameter and, b2 e (3.0in) 10{1g. They e
+isotropic radiator; (2) the detectors are not identical and pres.s-ﬁttcd o N pre-dnllcd', solid nylon cylmdci having
+may not be optimally oriented; (3) the separation 2 d“_“"e“?f of 25.4mm {1.011’]’) _and * lcngtb \Of 50.6 mm
+distances between the source and each detector may be (20in). The rods extend 6.3 mm (0-25in) from the
+different; and (4) the reference and sample light paths can measurement end of the nyl(')n cylinder and are separatﬁd
+have different optical properties, even when the sensor is by a center-to-center spacing of 1.2'7 mm (0.5in). TO
+not in a suspension. For these reasons, we include a allm.ﬂ solder 'connecu.ons f_or lead wires, small bfass pins
+positive constant a that multiplies the reference vol- ax.'c inserted mtol the mte.nor ends of the rods. The brass
+tage—in essence allowing correction of the measured pl'ns are placed in pre-drilled holes and fixed to the rods
+reference intensity. With this modification, Equation (4) W“_h a flux and low-ltemperaturcv solder tbat bon‘ds o
+becomes stainless steel. The entire assembly is placed in a section of
+. 1 Vv ABS or PVC conduit 101.6 mm (4.0in) long and having
+T= 7IIH<H_VU>A ) an inside diameter of 25.4mm (1.0in). The conduit is
+then filled with an electrically insulating casting resin.
+It is possible to estimate the value of a for a given sensor  Important features of this design are similar to those
+by measuring the voltages from both detectors when the  previously discussed for our turbidity sensors: small size
+sensor is in “clear”” water. In this case 72 0 and, from  and a geometry that reduces the possibility of clogging.
+Equation (5), we see that a = V/V,. We have made these Additionally, the use of stainless steel minimizes electrode
+measurements for a number of sensors and have found  corrosion.
+that values of a are in the range 0.6445 < a < 1.006. For
+some of our ecarly, prototype sensors, the necessary  Calibration
+calibration measurements were not made; when this
+information is unavailable, we ordinarily set a = 1. Astandard reference solution is required for conductivity-
+Equation (5) defines our usage of the term “turbidity”. sensor calibrations. We prepare our own reference
+With this relation, turbidity-sensor calibration entails  solutions using potassium chloride and freshly distilled
+measuring the water-gap path length L and estimating a  water but conductivity standards arc also available from
+reference intensity correction value for the constant a. commercial suppliers. According to Jones and Bradshaw
+For subglacial measurements, a calibration relating 7
+to suspended-sediment concentration is unrealizable, e B
+because it requires detailed knowledge of suspension [
+properties or representation of the suspension based on a - )
+limited number of samples. We have made numecrous | -~
+laboratory tests in which the suspended-sediment con- : {‘: Ry
+centration, for a given grain-size distribution, was Ve L —
+controlled carefully. Our investigations have shown that v —
+turbidity depends strongly on the grain-size distribution I NS CASTING RESIN
+of the suspension; smaller grains comprising less total mass | ( Ll BRASS PIN
+can produce turbidity values much greater than larger = I _ STAINLESS
+grains having more total mass. To be fully accurate, the oo STEEL ROD
+size, number concentration and light-scattering proper- 'y SOLID NYLON
+tics of all particles in the suspension must be known at all 1 '; , E ( CYLINDER
+times. This requirement is further complicated if the '1“ E“: 728'[:?\1%\%’}?‘“85
+suspension is not uniformly mixed. Because such ot
+information is unavailable, turbidity sensors are some- Ui
+times calibrated by collecting samples of the suspension
+while readings are being made, then analyzing the . )
+samples to determine sediment concentration (e.g. Fig. 2. Electrical-conductivity sensor showing the basic
+Humphrey and others, 1986). Whereas this procedure design and measurement circuit. Stainless steel rods are
+may be suitable for surface streams, it cannot be applied press-fitted into a pre-drilled, solid nylon cylinder. To
+to subglacial water flow because a large number of allow solder connections for lead wires, brass pins are
+samples cannot be casily collected from the glacier bed inserted into the interior ends of the rods. The entire
+and samples that are collected will likely be altered by the assembly is placed in a section of ABS or PVC conduit,
+time they reach the glacier surface. Thus, we have not which is then filled with casting resin. With this device, the
+used turbidity readings to estimate the suspended- conductance of basal water can be determined by means of
+sediment concentration of subglacial water. an a.c. half-bridge measurement.
+117

@@ -1,0 +1,13 @@
+HV electrode W pragioctase
+
+10
+. Quartz
+9
+; . K-Feldspar
+7 ___ Biotite
+5 I:] void
+. Granite
+3
+2
+Y 2 3 4 5 6 7 8 L
+X

@@ -1,0 +1,93 @@
+Jowrnal of Glaciolog)
+Jichily with increasing velocity, This signifies o higher Tat- 4. SLIDING LAWS
+eral drag at times of higher velocite Tncontrast, longitdi-
+B . . . . Nl N o S i c e atio,
+nal strain races did notshow any systematic variation. A brichreview of sliding liws which allow tov bed sepavation
+Vhe diizing stresses. 7o were caleulated rom the velation will he usetul hefore we discuss owrresuls.
+= pg O O wheve s the mean ice thickness and Anempivical Law ol the form
+Oh/de the surface slope over the rectanele, These driving Tl o
+. . . N wy, = ' — (shiding law 1)
+stresses renmained fairly constant during the advance 1980 A
+not shown L 19821985 and the vetreat 19910 Between Tas been proposed by Budd and others 1979 and Bind-
+1962 and 1985 the olacier geomeny remained unchanged sehadler 1983 Here ay, s the shiding velocioe s the (Tow
+over alength ol abour Thim up- and down-glacier from the T exponent. 71, is the basal shear stresscand N is the effec-
+arca of interest. This shows that virtally no- detectable tive stress - overburden prossure, po minis water pressure,
+ccometry change occurred over a length correspondimg 1o o Crand dare suitable constants,
+about 12 times theiee thickness, Between 1985 and 1991 the Ihis Taw acconnts for the powerlin dependence on
+alacier thinned by an average of 16 in owr avea ol stdy: basal shear stress Weertnan, 1957 s it vefers to the case when
+the effect on the driving stress. however, was nearly com- veoclation is negliaible, In addivon, shiding Taw T allows fo
+pletely compensated by an inerease in surface slopes The unstable sliding when the elacier hecomes alloac =0
+values for the surface elevation are quite accenrate, The ele- e Taw may be vegarded as a special and simple case ol
+. . . . . i D . . . . -
+vations ol over 0 points in the vectangle PP PP wer asliding L derived by Fowler (1987 for general bhedrock
+measured. cach reading better than 0.2m. heds which are composed of similar undulations ofdifferent
+The absence of systematic variatons inthe fongitdinal scales.
+strain rates and inthe driving stresses suggests that the basal Ongenthy undulating hedrock  Tike that now exposed in
+shear stresses may not have varied orcath 1o quantily this. front ol Findelenglerscher asliding instabiliny can occurat
+the method developed by Nan derNeenand Whillans 1959 avwater pressure fess than ove rhurden pressure, This critical
+was nsed to caleulate mean basal shear stresses. 70 the pressure. pris given by
+arca ol interest. The computational scheme had o be i
+IR U B I
+extended 1o take the important lueral drag into account. h Pe= e oS .
+was assumed that the strain rates decrease linearly with the i
+. . Here Jisthe anale hetween the mean hed and a Tine tangent
+velocities as one goes down from the surface towards the bed . o
+. o 16 the steepest stoss Lace s of undulations Then, 1981 The
+of the glacier, Forsimplicity the glacier hed was veplaced by .
+- o . concept of critical pressure applies forany hedrock ol con-
+an inclined plane, Tratter 1995 showed that an assumed . .
+e . stant mean slope, subject w the conditions that pressurised
+crror of 20" in the strain vates leads o errors of Tess than .
+B water has access to all Tow-pressure zones at the bed and that
+10" in the shear stresses, . . .
+. o . . . no taneential tractions exist along the hedrock undulations,
+Lable 2 shows the sienificance of the different tevms in . . .
+. . When the water pressure vises hevond pethe alacier slides
+the toree balance i Mayv 19620 Clearly Tateral shear forees ) ¥ .
+} i . wpicard alone the steepest stoss Lrce s ol hed undulations
+9 |
+plav el more important vole i the determuation ol . . .
+R . with accelerating velocitn The instabiliny ar a water pres-
+the basal shear stress than do Tongitndinal Toree aradients i . .
+. . . . sure pe < pyis ot allowed Tor by sliding T 1O would
+Phe shight variation incaleulated hasal shear siresses Table .
+. o . expect o find acterm pe— poovather than pg = pgina
+1 corresponds essentially o the vartations in Lateral drag . . . . .
+. . . . . liding Lo which recognises this instabilioe We have there-
+I'here are some difficulties inherent in this foree-halance ) ; .
+fove derived an approximate shiding Taw valid Tor a sinu-
+method. but under the assumptions stated above we expect
+. . . soidal bed of amplitnde a and wavelenegth € and a water
+10 vet a good idea of the temporal changes of these e hasal .
+. . pressure very close to the critical prossure. pe:
+Jrear stresses. Nosignilicance is attached o the absolue .
+values of these shear stresses. as they depend very muchon Al | (P — P
+. . 1y, = — Sl
+the fTow Taw parameters used in the calenlation. We are only (.x)‘ Pozi L2 2 e
+concerned with changes of these values. An important vesult lieline | |
+| H (shicling Taw 2
+is that there is aslicht decrease in hasal shear soress actmes
+of hicher velocities, This seems counterintuitive and will be Here Vis the vate factor of the Tow Taw, The righthand side
+discussed Tater. ol sliding Taww 2 does indeed have the expected ope o py
+term in the denominator This means that Taw 2 allows for
+the sliding instabilioy at pe = peor N = £,/ tan Sorather
+Table 2. Contributions of the diffirent ! ) !
+7l Z. 1 ), 1 ) Crent fore v Iyt l T e N [N «
+bl ondribulions of the differeni Jorce components 0 than N = 0. The derivation of sliding Taw 2 will be pub-
+i { [ T N
+rizing stress. 7. lished separately.
+[T L — 170 1009 o 5. DISCUSSION
+pgll 5 i)
+Basal shear stress 1 B ) i
+Normatised Luteral tangential foree, Il 07 e 5.1. Outline of the problem
+south side
+Novmalised Tateral tngential torce, vigh 0.27 5 An unexpected result ol the measurenents on Findelen-
+novth sidg oletscher is the very different velocitios e different vears at
+Ditference in nornmalised Tongivndinal 0.1l 6 . )
+| L RIS nearly the same basal shear stress T fact the hasal shea
+stress wars even slighth lower in 1982 when the velocin was
+igher, The Tower 7 is attributed o inercased drag along
+Notes Phe forces are normalised wich the hasal plane henead PP p - . N ) - ‘
+and are thus i anits of hars T har = 100KPa 2 Fhe mumbers veler e the Tefit nrargin, But how can an cqual or lower basal shea
+period 1260 NMay 1952 stress induce ahigher velocioey? Tewas notsimply aneflectol
+332

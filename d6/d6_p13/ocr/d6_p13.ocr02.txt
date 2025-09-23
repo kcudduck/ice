@@ -1,0 +1,58 @@
+214 JOURNAL OF GLACIOLOGY
+1. InTrRODUCTION
+
+Nye and Frank (1973) have proposed that temperate glacier ice should be permeable to
+water flow because of a three-dimensional network of veins lying along three-grain inter-
+sections. There are a number of processes in glaciers in which intergranular water {low
+could play an important role. Intergranular water flow is one possible route by which surface
+water can reach the glacier bed. The downward percolation of water could transport heat
+by advection and provide an internal heat source coming from viscous dissipation. It could
+dissolve and transport gases and soluble solids, thus affecting the texture and chemistry of the
+glacier ice. The vein network would provide the only means by which water produced by
+the mechanical production of heat could be drained from the ice. Furthermore, the veins
+may be important in the formation of larger conduits in the ice such as discussed by Rothlis-
+berger (1972) and Shreve (1972).
+
+The existence of veins in ice samples has been observed (Nye and I'rank, 1973). However.
+the existence of a connected three-dimensional network has not been established o exist in
+flowing glacicr ice, and Lliboutry (1971) and Nyce and Mae (1972) have given reason to
+doubt its existence because of complications in texture and non-hydrostatic stress. Even if
+the vein network is essentially complete, it is not possible to deduce the amount of water flow
+through it without knowledge of the size of the veins, a quantity which present theories are
+not capable of predicting.
+
+The purpose of this paper is to present observations of the liquid and gas phases in core
+samples from Blue Glacier, Mt Olympus, Washington, U.S.A. The glacier is deseribed by
+Kamb (1939). Allen and others (1960), LaChapelle (1965). Corbatd (1965, Harrison (1972
+and Meicr and others (1974). The coring was done during the third and fourth weeks of
+August 1972 at a site slightly below the usual late-summer snow line. The site was at an
+clevation of about 1 590 m near the 1961 location of the bore hole sz of Shreve and Sharp
+(1970, p. 67). A year earlicr sensors had been placed at a site roughly 30 m down glacier in a
+related experiment to measure deep in situ temperature (Harrison, 1975[b]). Samples were
+examined at about 1.5 m intervals to a depth of about 6o m or about a quarter of the total
+depth.
+
+Experimental methods are deseribed in Section 2. The observations and their relation to
+in situ conditions arc found in Scctions 3 and 5: some vein propertics used in subsequent
+sections are collected in Section 4. A tentative picture of the water flow through veins and
+larger-scale features is given in Scction 6.
+
+2. METHODS
+
+Cores were obtained with a thermal core drill yielding cores o.15 m in diameter and 1.6 m
+in length (LaChapelle and Taylor, unpublished). Immediately upon removal from the core
+barrel, cores were covered 1o prevent exposure to short-wave radiation and carried to a
+nearby snow cave. ‘There a sample about o.1m thick was cut perpendicular to the axis of
+cach core. Observations began typically within 20 min of breaking the core off at the bottom
+of the hole and within 5 min ofits arrival at the surface. Observations were continued usually
+for about one hour.
+
+Microscopic observations were made with a stereoscopic microscope capable of magnifica-
+tions of 6 to 100 times. A special stand allowed placement of large samples under the micro-
+scope. The distance from the objective lens to its planc of focus was go mm in air, which
+permitted examination of features well into samples. A beam splitter with 35 mm camera
+mount allowed simultancous visual observations and  photography.  Size measurements
+could be made with a calibrated reticle.
+
+T'he microscope and sample were positioned on a transparent table with illumination
+provided by a 100 W bulb mounted about 0.2 m beneath the table surface. In most cases

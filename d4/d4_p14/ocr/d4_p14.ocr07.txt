@@ -1,0 +1,16 @@
+U32 e
+Undulators RF Clock
+Specimen view Sa 16 Bunch
+.. 1 =
+s = X-ray Beam (145 m)
+i i - Q
+Incident Bar Transmitted Bar c% 2
+27 £ g
+Anvils T2
+—F—  X-ray Beam ®
+1X Hasselblad —— (9 m propagation ) Delay Generator
+lens
+i ==1LYSO:Ce
+Scintillator
+High-Speed _ _ 3l .
+Optical Camera <==Mirror

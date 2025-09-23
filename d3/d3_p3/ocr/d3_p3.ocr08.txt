@@ -1,0 +1,16 @@
+NLBS.ELZ
+—Waveform
+e Trigger
+g 400
+— —STA/LTA
+<\: e Trigger
+g‘) 200
+0 200 400 600 800 1000 1200 1400 1600 1800
+Time, sec
+. BData Histogram ;
+%’ 0.5 .. --Hstimated Null Distr. & =
+o . ‘..'.. — ”
+8 N 8 h
+0
+0 1 2 3 4 5 6 7 8
+STA /LTA Statistic

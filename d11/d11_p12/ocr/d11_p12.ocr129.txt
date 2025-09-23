@@ -1,0 +1,5 @@
+lR.lmax for Ro=1p
+—_—f= 1.6*fr
+501 |_____f=2% /I
+r
+40 A

@@ -1,0 +1,14 @@
+(a) (b)
+Charge Induction (Cl)
+Contact Electrification (CE) ‘ ,
+' ~ Al Compressor
+SE - TENG =
+]
+\ / Approach l ‘Departure
+o
+‘ To Picoammeter
+Electrostatic Discharge (ESD) Approach
+I (nA)
+EE . r o
+D t
+eparture t (s)

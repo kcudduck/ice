@@ -1,0 +1,4 @@
+100
+O carbonatite
+W basalt 1600K
+A hacalt 1500K

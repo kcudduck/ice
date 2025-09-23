@@ -1,0 +1,21 @@
+700
+14
+T 6007 ¢
+5 BY BI
+2
+£ 500
+a BS®
+g 400 N Y
+S ® bty oNBT
+%
+E 300 p ePCW
+5] PSN® ¢ PCN
+RS
+2 200 ST pznN
+* PN
+= PMIN b Te #pn
+100 oPMT
+® PMW
+0
+0.84 0.88 0.92 0.96 1.00 1.04
+End member tolerance factor (t)

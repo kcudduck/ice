@@ -1,0 +1,15 @@
+Spectrogram StationFX04, 28.07.2011, DoY:209
+Nfft = 24, overlap =0.8
+© =560
+5 £310 -
+2 500 a
+238
+S e
+2]
+3 | ‘ "
+O -2000 [dB]
+S 10 < i
+L2 e “”aﬁe"&@g 0
+o -20
+15:00:00 18:00:00 21:00:00 00:00:00 03:00:00
+Time of Observation [hh:mm:ss]

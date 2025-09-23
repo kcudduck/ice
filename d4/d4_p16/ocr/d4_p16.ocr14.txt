@@ -1,0 +1,19 @@
+V4
+4 ®
+o % & & = \ f = \ v ¢ . i\
+4 § 2 0.5 N ¥ ;0 Sr o .
+\ iz A &) 05 ' 0.5 t’ 0.5
+N h ;\ - i ) ] . p » » 5
+v £ ) - / " N R < ., /
+a b c d
+20 Pavr
+- NR1, cllz, 100 KV
+o o — = NR1,clly, 100kV
+— — wweeeNR2, Casel, 150 KV
+p t, g -14 D Ly 15 ,"“g —-=-NR2, Case2, 150 kv
+fs 0 \\ B E7 N = 2 NR2, Case3, 150 KV
+/ . 2% ~'T‘*‘ v. = /4 ‘ NR2, Case2, 150 kV
+[ 2o ¥ N \\ \ g e b 10 ¢ ‘ Electrodes y-direction
+) 0
+0 100 200 300
+e f g Time [us]

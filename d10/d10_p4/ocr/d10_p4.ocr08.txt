@@ -1,0 +1,20 @@
+(a) (b) (c) (d) (e)
+ice
+100000 Om
+760 m thick
+*multiple different resistivity values are tested for layer 2 (blue) detailed in the key below
+108 108 108 108 108
+107 107 107 107 107 A
+£ \ E \ B \ B \\ £ K\\
+S \ S \ S \ S \ S \
+
+@ Y \ > \ Y A\ (lase G N 3
+§ 10_10 \ § 10.10 \ § 10-10 \‘.:\ § 10-10 \;.‘ § 10-10 \‘.‘ §
+""ﬁ \ 107" \\ 107" \ 10" \\ 1011 \\
+
+\
+10712 10712 10712 10712 10712
+107" 10° 10" 107" 10° 10" 107" 10° 10" 107" 10° 10" 107" 10° 10’
+Time (ms) Time (ms) Time (ms) Time (ms) Time (ms)
+Received voltage curves key
+—a0.190m — 10m 10 0Om 10000 OmM — Devon data

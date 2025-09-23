@@ -1,0 +1,18 @@
+. , 1 r Frequency =,58 |le .5
+|
+‘(a) Line A _
+i o !
+s 0 9004y z
+j
+H 0 n
+'- Frequency = 1.6 Hz | -
+(b) Line A A
+" Line B 9 g
+n
+| 5
+~ Frequency =0.04 Hz | -
+| C) Line A 1!
+Line B . 4
+© J 9 ] F . S
+9
+% &

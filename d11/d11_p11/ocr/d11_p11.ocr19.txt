@@ -1,0 +1,44 @@
+Q 0.5 M THF STEP 1
+A 0.30 mL/min 3:2 Toluene /ELO (~
+MoBr (S 1.2 mLmin Y
+AN
+S 40 min FlowiR l BMgO N\
+J 40°C R
+O 0.5 M 3:2 Toluene / Et,0 waste
+0.27 mL/min
+N NH,CI (aq) / H,0 G
+vaporsout 2 @ @ 4 PRENIRN _
+1.4 bar (3:1 v/v)
+(condenser) 0.5 mL/min ’/
+Q\ EITE (@p)
+3 N organic out
+2 HO "R l charcoal
+filter
+5 m||
+O 3 | glass
+MeCN webcam E | beads
+1.2 mL/min i ]
+. . aqueous
+eristaltic
+Q P out ~—Z0 ) —rro—
+residence tubing
+@ °
+>:< H. SO, ®
+0.05 mLimin (J wide-bore
+— AT P residence tubing
+s\\\ |! : J‘Jh’m‘w =
+o] = N 30min
+@ 25°C KOH (4 M)
+-7 . 4:1 EtOH/H,0
+-“"  webcam 0.15 - 1.4 mL/min @ 2 mL/min 2
+e
+N, == @ ° ) .
+S5bar s rotating sinter
+gas out mw“,‘w’\" i
+O ”“[["[‘L - - n Q solids removed %
+gas-pressure 25min -~ o = replaceable filter l
+BPR (average) webcam ~ A TNH
+. Z cotton wool
+Z :
+N, O ;g
+78 X

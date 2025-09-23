@@ -1,0 +1,69 @@
+420 JOURNAL OF GLACIOLOGY
+
+CONCLUSIONS
+The study of the idealized model has made characteristic features of the relation of
+
+subglacial water pressure and sliding velocity distinet. The sliding velocity is neither simply a
+function of the subglacial water pressure nor of the size of cavities but depends on both
+variables. The result that the largest sliding velocity (in the stable range) occurs at the
+beginning of cavity growth and not when the steady-state size of cavitation is attained may
+correspond to the field observation that the maximum horizontal velocity occurs before the
+upward motion of the ice has reached the maximum elevation.* Backward sliding, predicted
+by the model for the case of rapidly shrinking cavities, has not yet been observed. 1t would be
+an indication of the significance of the cavitation mechanism. For this test short-term velocity
+measurements ought to be continued during the night. Depending on the type of glacier and
+subglacial drainage system it may. however, happen that the channels which interconnect the
+cavities become blocked, when the water pressure drops and thus the shrinking process is
+stopped.
+
+Of particular interest is the possibility of unstable sliding at a water pressure well below the
+ice overburden pressure. The very high velocities observed during brief” periods at the
+beginning of the melt season may possibly be interpreted as short spells of locally unstable
+sliding, terminated by the loss of water from the subglacial system.
+
+ACKNOWLEDGEMENTS
+This study has gained much from the discussions with C.. F. Raymond and H. Réthlisberger
+
+who took a particular interest in the problem and helped to clarify the concepts. They also
+
+read the manuscript and suggested improvements. U, Spring, K. Hutter, and G. Raggio also
+participated in some of the discussions. P. Fritz of the Institut far Strassen-, Fels-, und
+
+Eisenbahnbau of Eidg. Technische Hochschule (ISETH) advised on the use of the finite-
+
+clement program STAUB. 'The drawings were prepared by B. Nedela and S, Dimmler
+
+typed the manuscript.
+
+MS. received 20 May 1980 and in revised form r1 August 1980
+
+RETERENCES
+
+Boulton, G. S. 1979. Processes of glacier erosion on different substrata. Fournal of Glaciology, \'ol. 23, No. 8g,
+p. 15-38.
+
+Boulton, G. S., and others. 1979. Direct measurement of stress at the base of a glacier, by G. S. Boulton, E. M.
+Morris, A. A. Armstrong, and A. Thomas. Journal of Glaciology, Vol. 22, No. 86, p. 3 24.
+
+Engelhardt, H. F., and others. 1978, Basal sliding and conditions at the glacier bed as revealed by bore-hole
+photography, by H. F. Engelhardt, W. D, Harrison, and |W.] B. Kamb. Journal of Glaciology, \'ol. 20, No. 84,
+p. 469-508.
+
+Tken, A. 1974. Glaciology, No. 5. Velocity fluctuations of an Arctic valley glacier, a study of the White Glacier,
+Axel Heiberg Island, Canadian Arctic Archipelago. Avel Heiberg Island Research Reports, MeGill University,
+Montreal.
+
+Iken, A. [1978.] Variations of surface velocities of some Alpine glaciers measured at intervals of a few hours.
+Comparison with Arctic glaciers. Zeitschrift fiir Gletscherkunde und Glazialgeologie, Bd. 13, Ht. 1-2, 1977,
+P- 23735
+
+Jones, A. S. 1979. The flow of ice over a till bed. Fournal of Glaciology, Vol. 22, No. 87. p. 393-05.
+
+Kamb, W. B. 1970. Sliding motion of glaciers: theory and observation. Review of Geophysics and Space Physics,
+Vol. 8, No. 4, p. 673-728.
+
+Kamb, W. B., and others. 1979. The ice-rock interface and basal sliding process as revealed by direct observation
+in bore holes and tunnels, by [W.] B. Kamb, H. F. Engelhardt, and W. D. Harrison. Jounal of Glaciology,
+Vol. 23, No. 89, p. 416-19. [Abstract.]
+
+* Paper in preparation: see footnote on p. 407.

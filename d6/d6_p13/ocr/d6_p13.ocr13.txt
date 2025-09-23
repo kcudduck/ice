@@ -1,0 +1,72 @@
+LIQUID AND GAS PHASES IN TEMPERATE GLACGIER ICE 225
+Asu{np\e
+10—
+—-— —— —— ——crs, 60m—
+i ~tn, 60m P2
+—_— == —— — —cb,60m—+—
+\ T
+- —
+N RN N \
+\ Py ]
+- N N . L
+l* L, ~ U Uy UC\\
+— -
+| S
+o s 9\ NN \ 0%
+S0 PN
+N N .
+© AN R -
+~ NN et
+< AN ,mvo \\
+s -
+0>, - s}
+o \ . ° AN |
+AN\
+e, Om— = —— ——~ — /
+. < \ s )
+S A N s
+-3 . S
+10 SN W U - -
+-1 -10 -9 -8
+10" 10 10 10
+2
+A (m%)
+
+Fig. 9. Relationship between 6 and A for carious values of G Units of Gy ave deg me. 0, and 0. are the in sita and
+Sample surface values of 8'. Long dashes give cein properties afier completion of the adiabatic pressure relaxation for fime-
+gratned ice ( fn. bom) and coarse-grained ice (crs. Go m) originating at 6o m. Short dashes give properties expected after
+S0 min 5 mminto sample for fine-grained ice from near the swrface ( fu. o m), fme-grained ice from Gom { fu. Gom,
+woarse clear ice. from near fhe surface (cc. o m). and coarse bubbly ice from 60wt (cb. 6o m). Pys Pa. Py, Py represents a
+possible relaxation path for fine ice from Go m depth. Other inclined dashed lines give possible velaxation paths for other
+textures and origin depths.
+
+right. Eventually the inward conduction of heat ceases when 8" becomes equal to the tem-
+
+perature depression fs from impurities in the liquid layer on the exterior surface, in which
+
+case temperature gradients have been eliminated. Because the bulk impurity content of the
+ice was measured to be extremely small. it is likely that g is determined by the amount of air
+in solution at ambient atmospheric pressure (about 0.82 bar) which gives 6. - 0.002 0 deg.
+
+This is plotted as the horizontal line 6. on Iigure g. For example, the vein properties would
+
+relax by local redistribution of heat to P, progress back to Py, pass through P, and eventually
+
+reach P, where relaxation would stop.
+
+With these constraints on the initial and final values of 6" and on the relaxation path.
+the in situ vein size can only be in the range L 1o U for ice originating near the surface, L o
+Uy for fine ice from 60 m, and L to U, for coarse ice from 60 m. Numerical values of these
+limits are listed in Table 1. columns 1 and 2.
+
+In order to narrow the limits further it is necessary to know the time scale of the heating.
+I'his was studied by solution of the equation of thermal diffusion with a source term which
+accounts for the heat of fusion associated with change in vein size (Appendix ). The vein
+properties after the pressure relaxation provide initial conditions, and the temperature on the
+external surfaces provides boundary conditions. For simplicity. the circumferential surface
+of the disk-shaped samples was neglected and the solution was carried out for slab geometry.
+The solutions show rapid vein size changes during the first several minutes and sirong
+gradients in the first several millimeters below the surface. At later times and greater depth
+the variations are much less pronounced and are small enough 1o be compatible with the
+apparent lack in the samples of a depth gradient and time dependence during the initial hour
+of obscrvation (Scetion 3.5,

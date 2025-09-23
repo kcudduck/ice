@@ -1,0 +1,22 @@
+I 3 pits
+I 2 pits
+11 pits
+[__Blank
+0.25
+0.2 N
+— \/74
+>
+b
+VAN
+0]
+% 0.15
+: VAN <> AN
+o VAN
+> 7/
+0.1
+VAN
+VAN
+N\
+0
+High Low
+Power

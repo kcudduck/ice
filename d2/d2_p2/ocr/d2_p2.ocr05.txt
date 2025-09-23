@@ -1,0 +1,40 @@
+ATTENUATION OF SOUND IN SEA 1CE, 10- _v')()()kHz 4()3
+FREQ. ATTEN,| FREQ. ATTEN
+KHz db/m Lk dbm
+227 190 . r
+— I ‘
+| 260 176t ) R ~
+- T a8 6.63 K_.
+L [ Ea— - \\
+302 241 o N
+4 T L 58 523 N
+7“‘\\'1 o =} Nael .
+ol 35, 2.22 F o S
+i ~— R S
+- 408 281 I L AN
+L T 187 109+ ™
+T 475 334 — T [N
+55.0 2.8l ‘ 205 A RN
+- el — T 226 9863 . ™
+G- 740 582 . ) e N
+854 5028 } N
+o962 590 -, "
+[ . 344 169
+103 345 B \
+r Tt ™~ - 384 259 .\
+109 3.76 RN L -
+-4 530k Lo \
+. 428 274 .
+L ™. RS .
+;; 121 4.29 - Ny oL 477 418
+Tize 398 r \
+136 6.81 . RNy \
+L oo™y v | Lob
+408 2 b 20 Za E A
+RANGE (feer) RANGEH (feet)
+S SR E— 1 I yE— J L | S—
+2 34 5 85 & o34
+RANGE  {meters) RANGE  (meters)
+Fig. 3. Transmitter of diameter 1in (2.5 om). Signal intensity level as a_function of range at_frequencies between 10 kHz and
+500 kHz. Values of the attenuation coefficient. listed in the AT TEN' colwmn, are the negatice of the siopes of the straight
+lines.

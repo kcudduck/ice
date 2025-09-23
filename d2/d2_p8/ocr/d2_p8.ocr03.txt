@@ -1,0 +1,99 @@
+166 Bromirski and Stephen: Response of the Ross Ice Shelf to ocean gravity-waves
+o . VI kuﬁ;we" ; Cf";ﬁl forcing. A more pronounced difference in coherence
+-90- ' ,__,\/\ {:‘F’l:‘sgl\![ between vertical and N-S and E-W components, respect-
+-1005\/ : r ] ively, is observed in the long-period swell band (about
+
+| RIS2 ] B Resonance ] 0.040-0.065 Hz) compared with the IG waveband. This
+
+. =10 ‘ peaks | | difference is consistent with swell impacts along the ice front
+
+3 _120“\ e . ~at relatively nearby locations producing dominant N-$
+
+% | 1G wave- " ™ motions propagating away from the front, while the much
+
+E =130 J band [ A longer wavelengths associated with IG waves produce
+
+B i) / M signals that are less directional. Another possibility is that
+
+o I\ ‘ ik , l E-W motions of the largely detached Nascent Iceberg
+
+TSN SBA / g, produce a greater contribution to the response in the IG
+—160- ‘Mkl W / aat [ band than in the long-period swell band. However, Kirchner
+f N | and Bentley (1979) have shown that anisotropy appears to
+'m”i ¥ l be a common characteristic of elastic signal propagation
+
+‘ VNDA , s .
+—AB0 T across much of the RIS, indirectly suggesting that the nearby
+10° 10” 10" 10° 10' rift does not make a major contribution to the observed
+e L anisotropy. Multiple stations would be needed to determine
+
+: ) 6 : the distribution of gravity-wave-induced signal levels across
+
+Fig. 3. Comparison of mean vertical component particle accelera- ; 3 B
+
+tion austral summer (January—February) 2006 spectral levels at SBA the RIS ar?d their propagation Charade”s.tlcsf
+
+(red), VNDA (green) and RIS2 (dark blue). Also shown are austral . Analysis of the Nascent Icebe.rg seismic data .shows
+
+winter (August-September) 2006 mean spectra at SBA (magenta)  higher coherence between the vertical and N-S horizontal
+
+and VNDA (black). Mean spectral levels at tabular iceberg B15A  components compared with the vertical and E-W com-
+
+(cyan) during January—February 2005 are similar to those at RIS2, in  ponents (Fig. 2c and d). This coherence difference strongly
+
+contrast to those at land-based seismic stations SBA and VNDA.  suggests an anisotropic response, which is consistent with
+
+Resonance spectral peaks at RIS2 centered near 0.5, 1.0 and azimuthal differences in compressional and shear wave
+
+1.75Hz (blue arrows) correspond to those shown in Figure 5, with  ye|ocities determined from seismic refraction data collected
+
+similar peaks at B15A but at lower frequencies on the RIS (Kirchner and Bentley, 1979). Tilt contamination
+was not considered in this analysis, but similar spectral
+amplitudes and variability of the E-W and N-S horizontal
+spectral amplitudes are much less affected by sea-ice  responses (not shown) suggest that tilt effects are not that
+damping, indicated by no substantial change in mean significant and that most of the differences in coherence
+spectral levels below ~0.02 Hz during April (Fig. 2a). During  observed result from the characteristics of the dominant
+the austral summer when sea ice is at a minimum, spectral forcing originating along the ice front.
+
+amplitudes of IG-wave-induced signals are about a factor of
+
+3 greater than swell, but that ratio increases to about 15 or
+
+higher during periods when sea ice is present (Fig. 2a, white RIS SPECTRAL RESPONSE CHARACTERISTICS
+
+oval), which preferentially damps swell energy.
+
+Comparative spectra
+
+Coherence variability and implications The relative impact of gravity waves on the RIS response can
+Because rifts, crevasses and cracks are preferentially ori-  be estimated by comparison of the seismic data collected at
+ented parallel to the ice front (Peters and others, 2007), RIS2 with nearby Antarctic land-based seismic stations
+significant anisotropic strength at long length scales is likely.  (Figs 3-5), with mean spectral levels at tabular iceberg
+Although crevasse orientation at shear margins can vary, ~ B15A providing further comparisons. SBA, the permanent
+changes in anisotropic ice-shelf response associated with the  seismic station at Scott Base on Ross Island (Fig. 1), provides
+dominant fracture orientation may be a useful proxy to  a long-term reference with which to compare RIS-collected
+monitor changes in ice-shelf integrity and can be investi-  seismic data and to establish the relationship between 1G-
+gated by coherence analysis between vertical and horizontal ~ wave-forced RIS signals and associated signals at SBA.
+seismometer channels. Signal coherence between two time  VNDA, located relatively nearby but situated near Lake
+series is analogous to the conventional correlation co- Vanda in the Dry Valleys, is thus removed from ‘direct’
+efficient and is determined from the square of the cross  contact with the RIS, unlike SBA.
+
+spectrum normalized by the product of their auto-spectra. The swell spectrum is centered near 0.065Hz for all
+
+Reasonably well-defined bands of high coherence between  stations, including B15A, indicating that these stations
+
+the vertical and horizontal N-S channels are continuously  receive similar seasonally averaged gravity-wave forcing
+observed for IG waves (<0.03 Hz), long-period swell (0.04-  (Fig. 3). The austral winter and summer mean single-
+0.07Hz) and near 0.1Hz. The 0.1Hz coherence bands  frequency (primary) microseism levels centered near
+occur when sea ice has retreated, and may result from ice-  0.065Hz have very similar amplitudes at both SBA and
+shelf resonances associated with the structure of the ice-  VNDA (Figs 3 and 4, swell). This indicates that both stations
+shelf/sub-ice-shelf system in response to long-period swell  have a comparable response to seismic surface wave signals.
+impacts. Of note is the consistently strong coherence in the ~ However, RIS2 levels are about 8 and 5 orders of magnitude
+
+IG waveband at frequencies less than 0.03 Hz throughout  greater than VNDA at about 100s (0.01Hz) and at 17s
+
+the data period (Fig. 2c), consistent with minimal sea-ice  (0.065 Hz) periods, respectively. Only small differences are
+damping of IG waves. observed between mean winter and summer spectral levels
+
+A lower-coherence band spanning 0.03-0.04 Hz demar-  at SBA in the IG waveband (Fig. 3), confirming that the much
+cates the transition from long-period swell to IG wave  longer-period IG-wave-generated signals on ice shelves are

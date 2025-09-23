@@ -1,0 +1,82 @@
+Walder:  Hydraulics of subglacial cavities
+Combining Equations (1) and (2) gives Kamb and others (19853) hlee al_so argup(i _th:\l the
+geometry of interconnected cavities will be primarily deter-
+no 0 0Gv: mined by water-pressure effects rather than by melting.
+g = R|=&| = (1—9)—, 3)
+€ [:1.4] PH Stability  characteristics  of a cavity-dominated drainage
+system
+For simplicity, | will follow Lliboutry (1978) and assume (AN interesting  result bearing on  the question. of
+the cavity rool is elliptical in cross-section. P will then f_m”l‘_‘-" of interconnected  cavities “!50‘ follows from
+generally be given by an elliptic integral, but assuming, Equation (8). _Notmg first that the cavity’s cross_-secnona[
+"well-developed” cavities such that L > c. 3R, one may area is approximately equal to mRL/4, one may write
+approximate (cf. Selby, [€1972], p. 18)
+i n QGv; | [na |
+Po= kL (4) S & ~|Rug+(1 =y)y—L|=| . 9)
+e 4 Hicy | e
+where k; = m/2%% =~ 1.1, Note from Equation (3) that, for
+sufficiently low effective pressure p,, the effective closure Assuming turbulent flow, S may also be related to discharge
+rate would vanish: hence, no stable, finite-sized cavity could O by the Manning formula (cf. Nye, 1976, p. 189), which
+exist This point will be elaborated later for the cavity may be shown to take the form
+Consider now the role of sliding in keeping a cavity
+open. The time 7. that any "particle" of ice in the cavity 0 = plcl/is (10)
+roof is separated from the bed is given approximately by
+where ¢, = (nR,’41\1)2/3(I/m)(vw/y)l/z, with » the Manning
+R roughness coefficient, v, the specific volume of water, and
+7‘C = —, (5) £ the acceleration of gravity. It should be stressed that
+e Equation (10) assumes G to be constant, i.e. there are no
+constrictions in the cavity. Combining Equations (9) and
+In this same period of time, the "particle” will have moved (10) results in
+(by definition) a distance L along the ice-flow direction
+For sliding speed ug. therefore, Ru G'/?
+gx ——S— (11)
+4 n .G3/2
+LR B [ *”&} =G
+“s-' me, | |n4 Kk H
+so combining Equations (3) and (6). For comparison, the corresponding cxyzress}uxl'for a steady-
+state. R channel may be written as (cf. Réthlisberger, 1972,
+p. 180)
+; _uR o
+= — — (7
+vo 14 H )4 o |4 g 11/2
+n ~. . i’ . e 3
+b Gy, 2] = 3:1{ [ ] m®|=— ) (12)
+e -y 2220 channel )
+[\LIJ U-n= - vlJ g | |n4 v, G
+For the J]\IH‘?\]HL\IL‘ case of "long" Cfl\ilkH: substitution of Equation (11) has two important consequences. First, it
+Equation (4) into Equation (7) and a bit of re-arrangement shows that in the steady state, the greater the discharge, the
+leads to the result greater must be the pressure gradient, for fixed Pe. This is
+precisely opposite 1o the steady-state behavior of R channels
+) (Rothlisberger, 1972, p. 180) and has important consequences
+L= “‘\"“m’; (8) for evolution of the drainage network. Should two cavities
+e empty into a common "sink", then up-stream of that point,
+i B . water pressure in the cavity carrying the greater discharge
+where 17, = (1 =9)QGv,/k RH. An interesting  feature  of will ‘be more than that in the cavity carrying the lesser
+rh.xs result s that, in comparison  to slu_.lmg. melting _W|_l] discharge. Hence, "capture" of melt water by a few main
+often have a rather minor effect on cavity length. This is conduits is strongly disfavored for the sort of interconnected
+indicated in Table I, in ‘Mnch values of oy are given for cavities envisaged here. A system  of  relatively small
+several vpluusxl:]? \.11uv}q of F{ux Q, hydraulic g:ac]wn{ G (cf conduits distributed over much of the glacier bed would be
+Appendix), and cavity height R Unless the _ discharge stable, in accordance with conclusions reached by Kamb and
+lhr”“g‘“ - "”‘.H'»P “T‘W”'\.v R >|gml|\j_ant ilaclmr_) of the total others (1985). This theoretical prediction is in good accord
+fm"“m“‘.qm ‘\.Imhn‘vge (m.'“ the gh&‘wr’ Hm W_‘“ lm“”;\ be with field studies of former subglacial drainage conduits
+4?mll in comparison with ug,  the sluillng speed.  Cavity exposed on recently deglaciated bedrock (Walder and Hallet,
+length will then be given approximately by 1979; Hallet and Anderson, 1980). These studies clearly
+indicated that there had been no long-term tendency for
+nd | development of arborescence in drainage systems dominated
+Lo~ g I by cavities and Nye channels.
+i 1 have previously alluded to the second major
+consequence of Equation (11), namely, that for Po below a
+certain  value, there will be no stable, finite-sized
+— . i caviti ie. fecti avi closure rate
+TABLE | FFFECTIVE MELTING RATE @, IN m/a, interconnected cavities, ie. the effective cavity closure rat
+FOR FLOW IN CAVITIES OF HEIGHT R =”E)lm FOR ug will vanish. It may be shown that this condition is
+i << u.. THE SLIDING SPEED. MELTING IS OF cquivalent to setting the denominator of Equation (11) equal
+L < N . N | A B D - N issible" - 4 h €
+NEGLIGIBLE IMPORTANCE IN DETERMINING CAVITY to zero. "Permissible” steady-state values of p, are therefor
+SIZE given by the expression
+om®sl) 103 10°2 1o-1 ! Po 2 GOHMRMy gy 1/ (13)
+G(Pam™}) where
+B B B 5 - 1/n
+1 6.5 x 1070 65 x 10° 65 x 10% 65 x 107! i
+10 65 x 10° 65 %102 65 x 107 65 cy = (/AR H) vy /) ;
+100 6.5 x 107 65 x 100 65 65
+441

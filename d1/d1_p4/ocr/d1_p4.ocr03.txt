@@ -1,0 +1,7 @@
+Oxidation potential Limit for the onset of a Rayleigh limit
+corona
+Threshold
+Chemical . . 3
+. Reactions due to the Spraying of nanoparticles
+process Redox reactions ’ . o .
+corona discharge and direct emission of ions

@@ -1,0 +1,56 @@
+168 Bromirski and Stephen: Response of the Ross Ice Shelf to ocean gravity-waves
+a ; c lsz: Z ‘ ‘ b RIS2: February 2006
+g Mt | = ) =
+25 i : I e | -80- /‘ \ & —80
+E ISR o b i1 v oER L TR = / i A
+B il =/ A
+051 4 Py = i £ : ' o
+0- 140 w
+D J F M A M
+November 2005-May 2006 .| February
+o —— -160 =
+-160  -140  -120  -100 % R i
+Acceleration (dB re: 1 (ms?2Hz")
+C RIS2: Z vs N d
+B 8 e Y S RIS2: April 2006
+101l igsﬁ‘éﬂi?;‘ LT gmé i H;, Pl - /2 \p Resonance | —%
+g el ,1%';'f§fs‘g$<fz.§ Vi ;f'f“jf?is ’% iéz‘:}‘}%%ii'ﬁﬁﬁpif‘ ‘25:%21 = U il ¥-11o\\;/ \“;\ \
+e el et L qlﬁ‘i’g;‘;’z% ‘ﬁﬁfg‘;? LR i i f i ;f i = wave ! :
+B oI ma A iy % b f*!m{h i g™ VI |
+P SRR O S Sy 117 LW (A ~140- v
+D J F M A M \Dri :
+November 2005-May 2006 e Apnl N
+ey L PR e
+0.2 0.4 0.6 0.8 1 T ey O B
+Coherence
+Fig. 5. (a) Vertical acceleration response of the RIS front at RIS2, showing a prominent resonance response centered near 0.5 Hz that persists
+even after swell forcing is mostly damped by sea ice during April. Other resonance bands are visible near 1.0 and 1.75 Hz. Note the
+broadband transient responses associated with local-to-regional high-amplitude swell arrivals that extend to frequencies well above the
+typical upper bound of the gravity-wave forcing band (about 0.3 Hz; Bromirski and others, 1999), similar to those identified by Martin and
+others (2010) as fragmentation fracture signals, suggesting that these signals may result from icequakes forced by gravity-wave impacts.
+(b, d) Percentile spectra during the February and April time periods shown in (a). Percentile levels give an indication of the seasonal
+persistence of respective resonance bands. There is about a 30dB drop from February to April levels in both the swell (red arrows) and
+apparently swell-enhanced 0.5 Hz (black arrows) resonance bands. In contrast, the levels in the IG waveband remain largely unchanged,
+indicating that IG waves are not appreciably damped by sea ice. Note the appearance in (d) of the 10 Hz peak during April (blue arrow).
+(c) Coherence between the vertical and N=S seismometer components at RIS2. Note the significant change in coherence when sea-ice
+damping advances during April, with enhancement of coherence near 10 Hz that is consistent with the appearance of the 10 Hz peak in (d).
+‘rocking’ of the free-floating tabular iceberg (Goodman and ~ SBA and VNDA for IG waves (Fig. 3). Signal characteristics at
+others, 1980; MacAyeal and others, 2009). SBA further suggest that they are associated with ice-shelf
+Because sea ice strongly damps ocean swell and double-  resonances in the IG wave spectral band. Note that the
+frequency microseism signals observed on land are gener-  amplitude of the resonances in the IG waveband at SBA for
+ated in coastal regions (Bromirski and Duennebier, 2002; the tsunami is only a few dB larger than for the summer or
+Bromirski and others, 2005b), during the deep winter  winter mean levels (Fig. 3), suggesting that the response of the
+(August-September) double-frequency (secondary) microse- RIS to the tsunami was not much greater than for typical
+ism peaks centered near 0.12 and 0.22Hz at SBA and incident IG waves. The stresses induced by the tsunami
+VNDA (Fig. 3) must be generated remotely by wave-wave arrival evidently caused a calving event (Brunt and others,
+interactions at sea-ice-free coastlines. The source of these ~ 2011), suggesting that 1G wave arrivals may also have a
+signals may be the Antarctic Peninsula, the Patagonian coast  similar impact.
+or the southern coast of Australia.
+Seasonal variability
+Tsunami-induced response Gravity-wave impacts elicit a much stronger response of the
+Similar to 1G waveband signals, while the 11 March 2011 RIS during austral summer when swell is not damped by sea
+Sendai-Tohoku (M, 9.0) tsunami signal was well recorded at  ice (Fig. 5a, at frequencies above those shown in Fig. 2a).
+SBA, it was absent at VNDA (Fig. 4a and b, circles). The  Different resonance bands are excited at Nascent by gravity-
+tsunami-induced response of the RIS recorded at SBA isabout ~ wave impacts, notably near 0.5Hz (Fig. 5a and b, black
+10dB higher than corresponding spectral levels at VNDA  arrow; Fig. 3) even though little gravity-wave energy is
+(Fig. 4c and d), similar to the difference observed between present at these frequencies (e.g. Bromirski and others,

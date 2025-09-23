@@ -1,0 +1,19 @@
+x107 Water
+2
+[V]
+1
+0
+0 2 4 6 8 10
+x107° Propanol
+2
+[V]
+1 A y
+P i ok b s Al
+0 2 4 6 8 10
+Luminol
+3
+2
+V] |
+1 | | |
+0
+0 2 4 6 8 10

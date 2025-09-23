@@ -1,0 +1,54 @@
+Journal of Glaciology , Vol. 39, No. 132, 1993
+Instruments and Methods
+Subglacial measurement of turbidity and electrical
+conductivity
+DaN B. STONE, GARRY K. C. CLARKE AND ERIK W. BLAKE
+Department of Geophysics and Astronomy, University of British Columbia, Vancouver, British Columbia V6T 124, Canada
+ABSTRACT. Direct measurements of the properties of subglacial water are
+necessary for understanding water flow beneath glaciers. In this paper we describe
+the construction, calibration and ficld usage of two instruments— one that measures
+turbidity and the other that measures electrical conductivity of subglacial water. The
+sensors are inexpensive and reliable. To demonstrate the potential usefulness of these
+devices, we present samples of data obtained from beneath Trapridge Glacier, Yukon
+Territory, Canada.
+INTRODUCTION directly at the glacier bed, we have developed durable,
+inexpensive sensors that allow continuous measurement of
+How does water flow beneath a glacier? This question has the turbidity and electrical conductivity of subglacial
+been a focus of glaciological research for more than three water. Measurements obtained with these sensors provide
+decades. As a result of these efforts, various drainage-  direct indications of basal-water flow velocity and
+system configurations have been proposed. In many cases,  subglacial provenance. In the following sections, we
+field observations are explained readily by the proposed describe the construction, calibration and field usage of
+configurations. In other cases, existing theories of basal- these sensors. Data collected at the bed of Trapridge
+water flow are clearly inappropriate or incomplete. This  Glacier, Yukon Territory, demonstrate the usefulness of
+paper is intended to advance general understanding of  these devices.
+water flow bencath glaciers by describing instruments
+that measure, in situ, the turbidity and electrical
+conductivity of subglacial water. Direct measurement of ~ TURBIDITY
+these properties at the glacier bed can lead to a more
+complete understanding of subglacial water flow. Description of the device
+Until recently, drainage-system morphologies have
+been inferred largely from proglacial obscrvations. These  The basic components of the turbidity sensor are a light
+observations tend to include measurement in outlet  source, two photodetectors and a voltage regulator (Fig.
+streams of one or more of the following quantities: tracer la). For the light source, we use a miniature incandescent
+concentration, turbidity or electrical conductivity. The lamp manufactured by Spectro (part No. 8097). This
+most common method for studying subglacial water flow  source provides nearly spherical illumination, thereby
+involves determining the velocity of a tracer that has reducing geometric constraints on construction. Because
+moved through the drainage system (e.g. Stenborg, 1969; the intensity of an incandescent source will change if the
+Behrens and others, 1975; Burkimsher, 1983; Brugman, supply voltage varies or if the filament degrades, we use
+1986; Seaberg and others, 1988; Willis and others, 1990). two detectors—a reference detector that monitors an
+Typically, salt or a fluorescent dye is used as the tracer.  internal light path through the sensor and a sample
+Parcels of “naturally labeled” water with known, specific  detector that monitors a light path through the water
+origins have also been used. For example, Humphrey and gap. We use photo-Darlington detectors (Motorola, part
+others (1986) used turbidity pulses in water flowing from  No. MRD711) having a spectral response centered at
+beneath Variegated Glacier, Alaska, to estimate mean ~ 940 nm. These detectors are amplified phototransistors
+water velocity in the hydraulic system. Electrical and act as current sources, passing a current proportional
+conductivity has been used successfully by Collins o the flux of infrared-wavelength photons incident upon
+(1979) as a basis for distinguishing between the surface  the transistor base.
+melt and basal components of discharge from two alpine In constructing turbidity sensors, caution must be
+glaciers in Switzerland. An entirely different approach is exercised to prevent the detectors from operating under
+to interpret former subglacial flow conditions from the  optically saturated conditions; this is especially important
+occurrence and spatial distribution of surficial deposits  for the reference detector. Under saturated conditions,
+and landforms in recently deglaciated areas (e.g. Walder  detectors are insensitive to changes of source intensity. To
+and Hallet, 1979). prevent saturation, we have found that the intensity of
+In an effort to apply standard proglacial techniques  incident light can be reduced, when necessary, by
+5

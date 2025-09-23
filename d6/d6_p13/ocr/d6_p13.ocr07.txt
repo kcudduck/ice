@@ -1,0 +1,55 @@
+LIQUID AND GAS PIASES IN TEMPERATE GLACIER ICE 21
+to the total number of faces inany volume containing a large number of crystals was always
+small. Tna given local region. grain faces of differing orientation had lenses, indicating that
+there was not a very strong preferred orientation.
+
+An example of bubbly ice is shown in Figure 4. Columms of air extend into veins from ai
+bubbles touching the vein network. Bubbles isolated from the veins also were present.
+especially in coarseice. These bubbles contained some liquid. Liquid in hubbles has also been
+observed by Bader (1950). 'T'he configuration of air in the veins and liquid in the isolated
+bubbles changed rapidly with time.
+
+330 S1ze of veins
+
+Vein widths dy were measured using a calibrated reticle. Figure 5 shows an example
+of a water-filled vein and the dimension which would he specified as the wididh, The edges
+were not sharply delincated lines, and the visible widih depended somewhat on the microscope
+focus and illumination angle, but width could be chosen consistently to within about 5 to
+1o s When gas occupied a vein, the gas column was sharp and its width could casily be
+measured.
+
+The details of the vein eross-sectional shapes were not examined. Qualitatively they had
+the triangular cross section expected from the houndary -energy relatonships as discussed by
+Nye and Frank 1973 p. 158, fig. 2). Nye and Mac 1g72) indicate that the dihedral angle
+26 between the two solid-liquid interfaces at a vertex is typically 32 . This determines the
+crossxection shape. Geometrical parameters of interest can be expressed in terms ol the
+vertex-to-vertex distance . the root-mean-square vadius of the vein v, or the cross-sectional
+arca .| lable 1),
+
+Panie I GEOMETRICAL PARAMETERS OF VEINS EVALUATED FOR DHIEDRAL ANGLE 26— 0.56 rad (32
+Expressed in Expressed in
+Parameter Relationship terms of d terms of .|
+b T oy
+[
+d (vertex to vertex distance d 1795\ -
+7 (radius of wall curvature df(2 sin & 2,066 8d 3910y
+A (cross-section arca Vgsintd o Ssin2d gdiryt 010 4de A
+» (root-mean-square radius \ (Ajmw 0314 4d 0501y A
+m (hydraulic radius A/ (6bry o102 53d 018y A
+
+Itis not obvious how the width seen in the microscope is related to any of these parameters.
+In Appendix A icis shown that the width of an air column in a vein should be about equal (o
+the root-mean-square diameter of the vein or 27, In several cases, width was measured on a
+vein at one time when it was liquid filled and at another time when it contained gas. These
+were the same within measurement ervor. Also, the distributions of widths for liquid- and
+gas-filled veins were nearly identical. These observations show that the width d, measured
+on a liquid-filled vein can also be identified with the root-mean-square diameter.
+
+Widths were measured on 1o to 8o randomly sclected veins in cach sample. The distance
+below the sample surface of cach measured vein was not determined. but most measurements
+were between several millimeters and about 1o mm depth. There was no obvious systematic
+dependence of observed vein size on depth in the sample except a flaring very near the surface.
+In most samples measurements were made between about 10 and 6o min after sample collec-
+tion. During this time there was no apparent trend of vein=size change. In order 1o examine
+how sizes changed on a longer time scale, several samples were measured afier one day, which
+indicated that vein sizes increase slowly with time.

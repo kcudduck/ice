@@ -1,0 +1,41 @@
+(a) —
+5000 . ,
+: 5000 (b) .29
+4500 4500 . Charge loss due to ESD
+| 5 ; < 9
+4000 g g g 4000 =
+3500 3500 B _
+< Paschen’s Breakdown Region 3 el
+< 3000 3000 >
+< E E | < 260
+§ 2500 2500 2
+8 >c» 19.5
+52000 | | 2000
+= 1500 ~4 1500 Q 13.0 L
+1000 s\ 1000 G & 656 nC
+500 ' \ 500
+; ' 3*10% 0.0
+0 : ‘ 0
+106 10° 104 103 102 66 68 70 72 74
+Gap Distance (m) t (s)
+(c) High Interference (d) Low Interference
+60
+60 : 5
+40 40
+0 0
+= 2 & T = — 150
+S o s '?0 2 £ o 10 =
+& .. ’ AR 5 o -20
+-60 -20 -60 -20
+st amemsasa s ememsarar e enessasansemmaes e seems e =
+E ¢ =
+= Py
+o 2 S 2
+(&) o
+= _ Paschen's Limit = 0 _rasmenstime | _
+®  O7ContactRegion ~__ _— a
+> 1 s
+o S S
+@ -2 O
+O 0 2 4 6 8 10 0 2 4 6 8 10
+t (s) t(s)

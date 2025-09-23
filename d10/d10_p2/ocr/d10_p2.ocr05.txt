@@ -1,0 +1,17 @@
+(a) (b)
+e 1.5 RZ
+T1.0 W 2
+& 0.0
+0.5 “‘1‘” [] |
+O -
+0 1.0 20 3.0 025 0 0.25 -025 0 0.25
+Correlation time (s) Correlation time (s) Correlation time (s)
+(©) 300
+— allH/V
+1754 —— meanH/V 1
+- ]
+£ 1.50 = ——
+T125 P ‘
+1.00 o
+5 10 15 20
+Frequency (Hz)

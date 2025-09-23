@@ -1,0 +1,65 @@
+(a) (b). o e
+o i i i i i i i i i e = = ——————— i e o o) \
+1 \ 7 \
+
+&0 I S e (C) ' !
+1 S R Q I | 6} SGTunder tensile strain Logic input “1 1 | O'=0.-AE, I
+NS AN NI s o =
+
+O O -
+197 - © O 11 5 g \D\- O 1 1 %S |
+f | o === ||&Veis
+f 1 1 | d
+I - P14 ’ | | Er.z00 _ I
+1 > A Vel I 1< SGT under compressive I l Erp Piezopotential " I
+| 33 strain < )
+1= O 1 - - -
+1 » 1 Q Sle — ) ) ) i i (i (i (o i i i
+
+N i 1 | e D e A 1 f Compressive strained & )
+1 H - 2 Vps=0.75V I(d) " = O+AE, |
+e . g ! | . ' |
+
+2N I I
+I H{ 1 - g |
+N upn o) A s=0.5V 1 _ £,S
+1oL gl ! | Logic input “0” /A/A o N 1 . - I Vo, I
+dlp] 1 = \Varg Yy
+1 }"')\ ln v o 1 ) v VB S  E  EE y y, v \V Vi) 1 I Ersio |
+l - & ® 11 -1.5 -1.0 -0.5 Eo(gg) 0.5 1.0 1 | Ees , Piezopotental I
+7 N\ a 70 7/
+
+L O - e e e e e e e e e S i) i) ) i ) ) ] ) i ) ) ! ] (2
+
+e o e = o -
+
+00
+| 11 300{—" (:)00%0;: @ 1 1 _ laser on NW |
+: 1l oo I I
+=3 — - - 0.006% £ 04
+200 =
+1 TR S Sl i = 11 <£: ——~ - 0.008% | |§ I
+1 . 1 [ | ‘g 100 1 1 gn.s on'SB, onNW on S8, |
+I 1 | I ] gi- _ | 13 l l l |
+d : o o 7 & 12
+1! Lo (A 1 ] |
+I ol 00 VT T [ R tewped |
+So laser on 23
+! : : 1 B o0 5 10 157520 25 [ 0 5 10 15 20 25 30 I
+I, [ | ! Voltage (V) Mac 11 Time (s) [
+1 | <
+I —— 3 L o !
+1 ! : 11 : [ o\ (0085 [
+FE 06E & %
+I : : I I % 2 I I 5 » ) / ::o':ﬂ = g § % i 0.24% I
+< 5 02 ot
+: | - : S ' : ol gaa = il :
+1 i | I g o0 ! | % -0.24% 0.36% I
+! o 5 Y——K 1 g @ I
+1 | O 2 -0.36%
+| : : 11 -5 l | 1z % I
+l 1 | l 1 ‘ I
+| SRSy gy S ——— -100 Vi 0 /7
+N o e e e e e e e = N . 5 -4 3 2 - 0 - -
+0O 10 20 30 4 5 60
+Voltage (V) Time (s)

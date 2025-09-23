@@ -1,0 +1,46 @@
+126 JOURNAL OF GLACIOLOGY
+
+of the fact that they do not measure bulk uniaxial tensile strength. strength measured by bean
+tests i termed the “modulus of rupture™. For most britde materials modulus of rupture is
+greater than uniaxial tensile strength. Some reported mean values for the modulus of rupture
+ofice are: 12,5 10 1.5 bar (clearice. — 1.7 to —q.5 C.Brown, 1926, 12.5 10 17.5 bar clem
+ice. o to 22 CoWilson and Horeth, 1948 . 12 to 16 bar (clearice. —5 o020 C.Hitcho 1959 .
+22.5 bar (bubbly ice. —5 (. Butkovich. 19539/, 13.5 to 14.5 bar (bubbly ice. 5 10 12 €L
+Peschanskii. 1967, 21 to 35 bar (clearice. 12 o 15 €, Peschanskii. 1967 .15 10 27 ba
+clear ice, small heams. —o0.2 w0 15 (L Frankenstein, 1959 .2 10 7 bar (clear ice. large
+beams and cantilevers, o o — 1 CL Frankenstein, 1959 .
+
+Transition from ductile yvield to brittle fracture. Since there are practical lower limits of strain-
+rate for constant rate tests. it would be helpful il creep tests could be interpreted so as to give
+“srength™ data for the ductile regime. There appears to be at least implicit recognition of a
+relation between the results of constant stress creep tests and constant strain-rate strength
+tests for ductile materials, with the relaxation of stress after vielding in a constant strain-rate
+test being identified with tertiary creep in the classical creep test (e.g. Higashic 19672 Dillon
+and Andersland. 1967, Halbrook (reported by Gold. 1968, observed that the yield stram
+in constant strain-rate tests on ice was approximately the same as the strain for onset of tertiary
+creep inconstant stress tests. Forcomplete consistency. however, it might be better o
+associate the peak yield stress of the constant rate test with the mid-point of secondary creep in
+the constant stress test, regarding the latter as a point of inflection.
+
+Fig. 23. Stress—strain-rate envelope, giving maximum value of stress strain-rate ralio.
+
+In view of the probable relationship between the two tests. it seems legitimate 1o use data
+from both types of test to examine the limiting stress strain-rate relationship for a wide range
+of strain-rates, and to provide some information on the ductile brittle transition. In Fig. 19
+and 23 tensile and compressive strengths from the present tests have been plotted as functions
+of strain-rate. and the plot has heen extended to lower ranges of strain-rate by plotting stress
+against minimum (sccondary creep ) strain-rate for previous creep tests onice of the same type
+Thus the graphs show the maximum value of the stress strain-rate ratio for cach type of test.
+Itis assumed that the compressive ereep data represent both compressive and tensile behaviour:
+Steinemann (1958 found no significant difference between creep rates in compression and
+tension. and there is no theoretical expectation of a significant difference il straining is con-
+trolled by the octahedral shear stress. ™ Data points for compressive creep were taken from
+Mellor and Smith (1967 and Mellor and Testa (1g6gfal. [b] . making small temperature
+adjustments where necessary
+
+From the log log plot of Fig. 25 itis seen that there is a smooth transition from the creep
+data 1o the strength data, which tends to support the case for the proposed relationship
+hetween constant stress and constant rate tests. The combined compression data define a
+
+* Further experimental support for this view is provided by unpublished data for wensile creep of pola glacier
+ice abtained by R. L. BottorfIat US. Cold Regions Rescarch and Engineering Laboratory

@@ -1,0 +1,4 @@
+SH amplitude when R
+-10 ~4dB
+-20
+SN \

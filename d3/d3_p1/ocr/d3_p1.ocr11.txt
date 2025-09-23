@@ -1,0 +1,33 @@
+A. Schematic of rift propagation and hydrodynamics ¢ B Deflection n from hydrostatic water level through time
+— —— Without fluid coupling
+E *] — witn fluid coupling
+z 2
+Rift propagation s o
+\ == 2
+) ',, m " ~\ o -2
+= —--&b / > ;" L 8—4
+. - _3 ll { = -6
+/ \‘ | » e 0 100 200 300 400 500
+- = 34, i ) ﬁ Py & . ,.C. Propagation rate dL/dt through time oos
+H, H, Zos 2
+D ’ T ———— ] § 0.4 0.02 "§
+| I | © 0.2 0.01 ®
+. 7 "'. ( " ' / Qi 00 0.00
+by é "/ & [ ! it ‘) ‘ o 100 200 300 400 500
+) 18 3 il
+' 1 l } X‘L ! § 2 D. Fracture length L through time
+| 4 —W— | 4 i c
+{ | !\ﬁy"f"\ ' -
+|, F ‘ ‘ 3y 510
+L f/ 2 { \ | s
+J M A K]
+R (] i/ i ‘ 0 100 200 300 Tl 400 500
+i | \ E. Fracture length L through time over 3005 ..
+xt Wr. \ } N 14 //_,,
+\ y | i ;é 12 NPIad
+— L e, r\ Elo 435'\2@3‘__,
+I 58 JCaf = ”
+g L.--
+— Water flow H, ° -
+l ¢ 0 50 100 150 200 250
+Time (seconds)

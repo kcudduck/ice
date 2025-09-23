@@ -1,0 +1,71 @@
+112 JOURNAL OF GLAGIOLOGY
+TEST PROCEDURE
+
+Prior to testing, a batch of specimens was brought out of storage. assembled in end caps.
+checked. and allowed to equilibrate with the temperature of the testing chamber. Immediately
+before testing, the selected specimen was measured precisely by vernier calipers. The LVDT's
+were attached. the specimen was fitted to the testing machine, and the measuring systems were
+checked.
+
+Three operators were used: one operated the controls of the testing machine, one
+monitored the AP plotter marking the chart and timing by stop-watch L and one kept the test
+specimen under observation. The latter person controlled the test, relaying instructions and
+observations by telephone to the others. who were outside the cold chamber.
+
+In addition to recording load and deformation. observations were made on crack forma-
+tion and mode of failure. T'o observe formation of internal cracks during the progress of the
+test, the chamber was darkened and the specimen was illuminated at a suitable angle by a
+small Tamp.
+
+During some tests at low strain-rates the speed of the machine was increased abruptly by a
+factor of 1o after the peak stress had been passed.
+
+TesT RESULTS
+
+Results of the uniaxial compressive tests are summarized in Table 1. and a digest of
+results from the tensile tests is given in Table TE A\ selection of compressive stress-strain
+curves is given in Figs. g and 1o, while Fig. 11 shows the effect of suddenly increasing the
+strain-rate after a speeimen has suftered ductile failure. The tensile stress strain curves were
+all broadly similar. and examples are shown in Fig. 12,
+
+Fansre 10 RESULTS OF UNIANIAL COMPRESSIVE TESTS
+
+Vaterial - Bubbly ice. NMean grain dia. = 0.7 mm. Mean bubble dia. = o.2 mm. Bulk density 0.89g — 0.002
+Mg /m!
+
+Specimens : Dumbbells with neck dia. 25.4 mm, neck length 8.1 mm, effective gage length 84.6 mm. Cylinders
+5.0 mm dia., 77 mm long
+
+Tost temperature: 51 C
+
+{rerage
+Uniaxial Initial Strain-rate strain-rate Aeerage
+
+Spectmen Machine compressive tangent at peak to peak stress Failure Time to
+
+type speed strength modulus stress stress rate strain failure
+nmm s bar bar 1ot st st bar's o4 S5
+
+Dumbbell 8.3 104 28,7 ot 086 10 % 61100 o217 80.7 | 320
+. 8.5 104 32.0 250 086 10" 756100 o021 1y 1 500
+. 167 10 362 8.6 17 100 120105 00416 105 870
+- B33 100 $4.7 8.0 9.86 1o 27 a0 8 001 52.5 12y
+- 8.93 10 10.6 G686 100 476 10 5 ooy 6.2 55
+- 167 10 77.2 1y a7 1ot G2
+B 167 10 ¢ 50.0 643 1.7 104 727 108 154 240 "
+- 167 10 339 086 197 104 J.00 105 13y 28,4 i
+. 833 10 fo 0.86 - 10 4 161 '
+. Bq3 100 g8.s 986 10+ 516
+. 167 100 B0 072 107 100 525100 By 52.5 10
+- B4y 100 g2 B4q 08610 120 103 464 240 2
+. 833 10 068 086 10 675 10 35 13.5 2
+N 833 101 0801 1 0.86 - 104 103 104 4o 20.6 2
+. B33 10 740 086 - 10} 263104 39.5 5.25 2
+- 8.33 - 10 0.8 6.00 08610 1oz 105 0. 30.6 3
+
+Cylinder 83310 ¢ 30.6 681 109104 363105 0188 B1.9 210
+- .67 10 12.7 2.83 209 10 4 767 10 ¢ 0.376 93.8 1y
+- 843 10 ¢ 479 3.42 1og 10 4 2.6 10 4 2.37 57.7 20
+- 8.93 10 ¢ 52.5 6.31 Log 1ot 2.9 10 2.10 734 25
+. B35 - 101 34 758 Lo o108 104 346 .66 i
+. B33 - 10 1 25.1 631 Log- 10t 570 104 25.2 6.05 i

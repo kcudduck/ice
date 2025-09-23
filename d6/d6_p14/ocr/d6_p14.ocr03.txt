@@ -1,0 +1,51 @@
+SLIDING VELOCITIES OF GLACIERS 409
+!
+1" "
+Ry
+| /\%
+- .
+—7
+Fig. 1. Diagram illustrating the derivation of the limiting water pressure of stability. An ice slab of thickness d is resting on a
+stepped bed with a mean slope «.
+
+Asimple derivation is as follows: Consider a planc-parallel slab of thickness d and of large
+lateral extent resting on a lubricated, undulating bed with a mean slope . For a moment we
+will assume a particularly simple shape of the hed: a bed consisting of rectangular steps (Fig.
+1). Anice column of unit width and length [ rests on the faces b and ¢ of the steps, its weight
+is I'y = pgdl. The component perpendicular to face b is
+
+Fiy = pgdl cos(B—u)
+and the component perpendicular to face ¢ is
+
+Fo = pgdl sin(p - o)
+where pis the density of the (ice) slab, g the acceleration due to gravity, g the angle which
+the stoss faces make with the down-slope direction v (Fig. 1), and B = the angle between
+the stoss faces and the horizontal, i.e. the backward inclination of the steps.
+
+The corresponding mean pressures on faces b and ¢ are
+
+Foib l(‘mrﬁ o)
+py = Fulb = pgd ————
+v ! ! cos f3
+and
+£ I\'inr’,@—q)
+pe = Fele — pgd ———— .
+b - ’ sin f3
+Thus, if a water pressure py - pe opposes pe there will be a net force on the ice which will
+move it upward along faces b with accelerating velocity, The limiting pressure pe will in the
+following be designated py.
+Lquivalent expression for gy are:
+Do sin(f—a) tan « T
+
+hy — ————— = p, [ —— Bo——— - (2
+
+/ cos o sin f bo tan 8 / tan 8 2)
+The ice overburden pressure is p, = pgd cos « and 7 - pod sin » is the basal shear stress.
+The last expression in Equation (2) is also appropriate if the basal shear stress is given by the
+more general expression 7 — fped sin o where fis a shape factor taking into account the drag
+of the valley sides. The validity of LEquation (2) is not restricted to a bed consisting of
+rectangular steps; the equations hold for other two-dimensional bhed undulations as well if the
+steepest tangents on the stoss faces make an angle g with the mean bed slope, This is readily
+scen if one assumes that the spaces between the stepped bed and another bed, for example the
+one which is sketched on the right of Figure 1, arve filled with a weightless liquid.  Inserting
+the liquid does not aflect the balance of forces and the pressure is constant over the surface

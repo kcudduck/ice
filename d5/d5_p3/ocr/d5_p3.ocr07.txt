@@ -1,0 +1,59 @@
+DEFORMATION AND FRACTURE OF ICE 100
+
+Tensile pulling system.Tensile specimens were attached to the testing machine by two
+lengths of 159 mm diameter standed sceel cables which were fitted with suitable connectors
+
+Fig. 6 . Originally. cach cable was approximately 75 mm long. but since this gave a very
+“soft”™ loading system. shorter cables, approximately 25 mm long. were fitted for the Tatter
+stages of the work.
+
+I'he connector cables were made up from .59 mm L inch s diameter. 7-wire, 7-strand.
+preformed galvanized aireraft cable allowable tensile strength x 2 200 N inwhich the Tay
+of the wires in the strands is opposite o the Tay of the strands in-the cable so as 1o minimiz
+nwisting under load. T'o determine the effect of cable twist, weights were hung on a connecto
+cable and the torque needed to prevent rotation was measured as 0.7 Ibfinch 0071 N'm
+for a load of 200 Ibf (890 N . This permits an estimate of the tensile stress o induced in the
+<pecimen by twisting of the cable:*
+
+ay Tmax 167 =D 3.50 Iblin® 24 550 N m?
+where 7 is the applied torque and D is specimen diameter. Thus the tensile stress induced
+by cable twist is only about 19, of the axial tensile stress, and for present purposes it can be
+ignored.
+
+When flexible cables are used to pull the specimen, the only bending stresses are those
+induced by eccentric loading.  General analysis of this problem is complicated. but the
+magnitude of the effect can be estimated by assuming that the line of action of the load is
+parallel to the specimen axis but offset by a distance Ao With this assumption the distribution
+of axial stress in the bending plane is:
+
+o PR g A R
+where o is the axial stress, 22 is applied load. 7 is distance from the neatral axis. R is specimen
+radius, and A is eccentricity. Maximum tensile stress at the outer radius. R. thus exceeds
+the mean tensile stress by 42N =R+ ). so that the maximum ervor introduced by eccentric
+loading is (800N D0 With maximum allowable cecentricity of 0.1 mm for a specimen
+25,4 mm in diameter, this amounts 1o a maximum potential crror of 30
+
+I'o check the uniformity of stress in test specimens, tests were made on a model dumbbell
+specimen made from epoxy resin. The epoxy specimen was bonded into a pair of end cups
+with cold-setting cpoxy cement. and was found to have an cecentricity of o.oor inch to.oz5mm
+alter asserbly. Three electrical resistance strain gages were bonded o the center section of
+the specimen so as (o give axial strain at three points of the perimeter spaced 120 apart
+Ihey were coupled separately to the X-input of an X1 plotter, with an axial load cell coupled
+1o the T-input. The outputs of all three strain gages were identical. they were linear with
+load. and there was no hysterisis between loading and unloading. This indicated that the
+loading system gave reasonably uniform distribution of axial stress inthe specimen with an
+alignment wlerance of o025 mm.
+
+During initial evaluation of the systeni tests were made on specimens which had a range
+of cecentricities. Figure 7 shows a correlation between cecentricity and measured tensile
+sorength. with the cutof finally chosen as the tolerance for cecentricity.
+
+Compressive loading system. Vor loading dumbbell specimens in compresion. a thick
+aluminum cap with a central hole was ficted over cach of the aluminum cups of the specimen.
+producing flat surfaces 1o which load could be applicd from the platens of the testing machine
+The specimen thus capped was centered on the Tower platen of the testing machine. and load
+was applicd from the upper platen through a steel ball. While this system was expedient it is
+less than ideal: a suitably designed independent spherical scat would have been preferable
+
+* For pure torsion the principal stresses are compressive and tensile. equal in magnitude 1o the masimun
+<hear stress and acting at 45 to the axis of the specimen

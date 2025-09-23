@@ -1,0 +1,22 @@
+100 KHz
+—Ga=0.5 —Ga=1 Ga=2 B Simul.
+100
+Cavitation
+10
+£
+=
+5
+=] 1
+E=
+=
+€
+<
+0.1 TR
+No Cavitation GA=0.5
+-1 |
+Gp=1
+Gp=2
+0.01
+— — o o
+o = S
+Diameter (mm)

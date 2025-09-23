@@ -1,0 +1,57 @@
+LIQUID AND GAS PITASES IN TEMPERATE GLACIER ICE 227
+
+Discussion. 1 conduction from the surface has already heated the ice and diluted the vein
+liquid by the time surface liquid arrives, there will be litde effect from motion of impuritics.
+A rough measure of the time needed to change significantly the temperature at distance
+below the sample surface by conduction is 2/« where « is the effective thermal diffusivity
+(Carslaw and Jacger, 1959, p. 60). The corresponding time for penctration of surface water
+to this depth is v/, where w is the water drainage velocity. Therefore. when x2/x € vju or
+wxu 3 1. the effects of impurity replacement should be small. We may expeet that «jxu 1
+represents a transition,
+
+Appendix C gives the dependence of won 21/ and 0771 he water drainage velocity can be
+estimated from Equation (4h) with the effective pressure gradient I (py—pi)g 0.01 bar
+m ' This is the average value of I7if the sample is supported by a water layer at its base,
+and the water layer on the upper surface is thick enough to eliminate capillary effects there.
+Since a sample could be partially supported on local points of contact, I could be somewhat
+larger. Values of «/xu are shown in Table I for the various textures and estimates of in situ
+vein size assuming 0 is the in situ value and v is 5 mm.
+
+For fine-grained ice x/xu 3 1 for any of the estimated in situ sizes (Table 1), This would
+be true even if /7 and the drainage velocity were somewhat larger than assumed. Therefore
+the adiabatic relaxation by replacement of impurities should not occur, and the assumption
+of constant () is reasonable. We can be fairly confident that the upper limits to vein size listed
+in Table T, column 2 are valid. ‘The more refined predictions of i situ size in Table 11,
+column 5 are consistent with the observational and theoretical constraints which we have
+discussed. but there are factors which have not been taken into account and which could
+significantly affect the time scale of the relaxation and those predictions. Examples are:
+the effect of liquid at locations other than veins, some effect from water flow, and the possi-
+bility that i st 67 is different from that assumed. Therefore we choose o Timit our con-
+clusions to the upper limits of column 2.
+
+The same reasoning can be applicd o coarse ice, but in this case the values of w/yu are
+not so large. The values in Table 11, column 4 are close to or even smaller than one. The
+relaxation of veins of these in situ sizes would no doubt be significanty affected by water
+motion: however, the values of «/vu seem still too large to permit the dramatic freezing that
+would be needed to give the size seen in the samples. Furthermore in coarse ice the charac-
+teristic measurement depth of 5 mm into the sample is less than the grain size, and the i situ
+sizes listed in Table 11, column 4 would be over estimates even i« vu were zero as discussed
+previously. Given that the in situ size must have been significantly smaller than listed in
+column 4 of Table I1, then «/xu would have been greater than one. This leads to the con-
+clusion that the sizes listed in Table 11, column 2 are also reasonable upper limits in the case
+of coarse ice.
+
+On a time scale longer than one hour, water flow and diffusion must be important. The
+expected drainage velocity for the vein size existing in the samples is about 6 mm h and
+would tend 1o keep 0 in the veins equal to . Because of the vein-wall curvature, the veins
+would be colder than the surface. Solution of the heat-flow equation with the source term
+from vein size change evaluated from Equation (4a) and # constant (Appendix C) predicts
+an increase in vein arca of about 2 to 3 times over 24 h. This could explain the observed
+increase in vein size after one day (Figure 6).
+
+6. CONSTRAINTS ON THE PATTERN OF WATER FLOW IN THE GLACIER
+6.1. Limits on intergranular flux in clear ice
+
+Nye and Frank (1973) assume that the pressure of water in veins is equal to the mean ice
+pressure. Shreve (1972) has derived the resulting effective pressure gradient /7 under sloped
+ice surfaces. which for the core site gives I~ 0.013 barm . Upper limiting values for the

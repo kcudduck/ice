@@ -1,0 +1,21 @@
+102 \ —— 3-component ice model
+Vo--- lab-grown NaCl
+|
+\ $
+T 10} 18 $
+= : e
+c
+8 !
+S 2
+£ 4 |
+8 4 lab-grown ice
+2 t
+s \ /
+?— 101 \ g South Pole ice
+2 \ 5 0810-875m
+| % 3 0 940-1000 m
+4 i = 1655 m
+102 Nl v 1675m
+R a 41755 m
+200 400 600 800 1000
+wavelength [nm]

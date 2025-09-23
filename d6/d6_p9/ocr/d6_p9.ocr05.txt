@@ -1,0 +1,106 @@
+Walder:  Hydraulics of subglacial cavities
+for an R channel oriented along the ice-flow direction. It is conclusions accord with those reached by Kamb and others
+plausible that G, is one or two orders of magnitude (1985, p. 476-78) in their study of the surge of Variegated
+smaller than G . Glacier. Their interpretation of the measured change in U
+
+Table 11 gives values of Um"y for plausible values of (from surging to non-surging states) as reflecting a change
+Geavity and R, with the other parameter values as before. It in the subglacial hydraulic system from cavity-dominated to
+is clear that the mean flow rate in a cavity system may be channel-dominated is consistent with the analysis presented
+
+above.
+TABLE 1I. MEAN FLOW RATE IN SUBGLACIAL B .
+CAVITIES AS A FUNCTION or HYDRAULIC L)zwu\,w‘m:.L'aw[\‘—.(‘}mmzul interaction )
+GRADIENT G AND CAVITY HEIGHT R. EXCEPT FOR It is interesting to consider how a chnnnel-domxngted
+VERY LARGE CAVITIES AT IMPLAUSIBLY LARGE hnm! drainage system might change sparially to a c_a\'ny-
+HYDRAULIC GRADIENTS, MEAN FLOW RATES ARE dominated system. Suppose that an R channel “entering’ a
+MUCH LESS THAN FOR R CHANNELS AT THE SAME bed region in 'whnch cavmgs. exist 1S successively "tapped
+G AND WITH THE SAME CONDUIT CROSS-SECTIONAL by a number N of such cavities. I have demonstrated above
+AREA that a cavity of cross-sectional area comparable to that of a
+channel will typically carry a much smaller discharge (by
+G(Pam™1) 10 50 one or two or@crs of nm_gniludc) than the channel. Hence,
+unless the cavities are quite large compared to the channels
+R(m) or a very large number of cavil_ies _cxist _and tap the
+
+) channels, some channels should "survive" in cavity-dominated
+
+0.01 12 % 1072 26 x 1072 regions. Surviving channels might shrink in cmssjseclion in
+
+0.05 35 x 1072 7.8 x 1072 response to decreased discharge, or might pass into open-
+
+0.1 55 x 1072 16 x 107! channel  flow sufficiently near the glacier margins (e.g
+
+025 10 x 107! 23 x 107} Hooke, 1984).
+
+0.50 1.6 x 107! 3.6 x 107! The notion of coexisting basal cavities and R channels
+is supported by some field observations. Mapping of de-
+glaciated bedrock by Walder and Hallet (1979) indicated that
+
+on the order of 0.1m/s or less for many  plausible the basal drainage system beneath the cirque glacier studied
+situations. Such values are definitely on the lower end of contained both cavities and Nye channels. The latter would
+the range of U wvalues inferred from dye-tracer studies almost certainly have been accompanied by R channels if
+(Burkimsher, 1983, p. 404). Substantially higher 7 values are oriented along the ice-flow direction (the most common
+likely in an R-channel system, as I show next. orientation); some of those trending oblique to the ice-flow
+
+For a semi-circular R channel, one may use the direction might also have been accompanied by R channels
+Manning equation as expressed by Nye (1976, p. 189) to (¢f. Hooke, 1984).
+write Basal zones containing both R channels and inter-
+
+. . connected cavities might exhibit somewhat ur;s\ablefbe:avior,
+
+. o [V . /4 B due to the contrasting Q versus p, relationships of the two
+Usnannet = (2M) 2/3[ ¢ ‘] sVt (20) types of conduit (cf. Equations (lle) and (12)). Consider, for
+example, the response to an increase in melt-water
+
+. . o= . discharge. In order for cavities to handle the additional melt
+Consider now the relative values of U for a CH\I‘() and R water, they would have to enlarge under enhanced water
+channel of rhe same wmx—wu{mm{l»meu S. For fluxes low pressure. Channels would also have to enlarge, initially at
+enn.ugh _1h:|t melting p]f\)‘S a negligible role in determining enhanced  py, (Rothlisberger, 1972, p. 198) but would
+cavity size, Equation (9) indicates that stabilize at a Jower py than initially. The channels might
+
+then tend to ‘“recapture” melt-water discharge from the
+
+TRu) (nA"? cavities. In the extreme case, R channels would grow and
+
+5o {4—'\‘] ["_] . @n recapture @/l discharge from the cavities. Behavior along
+
+e these lines might be involved in the termination of glacier
+
+surges (Kamb and others, 1985). In any case, It seems
+
+Substituting Equation (21) into Equation (20) and comparing probable that glacier-bed regions containing both cavities
+to Equation (17), one finds and R channels will show fluctuations in water pressure and
+
+B sliding speed as cavities and channels expand and contract
+
+U (G 12 py1/3 » n/s in response to changing melt-water discharge. It is tempting
+
+—cavity n.kl'z':’[—m"] L—] LL] (22) to  speculate that  such  phenomena are related to
+
+U pannel Gehannel s 14 water-pressure  and  sliding-speed fluctuations observed at
+
+various glaciers (e.g. Engelhardt and others, 1978; Iken and
+Suppose" [GEN Gm,ny/G‘(,mnel = 0.05, R = 0.1m, others, 1983; Iken and Bindschadler, 1986)
+ug = 10 m/a, and that I\l, n, and A have values as given
+above. One then calculates CONCLUSIONS
+Ucavity The increasing recognition of the important role of
+— * 135 x IO'IF(, subglacial cavities in glacier hydraulics and dynamics has
+U pannel motivated the analysis presented here. This simple analysis
+where p, is expressed in MPa. For plausible effective demonstrates l_h:lt the hydraulics of subglacin]_cavit?cs should
+oo . N ) be quite distinct from that of conduits incised into basal
+pressures in the range 0.1-2 MPa (1-20 bar), ice; specifically, the flux versus pressure relationships and
+the stability characteristics of the two drainage systems
+[’ should be quite different. This work constitutes only an
+iy a ()0]—).07, initial step in understanding the hydraulics of subglacial
+ud“mm cavities. Additional developments must ipclude considering
+more reasonable geometries for the cavity network as a
+The relative MIuxes Oy, /0 will be equal w0 7, / T e e L e
+U, ;» because equal cross-sections have been assumed for ce ( qmb. " p_rL.ss)_ must: be coupled Wt e
+the two types of conduit. estimates of the distribution of such constrictions on real
+
+One 'nmy conclude from this development that the glacier beds. Tken and Bindschadler (]?86) an.d_K":\mk? (in
+mean flow rate in a cavity system may be much less than prc%s) have sugg‘csted ”‘:“,[he overall 'c«mm'utw:xt)‘ of »lhe
+in an R-channel system and that, for equal melt-water dis- cavity system W‘I_I vary with water pressure, with posmb‘ly
+charges, a cavity-dominated system must contain many more important implications for the way in which dye tracers will
+conduits than a system dominated by R channels. These move through the system.
+
+443

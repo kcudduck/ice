@@ -1,0 +1,67 @@
+LIQUID AND GAS PHASES IN TEMPERATE GLACIER ICE 2931
+APPENDIN A
+SHAPE OF AIR COLUMNS IN VEINS
+
+When gas enters o vein, s shape must satisfy the requirements of mechanical equilibrium. Qualitatively,
+the gas (ills the central portion of the vein, excluding the liquid to fillets at the three vertices. Details of the shape
+can be worked out approximately by assuming that the pressure difference across the liquid gas interface is
+everywhere the sane. The interface between the gas-filled central part of a vein and the liquid in the fillets is
+avlindrical and the corresponding pressure difference is casily caleulated as a function of the cross-sectional
+shape of the gas column. The interface at the end of a gas column is doubly curving. but the pressure difference
+can be estimated using the hydraulic radius of the gas column cross-section Bacr. 1g72. p. 441, Lquating these
+two pressure differences determines the shape of the gas column crosssection. The width averaged over all
+viewing directions is 1.917, where 7 is the root-meanssquare radius, The difference between the gas and liquid
+pressures. the capillary pressure, is given by 2.4y 7 where yy s the liquid gas surface energy.
+
+F'his configuration is not in thermal cquilibrium. Because the pressure in the gas is Targer than that in the
+liquid. those parts of the vein wall exposed 10 the gas must be colder than those adjacent o the liquid near the
+vertices. Whatever the details. melting and refreczing would cause a rounding of both vein and air-column cross
+section. Since heat would be transported only Tocally, there should not be much change in total vein cross-sectional
+area. N\ limiting cross-sectional shape would be civcalar with the Tiquid excluded almost entirely, in which case
+the width of the air colummn would be 27, Although the shape of the end of the gas colunin could still be complex,
+it would probably be close 1o hemispherical. which would give capillary pressure 2y14 7. Because of the small
+scale of the veins. it is likely that the local redistribution of heat oceurs rapidly. 1 the vein liquid contains im-
+puritics. the process could be slowed. hut o similar shape change would oceur as long as impurities can diffuse
+along the vein walls,
+
+APPENDIN B
+ADIABATIC RELAXATION
+
+When the vein pressure or impurity content is changed. melting or freezing will occur at the vein walls, and
+the Tatent heat will change the temperature of the surrounding ice. 1 the process is adiabatic and the liquid
+content is small. then
+
+pild AL pei(T, =11, (B
+atter equilibrium has been re-established. 1 is the vein cross=sectional arca, 7 is the temperature, and the sub-
+seripts 1 and 2 oveler to values before and after the change. . pi and ¢ are respectively the specific latent heat of
+fusion. the density and the specific heat capacity of pure ice. £ is the vein lengih per unit bulk volume, and p is
+the bulk density of the ice. Ao p x pi. When phase change takes place clsewhere tham in the veins, o must be
+replaced by an’effective bulk heat capacity ¢ of the ice surrounding the veins.
+
+For the special case in which the vein water is continuously replaced by water of a given impurity content and
+pressure. T,ois determined by Equation (ga) when vein curvature is neglected. 17, vepresents the in situ tem-
+perature, which is known. the vein arca change from in site conditions can be caleulated directly from Equation
+
+B-i.
+A more complicated case occurs when the pressure change is specified. but the impurity content per unit
+length of vein € remains constant. Equations (41 then give
+. . [
+T T A <— )
+Ay
+where pris the vein pressures and vein curvature has been neglected. This is used 1o eliminate 7, -7, in Equation
+B-1 0 with the result
+Fo[Ere e om0 (s g0l 2] [:20]
+EH i I [ i
+where 0, G s the initial emperature: depression from impurities. This assumes that all the liquid is in
+the veins:otherwise o is replaced by ¢/ 16 the iee is fine cnough (7 very large. equilibrium on pressure release is
+restored by freezing some of the relatively abundant vein water, with asmall change in vein arca and a tempera-
+ture change approaching — Bip, f. In coarse ice. equilibrium is restored mainly by lowering the vein
+temperature by concentration of impurities. with a large change in vein area and a small temperature change.
+
+Fhe time for adjustment of the vein size can be roughly estimated by assuming the vein o be evlindrical and
+o be surrounded by an infinite medium of ice. The rate of heat flow is then caleulated by standard analytical
+methods (Carslaw and Jacger, 1950 . Equilibrium will be reached when the total heat flow per unit length of
+vein reaches pc (T, T 0L The vesult is not very semsitive 1o vein size. 1 the liquid is confined 1o the veins,
+cquilibrinm is reached onthe e seale of seconds o a few minutes. depending upon grain size. The assumption
+that the process is adiabatic. or that little heat conducts in from the surface before its completion, is therefore
+reasonable for Tocations which are more than several grain diaimeters into the core,

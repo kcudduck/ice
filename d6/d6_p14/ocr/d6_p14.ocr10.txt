@@ -1,0 +1,54 @@
+416 JOURNAL OF GLACIOLOGY
+
+P L C ' R
+
+) o [ ! ! . : t ) \ ) .
+
+) "‘.:l"’/",',"l" i
+
+pw=236bar it Tt
+Fig. 7. The same cavity as in Figure 6a, but with a water pressure of 23.6 bar = 241 t/m*.
+
+cavities which have almost grown to their steady size, in Figure 6b larger cavities are shrinking
+at the given water pressure. Their shape was derived for steady conditions with the water
+pressure at 24.4 bar. In Figure 7 the water pressure is reduced to 23.6 bar; the cavites are
+the same as in Figure 6a. ‘T'his small pressure drop causes the ice initially to slide backwards.
+
+The actual sliding velocity had to be derived in an additional computation from the
+velocity at a sufficient height above the bed, in the present case the velocity on top of the
+modelled section was used. From this velocity the proportion due to internal shear in the ice
+below was subtracted. The sliding velocity obtained in this way for the nearly sinusoidal bed
+is 129, less than the theoretical value deduced for an exactly sinusoidal bed (e.g. Nye, 1g6g).
+The main reason for this disagreement appears to be that the modelled undulations have a
+relatively large roughness a/A while the quoted theory is strictly valid for beds with small
+roughness only. The present result agrees well with a theoretical prediction by Raymond,
+which allows for the actual roughness (C. F. Raymond, personal communication).
+
+Tn Figure 8 the x-components of sliding velocities are plotted against water pressure for the
+different shapes of lee faces considered in the models: Curve [ refers to the geomenry of Figure
+4a, Curve II refers to the nearly sinusoidal bed (Fig. 4b), lines ITT and IV represent sliding
+with the cavities shown on Figure 6a and b. The horizontal branch TIT depicts the sliding
+velocity when the cavity ceiling in Figure 6a is replaced by bedrock. The dotted line gives the
+steady-state sliding velocities; i.e. the sliding velocities when steady cavities have formed.
+Below this line cavities are shrinking.
+
+From the examples in Figures 4 to 7 and from the diagram in Iigure 8 the following trends
+are apparent:
+
+The smoother the ice-sole profile, the larger the sliding velocity (the velocity increases
+in the sequence of Figures 3a, 3b, and 6a). This is what one would expect.
+
+When a given water pressure is applied, the resulting increase in the sliding velocity is
+the larger, the steeper the ice sole at the lee side of humps or, more specifically, the smaller
+the separation pressure of the particular bed. Indeed, not only is the velocity increase
+larger when the ice sole at the lee faces is steeper, but also the absolute magnitude of the
+sliding velocity becomes larger provided that the water pressure is sulliciently large. This
+effect would be much more marked if actual roches moutonnées were considered rather than
+the modelled smooth glacier beds. (Of course, when the water pressure becomes so large
+that spontaneous separation reaches a point on the common stoss face, the differences
+between the sliding velocities on beds with different lee faces disappear.)
+
+"I'he response of the sliding velocity to a change of water pressurce is the more sensitive
+the Targer the area of the ice sole which is subjected to the imposed water pressure. This is
+evident from the slopes of the velocity—pressure curves in Figure 8. A closer inspection,
+however, shows that it is not simply the size of the area subjected to the water pressure

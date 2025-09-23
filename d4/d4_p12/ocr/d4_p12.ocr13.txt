@@ -1,0 +1,56 @@
+(a) (b) (c)
+o e = e e = e e = = _—— - ——— -
+’ - - —_———— b
+» - \ 4 Pre-tightening clamper | s \
+125 mm 11 1 I Amplifier 1
+———» Base @ 1 |
+Pressurized fuel from rail | | m;t i et © | M bt |
+R § Q 3 ol laptop
+. . 11 £ {7 N pioH |
+Piezo electric actuator b 1 !
+1 |  Piezoelectric ceramic — I Buipace Lead holder |
+Pressure reservoir 1 1 & boot
+1 I |
+| Oscilloscope I Test stands |
+) o | . 408 L
+1 1 I 1 Substrate 1
+Needle motion amplifier | 1 1 €2 1
+| 1 Vibration | s | ‘
+| Needle I I Accelerometer —a g :_—. ] 1 Alumina insulator
+| Npicsorbasvests ] | Inconel electrode = 1 ‘
+10.0 mm ‘ 1 s : ;! T Piewdectric |
+\ VERN (1) Vibrator AN Heating tube ) I\ Y/
+e e e e e e e e e e o e o e e e e e —— - — - L -~
+— —— e - e o - -
+@@ ---—-=—-=-=-—=-—=-=—===--< (e)'-————-———————~(f) S ] ) ) o
+/ \ W =
+| Sensor devi \
+1 1 | ensor device oo o Cross |
+» s
+| 1 ) 1 | | —l section |
+: | /2 1 | Contact 1 Contact 2 Contact 3 [
+| > — |
+» I Resonator S fil |
+1 | ol 4 | ensor film
+1 A [
+BRI
+\ - T
+| | S— 1 | wae
+1 | | 1 | Top view [
+I I
+! ) 1l ! !
+1 Vertical tube furnace 1 1 1 1 2 = =
+p— Charge amplifier 362 T 0 I
+[ prototype 11 S 1 | N |
+I r N Saaaa -10 = —200 -
+o R T |
+1 = Lock-in amplifier 1 1 E e t. 20 3 I g
+ction Pl Rt = =
+||| g2 = PoroEs] T -;: 'k o \'N.*___, |
+| - = L E — ‘ -30 % I
+IPoweram lifi } %1 J sigul - T B 21 s I
+1 et e conditioner  oscilloscope | | o Frequency A, I L 0 100 200 300 400 500 600
+Commercial ~ v ibration 4 Relative IL o T/C [
+l accelerometer  SXCHeT 1 ‘ 354 0o | |
+7 0 20 40 60 \
+N o e e N _Tmeawsoch. _ . _ ¥ L __

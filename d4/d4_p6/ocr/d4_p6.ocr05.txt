@@ -1,0 +1,14 @@
+DCHV ] HV electrode
+source I I:]
+
+Dielectric |
+
+material = (a)
+
+=
+
+PR I Probe
+
+Electrometer
+Dielectric |
+material = (b)
