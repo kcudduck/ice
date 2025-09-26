@@ -1,0 +1,48 @@
+Proof of Corollary 6.3. The proot of Theorem 2.4 already provides a proof of Corollary 6.3. In-
+deed, it suffices to define w : (0, 5y| — R, by
+M,C
+w(B) = w, — Ch > 0.
+T
+[]
+
+References
+
+[1] P. R. Beesack. Gronwall inequalities. Carleton University, Department of Mathematics, 1975.
+
+12] P. R. Beesack. On some Gronwall-type integral inequalities in n independent variables. Journal
+of mathematical analysis and applications, 100(2):393—408, 1984.
+
+13] M. Bongarti, S. Charoenphon, and I. Lasiecka. Singular thermal relaxation limit for the
+Moore—Gibson—Thompson equation arising in propagation of acoustic waves. Banasiak J., Bo-
+browski A., Lachowicz M., Tomilov Y. (eds) Semigroups of Operators — Theory and Appli-
+cations, SOTA 2018, Springer Proceedings in Mathematics and Statistics, 325:147-182, 2020.
+doi:10.1007/978-3-030-46079-2_09.
+
+[4] M. Bongarti, S. Charoenphon, and I. Lasiecka. Vanishing relaxation time dynamics of the Jordan
+Moore-Gibson-Thompson equation arising in nonlinear acoustics. Journal of Evolution Equations,
+21:3553-3984, 2021. doi:10.1007/s00028-020-00654-2.
+
+[5] M. Bongarti and I. Lasiecka. Boundary stabilization of the linear MGT equation with feedback
+Neumann control. In B. Jadamba, A. A. Khan, S. Migoérski, and M. Sama, editors, Deterministic
+and Stochastic Optimal Control and Inverse Problems, chapter 7, pages 150-168. CRC Press,
+2021. URL: 10.1201/9781003050575.
+
+6] M. Bongarti, I. Lasiecka, and J. H. Rodrigues. Boundary stabilization of the linear MGT equation
+with partially absorbing boundary data and degenerate viscoelasticity. Discrete & Continuous
+Dynamical Systems - 5, 2021, to appear.
+
+7| M. Bongarti, I. Lasiecka, and R. Triggiani. The SMGT equation from the
+boundary: regularity and stabilization. Applicable Analysis,  0(0):1-39, 2021.
+doi:10.1080/00036811.2021.1999420.
+
+18] F. Bucci and M. Eller. The Cauchy—Dirichlet problem for the Moore—Gibson—Thompson equation.
+Comptes Rendus Mathématique, 359(7):881-903, 2021. doi:10.5802/crmath.231.
+
+19] F. Bucci and I. Lasiecka. Feedback control of the acoustic pressure in ultrasonic wave propagation.
+Optimization, 68(10):1811-1854, 2019. doi :10.1080/02331934.2018.1504051.
+
+[10] C. Cattaneo. A form of heat—conduction equations which eliminates the para-
+dox of Instantaneous propagation. Comptes Rendus, 247:431, 1958. URL:
+https://ci.nii.ac.jp/naid/10018112216/en/.
+
+31

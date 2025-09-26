@@ -1,0 +1,59 @@
+11,870 JULIAN: VOLCANIC TREMOR—NONLINEAR EXCITATION BY FLUID FLOW
+
+(r1,m2) lies below the curve appropriate to the value of r3, yield stable steady flow without oscillation and stable limit-
+then steady flow is stable; if it lies above, it is unstable and cycle oscillations. Experiments with a variety of parameter
+tremor occurs. For example, in the unstable case illustrated values fail to produce any behavior more complicated than
+in Figure 9, with the upstream pressure p; = 10 MPa, the limit-cycle oscillations. It is not obvious why this should be
+dimensionless parameters have the values rm = 0.46, m» = so. According to the Poincaré-Bendixson Theorem [Jordan
+0.63, and m3 = 0.0053 and R = 1.55. When p; is lowered to and Smith, 1983], limit-cycle oscillations are the most
+3 MPa, the values become r; = 0.41, op = 0.092, and 3 = complicated possible behavior for systems of second order,
+0.0022, R = 0.83, and steady flow is stable (see Figure 10). but no such general restriction applies for higher-order
+The critical pressure for incipient instability is p; = 4.82 systems. The lack of complicated behavior may mean that,
+MPa, for which rp = 0.42, » = 0.21, and r3= 0.0027 and RB when A = 0, a second-order system exists that is equivalent
+= 1. to the equations of motion (9) and (12).
+
+As fluid flows along a channel, it encounters variations in When damping of the walls is included (A > 0),
+the channel thickness, which cause the flow speed to vary. however, more complicated types of behavior result,
+Figure 11 can be used to determine where oscillations can including a classical cascade of period-doubling subharmonic
+occur most easily. In steady flow, the total fluid discharge bifurcations leading to chaotic oscillations. Figure 12
+hsvs is the same everywhere along the channel, so vs; is illustrates this behavior, showing synthetic time series of
+inversely proportional to hs. From the definitions (18), (19), h(t), like those in the upper parts of Figures 9 and 10,
+and (23) it follows that m oc hol, a xX hd, r1 X ho 3, and ro» computed with M = 0 and A = 107 kg m~! s7! for
+x hY, with —1 < a < 3. Thus as hg varies along the channel, various values of driving pressure p;. For py = 13 MPa,
+r1 and m move along a line whose slope is between —1 and the long-time motion, after the starting transient has died
+3, as shown in the inset in Figure 11. If 3 is small, as it isin out, is a simple limit-cycle oscillation resembling that in
+the examples treated here, then the position of the critical Figure 9. The corresponding spectrum (Figure 13) consists
+curve in Figure 11 is insensitive to 3 and tremor occurs most dominantly of a spectral line at the fundamental frequency
+easily at places where r; is greatest and hg is smallest. This of the limit cycle. As the driving pressure is raised above
+analysis justifies the statement made earlier, that tremor about 15.4 MPa, a subharmonic with a frequency half that
+occurs most readily at constrictions in the channel. of the fundamental appears, and alternate cycles of the time
+
+series have different shapes. The second time series in Figure
+Period D oubling and Chaos 12, for P1= 16.0 MPa, shows this phenomenon. The signal is
+still periodic but is more complicated and has a period about
+
+When, as in the case described above, the channel twice as great as before. Such a signal is often referred to as
+walls are modeled as masses connected by springs, without having “period two.” At still higher pressures, subharmonics
+radiation damping (A = 0), then the numerical experiments of higher orders appear, producing periodic signals whose
+
+KR P1=13.0MPa
+0
+1g 16.0
+0
+1c 17.5
+=
+c | | | I
+0 ]
+1c 18.0
+0
+1 19.0
+0
+IT TA SA NA EN TE TA SA SA I WN SA SUS
+0 5 10 15
+t,s
+Figure 12. Synthetic tremor time series (channel thickness h versus time) showing types of behavior
+that occur for different values of driving pressures p; when radiation damping of motion of channel walls
+is included in the model. Model parameters are as in Figures 9 and 10 except M = 0 and A = 107 kg
+m~! s~1. First time series: simple limit cycle. Second time series: limit cycle with one subharmonic
+(“period two”). Third time series: limit cycle with two subharmonics (“period four”). Fourth time series:
+chaotic bands (“noisy limit cycle”). Fifth time series: chaos.

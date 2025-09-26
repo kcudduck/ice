@@ -1,0 +1,81 @@
+13
+
+Lauer, E, Hu, XY, HickeL, STEFAN & Abpams, NikoLaus ANDREAS 2012 Numerical modelling and
+investigation of symmetric and asymmetric cavitation bubble dynamics. Computers & Fluids 69,
+1-19.
+
+LECHNER, CHRISTIANE, LAUTERBORN, WERNER, KocH, Max & METTIN, ROBERT 2020 Jet formation from
+bubbles near a solid boundary in a compressible liquid: Numerical study of distance dependence.
+Physical Review Fluids 5 (9), 093604.
+
+L1, SHUAIL, ZHANG, A-MAN, WANG, SHIPING & HAN, Rut 2018 Transient interaction between a particle and an
+attached bubble with an application to cavitation in silt-laden flow. Physics of Fluids 30 (8), 082111.
+
+Li, Z1-Car & Lu, Tzon-Tzer 2000 Singularities and treatments of elliptic boundary value problems.
+Mathematical and Computer Modelling 31 (8-9), 97-145.
+
+LoHsE, DETLEF, ScHMITZ, BARBARA & VERsLUIs, MICHEL 2001 Snapping shrimp make flashing bubbles.
+Nature 413 (6855), 477-478.
+
+Lyons, Joun J, HANEY, MATTHEW M, FEE, DAVID, WECH, AARON G & WAYTHOMAS, CHRISTOPHER F 2019
+Infrasound from giant bubbles during explosive submarine eruptions. Nature Geoscience 12 (11),
+952-9358.
+
+MAxweLL, ApaM D, Cain, CHARLES A, HaLL, TimotHYy L, FowLkESs, J Brian & Xu, ZHEN 2013
+Probability of cavitation for single ultrasound pulses applied to tissues and tissue-mimicking
+materials. Ultrasound in medicine & biology 39 (3), 449-465.
+
+MAXWELL, ApaM D, WANG, Tzu-YIN, Cain, CHARLES A, FowLKES, J BriIAN, SArozHuNIKOV, OLEG A,
+BAILEY, MicHAEL R & Xu, ZHEN 2011 Cavitation clouds created by shock scattering from bubbles
+during histotripsy. The Journal of the Acoustical Society of America 130 (4), 1888-1898.
+
+Naupg, CHArRL F. & ErLris, ALBERT T. 1961 On the Mechanism of Cavitation Damage by
+Nonhemispherical Cavities Collapsing in Contact With a Solid Boundary. Journal of Basic En-
+gineering 83 (4), 648-656, arXiv: https://asmedigitalcollection.asme.org/fluidsengineering/article-
+pdt/83/4/648/5486537/648_1.pdf.
+
+OHL, CLAUS-DIETER, ARORA, MANISH, DIJKINK, RORY, JANVE, VAIBHAV & Lodse, DeETLEF 2006a Surface
+cleaning from laser-induced cavitation bubbles. Applied physics letters 89 (7), 074102.
+
+OHL, CLAUS-DIETER, ARORA, M ANISH, IKINK, Roy, DE Jong, Nico, VERsLUIS, MiIcHEL, DELIUS, MICHAEL
+& Lonsg, DETLEF 20065 Sonoporation from jetting cavitation bubbles. Biophysical journal 91 (11),
+4285-4295.
+
+Paris, RAPHAEL 2015 Source mechanisms of volcanic tsunamis. Philosophical Transactions of the Royal
+Society A: Mathematical, Physical and Engineering Sciences 373 (2053), 20140380.
+
+PisHCHALNIKOV, YURI A, BEHNKE-PARKS, WILLIAM M, ScHMIDMAYER, KEVIN, MAEDA, KAZUKI, COLONIUS,
+Timm, KENNY, THOMAS W & LASER, DANIEL J 2019 High-speed video microscopy and numerical
+modeling of bubble dynamics near a surface of urinary stone. The Journal of the Acoustical Society
+of America 146 (1), 516-531.
+
+Pore, STEPHEN B 2001 Turbulent flows.
+
+PopPINET, STEPHANE 2015 A quadtree-adaptive multigrid solver for the serre—green—naghdi equations. Journal
+of Computational Physics 302, 336-358.
+
+PopPINET, STEPHANE 2018 Numerical models of surface tension. Annual Review of Fluid Mechanics 50,
+49-75.
+
+PoPINET, STEPHANE & ZALESKI, STEPHANE 2002 Bubble collapse near a solid boundary: a numerical study
+of the influence of viscosity. Journal of fluid mechanics 464, 137-163.
+
+PraDO, CA, ANTUNES, FAF, RocHA, TM, SANCHEZ-MUNOzZ, S, BARBOSA, FG, TERAN-HILARES, R, CruUZ-
+SANTOS, MM, ARrRUDA, GL, DA Siva, SS & Santos, JC 2022 A review on recent developments
+in hydrodynamic cavitation and advanced oxidative processes for pretreatment of lignocellulosic
+materials. Bioresource Technology 345, 126438.
+
+PRENTICE, PAUL, CuscHIERI, ALFRED, DHOLAKIA, KisHAN, PRAUSNITZ, MARK & CamPBELL, PAuL 2005
+Membrane disruption by optically controlled microbubble cavitation. Nature physics 1 (2), 107-110.
+
+REUTER, FABIAN, GONZALEZ-AVILA, SILVESTRE ROBERTO, METTIN, ROBERT & OHL, CLAUS-DIETER 2017
+Flow fields and vortex dynamics of bubbles collapsing near a solid boundary. Physical Review
+Fluids 2 (6), 064202.
+
+REUTER, FABIAN & OHL, CLAUs-DIETER 2021 Supersonic needle-jet generation with single cavitation
+bubbles. Applied Physics Letters 118 (13), 134103.
+
+SAADE, YOUSSEF, JALAAL, MAZIYAR, PROSPERETTI, ANDREA & LoOHSE, DETLEF 2021 Crown formation from
+a cavitating bubble close to a free surface. Journal of Fluid Mechanics 926.
+
+SAFFMAN, PHILIP G 1995 Vortex dynamics. Cambridge university press.

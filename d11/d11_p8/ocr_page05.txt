@@ -1,0 +1,40 @@
+Sonoluminescence and sonochemiluminescence from a microreactor 5
+=)
+my Ciscilloscope nave /
+0 . - 4 a4. 1 ro.
+-
+Th | , |
+I cst
+Glass
+container |. ~ CO Substrate
+Pits
+Substrate
+top view
+Pits
+Figure 1: Experimental setup (not to scale) showing the different components used. The
+zoomed inset shows the microreactor and a top view of a three-pit substrate.
+3. Results and Discussion
+
+Contrary to the highly reproducible characteristics of single bubble cavitation, multi-
+ple bubbles are difficult to characterize since the bubble size distribution is constantly
+changing and bubbles do not cavitate always in phase with the driving frequency (period
+doubling and chaotic behaviors are reported in the literature (Lauterborn & Cramer,
+1981; Cabeza et al., 1998)). However, the overall multiple bubble activity can be quan-
+tified by measuring the total SL intensity. Figure |2| shows PMT output recorded for
+10 s for the three systems studied. Despite the appearance of emission spikes (common
+for these systems (Tandiono et al., 2011; Negishi, 1961)), the average intensity of each
+system was used for comparison in the following discussion.
+
+The emission spikes along a constant low intensity emission are short pulses that
+originate from specific bubbles that, upon reaching an appropriate size in the expansion
+phase, collapse and emit a strong light pulse. Micro-shocks occurring within the bubble
+during final collapse stages are reported elsewhere both for water and luminol solutions
+(Jarman, 1960; Negishi, 1961).
+
+It can be seen in Figure 2| that the emission spikes mainly appear for the water and
+luminol system and not that frequently for the aqueous propanol system. Despite the less
+frequent presence of these spikes in the propanol system, the average intensity was higher
+than that observed for water. This behavior provides evidence that the bubble population
+is largely transient as there is no SL quenching (Lee et al., 2005; Price et al., 2004; Toegel
+et al., 2002). The presence of propanol can increase the bubble population by lowering
+the surface tension and facilitaing the pinch-off events of microbubbles from the pit. The

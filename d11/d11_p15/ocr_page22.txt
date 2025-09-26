@@ -1,0 +1,39 @@
+which yields overdetermination of boundary data on I'; for the wave operator. Here we have used
+contradiction assumption (4.34b). This gives v = 0, hence (; = 0 and (;; = 0 distributionally . Using
+this information in (4.36a) yields
+0 0
+AC = 0; =| = 0; 55 + aC = 0.
+ov |p, Ov ro
+Standard elliptic estimate, along with kg > 0 gives ( = 0 in Q.
+
+Finally, weak* convergence of %, in L*(0,T; L?()) and the compacity of L?(Q) into H°(Q) (see
+35, Theorem 16.1 with s = 0 and € = §]) we have 2,(t) — C(t) strongly in H=%(Q) for a.e. t € [0,7]
+and this allow us to compute (due to Lebesgue dominated convergence theorem):
+
+T T |
+
+tim 2a Baas = Jim | Wns = [im 12a r-sidt = [CN r-sco) = ©
+
+since ¢ = 0 in @. Then, passing with the limit as n — oo in (4.34a) we have
+0 = Cll 20 7:1 -5 (2) — 1,
+which 1s a contradiction. The Lemma is proved. []
+Lemma 4.6 implies in a straightforward way the result of the proposition 4.5. []
+We are ready to establish the exponential decay of the the energy functional Fj.
+Theorem 4.7. Assume that f = 0. Hence, the energy functional FE; is exponentially stable, i.e. there
+exists 1" > 0 and constants M,w > 0 such that
+E(t) < Me™ E(0), fort>0. (4.40)
+Proof. For f = 0, identity (4.5) implies
+Ss T
+0 T—s
+Since s < 1/2 can be taken arbitrarily small, we fix s < 1/2 in the above inequality. Then by
+dissipativity of EF; (for f = 0) along with Propositions 4.3 and 4.5 we infer
+T T
+/ Ei(t)dt < Ey(T) + cr | Dy(s)ds. (4.41)
+0 0
+On the other hand, using identity (4.5) (with f = 0) once more, we deduce
+T T
+0 0
+Combining (4.41) and (4.42) we arrive at
+T T
+0 0
+22

@@ -1,0 +1,36 @@
+8 D.F. Rivas, Ashokkumar, Leong, Yasui, Tuziuti, Kentish, Lohse and Gardeniers
+x10”
+I 2 pits
+0.9 [11 pits
+[__1Blank
+0.8
+0.7
+>’ 0.6 A
+O
+O)o.s
+© /1\
+O 04
+> /1\
+0.3 V7
+0.2 2
+—
+High Low
+Power
+Figure 4: Averaged SL intensities for the different studied experimental conditions in
+water.
+1 mm
+3 pits 3 pits
+High Low
+1 pit 2 pits
+Low Low
+Figure 5: SL image from bubble streamers for different scenarios. The top row corre-
+sponds to three-pit cases with similar pattern as observed under visible conditions for
+high and low power. The remaining figures correspond to one-, two-pit cases at low
+power
+for the propanol system instead of quenching the SL signal is higher than that observed
+in water is in agreement with the fact that the cavitation bubbles generated in the
+microreactor are transient in nature. As suggested earlier, the lower surface tension of
+the bubble stabilized on the pit due to the presence of propanol might yield a higher
+number of bubble streamers generated that in turn contribute to the increase in SL
+signal. This needs to be supported by future experiments with fast imaging of all these
+conditions.

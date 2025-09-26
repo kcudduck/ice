@@ -1,0 +1,60 @@
+[37] V. N. Skokov, A. V. Reshetnikov, A. V. Vinogradov, V. P. List of Figures
+Koverda, Acoust. Phys. 53 (2) (2007) 136-140.
+38] eo C. Tang, K. Wiesenfeld, Phys. Rev. A 38 (1) (1988) 1 Schematic interpretation of Eq. (I). The
+[39] V. N. Skokov, A. V. Reshetnikov, V. P. Koverda, A. V. Vino- phase shift between bubble volume Vand
+aradov, Physica A 293 (1-2) (2001) 1-12. pressure gradient Op/0x can be decomposed
+[40] Y. A. Kobelev, L. A. Ostrovskii, J. Acoust. Soc. Am. 85 (2) into two parts: v depending on the bubble
+(1989) 621-629. dynamics, and 6 depending on the acoustic
+41] L. Hallez, F. Touyeras, J. Y. Hihn, J. Klima, J. Guey, M. Spajer, field. 3
+Y. Bailly, Ultrasonics 50 (2) (2010) 310-317. ©
+[42] H. Chen, X. Li, M. Wan, S. Wang, Ultrasonics Sonochemistry 2 Average quantities Ic and Ig for an air bub-
+14 (2007) 291-297. ble of ambient radius 3 pm (solid line) and
+43] E. A. Brujan, TL. Ikeda, K. Yoshinaka, Y. Matsumoto, Ultra- 5 pm (dashed line) in water, as a function of
+sonics Sonochemistry 18 (1) (2011) 59-64. the dimensionless acoustic pressure | P*| for
+144] D. Krefting, R. Mettin, W. Lauterborn, Ultrasonics Sonochem-
+istry 11 (2004) 119-123. frequency of 20 kHz. The vertical lines rep-
+[45] A. Moussatov, R. Mettin, C. Granger, T. Tervo, B. Dubus, resent the Blake thresholds for 3 ym (solid)
+I bodes, i Prose of he ord Congms on Oana 5m bubbles (dashed). +...
+Co 3 Simulation of the sound field and resulting
+primary Bjerknes force for 5 pum air bub-
+bles in water, with an emitter displacement
+amplitude is Up= 0.3 pm at 20 kHz. (a):
+Pressure amplitude profile. The horizontal
+dashed line represents the Blake threshold
+for 5 pm bubbles. (b): Bjerknes force ex-
+erted on bubbles at each point of the do-
+main (with signed logarithmic scale in ordi-
+nate). The circles in Fig. (a) represents the
+stable stagnation points for the bubble. . .
+4 Simulation of the sound field and resulting
+primary Bjerknes force for 5 pum air bub-
+bles in water, with an emitter displacement
+amplitude is Up= 5 pm at 20 kHz. (a):
+Pressure amplitude profile. The horizontal
+dashed line represents the Blake threshold
+for 5 pm bubbles. (b): Bjerknes force ex-
+erted on bubbles at each point of the do-
+main (with signed logarithmic scale in ordi-
+nate). The circles in Fig. (a) represents the
+stable stagnation points for the bubble. . .
+5 Axi-symmetrical geometry for large area sonotrode. 6!
+6 Original image of cone bubble structure (reprinted
+from Ref. 15], with permission from Else-
+vier). The transducer diameter is 12 cm. . . 6
+7 Comparison between the experimental pic-
+ture of Fig.[6](the image of Ref | 15] has been
+video reversed in order to make the compar-
+ison easier) and the numerical results ob-
+tained for 2 pm air bubbles, with Uy =
+1.4 pm, No = 360 bubbles.mm™. The in-
+put intensity is 8.2 W.cm 2. The black lines
+are the S-streamers, the blue lines are the L-
+streamers, and the thick solid red line is the
+Blake threshold contour curve (|P*| = 1.178
+for 2 pm bubbles). (a) comparison with the
+left part of Fig.[6]; (b) comparison with the
+mirrored right part of Fig.[6] The horizon-
+tal and vertical lines in the liquid just mark
+the separation between various subdomains
+and do not have any physical meaning. . . . 7
+15

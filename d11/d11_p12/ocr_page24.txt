@@ -1,0 +1,26 @@
+direct indication of the tensile strain state of the Al phase as evaluated by the profile
+fitting computation. No crystalline or amorphous characteristic of the oxide phase is
+observed, indicating phase purity of synthesized nano-Al.
+4.4.2 Sonocrystallization of PVP at RT
+The sono-mechanochemical driven PVP graphitization (i.e., sonocrystallization) process
+is investigated by using the bulk powder-XRD method. The analysis of such bulk XRD
+data is a reaffirmation and validation of the presented TEM localized microstructural
+graphitization. The specific outcomes being; (1) graphitized PVP fraction quantification,
+(2) graphitized carbon structural parameters evaluation, and (3) developed structural
+phase identification, respectively. A set of the sonochemical designed composites of x
+wt% PVP/y wt% Al (denoted as xPPVP-yAl; where x/y=1/1, 2/1, and 4/1) products are
+processed. The XRD pattern of RT sonicated 3PVP-2Al composite (denoted as
+RTSC/PVP-Al) concurrent to the present discussion is plotted along with the parent-
+PVP in fig. 4 12.
+The amorphous parent-PVP has characteristic broad humps at 20=11.6 and 20.2 °,
+respectively [377]-[380]. The broad hump at 20=20.2 ° develops to a sharpened peak
+implying PVP crystallization, along with its simultaneous structural phase evolution to
+graphitic carbon (GC) form. This process of crystallization and subsequent GC phase
+formation is achieved by probe sonication at RT in solution-phase chemical processing
+of the RTSC/PVP-Al composite product. The mechanistics of the ultrasonic pressure
+waves devised crystallization is similar to that observed under laser or electron beam
+[381]-[388]. The XRD pattern of RTSC/PVP-Al composite also highlights the process of;
+(1) intercalation, (2) growth, and (3) stabilization of metallic Al nanoparticulate phase
+achieved in the designed crystallized matrix of PVP and GC respectively.
+
+24

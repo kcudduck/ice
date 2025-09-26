@@ -1,0 +1,68 @@
+12 2.0 10° 10° lait
+10 j Bn —— NASG
+- 2 Lh — 10% 208
+2 1: c O x 10 = 10
+> : 4, 0 = 1.0 © I
+0.1 _ = —6 05 103 do 103
+—12
+0.01 0 10? 107
+0 20 40 60 8&0 40.55 40.57 40.55 40.57 40.55 40.57 40.55 40.57
+tps] tps] tps] tps] tps]
+Figure 5: Evolution of the bubble radius R, the velocity U and Mach number U/Ct, of the bubble wall, and the temperature of
+the gas Tg and the liquid Ti,(,—gr) at the bubble wall, predicted by the Gilmore-Tait model and the Gilmore-NASG model for a
+bubble with Rg = 9 um driven by a shock wave with Ap, = 10 MPa, f, = 83.3 kHz and a = 910 kHz.
+4.4. Shock wave lithotripsy The ability of the Gilmore-NASG model to pre-
+Following the work of Church [25], a shock-driven dict pressure and temperature values in gas, vapour
+bubble collapse representative of shock wave lithotripsy and liquid simultaneously, makes the proposed model
+treatments is considered. The bubble collapse is driven particularly attractive for sonochemistry and biomed-
+by a shock wave, defined as [25] ical applications. While an accurate description of
+evaporation and condensation together with a consis-
+Da = 2 Ap. et cos (2rf fr -) (29) tent model of the vapour inside the bubble are key
+a a a ) . . .
+
+3 to predict and understand chemical reactions occur-
+with £, = 83.3kHz, Ap, = 10 MPa and the decay con- ring inside the bubble [26-28], the temperature dis-
+stant 5 _ 010 Hy "The bubble has an initial radius of tribution and the accumulation of heat in the liquid
+Ry = 9 um and is initially in equilibrium, with pg, o = are primary concerns with respect to the efficacy and
+105 Pa. The liquid has a viscosity of uy = 0.001 Pa safety of medical treatments [12, 13, 22]. All these
+and the surface tension is = 0.072 N/m. The bubble phenomena necessitate an accurate temperature pre-
+behaviour, shown in Fig. 5, exhibits similar differences diction in the hquid. ‘The Gilmore-NASG model can,
+
+: : : therefore, serve as the foundation for future model
+between the classical Gilmore-Tait model and the pro- -
+posed Gilmore-NASG model as the bubble considered developments, ©.5- for supercritical fluids [16] in SOLO-
+in Section 4: the peak velocity of the bubble wall pre- chemistry applications, and studies related to cavita-
+dicted by the Gilmore-NASG model is considerably tion events in which an accurate knowledge and con-
+higher and the Gilmore-Tait model yields a higher sistent definition of pressure and temperature of the
+beak temperature in the liquid than in the gas liquid are critical, such as sonocrystallisation [11] and
+| medical ultrasound applications [12].
+5. Conclusions
+Acknowledgements
+A new model for the prediction of single-bubble Ths b to dod by the D he Forsch
+cavitation in compressible liquids has been presented, 15 TEREAlCI was TUHAEe y the Deutsche Forse HES"
+by combining the Gilmore model [5] and the Noble- gemeinschaft (DFG, German Research Foundation),
+Abel-stiffened-gas (NASG) equation of state [8]. The grant number 441063377.
+NASG equation of state provides a consistent descrip-
+tion of compressible and thermal effects of both gases Appendix A. Implementation of the Gilmore-
+and liquids, resolving the temperature inaccuracy as- NASG model
+sociated with the commonly used Tait equation of
+state. Even without considering thermal diffusion and Implementing a Gilmore model to predict the be-
+mass transfer, which both play an important role in haviour of a bubble in a viscous fluid requires to rear-
+the dynamic behaviour of cavitation bubbles [14] but ~~ range Eq. (10), since the derivative of the liquid pres-
+have not been considered in the presentation of the sure at the bubble wall, pr,, and, in turn, the derivative
+proposed model, significant differences in the bub- of the enthalpy difference, H, are a function of the ac-
+ble behaviour can be observed between the proposed ~~ celeration of the bubble wall, R, which is the primary
+Gilmore-NASG model and the classical Gilmore-Tait ~~ solution variable. First, defining the coetlicient
+model, especially for rapidly and violently collapsing
+bubbles. For the bubbles in the excitation regimes _ R
+: CL A=|1—— | R, (A.1)
+representative of high-intensity focused ultrasound and Cr,
+shock wave lithotripsy treatments, the velocity of the
+bubble wall predicted by the Gilmore-NASG model inserting it in Eq. (10) and rearranging for R leads to
+is approximately twice as high as the velocity pre-
+dicted by the Gilmore-Tait model, a difference that R 3 R
+: 1+—|H-=-|1-—|R?
+may be important for clinical safety considerations of ] Cr 9 3C; 77
+such treatments [13]. R=—— 7 4+ (A2)
+A CL
+5

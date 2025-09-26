@@ -1,0 +1,65 @@
+1074 Flowers: Glacier hydromechanics — insights and legacy of lken’s works
+scales of heterogeneity over which glacier processes cry from the deforming beds of the Siple Coast ice streams,
+naturally average (e.g. Kamb and others, 1994) and the = much of this work began by considering the fundamentals of
+relative influences of local vs non-local forcing (e.g. Rippin sliding theory and observations from alpine glaciers (e.g.
+and others, 2005). Bentley, 1987; Alley, 1989, 1993; Engelhardt and others,
+) 1990; Harrison and others, 1993; Engelhardt and Kamb,
+Ice-sheet hydromechanics 1997). lken’s (1981) theoretical bound on basal shear stress
+The extension of the early work of Iken and colleagues to the surfaced in a recent study of Pine Island and Thwaites
+larger scale of the ice sheets is hardly surprising, given that ~~ Glaciers in the mass-shedding Amundsen Sea sector of West
+they exported ideas about subglacial hydromechanics from Antarctica. Joughin and others (2009) noted a consistency
+the Swiss Alps to Greenland. Their work on Jakobshavn between this bound and properties of the plastic-bed model
+Isbrae (Iken and others, 1993; Funk and others, 1994; Lithi they used which produced the best agreement between the
+and others, 2002) remains the only work to have documen- ~~ modelled and measured extents of acceleration and thinning
+ted glacier-bed conditions through direct borehole obser- above the grounding line.
+vations, which included evidence of an active subglacial Other recent Antarctic work harks back to the obser-
+drainage system. lken and colleagues combined measure- vations of lken and others (1983) by attributing short-term
+ments and modelling (lken and others, 1993; Funk and vertical deflections of the ice surface to the movement of
+others, 1994; Luthi and others, 2002) to infer a thick layer of subglacial water. Gray and others (2005) first observed this
+rapidly deforming temperate ice at the base of Jakobshavn in Antarctica (cf. Fatland and Lingle, 2002) on Kamb and
+Isbrae. Their findings helped explain the fast flow of the ice Bindschadler Ice Streams using interferometric synthetic
+stream and its lack of seasonal variation (Echelmeyer and aperture radar (INSAR) data. The short-term nature of the
+Harrison, 1990). deflections and the spatial coincidence of uplift/subsidence
+Since the early 2000s, there have been a number of jth subglacial hydraulic potential minima led to the
+studies documenting a distinct coupling between hydrology interpretation of these data as reflecting transient water
+and dynamics particularly on land-terminating glaciers in storage and release. Similar phenomena have since been
+Greenland. GPS data have revealed diurnal, weekly and interpreted from ice-surface deflections on other ice streams
+seasonal variations in surface velocity along the western and in other regions of Antarctica, painting a highly
+margin of the ice sheet that have been interpreted as dynamic picture of sub-ice-sheet drainage (e.g. Fricker and
+responses to variable meltwater input to the bed (e.g.  Scambos, 2009).
+Bartholomew and others, 2010). Relatively coherent weekly
+variability in surface ve ocity was found by Van de Wal and The sliding law
+a >) Ae a ick. They related Adaptations to the classical form of the sliding law have
+acceleration on this timescale to the rate of surface been made, for example, to account for tangential forces
+meltwater production, rather than the absolute volume of ction) at the pec (08 Morland 1700: ehwelzer ane
+meltwater. This observation indirectly supports lken’s (1981) er J and to allow for unstable sliding above a critica
+conceptual model of sliding with cavitation. pressure less than the overburden (lken and Truffer, 1997;
+Shepherd and others (2009) documented diurnal vari- Truffer and ken, 1998). Much effort has also been devoted
+ations in horizontal flow speed and ice-surface elevation © understanding basal motion in the presence of uncon-
+over several days in 2007 on the land-terminating Russell solidated sediments (e.g. Alley, 1989; Iverson, 1 999).
+Glacier in western Greenland. They associated these An 'mportant recent development Mn sliding theory
+variations with diurnal meltwater input, while they revisited ken’ (1981) derivation of the “limiting” or ‘critical
+attributed longer-term flow variations to lake drainage pressure, which implies that basal shear siress cannot
+events. On the basis of these observations, Shepherd and exceed a maximum value for a sven effective pressure
+others (2009) proposed that alpine glaciers may be a and bed ‘geometry. Interpreted physically, cavity water
+reasonable analogue for Greenland in a warming climate. pressure limits the stress that can be concentrated on the
+This suggestion seems to be confirmed by Bartholomew stoss faces of bed obstacles as sliding with cavitation occurs.
+and others (2010) for another transect inland from the This is significant because it invalidates the traditional form
+Russell Glacier terminus, where the data look much like of u= CrP [NA as a general sliding rule. In Iken’s (1981)
+those in Figure 2, velocity magnitudes excepted. Although original notation, p1 = po — 7/tan§ (equation 2), where p;
+some of the outlet glaciers along Greenland's western Is the limiting pressure, po the overburden pressure, 7 the
+margin exhibit strong sliding responses to meltwater input ~~ Pasal shear stress and 5 the maximum slope of the stoss
+reminiscent of alpine glaciers, they also appear to behave faces of bedrock obstacles with respect to the mean bed
+like alpine glaciers in adjusting their drainage systems to slope (Fig. 1). Rewriting gives 7 < Ntan 3. Schoof (2005)
+water flux (e.g. see Willis, 1995, for a review). This would ~~ showed that this relationship, which he termed ‘lken’s
+explain their responsiveness to meltwater variability, rather ~~ bound’, could be extended to more realistic bed geometries
+than total volume in some cases (e.g. Van de Wal and and incorporated into a new sliding law (see also Fowler,
+others, 2008: Schoof, 2010). 1987). Gagliardini and others (2007) extended Schoof’s
+In Antarctica, discovery of saturated deformable sedi- ~~ (2005) work to nonlinear ice rheology and locally infinite
+ments beneath fast-flowing ice streams in the early 1980s bed slopes (i.e. bed obstacles that are perpendicular to mean
+(e.g. Blankenship and others, 1986) led researchers to ~~ bed slope) and proposed a friction law of the form
+consider the influence of water pressure on basal flow  7/N = Dx'/"/(1 + ax™"" where x = u/(D"N"A,), u is
+processes in an environment isolated from surface melt- sliding speed, n is Glen's exponent and D, A, m and
+water. Although the hard-bedded cavity-dominated drainage ~~ a =a(m) depend only on bed geometry if properly chosen.
+systems envisaged by lken and colleagues would seem a far ~~ Although such laws are more complicated to implement
+https://doi.org/10.3189/002214311796406103 Published online by Cambridge University Press

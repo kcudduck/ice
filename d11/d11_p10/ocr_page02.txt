@@ -1,0 +1,66 @@
+2
+esis were also among the first open-source software tools rived in Section VI. The model hierarchy with respect to
+in fluid dynamics***°. Despite the widespread availabil- the Mach number following from the Kirkwood-Bethe hy-
+ity of simulation tools that can predict two- and three- pothesis is briefly reviewed in Section VII and numerical
+dimensional pressure-driven bubble dynamics in complex methods to solve KBH models for the bubble dynamics,
+scenarios with increasing accuracy and robustness’ VY, flow field and shock waves are discussed in Section VIII.
+the Kirkwood-Bethe hypothesis and the models derived In Section IX, the assumptions and capabilities of the
+from it, henceforth collectively referred to as KBH mod- Kirkwood-Bethe hypothesis are further scrutinized and
+els, still play an important role for the prediction of new results are presented. Conclusions are drawn and
+pressure-driven bubble phenomena. Predicting the dy- open questions are discussed in Section X.
+namic behavior of collapsing bubbles and the pressure
+transients they produce remains challenging and KBH II. RETROSPECTIVE
+models have emerged as robust benchmarks for testing
+and validating these numerical methods”. In addi- The Kirkwood-Bethe hypothesis was proposed as part
+tion, Acoustic emissions can be modulated by different ,f 5 technical report*® commissioned by the research of-
+mechanisms ‘and, consequently, interpreting acous-  g.o of the United States federal government on predict-
+tic signals at a distance remains a complex task. To this ing the pressure wave produced by an underwater explo-
+end, the Kirkwood-Bethe hypothesis has SECIL a renewed sion, completed in 1942 by John G. Kirkwood and Hans
+interest over the past years as the basis for gaining an HO= A. Bethe. This report focused on obtaining an approxi-
+proved understanding of the interaction between acoustic ation for the pressure amplitude at some distance from
+CHISSI0NS and fluid dynamics E primarily in relation an underwater explosion and, more precisely, the decay
+to pressure-driven bubble dynamics. constant describing an approximately exponential decay
+
+Although the Kirkwood-Bethe hypothesis and mod- of the peak pressure. To this end, Kirkwood and Bethe
+els are well established and widely used today, much of focused on the propagation of the shock front, the con-
+their theoretical foundation is scattered over many insti- ditions in the liquid behind the shock front, the rapidly
+tutional reports °° declassified military reports’”"', expanding gas bubble of burnt detonation products, and
+textbooks®" #7 PhD theses**", and papers’®®” pub- the rarefaction wave forming inside the gas bubble. The
+lished in the years and decades following the report of work of Kirkwood and Bethe was first brought to the
+Kirkwood and Bethe **. Many of these formidable works attention of a wider audience through the textbook of
+are difficult to obtain and are, thus, often not credited Cole 3!.
+correctly or even overlooked in the modern literature.
+
+Further adding to the difficulties associated with gain-
+
+ing a comprehensive picture of the Kirkwood-Bethe hy- A. Theoretical foundations
+
+pothesis and models, the original report of Kirkwood
+
+and Bethe™ does not appeal to be indexed in scientific Shortly after its publication, Rice and Ginell °7%® ex-
+databases, IMEANINgG that a list of subsequent publications tended the work of Kirkwood and Bethe *® to an explosive
+referencing this report is not readily available, and no re- charge in the shape of an infinite cylinder by consider-
+view of the scientific literature related to the Kirkwood- ing cylindrical instead of spherical symmetry. Although
+Bethe hypothesis has been published. they found that the Kirkwood-Bethe hypothesis is less
+
+The aim of this review is to gather, for the first time, accurate in cylindrical symmetry than it is in spherical
+the theoretical foundation of the Kirkwood-Bethe hy- symmetry, it provided a first glimpse into the dynamics
+pothesis, as well as models derived from it that are still of underwater explosions that are not spherically sym-
+relevant today, in a single document. Moreover, the de- metric. The work of Rice and Ginell®"-® later became
+scription of the flow field arising from the Kirkwood- the foundation of the studies of Naugol’'nykh and Roy "!
+Bethe hypothesis is further generalized and the analy- on the hydrodynamics of electrical discharges in liquids
+sis of the limitations and assumptions underpinning the and of Kedrinskii ®° on cylindrically symmetric underwa-
+Kirkwood-Bethe hypothesis is extended. ter explosions.
+
+As a first step, Section II provides a short historical In 1952, Gilmore %? studied the Kirkwood-Bethe hy-
+overview of major developments and applications related pothesis further, focusing, however, on cavitation bub-
+to the Kirkwood-Bethe hypothesis. Subsequently, the ble dynamics rather than on underwater explosions.
+Kirkwood-Bethe hypothesis is derived from the conserva- Aside from clarifying some assumptions and exploring
+tion laws governing mass, momentum and energy in Sec- the theoretical limits of the Kirkwood-Bethe assumption,
+tion III, paying particular attention to the underpinning Gilmore presented a second-order differential equation of
+assumptions. The application of different equations of the radial motion of the gas-liquid interface of a spherical
+state describing the properties of the liquid is presented in gas bubble in a compressible fluid as a result of ambient
+Section IV, the equation of motion of the gas-liquid inter- pressure differences, now known as the Gilmore model,
+face of a pressure-driven gas bubble or cavity is presented which has since become a staple of fundamental research
+in Section V, and models to describe the flow generated on cavitation. As it contains important terms that are
+by oscillating or collapsing bubbles and cavities are de- second order with respect to the Mach number of the

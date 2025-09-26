@@ -1,0 +1,66 @@
+The Journal of Organic Chemistry pubs.acs.org/joc
+Scheme 15. Ring-Closing Alkene Metathesis Using Acoustic tration (50% w/v) that allows the maximum solubilization of
+Emulsification acetophenones, aniline, and aryl aldehydes facilitates the three-
+R component coupling when sonication is applied (Scheme
+T Koos 17).
+\ com Mo COE —
+PN cat (5 mol%) (99%) Scheme 17. Synthesis of f-Amino Carbonyl Compounds by
+CO,Et — CO, Et Three-Component Reaction in Hydrotropic Solution
+R =H Me neat OE . Ata Irradiated with Ultrasound
+CO, Et COE | SO.Na 7)
+\ Bre 18%) NH; Ox © » (50 % aq) 0 "N
+Mes=N Nes
+ci” | "Ph
+PCy, (90%)
+Silent: 5 h, 75%
+Scheme 16. Sonochemical Syntheses of Heterocyclic Drugs
+in Aqueous Media HB CAVITATIONAL EFFECTS CAN BE USED TO
+0. .0 RESOLVE MECHANISTIC PATHWAYS
+NN m0 )) HzO 7 ’
+15 + HAN oH — 15 The late Nobelist George Olah once said that “mechanisms
+INH, P07C, ro-12o min XS b ly di ”. By determining th
+2 0 | cannot be proven, only disproven”. By dete g the
+0” R influence of acoustical parameters on rates and reaction
+(76-95%) products, a sonochemical study can inform on the actual effects
+o OH of cavitation. As witnessed in the preceding results, ultrasonic
+OH ced 0. _O activation is of enormous value in chemical processing, but
+(I + N )))) H0 (I _ investigation in sonochemical mechanisms is rather unusual.
+NH, N 180 min 20 Seeing as a reaction does not occur under silent conditions,
+H > cavitation points to effects other than thermal activation. In a
+. " high atom-economy construction of fused heterocycles,
+ephalandole A (81%)
+pyrano|3,4-e][ 1,3 |oxazines, extruding 2 equiv of methanol
+only (Scheme 18), reagents were mixed on KF/alumina as
+OH OH Ph O
+O z
+CL ’ BEN JRE SOR Scheme 18. Mismatched Cavitational and Thermal Effects
+0" 0 A (1 may 0" 0 on the Kinetic Activation of a Solid Catalyst
+(S)-warfarin O
+on NH, (61%, 99% ee) EN
+cat =
+| (91%)
+The use of surfactants can increase the solubility of organic 0X0 KF/AIZO3
+substrates and have a positive effect on inertial cavitation, in reTlux no reaction
+part due to the enhanced growth rate of the bubbles.” A -_—
+cationic surfactant, cetyltrimethylammonium hydroxide, has
+been used to increase the solubility of isatin and aryl/ catalyst and sonicated (37 kHz), giving rise to the product after
+heteroaryl ketones, whose condensation gives rise to quinolines 45 min at 70—80 °C.”" No reaction occurred using the same
+in 75—95% yield at room temperature under sonication (22 catalyst at the same temperature in the absence of irradiation,
+kHz, 40% amplitude). Irradiation increases the reaction rate even after 12 h. Given the low volatility of substrates, they will
+(by ca. 3-fold) and avoids strong bases like NaOH or KOH not undergo pyrolytic cleavage in the bubble and cavitation
+employed in the silent reaction. It is pertinent to note, in terms just provides sufficient kinetic energy to surmount the reaction
+of energy savings (energy supplied in kJ per mass of product), barrier. At such a frequency and low power, the kinetic effect
+that sonication saved more than 78% energy with respect to might stem primarily from acoustic streaming. However, the
+the nonirradiated procedure.” A similar effect to that of thermal effect alone has little effect on the catalyst’s activation.
+surfactants on solvents surface tension can be obtained by The key role of cavitation should instead be related to
+hydrotropes in aqueous solution. The term hydrotrope denotes shockwaves and microjets that cause local deformation at the
+a nonmicelle forming substance, i.e, compounds that do not solid surface and increase the possible reaction sites.
+have a critical concentration above which self-aggregation takes Nearly two decades ago, we coped with the interpretation of
+place, while increasing the solubility of hydrophobic a sonochemical cycloaddition, which are still among the most
+compounds. Aqueous hydrotropic solutions merge both low challenging cases to disentangle. Both moderate accelerations
+vapor pressure and increased viscosity, relative to pure water, and greater yields have been reported for a few [4 + 2] and [3
+thus causing stronger cavitational collapse during compres- + 2] cycloadditions, the most successful involving quinones as
+sional cycles and therefore faster reactions. A hydrotropic dienophiles as well as the use of azadienes.”” The redox
+solution containing sodium p-toluensulfonate at a concen- properties of such partners might then lead to an electron
+13843 https://doi.org/10.1021/acs.joc.1c00805
+J. Org. Chem. 2021, 86, 13833-13856

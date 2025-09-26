@@ -1,0 +1,46 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+b
+(a) (b)
+/
+6 i ~ Lb
+: b.
+Sw 1 ge
+QQ rm
+2 Zz 99, 9
+—&— Re; =5 x 10° : ° 2% 08 | (c)
+| —#— Re; = 2 x 10° ce SSS
+29,0 5 ©
+. B99 & ©
+0 1 2 RL ¢ 3° i  B ©
+We °o Og \ ». i > Po
+J b> 5 2 ly”
+0 J |
+# oi 7
+We"
+J)
+FIG. 30. (a) Drag reduction in turbulent TC flow as function of Weber number for two differ-
+ent Reynolds numbers: Increasing Weber number implies increasing bubble deformability which is
+crucial for the drag reduction. Taken from the numerical simulations of ref. [220]. (b,c) Numer-
+ical simulations showing plume detachment from the inner TC cylinder for single phase flow (b)
+and bubbly flow (c), where the momentum transfer is considerably depressed. In the latter case
+deformable bubbles considerably lower the momentum transfer. The calculation was done with the
+immersed boundary method.
+implies larger drag reduction, see figure 30a. Profiles of the local angular velocity flux
+show that, in the presence of bubbles, turbulence is enhanced near the inner cylinder while
+attenuated in the bulk and near the outer cylinder. We connect the increase in drag reduction
+to the decrease in dissipation in the wake of highly deformed bubbles near the inner cylinder
+220], as visualized in figure 30b,c. As in the closed TC system the total dissipation is
+proportional to the total torque [204], the decrease in dissipation implies a decrease in the
+overall drag.
+
+Bringing all these fundamental insights into bubble drag reduction towards applications in
+naval industry however still is a very long way to go and other concepts like air cavities may
+be more efficient [221]. We are presently collaborating with the Dutch Maritime Research
+Institute (MARIN) in Wageningen on this subject.
+
+X. CONCLUSIONS
+
+I hope to have demonstrated — along my own bubble trajectory — how fascinating and
+broad the fluid dynamics of a bubble is, from the nanometer scale to geophysical scales,
+with both outstanding fundamental questions and relevant applications. Clearly, the close
+38 38

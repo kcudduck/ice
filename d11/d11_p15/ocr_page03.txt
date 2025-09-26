@@ -1,0 +1,46 @@
+ensuring global wellposedness of nonlinear solutions. Otherwise the nonlinearity may cause "blow" up
+of solutions [12].
+
+It has been recently shown that viscoelastic effects produces, in some cases, the asymptotic
+decay of the energy, cf. e.g. [33, 34, 15, 18, 17, 16]. In this work we concentrate on a physically
+attractive boundary stabilization — where control action can be applied on the boundary, hence easily
+accessible to external manipulations. Of particular interest is a configuration arising in the ultrasound
+technology where an acoustic medium is excited on one part of the boundary, while the remaining
+part of the boundary is subject to absorbing boundary conditions. This control model was introduced
+in |22, 21| in the case of Westervelt-Kuznetsov equation and later pursued in [9] for MGT equation.
+This corresponds to the following boundary conditions
+
+AO, u + Ko(x)u = 0 on Xj Ou + k1(z)u; = 0 on > (1.4)
+with Ig, I'y CT relatively open, I'g # 0, ToUL'y =, ToNTy = 0, A > 0, ko € L>®(Ty) and x; € L(y),
+k(x) > Ky > 0,Kk9 > 0 ae.
+
+Notice that the boundary condition (1.4); — where there is no dissipation —, do not satisfy strong
+Lopatinski condition, a fact that leads to new challenges at the level of proving controllability or
+stabilization even for a wave equation in dimension higher than one. The technical (mathematical)
+reason is that the presence of tangential boundary derivatives cannot be handled by standard flow
+multipliers methods. In fact, past contributions to the subject include |5, 6] where [linear dynamics is
+considered in the case A =0 and kg = xk; = 1 in (1.4). Thus, the uncontrolled part of the boundary
+is subject to Dirichlet boundary conditions where Lopatinski condition is satisfied and tangential
+derivatives (appearing in the applications of flux multipliers) vanish altogether on I'y. In [5] star—
+shaped boundary condition is assumed on I';. This restriction has been removed in |[7| by resorting
+to a microlocal analysis argument.
+
+The present paper addresses the challenging case of a nonlinear, critical JMGT dynamics subject
+to Neuman/Robin boundary conditions on the undissipated part of the boundary I'y (A = 1). The model
+is important in the context of HIFU control theory where boundary open loop strategic control is
+activated precisely on this “free” part of the boundary. On the other hand, in such case one encounters
+a well recognized PDE predicament: seeking stabilization for a hyperbolic dynamics when Lopatinski
+condition [39, 40] fails on undissipated portion of the boundary. This leads to major difficulties
+when applying flux multipliers or geometric optics in order to carry the analysis of uniform stability.
+Clearly, one expects some restrictions on the geometry of the boundary to cooperate. In the case
+of Dirichlet boundary conditions, star—shaped condition suffices. Instead, for the Neumann case
+(non—Lopatinski), it turns out that star-shaped along with some convexity is a sufficient condition.
+Precise formulation of the corresponding results will be given in the next section. In addition to
+new geometric constructs, nonlinearity in the model forces considering stability properties at higher
+topological levels with a restricted “smallness” condition imposed on the initial data. The key point
+here is that this would make the model “close” to linear. In order to contend with this limitation,
+the results presented require smallness conditions imposed only at the low energy level, while higher
+derivatives can remain large. We will be able to achieve this goal through boundary dissipation and
+small initial data imposed only at the lowest energy level. So the model and the resulting acoustic
+
+3

@@ -1,0 +1,168 @@
+1.07614 SHAPIRO AND CAMPILLO: CORRELATIONS OF THE SEISMIC NOISE 1.07614 g
+
+5
+
+a) | — — — 1 Campillo, M., and A. Paul (2003), Long-range correlations in the diffuse 5
+
+seismic coda, Science, 299, 547-549. 2.
+
+| | Cowan, M. L., I. P. Jones, J. H. Page, and D. A. Weitz (2002), Diffusing =
+
+acoustic wave spectroscopy, Phys. Rev. E, 65, paper 066605. 2
+
+Derode, A., E. Larose, M. Tanter, J. de Rosny, A. Tourin, M. Campillo, and g
+
+i gN M. Fink (2003), Recovering the Green’s function from field-field correla- S
+
+tions in an open scattering medium (L), J. Acoust. Soc. Am., 113, 2973 — 3S
+
+2976. 3]
+
+3° N Duvall, T. L., S. M. Jefferies, J. W. Harvey, and M. A. Pomerantz (1993), =
+
+\ Time-distance helioseismology, Nature, 362, 430-432. =
+
+Va Friedrich, A., F. Kruger, and K. Klinge (1998), Ocean-generated microseis- 5
+
+| \} $ | mic noise located with the Grafenberg array, J. Seismol., 2, 47-64. :
+
+Hennino, R., N. Tregoures, N. M. Shapiro, L. Margerin, M. Campillo, B. A. p
+
+van Tiggelen, and R. L. Weaver (2001), Observation of equipartition of 3
+
+. seismic waves, Phys. Res. Lett., 86, 3447-3450. 2.
+
+| PNAS | Hoshiba, M. (1991), Simulation of multiple scattered coda wave excitation =
+
+120°W Nsw based on the energy conservation law, Phys. Earth Planet. Inter., 67, 3
+
+b) 123-136. =
+
+Yo MLAC-BAR Kosovichev, A. G., T. L. Duvall, and P. S. Scherrer (2000), Time-distance Q
+
+28 inversion methods, Sol. Phys., 192, 159-176. =
+
+Levshin, A. L., T. B. Yanocskaya, A. V. Lander, B. G. Bukchin, M. P. <
+
+500 28 Barmin, L. I. Ratnikova, and E. N. Its (1989), Seismic Surface Waves 2
+
+| 2 in a Laterally Inhomogeneous Earth, edited by V. I. Keilis-Borok, 5
+
+£ 400 BAR-CWC Kluwer Acad., Norwell, Mass. g
+
+Q Lognonne, P., E. Clevede, and H. Kanamori (1998), Computation of seis- 2
+
+O BAR-NEE : SR ~
+
+S 300 28 mograms and atmospheric oscillations by normal-mode summation for a 3
+
+@ spherical Earth model with realistic atmosphere, Geophys. J. Int., 135, &
+
+© 12 388-406. z
+
+200 ~~ 23 Margerin, L., M. Campillo, N. M. Shapiro, and B. van Tiggelen (1999), >
+
+PFO-PAS Residence time of diffuse waves in the crust as a physical interpretation =
+
+100 Re 12 of coda Q: Application to seismograms recorded in Mexico, Geophys. C
+
+J. Int., 138, 343-352. E
+
+0 50 100 150 200 250 Nolet, G., and F. A. Dahlen (2000), Wave front healing and the evolution of 9
+
+time (s) seismic delay times, J. Geophys. Res., 105, 19,043—19,054. =
+
+Rickett, J. E., and J. F. Claerbaut (2000), Calculation of the Sun’s impulse <
+
+Figure 3. (2) Map showing a. TERR Ascope Ey ER response by multi-dimensional spectral factorization, Sol. Phys., 192, 5
+
+located mm California. (b) Stacked cross-correlations of  Ritzwoller, M. H., N. M. Shapiro, M. P. Barmin, and A. L. Levshin (2002), d
+
+vertical-component short-period (5-30 S) computed from Global surface wave diffraction tomography, J. Geophys. Res., 107(B12), i
+
+continuous records taken between 03/11/1996 and 04/09/ 233°; dot:10.1025/2002J8901 777. :
+
+CL. : : : Roux, P., H. C. Song, and W. A. Kuperman (2003), Time-reversal using 3
+
+1996. Gray line indicates times corresponding to velocity of ambient noise as a probe source, J. Acoust. Soc. Am., 113, 2218. o
+
+3 km/s. Total durations in days of the noise records Ryzhik, L., G. Papanicolaou, and J. B. Keller (1996), Transport equations =
+
+available for each pair of stations is indicated on the richt for elastic and other waves in random media, Wave Motion, 24, 327-370. =
+
+de of the ol p S Sato, H., and M. Fehler (1998), Wave Propagation and Scattering in the ES
+
+side of the plot. Heterogeneous Earth, Springer-Verlag, New York. [
+
+Shapiro, N. M., and M. H. Ritzwoller (2002), Monte-Carlo inversion for a s,
+
+global shear velocity model of the crust and upper mantle, Geophys.
+
+ized in a narrow region connecting two stations. Fourth, the —_ 7/- [#t, 51, 88-105. 2
+
+¢ b tended to short ods if relativel Snieder, R., A. Gret, H. Douma, and J. Scales (2002), Coda wave inter- z
+
+EERIE (EN! ) CICALCIAE OFSUOLEPEFLOCSITEICIALIVOLY. ferometry for estimating nonlinear behavior in seismic velocity, Science, g
+
+closely located stations are available. As a consequence, the 295, 2253-2255. ]
+
+new measurement techniques can help to Improve both the  Spetzler, J., J. Trampert, and R. Snieder (2002), The effect of scattering in g
+
+horizontal and the vertical resolution of the seismic tomo- Surface wave tomography, Geophys. J. Int., 149, 755-767. .
+
+Tanimoto, T. (1999), Excitation of normal modes by atmospheric turbu- A
+
+graphic models. lence: Source of long-period seismic noise, Geophys. J. Int., 136, 395— s
+
+402. 5
+
+[10] Acknowledgments. We are grateful to Ludovic Margerin, Anne van Tiggelen, B. A. (2003), Green function retrieval and time reversal in a
+ng : : disordered world, Phys. Rev. Lett., 91, paper 243904.
+
+Paul, Philippe Roux, Eric Larose, Bart van Tiggelen, Arnaud Derode, and : : ) z
+
+: : : : : : : Weaver, R. L. (1982), On diffuse waves in solid media, J. Acoust. Soc. Am., 5
+
+Michael Ritzwoller for enlightening discussions and Anatoli Levshin for 77 1608 — 1609 3
+
+tite help Son predicting group VELOBSIES Irom global tomograp nici maps. Weaver, R. L., and O. I. Lobkis (2001a), Ultrasonics without a source: =
+
+Toshiro Tanimoto and an anonymous reviewer provided critical comments. 2
+
+a Sy : : Thermal fluctuation correlation at MHz frequencies, Phys. Rev. Lett., =
+
+Seismic data used in this paper has been obtained from the IRIS DMC. This 87. paper 134301 2
+
+work was partially supported by GDR CNRS IMCODE, LDG/CEA and by ; : =
+
+NSF grants NSF-OPP-9615139, NSF-OPP-9818498, and NSF-EAR- Weaver, R. L, and O. I. Lobkis (2001b), On the emergence of the Green’s :
+
+0207733 function in the correlations of a diffuse field, J. Acoust. Soc. Am., 110, 3
+
+3011-3017. 2
+
+References S
+
+Abubakirov, I. R., and A. A. Gusev (1990), Estimation of scattering proper- M. Campillo, Laboratoire de Géophysique Interne et Tectonophysique, =}
+
+ties of lithosphere of Kamchatka based on Monte-Carlo simulations of = Observatoire de Grenoble, Université Joseph Fourier & CNRS, BP 53, 3
+
+record envelope of a near earthquake, Phys. Earth Planet. Inter., 64,52— F-38041 Grenoble, France. (michel.campillo@obs.ujf-grenoble.fr) kG;
+
+67. N. M. Shapiro, Center for Imaging the Earth’s Interior, Department of 2
+
+Aki, K., and B. Chouet (1975), Origin of coda waves: Source, attenuation, = Physics, University of Colorado, Campus Box 390, Boulder, CO 80309, 3
+
+and scattering effects, J. Geophys. Res., 80, 3322-3342. USA. (nshapiro@ciei.colorado.edu) g
+
+:
+
+:
+
+=
+
+2
+
+4 of 4 %
+
+2

@@ -1,0 +1,60 @@
+The Journal of Organic Chemistry pubs.acs.org/joc
+Scheme 6. Semisynthetic Route to Enantiopure Milbemycin-f#1“
+O O
+“0 fails without sonication “0
+“lo 1] oo
+\ 1) Mel, A5;0. )) 8% 3
+| : 2) HF, MeCN, H,0-Py, 75% :
+—tsro OH
+OH OCH;
+“The first step fails without sonication.
+Scheme 7. Key Intermediate’s Synthesis toward Tetronasin reactive species.”””® As discussed above, the heterogeneous
+sonochemistry of small molecules will always be influenced by
+“. Sp mechanical energy transfer as the turbulent implosion leads to
+NSN OCH, friction and deformation at boundary surfaces.”” This
+: Bove tribochemical consideration mirrors the mechanical interpre-
+$y, OH tation of ultrasonic agitation in liquids as an elongational flow
+0 OH Tetronasin field, where the strain rate depends on the time passed since
+— lonophore antibiotic the onset of cavitational collapse, the radius of the imploding
+0” "0 bubble, and on the distance to the bubble.” In homogeneous
+and/or dilute systems, however, the tensile forces lack
+on } directionality and molecular control is much more difhcult to
+Jon MsCL EN | “aH achieve than in standard mechanochemistry involving solid—
+—tsro EN \ 2) NaSePh _ —tsro No vy OH solid and solid—liquid contacts.” A way to convey mechanical
+| H 3) Raney-Ni | i activation to small molecules relies on the use of covalently
+linked polymer chains that, playing the role of large tweezers,
+neo my concentrate and propagate the mechanical input on labile
+OTL Tp sg — functional groups. Such entities now called mechanophores are
+embedded in or near the middle of polymer chains, thereby
+undergoing specific cleavage, whereas that mechanical
+protocols, like the azide—alkyne cycloaddition. Thus, we were activation fails if chains are not attached to both ends of the
+able to develop an improved click reaction using metallic mechanophore. A salient result that challenges the validity of
+copper that overcomes other limitations such as the in situ Woodward—Hoftmann rules for pericyclic reactions was
+generation of Cu(I) species and the removal of copper salt described by Moore and associates on the sonication of a
+byproducts.” The Cu(0)-based protocol can be applied to benzocyclobutene mechanophore in the middle of poly-
+simple and elaborated substrates (like cyclodextrins) and gives ethylene glycol side chains (PEG) (Scheme 10).°* Both cis-
+rise to products in higher yields and shorter times than the and trans-derivatives experience ring opening affording an
+nonirradiated reactions. This also avoids the use of additional (E,E)-configured diene, whose presence could be corroborated
+ligands to stabilize Cu(I). Polar solvents are required, which by spectroscopic identification using a chromophore-contain-
+allow for higher cavitational energy coupled with heating ing molecule. Under thermal activation only the trans-isomer is
+(Scheme 9). expected to give the (E,Z)-diene.
+
+Divergent sonochemistry, by which irradiation switches the It is obvious that mechanical scission caused by strain after
+reaction outcome to products unavailable under silent bubble collapse is most likely responsible for polymer cleavage.
+conditions, is widely documented, although surely the most Ultrasound does seemingly induce conrotatory opening in
+prominent results have been reported in recent years in the trans-benzocyclobutene and disrotatory motion in the cis-
+context of ultrasound as mechanical force.”>™>° Most examples isomer. In principle, the conversion between (E,Z) and (E,E)
+involve polymer chains in solution irradiated by low-frequency products could involve a biradical transition structure;
+probes in high-intensity fields for which mechanical effects and however, radical production appears to have a negligible effect
+acoustic streaming are prevalent over chemical production of in the present case. Accordingly, the intuitive conclusion is that
+Scheme 8. Direct and Selective Meta-C—H Substitution of Arenes Mediated by Ultrasound
+
+——
+iPr iPr Pd(OAc) (10 mol%) iPr iPr
+NG AcGlyOH (20 mol%) DG 7
+AgoCO3 (1.5 equiv) No N
+5 + 7 7COMe HPIP, )))), 30 °C, 3 h -
+(98% yield) CO.Me
+no reaction without sonication
+13839 https://doi.org/10.1021/acs.joc.1c00805
+J. Org. Chem. 2021, 86, 13833-13856

@@ -1,0 +1,67 @@
+JULIAN: VOLCANIC TREMOR—NONLINEAR EXCITATION BY FLUID FLOW 11,865
+acoustic reflection coefficients and therefore high impedance the dashpot alone, whereas at low frequencies the impedance
+contrasts between the resonating fluid and the surrounding is purely reactive and corresponds to the mass alone [Morse
+rock. The duration of transients in a resonator is and Ingard, 1968, section 7.4]. Corresponding numerical
+conventionally expressed in terms of the figure of merit, computations are described below.
+
+(). Numerical simulations of resonance in fluid-filled The effects of acoustic resonance in the fluid-filled channel
+cracks yield @ values up to about 20 {Chouet, 1992], can be modeled by making the pressure at either end of the
+whereas observed long-coda events require considerably channel depend on the flow speed and its history. To be
+higher values. (The wave train in Figure 5 would imply completely realistic, this functional dependence would have
+a of about 40.) In contrast, transient oscillations to be complicated because of effects such as the dispersive
+of a fluid-transporting channel are prolonged by power nature of propagation in a narrow channel [Ferrazini and
+input from the flow. Long-coda events are naturally Aki, 1987]. I omit acoustic resonance effects from the model
+expected phenomena intermediate between short-duration at this stage for the following reason. Resonance would
+long-period earthquakes and continuous tremor. They do affect radiated waveforms by selectively amplifying certain
+not require special explanation. frequencies, and feedback from the resonator would also
+lower the tremor threshold and affect tremor frequencies
+Lumped-Parameter Model of Tremor through mode locking. However, ‘these effects are not
+essential to the excitation of oscillations by flow. The
+Here I formulate a lumped-parameter model of the flow gjtuation may be likened to that of a clarinet or similar
+of a viscous fluid through a constricted channel with elastic musical instrument. The air column in the bore makes
+walls. A linearized stability analysis of steady flow gives gound production easier, greatly influences the timbre of
+a quantitative statement of the tremor threshold. For flow gounds, and controls their pitch, but these effects are not
+rates above a critical threshold, the model shows tremorlike fundamental to the generation of sound in the mouthpiece.
+limit-cycle oscillations of the channel wall and the fluid flow 1p this paper, I concentrate on the process by which tremor
+speed. For vigorous flow, the model also shows behavior ig generated, and I minimize the number of complicating
+qualitatively different from limit cycles, including a sequence f5ct0rs. This simplification helps by showing that effects
+of period-doubling subharmonic bifurcations, and aperiodic gych as regularly peaked spectra, which are often attributed
+chaotic oscillations associated with a strange attractor. to resonance in extended fluid bodies, can also be produced
+The channel walls are modeled as masses connected by by sources that lack acoustic resonators. Thus, separating
+a spring and a dashpot (Figure 8). The spring represents the problem into components helps us to recognize which
+the effect of the elastic stiffness of the surrounding rocks. phenomena may be the results of resonance and which may
+Modeling the effect of elastic-wave radiation from the {ave other explanations.
+channel walls requires both inertial (mass) and viscous A complete dynamical magma flow model for a network
+(dashpot) elements, in a proportion that depends upon the ,f channels in a volcano would be described by a system
+frequency of vibration. At high frequency, the radiation f partial differential equations for the coupled flow of a
+impedance of the walls is a pure resistance, corresponding to compressible plastic fluid and the elastodynamic motion of
+the wall rocks. Such a model would be complicated, large
+amounts of computer time would be needed to analyze it,
+h(t) and the purely numerical results probably would provide
+X little physical insight. Instead, I treat the masses and other
+Z \ parameters of the model as lumped, so as to deal with
+\ ordinary, rather than partial differential equations, and I
+4 idealize the geometry and treat the fluid as incompressible
+and Newtonian. These simplifications affect the results
+\ Pp, quantitatively. For example, at shallow depths magma can
+contain abundant vesicles of gas, which greatly increase its
+24 —] |— compressibility. Because some tremor is generated at great
+| } — = 2A depths, however, at pressures at which a gas phase would
+2k WV AVAVe 'M I 2M not be highly compressible, I conclude that compressibility
+A “VVV\>= 2k is not essential to tremor excitation and ignore its effects.
+\ Refining the model is left for future studies.
+
+Consider two reservoirs, filled with fluid at pressures
+P v(x, t) p1 and p2 and connected by a channel of length L and
+thickness h, through which the fluid can flow in the z
+Figure 8. Lumped-parameter model of the generation direction (Figure 8). The channel thickness h can vary with
+of volcanic tremor. Viscous, incompressible fluid flows in time as the walls deform in the y direction in response
+z direction from upstream (bottom) to downstream (top) to changes in the fluid pressure, their behavior being
+reservoir through a channel of length L with imperfectly determined by effective masses 2M, a damping constant 24,
+elastic walls, modeled as movable but undeformable blocks and a spring constant 2k, all measured per unit thickness
+of mass 2M , stiffness 2k, and damping constant 2A (all in the direction normal to Figure 8. The problem is taken
+measured per unit distance in the z direction). The model to be two-dimensional; all motion occurs in the z—y plane,
+is two-dimensional; all motion occurs in the z—y plane and is and all variables are independent of the z coordinate. This
+independent of z. The dynamical variables are the channel approximation is appropriate for flow in dikes or sills, which
+
+thickness h(t) and the fluid flow speed v(x, 1). typically have aspect ratios of several hundred.

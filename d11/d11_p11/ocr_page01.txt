@@ -1,0 +1,50 @@
+A simple model of ultrasound propagation in a cavitating liquid. Part II: Primary
+Bjerknes force and bubble structures.
+O. Louisnard®*
+“Centre RAPSODEE, FRE CNRS 3213, Unwersité de Toulouse, Ecole des Mines d’Alb1,
+81018 Albi Cedex 09, France
+al Abstract
+a In a companion paper, a reduced model for propagation of acoustic waves in a cloud of inertial cavitation bubbles was
+proposed. The wave attenuation was calculated directly from the energy dissipated by a single bubble, the latter being
+= estimated directly from the fully nonlinear radial dynamics. The use of this model in a mono-dimensional configuration
+[1 has shown that the attenuation near the vibrating emitter was much higher than predictions obtained from linear theory,
+on and that this strong attenuation creates a large traveling wave contribution, even for closed domain where standing waves
+C\] are normally expected. In this paper, we show that, owing to the appearance of traveling waves, the primary Bjerknes
+force near the emitter becomes very large and tends to expel the bubbles up to a stagnation point. Two-dimensional
+=) axi-symmetric computations of the acoustic field created by a large area immersed sonotrode are also performed, and the
+— Paths of the bubbles in the resulting Bjerknes force field are sketched. Cone bubble structures are recovered and compare
+=r reasonably well to reported experimental results. The underlying mechanisms yielding such structures is examined, and
+I it is found that the conical structure is generic and results from the appearance a sound velocity gradient along the
+= transducer area. Finally, a more complex system, similar to an ultrasonic bath, in which the sound field results from
+. the flexural vibrations of a thin plate, is also simulated. The calculated bubble paths reveal the appearance of other
+3 commonly observed structures in such configurations, such as streamers and flare structures.
+7 Keywords: Acoustic cavitation, Bubble structures, Cavitation fields, Ultrasonic reactors
+2 PACS: 43.25.Yw, 43.35.Ei, 43.25.Gt
+4
+—_—
+1. Introduction The most spectacular and known manifestation of the
+— primary Bjerknes force occurs in standing waves. It can
+> A COMLLOL observation in acoustic cavitation experi- he simply deduced from linear theory that bubbles smaller
+~ ments is the rapid translational motion of the bubbles rel- than the resonant size are attracted by pressure antinodes,
+ve ative to the liquid, and their self-organization into various whereas bubbles larger than resonant size are attracted by
+Yo spectacular structures. These structures have been sys- pressure nodes 8]. This was confirmed by the early exper-
+oe tematically reviewed recently 1], and SOIC of them have iments of Crum & Eller 9|, and is the basic principle of
+- been successfully explained by results derived from single levitation experiments used to study single bubble sono-
+cr bubble physics [1-3]. luminescence, where attraction by the central antinode of
+— The origin for bubble translational motion in an acous- the flask counteracts the buoyancy force 10, 11].
+> tic field is the so-called Bjerknes force 4-6], which is the However, nonlinear effects can produce repulsion of
+A average over one oscillation period of the generalized buoy- inertial bubbles from pressure antinodes above a given
+ancy force exerting on any body in an accelerating liq- threshold 6]. This threshold can be estimated analytically
+ae ud 7 It is commonly expressed in terms of the pressure fo; ow frequency driving and is found to be near 170 kPa,
+gradient as: with a slight dependence on surface tension [12|. This
+Fp =—(VVp), (1) can be evidenced in multi-bubble a 2 a void
+where (.) denotes the average over one acoustic period, region near the pressure antinode surrounded by bubbles
+V is the bubble volume and p the acoustic pressure which ~~ accumulating near the threshold zone 2|, or by bubbles
+would exist in the liquid at the center of the bubble if the self-arrangement into parallel layers shifted relative to the
+latter were not present. Since V and p are oscillatory, the ntinocal planes 1], correctly predicted by particle model
+average of their product can be non-zero. simulations.
+© P A more important issue concerns the Bjerknes force
+exerted on bubbles by large amplitude traveling waves.
+*Corresponding author While small amplitude traveling waves exert a negligible
+Email address: louisnar@enstimac.fr (O. Louisnard) Bjerknes force on bubbles, this is no longer true for large
+Preprint submitted to Elsevier October 29, 2018

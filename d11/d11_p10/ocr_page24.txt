@@ -1,0 +1,98 @@
+24
+ing an Acoustic Emissions—based Controller,” Radiology 263, 57F. Denner, “Acoustic pressure modulation driven by spatially
+96-106 (2012). non-uniform flow,” Journal of the Acoustical Society of America
+
+338A. Novell, H. A. S. Kamimura, A. Cafarelli, M. Gersten- 155, 984-989 (2024).
+mayer, J. Flament, J. Valette, P. Agou, A. Conti, E. Selingue, 58G. Lai, S. Geng, H. Zheng, Z. Yao, QQ. Zhong, and F. Wang,
+R. Aron Badin, P. Hantraye, and B. Larrat, “A new safety “Early Dynamics of a Laser-Induced Underwater Shock Wave,”
+index based on intrapulse monitoring of ultra-harmonic cavi- Journal of Fluids Engineering 144, 011501 (2022).
+tation during ultrasound-induced blood-brain barrier opening 99X -X. Liang, N. Linz, S. Freidank, G. Paltauf, and A. Vogel,
+procedures,” Scientific Reports 10, 10088 (2020). “Comprehensive analysis of spherical bubble oscillations and
+
+39V .-S. Doan, T. Huynh-The, and D.-S. Kim, “Underwater Acous- shock wave emission in laser-induced cavitation,” Journal of
+tic Target Classification Based on Dense Convolutional Neural Fluid Mechanics 940, A5 (2022).
+
+Network,” IEEE Geoscience and Remote Sensing Letters 19, 60F. Denner and S. Schenke, “Modeling acoustic emissions and
+1500905 (2022). shock formation of cavitation bubbles,” Physics of Fluids 35,
+
+40M. Rom, “Physics-informed neural networks for the Reynolds 012114 (2023).
+equation with cavitation modeling,” ‘Tribology International 61H. Wen, Z. Yao, Q. Zhong, Y. Tian, Y. Sun, and F. Wang,
+179, 108141 (2023). “Energy partitioning in laser-induced millimeter-sized spherical
+
+41K. Klapcsik, B. Gyires-T6th, J. M. Rossello, and F. Hegedyis, cavitation up to the fourth oscillation,” Ultrasonics Sonochem-
+“Position control of an acoustic cavitation bubble by reinforce- istry 95, 106391 (2023).
+ment learning,” (2023), arxiv:2312.05674 |cs, eess|. 62F. R. Gilmore, “The growth or collapse of a spherical bubble
+
+42W. Mallik, R. Jaiman, and J. Jelovica, “Deep neural network for in a viscous compressible liquid,” Tech. Rep. Report No. 26-4
+learning wave scattering and interference of underwater acous- (California Institute of Technology, Pasadena, California, USA,
+tics,” Physics of Fluids 36, 017137 (2024). 1952).
+
+43]. G. Kirkwood and H. A. Bethe, “The pressure wave produced 63H. G. Flynn, “Collapse of a transient cavity in a compressible
+by an underwater explosion I,” Tech. Rep. Report No. 588 (Of- liquid,” Technical Memorandum 38 (Acoustics Research Labo-
+fice of Scientific Research and Development, 1942). ratory, Havard University, Cambridge, MA, USA, 1957).
+
+44R. Ivany, Collapse of a Cavitation Bubble in Viscous Compress- 64R. Hickling and M. S. Plesset, “The collapse of a spherical cavity
+wble Liquid : Numerical and Experimental Analysis, Ph.D. the- in a compressible liquid,” Tech. Rep. 85-24 (California Institute
+sis, University of Michigan, Ann Arbour, MI, USA (1965). of Technology, Pasadena, California, USA, 1963).
+
+45R. R. Lilliston, “Calculations on the collapse of a spherical gas- 65R. T. Beyer, “Nonlinear Acoustics,” Technical Report (Brown
+filled cavity in a compressible liquid,” Tech. Rep. 2223 (SP University, Providence, RI, USA, 1974).
+
+6-0002) (David Taylor Model Basin, Washington, DC, USA, 66H. G. Flynn, “Cavitation dynamics: IV. Collapse of transient
+1966). cavities,” Tech. Rep. (University of Rochester, Rochester, NY,
+
+46F. Denner, C.-N. Xiao, and B. van Wachem, “Pressure-based USA, 1978).
+algorithm for compressible interfacial flows with acoustically- 670. K. Rice and R. Ginell, “The pressure wave produced by an
+conservative interface discretisation,” Journal of Computational underwater explosion: Part VI: The case of cylindrical symme-
+Physics 367, 192-234 (2018). try,” Tech. Rep. 2023 (Office of Scientific Research and Devel-
+
+47D. Fuster and S. Popinet, “An all-Mach method for the simula- opment, 1943).
+tion of bubble dynamics problems in the presence of surface ten- 680. K. Rice and R. Ginell, “The pressure wave produced by an
+sion,” Journal of Computational Physics 374, 752-768 (2018). underwater explosion, Part VIII. The case of cylindrical sym-
+
+48K. Schmidmayer, F. Petitpas, S. Le Martelot, and E. Daniel, metry, II,” Tech. Rep. 3950 (Office of Scientific Research and
+“ECOGEN: An open-source tool for multiphase, compressible, Development, 1944).
+multiphysics flows,” Computer Physics Communications 251, 69G. B. Whitham, “Spherical waves and shocks,” Tech. Rep. IMM-
+107093 (2020). NYU 190 (Courant Institute of Mathematical Sciences, New
+
+49S. H. Bryngelson, K. Schmidmayer, V. Coralic, J. C. Meng, York University, New York, NY, USA, 1953).
+
+K. Maeda, and T. Colonius, “MFC: An open-source high-order 70H. Snay, “Hydrodynamic concepts: Selected topics for under-
+multi-component, multi-phase, and multi-scale compressible water nuclear explosions,” Technical Report NOLTR 65-52 (US
+flow solver,” Computer Physics Communications 266, 107396 Naval Ordnance Laboratory, White Oak, MD, USA, 1966).
+(2021). "1K. A. Naugol’nykh and N. A. Roy, “Electrical discharges in wa-
+50Y. Saade, D. Lohse, and D. Fuster, “A multigrid solver for the ter: A hydrodynamic description,” Tech. Rep. (Academy of Sci-
+coupled pressure-temperature equations in an all-Mach solver ences USSR, Acoustic Institute, Moscow, 1971).
+with VoF.,” Journal of Computational Physics 476, 111865 2R. Cooper, ed., Second Symposium on Naval Hydrodynam-
+(2023). ics: Hydrodynamic Noise, Cavity Flow (National Academy of
+
+51M. Koch, C. Lechner, F. Reuter, K. Kohler, R. Mettin, and Sciences—National Research Council, 1958).
+
+W. Lauterborn, “Numerical modeling of laser generated cavita- 731. D. Rozenberg, ed., High-Intensity Ultrasonic Fields (Springer
+
+tion bubbles with the finite volume and volume of fluid method, US, Boston, MA, 1971).
+
+using OpenFOAM,” Computers & Fluids 126, 71-90 (2016). "AW. Lauterborn, ed., Cavitation and Inhomogeneities in Under-
+52F. Denner, F. Evrard, and B. van Wachem, “Modeling Acous- water Acoustics (Springer Berlin Heidelberg, Berlin, Heidelberg,
+
+tic Cavitation Using a Pressure-Based Algorithm for Polytropic 1980).
+
+Fluids,” Fluids 5, 69 (2020). "> A. Schneider, Some Compressibility Effects in Cavitation Bub-
+53S. R. Gonzalez-Avila, F. Denner, and C.-D. Ohl, “The acous- ble Dynamics, Ph.D. thesis, California Institute of Technology,
+
+tic pressure generated by the cavitation bubble expansion and Pasadena, California, USA (1949).
+
+collapse near a rigid wall,” Physics of Fluids 33, 032118 (2021). "6R. Hickling and M. S. Plesset, “Collapse and Rebound of a
+
+545.-P. Wang, H. Geng, S. Zhang, and S.-W. Wang, “Pressure Spherical Bubble in Water,” Physics of Fluids 7, 7-14 (1964).
+waves from air gun bubbles: A numerical analysis based on the TR. D. Ivany and F. G. Hammitt, “Cavitation Bubble Collapse in
+finite volume method,” Physics of Fluids 36, 013345 (2024). Viscous, Compressible Liquids—Numerical Analysis,” Journal
+
+59D. G. Crighton, A. P. Dowling, J. E. Ffowcs Williams, M. Heck], of Basic Engineering 87, 977-985 (1965).
+and F. G. Leppington, Modern Methods in Analytical Acoustics BR. H. Mellen, “An Experimental Study of the Collapse of a
+(Springer London, London, 1992). Spherical Cavity in Water,” The Journal of the Acoustical So-
+
+°61. C. Christov and C. I. Christov, “On mechanical waves and ciety of America 28, 447-454 (1956).
+
+Doppler shifts from moving boundaries,” Mathematical Methods PV. A. Akulichev, Y. Y. Boguslavskii, A. I. Ioffe, and K. A.
+in the Applied Sciences 40, 4481-4492 (2017). Naugol’nykh, “Radiation of finite-amplitude spherical waves,”

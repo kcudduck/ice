@@ -1,0 +1,49 @@
+6 D.F. Rivas, Ashokkumar, Leong, Yasui, Tuziuti, Kentish, Lohse and Gardeniers
+x 107° Water
+2
+[VI]
+0
+0 2 4 6 8 10
+x10" Propanol
+L 2
+= [V]
+O 1 | :
+=>
+Nha ho i Rl ld
+0 2 4 6 8 10
+Luminol
+3
+2
+[VI]
+0
+0 2 4 6 8 10
+Time [s]
+Figure 2: Typical emission profiles recorded with the PMT for the different studied
+experimental conditions.
+white space in between the signal and the “x-axis” for propanol and luminol, not present
+in plain water, is due to a higher overall SL and SCL intensity. A more detailed analysis
+for each system is presented in the following sections.
+3.1. Water
+When water is poured over the silicon substrate and US is switched on, a cloud of bubbles
+appears from the micropits at low power levels. An interesting behavior is observed when
+there are multiple pits driven at high power: the ejected bubbles travel to a common
+center point (see Figure 3|and supporting videos) due to a complex interplay of primary
+and secondary Bjerknes forces (Fernandez Rivas et al., 2010).
+
+Figure[4] shows a clear trend of increasing SL intensity with increasing number of pits,
+both at the low and high power regimes.
+
+As the number of pits is increased, the number of SL active bubbles increases. The
+increase is almost double in the case of one-pit compared with the blank substrate.
+For two-pits, the SL enhancement is tripled, whilst for three-pits the SL is almost four
+times that of the blank substrate at high power. While a similar increase is observed
+at the higher power level, the relative increase with three-pits compared to two-pits is
+low. This might be due to stronger bubble clustering effects which are known to reduce
+the maximum expansion radius and shorten the bubble collapse duration (Yasui et al.,
+2008a).
+
+When trying to image SL in the experiments with air-saturated Milli-Q water and
+the conditions described up to this point, not enough signal-to-noise images could be
+obtained. For this reason Milli-Q water was saturated with argon (Ar) and a glass
+slide was placed on top of the microreactor to avoid evaporation (see supporting video).
+During the imaging period the cooling of the piezo was carried out with a fan. The long

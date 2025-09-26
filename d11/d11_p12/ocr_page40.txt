@@ -1,0 +1,66 @@
+[91] J. R. G. Sander, B. W. Zeiger, and K. S. Suslick, “Sonocrystallization and sonofragmentation,”
+Ultrasonics Sonochemistry, vol. 21, no. 6, pp. 1908-1915, Nov. 2014, doi:
+10.1016/j.ultsonch.2014.02.005.
+
+[92] H. N. Kim and K. S. Suslick, “Sonofragmentation of lonic Crystals,” Chem. Eur. J., vol. 23, no. 12,
+pp. 2778-2782, Feb. 2017, doi: 10.1002/chem.201605857.
+
+[93] S. Nalesso, M. J. Bussemaker, R. P. Sear, M. Hodnett, and J. Lee, “A review on possible
+mechanisms of sonocrystallisation in solution,” Ultrasonics Sonochemistry, vol. 57, pp. 125-138,
+Oct. 2019, doi: 10.1016/j.ultsonch.2019.04.020.
+
+[94] V.S. Nalajala and V. S. Moholkar, “Investigations in the physical mechanism of
+sonocrystallization,” Ultrason Sonochem, vol. 18, no. 1, pp. 345-355, Jan. 2011, doi:
+10.1016/j.ultsonch.2010.06.016.
+
+[95] Z. Zheng et al., “Unusual Sonochemical Assembly between Carbon Allotropes for High Strain-
+Tolerant Conductive Nanocomposites,” ACS Nano, vol. 13, no. 10, pp. 12062-12069, Oct. 2019,
+doi: 10.1021/acsnano.9b06366.
+
+[96] D. Zhou et al., “Sono-Assisted Surface Energy Driven Assembly of 2D Materials on Flexible
+Polymer Substrates: A Green Assembly Method Using Water,” ACS Appl. Mater. Interfaces, vol.
+11, no. 36, pp. 33458-33464, Sep. 2019, doi: 10.1021/acsami.9b10469.
+
+[97] N. B.Sumina et al., “Low Temperature Synthesis of High Energy Facets Exposed Sheet—like
+Anatase TiO2 Mesocrystals Show Reduced e-/h+ Pair Recombination Rates and Enhanced
+Photoactivity,” ChemistrySelect, vol. 1, no. 19, pp. 6221-6229, 2016, doi:
+10.1002/slct.201601412.
+
+[98] C. Tang, L. Liu, Y. Li, and Z. Bian, “Aerosol spray assisted assembly of TiO2 mesocrystals into
+hierarchical hollow microspheres with enhanced photocatalytic performance,” Applied Catalysis
+B: Environmental, vol. 201, pp. 41-47, Feb. 2017, doi: 10.1016/j.apcatb.2016.08.006.
+
+[99] F. Dang, K. Kato, H. Imai, S. Wada, H. Haneda, and M. Kuwabara, “Growth of BaTiO3
+nanoparticles in ethanol-water mixture solvent under an ultrasound-assisted synthesis,” CHEM
+ENG J (LAUSANNE), vol. 170, no. 1, pp. 333-337, May 2011, doi: 10.1016/j.cej.2011.03.076.
+
+[100] F. Dang, K. Kato, H. Imai, S. Wada, H. Haneda, and M. Kuwabara, “Oriented aggregation of BaTiO
+3 nanocrystals and large particles in the ultrasonic-assistant synthesis,” CrystEngComm, vol. 12,
+no. 11, pp. 3441-3444, 2010, doi: 10.1039/C003587D.
+
+[101] N. Enomoto, S. Maruyama, and Z. Nakagawa, “Agglomeration of silica spheres under
+ultrasonication,” Journal of Materials Research, vol. 12, no. 5, pp. 1410-1415, May 1997, doi:
+10.1557/JMR.1997.0192.
+
+[102] K.S. Suslick, “Sonochemistry,” Science, vol. 247, no. 4949, pp. 1439-1445, Mar. 1990, doi:
+10.1126/science.247.4949.1439.
+
+[103] T. Prozorov, R. Prozorov, and K. S. Suslick, “High Velocity Interparticle Collisions Driven by
+Ultrasound,” J. Am. Chem. Soc., vol. 126, no. 43, pp. 13890-13891, Nov. 2004, doi:
+10.1021/ja0494930.
+
+[104] K.S. Suslick and D. J. Casadonte, “Heterogeneous sonocatalysis with nickel powder,” J. Am. Chem.
+Soc., vol. 109, no. 11, pp. 3459-3461, May 1987, doi: 10.1021/ja00245a047.
+
+[309] F. Langa, P. de la Cruz, A. de la Hoz, A. Diaz-Ortiz, and E. Diez-Barra, “Microwave irradiation: more
+than just a method for accelerating reactions,” Contemp. Org. Synth., vol. 4, no. 5, pp. 373-386,
+Jan. 1997, doi: 10.1039/C09970400373.
+
+[310] R. Roy, “Accelerating the Kinetics of Low-Temperature Inorganic Syntheses,” Journal of Solid
+State Chemistry, vol. 111, no. 1, pp. 11-17, Jul. 1994, doi: 10.1006/jssc.1994.1192.
+
+[311] K. A.S. Fernando, M. J. Smith, B. A. Harruff, W. K. Lewis, E. A. Guliants, and C. E. Bunker,
+“Sonochemically Assisted Thermal Decomposition of Alane N,N-Dimethylethylamine with
+Titanium (IV) Isopropoxide in the Presence of Oleic Acid to Yield Air-Stable and Size-Selective
+
+40

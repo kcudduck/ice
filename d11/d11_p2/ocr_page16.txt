@@ -1,0 +1,78 @@
+The Journal of Organic Chemistry pubs.acs.org/joc
+should involve the reaction of electrons from the piezoelectric o LY
+material with O, and H,O leading to superoxide (O,°”) and Aon + HPLC pump BPR
+OH? radical intermediates. The authors hypothesized that such : ® +
+: : : : Lo. N /) <{
+radical species may inactivate peroxygenase, thus hampering its . (CL + Dec oT
+catalytic activity. To minimize the oxidative stress of short- 2 S + _
+lived OH® radicals, the enzyme was spatially separated from HCL teOH — s—
+BiOCl and placed in a dialysis membrane bag, which allowed nn neee — J 9 N
+the diffusion of H,O, and products without altering the
+talvtic effect sonicator + CO, + DCU
+catalytic effect. 300W (10-100%)
+37-80 kHz
+rt =1-40 mi
+HB FLOW AND AUTOMATION: THE PRESENT AND T=2035°C
+FUTURE
+Figure 9. Sonochemical Barton decarboxylation of carboxylic acids
+Chemistry from this century on should be dominated by the under continuous flow. The protocol was optimized for hexanoic acid
+juxtaposition of automation and machine-learning algorithms, and N-phenylmaleimide using dicyclohexylcarbodiimide (DCC).
+-_ Reproduced with permission from ref 128. Copyright 2016 the
+OH Royal Society of Chemistry.
+N 0
+Q,, FC
+t : : :
+HO OH : Lo OH Perspective, we are concerned with acoustoflow synthesis at
+A Coil 1 _Coil 2 »
+1.0M in H,SO, ISU ON NO; the meso- and microscale levels. Unlike batch conditions, flow
+" I HO oH and microflow devices exhibit enhanced heat and mass
+1 NO, transfers along with improved reaction kinetics, due to the
+(> Thor small path occupied by reagents in channels of microscopic
+NH.NG il Ultrasound Bath diameters, and enable the preparation of organic compounds,
+15M in H,S0, JA) B especially active pharmaceutical ingredients.'*’ In addition, the
+reduced dimensions allow the facile penetration of external
+energy souces, namely ultrasound, microwaves, or light." ** The
+Figure 7. Continuous flow nitration of phloroglucinol assisted by : : : : :
+yy rapid formation and consumption of intermediates and
+sonication. Reproduced from ref 125. Copyright 2014 American
+products, generated in small amounts, entail the safe handling
+Chemical Society.
+of hazardous substances. Overall, such benefits are not only
+linked to greater efliciency, but also to lower environmental
+which will lead to (almost) complete robotization of synthetic impact. The point is well illustrated by a continuous nitration
+117,118
+and operational steps. The increasing adoption of of phloroglucinol leading to a potentially explosive poly-
+continuous flow systems over batch reactors, still with timid nitrophenol as shown in Figure 7.'*> The nitration reaction
+implementation by the industry, has much to do with more requires an oxidizing and toxic mixture of sulfuric acid and
+efficient processes in terms of costs and risks, and in agreement ammonium nitrate, whose manipulation jeopardizes the
+with a more sustainable chemistry. protocol, even in dilute conditions. Mixtures of mono- and
+While industrial applications of acoustic and hydrodynamic trinitrophloroglucinols are usually obtained, although the latter
+cavitation require scale-up considerations (reactor design for could be generated in 98% yield (determined by HPLC) at 40
+instance), ”'” which are not covered here, ultrasound and °C using a thermostated ultrasonic bath, which homogenized
+flow systems are ideal partners as one moves downward, i.e., the reaction mixture as well.
+miniaturization, because acoustic microfluidics constitutes an The most serious drawback of a microfluidic reactor is
+emerging technology enabling cell and particle manipula- associated with clogging of small channels caused by
+. 21 a
+tion.” Moreover, bubble-based robotics and on-a-chip heterogeneous mixtures and/or concomitant precipitation of
+systems should help to develop novel acoustic micro/ products, which can be avoided by cavitational agitation."
+122 a
+nanomotors and sensors. For the purpose of this The best way to overcome that limitation is to immerse the
+outy stainless Steel Capillary
+[TT rotwater bo oer microreactor
+| I EY A
+[[/— TE | —
+3) [f—
+AN ¥ N —_\
+type / A
+HPLC Pumps onnector re { ; ; Pr SE Ra \ LF
+Frm mee)
+AY TL
+4. AAR
+mm | ——
+Coil Heat a
+Exchanger
+28 kHz
+60 W
+Figure 8. Capillary sonoreactor for phase-transfer catalysis. Reproduced with permission from ref 127. Copyright 2009 Elsevier B.V.
+13848 https://doi.org/10.1021/acs.joc.1c00805
+J. Org. Chem. 2021, 86, 13833-13856

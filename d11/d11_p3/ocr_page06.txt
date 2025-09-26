@@ -1,0 +1,54 @@
+R_=0.4, m,f=2*fr R_=0.2y; m,f=2*fr
+0 2 '
+1.8 os yr 1.8 Bs
+A i ag
+> IRS ibe fie »h * LAS |
+1.6 AE NU 4
+Eh En 1.6 i
+) B Ae % £ 298 ¢ Sx ) ee il tn 4
+p xe aN
+0.8 nr fer
+2 4 6 8 10 12 14 16 0 0.5 1 1.5 2 2.5 3
+Pressure (Pa) %10° Pressure (Pa) x10
+(a) (b)
+R,=0.2 pu m,f=1.8*fr R,=0.2 pu m,f=1.8*fr
+2.2 2.2
+2 ay: 2 ay
+18 AE 18 A
+oe a ll a
+1.6 TE 1.6 TE FARES
+oa ST Oe RR eZ ST Hee
+; N : oh : if N eh ;
+1.2 4 Bo 1.2 / sh
+1 Ire” nt” 1 OO sree” i
+0 0.5 1 1.5 2 2.5 3 0 0.5 1 1.5 2 2.5 3
+Pressure (Pa) x10 Pressure (Pa) % 108
+(c) (d)
+R,=0.4. m,f=1.6*fr R,=0.2 pm, f=1.6*fr
+2 " - ; in
+NAR 2 ~ 1
+1.8 LN , pr.
+A 1.8 fy a
+- ___— —T aN o 7 — Fe
+x - PE NH 14 So SE
+or’ $ Ed ~ a 7 1.6 rd pa # , A or
+14 £s % 7/7 NE
+[J i; K 1. 4 : El Fd EB
+1.2 i] q ; %
+0 2 4 6 8 10 0 0.5 1 1.5 2 2.5
+Pressure (Pa) %x10° Pressure (Pa) x 10°
+(e) (f)
+R,=0.4. m,f=1.5*fr R,=0.2 pu m,f=1.5*fr
+2.5 ’
+2 a ".] ra y 7
+1.8 i J A 2 ' 7 Sev
+ox 1.6 / o NEE = pn AA px -
+1.4 $l % 1.5 So / is :
+h k ; . we
+1 2 — , Pe . Fea
+2 4 6 8 10 0 0.5 1 1.5 2 2.5
+Pressure (Pa) %10° Pressure (Pa) x10
+(e) (f)
+FIG. 3. Bifurcation structure (blue: method of peaks, red: conventional method) of the nano-size bubbles as a function of
+pressure when sonicated with fs; and Pdfs. Left column is for Rg = 0.4um and Right column is for Ry = 0.2um (arrow shows
+the pressure responsible for SN bifurcation)

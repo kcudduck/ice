@@ -1,0 +1,38 @@
+Finally, Lemma 4.4 yields Proposition 4.3 after taking small enough. []
+Our next result aims at improving Lemma 4.3 by absorbing lots(z) by the damping. For the linear
+problem the compactness uniqueness argument used for achieving it is stated below.
+Proposition 4.5. For T' > 0 there exists a constant Ct > 0 such that the following inequality holds:
+T
+lots(z) < cr | Dy(s)ds (4.32)
+0
+Proof. As pointed out in the statement of Proposition (4.3), we have
+lots(2) < Cs sup {12]31s() + 1263-50) |
+t€[0,T]
+for 6 € (0,1/2). Then we prove Proposition (4.5) as a corollary of the following Lemma
+Lemma 4.6. There exists a constant Cr such that
+T
+|(2, 20) | 720,755 (0) x F-5 ()) S cr | Dy(s)ds (4.33)
+Proof. The proof is based on compactness-uniqueness argument. Compactness follows from compact-
+ness of Sobolev’s embeddings implicated in the definition of of lower order terms with respect to
+the finite energy space for variables (z,z) which are H*(Q) x Ly(€Q). Uniqueness, instead follows
+from the overdetermination of the wawe equation with overdetermined Neuman-Dirichlet data on the
+boundary I';. Using the notation of [41], let X = HY(Q), B= H'™°(Q) and Y = H°(Q). Then it
+follows from |35, Theorem 16.1| that the injection of X in B is compact. Moreover, since § € (0,1/2),
+135, Theorem 12.4| allows us to write
+Y = H~°(Q) — [L*(2), H=(Q)]s,
+and then the injection of B in Y is continuous (even dense). Introduce the space A as
+A={ve L*0,T;X);vc L*(0,T;Y)}
+equipped with the norm
+lola = llvll2,rx) + [01 220,15)
+Then it follows from [41] that the injection of W into L*(0,T; B) is compact. We are then ready for
+proving (4.33)
+By contradiction, suppose that there exists a sequence of initial data {ug,, u1,, us, } With corre-
+sponding FET (0) energy uniformly (in n) bounded generating a sequence {u,,t,,i,} of solutions of
+2 2
+problem (2.9) with related sequence € = —u, + Uy, 2p = il, + in solutions of problem 3.4 such
+that
+|2nllZ2 0,721) T | nll 2200.7: 21-5 (02) = 1 (4.34a)
+2 7 T
+ll [ tira | / k1(2p)°dX; — 0, as n — +00. (4.34Db)
+b Jo Ja o Jr,
+20

@@ -1,0 +1,73 @@
+The Journal of Organic Chemistry pubs.acs.org/joc
+(84) (a) Tuulmets, A.; Hagu, H.; Salmar, S.; Cravotto, G.; Jarv, J. (99) Amaniampong, P. N.; Trinh, Q. T.; De Oliveira Vigier, K.; Dao,
+Ultrasonic evidence of hydrophobic interactions. Effect of ultrasound D. Q.; Tran, N. H.; Wang, Y.; Sherburne, M. P.; Jérome, F. Synergistic
+on benzoin condensation and some other reactions in aqueous effect of high-frequency ultrasound with cupric oxide catalyst resulting
+ethanol. J. Phys. Chem. B 2007, 111, 3133-3138. (b) Salmar, S.; in a selectivity switch in glucose oxidation under argon. J. Am. Chem.
+Cravotto, G.; Tuulmets, A.; Hagu, H. Effect of ultrasound on the Soc. 2019, 141, 14772—14779.
+base-catalyzed hydrolysis of 4-nitrophenyl acetate in aqueous ethanol. (100) Newnham, R. E. Properties of Materials. Anisotropy, Symmetry,
+J. Phys. Chem. B 2006, 110, 5817-5821. Structure; Oxford University Press: Oxford, UK, 2005; pp 87-102.
+(85) (a) Gulajski, L.; Sledz, P.; Lupa, A.; Grela, K. Olefin metathesis (101) Pardo, L. Piezoelectric ceramic materials for power ultrasonic
+in water using acoustic emulsification. Green Chem. 2008, 10, 271— transducers. In Power Ultrasonics. Applications of High-Intensity
+274. (b) Gulajski, L.; Tracz, A; Urbaniak, K; Czarnocki, S. J; Ultrasound; Gallego-Juarez, J. A. Graff, K. F., Eds.; Elsevier:
+Bieniek, M.; Olszewski, T. K. Ammonium-tagged ruthenium-based Amsterdam, 2015; pp 101-125.
+catalysts for olefin metathesis in aqueous media under ultrasound and (102) Li, F.; Cabral, M. J.; Xu, B.; Cheng, Z.; Dickey, E. C.; LeBeau,
+microwave irradiation. Beilstein J. Org. Chem. 2019, 15, 160—166. J. M.; Wang, J; Luo, J.; Taylor, S.; Hackenberger, W.; Bellaiche, L.;
+(86) Jaiswal, P. K;; Sharma, V.; Prikhodko, J; Mashevskaya, I. V; Xu, Z.; Chen, L.-Q.; Shrout, T. R.; Zhang, S. Giant piezoelectricity of
+Chaudhary, S. On water ultrasound-assisted one-pot efficient Sm-doped Pb(Mg; ;Nb,,;)O4-PbTiO; single crystals. Science 2019,
+synthesis of functionalized 2-oxo-benzo| 1,4 |oxazines: first application 364, 264—268.
+to the synthesis of anticancer indole alkaloid Cephalandole A. (103) Graff, K. F. Power ultrasonic transducers: principles and
+Tetrahedron Lett. 2017, 58, 2077-2083. design. In Power Ultrasonics. Applications of High-Intensity Ultrasound;
+(87) Rogozinska, M.; Adamkiewicz, A.; Mlynarski, J. Efficient “on Gallego-Judrez, J. A., Graff, K. F., Eds.; Elsevier: Amsterdam, 2015; pp
+water” organocatalytic protocol for the synthesis of optically pure 127-158.
+warfarin anticoagulant. Green Chem. 2011, 13, 1155-1157. (104) Hong, K.-S.; Xu, H.; Konishi, H.; Li, X. Direct water splitting
+(88) Lee, J; Kentish, S55 Matula, I. J; Ashokkumar, M. Effect of through vibrating piezoelectric microfibers in water. J. Phys. Chem.
+surfactants on inertial cavitation activity in pulsed acoustic field. J. Lett. 2010, 1, 997—1002.
+Phys. Chem. B 2005, 109, 16860-16865. Co (10S) Morosini, V.; Chave, T.; Virot, M.; Moisy, P.; Nikitenko, S. I.
+(89) More, P. A; Shankarling, G. S. Energy efficient Pfitzinger Sonochemical water splitting in the presence of powdered metal
+reaction: a novel strategy using a surfactant catalyst. New J. Chem. oxides. Ultrason. Sonochem. 2016, 29, 512—516.
+50] alert on A; Rashinkar, G.; Barge, M.; Salunkhe (106) Vedadi, M. H.; Haas, S. Mechano-chemical pathways to H,O
+) ) = ) ! and CO, spliting. Appl. Phys. Lett. 2011, 99, 1541085.
+R. Ultrasound promoted efficient and green synthesis of f-amino (107) (a) Wang, 2. Pan, X.; Yan, I. Da dashi-Silab, S.; Xie, G..
+carbonyl compounds in aqueous hydrotropic medium. Ultrason. Zhang, J; Wang, Z.; Xia, H.; Matyjaszewski, K. Temporal control in
+oe T. 5,; Al-Bogarai, A. S,; Mekky, A. E. M.; Alkhathlan, H mechanically controlled atom transfer radical polymerization using
+, T. S.; JAS; , A. E. M,; , H.
+Z. Sonochemical synthesis of novel pyrano|3,4-¢][1,3]oxazines: a ow pm of Cu catalyst. ACS Macro Lett 2017, 6, 546-549. (b) Pan,
+; Fantin, M.; Yuan, F.; Matyjaszewski, K. Externally controlled atom
+green protocol. Ultrason. Sonochem. 2017, 36, 474—480. for radical pol sation. Chem. Soc. Rev. 2018. 47. S457— S490
+(92) Fillion, H.; Luche, J.-L. Cycloadditions. In Synthetic Organic transter radical polymerization. Cherm. Soc. Rev. TL ee
+Sonochemistry; Luche, J.-L., Ed.; Plenum Press: New York, 1998; pp (108) Mohap atra, H; Kleiman, M; Esser-Kahn, A. P. Mechanically
+91—106 and references cited therein. controlled radical polymerization initiated by ultrasound. Nat. Chem.
+(93) (a) Bauld, N. L. Cation radical cycloadditions and related 2017, 9, pA h
+sigmatropic reactions. Tetrahedron 1989, 45, 5307—5363. (b) Bauld, (109) Mo apatra, H.; Ayarza, J; Sanders, E. C.; Scheuermann, A.
+N. L. Ab initio theoretical reaction path study of the cation radical M,; Griffin, P. J; Esser-Kahn, A. P. Ultrasound promoted step growth
+Diels-Alder reaction. |. Am. Chem. Soc. 1992, 114, 5800—5804. P olymerization and P olymer crosslinking via copper catalyzed azide-
+(c) Bauld, N. L.; Gao, D. The electron transfer chemistry of carbon- alkyne “click” reaction. Angew. Chem., Int. Ed. 2018, 57, 11208-—
+carbon multiple bonds. In Electron Transfer in Chemistry; Balzani, V., 11212.
+Ed.; Wiley-VCH: Weinheim, 2001; Vol. 2, Part 1, pp 133—205. (d) (110) Kubota, K.; Pang, hE Miura, A; Ito, H. Redox reactions of
+For a cycloaddition involving a radical anion species, see: Roh, Y.; small organic molecules using ball milling and piezoelectric materials.
+Jang, H.-Y,; Lynch, V.; Bauld, N. L.; Krische, M. J. Anion radical chain Science 2019, 366, 1500-1504.
+cycloaddition of tethered enones: intramolecular cyclobutanation and (111) Pang, Y.; Lee, AE Kubota, Kj Ito, H. Solid-state radical C-
+Diels-Alder cycloaddition. Org. Lett. 2002, 4, 611-613. H trifluoromethylation reactions using ball milling and piezoelectric
+(94) (a) Cabello, N.; Cintas, P.; Luche, J.-L. Sonochemical effects in materials. Angew. Chem., Int. Ed 2020, 59, 22570-22576.
+the addition of furan to masked ortho-benzoquinones. Ultrason. (112) Huang, G.; Chen, S.; Dai, C; Sun, L,; Sun, W,; Tang, Y;
+Sonochem. 2003, 10, 25-31. (b) Avalos, M.; Babiano, R.; Cabello, N.; Xiong, F.; He, R;; Ma, H. Effects of ultrasound on microbial growth
+Cintas, P.; Hursthouse, M. B.; Jiménez, J. L.; Light, M. E.; Palacios, J. and enzyme activity. Ultrason. Sonochem. 2017, 37, 144—149.
+C. Thermal and sonochemical studies on the Diels-Alder cyclo- (113) Yoon, J; Kim, J; Tieves, F,; Zhang, W,; Alcalde, M,;
+additions of masked o-benzoquinones with furans: new insights into Hollmann, F.; Park, C. B. Piezobiocatalysis: ultrasound-driven
+the reaction mechanism. J. Org. Chem. 2003, 68, 7193—7203. enzymatic oxyfunctionalization of C-H bonds. ACS Catal. 2020, 10,
+(95) For a recent critical review, see: Schmidt, F.; Cokoja, M. 5236-5242.
+Supramolecular concepts for the biphasic epoxidation of olefins using (114) Takenaka, T. Bismuth-based piezoelectric ceramics. In
+aqueous hydrogen peroxide. Green Chem. 2021, 23, 708—722. Piezoelectric and Acoustic Materials for Transducer Applications;
+(96) Chatel, G.; Goux-Henry, C.; Mirabaud, A.; Rossi, T.; Kardos, Safari, A., Akdogan, E. K., Eds.; Springer: Boston, 2008; pp 103—130.
+N.; Andrioletti, B.; Draye, M. H,0,/NaHCO;-Mediated enantiose- (115) For a previous study merging the action of piezoelectric
+lective epoxidation of olefins in NTf,-based ionic liquids and under BiOCl and ultrasound, see: Shao, D.; Zhang, L.; Sun, S.; Wang, W.
+ultrasound. J. Catal. 2012, 291, 127-132. Oxygen reduction reaction for generating H,O, through a piezo-
+(97) Cousin, T.; Chatel, G.; Kardos, N.; Andrioletti, B.; Draye, M. catalytic process over bismuth oxychloride. ChemSusChem 2018, 11,
+High frequency ultrasound as a tool for elucidating mechanistic 527-531.
+elements of cis-cyclooctene epoxidation with aqueous hydrogen (116) For another piezoelectric titanate activated by ultrasound to
+peroxide. Ultrason. Sonochem. 2019, 53, 120—125. produce hydroxyl radicals, see: Ling, J.; Wang, K.; Wang, Z.; Huang,
+(98) Calcio Gaudino, E.; Cravotto, G.; Manzoli, M.; Tabasso, S. H.; Zhang, G. Enhanced piezoelectric-induced catalysis of SrTiO,
+Sono- and mechanochemical technologies in the catalytic conversion nanocrystal with well-defined facets under ultrasonic vibration.
+of biomass. Chem. Soc. Rev. 2021, 50, 1785—1812. Ultrason. Sonochem. 2020, 61, 104819.
+13855 https://doi.org/10.1021/acs.joc.1c00805
+J. Org. Chem. 2021, 86, 13833-13856

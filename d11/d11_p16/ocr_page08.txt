@@ -1,0 +1,48 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+
+III. ULTRASOUND DIAGNOSTICS, ULTRASOUND CONTRAST AGENTS,
+AND OTHER APPLICATIONS OF BUBBLES IN DIAGNOSTICS, THERAPY,
+AND MEDICINE
+
+In an outreach effort, in order to popularize physics, fluid dynamics, and bubbles, in
+1995 I had written an article on single bubble sonoluminescence in “Physikalische Blatter”,
+which was the German analog of Physics Today. Based on this, I got contacted by a
+physicist working for a pharmaceutical company on ultrasound contrast agents (UCA), which
+are Introduced into the blood to enhance the acoustic scattering and which contain small,
+encapsulated microbubbles. These very effectively scatter ultrasound, see fig. 4a. In this
+way, 1t 1s e.g. possible to visualize the perfusion of tissue, like the heart muscle. The images
+are meanwhile used to obtain diagnostic information from the volume, shape and movement
+of the heart ventricles, in studying the blood flow in small blood vessels, in blood perfusion
+measurements, and in targeted molecular imaging, among others [33-35].
+
+( ) 2 | Bh (b) 7 a
+
+i ! a iy ge Fi
+2 A vh 4 RE we pg + fe ; |
+| all » 50 ARE B ® ERE
+| OE JE ; Sleiig Rvs
+~0.5 um
+(c) 30 (d) 1.00 — Equilibrium }
+E
+N 2 095
+x 24d Qc
+= 40.90
+Wo =
+1.0 p=
+ES 0.85
+0 0.80
+3.0 4.0 5.0 6.0 0 0.5 1.0 1.5 2.0
+Radius, Ry (um) Time, t (us)
+FIG. 4. (a) Ultrasound image of a heart without (left) and with (right) previous injection of
+micro-bubbles. In the second case the structures become clearer as the bubbles act as ultrasound
+contrast enhancers. (b) Electron micrograph of a microbubble coated with a protein layer, taken
+from ref. [36]. (c) Figen frequency fo of a sound-driven coated with DPPC monolayers as function
+of the ambient bubble radius (blue data points, from [37]). The solid blue line shows the fit to the
+Marmottant model [38], whereas the dashed line shows the Minnaert frequency (3). Figure adopted
+from ref. [39]. (d) With the coating the sound-driven bubbles show the typical “compression only”
+behavior, with the compression being much more pronounced than the expansion. Figure taken from
+ref. [38].
+
+One of the nagging questions in ultrasound diagnostics in the mid 1990s was: How does
+
+3 3

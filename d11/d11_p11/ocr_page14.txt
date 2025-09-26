@@ -1,0 +1,70 @@
+in simple standing waves in Ref. 27]. Such refinements References
+may be the subject of future work, keeping however as a Co oo
+‘1 obiect: del simol h to b di 1 [1] R. Mettin, in: A. A. Doinikov (Ed.), Bubble and Particle Dy-
+hall © Jee IVE a Hho ¢L 5HIple Enough to be used 1 rea namics in Acoustic Fields: Modern Trends and Applications,
+engineering applications. Research Signpost, Kerala (India), 2005, pp. 1-36.
+Finally, many other bubble structures can be observed 2] U. Parlitz, R. Mettin, S. Luther, I. Akhatov, M. Voss,
+experimentally [1]. Among the latter, the grouping of bub- Ng Lauterborn, Phil. Trans. R. Soc. Lond. A 357 (1999) 313—
+: « 9 . :
+bles into so-called clusters classically appeal 1 HULLEL= [3] R. Mettin, in: T. Kurz, U. Parlitz, U. Kaatze (Eds.), Oscil-
+ous experimental configuration either in the bulk liquid, lations, Waves and Interactions, Universitatsverlag Gottingen,
+or as hemi-spherical structures near solid boundaries, es- 2007, pp. 171-198. | Co
+pecially in the case of focused ultrasound 41-43]. In some [4] NS Un Denne, Fields of Force, Columbia University Press,
+: ew York,
+aspects, they behave as a single large bubble and may 5] S. A. Zwick, J. Math. Phys. 37 (1958) 246-268.
+collapse as a whole, emitting a complex set of primary 6] I. Akhatov, R. Mettin, C. D. Ohl, U. Parlitz, W. Lauterborn,
+and secondary shock-waves (see Ref. 43] for high-speed Phys. Rev. E 55 (3) (1997) 3747-3750.
+photographs), and vield strongly erosive effects 44]. A [7] J. Magnaude, I. Eames, Ann. Rev. Fluid Mech. 32 (2000) 659—
+complete theoretical description of such structures is not 8] T. a Leighton, A. J. Walton, M. J. W. Pickworth, Eur. J. Phys.
+yet available, the difficulty lying in the strong interaction 11 (1990) 47-50.
+between the bubbles constituting the cloud. Clearly, this 9) i. Crum, A. L Eller, J. Acoust. Soc. Am. 48 (1) (1970) 181-
+Interaction cannot be accounted for by our simple model [10] D. F. Gaitan, L. A. Crum, C. C. Church, R. A. Roy, J. Acoust.
+which includes only primary Bjerknes forces. Moreover, Soc. Am. 91 (6) (1992) 3166-3183.
+these structures often present a transitory behavior, mov- [11] B. P. Barber, R. A. Hiller, R. Lofstedt, S. J. Putterman, K. R.
+ing as a whole entity in the liquid, appearing and disap- Weninger, Phys. Rep. 281 (1997) 65-143.
+: ih tract 1 44 dh h [12] O. Louisnard, Phys. Rev. E 78 (3) (2008) 036322.
+pealillg heal OLLIE SLEUCLUTES | re | an ave Cvell cell [13] P. Koch, D. Krefting, T. Tervo, R. Mettin, W. Lauterborn, in:
+observed as early precursors of conical structures 45]. Asa Proc. ICA 2004, Kyoto (Japan), Vol. Fr3.A.2, 2004, pp. V3571—
+conclusion, we feel therefore that our model in the present V3572.
+form cannot account for such structures. [14] P. Koch, R. Mettin, W. Lauterborn, in: D. Cassereau (Ed.),
+Proceedings CFA /DAGA’04 Strasbourg, DEGA Oldenburg,
+2004, pp. 919-920.
+[15] A. Moussatov, C. Granger, B. Dubus, Ultrasonics Sonochem-
+5. Acknowledgments istry 10 (2003) 191-195.
+[16] C. Campos-Pozuelo, C. Granger, C. Vanhille, A. Moussatov,
+The author acknowledges the support of the French B. Dubus, Ultrasonics Sonochemistry 12 (2005) 79-84.
+Agence Nationale de la Recherche (ANR), under grant [17] A. 1. Eller, L. A. Crum, J. Acoust. Soc. Am. 47 (3) (1970) 762—
+SONONUCLICE (ANR-09-BLAN-0040-02) ” Controle par 767.
+or ; STOR [18] T. J. Matula, Philos. Trans. R. Soc. London, Ser. A 357 (1999)
+ultrasons de la nucléation de la glace pour 'optimisation 95 940
+des procédes de congélation et de lyophilisation”. Besides [19] A. J. Reddy, A. J. Szeri, J. Acoust. Soc. Am. 112 (2002) 1346
+the author would like to thank Nicolas Huc of COMSOL 1352.
+France for his help in solving convergence issues. [20] D. Krefting, J. O. Toilliez, A. J. Szeri, R. Mettin, W. Lauter-
+born, J. Acoust. Soc. Am. 120 (2) (2006) 670-675.
+[21] J. O. Toilliez, A. J. Szeri, J. Acoust. Soc. Am. 122 (5) (2008)
+. 3006-3006.
+Appendix A. Supplementary data 22] S. Khanna, N. N. Amso, S. J. Paynter, W. T. Coakley, Ultra-
+: : : : sound in Medicine & Biology 29 (10) (2003) 1463 — 1470.
+Supplementary data associated with this article can be 23] T. Watanabe, Y. Kukita, Phys. Fluids A 5 (11) (1993) 2682
+found, in the online version, at doi:xx.xxxx /X.XXX.XXXX.XX.XX. 2688.
+124] A. A. Doinikov, Phys. Fluids 14 (4) (2002) 1420-1425.
+25] A. A. Doinikov, Phys. Fluids 17 (128101) (2005) 1-4.
+126] A. A. Doinikov, Recent Res. Devel. Acoustics 2 (2005) 13-38.
+27] R. Mettin, A. A. Doinikov, Applied Acoustics 70 (2009) 1330—
+1339.
+128] B. Dubus, C. Vanhille, C. Campos-Pozuelo, C. Granger, Ultra-
+sonics Sonochemistry 17 (2010) 810-818.
+[29] S. Hilgenfeldt, M. P. Brenner, S. Grossman, D. Lohse, J. Fluid
+Mech. 365 (1998) 171-204.
+[30] O. Louisnard, J. Gonzalez-Garcia, I. Tudela, J. Klima, V. Saez,
+Y. Vargas-Hernandez, Ultrasonics Sonochemistry 16 (2009)
+250-259.
+[31] L. A. Crum, Appl. Sci. Res. 38 (3) (1982) 101-115.
+[32] E. A. Neppiras, Phys. Rep. 61 (1980) 159-251.
+[33] T. J. Leighton, The acoustic bubble, Academic Press, 1994.
+34] O. Louisnard, F. Gomez, Phys. Rev. E 67 (3) (2003) 036610.
+[35] L. D. Rozenberg, in: L. D. Rozenberg (Ed.), High-intensity
+ultrasonic fields, Plenum Press, New-York, 1971.
+[36] V. N. Skokov, V. P. Koverda, A. V. Reshetnikov, A. V. Vino-
+gradov, Physica A 364 (2006) 63-69.
+14

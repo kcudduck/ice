@@ -1,0 +1,72 @@
+JULIAN: VOLCANIC TREMOR—NONLINEAR EXCITATION BY FLUID FLOW 11,875
+1.5 deep tremor. Systematic relations between tremor amplitude
+and frequency may be a source of quantitative information
+about source parameters. With high-quality seismic data it
+should be possible to determine characteristics of phase-
+Wi space attractors controlling tremor. Constructing return
+B maps like the one in Figure 17 is one of the simplest
+1.0 | approaches. Grassberger and Procaccia’s [1983] method of
+y | determining the fractal dimension of an attractor, discussed
+= | above, is another. One of the most unequivocal approaches
+= / ou 5 is the use of Poincaré sections like those in Figure 15 to
+A i “A display the topological structure of an attractor.
+
+0.5 M 1) ox Conclusions
+Many characteristics of volcanic tremor can be explained
+- as flow-induced oscillations in channels transporting
+TY magmatic fluid. These oscillations are excited by a
+nonlinear process analogous to the excitation mechanism
+0.0 of wind musical instruments and human vocal cords.
+10 15 MP = 2 “Long period” volcanic events can be explained as similar
+P41; 2 oscillations of the same fluid-carrying channels, excited
+Figure 16. Bifurcation diagram showing changes in by external disturbances when the flow cannot sustain
+qualitative behavior of tremor model as driving pressure continuous tremor. A lumped-parameter model of this
+p1 increases. Other parameters are as in Figures 12-15. tremor mechanism, ignoring resonance effects in the
+channels, gives a third-order system of nonlinear ordinary
+Unfortunately, propagation effects are seldom known well differential equations. Numerical experiments show that this
+enough to enable source time functions to be determined SY stem can exhi bit steady flow without oscillations, simple
+accurately at tremor frequencies. A promising alternative limit-cycle oscillations, and a classical P eriod-doubling
+approach is to take advantage of the tendency of long-period cascade of more complicated limit cycles leading to chaos
+earthquakes to recur many times in nearly the same place controlled by a Rossler attractor. Both the time series
+to remove propagation effects empirically. and the spectra computed for this model strongly resemble
+The rapidly advancing discipline of nonlinear dynamics observed tremor : data. The threshold condition for the
+provides many potentially useful new ways of analyzing excitation of continuous tremor involves three dimensionless
+tremor. For example, examination of seismograms and numbers, namely, (1) the ratio of the kinetic energy of
+spectra may provide further evidence for period doubling the fluid to the work nee ded to deform the chann el walls
+in the evolution from periodic to chaotic tremor, similar elastically » (2) the relative contribution of the fluid to the
+to that found by Aki and Koyanagi [1981] for Hawaiian effective Tass and damping of the channel walls, and (3)
+
+the damping.
+
+The tremor model proposed here does not take account
+of acoustic resonance in the fluid within the channel. The
+peaked spectra often interpreted as evidence of resonance are
+
+1.0 instead seen simply as characteristic of periodic oscillations,
+which can be explained by nonlinear mechanisms not
+involving acoustic resonance. Resonance probably occurs
+and has significant quantitative effects on real tremor, but
+the occurrence and qualitative features of tremor can be
+explained without it.
+
+E
+
+co Acknowledgments. During this work, I had valuable
+discussions with Jerry Eaton, and benefited greatly from
+his extensive knowledge about Hawaiian volcanoes. Steve
+McNutt’s knowledge about the rest of the world’s volcanoes,
+
+0.5 and tremor in particular, were always generously shared
+and valuable. Leif Wennerberg was a source of insight and
+references on the subject of nonlinear dynamics. Bernard
+Chouet, Gillian Foulger, David Harlow, David Hill, Steve
+McNutt, David Pollard, Charles Sammis, Paul Segall, and
+
+0.5 1.0 Randall White made many helpful suggestions. Robert
+
+h,m Koyanagi provided Figure 6. Fred Fisher helped with the
+
+Figure 17. Return map for chaotic oscillations (Figure 12, reproduction of Figure 6. I am grateful for Eduard Berg's
+
+bottom). The ordinate gives the value of the nth peak, and detailed and constructive review, which led to substantial
+the abscissa gives the value of the (n—1)th peak. improvements in the paper.

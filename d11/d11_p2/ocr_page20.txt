@@ -1,0 +1,85 @@
+The Journal of Organic Chemistry pubs.acs.org/joc
+Pedro Cintas received his Ph.D. in organic chemistry from the (4) Power Ultrasonics. Applications of High-Intensity Ultrasound;
+University of Extremadura and carried out postdoctoral studies with Gallego-Judrez, J. A., Graff, K. F., Eds.; Elsevier: Amsterdam, 2015.
+Wolfgang Oppolzer in Geneva (Switzerland). He has been fortunate (5) (a) Chatel, G. Sonochemistry. New Opportunities for Green
+enough to teach organic chemistry since the early 1990s, learning Chemistry; World Scientific Publishing: Singap OTe) 2017. (b) Chatel,
+regularly more chemistry from both students and coworkers. He is a G., Colmenares, J C. Sonochemistry: from Basic Principles to Innovative
+member of the European Society of Sonochemistry, the American ki ee > J No curent Chemistry oP ringer: Berlin N or
+éveque, J.-M.; Cravotto, G.; Delattre, F.; Cintas, P. Organic
+Chemical Society, and the Board of Ultrasonics Sonochemistry. Sonochemistry Challenges and Perspectives for the 21st- Century;
+ee —. Springer Nature: Cham, Switzerland, 2018.
+| Bs. (7) (a) For selected reviews and chapters, mostly oriented to organic
+P chemistry/synthesis: Shingare, M. S.; Shingate, B. B. Ultrasound in
+i synthetic applications and organic chemistry. In Handbook on
+ad . h Applications of Ultrasound. Sonochemistry for Sustainability; Chen, D.,
+J ay, Sharma, S. K,, Mudhoo, A., Eds.; CRC Press, Inc.: Boca Raton, FL,
+AF a — 2011; pp 213-261. (b) Banerjee, B. Recent developments on
+[ 2 4. J ial ultrasound assisted catalyst-free organic synthesis. Ultrason. Sonochem.
+4 a LE fw 2017, 35, 1—14. (c) Banerjee, B. Recent developments on ultrasound-
+% § A” wi assisted one-pot multicomponent synthesis of biologically relevant
+[4 TREE heterocycles. Ultrason. Sonochem. 2017, 35, 15-35. (d) Lupacchini,
+E M.; Mascitti, A.; Giachi, G.; Tonucci, L.; d’Alessandro, N.; Martinez,
+a J.; Colacino, E. Sonochemistry in non-conventional, green solvents or
+W solvent-free reactions. Tetrahedron 2017, 73, 609—653. (e) Penteado,
+¢ | ER F.; Monti, B.; Sancineto, L.; Perin, G.; Jacob, R. G.; Santi, C;
+| Lenardao, E. J. Ultrasound-assisted multicomponent reactions,
+Giancarlo Cravotto became a researcher at the University of Turin or tallic and oreanochal chemistry. Asi pL
+a ganometallic and organochalcogen chemistry. Asian J. Org. Chem.
+after spending four years in the chemical and pharmaceutical industry 2018, 7, 2368-2385. (f) Draye, M.,; Chatel, G.,; Duwald, R.
+and one year at the Technische Universitit in Berlin (Prof. P. Ultrasound for drug synthesis: A green approach. Pharmaceuticals
+Weyerstahl). He is currently Full Professor of Organic Chemistry with 2020, 13, 23.
+research activity in the domain of green organic synthesis and (8) (a) Mason, T. J.; Lorimer, J. P. Applied Sonochemistry. Uses of
+processing documented by about 450 scientific, peer-reviewed papers Power Ultrasound in Chemistry and Processing; Wiley-VCH: New York,
+and 20 patents. He was Director of the Department of Drug Science 2002. (b) Mason, T. J.; Peter, D. Practical Sonochemistry. Power
+and Technology (University of Turin) from 2007 to 2018, serving Ultrasound Uses and Applications, 2nd Ed.; Woodhead Publishing Ltd.:
+currently as vice-Director. He collaborates with a variety of industrial Cambridge, UK, 2002.
+partners. He was awarded the Organic Chemistry for the Environment, (9) Cravotto, G; Cintas, P. Power ultrasound in organic synthesis:
+Energy and Nanosciences prize (2018) and Gold medal “E. Paternd” moving cavitational chemistry from academia to innovative and large-
+(2020) auspiced by the Italian Chemical Society. scale applications. Chem. Soc. Rev. 2006, 35, 180-196. |
+(10) (a) Luche, J.-L. Sonochemistry. From experiment to theoretical
+considerations. In Advances in Sonochemistry; Mason, T. J., Ed.; JAI
+
+HB ACKNOWLEDGMENTS Press, Ltd.: London, 1993; Vol. 3, pp 85—124. (b) Luche’s distinction
+We express our heartfelt thanks to the many collaborators who between true and false sonochemistry, the former denoting reaction
+have helped develop all our past and current projects on outcomes that arise from cavitation-generated species and the latter
+applied sonochemistry and related hybrid techniques. Con- stemming largely from enhanced mass transfer in heterogeneous
+tinued support from the Junta de Extremadura and Fondo processes, has proven to be useful for classification, although there are
+Europeo de Desarrollo Regional (as witnessed by recent grants RYAT orderine a ons hat hamper generalization —.
+IB16167, 1B16022, and GR18015) is warmly appreciated. 3) “Or FSIOMICE] PEISpECTIVER Of SOROG ICMR TY and sviaTan:
+
+i. Bremner, D. Historical introduction to sonochemistry. In Advances in
+Additional funding from the European Union through the EU Sonochemistry; Mason, T. J., Ed.; JAI Press, Ltd.: London, 1990; Vol.
+H2020 MSCA-ETN COSMIC framework for research and 1, pp 1-37. (b) Cravotto, G.; Cintas, P. Introduction to
+training is highly acknowledged as well. sonochemistry: A historical and conceptual overview. In Handbook
+
+on Applications of Ultrasound. Sonochemistry for Sustainability; Chen,
+
+HB DEDICATION D., Sharma, S. K., Mudhoo, A, Eds.; CRC Press, Inc.: Boca Raton, FL,
+This article is dedicated to Jean-Louis Luche (1941-2014) 2011; pp 23-40.
+and his family (wife and daughters). Jean-Louis contributed (12) (a) McNamara, W. B., I; Didenko, X. TI; Suslick, Ks >
+sionificantlv to the current status of synthetic sonochemist Sonoluminescence temperatures during multi-bubble cavitation.
+
+ghiticantly | OLsY |! ty Nature 1999, 401, 772—775. (b) Didenko, Y. T.; Suslick, K. S. The
+and guided the field with generosity and humility, supporting enero offic £ format £ Shot dicals and ions dur
+
+oT gy efficiency of formation of photons, radicals and ions during
+and inspiring students and friends. single-bubble cavitation. Nature 2002, 418, 394—397. (c) Suslick, K.
+S.; Flannigan, D. J. Inside a collapsing bubble: sonoluminescence and
+
+BM REFERENCES the conditions during cavitation. Annu. Rev. Phys. Chem. 2008, S9,
+
+(1) Conant, J. Tuxedo Park. A Wall Street Tycoon and the Secret 659-683.
+
+Palace of Science that Changed the Course of World War II; Simon & (13) Flannigan, D. J.; Suslick, K. S. Inertially confined plasma in an
+Schuster: New York, 2002; pp S0—S1. imploding bubble. Nat. Phys. 2010, 6, 598—601.
+
+(2) Luche edited in the late 1990s a multiauthor monograph with a (14) For brief remarks on acoustic cavitation, see: Suslick, K. S.;
+focus on organic sonochemistry and sonosynthesis: Synthetic Organic Eddingsaas, N. C.; Flannigan, D. J; Hopkins, S. D.; Xu, H. The
+Sonochemistry; Plenum Press: New York, 1998. chemical history of a bubble. Acc. Chem. Res. 2018, 51, 2169-2178.
+
+(3) Handbook on Applications of Ultrasound. Sonochemistry for (15) Schmitt, F. O.; Johnson, C. H.; Olson, A. R. Oxidations
+Sustainability; Chen, D., Sharma, S. K,, Mudhoo, A., Eds.; CRC Press, promoted by ultrasonic radiation. J. Am. Chem. Soc. 1929, 51, 370—
+Inc.: Boca Raton, FL, 2011. 378.
+
+13852 https://doi.org/10.1021/acs.joc.1c00805
+J. Org. Chem. 2021, 86, 13833-13856

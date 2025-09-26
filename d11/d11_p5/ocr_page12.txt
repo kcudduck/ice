@@ -1,0 +1,32 @@
+The figures of this paper are uploaded in a separate compressed file. To
+view the figures please download the compressed file.
+Figure Captions:
+Figurel. Bifurcation diagram and the corresponding Lyapuonov spectrum of
+a bubble with 10pm initial radius driven with 500K Hz of frequency versus
+pressure , la- normalized bubble radius versus pressure, 1b6- Corresponding
+Lypunov spectrum.
+Figure2. Bifurcation diagram and the corresponding Lyapuonov spectrum
+of a bubble with 10um initial radius driven with 500K Pa of pressure versus
+frequency, 2a- normalized bubble radius versus frequency 2b- corresponding
+Lyapunov spectrum.
+Figured. Bifurcation diagrams of the normalized bubble radius driven by
+200K Hz of frequency with the initial radius of 10um versus pressure: 3a-
+Chaotic behavior before applying the proposed technique, 3b- after technique
+engagement with 1,=500K Hz and a=pi/2.
+Figured. Lyapunov spectra before and after applying the proposed method.
+The dashed line represents the case before applying the method while the
+solid line represents the system after control.
+Figured. Time series of normalized bubble radius driven by 200K Hz of
+frequency and 1.7M Pa of pressure: 5a- Chaotic oscillations, 5b- Regular
+oscillations after introducing the dual frequency method (v,=500K Hz and
+a=pi/2).
+Figure6. Bifurcation diagrams of the bubble normalized radius versus initial
+radius driven by 300K Hz of frequency and 1M Pa of pressure: 6a- chaotic
+behavior before control, 6b6- Periodic behavior after the technique engage-
+ment (o=1MHz and a=pi/4).
+Figure7. Time series of the normalized oscillations of the bubble with initial
+radius of 37.6um driven by 300K H z of frequency and 1M P of applied pres-
+sure: 7a- without applying the proposed technique, 7b- After applying the
+proposed technique (r,=1M Hz and a=pi/4).
+
+12

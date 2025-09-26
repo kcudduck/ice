@@ -1,0 +1,41 @@
+40 KHz
+—Ga=05 —Ga=1 —Ga=2 HW Simul.
+100
+SSE Ea
+10 DN
+HEN
+=
+Q
+3S 3 NN
+Baume cel -
+0.01 i «i o
+° Diameter (mm) .
+
+Figure 6 Amplitude needed to cavitate for a given probe diameter at 40
+KHz in water at room conditions. Contourlines for G4, values of 0.5, 1 and
+2 compare with the onset of cavitation according to simulations
+represented as squares.
+
+100 KHz
+—Ga=05 —Ga=1l —Ga=2 H Simul.
+100
+EEE
+10
+£ NN
+=
+@o
+HE NN
+5
+< SR
+°! "No Cavitati¢ Er BEE G4=0.5
+TEE
+ee
+0.01 r T iA 1
+© Diameter (mm) -
+
+Figure 7 Amplitude needed to cavitate for a given probe diameter at 100
+KHz in water at room conditions. Contourlines for (G, values of 0.5, 1 and
+2 compare with the onset of cavitation according to simulations
+represented as squares.
+
+7

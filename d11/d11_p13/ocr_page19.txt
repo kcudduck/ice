@@ -1,0 +1,85 @@
+JULIAN: VOLCANIC TREMOR—NONLINEAR EXCITATION BY FLUID FLOW 11,877
+earthquakes, Geophys. Dw. Rep., 150, 60 pp., Dep. of Sci.  Rossler, O. E., An equation for continuous chaos, Phys. Lett.
+and Ind. Res., Wellington, N. Z., 1979. A, 57, 397-398, 1976.
+
+Latter, J. H., Volcanic earthquakes and their relationship Saaty, T. L., and J. Bram, Nonlinear Mathematics, 381 pp.,
+to eruptions at Ruapehu and Ngauruhoe volcanoes, J. Dover, Mineola, N.Y., 1981.
+
+Volcanol. Geotherm. Res., 9, 293-309, 1981. Sammis, C. G., and B. R. Julian, Fracture instabilities
+
+Macdonald, G. A., and J. P. Eaton, The eruption of Kilauea accompanying dike intrusion, J. Geophys. Res., 92, 2597—-
+volcano in May 1954, Volcano Lett., 1-9, 1954. 2605, 1987.
+
+Macdonald, G. A., and J. P. Eaton, The 1955 eruption of Shima, M., On the second volcanic micro-tremor at Volcano
+Kilauea volcano, Volcano Lett., 1-10, 1955. Aso, Bull. Disaster Prev. Res. Inst. Kyoto Univ., 22, 1-6,
+
+Manghnani, M. H., and G. P. Woollard, Elastic wave 1958.
+velocities in Hawaiian rocks at pressures to ten kilobars, Shimozuru, D., K. Kamo, and W. T. Kinoshita, Volcanic
+in The Crust and Upper Mantle of the Pacific Area, Geophys. tremor of Kilauea volcano, Hawali, during July-December
+Monogr. Ser., vol. 12, edited by L. Knopoff, C. L. Drake, 1963, Bull. Earthquake Res. Inst. Univ. Tokyo, 44, 1093—
+and P. J. Hart, pp. 501-516, AGU, Washington, D.C., 1133, 1966.
+
+1968. St. Lawrence, W., and A. Qamar, Hydraulic transients: A
+
+May, R. M., Simple mathematical models with very seismic source in volcanoes and glaciers, Science, 203,
+complicated dynamics, Nature, 261, 459-467, 1976. 654—656., 1979.
+
+McClelland, L., T. Simkin, M. Summers, E. Nielsen, and Steinberg, G. S., and A. S. Steinberg, On possible causes of
+T. C. Stein (Eds.), Global Volcanism 1975-1985, 655 pp., volcanic tremor, J. Geophys. Res., 80, 1600-1604, 1975.
+Prentice Hall, Englewood Cliffs, N.J., 1989. Swanson, D. A., W. A. Duffield, D. B. Jackson, and D. W.
+
+McNutt, S. R., Observations and analysis of b-type Peterson, Chronological narrative of the 1969-71 Mauna
+earthquakes, explosions volcanic tremor at Pavlof Ulu eruption of Kilauea volcano, Hawaii, U.S. Geol. Surv.
+volcano, Alaska, Bull. Seismol. Soc. Am., 76, 153-175, Prof. Pap., 1056, 55 pp., 1979.
+
+1986. Ukawa, M., and M. Ohtake, A Monochromatic earthquake
+
+McNutt, S. R., Volcanic tremor at Pavlof volcano, Alaska, suggesting deep-seated magmatic activity beneath the
+October 1973—April 1986, Pure Appl. Geophys., 125, 1051— [zu-Ooshima volcano, Japan, J. Geophys. Res., 92, 12,649
+1077, 1987. 12,663, 1987.
+
+McNutt, S. R., A bibliography of volcanic tremor and related Walker, G. P. L., The dike complex of the Koolau volcano,
+phenomena, Calif. Div. Mines Geol. Open File Rep., 89-14, Oahu: Internal structure of a Hawaiian rift zone, in
+1989. Volcanism in Hawaii, edited by R. W. Decker, T. W.
+
+Minakami, T., Seismology of volcanoes in Japan, in Deu. Wright, and P. H. Stauffer, U.S. Geol. Surv. Prof. Pap.,
+Solud Earth Geophys., vol. 6, Physical Volcanology, edited 1350, 961-993, 1987.
+by L. Civetta et al., pp. 1-27, Elsevier, New York, 1974. Walter, S. R., Long-period earthquakes at Lassen Peak—
+
+Mori, J., H. Patia, C. McKee, I. Itikarai, P. Lowenstein, P. Evidence for magma movement? (abstract), Eos Trans.
+de Saint Ours, and B. Talal, Seismicity associated with AGU, 67, 1264, 1986.
+eruptive activity at Langila volcano, Papua New Guinea, Walter, S. R., Long period earthquakes at southern Cascade
+J. Volcanol. Geotherm. Res., 38, 243—255, 1989. volcanic centers, Seismol. Res. Lett., 59, 30, 1988.
+
+Morse, P. M., and K. U. Ingard, Theoretical Acoustics, 927 Walter, S. R., Ten years of earthquakes at Lassen Peak,
+pp., McGraw-Hill, New York, 1968. Mount Shasta, and Medicine Lake volcanoes, northern
+
+Murase, T., and A. R. McBirney, Properties of some California: 1981-1990, Seismol. Res. Lett., 62, 25, 1991.
+common igneous rocks and their melts at high Welch, P. D., The use of the FFT for estimation of
+temperatures, Bull. Geol. Soc. Am., 84, 3563-3592, 1973. power spectra: A method based on averaging over short,
+
+Omer, G. C., Jr., Volcanic Tremor, Two: The theory of modified periodograms, IEEE Trans. Audio Electroacous.,
+volcanic tremor, Bull. Sewsmol. Soc. Am., 40, 175-194, AU-18, 70-73, 1967.
+
+1950. Wolfe, E. W., M. O. Garcia, D. B. Jackson, R. Y. Koyanagi,
+
+Pedley, T. J., The Fluid Mechanics of Large Blood Vessels, 446 C. A. Neal, and A. T. Okamura, The Puu Oo eruption of
+pp., Cambridge University Press, New York, 1980. Kilauea Volcano, episodes 1-20, January 3, 1983, to June
+
+Pollard, D., and K. Aki, A new source mechanism for 8, 1984, in Volcanism in Hawaii, edited by R. W. Decker,
+volcanic tremor (abstract), Eos Trans. AGU, 62, 400, 1981. T. W. Wright, and P. H. Stauffer, U.S. Geol. Surv. Prof.
+
+Pollard, D. D., P. T. Delaney, W. A. Duffield, E. T. Endo, Pap., 1850, 471-508, 1987.
+and A. T. Okamura, Surface deformation in volcanic rift
+
+ones, Testonor DF SA. Toakelsky and W. T B. R. Julian, U.S. Geological Survey, Mail Stop 977,
+v CL 7 .,__ 345 Middlefield Road, Menlo Park, CA 94025-3591.
+
+etterling, Numerical Recipes wn C, 735 pp., Cambridge 1s
+University Press, New York, 1988. (e-mail:julian@andreas.wr.usgs.gov)
+
+Richter, D. H., J. P. Eaton, K. J. Murata, W. U. Ault, and
+H. L. Krivoy, Chronological narrative of the 1959-1960
+eruption of Kilauea Volcano, Hawaii, U.S. Geol. Surv. Prof. (Received April 14, 1993; revised October 21, 1993;
+
+Pap., 587-E, E1-E73, 1970. accepted October 29, 1993.)

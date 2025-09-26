@@ -1,0 +1,61 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+I. INTRODUCTION
+
+“How do you find the problems you work on?” And “What do you think is the difference
+between fundamental and applied research?” These are questions I am often asked. My
+short answer to the first question is: “Be curious!” And to the second one: “In principle,
+none”. And what in particular holds for both fundamental and applied problems, both in
+finding and in solving them: “Watch, listen, and be open”. The answer to both questions
+can be summarized as: “Work on problems you most enjoy. Strange things can happen on
+the way.” (Walter Munk, UCSD). In the best case, the problem to work on is both relevant
+and outstanding, at the same time.
+
+In this article I want to take the opportunity to give longer answers to these questions,
+in particular by giving examples from my own scientific biography and scientific journey. As
+the thread of the article I will choose “bubbles”. I will report how I first incidentally bumped
+into the science of bubbles, what and how I learned about them, what wondertul science
+and great interactions and collaborations with colleagues this endeavor opened for me, and
+how I kept on bumping into very relevant applications of bubbles in technology. So bubbles
+have provided me both wonderful scientific problems and very relevant applied questions, to
+whose solution, I think, we have contributed over the last two and a halt decades.
+
+The length scales on which bubbles are relevant range from nanometers to at least tens
+of meters, and I will give examples for interesting and relevant bubble phenomena on all
+these scales. The richness of bubble fluid dynamics is reflected in the many dimensionless
+numbers that are relevant in the context of bubbles |1, 2|, namely the
+
+e¢ Reynolds number Re = UR/v, expressing the ratio of inertia forces to viscous forces.
+
+Here U is the bubble velocity, R its radius, and v the kinematic viscosity.
+
+e Froude number Fr = U/+\/gR, ratio of inertia to buoyancy, where ¢ is the gravitational
+
+acceleration.
+
+e Archimedes number Ar = gR?p(p — p,)/n? , ratio of buoyancy to viscosity. p is the
+
+liquid density, n 1ts dynamic viscosity, and p, the gas density.
+
+o Galileo number Ga = gR’/v?, ratio of gravitational to viscous forces,
+
+eo Weber number We = pU?R/co, ratio of inertia to capillarity, where o is the surface
+
+tension.
+
+e Capillary number Ca = nU/0o, ratio of viscous to capillary forces,
+
+e Ohnesorge number Oh = n//pocR = We'/?/Re, ratio of time of viscous damping to
+
+time of the capillary oscillations.
+
+e E6tvos number Fo = (p — p,)gR?/o, also called Bond number Bo, ratio of buoyancy
+
+to capillarity,
+
+eo Stokes number St, ratio of characteristic timescale of bubble to that of the flow,
+
+e Morton number Mo = gn*(p—p,)/(p?c?), which is a material parameter for a bubble in
+
+a certain liquid, depending only on surface tension, density, density contrast, viscosity,
+and gravity.
+2 2

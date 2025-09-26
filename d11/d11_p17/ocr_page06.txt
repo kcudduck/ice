@@ -1,0 +1,30 @@
+of cavitation and radical formation in the aqueous solution volume, which acting
+together with sodium citrate for improved reduction of chloroauric acid. The SPR
+formation and localization inspected by UV-Vis band around 520 to 560 nm of 10
+minutes aliquots confirms the reduction of Au*3 to Au® ions and the subsequent Au
+clusters formation. The obtained GNPs were characterized by transmission
+electron microscopy (TEM) to observe their size, shape and Fast Fourier
+Transform (FFT) of high-resolution images revealed their FCC structure. These
+results show the influence of ultrasound in the GNPs production, increasing
+Irradiation power as a strategy to controlled size, shape, and SPR in a simple way
+and optimized time.
+2. Materials and methods
+2.1 Materials and equipment
+Reagents used were Tetrachloroauric(lll) acid (HAuCls 2 99%, Sigma Aldrich),
+Trisodium citrate dihydrate (CsHsNazO7 « 2H20, = 99%, Sigma Aldrich) and
+deionized water (18MQ, < 4.3 uS/cm, Millipore). Ultrasonic Homogenizer 300VT
+BioLogics, Inc. was used with titanium sonotrode (diameter=9.5 mm, length=108
+mm). Temperature increasing was detected using an immersed thermocouple (K
+Type) In the irradiated solutions. The pH values were measured using HANNA
+Instruments, HI-2210-02 Bench Top pH Meter with glass electrode. UV-Vis spectra
+were obtained from a Thermo Scientific UV-Vis GENESYS 10S
+spectrophotometer. TEM observation and HRTEM images were performed in an
+image—corrected FEI Titan at 300 kV. FFT images were obtained by using Gatan
+Digital Micrograph software.
+2.2 Sonochemical synthesis of gold nanoparticles
+Following the Turkevich—Frens method [9], 50 mL of chloroauric acid (HAuUCl4),
+0.025 mM was poured into a 100 mL beaker (Borosilicate glass), which was added
+1 mL of 1.5% (w/v) aqueous solution of trisodium citrate (NasCt) under ultrasonic
+irradiation at 60, 150 and 210 W for one hour, at room temperature. The
+NasCt/HAuUCI4 ratio used in the three samples was 3:1 (w/v). Samples were labeled
+6

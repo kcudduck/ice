@@ -1,0 +1,46 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+a) b) ©
+oF 4 — 4 | 4 0.8
+® Sugiyama et al. (2008)
+—@- Murai et al. (2005)
+3 3 3 3
+15 “te. $2 0.6
+3 «© bho
+10 | 1 _
+3 2 2 2 0.5
+-
+0.4
+0 1 1 1
+500 1000 1500 2000
+Re; 0.3
+0 05 1 % 05 1 0 05 1 °°
+r Tr r
+Single phase Fr=0.16 Fr=1.28
+FIG. 28. (a) Drag reduction DR as function of the Reynolds number Re; of the inner cylinder
+in Taylor-Couette flow in the non-turbulent regime: The data are from the experiments by Murai
+et al. [21], the numerical simulations of Sugiyama et al. [215], and the numerical simulations
+by Spandan et al. [216]. One clearly sees that for these low Reynolds numbers the drag reduction
+is decreasing with increasing Reynolds numbers. (b-d) Corresponding averaged azimuthal velocity
+contours with point-bubbles included. Re; = 2500 and single phase flow is compared with two
+different Froude numbers Fr = 0.16 (strong buoyancy, weakening the Taylor rolls considerable)
+and Fr = 1.28 (weak buoyancy). In the latter case, the Taylor rolls are hardly affected by the
+bubbles which get trapped in them. Figures taken from ref. [216].
+207]. Also his later work with more bubbles confirmed this interpretation [212, 213].
+
+For the numerical simulations of bubble drag reduction in TC flow, we started off mod-
+erately, namely for relatively small Reynolds numbers (based on the inner cylinder rotation,
+the outer cylinder was at rest) Re; < 5000, for which the flow is not yet turbulent. Note
+that these Reynolds numbers are more than two orders of magnitude smaller than what I
+discussed in figures 26 and 27. Interestingly enough, also in that low Re-regime Murai et al.
+214] had experimentally found bubble drag reduction, namely by microbubble injection, see
+figure 28a. But due to the lack of bubble deformability (We < 1 for the injected microbub-
+bles), the physical mechanism in that regime must be very different. The good news is that
+this regime is accessible to numerical simulations, and even with effective force models, as
+the microbubbles can be considered as point-like, with We < 1 and a diameter d, < 10n,
+where 7 is the (global) Kolmogorov length of the flow.
+
+Our numerical simulations of bubbly TC flow at these low Re; < 5000 and with point-like
+bubbles [215, 216] indeed resulted in bubble drag reduction in quantitative agreement with
+Murai’s data [214], see figure 28a. In contrast to the bubble drag reduction in the large
+Reynolds number regime, which increases with increasing Reynolds number (figure 26b),
+30 30

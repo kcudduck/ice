@@ -1,0 +1,59 @@
+11
+L113 when R,=2p m IR oy when R,=1u m
+60 60
+— r=,  f=154
+50 EA. ~ 50 =e ~~
+Cor f=1.7*
+40 —f=1.8" 40 Tr
+£ f=24 £ — ee
+s 30 s 30 or
+EL = 20
+0 === 0
+0 1 2 3 4 5 0 2 4 6 8
+Pressure (Pa) %x10° Pressure (Pa) %x10°
+(a) (b)
+RY when R =0.4u m 20 IR’ ax When R;=0.2pu m
+60 50 —f=1.5"
+501 [—f=151 —t=16%,
+foe 50 Flr
+ow 40 ‘1 i. 0 —f=1.8"
+I= Tr £ 40 f=2"%
+y — f= 1.84 x
+c 30 ' =
+_E f= 24 =" 30 p | |
+oc nl
+0 as 20
+10 Pr 10
+0 0
+0 5 10 15 0 05 1 15 2 25 3
+Pressure (Pa) %x10° Pressure (Pa) %x 10°
+(c) (d)
+FIG. 7. Maximum value of Non-destructive absolute wall velocity for fs; and Pdfsp of: a) Ro = 2um, b) Ry = lum, c)
+Ro = 0.4um and d) Rp = 0.2um.
+versal minimum for SH and UH at 1.5f,; this is because applications. We have previously studied the two main
+the SN bifurcation leads to bubble destruction at this routes of period doubling (PD) in the bubble oscillator
+frequency, thus non-destructive full amplitude P2 oscil- and showed that due to the very high oscillation ampli-
+lations are not developed in this case. For Ryp=200 nm, tude (7 > 2 [67] and a for detailed review please see the
+maximum SH and UH amplitudes occurs respectively at discussion in [26]), non-destructive SH oscillations are
+J =16f, and 1.4f,. less likely to be developed when bubbles are sonicated
+with f,. However, sonication with fs,=2f,, results in
+the generation of SHs at very gentle oscillation regimes
+IV. DISCUSSION AND SUMMARY which increases the chance of the bubble survival during
+SH regime of oscillations. We have also previously shown
+SH oscillation of bubbles are one of the most impor- that the scattered signal from bubbles can be enhanced if
+tant nonlinear signatures of bubbles which are used in the bubbles are sonicated with its pressure dependent res-
+several medical and industrial applications [18-23,38-52]. onance frequency 26]. In this work the biturcation struc-
+Despite the importance of SH oscillations, most studies ture of bubbles sonicated by its pressure dependent reso-
+have only focused on investigating the minimum pressure nance frequencies (Pdfsn) was investigated in detail. SH
+threshold for SH oscillations [56-59,61-65]. Conditions to and UH amplitudes were examined between two pressure
+maximize the SH power remain uncertain. When the limits: The threshold for the onset of SH oscillations and
+bubble is sonicated with twice its linear resonance fre- the critical pressure at which the nonlinear response be-
+quency (f,), SHs are developed at the lowest pressure comes chaotic (or results in bubble destruction). Knowl-
+threshold [55-59]. SHs grow quickly above this pressure edge of these limits is essential for the optimization of
+threshold, however, they are saturated and any further ~~ applications related to SHs as the SH amplitude drops
+increase in incident pressure may even lead to weaken- rapidly when chaos occurs. The findings of this study
+ing of the SHs due to the occurrence of chaos or bubble can be summarized as follows: |
+destruction. Knowledge of the conditions and exposure 1- When bubbles are sonicated with fsh=2fr, bubble
+parameters that enhance the saturation level would allow oscillations undergo period doubling (PD) at the low-
+to select exposure parameters that increase the contrast est pressure threshold. Period 2 (P2) oscillations re-
+to tissue ratio (CTR) and signal to noise ratio (SNR) in ~~ sult in the generation of SHs and UHs which then grow

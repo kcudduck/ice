@@ -1,0 +1,32 @@
+there are high concentration seeds in the system, the final particle size will be
+small [11]. Under the proposed experimental conditions in this work, smaller
+nanoparticles were obtained increasing nominal irradiation power to a maximum
+value of 210 W at constant precursor concentration for the three samples. The size
+reduction suggest that the concentration of seeds Is higher compared with other
+two samples (60 and 150) and ultrasound power increase improves the seed rate
+In solution. Temperature arise rate produced by primary sonochemical effects (Fig.
+4a) Increase the particle size and dispersion as described by Wuithschick et al.
+[49], and Takiyama [50]. They have observed GNPs size and polydispersion
+Increase as temperature during the synthesis using borohydride and citrate as
+reductors.
+However, the three samples reported In this work, have different heat rates and
+after 20 minutes of temperature arise, it reaches a constant temperature value.
+Therefore, the influence of primary and secondary sonochemical effects in GNPs
+synthesis can be a combination of processes [51]. Increasing the thermal energy
+(Ext) on the reaction system, a change in equilibrium towards a more hydroxylated
+form (HAuUCIl4 solution) can be promoted. Decreasing the redox potential of [AuCla]-
+as pH increases the size of the GNPs obtained is dominated by the number of
+nuclei formed [11]. At this point we can associate the heat rate reached using
+ultrasonic irradiation with the velocity of nucleation and seed formation in GNPs
+synthesis and the stable region of Fig.4a with the growth time. It Is supported by
+the reduced time of LSPR In 210 sample (Fig.2c). After 20 minutes any changes In
+SPR wavelength were detected, it suggest the seeds are exhausted in the colloid
+and monodisperse GNPS can be achieved. The 60 sample shows a broad SPR
+band manifesting strong contributions of polydisperse GNPs. The reduced velocity
+of nucleation reached using 60 W limits the seed formation and bigger GNPs were
+obtained.
+Table 1 Experimental data summarized from left to right: nominal irradiation power (W),
+heat rise rate (°C/min), gradient of final and initial temperature (room temperature),
+average size of GNPs and respective standard deviation, localized surface plasmon
+resonance (LSPR) wavelength (nm), full width at half maximum (FWHM) values of UV-Vis
+11

@@ -1,0 +1,34 @@
+we perturb the bubble single frequency forcing by introducing a secondary
+frequency drive to the system. In this respect firstly, through applying the
+methods of chaos physics, nonlinear dynamics of a spherical cavitation bubble
+driven by a single frequency source was studied in this paper. The consid-
+ered control parameters were the applied pressure, frequency and the bubble
+initial radius. An evaluation upon the stabilizing effect of a dual frequency
+source on chaotic oscillations was carried out. For a fixed initial frequency,
+different values of the secondary frequency along with its phase difference
+with the fundamental were studied. These were done through plotting and
+analyzing the bifurcation diagrams and the lyapunov exponent spectra. The
+reason for using these analysis is that in the absence of any direct and reliable
+mathematical methods, bifurcation diagrams and largest lyapunov exponent
+spectra are very useful by providing a precise view on the dynamical behavior
+of the system over a wide range of control parameters. They can be used as
+powerful tools to determine suitable values for the secondary frequency and
+the phase difference. For this reason we analyzed the consequences before
+and after applying the introduced method through plotting the bifurcation
+diagrams, lyapunov exponent spectra and time series of the bubble.
+Results were promising as they indicated an accessible stabilizing role of a
+dual frequency source on chaotic oscillations. The effective control param-
+eters were found to be the value of the secondary frequency and the phase
+difference.
+2 The Bubble model
+The bubble model used for the numerical simulation is derived in |4| and
+is a modification of the bubble model formulated by Prosperetti|33| from
+Keller-Miksis bubble equation|34|. The reason for using this model is that
+it generated results in good agreement with those obtained by solving the
+full partial differential equations of fluid dynamics and is suitable for a wide
+range of amplitudes of oscillations [35]. It is is given by (1):
+RR, _. 3. R P 1 d
+(1 CRRA OR (1 30) = GF og (BP)
+_ 4 HE, RAD (1)
+c’p pcdt
+3

@@ -1,0 +1,61 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+
+data, very nicely reflecting the observed so-called “compression-only” behavior of the UCA
+bubbles [38, 45, 48, 49] (see figures 4c¢,d), which is nothing else than — thanks to the bubble
+coating — modified RP dynamics, thus giving the ultrasound contrast agent community a
+very relevant tool.
+
+Another necessity which arose out of the applications of bubbles as ultrasound contrast
+agents was to produce large numbers of relatively monodisperse and coated microbubbles.
+The monodispersity is desirable to enhance the scattering property otf the bubbles, which is
+optimal close to the bubble resonance size given by eq. (4). We achieved this with a so-called
+co-flow device originally developed by Howard Stone, Dave Weitz and coworkers [50-52] and
+in the case of bubbles by Gordillo and coworkers [53], but now operated in a regime in which
+we could produce particularly small monodisperse bubbles in large quantities [54], see figure
+5. Meanwhile this method has been commercialized within a start-up company, as spin-off
+from our Physics of Fluids group.
+
+Y he i b) CP panaciaoualosddRhee
+
+Gas supply L IS000093 B200500 82300 H00S
+
+channel | EE oy, ’ ’ REL EE OF . 25095 ¢ YOO D D, J "00; he
+
+20950200 00666006 0820 0
+
+0 \. Gas ligament | 0, YO, %0960% DOC i pS H000G I o |
+
+aE —> 2080305 £00: 00005 9%0¢
+
+. [ | Exit channel 0020 90¢ 0 DO De 9060 ¢ 20 | X %
+
+ool | Detachment line 14% ) $00" 0.00 O¢ 00k 3000 29052.6
+
+20028399,945 0005 0335258
+
+11 _ | 13838800308530 5000-008
+
+BE |e Tn] Rea ove
+FIG. 5. (a) Principles of the co-flow device of ref. [5/] to produce monodisperse microbubbles. The
+control parameters are the gas flow rate QQg, the liquid flow rate QQy, and the geometric parameters,
+including the thickness (not shown) of this quasi-2D device. The scale bar in the lower right is 50
+um. Figure taken from ref. [54]. (b) Monodispersed ultrasound contrast agents produced with such
+a co-flow device, employing the principles of ref. [54]. The scale bar in the lower right corner is 50
+
+um. Figure by Wim van Hoeve, Tide Microfluidics, Enschede.
+
+The development of the Brandaris 128 ultra-high-speed imaging facility also allowed
+us to study the interaction of ultrasonically driven bubbles with cells. This interaction is
+sometimes spectacular, as seen in figure 6 [55], which shows a HeLa cell culture (a commonly
+used human cell line) grown on a glass plate, just after a bubble has collapsed close to it.
+The collapsing bubble exerts such strong shear forces on the cell that they detach from the
+class plate, or, if they are more remote, holes in the cell membrane are induced. These holes,
+which can close again after some time, allow drugs or genes to invade the cell. Therefore
+ultrasonically driven bubbles can be used for local application of genes or drugs. This
+includes employing emulsions of droplets composed of liquid perfluorocarbons, which are
+acoustically activated to undergo a phase change into a bubbly dispersion, a procedure
+termed acoustic droplet vaporization [56].
+
+I take the opportunity to stress the fundamental differences between vapor and gas bub-
+bles, which in detail are elaborated and explained by Prosperetti in his recent review on
+10 10

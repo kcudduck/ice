@@ -1,0 +1,53 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+
+interaction between experiment, theory, and numerics is crucial in physics of fluids and
+in particular in physics of bubbles, and makes this subject so particularly nice. Only a
+combination of all three methods gives real insight into the phenomena.
+
+I also hope to have demonstrated with the chosen examples how crucial and essential
+for innovation of any kind fundamental research is. In what direction creative fundamental
+research will go is often unpredictable. If one ends up exactly where one had expected, the
+chance is large that the research was standard. What remains crucial is to be open, watch,
+and listen.
+
+I want to close with some more general comments on fluid dynamics: From my point of
+view we presently live in the golden age of fluid dynamics: The reasons are that (i) Moore’s
+law is kept on still being followed for the computational power, now making simulations
+possible of which even ten years ago we did not dare to dream of, and (ii) a similar rev-
+olution (for the same reason) in digital high-speed imaging, now being able to routinely
+resolve the millisecond time scale and even smaller time scales [224], revealing new physics
+on these scales which up to now was inaccessible and producing a huge amount of data
+on the flow. Also other advanced equipment like confocal microscopy, digital holographic
+microscopy and atomic force microscopy get more and more used in fluid dynamics. With
+all of these advances together, the gap between what can be measured and what can be
+ab-initio simulated is more quickly closing than we had anticipated at the end of the last
+century.
+
+Also other gaps are closing: Fluid dynamics and in particular that of bubble fluid dy-
+namics 1s bridging out to various neighboring disciplines such as chemistry and in particular
+colloidal science, catalysis, electrolysis, medicine, biology, computational science, and many
+others. Here the techniques, approaches and traditions from fluid dynamics can offer a lot
+to help to solve outstanding problems — vice versa, these fields can offer wonderful questions
+to fluid dynamics. Academic (bubble) fluid dynamics is also bridging out not only to tra-
+ditional applications on large scales such as in chemical engineering, in the food industry,
+or in geophysics, but also to various new high-tech applications, be it in inkjet printing,
+immersion and XUV lithography, chemical diagnostics, and lab-on-a-chip microfluidics.
+
+ACKNOWLEDGEMENT
+
+Science 1s a collective activity. The scientific insight in this paper is gained during my
+bubble journey over more than two decades together with my colleagues, postdocs, PhD
+students, and students and I would like to thank them for all their work and contributions,
+and for the stimulation and intellectual pleasure we have enjoyed when doing physics. But
+first of all, I would like to express my sincere gratitude to my scientific teacher, Professor
+Siegfried Grossmann, for all what I learnt from him, which goes way beyond physics. Then,
+in particular, on this subject of bubbles, I would like to thank Michael Brenner, Sascha
+Hilgenfeldt and Michel Versluis, with whom my bubbly journey started, and the “part-time
+professors” of our Twente Physics of Fluids group, namely my colleagues and friends Andrea
+Prosperetti (who also inspired us on the beauty of bubbles in art [225]!), Roberto Verzicco,
+Chao Sun, and Xuehua Zhang, whose intellectual contribution to our group is way beyond
+“part-time”, from whom I learned tremendously, and with whom it has been a great pleasure
+and privilege to work.
+
+I also gratefully acknowledge generous financial support over the years, mainly from NWO
+39 39

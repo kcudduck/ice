@@ -1,0 +1,39 @@
+13
+oa
+|
+liquid © ¢ :
+/ BAS n Ay 28 & 4 a
+(a) 3.07 cm
+<>
+(b)
+Figure 8: (a) Bubble interface in black curve and the vorticity field in the colour map as
+obtained from DNS 1s shown at (consecutively from left to right)
+fee =0,0.19,0.3,0.81, 1.00, 1.45, 1.95, 4.90. An the annular jet parallel to wall reaches
+the axis resulting in to the jet directed away from the wall which later generates the vortex
+ring. The results are plotted for « = 27/3 and Re = co We = oo (b) The visualisation of
+liquid flow field obtained by adding dye at the bottom of tank resulting from collapse of
+bubble 1s shown at every 2.5ms.
+similar to those observed by Reuter ef al. (2017) which are persistent in nature and can travel
+large distances in comparison to bubble size. The generation of this vortex ring 1s illustrated
+numerically in figure 8a where the colour maps show the vorticity field. A clear re-entrant
+annular jet is observed, followed by a mushroom like structure and the bubble detaches from
+the wall consequently a jet in the upwards direction which eventually leads to formation of
+vortex ring. In the experiments we visualise this by adding the dye in the bottom of the tank
+(figure 8b) during the collapse of a flat bubble. This vortex ring can travel to long distance
+and induce unusual long range effects like free surface waves and jetting (see supplementary
+movie 3).
+4.1.2. Dynamics of bubbles with an effective contact angle smaller than nt [2
+The dynamics of bubbles with contact angles smaller than 90 degrees (figure 7 b) can be
+obtained using a classical experiment where a laser is focused directly in to the liquid very
+close to the wall. The bubble shape from snapshot 2 in figure 7b 1s approximated with a
+spherical cap that gives R. = 7.63 x 102m and & = 0.389x. The interface contours obtained
+numerically are shown with the red curves scaled to size of the bubble size in first snapshot.
+In this case, the interface acceleration 1s minimum at the contact line and maximum at the tip
+of the spherical cap leading to a conventional high—speed liquid jet directed towards the wall
+(see figure 7b and supplementary movie 2). This jet developed towards the wall impinges
+in to the solid surface causes cavitation damage. Similar dynamics have been described in
+several of previous studies (Naudé & Ellis 1961; Gonzalez-Avila et al. 2021).
+4.2. Finite Reynolds number effects
+Popinet & Zaleski (2002) showed that for the small bubbles collapsing in the vicinity of a
+rigid wall, the jets can be suppressed due to the viscous effects. In this section, we use the
+DNS to quantitatively predict the range of size for which the observations reported in this

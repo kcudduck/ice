@@ -1,0 +1,102 @@
+20
+124K.-T. Byun and H.-Y. Kwak, “A Model of Laser-Induced Cavita- Subresonance Frequencies,” Ultrasound in Medicine & Biology
+tion,” Japanese Journal of Applied Physics 43, 621-630 (2004). 47, 2958-2979 (2021).
+
+1257. Oh, Y. Yoo, S. Seung, and H.-Y. Kwak, “Laser-induced bub- 1437 Li, Q. Zou, and D. Qin, “Enhancing cavitation dynamics and
+ble formation on a micro gold particle levitated in water under its mechanical effects with dual-frequency ultrasound,” Physics
+ultrasonic field,” Experimental Thermal and Fluid Science 93, in Medicine & Biology 67, 085017 (2022).
+
+285-291 (2018). 144D. Qin, S. Lei, X. Wang, X. Zhong, X. Ji, and Z. Li, “Reso-
+
+1265. Geng, Z. Yao, Q. Zhong, Y. Du, R. Xiao, and F. Wang, nance behaviors of encapsulated microbubbles oscillating non-
+“Propagation of Shock Wave at the Cavitation Bubble Expan- linearly with ultrasonic excitation,” Ultrasonics Sonochemistry
+sion Stage Induced by a Nanosecond Laser Pulse,” Journal of 94, 106334 (2023).
+
+Fluids Engineering 143, 051209 (2021). 1457 H. Song, A. Moldovan, and P. Prentice, “Non-linear Acous-
+
+127v. Agrez, J. Mur, J. Petelin, and R. Petkovsek, “Near threshold tic Emissions from Therapeutically Driven Contrast Agent Mi-
+nucleation and growth of cavitation bubbles generated with a crobubbles,” Ultrasound in Medicine & Biology 45, 2188-2204
+picosecond laser,” Ultrasonics Sonochemistry 92, 106243 (2023). (2019).
+
+1287 Yang, H. Bao, L. Dai, H. Zhang, and J. Lu, “Experimental 146. Zilonova, M. Solovchuk, and T. Sheu, “Bubble dynamics in
+investigation of nanosecond laser-induced shock waves in wa- viscoelastic soft tissue in high-intensity focal ultrasound thermal
+ter using multiple excitation beams,” Optics Express 31, 21845 therapy,” Ultrasonics Sonochemistry 40, 900-911 (2018).
+(2023). 147E Zilonova, M. Solovchuk, and T. Sheu, “Simulation of cav-
+
+129M. Vassholz, H. P. Hoeppe, J. Hagemann, J. M. Rossell6, M. Os- itation enhanced temperature elevation in a soft tissue during
+terhoff, R. Mettin, T. Kurz, A. Schropp, F. Seiboth, C. G. high-intensity focused ultrasound thermal therapy,” Ultrasonics
+Schroer, M. Scholz, J. Moller, J. Hallmann, U. Boesenberg, Sonochemistry 53, 11-24 (2019).
+
+C. Kim, A. Zozulya, W. Lu, R. Shayduk, R. Schaffer, A. Mad- 148G. Bredihin, V. Andreev, A. Martekha, M. Schenzle, and I. Ko-
+
+sen, and T. Salditt, “Pump-probe X-ray holographic imaging of rotkiy, “Erosion potential of ultrasonic food processing,” Foods
+
+laser-induced cavitation bubbles with femtosecond FEL pulses,” and Raw Materials 9, 335-344 (2021).
+
+Nature Communications 12, 3468 (2021). 149B. Glam, M. Strauss, S. Eliezer, and D. Moreno, “Shock com-
+130M. Vacher, G. Gimenez, and R. Goutte, “Nonlinear Behaviour pression and spall formation in aluminum containing helium
+
+of Microbubbles: Application to their Ultrasonic Detection,” 54 bubbles at room temperature and near the melting tempera-
+
+(1984). ture: Experiments and simulations,” International Journal of
+
+131M. Versluis, E. Stride, G. Lajoinie, B. Dollet, and T. Segers, Impact Engineering 65, 1-12 (2014).
+
+“Ultrasound Contrast Agent Modeling: A Review,” Ultrasound 150E. Sonde, T. Chaise, N. Boisson, and D. Nelias, “Modeling of
+
+in Medicine & Biology 46, 2117-2144 (2020). cavitation peening: Jet, bubble growth and collapse, micro-jet
+132F. Chavrier, J. Y. Chapelon, A. Gelet, and D. Cathignol, “Mod- and residual stresses,” Journal of Materials Processing Technol-
+
+eling of high-intensity focused ultrasound-induced lesions in the ogy 262, 479-491 (2018).
+
+presence of cavitation bubbles,” The Journal of the Acoustical 1517 Zhang, S. Wei, P. Wang, W. Qiu, and G. Zhang, “Progress in
+
+Society of America 108, 432-440 (2000). applications of laser induced cavitation on surface processing,”
+
+133G. K. Berlinda Law and Y. Zhou, “High-Intensity Focused Ul- Optics & Laser Technology 170, 110212 (2024).
+trasound Ablation by the Dual-Frequency Excitation,” [EEE 152H. Huang, L. Qin, H. Tang, D. Shu, W. Yan, B. Sun, and
+Transactions on Ultrasonics, Ferroelectrics, and Frequency Con- J. Mi, “Ultrasound cavitation induced nucleation in metal so-
+trol 66, 18-25 (2019). lidification: An analytical model and validation by real-time
+
+134M. Wang, Y. Lei, and Y. Zhou, “High-intensity focused ultra- experiments,” Ultrasonics Sonochemistry 80, 105832 (2021).
+sound (HIFU) ablation by the frequency chirps: Enhanced ther- 153H. Huang, H. Tu, H. Xu, P. Shi, and D. Wang, “Insight of
+mal field and cavitation at the focus,” Ultrasonics 91, 134-149 external ultrasound on energy-production acceleration from re-
+(2019). newable Al-water reaction in Al-based metallic materials,” Inter-
+
+135K. J. Pahk, D. K. Dhar, M. Malago, and N. Saffari, “Ultrasonic national Journal of Hydrogen Energy 48, 20253-20263 (2023).
+Histotripsy for Tissue Therapy,” Journal of Physics: Conference 154M. Rakita and Q. Han, “Influence of Pressure Field in Melts on
+Series 581, 012001 (2015). the Primary Nucleation in Solidification Processing,” Metallur-
+
+136K. J. Pahk, P. Gélat, H. Kim, and N. Saffari, “Bubble dynamics gical and Materials Transactions B 48, 2232-2244 (2017).
+in boiling histotripsy,” Ultrasound in Medicine & Biology 44, 155. Minsier and J. Proost, “Shock wave emission upon spheri-
+2673-2696 (2018). cal bubble collapse during cavitation-induced megasonic surface
+
+137K. J. Pahk, M. O. De Andrade, P. Gélat, H. Kim, and N. Saffari, cleaning,” Ultrasonics Sonochemistry 15, 598-604 (2008).
+“Mechanical damage induced by the appearance of rectified bub- 156, K. Kedrinskii, “Creation of special shock tubes and inves-
+ble growth in a viscoelastic medium during boiling histotripsy tigation of cumulation of liquid cylindrical shells in a rotating
+exposure,” Ultrasonics Sonochemistry 53, 164-177 (2019). system,” Journal of Applied Mechanics and Technical Physics
+
+138). L. Sokolov, Dual Pulses for Cavitation Control in 63, 1-6 (2022).
+
+Lithotripsy: Shock Wave-Bubble Interactions and Bioeffects, 157M. P. Brenner, S. Hilgenfeldt, and D. Lohse, “Single-bubble
+Ph.D. thesis, University of Washington, Seattle, WA, USA sonoluminescence,” Reviews of Modern Physics 74, 425-484
+(2002). (2002).
+
+139F. Ayme and E. Carstensen, “Cavitation induced by asymmetric 158G. Gimenez, “The simultaneous study of light emissions and
+distorted pulses of ultrasound: Theoretical predictions,” [EEE shock waves produced by cavitation bubbles,” The Journal of
+Transactions on Ultrasonics, Ferroelectrics and Frequency Con- the Acoustical Society of America 71, 839-846 (1982).
+trol 36, 32—40 (1989). 159H. Nazari-Mahroo, K. Pasandideh, H. A. Navid, and R. Sadighi-
+
+140E. J. Aymeé-Bellegarda, “Collapse and rebound of a gas-filled Bonabi, “Influence of liquid compressibility on the dynamics of
+spherical bubble immersed in a diagnostic ultrasonic field,” The single bubble sonoluminescence,” Physics Letters A 382, 1962—
+Journal of the Acoustical Society of America 88, 1054-1060 1967 (2018).
+
+(1990). 160. P. Hoeppe, M. Osterhoff, A. Aghel Maleki, J. M.
+
+141. Kreider, L. A. Crum, M. R. Bailey, and O. A. Sapozhnikov, Rossello, M. Vassholz, J. Hagemann, T. Engler, D. Schwarz,
+“A reduced-order, single-bubble cavitation model with applica- A. Rodriguez-Fernandez, U. Boesenberg, J. Moller, R. Shayduk,
+tions to therapeutic ultrasound,” The Journal of the Acoustical J. Hallmann, A. Madsen, R. Mettin, and T. Salditt, “The col-
+Society of America 130, 3511-3530 (2011). lapse of a sonoluminescent cavitation bubble imaged with X-ray
+
+1427. Giimmer, S. Schenke, and F. Denner, “Modelling Lipid- free-electron laser pulses,” New Journal of Physics 26, 033002
+Coated Microbubbles in Focused Ultrasound Applications at (2024).

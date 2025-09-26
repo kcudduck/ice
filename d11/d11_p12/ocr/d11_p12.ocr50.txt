@@ -1,5 +1,0 @@
-L —
-mc
-0.5
-0 1 2
-Pressure (Pa)

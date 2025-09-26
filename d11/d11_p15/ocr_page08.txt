@@ -1,0 +1,45 @@
+the picture. Simply because there will be no need to propagate stability from the boundary into
+the interior. As already mentioned before, linear dynamics with absorbing boundary conditions on
+['y and zero Dirichlet data on I'g subject to star-shaped conditions has been considered in [5, 7].
+Mathematical difficulties in propagating stability through the undissipated part of the boundary are
+not present in this case. In order to cope with the difficulties we shall employ geometric constructs
+developed earlier in [32]. These allow to construct suitable-non-radial—vector fields which result from
+tangential bending of radial and star-shaped ones. These newly constructed fields propagate the
+needed estimates through un—dissipated part of the boundary.
+
+In order to treat the nonlinear problem, the approach used in the past (for subcritical case) was
+to use the so called “barrier’s method” based on contradiction argument. However, this presents
+several technical difficulties in the present scenario, even at the level of low frequencies (lower order
+terms). Hence, in this paper, we exploit another technique which, to the best of our knowledge, is
+new and makes a strong use of the fact that we only require initial data to be small in H. One of the
+advantages of such construction (for JMGT) was already exploited by the authors in [4] in allowing
+extension by density in the nonlinear environment. In this paper we discovered that it also allows to:
+
+a) prove global existence and exponential stability by the representation of the solution and two-
+level stability of linear flows. Here, the smallness interplay comes to the picture through a
+nonlinear propagation of the estimate of the type
+
+|F(P) lez, < Col] Per) C2 Pe, -) (2.13)
+where the size of C'(||®||g) can be controlled by p. See Theorem 2.3.
+
+b) obtain, to some extent, a continuity property of the decay rate with respect to the H-size of
+the initial data and the decay rate of the linear flow, w;. In general, we prove that if is the
+H-size of the initial data and w(e) is the corresponding decay rate, then there exists w(e) such
+that w(e) > w(e) and w(e) = wy as €¢ = 07.
+
+The rest of this paper is devoted to the proofs.
+
+3 Linear Semigroups — Proof of Theorem 2.1
+
+We notice that H has its topology induced by the inner product
+1&1 1] ;
+: | - | = (AV26, ATP) + — (A126, A200) + (85,03), (3.1)
+& L3 H
+
+for all (&1, Ea, £3)" (1, P25 03)" c Hl.
+
+We first show that A: D(A) C H — H generates a Cy semigroup on H. This part of the argument
+follows essentially |7| with some rather straigthforward modifications. We shall outline the main
+details — as these are needed for the proof of generation on the higher level of H; topology.
+
+8

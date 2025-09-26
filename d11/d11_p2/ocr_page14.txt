@@ -1,0 +1,74 @@
+The Journal of Organic Chemistry pubs.acs.org/joc
+- f| 2HO nq) +26 dH, +2H0, FB] ap
++ Jed Ox
+. Fd Ultrasonic “\ &
+Bending =) , > J |
+i {BE Vibration ’ mn Bending
+zy IB Red
+Red \ Ox Ox
+\ Adsorbed Water rw,
+J : Molecules on Fiber 3
+PE Surface ",
+Ox“ Red
+6H,0(1)> Oyq) + 4H:05q) + 4€
+a - ¥ b < . gE
+» A) . 3 A | LU
+aN A \; N
+w® 31\Y
+Sl \ ) + LP
+~~ \ 3 “ | N\ “*
+<8 A §
+\ . og (001) 8 -—
+aE AWN BERN 0
+ol ALY 4 . o D010 _- py
+5 nity \\) LL 200 1 mm ’ : . - . . { ) V4 Length
+| [001]
+(a) (b) _.
+[111] SL
+oy Pon AA pe >
+Sa : F \ 3 qd AL
+-R A “4 W 7 ) \ Ar ot
+EER ~ [>
+FRA FEA a Rs BE |
+27 +4 i 4 \ A LAR ~ — (e)
+/ - So] 9 iy —-
+Pied { “a SO " ' : p %
+| 0mm) Lh + vd eA 17 7 | : c
+(c) (d)
+Figure S. (Top) Micrometer-sized BaTiO; or ZnO experience acoustic vibrations that cause water splitting via piezoelectric effect. (Bottom) (a)
+SEM and (b) TEM images of BaTiO; dendrites grown on a glass substrate; (¢) SEM and (d) TEM images of ZnO fibers grown on a Si(100) wafer.
+(e) Morphologies of a single ZnO fiber (upper image) and BaTiO; dendrite (lower image). Reproduced from ref 104. Copyright 2010 American
+Chemical Society.
+c= ce (4) causing the liberation of H, and O, from water (Figure 5).
+This phenomenon is conceptually different from other
+where ¢” is the elastic Young's modulus and the superscript (E) NTS nd CF eal tic rocesses where the
+denotes the electrical conditions under which the modulus is P 105,106
+1 reagent undergoes a redox reaction to split water. The
+measured, in this case, a constant electric field. On the other loctr lst is involved in d duced
+hand, the behavior of a capacitor can simply be described by piezoelectric catalyst > ANVOIVEd 1 onating strain-induce
+electrons and holes without decomposition or redox change.
+E = fD (S) Irradiation with an ultrasonic transducer (which actually
+a harnesses the inverse piezoelectric effect) leads to the rapid
+with E being the electric field, D the electric displacement and oduction of H. and P 0. with eas ect) ation ceasin ee
+p the dielectric coefhicient. In a piezoelectric material 6 and E p 2 y WIHL 595 SEI HS
+. ultrasound is turned off. This kind of miniature devices for low-
+are coupled in the way that application of force not only C wat ices be advant ther elect
+induces mechanical stress, but also produces electric charge. In COSL WALEr Spitlng can be advantageous over Other Clectro-
+mathematical form, the following equations dictate the chemical and photochemical procedures, although optimum
+behavior through a piezoelectric constant (h) that links the performance dep ends on both lengths and resonance
+mechanical and electrical responses: frequency of the piezoelectric material. Longer fibers may
+undergo a greater bending and hence an increase in strain-
+6 = ce + hD (6) induced voltage.
+Piezoelectric (nano )particles can be literally employed as
+E = —he + pD (7) chemical transducers for reduction of organic molecules or
+the only variation being that the c” modulus replaces the above metallic precatalysts required for coupling reactions or radical
+cto indicate measurement under constant charge conditions. polymerizations. ”" Scheme 22 depicts the radical polymer-
+Ultrasonic agitation of a piezoelectric material can be ization of n-butyl acrylate using a suspension of BaTiO; NPs
+sufficient to generate the electrochemical potential required for sonicated in the presence of n-butyl acrylate, ethyl a-
+water splitting." Thus, hydrothermally synthesized ZnO bromoisobutyrate as initiator, and equimolar amounts of
+microfibers (also exhibiting piezoelectric properties) and Cu(OTf),, MecTREN, i.e, N,N,N’,N’,N”,N”-hexamethyl| tris-
+BaTiO; microdendrites were vibrated with ultrasound, thereby (aminomethyl)amine]|, and Bu,NBr as the catalyst precur-
+eveloping a strain-induced charge on their surfaces an SOT. e piezoelectric material reduces the Cu
+developing a strain-induced charg their surf: d '%® The piezoelectri terial red the Cu(II
+13846 https://doi.org/10.1021/acs.joc.1c00805
+J. Org. Chem. 2021, 86, 13833-13856

@@ -1,0 +1,45 @@
+in tracking — and often controlling — the evolution of the acoustic pressure u = u(t, x) (t € Ry, x € Q)
+caused by such wave propagation. In media on which heat propagates hyperbolically (which is the
+case of most biological tissues), the evolution of the acoustic pressure can be assumed to obey the
+semilinear JMGT—equation which is given by the third order in time abstract evolution equation
+
+TU + (00 — 2kw)uy — Au — (6 + 76?) Auy = 2ku, (1.1)
+where c,0,k > 0 are constants representing the speed and diffusivity of sound and a nonlinearity
+parameter, respectively, while the function a : Q — RT accounts for natural frictional damping
+provided by the media. The parameter 7 > 0 — also media—dependent — accounts for thermal
+relaxation and essentially transfers the hyperbolicity of the heat to the acoustic wave.
+
+The semilinear equation (1.1) can be viewed as a singular perturbation and, to some extent, a
+refinement of the classical quasilinear Westervelt’s equation
+
+(0 — 2ku) uy — > Au — §Au, = 2ku; | (1.2)
+obtained by setting 7 = 0. Physically, the main difference between (1.1) and (1.2) is that the latter
+predicts that these waves propagate at a finite speed. From the modeling point of view this results
+from using Maxwell-Cattaneo Law — rather than Fourrier’s Law — to model a heat flux for acoustic
+heat waves. The parameter 7 > 0 corresponds to time relaxation. For more about the physical
+interpretation of (1.1), its derivation and overall discussion see |6, 19, 10, 11, 42, 13, 20]. This also
+includes an analysis of asymptotic behavior of solutions when the parameter of relaxation tends to
+zero [26, 27, 4, 3]
+
+The issues of wellposedness and stability of solutions under homogeneous Dirichlet and Neumann
+boundary data were first addressed for both nonlinear and linearized (k = 0) dynamics around 2010
+with the works of I. Lasiecka, R. Triggiani and B. Kaltenbacher [23, 24, 36, 25|. For the analysis of
+the long-time dynamics of (1.1) for both linear and nonlinear cases, the function
+
+7:0 = R, v(x) = ax) — re (1.3)
+plays a central role. In fact, the existence of a positive constant vy such that v(x) > vy > 0 a.e. in Q
+ensures both that linear dynamics is uniformly exponentially stable and that stable nonlinear flows
+can be constructed via “barriers” [25] method. A natural question, in light of the above results, is
+concerning the other profiles of +. It is known that if + < 0 one may have chaotic solutions [14| and if
+v = 0 then the energy is conserved |24, 23|. This raises the interesting question of what mechanisms
+could be employed to ensure stability of the dynamics when + degenerates, i.e., v(x) > 0.
+
+From a practical point of view, the quantity +(x) is interpreted as the viscoelasticity of the
+material point x € {) and, in particular in the medical field, is not expected to be known for all
+points of 2. By making the physically relevant assumption that v € L>*(Q), v(x) > 0 a.e. in
+(allowing the critical case v = 0, or the case where measurements can only me made at isolated
+points of the domain), we ask ourselves whether a non-invasive (boundary) action can drive the
+acoustic pressure to zero at large times regardless of the particular knowledge of + (as long as it is
+nonnegative). This question, besides being of independent interest in stability theory, is critical in
+
+2

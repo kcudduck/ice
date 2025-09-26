@@ -1,0 +1,56 @@
+11
+
+PEM bb
+
+EEE EE A EY EE A I JS LL
+
+FEARS VIN 7
+
+RNR VAAN TT
+
+JL A AN Ared al
+
+AAS ay ial
+
+(a) (b)
+Figure 6: The vorticity is shown in colour map and velocity vectors obtained from DNS
+after short time short time (‘R= = 0.1) for Re = 100 for (a) « =2x/3 and (b) a = 57/12.
+boundary layer. Under these assumptions, the coeflicient ¢g 1s readily obtained as
+1 =n
+
+= —+ —. 3.8
+172" 4a 5-8)
+
+As shown in Figures 5b this model 1s capable of capturing the evolution of the jet velocity
+at short times found from DNS simulations accounting for viscous effects when a > n/2.
+The exponent g (figure 5b) decreases as a increases because the acceleration gradient in the
+normal direction increases with a as seen in figure 3a. Note that the DNS results confirm
+that g < 1 for @ > m/2 and therefore the jet acceleration is singular at 1 = 0 even in the
+presence of viscous effects.
+
+Another interesting quantity to describe the overall interface dynamics 1s the vorticity
+generated during the collapse. At short times, vorticity 1s concentrated in a sheet vortex at
+the wall and at the interface. By assuming zero stress condition at the interface for ¢ = 0, the
+only non-zero component of the vorticity can be written as
+
+ou,
+Wp = —2—.
+? 06
+It follows from the potential flow solution (figure 3a) that the sign of the acceleration gradient
+changes depending upon initial contact angle i.e. if it is greater or less than 71/2, reverting the
+sign of the vortex sheet generated at the interface. This behaviour is indeed observed from
+the numerical simulations as shown in figure 6 (a and b), where the strength of the vortex
+sheet 1s plotted with saturated colour maps. The change in dominant colour represents the
+opposite sign of vorticity at interface between the two cases.
+4. Long time dynamics
+4.1. High Reynolds regime
+After describing the short time dynamics, in this section we investigate the long time
+consequences of this singular response using the experiments and DNS. The results for two
+representative cases a > m/2 and a < 1/2 shown in figure 7 (a) and (b) are discussed now.
+4.1.1. Dynamics of bubbles with an effective contact angle larger than mw /2
+First we discuss the case where the singularity is present (e.g. « > m/2). The generation of
+bubbles with @ > 7/2 can be investigated using the setup described briefly in appendix B
+and references (Bourguille ef al. 2017; Tahan ef al. 2020). The laser 1s focused at the bottom
+of liquid tank where a water drop 1s attached. The cavitation in the water drop induces shock
+wave 1n aluminium plate that leads to the appearance of multiple bubbles in the water tank that
+interact to form a flat bubble with shape similar to spherical cap at maximum volume (figure /

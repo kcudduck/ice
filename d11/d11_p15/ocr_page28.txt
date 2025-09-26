@@ -1,0 +1,42 @@
+Lemma 5.3. There exist 5 > 0 and pg > 0 with the property that if || Pollu < pg then © is a
+contraction.
+Proof. Let U1, Wy, € XP WU, = (v,v,vy) and Uy = (w, ws, wy). The key point of this proof is to
+estimate ||F (V1) — F(¥2)| com), which is where we start. First notice that, since the first two
+coordinates of both F (WV) and F (Vs) are zero, we just care about the third one, whose difference,
+for each t, is given by
+v7 4 voy — wp — wwe = (vy + we) (vy — wy) + (Vv — Ww) vy + w (vy — We)
+A
+=1I1 (1) =1I5(1) =1I3(1)
+= 11 (t) + I(t) + I(t). (5.9)
+Now we estimate the supremmum of the L?-norm of I;. For this we notice that a combination of
+Holder's Inequality with the Sobolev Embedding HE (2) — L*(Q) yields
+1 (®)ll2 = [1(ve Awe) (ve — wi) lly < (villa + lwilla) lor — wel
+S (IVudllz + [IVwe2) [V(r — willy S BIW — Wal xs,
+for each t. Then sup |[I1(t)]|2 < BW; — Wyl| ys. Next, for estimating the suppremum of the L*-norm
+t€[0,T]
+of I; we notice that the sobolev embedding Hf (I') <— L*>°(Q) yields
+Ha2(t)]]2 = [va (v —w)ll2 < [lvall2flv — w]e
+S vel Av —w)l2 S BIW — Wal xs,
+for each t € (0,7). Then sup ||Ix(t)]|2 < B]|¥1 — Vsl| xs. Finally, for estimating the supremum of the
+t€[0,T]
+L*-norm of I; we will use the (further to the Sobolev emdedding Hf (2) <— L>(2)) the interpolation
+inequality [w]e < ||[Vw|ls?(|Aw||s? which holds for all w € Hi (€2). We have
+I 5(t)|l2 = llw(ve — wa)ll2 < [[wllollve — wll:
+1/2 1/2
+$ [Vella | Awlly lon — will
+S872 [op WO, [191 = Calls § B27 FT: = Walle
+te[0,T
+for each t € [0, 7). Then sup ||I5(t)||s < BY2/r + 1|| TU; — Us| xs.
+t€[0,T]
+Therefore, the proof for contractivity goes as follows:
+t
+low) etal, = sup | [1 7(t-0) Fwy) F(a) of
+t€[0,T] 0 IH
+Co,
+< — sup 7 [[F(W)(#) = F(V)(1)]]g,
+T  te[0,T]
+S sup (| (@)]]2 + [2(0)]]2 + [[13(2)]]2)
+t€[0,T]
+S (28+ 821) [01 = Wsll xo = Coll 01 — Ws xs (5.10)
+owning the property Cs < 1 to the smallness of 5. []
+28

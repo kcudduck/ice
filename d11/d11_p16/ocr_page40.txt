@@ -1,0 +1,44 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+via various programs and from the European Union via ERC Advanced Grants.
+1] C. E. Brennen, Cavitation and Bubble Dynamics (Oxford University Press, Oxford, 1995).
+2] T. G. Leighton, The acoustic bubble (Academic Press, London, 1994).
+3] D. Lohse, Bubble puzzles, Nonlinear Phenomena in Complex Systems 9, 125 (2006).
+4] B. P. Barber, Ph.D. thesis, The University of California at Los Angeles, 1992.
+5] B. P. Barber and S. J. Putterman, Observation of synchronous picosecond sonoluminescence,
+Nature 352, 318 (1991).
+6] B. P. Barber, R. A. Hiller, R. Lofstedt, S. J. Putterman, and K. R. Weninger, Defining the
+unknowns of sonoluminescence, Phys. Rep. 281, 65 (1997).
+7] D. F. Gaitan, Ph.D. thesis, The University of Mississippi, 1990.
+8] L. A. Crum, Sonoluminescence, Phys. Today 47, 22 (1994).
+9] V. Bjerknes, Die Kraftfelder (Friedrich Vieweg, Braunschweig, 1909).
+110] A. Prosperetti, Current topics in the dynamics of gas and vapor bubbles, Meccanica 12, 214
+(1977).
+111] D. F. Gaitan, L. A. Crum, C. C. Church, and R. A. Roy, Sonoluminescence and bubble
+dynamics for a single, stable, cavitation bubble, J. Acoust. Soc. Am. 91, 3166 (1992).
+112] M. S. Plesset and A. Prosperetti, Bubble dynamics and cavitation, Annu. Rev. Fluid Mech.
+9, 145 (1977).
+113] L. Rayleigh, On the pressure developed in a liquid during the collapse of a spherical cavity,
+Philos. Mag. 34, 94 (1917).
+114] D. Lohse, Bubble puzzles, Phys. Today 56, 36 (2003).
+115] M. P. Brenner, S. Hilgenfeldt, and D. Lohse, Single bubble sonoluminescence, Rev. Mod.
+Phys. 74, 425 (2002).
+116] A. Eller and L. A. Crum, Instability of Motion of a pulsating bubble in a sound field, J.
+Acoust. Soc. Am. Suppl. 47, 762 (1970).
+117] A. Prosperetti, Viscous effects on perturbed spherical flows, Quart. Appl. Math. 34, 339
+(1977).
+118] M. P. Brenner, D. Lohse, and T. F. Dupont, Bubble shape oscillations and the onset of
+sonoluminescence, Phys. Rev. Lett. 75, 954 (1995).
+119] S. Hilgenfeldt, D. Lohse, and M. P. Brenner, Phase diagrams for sonoluminescing bubbles,
+Phys. Fluids 8, 2808 (1996).
+120] P. S. Epstein and M. S. Plesset, On the stability of gas bubbles in liquid-gas solutions, J.
+Chem. Phys. 18, 1505 (1950).
+21] M. M. Fyrillas and A. J. Szeri, Dissolution or growth of soluble spherical oscillating bubbles,
+J. Fluid Mech. 277, 381 (1994).
+22] F. G. Blake, Bjerknes forces in stationary sound fields, J. Acoust. Soc. Am. 21, 551 (1949).
+23] A. Eller and H. G. Flynn, Rectified Diffusion During Nonlinear Pulsations of Cavitation
+Bubbles, J. Acoust. Soc. Am. 37, 493 (1964).
+24] L. A. Crum, Measurements of the growth of air bubbles by rectified diffusion, J. Acoust. Soc.
+Am. 68, 203 (1980).
+25] M. P. Brenner, D. Lohse, D. Oxtoby, and T. F. Dupont, Mechanisms for stable single bubble
+sonoluminescence, Phys. Rev. Lett. 76, 1158 (1996).
+40 40

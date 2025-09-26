@@ -1,0 +1,57 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+
+1. Acoustic and other forces on bubbles
+
+2. Bubble dynamics and bubble shape stability
+
+3. Diffusive bubble stability
+
+4. Chemical bubble stability
+
+5. Bubble nucleation
+
+6. Bubble collapse and cavitation
+
+7. Plasma formation and thermal bremsstrahlung
+
+As we will see, all these items turned out to be very relevant in connection with various
+applications — sometimes very unexpectedly. The insight obtained from single bubble sono-
+luminescence therefore helped us enormously to discover and identify applied problems and
+to help to solve them or at least make some progress on them. In the next chapters I will
+report how this came about.
+
+Namely, 1 will report on:
+
+e¢ How our understanding of the bubble dynamics and of the bubble shape stability (sub-
+ject 2 in above list) contributed to ultrasound diagnostics and to improve ultrasound
+contrast agents. I will also report on other applications of bubble dynamics in the
+medical context (section III).
+
+e¢ How we found out that the sound of snapping shrimp originates from a cavitating
+bubble (section IV, originating from subjects 5 and 6 in the above list).
+
+e How the collapse of a bubble or a void close to a surface focuses the energy, leading
+to a major jet (section V, originating from subject 6 in the above list).
+
+e¢ How an entrained bubble in a piezo-acoustic inkjet channel can cause major trouble
+due to rectified diffusion (subject 3 in the above list) and how to solve this problem
+(section VT).
+
+e How bubbles can nucleate on a microstructured surface and, when acoustically driven,
+collapse in a controlled way, enhancing the efficiency of ultrasonic cleaning and chem-
+ical reactions (section VII, originating from subjects 4, 5 and 6 in the above list).
+
+e¢ How our understanding of diffusive bubble stability (subject 3 in the above list) was
+instrumental to figure out why surface nanobubbles and surface nanodroplets are sta-
+ble, with various applications in electrolysis, catalysis, diagnostics, and the food and
+remediation industry (section VIII).
+
+e Finally, how our understanding on bubble forces (subject 1 in above list) brought us
+to bubbly two-phase flow, including studying drag reduction in turbulent bubbly flow,
+for which bubble deformability (subject 2) is crucial (section IX).
+
+The paper closes with conclusions and with a short outlook (section X). In particular, I
+will motivate why from my point of view we live in the golden age of fluid dynamics. Both
+wonderful bubble science and very relevant bubble applications are ahead of us.
+
+7 7

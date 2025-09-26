@@ -1,0 +1,71 @@
+Sonoluminescence and sonochemiluminescence from a microreactor 15
+cavitation bubbles at different ultrasound frequencies. ChemPhysChem 11 (8), 1680—
+1684.
+
+ASHOKKUMAR, M., LEE, J., KENTISH, S. & GRIESER, F. 2007 Bubbles in an acoustic
+field: an overview. Ultrason. Sonochem., 14 (4), 470-475.
+
+BORKENT, BRAM M., GEKLE, STEPHAN, PROSPERETTI, ANDREA & LOHSE, DETLEF
+2009 Nucleation threshold and deactivation mechanisms of nanoscopic cavitation nu-
+clei. Phys. Fluids 21 (10), 102003.
+
+BREMOND, NICOLAS, ARORA, MANISH, DAMMER, STEPHAN M. & LOHSE, DETLEF
+2006a Interaction of cavitation bubbles on a wall. Phys. Fluids 18 (12), 121505.
+
+BREMOND, N., ARORA, M., OHL, C. D. & LOHSE, D. 20060 Controlled multi-bubble
+surface cavitation. Phys. Rev. Lett. 96, 224501.
+
+BRENNER, M. P., HILGENFELDT, S. & LOHSE, D. 2002 Single bubble sonoluminescence.
+Rev. Mod. Phys. 74, 425-484.
+
+BRENNER, MICHAEL P., LOHSE, DETLEF & DupONT, T. F. 1995 Bubble shape oscil-
+lations and the onset of sonoluminescence. Phys. Rev. Lett. 75, 954-957.
+
+BROTCHIE, A., GRIESER, F. & ASHOKKUMAR, M. 2009 Effect of power and frequency
+on bubble-size distributions in acoustic cavitation. Phys. Rev. Lett. 102 (8), 84302.
+CABEZA, C., SICARDI-SCHIFINO, AC, NEGREIRA, C. & MONTALDO, G. 1998 Exper-
+imental detection of a subharmonic route to chaos in acoustic cavitation through the
+
+tuning of a piezoelectric cavity. J. Acoust. Soc. Am. 103, 3227.
+
+CHEN, W.S., MaTuLA, T.J. & CruUM, L.A. 2002 The disappearance of ultrasound con-
+trast bubbles: observations of bubble dissolution and cavitation nucleation. Ultrasound
+Med. Biol. 28 (6), 793-803.
+
+COBLEY, A.J., EDGAR, L., GOOSEY, M., KELLNER, R. & MAsoN, T. J. 2011 Initial
+studies into the use of ultrasound to reduce process temperatures and chemical usage
+in the pcb desmear process. Circuit World 1 (37), 15-23.
+
+CRrUM, L.A. 1982 Nucleation and stabilization of microbubbles in liquids. Appl. Sci. Res.
+38 (1), 101-115.
+
+CruUM, LA 1994 Sonoluminescence, sonochemistry, and sonophysics. J. Acoust. Soc. Am.
+95, 599.
+
+DIDENKO, Y. T. & SusLICK, K. S. 2002 The energy efficiency of formation of photons,
+radicals and ions during single-bubble cavitation. Nature 418 (6896), 394-397.
+
+D1IKINK, R., LE GAc, S., N1JHUIS, E., VAN DEN BERG, A., VERMES, A., Poort, A.
+& OHL, C. D. 2008 Controlled cavitation-cell interaction: trans-membrane transport
+and viability studies. Phys. Med. Biol. 2 (53), 375.
+
+FERNANDEZ RIVAS, DAVID, PROSPERETTI, ANDREA, ZIJLSTRA, AALDERT G., LOHSE,
+DETLEF & GARDENIERS, HAN J. G. E. 2010 Efficient sonochemistry through mi-
+crobubbles generated with micromachined surfaces. Angew. Chem. Int. Ed 49 (50),
+9699-9701.
+
+FERNANDEZ RiIVAS, DAVID, STRICKER, Li, Z1IJLSTRA, A GG, GARDENIERS, H J G E,
+LoHSE, D & PROSPERETTI, A 2012 Ultrasound artificially nucleated bubbles and
+their sonochemical radical production. Ultrason. Sonochem. Accepted.
+
+FLINT, E.B. & Susrick, K.S. 1991 The temperature of cavitation. Science 253 (5026),
+1397.
+
+FOwLKES, J. B. & CrumM, L. A. 1988 Cavitation threshold measurements for microsec-
+ond length pulses of ultrasound. J. Acoust. Soc. Am. 83 (6), 2190-2201.
+
+FRENZEL, H. & SCHULTES, H. 1934 Luminescenz im ultraschallbeschickten wasser. Z.
+Phys. Chem. B2742 (421).
+
+G. CravoTTO, P. CINTAS 2012 Harnessing mechanochemical effects with ultrasound-
+induced reactions. Chem. Sci. 2 (3), 295-307.

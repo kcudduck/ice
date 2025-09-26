@@ -1,0 +1,45 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+(a) 0.8 (b) Ci [%)
+0.6
+go)
+2-04
+-
+an” 0.2 o
+0.0
+03 C4
+-0.2
+-1.5 -1.0 -0.5 0.0
+t (ms)
+FIG. 8. (a) Sound emission of a snapping shrimp as function of time. (b) The frames show the
+closing claw at the four times ty, to, ts, and ty indicated in (a): At ts the claw is closed, but there is
+no sound. At ts the cavitation bubble has nucleated and grown. The bubble collapse at t4 coincides
+with the maximum of the sound emission. The figure adopted from ref. [68].
+IV. SNAPPING SHRIMP AND THE UNDERWATER SOUND OF BUBBLES
+
+In another outreach effort, in 1999 I gave a colloquium talk on single bubble sonolumi-
+nescene at the Technical University of Munich (TUM), also addressing the issue of sound
+emission from the collapsing bubbles. After the talk, I met with a TUM zoologist who showed
+me a signal of the sound emission of so-called snapping shrimp, and the same evening I met
+these animals in the lab. They are about 5 cm long and live in the tropical ocean. With the
+help of a huge claw they can make considerable noise. This animal is very unpopular with
+the navy: First, it disturbs underwater communication between submarines. Second, even
+worse, hostile submarines use shrimp colonies to “acoustically hide” themselves.
+
+The first obvious question to ask is: How does the shrimp make such noise? Zoologists
+thought that the sound pulse is caused by mechanical vibration on claw closure. Knowing
+the sound emission of a collapsing bubble from the work on sonoluminescence, I had my
+doubts on this hypothesis. Moreover, I knew the beautiful paper of Prosperetti, Crum, and
+coworkers on the underwater noise of rain [69], in which it is shown, by correlating high-
+speed imaging and sound detection with a hydrophone, that the noise arising when rain
+drops fall on a water surface does not originate from the impact, but from the oscillations of
+an entrained bubble. Following their example, we made high-speed movies of the snapping
+event (the shrimp had to be tickled) and correlated them with the corresponding sound
+track [68]. What we saw was that the shrimp closes its claw so quickly that a fast water
+jet develops. High velocities imply low pressure. Just as in single bubble sonoluminescence
+this leads to growth of bubbles. Once the pressure has equilibrated, the bubble collapses,
+leading to sound emission (figure 8) at bubble collapse,
+
+R ;
+Py(r,t) = “2 (2R* + RR). (5)
+r
+13 13

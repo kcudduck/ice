@@ -1,0 +1,34 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+processes with the outside world [140]. If the distance to the outside world is ¢, the typical
+diffusive time scale is Toyser ~ £?/D. For £ = 1 cm we get Tourer = 14 hours and for £ = 3
+cm Tuer ~ O days: This is exactly the time scale that we also observe for the dissolution
+process of air bubbles which nucleate at the edge of the above mentioned glass filled with
+cold, gas-supersaturated tap water when put into a warmer room.
+Es Fein init i Depew BACT EeIOy  S SR RR tr
+KEES BR Rha Bevin ERR ete
+TE oe ER ; oF Lt did SF Te wo Bw aS CF et ET TERESI FCN A FEI Sr ae LA RA
+t=1.75ns t=3.5ns t=525ns t=70ns t=8.75ns I=9.625ns
+(b)
+t=1.05ns [=2.8ns t=4.9ns t=14.0ns t=252ns t=31.5ns
+(©)
+t=0.0ns t=1.05ns t=49ns t=14.0ns t=25.2ns t=31.5ns
+(d)
+t=1.75ns t=3.5ns t=70ns t=14.0ns t=21.0ns t=31.5ns
+FIG. 20. Time evolution of a surface nanobubble in MD simulations: (a) Without chemical
+heterogeneities and gas-oversaturated liquid (¢ > 0) the bubble grows. (b) With hydrophobic chem-
+ical heterogeneities and gas-undersaturated liquid (C < 0) the bubble shrinks. (c) With hydrophilic
+chemical heterogeneities and gas-oversaturated liquid (( > 0) the pinning force for nanobubble stabi-
+lization is not sufficient. (d) Only with hydrophobic chemical heterogeneities and gas-oversaturated
+ligutd (C > 0) one does get a stable surface nanobubble. Figure taken from [139].
+
+Just as single bubble sonoluminescence can be seen as the hydrogen atom of inertial
+bubble dynamics [15], a single surface nanobubble can be seen as the hydrogen atom of
+diffusive bubble dynamics. Its properties — in particular its on first sight surprising stability
+and its small contact angle — are meanwhile reasonably well understood, see our review article
+ref. [121]. As a next step, we have moved towards diffusively interacting surface nanobubbles.
+Just as for inertial bubbles (section VII and figure 16b), one can best study also the diffusive
+behavior of surface bubbles by fixing their distance by offering “weak spots” on a hydrophobic
+surface, namely by micro-machining the surface: During the solvent exchange, the bubbles
+will nucleate in the cavities and grow [141]. In fig. 21a we show snapshots of this growth
+process over a period of three minutes. Note the very different timescale as compared to the
+27 27

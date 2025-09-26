@@ -1,0 +1,38 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+
+t=-7 ms t=33 ms t= 108 ms t=233 ms t=452 ms t= 583 ms
+
+© I TT T 1 1 — Ly
+t=—15ms t=10ms t=41 ms t= 58 ms t=81 ms t=385ms t=87 ms t=97 ms
+
+FIG. 12. (a-f) Impact (at t=0 s) of a steel ball (diameter 2.5 cm) on soft, decompactified sand
+(grain diameter typically 40 um). The splash and the jet emerge, just as in water. The grains in
+the jet cluster due to their inelastic collisions. The last frame shows a granular eruption caused by
+the rising air bubble. (gq) A cross section of the void collapse following from the axially symmetric
+Rayleigh-type model of ref. [76]: The void is pressed together by the hydrostatic pressure from the
+side, leading to a singularity and an upward and downward jet. Both series of images are taken
+from ref. [76].
+to that of an impacting astroid. The idea is to achieve similar Froude numbers and Newton
+numbers (the ratio between yield stress of the surface and kinetic energy of the intruder) as
+in the geophysical event, hoping for similar dynamical behavior.
+
+Indeed, the phenomena of the impact of a ball on such prepared sand turned out to be
+very comparable to those of the impact on water [76]: First a splash is formed and then
+a jet develops (figure 12), just as in the water case (figure 11). Even the bubble, which
+forms in water, again develops and slowly rises, finally, when hitting the sand-air interface,
+causing a granular eruption. It however also turned out that the air in between the sand
+grains has a major role in the emergence and intensity of the jet [89-91], namely, when prior
+to the impact event (partially) evacuating the air from the container with the sand, the jet
+is much less pronounced as the impacting object can intrude less deep, leading to a weaker
+“hydrostatic” collapse. An excellent review on impact of objects on granular beds can be
+found in ref. [92].
+
+V1. PIEZO-ACOUSTIC INKJET PRINTING AND IMMERSION
+LITHOGRAPHY
+
+Science in the university and science in industry often have a difficult time finding each
+other. In an effort to facilitate the contact, in 2001 the Dutch science foundation organized
+a get-into-contact event, where I met Hans Reinten from Océ, at the time an independent
+Dutch company, and since 2010 a member of the Canon Group. Today, Océ is the leading
+developer of high-end production printing systems for commercial printing. Océ has been
+17 17

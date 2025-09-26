@@ -1,0 +1,57 @@
+[410] A. Meldrum, L. A. Boatner, and R. C. Ewing, “Electron-irradiation-induced nucleation and growth
+in amorphous LaP0O4, ScPO4, and zircon,” Journal of Materials Research, vol. 12, no. 7, pp. 1816—
+1827, Jul. 1997, doi: 10.1557/JMR.1997.0250.
+
+[411] M. O. Ruault, J. Chaumont, J. M. Penisson, and A. Bourret, “High resolution and in situ
+investigation of defects in Bi-irradiated Si,” Philosophical Magazine A, vol. 50, no. 5, pp. 667-675,
+Nov. 1984, doi: 10.1080/01418618408237526.
+
+[412] R. Nakamura, M. Ishimaru, H. Yasuda, and H. Nakajima, “Atomic rearrangements in amorphous
+Al203 under electron-beam irradiation,” Journal of Applied Physics, vol. 113, no. 6, p. 064312,
+Feb. 2013, doi: 10.1063/1.4790705.
+
+[413] X. Yang, R. Wang, H. Yan, and Z. Zhang, “Low energy electron-beam-induced recrystallization of
+continuous GaAs amorphous foils,” Materials Science and Engineering: B, vol. 49, no. 1, pp. 5-13,
+Sep. 1997, doi: 10.1016/5S0921-5107(97)00104-9.
+
+[414] F. Lu, Y. Shen, X. Sun, Z. Dong, R. C. Ewing, and J. Lian, “Size dependence of radiation-induced
+amorphization and recrystallization of synthetic nanostructured CePO4 monazite,” Acta
+Materialia, vol. 61, no. 8, pp. 2984-2992, May 2013, doi: 10.1016/j.actamat.2013.01.058.
+
+[415] I|.-T. Bae, Y. Zhang, W. J. Weber, M. Higuchi, and L. A. Giannuzzi, “Electron-beam induced
+recrystallization in amorphous apatite,” Appl. Phys. Lett., vol. 90, no. 2, p. 021912, Jan. 2007, doi:
+10.1063/1.2430779.
+
+[416] W. Qin, T. Nagase, and Y. Umakoshi, “Electron irradiation-induced nanocrystallization of
+amorphous Fe85B15 alloy: Evidence for athermal nature,” Acta Materialia, vol. 57, no. 4, pp.
+1300-1307, Feb. 2009, doi: 10.1016/j.actamat.2008.11.009.
+
+[417] W. Qin, J. A. Szpunar, and Y. Umakoshi, “Electron or ion irradiation-induced phase-change
+mechanism between amorphous and crystalline state,” Acta Materialia, vol. 59, no. 5, pp. 2221-
+2228, Mar. 2011, doi: 10.1016/j.actamat.2010.12.025.
+
+[418] W. G. Stratton, J. Hamann, J. H. Perepezko, and P. M. Voyles, “Electron beam induced
+crystallization of amorphous Al-based alloys in the TEM,” Intermetallics, vol. 14, no. 8-9, pp.
+1061-1065, Aug. 2006, doi: 10.1016/j.intermet.2006.01.025.
+
+[419] J. Hren, Ed., Introduction to Analytical Electron Microscopy. Springer US, 1979.
+
+[420] S. K. Padhi and M. G. Krishna, “Non-Classical Crystal Growth Recipe using nanocrystalline ceria a
+detailed review,” arXiv:1911.07454 [cond-mat, physics:physics], Nov. 2019.
+
+[421] L. Ratke and P. W. Voorhees, Growth and Coarsening: Ostwald Ripening in Material Processing.
+Springer Science & Business Media, 2013.
+
+[422] J. Lietal., “In Situ Atomic-Scale Study of Particle-Mediated Nucleation and Growth in Amorphous
+Bismuth to Nanocrystal Phase Transformation,” Advanced Science, vol. 5, no. 6, p. 1700992,
+2018, doi: 10.1002/advs.201700992.
+
+[423] B. Jia and L. Gao, “Growth of Well-Defined Cubic Hematite Single Crystals: Oriented Aggregation
+and Ostwald Ripening,” Crystal Growth & Design, vol. 8, no. 4, pp. 1372-1376, Apr. 2008, doi:
+10.1021/cg070300t.
+
+[424] S. Karthika, T. K. Radhakrishnan, and P. Kalaichelvi, “A Review of Classical and Nonclassical
+Nucleation Theories,” Crystal Growth & Design, vol. 16, no. 11, pp. 6663-6681, Nov. 2016, doi:
+10.1021/acs.cgd.6b00794.
+
+47

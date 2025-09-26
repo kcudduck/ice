@@ -1,0 +1,15 @@
+Abstract
+The viability of ultrasonic sonochemistry is investigated in the context of delivering air-
+stable metallic Al rich-PVP composite. The parameters investigated are; sono-(1)
+process intensification, (2) crystallization, (3) agglomeration, and (4) fragmentation,
+respectively. The conventional solvent of n-hexadecane is employed as the sonotrode
+generated pressure transmitting medium to carry out the above experiments. Two
+precursors, (1) Poly (vinylpyrrolidone) (PVP) and (2) Aluminum chloride (AICls) are
+chosen to evaluate and demonstrate the viability of the ultrasonic induced processing.
+Temperature controlled investigations at RT and higher temperature help in achieving;
+(a) PVP-graphitization, and (b) Al-crystal growth phenomenon, respectively. The
+current experiments aid in helping to isolate and identify actual mechanistic
+happenings. The investigation, thus, has a fabrication protocol of shortened processing-
+duration, native amorphous oxide-free, metal-rich air stable product that leads to 10 g
+of composite product for fuel applications.
+4

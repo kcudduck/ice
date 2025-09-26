@@ -1,0 +1,61 @@
+7
+C. Bifurcation structure of the nano-bubbles (SH figure 4 displays the bifurcation structure of the bubble
+enhancement region) with Ro=1 um when f = 2f,and f = 1.6 f, together with
+the SH and UH amplitude as well as the maximum value
+Figures 3a and 3b show the bifurcation structure of the ~~ of both the PZ and |R|. When f = 2f,, PD (Ps =135
+bubbles with R_0 = 400nm & Ry = 200nm as a func- kPa) is concomitant with SH and UH initiation. Consis-
+tion of pressure when f = 2f,. The radial oscillations of ~~ tent with experimental observations [61,62,63], SH and
+the bubbles undergo period doubling at the lowest pres- UH component of Ps. grow quickly with pressure increase
+sure threshold (= 470 kPa for Ry=400 nm). P2 oscilla- and are saturated. The amplitude of SHs and UHs de-
+tions grow in amplitude as pressure increase and undergo ~~ crease simultaneous with P4 oscillations (Pa = 568 kPa)
+further period doubling before the appearance of chaos. and chaos (P4 = 651 kPa). Chaos result in increase in
+When f = 2f, full amplitude (Hmaz —2) non-destructive PZ? and wall velocity; however, SHs and UHs amplitude
+P2 oscillations do not develop. of the Ps. decrease.
+Figures 3c and 3d show the bifurcation structure of ~~ When f = 1.6f,, initiation of SH and UH oscillations
+R_0 = 400nm & Ry = 200nm bubbles as a function of are concomitant with P2 generation in the bifurcation
+pressure when f = 1.8f,. P2 oscillations undergo a sharp ~~ diagram (P4 = 310 kPa). When the SN bifurcation
+increase in amplitude (e.g. for Ry=400 nm at P4 =600 occur(P4 = 342kPa), SH and UH amplitude of Ps. un-
+kPa). Compared to the case of f — fsh, bubbles soni- dergo ad significant increase (4 dB and 10 dB larger than
+cated by their Pdf; have a higher pressure threshold for the case of sonication with f = 2f.). This results in
+P2 oscillations; however, the amplitude of the P2 oscil- oversaturation of the SH and UH amplitude. When
+lations are higher (similar for micron size bubbles in Fig ~~ f = 1.6f,, the occurrence of a SN in the bifurcation
+2c-d). The oscillations undergo further period doubling diagram is concomitant with a significant increase in
+and chaos eventually occurs. Similar to f = 2f,, when the maximum amplitude of Pg. (Ps, becomes 88 times
+f = 1.8f,, bubble doesnt reach full amplitude (Hmoz —2) larger than its value before the occurrence of SN) . At
+P2 non-destructive oscillations (similar to the case of mi- Pa =340 kPa (the pressure at the SN bifurcation) Pg,
+cron size bubbles). Unlike micron size bubbles, SN bifur- ~~ and maximum wall velocity amplitude are respectively
+cation is not observed; this is due to the stronger effect 16.5 Pa® and 23 m/s larger than the case of sonication
+of liquid viscosity on smaller bubbles. with f = 2f, (by a factor of = 80 and 4 times respec-
+Figures 3e and 3f show the bifurcation structure of the tively). Moreover, when f = 1.6f,., the maximum achiev-
+Ryp=400 nm and Ry=200 nm size bubbles as a function able non-destructive (# < 2) SH and UH amplitude are
+of pressure when f = 1.6f,.. Radial oscillations undergo respectively 3.5 and 7 dB larger than the case of f = 2.
+a saddle node bifurcation from P2 oscillations to P2 os- ~~ Thus, application of the Pdf, (in this case f = 1.6 f;)
+cillations of higher amplitude. Compared to the case of ~~ resulted in the oversaturation of the SH and UH am-
+f = fsn, and f = 1.8f,, nano-bubbles sonicated by their plitude. Maximum non-destructive P2 P2 and P2 non-
+Pdf, =1.6f, have a higher pressure threshold (FP;) for P2 destructive wall velocity amplitude are respectively 27
+oscillations (e.g. for Ry=400 nm P, = 570kPa). In this and 26.5 m/s higher than f = 2f;.
+case the amplitude of the P2 oscillations are higher than Figure 5a-d illustrates the SH amplitude of the Ps. as
+the previous cases after the occurrence of SN bifurcation ~~ a function of acoustic pressure at different frequencies
+(e.g. for Ry=400nm P4 = 710kPa and (fme= = 186). (f = 2fr, 1.8fy, 1.7fy, 1.6frand 1.5f;) for Ro=2 pm
+P2 oscillations then grow as pressure increases and P2 os- (5a), Ro=1 pum (5b), Rp=400 nm (5c) and Ry=200 nm
+cillations reach large amplitude of non-destructive oscil- (5d). The SH amplitude of the P,. are only shown for
+lations (e.g. for Rg = 400nm Ras = 1.98Rg at Py =976 non-destructive oscillation regimes where yi < 2. When
+kPa). bubbles are sonicated with {=2f,, SHs are initiated at
+Figures 3g and 3h show the bifurcation structure of the = the lowest pressure, and the SHs amplitude grows with
+Ro = 400nm and Ry = 200nm size bubbles as a function increasing pressure and then saturate. At higher pres-
+of pressure when f = 1.5f,. PD initiation is at the high- sures where P4 oscillations or chaos occurs, the SH am-
+est pressure threshold (e.g. for Ry=400 nm Pd occurs at ~~ plitude decreases rapidly. When bubbles are sonicated
+597 kPa). Above a second pressure threshold (e.g. for ~~ with their Pdf, SHs are initiated at higher acoustic
+Ro = 400nm at P4 = 815 kPa) P2 oscillations undergo ~~ pressures. However, SHs grow rapidly after initiation
+a SN bifurcation to P2 oscillations of higher amplitude (concomitant with SN bifurcation) and the SH amplitude
+(2 ~ 2.04). In this case occurrence of PD is concomi- pecomes arger than Lhe case ° someation with f = 2
+: : Ronan i or the frequencies shown in Fig. 5, the maximum
+an with bubble destruction as Tgg= > 2 for both bub amplitude occurs when f = 1.6f, (red line). For all the
+bubble sizes studied here, when f=1.5f,.(blue line in Fig.
+5), the SN bifurcation is concomitant with bubble de-
+: R : : . _
+D. Enhancement of the SH saturation level struction (7c > 2), therefore sonication with f = 1.5f,
+does not result in any SH enhancement over the conven-
+tional method of sonication with f = 2f,.. For frequencies
+In order to investigate the consequence of the occur- less than 2 f,- the bubble undergoes destruction at a lower
+rence of SN on the strength of the SH and UHs of the P,., "

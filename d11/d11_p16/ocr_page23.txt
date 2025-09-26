@@ -1,0 +1,50 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+of curvature, tiny bubbles should dissolve immediately: In water the gas pressure inside a
+bubble with R = 10 nm is pyes = Po + Praplace = 145 atm. With Henry's law this translates
+to a gas concentration at the edge of the bubble cp = pyescs/ Fy which is 145 times larger
+than the saturation concentration c, and therefore to a large concentration gradient away
+from the bubble, leading to very fast dissolution. This even holds in the case of (slight) gas
+oversaturation, i.e., as long as the gas oversaturation
+Coo
+(== 1 0
+is not too large. In the above mentioned classical paper by Epstein and Plesset [20], known
+to us from our work on single bubble sonoluminescence, the dissolution time of such a
+bubble had been calculated from the diffusion equation and the corresponding boundary
+conditions. The result for the typical dissolution timescale is Tgp = Rip,/(2¢sD), where
+D 1s the diffusion constant and p, the gas density. For the bubble with R = 10 nm and
+the material constants for water, one indeed gets Tgp =~ 3 us, 1.e., such nanobubbles should
+dissolve basically immediately.
+MN TH coetie
+
+| -» im i a . - a a ; /
+
+f ow. cd 3 > b [3 | e ~ <
+
+pra en rw oN | |
+
+2 TARY. 3 » 28 e e
+
+e 9 £5 ' aE : Ya - had
+i “ dP J x TENT A BA | . LY
+150nm eM 5 - / 5 Jed A a
+(a) (b)
+
+FIG. 17. (a) AFM image (4 x 4pm?) of a surface nanobubble on a HOPG surface, obtained
+through the solvent exchange process. (b) AFM image (30 x 30um?) of surface nanodroplets on a
+hydrophobically coated Si surface, also obtained through the solvent exchange process. The color
+code goes from 0 (red) to 800 nm (green). Figures taken from our recent review article on surface
+nanobubbles and surface nanodroplets [121].
+
+The surface nanobubbles in the AFM image figure 17a were generated with the so-called
+solvent exchange process, which had been pioneered by Xuehua Zhang [122, 123]. Here, a
+gas-saturated liquid having high gas solubility (e.g., ethanol) is replaced by another liquid
+with lower gas solubility, e.g. with water. This leads to a local gas supersaturation ¢ > 0
+and therefore to the nucleation of bubbles. Macroscopically, we know this effect of everyday
+life: When we fill a water glass with cold tap water and leave it for a while in a warm room,
+small air bubbles form on the inside of the glass. The reason is that in general tap water
+is oversaturated with air and gases in cold water dissolve much better than in warm water.
+If the tap water in the glass slowly warms up to room temperature, the gas solubility is
+reduced and bubbles nucleate on the edge of the glass. Depending on the size of the glass,
+the bubbles last about four days, as anyone can easily try.
+
+23 23

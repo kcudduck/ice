@@ -1,0 +1,64 @@
+11,864 JULIAN: VOLCANIC TREMOR—NONLINEAR EXCITATION BY FLUID FLOW
+Flow-Induced Oscillations in turn, depends strongly on channel geometry. Changes
+i in channel geometry are expected to cause changes in the
+: Many familiar CGT involve flow-induced oscilla- associated tremor, and such changes are actually observed.
+GLEE, JET GE le, musical wind instruments and human Commonly, in Hawaii and elsewhere, lava first reaches the
+TOE ERE) EA excited by nonlinear processes analogous 0 surface through newly formed dikes and erupts as a nearly
+iC tremor mechanism pEcposedibereticpustoslo lve, continuous “curtain of fire” hundreds to thousands of meters
+tigation of wind instruments also has parallels to that of long. Then, over a period of a few days, the lava solidifies
+tremor. Fletcher [1979, p. 64] SEE Somewhat surprisingly, in most parts of the dike and flow becomes channeled into
+though the theory of wave propagation and resonance effects a small number of vents of roughly circular cross section
+mn the bores and finger holes © f such TRAST has been [Richter et al., 1970; Swanson et al., 1979; Wolfe et al.,
+examined in detail, comparatively little attention has been 1987]. This change in geometry is accompanied by a decrease
+given to the actual mechanism by which the sound 15 PTO- in tremor amplitude, consistent with the fact that a tabular
+duced and coupled to the tube of the instrument.” Similarly, Shed] The moh fee arabs rll (he 6 @fFodde
+" the BEVEL NED of volcanic tremor much notre SAE one. A well-documented example is provided by the first 36
+tion has been given to analyzing the modes of oscillation of hours of the November 1959 eruption of Kilauea, when the
+fluid-fill ed cracks | Chouet and Julian, 1985; Chouet, 1986], tremor amplitude dropped by a factor of 5, at the same time
+cylindrical pipes and conduits [Chouet, 1985], and spher- that the fountain height and volumetric eruption rate were
+ical chambers [Shima, 1958; Kubotera, 1974; Crosson and increasing slightly [Eaton et al., 1987].
+Bame, 1985] than to the question of how such oscillations
+are excited. -
+Another interesting example of flow-induced oscillations Long-Period Earthquakes
+is provided by “Korotkov sounds” in mammalian circulatory The interpretation of tremor as a flow-induced oscillation
+systems, which are used routinely by physicians in suggests an explanation for tremorlike “long-period”
+measuring blood pressure [Pedley, 1980]. These sounds volcanic earthquakes. Self-excited oscillations can occur only
+occur when a limb is compressed by an inflatable cuff, for flow speeds above a critical threshold. Flow at lower
+pressurized so that the arteries are closed during part of the speeds is steady, but if disturbed, it undergoes decaying
+cardiac cycle. A train of oscillations, heard as a thump or oscillations before returning to the steady state. Long-
+click, is generated at systole each time the artery is forced period events may be manifestations of such transient
+open by rising blood pressure. Pedley [1980] formulated a oscillations. Possible sources of disturbances to steady
+lumped-parameter model of Korotkov sounds as self-excited flow include ordinary earthquakes near the fluid-carrying
+oscillations of collapsible fluid-transporting tubes, whose channel, heterogeneities in the fluid, and sudden changes
+dynamics are described by a third-order system of ordinary in the channel network, such as the establishment of
+differential equations. Preliminary numerical investigations new connections. Observational evidence exists for the
+of these equations showed that they are subject to limit- first and last of these processes. Seismograms of many
+cycle oscillations similar to those of the lumped-parameter long-period events begin with small high-frequency signals
+tremor model described below. that appear to be ordinary earthquakes. Figure 3 is an
+During eruptions, one might expect to see direct evidence example from Mount St. Helens. Others have been observed
+of oscillating flow. Mori et al. [1989] reported such evidence at Redoubt volcano, Alaska [Lahr et al, 1993], Long
+from Langila volcano on New Britain, where puffing sounds, Valley caldera, California [Hill and Pitt, 1992], Mount
+resembling those from a steam engine, were observed Spurr, Alaska and Galeras volcano, Colombia (S. McNutt,
+together with fluctuating glow from the crater, both personal communication, 1993). Long-period events often
+with frequencies matching that of simultaneously recorded are accompanied by acoustic waves in the air that originate
+tremor. Movies of Hawaiian lava fountains often show from volcanic vents at virtually the same time |[Latter,
+pulsations occurring at a rate of a few per second, but 1979; McNutt, 1986; Mori et al., 1989]. A sudden gas
+apparently no attempt has been made to compare their emission would simultaneously generate an air wave and
+frequency with that of tremor. a pressure disturbance in the vent. At Galeras volcano,
+Mori et al. [1989] also reported increases in tremor Colombia, simultaneous sudden gas emissions and long-
+frequency by more than 50% over a time span of about a period earthquakes have been observed [Chouet, 1993]. The
+minute at Langila, and it appears from one of their published sudden establishment of a new connection causes a sudden
+seismograms that the frequency is inversely correlated with change in the steady-flow conditions in the plumbing system.
+the tremor amplitude. Similar increases by more than If the new conditions are above the threshold for self-
+100% over about 10 min have been noted at Sakurajima excited oscillation, tremor begins suddenly. Otherwise, a
+volcano by Kamo et al. [1977], although it is not clear transient long-period event occurs. Figure 4 shows excellent
+whether this change accompanied a change in amplitude. If candidates for these two kinds of occurrences.
+tremor involves high-{) resonance, such frequency changes The duration of transient oscillations depends on how
+must be caused by rapid changes in resonator dimensions closely the flow conditions approach the threshold for
+or fluid properties. For a nonlinear oscillator that is not continuous tremor. Well below this threshold, transients
+strongly mode locked, however, variations of frequency are short-lived, while near the threshold, they are of longer
+with amplitude are in general to be expected. Frequency- duration and may resemble “long-coda” events such as that
+amplitude systematics may hold promise as practically shown in Figure 5.
+useful indicators of processes taking place in volcanoes. This explanation of long-coda earthquakes is physically
+The efficiency of flow at exciting oscillation depends distinct from acoustic resonance. For a free resonator
+strongly on the compliance of the channel walls, which, to produce long-duration transients, it must have high

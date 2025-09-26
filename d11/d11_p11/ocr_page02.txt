@@ -1,0 +1,76 @@
+traveling waves, and theory predicts a large Bjerknes force, by a Lagrangian formulation 24-26]. The main result of
+oriented in the direction of the wave propagation 1, 3, 13]. the latter studies is that the radial and translational mo-
+This means that an ultrasonic source emitting a travel- tions are strongly coupled, so that the bubble dynamics
+ing wave would strongly repel the bubbles nucleating on equation is also affected by the translational motion. Di-
+its surface. This issue has been investigated theoretically rect simulation of the two coupled equations in standing
+by Koch and co-workers 14], who, assuming an arbitrary = waves fields reveal that, apart from the classical scheme of
+wave, traveling in the sonotrode direction and standing in bubble migration toward stagnation points, some bubbles
+the perpendicular plane, showed that the conical bubble may have no spatial attractors and can wander indefinitely
+structure observed under large area transducers 15, 16] between a node and an antinode, as observed in 22]. Such
+could be partially reproduced by particle models. a behavior, termed as “translationally unstable”, has been
+Other complex bubble structures can be observed in found to result from an hysteretic response of the radial
+other configurations, such as ultrasonic baths, and were bubble dynamics below the main resonance 27].
+conjectured to result from a combination of both traveling In spite of the latter remarks, we will keep in this paper
+and standing waves [1]. This raises the issue of the origin the classical picture of the mean primary Bjerknes force
+of such traveling waves, which was one of the motivation of = defined by Eq. acting on the bubbles, and focus on
+the present paper and the companion one (which we will the effects of traveling waves. The paper is organized as
+denote hereinafter by |OL IJ). In the latter, we showed follows: in section 2, we will first briefly recall the main
+that traveling waves appear as a simple consequence of results on the primary Bjerknes force, and indicate how
+the attenuation by inertial bubbles. The model presented it can be calculated for an arbitrary bubble dynamics in
+in |OL I] constitutes therefore the missing link in the the- a given acoustic field. In section 3, we will calculate the
+ory, and allows to calculate the acoustic field without any Bjerknes force field in acoustic fields calculated with the
+a priori on its structure, just from the knowledge of the vi- model proposed in [OL I], which we will briefly recall in
+brations of the ultrasonic emitter, whatever its complexity. section 3.1. First, in section 3.2, the 1D configuration ex-
+From there, the Bjerknes force field can be calculated, and amined in [OL I] will be considered. Then, in section 3.3,
+the shape of the structures formed by the bubble paths in we will examine a 2D axi-symmetrical configuration, con-
+the liquid can be examined. stituted by a large area sonotrode emitting in a large bath,
+Before going further, one should remind that Eq. similar to the experiments reported in Refs. 15, 16, 28].
+is an over-simplification of the complex problem of bub- Finally, section 3.4 will address another 2D configuration,
+bles translational motion. A correct representation of the mimicking an ultrasonic bath in which the acoustic field
+latter requires to write Newton’s second law for the bub- is produced by a plate undergoing flexural vibrations. For
+ble, accounting not only for the instantaneous driving force both 2D configurations, the bubble paths will be drawn
+—V'Vp |of which is the time-average|, but also for vis- from the knowledge of the acoustic and Bjerknes force
+cous drag and added-mass forces 7|. All members of such fields at every point in the liquid. The structures obtained
+an equation are dependent of the bubble radial dynamics, will be compared to experimental results of the literature
+so that considering Eq. as a mean force pushing the and discussed.
+bubbles is a reduced view of the reality, masking the pe-
+iod] lational h - : :
+riodic translationa motion superimposed to t ¢ (macro 2. Primary Bjerknes forces
+scopically visible) average translational motion. This is
+Jistorically Justified, mee the first studies on lernes 2.1. Intuitive analysis and linear case
+orces aimed at pea 1ztils Ss stagn ation points of the bub- The physical origin of the primary Bjerknes force can
+bles where Fg vanishes 17], as is the case in the center CL :
+: LL : be recalled simply by considering a mono-dimensional wave.
+of single-bubble levitation experiments 10, 18]. Slightly
+The instantaneous pressure force exerted by the external
+extrapolating this point of view, if one accepts that the av- LL Co
+liquid on a liquid sphere that would replace the bubble
+erage bubble velocity can be obtained approximately by a :
+: is approximately the difference Ap between the instan-
+balance between Eq. and an average viscous drag force,
+: : taneous acoustic pressures on two opposite sizes of the
+a terminal mean velocity of the bubble can be calculated, a.
+sphere, multiplied by the bubble area S. Besides, the pres-
+which allowed for example successful particle simulations )
+| Co ay sure difference Ap is roughly 0p/0x x 2R, so that the in-
+of bubble structures 2]. This raises the issue of nontrivial :
+LL | stantaneous force is roughly 2R x S x dp/dx ~ VIp/0x.
+averaging procedure for moderate or large drivings 19, 20], ay
+Generalizing this result in 3D Eq. (1) is recovered.
+which may be performed by elaborate multiple scales pro-
+Along an acoustic cycle, the bubble therefore wanders
+cedures 21]. However, some experimental situations ex- C
+: forward and backward along the direction of the pressure
+ist where such a terminal velocity cannot be defined, and ..
+gradient, under the influence of this instantaneous force,
+a bubble may wander between the nodes and antinodes
+: | . but the two motions may not exactly compensate, because
+of a standing wave 22]. The description of such a phe-
+: : the bubble may be for example larger when the pressure
+nomenon requires the simultaneous resolution of the in- Cg. Coq.
+
+: : oradient is directed forward than when it is directed back-
+stantaneous radial and translational equations of the bub- ward. The averace force is therefore a matter of hase
+ble, initially proposed in Ref. 23], and improved recently 5 p
+
+2

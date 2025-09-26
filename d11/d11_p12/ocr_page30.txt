@@ -1,0 +1,31 @@
+oJ =I ee | — OAA—T. — I ey p— AN
+= = s|= g BME =% =
+Q Q CIE = Q = CS =
+O OC Ol< < CRE < <
+A A A AM |
+=T/ YC'=40 9/ | SHSC/PVP-AI | : | ]
+= | | | Al Grown ¥ m=
+1) DOC=17 %| | SHSC/PVP-Al | | | oo
+Z| | 2hrs@80°C | | Co
+a1 | ] | | Al Growth B Lo
+Zt] ~ -
+DOC=2% : nm
+~~ | RTSC/PVP-Al | | Co
+| BN | 2 hrs@RT | Lo
+Al Nucleation | : | |
+10 20 30 40 50 60 70 80
+26 (°)
+Fig.4 14 [Intercalation of metallic Al]: Metallic Al nucleation and growth by 2hrs
+sonication generated self heating (SH). Composite processed at RT
+(RTSC/PVP-Al), 80 °C (SHSC/PVP-ALl), 130 °C (SHSC/PVP-Al) respectively.
+It is pertinent to mention here that two sonochemical SH temperatures 80 ° C and 130
+°C respectively, reached after 1 h and 2 hrs of processing, are utilized for Al crystal
+growth. Also, to illustrate DOC values computation, two processed P: M fraction XRD
+data (Yxrd) is shown in fig. 4 15. The CIF of the identified crystallized structural phases
+of GC, PVP, and Al are used to generate the whole XRD pattern. Each structural phase
+is refined, and the individual peak phase is generated using fundamental parameters
+profile fitting (FPPF) approach [374]. The extracted DOC of 56 and 22 % are as per the
+fraction of 1:1 and 4:1 chosen for P: M, respectively. The obtained final profile fit (Yca),
+the difference pattern (Yxd-Yai), and along with goodness of fit index (yx?) is shown in
+fig. 4 15 (a), (b).
+30

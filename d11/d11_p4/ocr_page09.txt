@@ -1,0 +1,47 @@
+7
+10° a=21/3
+__ A Vu
+a = 3/4
+101 = Oo
+las] Ry
+ao °
+100
+LL 20,
+10% 1073 1072 10-! 10"
+0
+(a)
+1.00 2.00 3
+—— Equation 3.6
+0.75 1 75 “ Free surface model
++ Euler
+_ x NS, Re = 100
+0:50 1.50 Co lar] ,
+0 ao
+0.25 1.25 0
+0.00 1.00 0
+m/2 37/4 7/2 27/3 Br/6 0
+2 «
+(b) (c)
+Figure 3: (a) Non-dimensional acceleration magnitude, |aj|/ag along the interface
+parametrised using the angle 6,, (measured in the counter-clockwise direction from the
+point of contact of wall and the axis of symmetry) for a = 3 z, 2, 27. Dots represent
+the numerical solution from free surface model and the thick lines are predictions using
+equation 3.4 evaluated at the interface. (b) Exponent by and coefficient Cy obtained from
+fitting the pressure gradient obtained from the free surface model along the wall for
+different a. (c¢) Non-dimensional averaged interface acceleration magnitude as a function
+of the contact angle using different methods: analytical expression given by equation 3.6
+(blue line), the solution from the free surface model (yellow line), the DNS solution of the
+Euler equations (black crosses), and the DNS solution of the Navier—Stokes solver for
+Re = 100 (red crosses).
+meet due to the appearance of a singularity (Dauge 2006). This singularity was reviewed
+extensively in the past (Landau & Lifshitz 1959; Blum & Dobrowolski 1982; Steger 1990;
+Deegan et al. 1997; Li & Lu 2000) but the studies where this singularity appears in the bubble
+dynamics problems are rare. The asymptotic solutions close to the point where homogeneous
+Dirichlet and Neumann boundary conditions meet can be alternatively expressed by using
+the general solution of the Laplace equation (Li & Lu 2000; Dauge 2006; Yosibash et al.
+2011) and takes the form of
+~ ~b
+ps =) Ci cos (bib) , (3.3)
+k
+where 7g = ry /R. is the non-dimensional distance from the contact line and by = 2 (k+1/2).
+Taking the derivative with respect to the normal of the interface we readily find the interface

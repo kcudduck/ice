@@ -1,0 +1,49 @@
+8 Blue line: magnitude of the parenthesis of 17 Simulation of the cleaning bath configura-
+Fg. in Eq. along the symmetry axis. tion. The thick red lines materialize the
+The emitter is on the right of the graph. Blake-threshold. The black lines are the S-
+Green line: cos term in the parenthesis of streamers, paths of bubbles originating from
+Fg, in Eq. (standing wave contribu- the vibrating plate, and the blue lines are
+tion). Red line: sin term in the parenthesis the L-streamers, path of bubbles originat-
+of Fp, in Eq. (traveling wave contri- ing from the Blake threshold. The green
+bution). . . . .... 0. E thick line represents the deformed shape of
+9 Color plot of sin®6,, where 0, represents the plate at wt =2nm. . . . . . . . . .. ..
+the phase between p and dp/0r. The S- 18 Comparison between: (a) a flare structure
+streamers are recalled in black lines. . . . . is observed on the lateral side of a cleaning
+10 Radial pressure profiles at z = 0 m (thick bath (reprinted from Ref. 1] with permis-
+solid line), z = —0.01 m(dashed line), z = sion of Research Signpost; the original im-
+—0.02 m (dash-dotted line), z = —0.04 m age has been 90° rotated for comparison
+(thin solid line). . . . . . . .. ........ 9 purposes) (b) the structure predicted in the
+11 Same as Fig.[7b, sketching additional stream- simulated configuration (zoom of Fig.
+ers originating from arbitrary points points with more L-streamers sketched). . . . . . .
+below the Blake threshold (green and ma-
+genta lines). . . . . ............L. 9
+12 Color plot of the acoustic pressure field in
+the liquid. The white lines are the contour
+lines of the phase ¢ of the acoustic pressure
+field (see Eq. (3). The S-streamers are re-
+called by the black lines. . . . . ....... [9
+13 Radial profile of sound velocity on the trans-
+ducer area. The sound velocity is non-dimensionalized
+by the sound velocity in the pure liquid ¢;.
+14 Pressure profile on the symmetry axis for a
+7 cm diameter sonotrode, with Rg = 2 pm,
+No = 90 bubbles/mm?. The velocity of the
+sonotrode tip is 1.31 m/s. Solid line: pre-
+diction by the present model. Stars: exper-
+imental measurements redrawn from Fig. 6
+in Ref. 16]. . . «voi
+15 Radial variation of the phase of the pres-
+sure field, at 1.5 cm from the transducer.
+The quantity represented is (¢(0,1.5 cm) —
+¢(r,1.5 cm))/(2m), where ¢(r, z) = arg(p(r, 2)).
+The solid line represents the theoretical pre-
+diction, and the stars are experimental re-
+sults redrawn from Fig. 10 in Ref. 28]. The
+simulations parameter are the same as for
+16 Geometry and meshing of the cleaning bath
+configuration. The geometry has axial sym-
+metry and only a half-plane cut is repre-
+sented. The blue line is the symmetry axis.
+A uniform displacement Up is imposed on
+thered line. . . . ...............
+16

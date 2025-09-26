@@ -1,0 +1,96 @@
+The Journal of Organic Chemistry pubs.acs.org/joc
+Figure 2.””° Such setups usually work at a given frequency with Although global effects vary with the acoustic frequency,’ it
+wave amplitudes controlled by external voltage. Multifrequency makes no sense to worry about using specific frequencies.
+reactors, even reaching the MHz zone, are more expensive and Moreover, in some common devices, such as baths, the
+require a bit of expertise. Dosimetry methods to determine the resonance frequency is modified by other parameters like
+actual acoustic power are strongly encouraged,’ especially with temperature, the level of liquid in the tank, and the transducer
+ultrasonic baths. Numerous practitioners report essentially the load owing to the reaction mixture.”"
+nominal frequency (generally between 25 and 40 kHz) and Since sound is caused by pressure waves, the acoustic
+output power indicated by the supplier, which are largely intensity can be defined as the power per surface unit and
+meaningless. Nor do reviewers, unfamiliarized with sonochem- denoted as
+istry, recognize the importance of determining a few working ,
+parameters. Since sound radiation is devoid of quantum I= P,"/2pc (1)
+character, similar chemical effects can be attained within a
+b where P, is the acoustic pressure amplitude of the wave, p the
+road range of frequencies. Certainly, there are frequency hi
+density of the liquid, and c¢ the speed of sound in that medium.
+effects, but they should be assessed separately as a function of
+Lo This expression is valid only for planar or spherical waves
+the acoustic intensity. The solvent is more than the reaction 1 x Ee
+generated within low-pressure variations. Cavitation at low-
+medium. While conventional chemistry pays attention to : Co
+, 1 1 frequency ultrasound induces significant changes in acoustic
+solvent’s properties like acidity or polarity, physical character- 33
+. Tee pressures and complex, nonlineal behaviors are observed.” A
+istics (volatility, viscosity, or surface tension) play key roles in
+ol relative measurement (and usually invoked in chemical
+sonochemical activation as they will affect both sound
+studies) can be obtained from the amplitude of the emitter.
+propagation and cavitational implosion.
+: However, a common mistake is to associate the ultrasonic power
+The design of devices enables various adjustments like a
+Te. ef fect with the vibrational amplitude because the acoustic power
+pulsed on/off irradiation, pressurized vessels, or bubbling gas. LL
+transmitted depends on the emitting surface. Even worse, if the
+Even if the hot-spot temperature inside the microbubbles will Co
+amplitude is maintained at the same level during a chemical
+determine the outcome of a sonochemical reaction (amount Pa
+: : : reaction, any modification of the system (such as temperature,
+and nature of excited species), the macroscopic temperature Lo
+ae viscosity, concentration, etc.) will also modify the power. In
+has the same relevance as in silent reactions. Pulsed mode or
+other words, the amplitude must change if the power is to
+thermostated vessels provide accurate thermal control. A
+“ ae remain constant. That said, running a reaction at different
+quick and dirty” solution, yet practical with cleaning baths, 1
+~ vibration amplitudes enables comparisons of synthetic
+involves the deliberate addition of ice or cold water as the :
+CL efliciency, provided that other parameters, including the
+temperature rises after prolonged sonication. : : :
+shape and dimensions of the probe assembly, are specified.
+In the late 1980s and early 1990s, some sonophysicists, long
+LL Probably the best way to characterize the energy delivered
+engaged in cavitation, became rather perplexed when chemists
+into the reactor is the notion of ultrasonic power, i.e., the
+reported sonochemical experiments, often using baths, without : AT:
++ 20 transmitted acoustic power (in watts or milliwatts) or the
+knowing the acoustic field to some detail.”™” As mentioned 5
+SR power density (W/cm”). This value can be inferred from
+above, this criticism is also pertinent in 21st century 8,28,34
+physical or chemical measurements. The easiest physical
+sonochemistry, although a full physical modeling of that field 1 es
+a method implies the assimilation of the reaction vessel to a
+is not required and it is obviously beyond the scope of
+calorimeter, where the temperature is measured and plotted
+synthetic purposes. In context, however, one should recall a CL
+30 7q.. against time. Above the cavitation threshold, the acoustic
+few precepts, postulated by Apfel some decades ago,” which y
+energy is partially dissipated into heat. The calorimetric power
+are known as Apfel’s golden rules and expressed in a Socratic Sa
+) RE aia y (in watts) can be deduced from the following relationship with
+style: “know thy liquid”, “know thy sound field”, and “know
+; slope AT/At
+when something happens”. Apfel reasoned that the first
+determines the cavitational threshold, the second the accuracy P(w) = m-C,-AT / At (2)
+of measurements, and the third tells us that the effects of
+cavitation indirectly inform about the magnitude of cavitation where m is the mass of liquid irradiated with ultrasound and C,
+itself. In short, the rules warn about the measurement and the isobaric thermal capacity. It is obvious, by virtue of the
+significance of the acoustical parameters and, as a consequence, nonlinear behavior of cavitation bubbles, that the bulk
+on the right use and calibration of ultrasonic devices. temperature may not be spatially homogeneous and variations
+The definition and use of physical parameters in the field of occur within the reaction vessel.”> Accordingly, irradiation
+ultrasonics are rarely obvious to the chemist and can be the focused on small volumes is desirable in the search for
+source of misinterpretations and overestimations. They are, reproducibility. Chemical dosimetry involves the estimation of
+however, of paramount importance for reproducibility and radical species by sonolysis, which can be quantified by UV—
+should remain constant for comparative analyses. Ultrasonic vis or fluorescence measurements.”® In aqueous media, OH
+frequencies are divided into two broad groups: low-frequency/ radicals are created and monitored by different methods, the
+high-power (from ca. 18 kHz to 100 kHz) and high-frequency/ most popular being the Weissler reaction, based on the
+low-power (from 100 kHz to 10 MHz). The former is the oxidation of an aqueous KI solution to I,; addition of some
+usual area of sonochemistry where mechanical effects are halogenated solvents greatly enhances the oxidation rate.” In
+prevalent, while enhanced radical production and therefore organic solvents, radicals other than OH® can be generated,
+chemical effects, are associated with the high-frequency and the decomposition of reagents like DPPH (2,2-diphenyl-1-
+range.”””" The reactive species generated within the collapsing picryl-hydrazyl) has become a very sensitive probe of organic
+bubble and diffusing into the surrounding liquid, follow sonolysis. Spin-trapping of the radicals with monitoring by ESR
+different evolution as a function of the bubble lifetime and is an accurate method, not always available in every
+radius, which depend among others on the frequency. laboratory.”” More sophisticated and accurate protocols take
+13836 https://doi.org/10.1021/acs.joc.1c00805
+J. Org. Chem. 2021, 86, 13833-13856

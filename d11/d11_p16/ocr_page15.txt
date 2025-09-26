@@ -1,0 +1,52 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+
+integral methods, in the context of fluid dynamics again pioneered by Andrea Prosperetti
+72]. With such methods one can optimize the sound emission in the low frequency range.
+This 1s not restricted to single bubbles, but one can also analyse bubble clusters and their
+collective sound emission, either in 2D by employing some symmetry, or fully 3D. Presently,
+together with the oil company Shell, who contacted us on this problem, we are pursuing
+such calculations.
+
+V. IMPACT ON LIQUIDS AND ON “SOFT” SAND
+
+We had started to work with boundary integral methods in the context of impact events.
+What had triggered us was again the above mentioned pioneering paper by Prosperetti,
+Crum and coworkers on rain drops falling on the ocean [69, 72], leading to bubble entrainment
+and sound emission. Apart from the question on sound emission, another important question
+to ask 1s: How much air ends up in the water? The answer is relevant, for example, in climate
+models, in which models for the atmosphere are coupled to those of the ocean. To answer
+this question, Prosperetti and coworkers had employed boundary integral methods [72-74],
+finding very good agreement with the experimental results.
+
+In the late 1990s and in the first two decades of this century, the development of digital
+high-speed cameras has boomed, ever increasing in frame-rate, resolution, and storage, and
+lowering in price considerably. That gave us the opportunity to look into the impact events
+and the subsequent void collapse in more detail. This line of research was also triggered by
+single bubble sonoluminescence, namely to analyze in detail the hydrodynamic singularity
+at collapse; here not the spherically symmetry bubble collapse, but the axially symmetric
+void collapse. In fact, mathematically the collapse of the void formed after impact can
+approximately be described by a two-dimensional Rayleigh equation [75-79] analog to the
+3D Rayleigh equation (1), which has been so successful in describing the collapse of the
+sonoluminescing bubble. The 2D version of the inertial part of the Rayleigh equation reads
+RR + R? = 0, with the singularity solution R(t) x (t;, — t)'/2. However, the collapse of a
+void emerging at impact is not purely 2D and correction terms emerge. Indeed, experimental
+studies have found that the exponent of the power law is higher than 1/2 (typical values
+found are 0.54 — 0.60) [77-82] and theoretical studies have shown that the exponent indeed
+has a weak dependence on the logarithm of the remaining collapse time, approximating to
+1/2 only asymptotically at the end [83-85].
+
+To analyze these questions in a controlled way, rather than letting droplets or spheres fall
+on a water surface, we pulled a disk with controlled velocity V (defining the Froude number
+Fr = V?/(gRgs,) as dimensionless control parameter) through the air-water interface and
+performed high-speed imaging of the void collapse and jet formation [79, 82, 85]. Figure 10a
+shows how the cavity develops and then collapses due to the hydrostatic pressure from the
+side. At singularity two jets emerge (figure 11): one upwards straight into the air, the other
+downwards into the developing bubble. Just as in 3D the focusing power of the collapsing
+(sonoluminescing) bubble is converted into sound and light emission (and of course heat),
+in 2D this focusing power is converted into the jet formation. As one can see from figure
+10a, excellent agreement between experiments and the boundary integral simulations can
+be achieved. Even the effect of the air flow can be included [87], which reverses during the
+collapse from downwards during void formation to upwards during void collapse, leading to
+a supersonic air flow out of the closing void.
+
+15 15

@@ -1,0 +1,51 @@
+Sonoluminescence and sonochemiluminescence from a maicroreactor 13
+1800
+1 Luminol — Low Power
+60s
+5 1400
+©
+= 1200
+E
+3 1000
+=
+; 800
+2 600
+Lc
+T 400
+200 | |
+0
+3 Pits 2 Pits 1 Pit Blank
+Figure 11: Averaged SCL and SL intensities for the different experimental conditions for
+luminol solutions relative to water.
+the one-pit and blank configuration. A bubble cloud reflects and absorbs the sound field
+such that a lower intensity will be experienced by bubbles inside the cloud due to shield-
+ing. This reduces the intensity of the bubble collapse and the active bubble population,
+leading to a reduced SL intensity when compared to conventional multibubble cavitation
+(Zeravcic et al., 2011). As mentioned above bubble collapse in clusters also results in
+smaller expansion maximum radius and shorter collapse times (Yasui et al., 2008a).
+
+It has been modeled and experimentally confirmed for a single bubble that the strength
+of the bubble collapse is affected by its translational movement (accelerated due to added
+mass forces while the driving pressure increases), and that the strength of the bubble
+collapse and its sphericity (i.e., the focusing power) are key ingredients determining the
+SL and SCL intensity (Brenner et al., 1995; Sadighi-Bonabi et al., 2009; Hatanaka et al.,
+2002; Brenner et al., 2002). Indeed, in our experiments higher SL is observed for higher
+power.
+
+Referring back to Figure 3| At high power, for the two- and three-pit cases (two last
+figures in the right column of Figure 13), we see bubble clustering in between the pits,
+leading to a depletion of bubbles directly above the respective pits. Therefore, in these
+cases, the bubbles are actually only cavitating in a thin liquid layer of a width of about
+200 pm above the surface (Fernandez Rivas et al., 2012). Consequently, there is then
+less mutual shielding of the bubbles as compared to the other four cases (one-pit case at
+both powers and two- and three-pit cases at low powers). Additionally, at higher power
+there will be bubbles that expand to a larger size than at lower power, resulting in an
+increase in SL. We also expect that shockwave emissions from bubble clusters and cluster-
+cluster interactions (among microbubble streamers generated at each pit) influence the
+overall SL and SCL in terms of bubble maximum radius and collapse time as has been
+demonstrated before (Yasui et al., 2008a).
+
+Observations at the highest power give evidence that water can occasionally splash out
+from the liquid-air interface due to acoustic radiation force (see supplementary video).
+This has been reported to decrease the efficiency of sonochemical reactions (Tuziuti et al.,
+2010), consistent with the reduced SCL signal at high power and regimes with more than

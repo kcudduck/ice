@@ -1,0 +1,51 @@
+6
+3.1. Potential flow solution
+The potential flow solution 1s obtained by solving the inviscid part of the linearised
+momentum equation
+ou |
+
+FTE Vp. (3.2)
+The magnitude of pressure gradient field (or acceleration field) at short infinitesimal times
+govern the dynamics of bubble collapse at a finite time. To obtain the acceleration we
+introduce the dimensionless pressure p = Pr Note that in the linear problem the
+interface does not move, therefore surface tension effects at short times only introduce
+a correction on the scaling prefactor (po — po.) upon which the solution depends. The
+divergence of equation 3.2 leads to a Laplace equation (V?5 = 0) which can be solved with
+appropriate boundary conditions for p. In particular we impose p = 1 far away from the
+bubble, p = 0 at the bubble interface and 2p = (0 at the solid boundary. The solution of this
+equation depends only on the geometry of the bubble which 1s fully described as a function
+of the contact angle (a). This simplified representation of the fluid fields at short times 1s
+referred as ‘free surface model’ 1n this article.
+
+In figure 2a we start presenting the 1socontours of the magnitude of the non-dimensional
+acceleration (|Vp|) field obtained for a spherical cap bubble with contact angle a = on
+while figure 2b shows the variation of same along the wall in the liquid phase with respect
+to the distance from the contact line obtained from free surface model. The 1socontours in
+the left half are obtained numerically from the free surface model, while on the right half
+are obtained from the DNS of the Navier-Stokes equations (using setup shown in figure 4a)
+accounting for the presence of a gas with non-zero density (p;/ ps = 1073) and a finite value
+of viscosity (u;/pug = 1072) at = = 2.07 - 107°. Good agreement between the two models
+supports the argument that equation 2.2 1s a good representation of the fluid dynamics at
+very short times. We clearly distinguish two separate regions: the far-field where the pressure
+gradient contours are hemispherical caps centred at the axis of symmetry, and the near field
+where the contours for pressure gradient are intricate and diverge on approaching the triple
+contact point. Next, we characterise each of these regions:
+
+3.1.1. Near field
+
+The numerical solution of the interface acceleration at the initial time 1s shown 1n figure 3a,
+where we use the angle with respect to the solid wall 6,,, to parametrise the interface position.
+The origin, 6,, = 0, corresponds to the point of contact between the interface and the solid
+wall and 6,, = 7/2 is the intersection of the interface with the axis of symmetry. Figure 3a
+depicts the local non-dimensional acceleration magnitude at bubble interface |a|/a( for four
+representative cases with a = 7/3, n/2,2n/3,3n/4. The value of the reference acceleration
+1s chosen as ag = oR which 1s the acceleration magnitude for a spherical bubble with
+radius R. and a known pressure difference. As expected, in the case of @ = 7/2, the numerical
+solution recovers the Rayleigh-Plesset solution and the non-dimensional acceleration 1s
+uniform and equal to one all over the interface. When a < m/2 the interface acceleration
+(thus velocity) tends to zero at the contact point, and therefore it seizes to move even In
+the potential flow problem with a slip wall. For a > n/2, the appearance of the singularity
+1s evident as the acceleration diverges as we approach the 6,, — 0 limit. To interpret this
+result one must keep in mind that the general solution of the Laplace equation in spherical
+coordinates can be obtained by separation of variables that leads to an infinite series. This
+series sometimes diverges at the edge where Dirichlet and Neumann boundary conditions

@@ -1,0 +1,37 @@
+with
+: 20 RR, 20 R
+P(R,R,t)=(Pyy — P, + —)(—)* —- = —4y=— Py, + P, — A
+( ) tat 2 R ) R Hp tat
+
+(2)
+where Ry = 10pm is the equilibrium radius of the bubble, Py; = 100K Pa is
+the static ambient pressure, P, = 2.33K Pa is the vapor pressure, oc = 0.0725
+= is the surface tension, p = 998 fod is the liquid density, yu = 0.001 pc is the
+viscosity, c=1500"" is the sound velocity, and k=3 is the polytropic exponent
+of the gas in the bubble. For the premier case with single frequency:
+
+A = P, sin (2mu4t) (3)
+where 1; is the frequency of the driving sound field and P, is the amplitude
+of the driving pressure.
+
+For a dual frequency source:
+
+A = P,[sin (27v1t) + sin (2wat + (4)
+where 15 1s the secondary driving frequency and « is the phase difference.
+3 Results and discussion
+3.1 Bubble dynamics driven by a single frequency
+The dynamics of the bubble driven by a single frequency source were stud-
+ied numerically by solving equation (1). The bifurcation diagram and the
+lyapunov exponent spectrum of a bubble with initial radius of 10pm were
+sketched versus pressure and frequency in a wide range. Figures la — b
+show the bifurcation diagram and lyapunov spectrum of a bubble driven by
+S00K Hz of frequency versus pressure within 10K Pa — 2M Pa. Figure la
+demonstrates the highly nonlinear complex dynamics of the bubble through-
+out the pressure increase, which includes stable period one, period two, four,
+eight, chaos and then period three, period six and once more chaos. Also
+there are two windows of complex periodic behavior inside the second chaotic
+domain. Figure 1b shows its corresponding lyapunov exponent which con-
+firms figure la substantiating chaotic behavior by positive values and stable
+periodic oscillations by negative ones.
+
+4

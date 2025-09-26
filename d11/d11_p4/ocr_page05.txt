@@ -1,0 +1,42 @@
+3
+Far away po
+Pp 0,L
+Is
+x
+,
+op _ R |
+Figure 1: Problem setup and different coordinate systems used in this article i.e. (7, 6)
+and (rg, 6s)
+solution accurately represents the results of DNS (Direct Numerical Simulation). Despite the
+fact that viscosity instantaneously regularise the solution near the singularity and predicts
+finite velocities, the effect of singularity 1s still present outside the boundary layer and it
+explains the changes in the nature of the jet generated. In addition, we show that there 1s a
+direct link between the bubble response at short times and the formation of vortex ring that
+eventually leads to surprising long range interaction effects between the bubble and a free
+surface (see supplementary video) that have not been reported before. These results provide
+a significant advance in the characterisation of the interaction mechanisms between a bubble
+and 1ts surrounding medium and may be a reasoning behind unexplained delayed effects in
+underwater explosions observed by Kedrinskii (1978) and tsunami generation by underwater
+volcano eruptions (Paris 2015).
+2. Problem setup
+We focus on the classical three-dimensional Rayleigh collapse problem for a bubble that
+has a spherical cap shape (figure 1). This choice 1s motivated by the fact that for a spherical
+cap the bubble geometry 1s defined by only two parameters, the bubble radius and the
+contact angle, which simplifies the discussion of the results compared to more complex
+shapes (e.g. ellipsoids) that could be focus of future investigations. We restrict ourselves to
+an axisymmetric configuration where the initial bubble pressure p, o 1s uniform inside the
+bubble and the liquid, 1nitially at rest, 1s at a higher pressure far from the bubble po, > peo.
+This problem represents the solution of a bubble in equilibrium state subjected to impulsive
+action caused by a sudden increase 1n far-field pressure, and 1s also a good approximation
+for the dynamic response of a low pressure bubble after the expansion stage when it reaches
+its maximum radius and the liquid velocity approaches to zero.
+The dynamics of this system is governed by the mass, momentum and energy conservation
+laws, which for the ith component in a multi-component setup 1s given as
+90:
+Pv (pa) =O, 2.1a)
+Ot
+op;u
+oe +V- (paw) = Vp; + 7, (2.1b)
+0(p;E;
+Hot) +V- (p; Eu) =-V- (up;) +V- (T;u). (2.1¢)
+As usual, u represents the velocity vector field, p; 1s density, p; 1s the pressure field and

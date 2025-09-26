@@ -1,0 +1,71 @@
+is different from that corresponding to the appearance
+| of subharmonic components, and the increase in /
+leads to a change in the bubble pulsation character
+© and the mechanism of transferring the energy, accu-
+| mulated by the bubbles, to the system. On the other
+| hand. the instant, 7. that developed cavitation starts
+| (corresponding to a jump in N) is accompanied in
+| most cases by a jump in the 2f subharmonic.
+4 However, the instant that developed cavitation appears
+| and its activity may be fixed most exactly and non-
+° | inertially by registering sonoluminescence; for small
+= | light fluxes, one should register the counting speed, N, and
+| for large fluxes the photomultiplier total current. This
+> appears to be the first practical application of
+| sonoluminescence in these techniques.
+| The term "developed cavitation threshold’ is used to
+| denote (a) the instant that cavitation begins and (b) the
+| minimal intensity, /,;,. which gives rise to developed
+| cavitation. The first usage 1s quite natural, but the
+ob — — = — - second. despite the descriptiveness of 7, and the
+| convenience of its use in many important equations
+| (see below), denotes a rather undefined and nearly
+irreproducible parameter. If fact, /;;, depends strongly
+I, 0 2 4 on the length of time preceding cavitation evolution,
+log 7 the size of the steps by which 7 increases, the volume
+and homogeneity of the liquid sample, etc. Hence.
+Fig. 6 Dependence of the average number of cavitation bubble pulses neither the definition of l,. nor the time preceding
+On acoustic wave Intensity cavitation to which /;, corresponds can be established.
+Extrapolating [;, to an indefinite time before cavitation
+1s impossible because of the irreproducibility of
+where the average number of pulses N = na V,,/iT,, oa men’ for cfferent quid samples and ne
+where nn. 1s the stationary concentration of bubbles. Shalp decrease ‘ the deve oped cavitation strengt 0
+Von 1s the volume within the photomultiplier field of a liquid where cavitation has arisen if only once.
+ph P p
+view and 7 1s the average number of bubble pulsations Since. 1n most experiments, the liquid 1s used after the
+(before the "collapse’). Since no. ~ 10° cm™? (as in the beginning of developed cavitation, the equations
+hologram in Ref 43), / ~10° when I ~/;, describing the cavitation field energetics have an 7,
+At high intensities, 1 — | and naturally there are no which Hoes no! denote the pquid Initial cavitation £
+time irregularities. The i(/) function is shown on a strengl ata slowly increasing f, but the strength, fig.
+logarithmic plot in Fig 6. Also shown are values from a stationary liquid in which developed cavitation has
+Ee P E alrcady arisen. As, generally, £${ < [, the narrow range
+Refs 23 and 55, and the value of i determined Y = Ye lth 5 8
+_ Tk Co 8 : of the small value 3 changes the difference (/—/) to
+experimentally by Gimenez®® for a small local region | C. :
+: ee only a small extent. (The superscript st will be omitted
+which contained one cavitation bubble and an average c It below
+of one splash per five oscillation cycles. At / 250 W rom fi, below.)
+cm”, 7 becomes greater than unity. because the bubble The existence of the prethreshold light emission of a
+has no time to “collapse” during one cycle’. liquid allows the conclusion that certain sonochemical
+In connection with studying the harmonic components reactions should, mn principle, occur before the
+of cavitation noise’®¥’, Margulis and Grundels* developed cavitation threshold. In much the same way
+investigated their change at the threshold intensity. as the weak prethreshold hight €M1SS10N 1S SUper-
+Ultraharmonics with frequencies 2f 3. 57... . did not imposed on the sonoluminescence. the prethreshold
+undergo any pronounced changes at the instant, 7. that sonochemical reactions run in parallel with conven-
+developed cavitation begins; therefore. registration of tionally observed ultrasound chemical reactions:
+ultraharmonics or a noise does not allow one to fix however. these reactions may be detected only by
+distinctly the initiation of developed cavitation. special experimental procedures.
+To register this, 1t 1s better to obtain a '2f subharmonic The chain mechanism of cavitation bubble multiplica-
+component of the noise. Comparison of the amplitude tion was first hypothesized by Rosenberg and
+of this subharmonic with the light intensity has shown Sirotyuk®. Analysis of available experimental data
+that there 1s no correlation between these characteristic makes it possible to refine many of the details of this
+manifestations of bubble movement in an ultrasonic process and postulate the following chain of events in
+ficld®®, either near the developed cavitation threshold a hquid affected by acoustic oscillations: pulsation and
+or at high intensities. An tensity /~2 W cm? growth of microbubbles in the liquid up to the reso-
+resulted 1n a decreasing %2f subharmonic component nance size (for one reason. as a result of the study of
+and increasing amphitudes of ultraharmonics within low-frequency acoustic fields** 76 because of the
+the spectrum of cavitation noise. At this time. limiting coalescence caused by Bjerkness forces, and for
+counting speeds (Nyx ~ f) were registered when another, when dissolved gas 1s sucked 1n because of
+operating in the quanta counting regime. Thus, the straightened diffusion®®-°?); loss of stability of bubbles
+bubble movement corresponding to the light emission near the resonance size; bubble destruction and sepa-
+ULTRASONICS . JULY 1985 163

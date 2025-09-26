@@ -1,0 +1,37 @@
+3b that after applying the secondary frequency, no chaotic behavior occurred
+within 1.55 — 2M Pa, which used to appear in the system driven by a single
+frequency. The according lyapunov spectra have been outlined in figure 4.
+The dashed line corresponds to the situation in the absence of the secondary
+frequency. The solid line corresponds to the secondary frequency employed
+situation. This figure indicates a significant abatement of the lyapunov expo-
+nent from positive values to negative ones after the proposed technique was
+engaged. The controlling phenomenon has also been granted by plotting the
+normalized bubble oscillations versus time in a certain value of the pressure
+before and after control in figure 5.
+In order to show the capability of the proposed method to control the chaotic
+oscillation versus other parameters, we have plotted the bifurcation diagram
+of the bubble versus its initial radius, before and after control, in figures
+6a — b. The frequency and the amplitude of the driving force are 300K H z
+and 1M Pa, respectively. A secondary frequency of 1M Hz is introduced
+while the phase difference is pi/4. Results indicate its controlling effect by
+reducing the chaotic oscillations to regular behaviors of period 4 — period
+3 — period 8 through bubbling bifurcation and again, period 4 in the ini-
+tial radius of the range 37.3um-39um. Also the normalized oscillations of a,
+bubble with 37.6m, before and after applying the secondary frequency, are
+shown in figures 7a — 0.
+3.3 Effects of the phase difference on the dynamics of
+
+a dual frequency driven bubble
+In bubble cavitation applications, the optimization of the control parameters
+like viscosity and surface tension is mainly imposed by the media. Other
+control parameters like pressure, initial frequency and initial radius are de-
+termined by the sort of application. In dual frequency method the secondary
+frequency and the phase difference can be conveniently dealt with to reach a
+proper choice.
+Two different circumstances were considered to understand their role:
+1. Under a constant secondary frequency, its phase difference with the pri-
+mary frequency is varied.
+2. The amplitude of the secondary frequency is varied while the phase dif-
+ference is held constant.
+
+§

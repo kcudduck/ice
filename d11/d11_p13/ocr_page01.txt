@@ -1,0 +1,57 @@
+JOURNAL OF GEOPHYSICAL RESEARCH, VOL. 99, NO. B6, PAGES 11,859-11,877, JUNE 10, 1994
+Volcanic tremor: Nonlinear excitation by fluid flow
+Bruce R. Julian
+U.S. Geological Survey, Menlo Park, California
+Abstract. A nonlinear process analogous to the excitation mechanism of musical wind instru-
+ments and human vocal cords can explain many characteristics of volcanic tremor, including (1)
+periodic and “chaotic” oscillations, with peaked and irregular spectra respectively, (2) rapid pul-
+sations in eruptions occurring at the same frequency as tremor, (3) systematic changes in tremor
+amplitude as channel geometry evolves during an eruption, (4) the period doubling reported for
+Hawaiian deep tremor, and (5) the fact that the onset of tremor can be either gradual or abrupt.
+Volcanic “long-period” earthquakes can be explained as oscillations excited by transient distur-
+bances produced by nearby earthquakes, fluid heterogeneity, or changes in channel geometry,
+when the magma flow rate is too low to excite continuous tremor. A simple lumped-parameter
+tremor model involving the flow of an incompressible viscous fluid through a channel with mov-
+able elastic walls leads to a third-order system of nonlinear ordinary differential equations. For
+different driving fluid pressures, numerical solutions exhibit steady flow, simple limit-cycle os-
+cillations, a cascade of period-doubling subharmonic bifurcations, and chaotic oscillations con-
+trolled by a strange attractor of Rossler type. In this model, tremor occurs most easily at lo-
+cal constrictions, and fluid discharge is lower than would occur in unstable steady flow.
+Introduction of some long-period events are abrupt enough that their
+Volcanic tremor is a persistent ground vibration that arrival times at different seismometers can be used to
+is observed only near active volcanoes and is often estimate source locations using conventional seismological
+accompanied by evidence of subterranean magma, motion methods. Occasionally, tremor episodes have similar abrupt
+[Shimozuru et al., 1966; Koyanagi et al., 1987]. It frequently onsets, but more commonly they begin gradually [Hofstetter
+precedes, and almost always accompanies, eruptions [Fehler and Malone, 1986]. Figure 4 shows seismograms for the
+1983; McClelland et al., 1989], although it can also occur sudden onset of a tremor episode and a long-period
+without any associated eruption [Kubotera and Otsuka, e€arthquake obtained at Mount St. Helens by Fehler
+1970; Kubotera, 1974; Chouet, 1981]. Tremor detection is [1983]. They have strikingly similar initial waveforms,
+an important part of most volcano monitoring programs indicating that they originate from similar physical
+[Fehler, 1983; Hurst, 1985; McNutt, 1987]. Spectra of tremor Processes occurring in practically the same place. Some
+usually contain a series of narrow peaks, sometimes regularly long-period events last for several minutes and die out very
+spaced, which suggest the modes of oscillation of a resonant slowly, producing seismograms that resemble exponentially
+system [Fehler, 1983; Chouet, 1981]. Figure 1 shows the damped sinusoids. Figure 5 shows such a “long-coda”
+three components of a tremor seismogram and their spectra, €ar thquake, or “tornillo,” from Galeras volcano, Colombia.
+obtained at Sakurajima volcano, Japan [Kamo et al., 1977], Similar earthquakes have recently been observed at Redoubt
+which exhibit an unusually clear series of spectral peaks. volcano, Alaska (S. McNutt, personal communication,
+More commonly, tremor is complicated and chaotic in 1993), Nevado del Ruiz volcano, Colombia (D. Harlow,
+appearance, peaks are less dominant features of its spectra, Personal communication, 1993), Cumbal volcano, Colombia
+and peak spacing is less regular. Figure 2 shows typical (B. Chouet, personal communication, 1993), Meakandake,
+examples, from Pavlof volcano, Alaska [McNutt, 1986]. A Tokachidake, Tarumaisan, Asamayama, and Kusatsu-
+comprehensive bibliography on volcanic tremor has recently Shiranesan volcanos, Japan (H. Okada, unpublished data,
+been published by McNutt [1989). 1993), and Ciremay and Marapi volcanoes, Indonesia (H.
+Volcanic earthquakes referred to as “long-period events” Okada, unpublished data, 1993). In many respects, the
+have spectra similar to tremor and probably are closely Phenomena of tremor and long-period earthquakes grade
+related to it. Figure 3 shows seismograms of a long- into one another, and they probably are related genetically.
+period event and an ordinary earthquake of similar size, Despite its importance for understanding and monitor-
+observed at Mount St. Helens by Fehler and Chouet Ing volcanic activity, tremor generation is still poorly un-
+[1982]. Tremor often resembles a sequence of long-period derstood. Proposed tremor-generating mechanisms include
+events spaced closely in time [Minakami, 1974; Havskov Te€sonance of rock “laminae” adjacent to magma conduits
+et al., 1983], and swarms of long-period events sometimes [Omer, 1950], “flow crises” caused by supersonic flow of
+evolve into continuous tremor [Latter, 1981]. The onsets gases [Steinberg and Steinberg, 1975] or vesicular magma
+|Chouet et al., 1993], the flashing of water to steam [Pol-
+This paper is not subject to U.S. copyright. Published in 0 (2D 43, BEE Dlenues 1985], and jerky propagation of
+ER 5p iy Aerator, @esd vite] Whiten magma-filled cracks [Aki et al., 1977; Chouet, 1981]. Most
+current theories consider tremor to be an acoustic resonance
+Paper number 93JB03129. in the network of magma channels feeding a volcano [St.
+11,859

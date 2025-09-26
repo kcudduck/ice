@@ -1,0 +1,26 @@
+and crystallized PVP matrix component, respectively. Similarly, the Al reference ICDD
+PDEF-2: 04-0787 CIF file generated XRD pattern plotted as Al_generated, matches well
+with that of the RTSC/3PVP-2Al composite product Al phase completing
+crystallographic phase identification step. No other impurity phase corresponding to
+the initial untreated precursor and other reaction generated unwanted phases are
+observed, even though the sonocrystallization process progress is achieved at RT. Ice
+cooled chilled water maintained at 20 °C is circulated all around the sonochemical
+reaction vessel to dissipate bulk solution heat accumulation during 2 h long continuous
+mode sonochemical processing.
+
+Among the allotropes of carbon, hexagonal GC crystal form in ABABAB...
+carbon layers stacking sequence is a fascinating microstructural feature enriching
+extensive research and development activities [390]-[396]. Significantly, this carbon
+forms layers one above other in parallel stacking (see fig. 4 13 (a)) which makes GC soft
+and slippery nature due to contributions of these carbon layers facile expansion along
+the c-axis. These ¢/2 stacked carbon layers are the x-ray diffracting entities that produce
+a pronounced (002) diffraction peak, representing layers spacing. Any changes to this
+¢/2 spacing brought in can easily be tracked by XRD measurement. The inset shown in
+fig. 4 13 (a) is the XRD patterns of graphite, and one of its c-axis expanded structures,
+indicates this one to one correspondence of c-axis stretching leading to XRD peak shift
+to lower angles. It is important to note here that for material under stress-strain
+investigation, in the elastic region below, yield point stress is proportional to strain
+[397]. A graphical schematic of the generic physical shape for materials stress-strain
+curve in both the elastic and plastic regions is plotted in tig. 4 13 (¢).
+
+26

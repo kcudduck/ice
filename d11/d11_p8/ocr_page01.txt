@@ -1,0 +1,50 @@
+Published Ultrasonics Sonochemistry, Volume 19, Issue 6, 1
+November 2012, Pages 1252-1259
+Sonoluminescence and
+sonochemiluminescence from a microreactor
+a
+— By DAVID FERNANDEZ RIVAS, !7
+SS MUTHUPANDIAN ASHOKKUMAR, 2
+@\ THOMAS LEONG, 2 KYUICHI YASUI, 3
+ol) TORU TUZIUTI, SSANDRA KENTISH, 2
+— DETLEF LOHSE ' AnD HAN J.G.E.GARDENIERS !
+< ' University of Twente, Enschede, The Netherlands
+of ? School of Chemistry, Department of Chemical and Biomolecular Engineering, University of
+Melbourne, Australia
+fe) > National Institute of Advanced Industrial Science and Technology, AIST, Moriyama ku,
+o, Nagoya, Japan
+- (Received November 27, 2024)
+= Micromachined pits on a substrate can be used to nucleate and stabilize microbubbles in
+¢) a liquid exposed to an ultrasonic field. Under suitable conditions, the collapse of these
+: bubbles can result in light emission (sonoluminescence, SL). Hydroxyl radicals (OH:
+os ydroxy
+¢) generated during bubble collapse can react with luminol to produce light (sonochemilu-
+"TA minescence, SCL). SL and SCL intensities were recorded for several regimes related to
+AN g
+> the pressure amplitude (low and high acoustic power levels) at a given ultrasonic fre-
+= quency (200 kHz) for pure water, and aqueous luminol and propanol solutions. Various
+far arrangements of pits were studied, with the number of pits ranging from no pits (com-
+parable to a classic ultrasound reactor), to three-pits. Where there was more than one
+— pit present, in the high pressure regime the ejected microbubbles combined into linear
+> (two-pits) or triangular (three-pits) bubble clouds (streamers). In all situations where a
+TA pit was present on the substrate, the SL was intensified and increased with the number
+\O of pits at both low and high power levels. For imaging SL emitting regions, Argon (Ar)
+- saturated water was used under similar conditions. SL emission from aqueous propanol
+oO solution (50 mM) provided evidence of transient bubble cavitation. Solutions containing
+0.1 mM luminol were also used to demonstrate the radical production by attaining the
+-
+a SCL emission regions.
+wo
+>
+><
+= 1. Introduction
+A well known effect of ultrasonic irradiation in a liquid is acoustic cavitation, which is
+the nucleation and consequent collapse of bubbles (Ashokkumar et al., 2007). Sometimes,
+bubbles can cavitate in phase with the applied sound frequency. These bubbles behave
+as “individual micro-reactors”’, as they are often accompanied by a violent collapse that
+leads to high pressures and temperatures within and in the local vicinity of the bubbles
+(Lohse, 2005; Didenko & Suslick, 2002; Brenner et al., 2002). Among the events generated
+during such collapses, some can be identified as plasma formation, lysis of molecules
+yielding radicals (water molecule sonolysis is a well known example), strong pressure
+shockwaves, liquid jetting and surface erosion. Although the driving condition is constant
+7 Email address for correspondence: d.fernandezrivasQutwente.nl

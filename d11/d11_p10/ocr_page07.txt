@@ -1,0 +1,60 @@
+7
+The validity of this definition of the velocity potential is with the quantities ¢+u and ¢—u being so-called Riemann
+further discussed together with the limitations presented invariants'®'. For a plane wave (a = 0), the Riemann
+by the dimensionality coefficient « in Section III C. invariant ¢ + u propagates with constant value along the
+In principle, the method of characteristics may be ap- right-going characteristic with speed c+ u, whereas ¢ —u
+plied to solve the wave equation governing the velocity propagates with constant value along the left-going char-
+potential and any of its derivatives, even though an ana- acteristic with speed ¢ — u. When the right-hand side,
+lytical solution is not readily obtainable due to the contri- which accounts for the geometric divergence of, for in-
+butions of O(u?).”” The Kirkwood-Bethe hypothesis stip- stance, cylindrical (aw = 1) or spherical (a = 2) domains,
+ulates that the quantity g = 0¢/0t, as given by Eq. (30), is not zero, the Riemann invariants ¢ + uv and ¢ — u do
+is constant along an outgoing characteristic, satisfying** not propagate with c+ uv and c¢ — wu, respectively. Hence,
+quantities that are invariant along outgoing characteris-
+| = 0, (31) tics of a curved wave do not propagate with speed c+ wu,
+dt |, rendering Eq. (33) an approximation that becomes more
+where the derivative operator along an outgoing charac- accurate as a curved wave moves outwards or when the
+teristic is defined as velocity is small with respect to the speed of sound®?. As-
+suming the (dominant) fluid flow is the result of the bub-
+= _ [2 n 7 0 (32) ble motion and the associated acoustic emissions only,
+dt|., ot dt| Or the velocity is © oc r=? in the far field and, hence,
+oh
+Observing that small disturbances to the velocity po- the nish ne is of Eq. (35) decays rapidly with rt,
+tential of the fluid propagate like a wave according to Considering a plane acousti th i. fi
+Eq. (25), i.e. with speed c relative to the flow, Kirkwood 1 locit 5 bP eke J the N Pe
+and Bethe’ proposed to approximate the propagation Re p1/ (pe) " . * 0 ° ne 0 acouBuE
+speed along an outgoing characteristic by DYESSHLE Pi, WAHEED) P1 a 11 JOTOW HOT VIE ERPalis
+sions p = pg + p1 and © = ug + uy, and where sub-
+dr script 0 denotes the reference or ambient properties of
+7 = C+ U. (33) the flow field. However, u; and p; of a curved wave are
+© not in phase'®?. As a consequence, the specific acoustic
+impedance z = pj /u; experienced by a curved wave is
+C. Limitations complex, given for a spherical harmonic wave as'®%1%°
+(kr)? + ikr
+The assumption of a constant value of g = r®/2(h — “= pe 1+ (kr)? (37)
+hoo + u*/2) along outgoing characteristics can be justi- Co
+fied by the conservation of specific energy when dissi- which is dependent on the wavenumber k and radial CO-
+pative effects are neglected, as it follows from the tran- ordinate 7, and where i denotes the imaginary unit. For
+sient Bernoulli equation. However, the assumptions that large r, the imaginary part (specific acoustic reactance)
+the acoustic potential is ¢ = 7/24) and propagates with vanishes and the real part (specific acoustic resistance)
+speed ¢ + u may entail errors. approaches the specific acoustic impedance of a plane
+A plane finite-amplitude acoustic wave moving in one wave, z = pc, whereas the imaginary part dominates for
+direction (cf. simple wave) propagates with speed c-+u,77 small r. KBH models do not account for this complex
+and ¢ + u are the eigenvalues of the Euler equations for acoustic impedance and the associated error is investi-
+plane waves,'® meaning that plane waves travel with the gated in Section IX B.
+local speed of sound c relative to the flow®’. Moreover, The dimensionality coefficient a defines the dimen-
+Eq. (33) reduces to the asymptotic speed c in the far sion and symmetry of the considered problem. Inserting
+field, since u — 0 for r — oo, and is consistent with the ¢ = r*/?1 in the corresponding wave equation, Eq. (29),
+Chapman-Jouguet condition!" '®" for detonation waves. reads as
+However, the propagation speed c + u is not exact. This 1 2 (1r/24)) 02 (19/24) 2 902 1 Ou
+can be seen by considering the Riemann function ¢ for 2 92 92 a2 (5 + 345) :
+an isentropic flow! ¢ 4 ¢ 4
+(38)
+¢ = / dg dp _ / " dh (34) which, after expanding the left-hand side and dividing by
+pos PC he, C r%/2 becomes
+Introducing ¢ into the continuity and momentum equa- 1 0% 0% ao ao — 2)
+tions, Eqs. (16) and (17), yields 2 92 (Go + 7) pz VY
+N———
+tw + ctw o(ctu) = —2 (35) vi, Ba (21)
+ot or r 1 [O0u® 1 Ou?
+9, 9, UC =—=|—+=-u—1]. (39)
+(6 —u) + (c—u)z-(c —u) = (36) c? ot 2 )

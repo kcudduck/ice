@@ -1,0 +1,47 @@
+and finally
+T'—s
+/ 2M (2) < Ei(s) + Ey (T — s). (4.17)
+$) S
+Therefore, combining (4.15), (4.16), (4.17) and the second part of assumption (4.9) we obtain, for
+e > ( sufficiently small,
+1T'—s ik
+/ / Vz|*dQdt < Ei(s) + Ei (T — 5) + | Dats)as
+S () 0
+T—s
++ [BO | F24Q + 1212s rsx) (4.18)
+Now, given the definition of £7, we need an estimate for the kinetic energy in order to continue.
+For that, we multiply (4.1) by z and again integrate by parts over (s,7 — s) x {2 to obtain
+T'—s I'—s
+/ / bIVz|? — 2} | dQdt + | | surat =
+S () S I)
+T—s I'—s T—s
+-/ | Juuso — / cd vf / fzdSdt. (4.19)
+S Q Q S S 2
+Identity (4.19) implies the following upper estimate for the kinetic energy
+T—s T'—s T'—s
+/ / | 2:|2dQdt < [Ey (s) + Ei (T — s)] vf / IV 2|*dQdt vf [ #0, zara
+S (2 . S (2 S |} (4.20)
++ Da(s)is + [ faq + 121122 6. r—s: £2)
+and then combining (4.18) and (4.20) |adding and subtracting the boundary term defining [|AY/2z]]?
+from the gradient], and noticing that the term ||vy'/?u|| in E1(¢) can be obtained by the first two, we
+conclude
+T'—s 1
+S 0
+T—s
+o [BO | + lari (4.21)
+where
+~ 1
+BT) := 5 (2; — b|V2|?) (h-v)dD + b | 0, zMp(z)dl" + / 20, zdl" + vo | z2dl (4.22)
+I I I To
+We notice that for all the computations carried out so far we only needed the second part of
+our geometric assumption, that is, it would work with any C?-vector field such that its Jacobian is
+strictly positive. Only now, in the analysis of the boundary term B(I') will we use assumption (4.92)
+to prove the following lemma.
+Lemma 4.4 (Key Lemmma). The boundary term B(T) satisfies the following estimate
+T'—s 1T'—s
+/ BD) (1)dt < Ey(s) ve | V2 | 2d
+S - S
+ye / Da ()ds + Crl| F320) + Crlots(2), (4.23)
+0
+where lots(z) has the properties stated in Proposition (4.3).
+17

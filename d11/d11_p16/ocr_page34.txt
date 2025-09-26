@@ -1,0 +1,52 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+A
+@ | Fa 0) fro
+Nr BEE =
+- GREET Rap. 3] |
+Tig S EX XQ 0 La ;
+; ~ 09 ERR, 5)
+3 ~ Re
+5 Oo," CCB
+: 0.8 IN Bg,
+- S) %o @
+CEE Er ) iin TY = o o
+rp EN Ng | 0.7 o
+Bubbles generated RERART BRE ER RAG. Q
+06 0 1 2 3 !
+04 global (90)
+FIG. 26. (a) Sketch of the envisioned bubble drag reduction for naval transportation (Mitsubishi
+corporation, Japan): Bubbles are injected under the ship hull. (b) Drag reduction as function of
+bubble volume concentration in turbulent bubbly Taylor-Couette flow for three different Reynolds
+numbers of the rotating inner cylinder, namely Re = 0.5-10° (red data), Re = 1.0-10° (blue data),
+and Re = 2.0 - 10% (yellow data). The vertical axis shows the required torque with bubbles divided
+by the required torque in the single flow case. Figure taken from ref. [196].
+(@) | dl (©) 2 [7 A Ee 3: (g) 0.025 — T
+i } kg Y) BE A
+| Ll Forse hid § . 7
+a PRL Ye AK . ' 0.02 oa = 2%
+: “TF | Pe HB EAS Fat OE - |
+o> | 3 ie R ’ % i i i la w - a = 3%
+“del | SR 0015f a i
+_-— =] ATLA 2 . ba
+| i of AV as lR 2. 50 |
+ois oo 10 mm . “2 mm (h) 10 a =4% 40 Y
+E—_— a = 3% S
+Ou ae: de (9 SE NEY
+| " : = 20 Q_— 2% | 0 — ns 4
+| A 7 3 0 2 4
+z | a= 0%
+= | 0
+~ 1 1 : | 2200 -100 0 100 |
+3 1 | t(s)
+Nl on)
+Ji 10 mm 2 mm
+FIG. 27. (a-f) Snapshots of bubbly Taylor-Couette turbulence (a = 1%, Re; = 2 - 10°) with
+increasing magnification (as shown by the scale bars). In the first row no surfactants (a-c) are
+present in the turbulent flow, whereas the second row (d-f) shows the (statistically stationary)
+situation after addition of 6 ppm Triton X-100. In the left photos the Twente Turbulent Taylor-
+Couette (T° C) apparatus [210] can be seen. (g) Friction coefficient cs as function of time for various
+bubble volume concentrations a. The surfactant is added at time t = 0 s. (h) Corresponding drag
+reduction DR (in %) as function of time. The inset shows how the drag reduction depends on the
+bubble volume concentrations: open circles: without surfactant; stars: with surfactant. Figures
+taken from ref. [211].
+34 34

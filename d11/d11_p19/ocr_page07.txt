@@ -1,0 +1,91 @@
+Flowers: Glacier hydromechanics — insights and legacy of lken’s works 1075
+
+than the traditional sliding relation, they are now being for a meticulous review. Financial support came from the
+
+incorporated into numerical ice-flow models (e.g. Bueler ~~ Natural Sciences and Engineering Research Council of
+
+and Brown, 2009; Pimentel and others, 2010). Canada, the Canada Research Chairs Program and Simon
+
+Fraser University.
+
+CONCLUDING REMARKS
+
+lken and colleagues have contributed to our understanding REFERENCES
+
+of glacier hydromechanical processes from both theoretical | |
+
+and empirical perspectives. This places Iken among an elite ~~ /83ssiz, L. 1847. Systeme glaciaire ou recherches sur les glaciers,
+0. : : leur mécanisme, leur ancienne extension et le role qu’ils ont joué
+
+few to have made seminal contributions in both glacio- oa )
+
+: : dans l'histoire de la terre. Premiere partie. Nouvelles études et
+logical theory and field observation. She is uniformly i.
+
+) Se ) expériences sur les glaciers actuels, leur structure, leur progres-
+praised by her colleagues as a scientist with strong physical sion et leur action physique sur le sol. Paris, Victor Masson.
+insight and a deep understanding of the processes she Alley, R.B. 1989. Water-pressure coupling of sliding and bed
+studied. The research methods of the day were labour- deformation: I. Water system. J. Glaciol., 35(119), 108-118.
+intensive, whether through the use of punch cards for Alley, R.B. 1993. In search of ice-stream sticky spots. J. Glaciol.
+numerical modelling or manual theodolite measurements 39(133), 447-454.
+recorded in a field book to track sub-daily variations in Alley, R.B., D.D. Blankenship, C.R. Bentley and S.T. Rooney. 1986.
+glacier flow speed. Such circumstances required a degree Deformation of till beneath Ice Stream B, West Antarctica.
+of patience and perseverance perhaps less familiar to those Hature SEO 7 cedbacke
+of us in the cluster computing and GPS generation of Anderson, R.S. anc 6 others. 2004. Strong eedbacks between
+
+laciolosy. The insichts of Iken and her colleacues were hydrology and sliding of a small alpine glacier. J. Geophys. Res.,
+oh 5): 5 Tet of 5 ¥ 109(F3), F03005. (10.1029/2004JF000120.)
+thereiore, In part, 4 pro uct 0 extraor inary Energy an Anderson, S.P., K.M.H. Fernald, R.S. Anderson and N.F. Humphrey.
+endurance in the field. Subsisting on a simple diet featuring 1999. Physical and chemical characterization of a spring flood
+potatoes, oatmeal and a good supply of Swiss chocolate, event, Bench Glacier, Alaska, U.S.A.: evidence for water
+lken herself was a tireless field surveyor. This made possible storage. J. Glaciol., 45(150), 177-1809.
+the high temporal-resolution measurements that revealed  Bartholomaus, T.C., R.S. Anderson and S.P. Anderson. 2008.
+such phenomena as glacier uplift and short-term accelera- Response of glacier basal motion to transient water storage.
+tion. She had an appreciation for simple measurements Nature Geosci., 1(1), 33-37. |
+throughout her career and was accordingly always Bartholomew, I., P. Nienow, D. Mair, A. Hubbard, M.A. King and
+equipped with a wristwatch, a multimeter and a roll or A. Sole. 2010. Seasonal evolution of subglacial drainage and
+
+; : : acceleration in a Greenland outlet glacier. Nature Geosci., 3(6),
+
+two of ‘Puma band’ (Swiss substitute for duct tape).
+
+Nearly three decades ago lken (1981) showed us that 05-411. _.
+
+n n 1 bound ne <h o h Bentley, C.R. 1987. Antarctic ice streams: a review. J. Geophys.
+there 1s a theoretica | ound on the s ear stress at can e Res. 92(B9), 8843-8858.
+supported by the glacier bed, a result that is just beginning to gjndschadler, R. 1983. The importance of pressurized subglacial
+transform the way we represent the basal boundary water in separation and sliding at the glacier bed. J. Glaciol.,
+condition in ice-flow models. With her colleagues she 29(101), 3-19.
+documented ice-surface uplift as a result of transient water Bingham, R.G., PW. Nienow, M.J. Sharp and L. Copland. 2006.
+storage at the bed and showed that maximum sliding speeds Hydrology and dynamics of a polythermal (mostly cold) High
+were achieved during cavity growth. These insights have Arctic glacier. Earth Surf. Process. Landf., 31(12), 1463-1479.
+been used to interpret short-term velocity fluctuations, Bjornsson, H. 1974. Explanation of jokulhlaups from Grimsvotn,
+among other data, from the Alps, Scandinavia, Svalbard, ~ Vatnajokull, Iceland. Jokull, 24, 1-26. |
+: Bjornsson, H. 1998. Hydrological characteristics of the drainage
+New Zealand, Kamchatka, Alaska, Yukon, the Arctic,
+Pat d the Himal | ac f ¢ and . system beneath a surging glacier. Nature, 395(6704), 771-774.
+ratagonid an © imd dyd d5 We ds Irom pas an presen Blake, E.W., U.H. Fischer and G.K.C. Clarke. 1994. Direct
+ice sheets. From surging and tidewater glaciers to the ICE measurement of sliding at the glacier bed. J. Glaciol., 40(136),
+streams of Greenland and Antarctica, this work continues to 505-599
+provide a basis for interpreting the hydromechanical Blankenship, D.D., C.R. Bentley, S.T. Rooney and R.B. Alley. 1986.
+processes that operate under ice. Given the prominent role Seismic measurements reveal a saturated porous layer beneath
+of dynamics in our current study of the cryosphere’s response an active Antarctic ice stream. Nature, 322(6074), 54-57.
+to climate, we can expect the influence of this work to persist ~~ Brennand, T.A. 2000. Deglacial meltwater drainage and glacio-
+for years to come. dynamics: inferences from Laurentide eskers, Canada. Geo-
+morphology, 32(3), 263-293.
+Budd, W.F., P.L. Keage and N.A. Blundy. 1979. Empirical studies of
+ice sliding. J. Glaciol., 23(89), 157-170.
+ACKNOWLEDGEMENTS Bueler, E. and J. Brown. 2009. Shallow shelf approximation as a
+| am grateful for the opportunity to have contributed to this ‘sliding law’ in a thermomechanically coupled ice sheet model.
+special issue of the Journal of Glaciology and to honour J. Geophys. Res., 114(F3), F03008. (10.1029/2008JF001179.)
+Almut lken and colleagues for their work, which remains as cave N., Luray Al Munoz - Schiavi and C. vazduez po.
+relevant now as it was nearly three decades ago. Generous \ coupled multivalued mode! Tor Ice streams and Its numerica
+: simulation. IMA J. Appl. Math., 71(1), 62-91.
+input from Atsumu Ohmura, Bob Bindschadler, Martin Funk,
+Martin Truff d Martin 1 thi ! c Al " Copland, L., M.J. Sharp and PW. Nienow. 2003. Links between
+artin rutier-an artin uthi, as well as from Almut [ken short-term velocity variations and the subglacial hydrology of a
+herself, I> greatly appreciated. | am grateful to Ben Vautour predominantly cold polythermal glacier. J. Glaciol., 49(166),
+for his bibliographical work, to several colleagues, including 337-348.
+Mauro Werder, Martin Truffer and Martin Liithi, for feedback ~~ Cuffey, K.M. and W.S.B. Paterson. 2010. The physics of glaciers.
+on an initial draft of the manuscript and to Robert Bingham Fourth edition. Oxford, Butterworth-Heinemann.
+https://doi.org/10.3189/002214311796406103 Published online by Cambridge University Press

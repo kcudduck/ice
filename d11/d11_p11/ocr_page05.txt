@@ -1,0 +1,64 @@
+bubbles of ambient radius 5 ym in water. For a low ampli- ]
+tude of the emitter (Uy = 0.3 um), the pressure amplitude 1.9 (a)
+profile is almost a perfect standing wave (Fig. [3h), and F-Srmmm®mmSoBe
+Fig. exhibits the classical picture of a somewhat low P | see” EX ,/ \
+primary Bjerknes force pushing the bubbles towards the 0.5 “vo *
+antinodes (note that the distortion of the force profile in Y
+Fig. is an artifact of the signed logarithmic scale used 0
+in ordinate). In this case, the value of the Bjerknes force 0 0.02 0.04 0.06 0.08 0.1
+mainly owes to the Io term in Eq. (11). 5 o
+10
+5
+10° |
+1.5) (a 7
+(8) 10
+Co ___________ 9
+pr lo
+-E~ PEON JER IalN -11
+| P| 0.5 hN J hS Lf AN 10
+0 ‘oof *\ J * 1 0° |
+0 0.02 004 0.06 0.08 0.1 o
+7 -10
+i -8
+10” -10
+5 b 0 0.02 0.04 0.06 0.08 0.1
+10° + (b) N
+7
+10
+107° Figure 4: Simulation of the sound field and resulting primary Bjerk-
+Fg -11 nes force for 5 ym air bubbles in water, with an emitter displacement
+10 A C0) ah amplitude is Up= 5 um at 20 kHz. (a): Pressure amplitude profile.
+The horizontal dashed line represents the Blake threshold for 5 um
+1 0° bubbles. (b): Bjerknes force exerted on bubbles at each point of the
+domain (with signed logarithmic scale in ordinate). The circles in
+1 0° Fig. (a) represents the stable stagnation points for the bubble.
+10”
+0 0.02 0.04 0.06 0.08 0.1 3.3. Sonotrode
+£ 3.3.1. Experiments with a 12 cm diameter sonotrode
+- NT. Co eld and I In this section we compare the results of our model to
+igure 3: Simulation of the sound field and resulting primary Bjerk- : :
+nes force for 5 ym air bubbles in water, with an emitter displacement cone bubble structures images presented in Ret. 15]. Lhe
+amplitude is Up= 0.3 um at 20 kHz. (a): Pressure amplitude profile. latter work used a 100 cm x 60 cm rectangular water tank
+The horizontal dashed line represents the Blake threshold for 5 um of 40 cm depth, where a sonotrode of diameter 2a = 12 cm
+bubbles. (b): Bjerknes force exerted on bubbles at each point of the driven at 20.7 kHz is immersed at 3 cm below the free
+domain (with signed logarithmic scale in ordinate). The circles in licwid 1 1 (Fj
+Fig. (a) represents the stable stagnation points for the bubble. quid eve 16- ’
+The geometry simulated follows the experimental con-
+For larger emitter amplitude (Uy = 5 gm), the pressure figuration used in Ref. 15] as closely as possible. However,
+amplitude profile is strongly damped near the emitter, as in order to avoid time-consuming 3D simulations, We 16
+already commented in [OL 1] (Fig. dh). This strong at- placed the rectangular tank by a cylindrical one with the
+tenuation produces a noticeable traveling part in the wave = Sal depth and a diameter of 60 cm, and simulate only a
+and thus a large Is term in Eq. which. as shown in half-plane cut in axi-symmetrical mode. The characteris-
+Fig. [b, results in a huge positive force near the emitter ~~ iC of the bottom of the tank is not specified in Ref. 15]
+almost 6 orders of magnitude higher than the maximal but following a similar work by the same authors in which
+force visible in Fig[Bb (note that the scales used in both ~~ the same bubble structures were observed 16], we Con
+figures are identical). The bubbles would consequently be sidered an anechoic tank bottom. Lhe lateral sides of the
+strongly expelled from the emitter, and travel right to the tank were taken as infinitely rigid boundaries, and the free
+first stagnation point which is located somewhat far from liquid surface as infinitely soft. The nonlinear Helmholtz
+the emitter (see the leftmost circle marker on Fig.[dh). The equation with the latter boundary conditions was solved
+occurrence of such stagnation points has been proposed to 11 axi-symmetrical geometry, using the commercial COM-
+be the key mechanism for bubble conical structure forma- ~~ SOL software. |
+tion 1, 14]. We will show in the next section that this is Lhe transducer is also simulated 1 order to account
+partially true, but involves some additional subtleties. for its lateral deformation in the liquid, which, as will be
+seen below, is necessary to catch some experimental fea-
+5

@@ -1,0 +1,68 @@
+15
+du Qo g; dr 5 plane wave forms a shock wave in finite time. At the
+dt (i) — rii(cis— ui) | 9:02 dt (i oo Cig shock front, a frequency-dependent attenuation prevents
+
+©] {01 fluid particles from overtaking the shock front“ ® and, as
+(101) postulated by Rudnick #?!, the stabilization of the shock
+using a suitable integration scheme for ODEs together front is independent of the origin of the acting dissipa-
+: CL. : tion process, such as viscous stresses or thermal conduc-
+with the initial conditions R(7;) and R(7;). Once the new :
+.. tion. This can be observed in numerical simulations,
+radial position r; ; and flow velocity wu; ; of information CL.
+J ’ where a stable shock front can form even in inviscid and
+parcel ¢ are determined, its specific enthalpy is readily Co.
+by Eq. (61) non-conducting flows, if sufficient numerical dissipation
+given by Eq. ( as is present! 78222:223
+7; wy When solving the flow field by propagating the rele-
+hii = hoo j + 73 — 0 (102) vant information along outgoing characteristics using a
+Tig KBH model, the formation of a shock front is signified
+by the intersection of characteristics, as seen in Figure
+from which the local pressure and speed of sound can be 4(a). This intersection of characteristics yields a multi-
+computed using the employed Eos. valued solution, shown in Figure 4(b), that is not physi-
+As an alternative to integrating the velocity using cal. Akulichev et al.” applied the rule of equal areas®’
+Eq. (101), although not used for the results presented to post process the multivalued solutions resulting from
+Hl Section IX, the flow velocity may also be determined intersecting characteristics. Taking a multivalued density
+explicitly using Eq. (69), such that profile as shown in Figure 4(b), the corresponding weak
+ab; 7; solution is obtained graphically by eliminating the mul-
+Uj = —raT2 + — (103) tivalued solution in such a way, that the area under the
+27; ris (Cig + ugg) curve remains unchanged, as illustrated in Figure 4(c).
+Thus, the integral of the multivalued solution and the
+with integral of the discontinuous weak solution of the density
+9 | 7, profile are the same, such that mass is conserved?*. This
+Qi = — R(r) 2 R(r) — R(T) oy implies that the wave on either side of the shock front
+@ cr (Ti) + R(T) remains a simple wave traveling in one direction, with-
+. . . . . 220 .
+if sufficiently small flow velocities are expected. out yefections mirocduced at the iscontinuity os
+Ivany ** proposed to solve the flow velocity and pres- ne © q as Deel pry id o Stu es ol pt
+sure along outgoing characteristics originating at the ih nl crane i alld sono PO to
+gas-liquid interface at selected time instances, after the © N fe ormation oo rtenation OF SHOCK Waves Us
+solution of the bubble dynamics had been tully ob- he the | irkwood-bet © ypothesis.
+tained. Denner and Schenke® presented a Lagrangian Utilizing the Lagrangian wave tracking algorithm mel
+wave tracking algorithm, whereby the flow field is solved tioned in the previous section, Denner and Schenke
+together with the bubble dynamics and the informa- ~~ Proposed to simply discard any information that over-
+tion originating from the gas-liquid interface is tracked takes the information propagating ahead of it, as illus-
+along outgoing characteristics. To this end, Eqs. (100) trated in Figure 5, to account for the formation of shock
+and (101) are integrated together as a coupled system fronts and the associated dissipation. Naugol nykh
+of ODEs by a conventional fourth-order Runge-Kutta described a similar procedure as “clipping of the vertices
+scheme, using the same time step At; as for the inte- °! - profile wen relerting to the cecay of brane SaW-
+eration of Eqs. (96) and (97). ooth waves. is rather simple proce ure aims to ex-
+ploit the argument of Rudnick that the stabilization
+of the shock front is independent of the origin of dissi-
+C. Shock fronts pation. However, even though the results obtained with
+this method are in reasonably good agreement with the
+Because both the particle velocity and the speed result obtained by applying the y ule of equal areas for
+: : shock waves produced by collapsing bubbles”, discard-
+of sound are monotone-increasing functions of the Co . :
+ressure?!5219 the parts of an acoustic wave with a ing information by clipping the density profile does not
+b’ redistribute mass. Hence, this simple shock treatment
+higher pressure propagate faster than the parts of the
+yields an error in mass conservation and overpredicts the
+same wave with a lower pressure. This pressure depen- Co.
+attenuation of the shock front, as observed in Figure 4(c).
+dency of the propagation speed drives a progressive steep-
+ening of the emitted waves and, eventually, may lead to
+the formation of a shock front for waves with sufficiently
+large initial amplitude. These cumulative nonlinear ef- IX. FURTHER INVESTIGATION
+fects may become dominant for Mkr 2 1, where k is
+the wavenumber of the emitted wave, irrespective of the KBH models have been tested and validated
+Mach number M;??Y in the absence of dissipation, any extensively”%:00,01,101=104,125,126,129 "ytilizing high-fidelity

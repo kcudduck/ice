@@ -1,0 +1,91 @@
+The Journal of Organic Chemistry pubs.acs.org/joc
+(117) For leading approaches toward chemical automation, see: focusing effects on particle synthesis and clogging in microreactors.
+
+(a) Li, J.; Ballmer, S. G.; Gillis, E. P.; Fujii, S.; Schmidt, M. J; Lab Chip 2019, 19, 316—327.
+
+Palazzolo, A. M. E.; Lehmann, J. W.; Morehouse, G. F.; Burke, M. D. (127) Aljbour, S.; Yamada, H.; Tagawa, T. Ultrasound-assisted
+
+Synthesis of many different types of organic small molecules using an phase-transfer catalysis in a capillary microreactor. Chem. Eng. Process.
+
+automated process. Science 2015, 347, 1221-1226. (b) Trobe, M,; 2009, 48, 1167-1172.
+
+Burke, M. D. The molecular industrial revolution: automated (128) Banaszak-Léonard, E.; Mangin, F.; Len, C. Barton
+
+synthesis of small molecules. Angew. Chem. Int. Ed. 2018, 57, decarboxylation under ultrasonic continuous flow. New J. Chem.
+
+4192—4214. (c) Bédard, A.-C.; Adamo, A.; Aroh, K. C.; Russell, M. 2016, 40, 7414—7420.
+
+G.; Bedermann, A. A.; Torosian, J.; Yue, B.; Jensen, K. F.; Jamison, T. (129) (a) Ingham, R. J; Battilochio, C.; Fitzpatrick, D. E.; Sliwinski,
+
+F. Reconfigurable system for automated optimization of diverse E.; Hawkins, J. M.; Ley, S. V. A systems approach towards intelligent
+
+chemical reactions. Science 2018, 361, 1220—1225. and self-controlling platform for integrated continuous reaction
+(118) For recent examples of optimization tools, see: (a) Klucznik, sequences. Angew. Chem., Int. Ed. 2015, 54, 144-14 8. (b) Fitzpatrick,
+
+T.; Mikulak-Klucznik, B.; McCormack, M. P.; Lima, H.; Szymky, S.; D. E.; Battilocchio, C,; Ley, S. V. Enabling technologies for the future
+
+Bhowmick, M.; Molga, K.; Zhou, Y.; Rickershauser, L.; Gajewska, E. of chemical synthesis. ACs Cent. Sci. 2016, 2, 131-138.
+
+P.; Toutchkine, A.; Dittwald, P.; Startek, M. P.; Kirkovits, G. J.; (130) Kuhn, 5; Noél, I Gu, L; Heider, P. L.; Jensen, K. F. A
+
+Roszak, R.; Adamski, A; Sieredzinska, B.; Mrksich, M.; Trice, S. L. J.; Teflon microreactor with integrated piezoelectric actuator to handle
+
+Grzybowski, B. A. Efficient synthesis of diverse medicinally relevant solid forming reactions. Lab Chip 2011, 11, 2488-2492.
+
+(131) Kulkarni, K.; Friend, J.; Yeo, L.; Perlmutter, P. Surface
+targets planned by computer and executed in the laboratory. Chem.
+2018, 4, 1-11. (b) Shi, Y,; Prieto, P. L.; Zepel, T.; Grunert, S.; Hein, acoustic waves as an emerging source for drop scale synthetic
+
+chemistry. Lab Chip 2009, 9, 754-755.
+J. E. Automated experimentation powers data science in chemistry. (132) In solids, sound may propagate at speeds much greater than in
+Acc. Chem. Res. 2021, 54, 546-555. (c) Angelone, D.; Hammer, A. J. : bulk 1i 1 . (a) K yb pas I EB. y " B oo hi S. G..
+S.; Rohrbach, S.; Krambeck, S.; Granda, J. M.; Wolf, J.; Zalesskiy, S.; ne og HCHARIES: 18) BUZHESOVE, SB £AIEY, Be 1 Jos SA
+orodina, I. A. Investigation of acoustic waves in thin plates of lithium
+Chisholm, G.; Cronin, L. Convergence of multiple synthetic niobate and lithium tantalate. IEEE Trans. Ultrasonics Ferroelectrics &
+paradigms in a universally programmable chemical synthesis machine. Frequency 2001, 48, 322—328. (b) Auld, B. A. Acoustic Fields and
+Nat. Chem. 2021, 13, 63-69. (d) Shields, B. J; Stevens, J; Li, J; Waves in Solids; John Wiley & Sons, Inc.: New York, 1973; Vol. I.
+Parasram, M.; Damani, F.; Martinez Alvarado, J. I; Janey, J. M,; (133) (a) Lin, S.-C. S.; Mao, X.; Huang, T. J. Surface acoustic wave
+Adams, R. P.; Doyle, A. G. Bayesian reaction optimization as a tool for (SAW) acoustophoresis: now and beyond. Lab Chip 2012, 12, 2766—
+chemical synthesis. Nature 2021, 590, 89-96. 2770. (b) Thompson, M.; Stone, D. C. Surface-Launched Acoustic
+(119) (a) Gogate, P. R.; Sutkar, V. S.; Pandit, A. B. Sonochemical Wave Sensors; John Wiley & Sons, Inc.: New York, 1997.
+reactors: important design and scale up considerations with a special (134) (a) Kelling, S.; Cerasari, S.; Rotermund, H. H.; Ertl, G.; King,
+emphasis on heterogeneous systems. Chem. Eng. J. 2011, 166, 1066— D. A. A photoemission electron microscopy (PEEM) study of the
+1082. (b) Patist, A; Bates, D. Industrial applications of high power effect of surface acoustic waves on catalytic CO oxidation over
+ultrasonics. In Ultrasound Technologies for Food and Bioprocessing; Pt{110}. Chem. Phys. Lett. 1998, 293, 325-330. (b) Mitrelias, T.;
+Feng, H., Barbosa-Canovas, G., Weiss, J., Eds.; Springer: New York, Kelling, S.; Kvon, R. I; Ostanin, V. P.; King, D. A. Effect of acoustic
+2011; pp 599-616. excitation on the rate of CO oxidation over Pt{110}. Surf. Sci. 1998,
+(120) (a) Cintas, P.; Mantegna, S.; Gaudino, E. C.; Cravotto, G. A 417, 97-106.
+new pilot flow reactor for high-intensity ultrasound irradiation. (135) (a) Wu, C.; Zaitsev, V. Y.; Zhigileii L. V. Acoustic
+Application to the synthesis of biodiesel. Ultrason. Sonochem. 2010, enhancement of surface diffusion. J. Phys. Chem. C 2013, 117,
+17, 985-989. (b) Crudo, D.; Bosco, V.; Cavaglia, G.; Grillo, G; 9252-9258. (b) Von Boehn, B.; Foerster, M.; von Boehn, M.; Prat, J;
+Mantegna, S.; Cravotto, G. Process intensification in biodiesel Macia, F.; Casals, B.; Khaliq, M. W.; Herndndez-Minguez, A.; Aballe,
+production with a rotor-stator type generator of hydrodynamic L.; Imbihl, R. On the promotion of catalytic reactions by surface
+cavitation. Ultrason. Sonochem. 2016, 33, 220-225. acoustic waves. Angew. Chem., Int. Ed. 2020, 59, 20224-20229.
+(121) (a) Fernandez Rivas, D.; Cintas, P.; Gardeniers, H. J. G. E. (136) Garcia Lorca, F. Romancero Gitano-Poema del Cante Jondo;
+Merging microfluidics and sonochemistry: towards greener and more Anaya: Madrid, 2006.
+efficient micro-sono-reactors. Chem. Commun. 2012, 48, 10935—
+10947. (b) Fernandez Rivas, D.; Kuhn, S. Synergy of microfluidics
+and ultrasound. Process intensification, challenges and opportunities.
+Top. Curr. Chem. 2016, 374, 70.
+(122) Li, Y.; Liu, X;; Huang, Q.; Ohta, A. T.; Arai, T. Bubbles in
+microfluidics: an all-purpose tool for micromanipulation. Lab Chip
+2021, 21, 1016—1035.
+(123) For a good overview of emerging strategies applied to the
+preparation of pharmaceuticals, see: Campos, K. R.; Coleman, P. J;
+Alvarez, J. C.; Dreher, S. D.; Garbaccio, R. M.; Terrett, N. K; Tillyer,
+R. D.; Truppo, M. D.; Parmee, E. R. The importance of synthetic
+chemistry in the pharmaceutical industry. Science 2019, 363,
+No. eaat0805S.
+(124) Gutmann, B.; Cantillo, D.; Kappe, C. O. Continuous flow
+technology-a tool for the safe manufacturing of active pharmaceutical
+ingredients. Angew. Chem., Int. Ed. 2018S, 54, 6688—6728.
+(125) Cantillo, D.; Damm, M.; Dallinger, D.; Bauser, M.; Berger, M.;
+Kappe, C. O. Sequential nitration/hydrogenation protocol for the
+synthesis of triaminophloroglucinol: safe generation and use of an
+explosive intermediate under continuous-flow conditions. Org. Process
+Res. Dev. 2014, 18, 1360—1366.
+(126) (a) Jensen, K. F.; Reizman, B. J.; Newman, S. G. Tools for
+chemical synthesis in microsystems. Lab Chip 2014, 14, 3206—3212.
+(b) Dong, Z.; Fernandez Rivas, D.; Kuhn, S. Acoustophoretic
+13856 https://doi.org/10.1021/acs.joc.1c00805
+J. Org. Chem. 2021, 86, 13833-13856

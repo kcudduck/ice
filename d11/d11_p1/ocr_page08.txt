@@ -1,0 +1,61 @@
+the dataset 1s divided randomly into k equal sets, and k precision and the recall, but there 1s stronger dependence
+models (called the partitioned models) are trained. The on the number of folds, and its range 1s wider and the
+ith i = 1,2,...,k) dataset 1s called the ith test fold, median 1s smaller. The median recall increases with the
+whereas the other k—1 sets form the ith training fold. The fold number and reaches approximately 85%, which 1m-
+ith partitioned SVM model 1s trained on the ith training plies there 1s a 1 — 85% = 15% chance that f, 1s not
+fold and evaluated on the ith test fold. The overall as- predicted to be negative when it 1s actually negative. The
+sessment 1s based on performance indices averaged over specificity 1s relatively low compared with the other 1n-
+the k partitioned models. dices, but this observation does not necessarily reflect
+
+The most commonly used performance indices are the poorer performance regarding the samples with negative
+accuracy, the precision, the recall and the specificity. For f12. Rather, this behaviour 1s due to the fact that there
+each predictor, the model response could either be posi- 1s only about 3.4% data points on which fi» < 0, thus
+tive or negative; in either case, it could be either true or mis-classification has an outsized impact.
+false. As a result, the response falls in one of four cate- The results presented in this subsection show that,
+gories: a positive response could be a true positive (TP) with kernel scale oo = 0.6, box constraint C = 20, and
+or, coming erroneously from a predictor in the negative tolerance 6 = 107%, the trained SVM classifier can effec-
+class, a false positive (FN), whereas a negative response tively model the distribution of the signs of fi».
+could be true negative (TN) or false negative (FN). Let
+Nrp, Nry, Ngp and Ney be the numbers of TP, TN, FP,
+and FN, respectively. The accuracy 1s defined as 5. Efficiency and accuracy of the combined model
+
+Nrp + N IN. (11)
+N
+which simply gives the percentage of correct predictions ; 7
+in both classes. The precision, recall and specificity are, * 7 JRgRe
+respectively, defined as 16 or”
+Ve
+Nee Nee Nov gy i J
+Nrp + Npp Nrp + Npn Nrn + Nrp i Lo
+
+The precision tells us the probability of a positive re- = 10 pa “6 ©
+sponse being correct; the recall 1s the probability of the a pd N
+positives being correctly identified as positive, while the 7 0
+specificity gives the probability of the negatives being eEP
+correctly identified as negative [17]. ’ 5x Oo
+
+Due to the randomness 1n data partition, the indices av- 2 EB
+eraged over the k partitioned models may fluctuate if the , dl
+cross-validation is conducted multiple times. Therefore, ° ° Lo * 20
+we repeat the validation 32 times to find the medians and fra/ (fr)
+ranges of the indices. The results are plotted in Fig. 9] It Figure 10: The scatter plot for (£1. /(f1.3, £1 /( mY). where (- denotes
+is clear that the accuracy, the precision, and the recall of ~~ averaging over the dataset. 0 ER
+the models are consistently high (more than 98% for all
+of them), although they drop slightly with the number of
+folds while the ranges increase slightly (the error bars for
+the accuracy are too narrow to see on the figure). With 0.9
+fewer folds, the number of data points in each fold, hence 0.8
+in the training set, 1s smaller. Thus the performance of 07
+the partitioned models are expected to somewhat deteri- = 06
+orate. The results for accuracy show that more than 98% 2°
+data points, with either negative or positive fi,, are clas- A
+sified correctly. Meanwhile, the result for the precision -
+shows that there 1s a 98% chance that fi, 1s indeed pos- y
+itive when the model predicts so, and the result for the 0
+recall shows that there 1s a 1 —98% = 2% chance that fi, pone ne oe Be . Lene es
+1s not predicted to be positive when it 1s actually positive.
+
+Fig. 9]shows that the median specificity and its range Figure 11: The probability distribution for the relative error &/ =
+display behaviours similar to those of the accuracy, the i> = fial/Ifp,!
+
+8

@@ -1,0 +1,14 @@
+proposed based on nucleation and growth aspects. This is a consequence of ultrasound
+assist in delivering sufficient mechanical energy to overcome the local energy barrier to
+trigger a small crystalline nuclei nucleation [337]. The evolved crystalline nuclei act as
+the seed for the subsequent growth of large nanofibers. In this context, consistent with
+many previous reports, experimental validation highlighting PVP crystallization to
+graphitic carbon (GC) is shown in figs. 4 8 (a)-(b). Initiation of onion-like stripes after 1
+h (see tig. 4 8 (a)) and filling of such stripes all over the PVP surface (see fig. 4 8 (b)) atter
+2 hrs of ultrasonication in hexadecane is observed. The TEM microstructural data from
+these generated structures locally in HR-TEM (see figs. 4 2 (d)-(f)) and SAED (tig. 4 8
+(e)) mode confirms PVP crystallization. The microstructural data extraction and
+schematic presentation of the same shown in figs. 4 8 (c)-(e), indicates hexagonal GC
+along with c-axis tensile strained in comparison with that of the standard ICDD PDF-2:
+89-7213 tile.
+18

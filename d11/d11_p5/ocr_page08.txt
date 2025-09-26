@@ -1,0 +1,39 @@
+of about 1 — 1.3M Pa to period four regular behavior. There are two small
+other stable regions in about 1.6 — 1.7M Pa and 2.5 — 2.6 M Pa. As seen in
+figure 96, a small domain of regular behavior around 1.2M Pa is created when
+applying the value of 800K H z tor the secondary frequency. Also there is an-
+other stable region in the range of about 1.9 —2M Pa. Both of these domains
+were chaotic before applying the 800K H z of secondary frequency. Figure 9c
+shows the bifurcation diagram when the secondary frequency is 2M Hz. A
+vast region of stable oscillations is generated about 1.9 —2.9M Pa of pressure.
+The oscillations are of different periods and some bubbling bifurcations and
+period doublings are seen. There are other stable domains created in the
+range of about 1.1 — 1.3M Pa and between 1.3 — 1.4M Pa of pressure. Em-
+ploying the secondary frequency of 3M Hz (figure 9d), extremely stabilizes
+the chaotic oscillations in the range of approximately 1.8 —2.3M Pa to period
+one oscillations. Also another stable region is generated about 2.6 M Pa of
+pressure.
+
+In summary we see that like the influence of phase difference, the value of
+the secondary frequency has a strong impact on the dynamics of a dual fre-
+quency driven bubbles. Results show that by applying certain values for the
+secondary frequency we may be capable of controlling the chaotic oscilla-
+tions in different regions of interest. Combining the suitable choice for the
+secondary frequency and the phase difference can help us greatly for this
+purpose.
+
+3.5 Effects of the secondary frequency and phase dif-
+
+ference on the oscillation amplitudes
+As it was seen the maximum oscillation amplitudes may change when apply-
+ing the dual frequency technique. In order to study the effects of variations
+in frequency and phase difference on the oscillations amplitude, firstly in fig-
+ure 10a we have plotted time series of the normalized chaotic oscillations of
+a bubble with initial radius of 50um driven by 300K Hz of frequency and
+1M Pa of pressure. Then the proposed method is applied and the obtained
+results are presented in figure 100 — ¢. In the lett column the phase differ-
+ence 1s varied for a fixed secondary frequency and in the right column the
+frequency is varied for a constant value of phase difference. Results demon-
+strate that certain values of phase difference and secondary frequency may
+stabilize the behavior whereas it can renovate chaos as observed in figures
+8

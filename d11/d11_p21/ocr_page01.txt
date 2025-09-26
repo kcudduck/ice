@@ -1,0 +1,70 @@
+- a mm ] i. it
+Long-period volcano seismicity: its source
+and use in eruption forecasting
+Bernard A. Chouet
+At an active volcano, long-period seismicity (with typical periods in the range 0.2-2 s) reflects
+pressure fluctuations resulting from unsteady mass transport in the sub-surface plumbing
+system, and hence provides a glimpse of the internal dynamics of the volcanic edifice. When
+this activity occurs at shallow depths, it may signal the pressure-induced disruption of the
+steam-dominated region of the volcano, and can accordingly be a useful indicator of impending
+eruption.
+
+THE science of volcano seismology aims to understand the tion regarding the state of the fluid. Seismic events originating in
+dynamics of active magmatic systems, determine the physical fluid processes typically include long-period (LP) events and
+properties of such systems, and map the extent and evolution of tremor. Long-period events resemble small tectonic earthquakes
+source regions of magmatic energy, all of which represent critical in duration but differ in their characteristic frequency range and
+steps in our understanding of eruptive behaviour and in the harmonic signature (Fig. 1). Tremor is characterized by a har-
+assessment of volcanic hazards. A volcano is a characteristic monic signal of sustained amplitude lasting from minutes to days,
+manifestation of the interaction of magmatic activity with the and sometimes for months or longer. In many instances LP events
+surface of the Earth. The important factors defining a volcanic and tremor are found to have essentially the same temporal and
+structure are the duration and rate of magma transport, both of spectral components’, suggesting that a common source process,
+
+which are episodic in character as a result of the inherent differing only in duration, underlies the two types of event.
+instability of magmatic systems at all timescales’. This episodicity Processes occurring in the solid rock manifest themselves
+is reflected in seismic activity, which originates in a volume of the mainly in the form of earthquakes associated with shear failures
+Earth’s crust hosting magma transport paths ranging from well in the volcanic edifice whereas LLP events involve volumetric
+defined loci typified by the feeding conduits and rift zones of single modes of deformation. The former earthquakes act as gauges
+symmetric volcanoes, to bifurcating sets of dykes and sills under- that map stress concentrations distributed over a large volume
+lying basaltic cinder fields, basaltic flow fields, and large silicic surrounding magma conduits and reservoirs. They are named
+systems. This seismicity manifests itself in two distinct types of volcano-tectonic (VT) earthquakes to differentiate them from
+process, namely those originating in the fluid and those originating pure tectonic earthquakes occurring at plate boundaries and
+in the solid. elsewhere, although they are indistinguishable from the latter in
+
+Processes originating in the fluid result in pressure fluctuations their broadband spectral characteristics.
+caused by unsteady mass transport and/or thermodynamics of the Volcano-tectonic seismicity is often the first sign of renewed
+fluid. By their very nature these processes—and, in particular the volcanic activity*'°, and some eruptions have been immediately
+frequencies of the pressure fluctuations—provide direct informa- ~~ preceded by strong short-term increases in VT activity®'’. Pre-
+cursory VT activity may last from days®'’ to months*>’ or even
+| years®®’. Hence VT seismicity can be both a good long-term sign
+| Redoubt he=1d r=8 of potential unrest as well as a good short-term indicator.
+
+NTT In contrast to VT activity, which is generally more spread out in
+
+Mies 10s space and time, LP/tremor activity originates in particular loca-
+Pinatubo fh = 32 r= 11 tions within the magma plexus where disturbances in the flow are
+encountered. This property takes special significance at the locus
+=f of interaction between the magma conduit and the groundwater
+Pinatubo h=1 r=18 system in stratovolcanic edifices, where the internal disruption of
+iy the hydrothermal system and subsequent rapidly developing onset
+| of volcanic eruptive behaviour over periods as short as days to
+Galeras h=1 r=4 weeks, provide a rich source of pressure perturbations and
+AAA Armen nee attendant precursory LP activity. Volcanoes in this state of
+| pressurization are vibrantly ‘alive’ and pulsating.
+
+Galeras  h=1 r=4 Although we are not yet at the point in our understanding of
+—i A dnsAy either type of seismicity for either to be an infallible prediction
+tool, in this author’s view LP activity shows particular promise
+because of its potential for understanding the physical processes
+FIG. 1 Typical signatures of long-period events observed at Redoubt, that lead to its generation and their practical application to
+Pinatubo and Galeras volcanoes. Source depths, h, and epicentral eruption forecasting. Accordingly, I will focus here on LP activity.
+distances, r, in km, are indicated above the seismograms. The traces The work reviewed below has shown that the basic element of
+have been aligned according to the onset of the compressional wave LP activity is the underlying pressurization of magmatic and/or
+
+marked by the arrow. The signatures are all characterized by a harmonic : .
+coda following a signal onset enriched in higher frequencies. These ~~ 1ydrothermal fluids and attendant pressure perturbations, either
+features are best illustrated in the shallow event at Pinatubo (middle trace), ~~ Self-excited or forced, which by their coupling to the solid radiate
+where a high-frequency onset lasting ~ 10 s is seen to merge into a quasi- the characteristic signals of LP events. Crucial to the use of LP
+monochromatic coda lasting ~ 50s. events for extracting information about the state of the fluid is our
+NATURE - VOL 380 - 28 MARCH 1996 309
+
+© 1996 Nature Publishing Group

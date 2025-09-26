@@ -1,0 +1,74 @@
+REVIEW ARTICLES
+Eruption
+FIG. 6 Conceptual model of pre-eruptive processes at a VY
+Redoubt volcano on 13-14 December 1989. a, Sketch b P
+illustrating the spatial relationship between the stationary Hydrothermal m
+LP source, the magma chamber inferred from tomography, Ls is _—~Dome
+the hydrothermal system, and lava dome emplaced during 6
+the previous eruption in 1966. b, Cartoon sketching the Fo Hydrofracture
+pressurization of the magma chamber, P.., and associated o (LP source)
+pressurization of the hydrothermal system, P,,, along with the / 3 2 Mafic
+pressure difference between these two systems, AP. Sig- . LP \ 2 | injection
+nificant events in the pressurization history are indicated by /Magma cc a 0 Pp.
+arrows. Note that the pressure histories depicted are heavily chamber . h: 5
+smoothed to enhance gross behaviour (in reality, these with volatiles uy | SE
+curves are expected to display small-scale fluctuations m | REE TN
+superimposed on the smoothed trends depicted). Episodes
+of LP activity, hydrothermal convection and magmatic con- Time
+vection are shown in boxes beneath the graph, where the
+horizontal extent of the boxes represents the observed LP activity:
+duration of LP activity and inferred durations of hydrothermal
+and magmatic convections.
+amplitude pressure transients producing discrete LP events, to graphs may present unprecedented opportunities to monitor the
+sustained, low-amplitude pressure fluctuations producing tremor. movements of magmatic and hydrothermal fluids before erup-
+The pressure gradient between the two reservoirs continued to tions. Progress in broadband volcano seismology has already been
+decrease for a few hours as the pressure kept on rising in both of ~~ made in that direction with encouraging results",
+them, finally culminating in the dome-destroying eruption. A fuller understanding of the excitation mechanisms of LP
+_ i events and tremor may be achieved through further modelling
+Future directions efforts. Kinematic models such as those discussed above (in which
+The above considerations point to the importance of shallow LP conduit resonance 1s excited via an arbitrary initial condition; see
+activity in forecasting the onset and climactic stages of an impor- Figs 3-5) will need to be replaced by dynamic models (in which
+tant class of highly hazardous volcanic eruptions—namely, the the conduit is self-excited by some disturbance in the flow process)
+stratovolcanoes bordering the highly populated western margin of if we are to understand better the link between seismic signals and
+the Americas, as well as those of the Mexican—Caribbean, Med- fluid processes in a volcano. New studies have brought to light self-
+iterranean and Pacific Basin regions of the world. To benefit fully excitation mechanisms inherent to fluid nonlinearity that point the
+from this new understanding of the processes underlying volcano ~~ way in that direction®”. With the advent of more powerful
+behaviour, however, further elaboration of the physical model of computers, numerical studies of multi-phase flows are improving
+LP activity will be required. Foremost among the challenges facing our knowledge of both the micro- and macrophysics of such flows.
+volcano seismologists 1s a better understanding of the excitation Computer models can now be developed to study various types of
+mechanisms of LP events and tremor in relation to the overall flow instabilities’®, and laboratory experiments can be used to
+process of fluid percolation in a volcano®. The challenge is best anchor numerical results and give further insights into self-excited
+exemplified in the activity of deep LP events (> 10 km depth). pressure oscillations®” that may be adequate models for LP and
+Although a direct link has been observed between shallow LP tremor sources. []
+activity and eruptions, the relationship with deeper LP events is
+less clear. Long-period events occurred at depths near 30 km at B. A. Chouetis at the US Geological Survey, 345 Middlefield Road, MS 977,
+Pinatubo in early June 1991, where they were attributed to a ~~ Menlo Park, California 94025, USA.
+basaltic intrusion which 1s thought to have triggered the processes _—
+leading to the cataclysmic 15 June eruption’”®. On the other 1. Shaw, H. R. J. geophys. Res, 80, 11275-11288 (1985).
+hand, LP events are regularly observed at depths of 30-60 km 2. Chouet, B. A., Page, R. A., Stephens, C. D., Lahr, J. C. & Power, J. A. J. Volcan. geotherm. Res.
+beneath Kilauea, where their occurrence appears to be more 3. onaneg, RY. Chow, B. & AKi, K. Prof. Pap. U.S. geol. Surv. 1360, 1221-1257 (1987).
+directly related to deep magma supply dynamics than surface 4. Endo, E. T., Malone, S. D., Noson, L. L. & Weaver, C. S. Prof. Pap. U.S. geol. Surv. 1250, 93-
+activity”. A low background of deep LP events is not uncommon, 107 (1981).
+. . 5. Pinatubo Volcano Observatory Team Eos 72, 545-555 (1991).
+and may indeed be the rule rather than the exception as accumu- 6. Power, J. A., Jolly, A. D., Page, R. A. & McNutt, S. R. Bull. U.S. geol. Surv. 2139, 149-159
+lating observations now increasingly suggest®”~"". The difficulty (1995).
+here has to do with our lack of knowledge concerning the Loto 1p Eo oe Hootie toga (1999)
+character and dynamics of deep-seated fluid transport under 9. Ida, Y. Nature 352, 571-572 (1991).
+volcanoes. Another difficulty stems from the wide range of time- 10. 100 E., Wunderman, R. & Peng, G. (eds) Smithsonian Instn Bull. Global Volc. Net. 19, 4-7
+scales involved in volcanic processes. Short-period seismology, 11. Newhall, C. G. & Dzurisin, D. Bull. U.S. geol. Surv. 1858, 7-16 (1988).
+which typically covers the bandwidth 1-20 Hz, 1S not by itself 12. McNutt, S.R. Encyclopedia of Earth Science Vol. 4, 417-425 (Academic, 1992).
+. 13. Barberi, F., Bertagnini, A., Landi, P. & Principe, C. J. Volcan. geotherm. Res. $2, 231-246
+sufficient to resolve longer-term processes such as those asso- (1992).
+ciated with mass transport. For example, the timescale of mass 14. pinakam, T. in Physical Voleenology (eds Civetta, L., Gasparini, P., Luongo, G. & Rapolia, A.) 1-
+tr ansp ort between the magma and hydrother mal reservoirs during 15. agora T. Gyoda, N. Koyama, E. & Tsuji, H. in Comparative Studies of Physical Background
+the precursory sequence leading to the 1989 eruption of Redoubt of Volcanic Activity and its Relation to Eruption Disasters (ed. Okada, H.) 92-101 (Hokkaido
+volcano is about a day, which is well beyond the response 16. Shimon. D8 agama. T. in Volcanic Hazards (ed. Latter, J. H.) 504-512 (Springer, Berlin,
+capability of short-period instruments. To document fully the 1989).
+relationship between point-like LP activity and the overall path- 17. Rep. Coordin. Committee on Prediction of Volcanic Eruptions Vol 41, 64-77 (1988).
+. . . 18. Ukawa, M. J. Volcan. geotherm. Res. 88, 33-50 (1993).
+way structure used by eruptive fluids, broadband instruments are 19. Havskov, J., De la Cruz-Reyna, S., Singh, S. K., Medina, F. & Gutiérrez, C. Geophys. Res. Lett.
+required. Sacks—Evertson borehole strain-meters have proven to 10, 293-296 (1983).
+be quite useful in volcanic applications”, and arrays of such 20. 02 en 162 (roo B. A, Page, R. A,, Lahr, J. C. & Power, J. A. J. Volcan. geotherm. Res.
+instruments coupled with three-component broadband seismo- 21. Mufioz, F. A. et al. Eos 74, 281-287 (1993).
+NATURE - VOL 380 - 28 MARCH 1996 315
+© 1996 Nature Publishing Group

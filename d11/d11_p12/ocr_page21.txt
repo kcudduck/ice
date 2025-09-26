@@ -1,0 +1,35 @@
+4.4 Al Characterization
+4.4.1 Nanostructured Al Stabilization
+—— > TNR TOR SOT iE
+a a - - > -» RARE tr Daa X :
+FERS [Dre aha
+vv po | i - a ee oN S We,
+LS | ble ny Fig es ys TEAS
+v4 3 a i i? sof Sin 3 = |
+ht r a. 200.nm 200m y BET ANE
+[I pat¥bins (w=100 nm [J pata bins(w=10 nm) he ata bins (w=7 nm
+(d) : eC F (1 =0.95 (e) iF ('=0.995) (1) ——— 0 Feb
+—~50 J ¢= (359160) amy |-5 7 d=(44 + 13) nm | | ~40 d=(15.6 + 9) nm
+S XT S hl
+z" 3 zot |
+= 20
+gn S Y :
+gu 11 1 Na 1
+0 I MF Hi > (0 4 Noe oe
+HO N 4 50 60 70
+“Particle size(nm) “Particle size (nm) "Particle size (nm)
+Fig.4 10 [Nano-Al PVP surface stabilization]: (a) 4:1 (b) 2:1, (c) 1:1 Al (M)/ PVP (P)
+compositions. (d), (e), (f) are the corresponding nano-Al particle size,
+respectively.
+Synthesizing oxide-free Al nanoparticles stabilized in the PVP matrix, in gram
+quantities, for fuel application is the key objective. In doing so, the sonication induced
+“process intensification” activity is to be evaluated. Therefore one of the previously
+optimized Al chemical synthetic protocols is considered for experimentation. But an
+additional ultrasonic probe introduced to achieve “process intensification”. There is
+published literature illustrating the specific chemical synthetic protocol to be replicated
+[365]-[367]. In order to have assertive quantification of the “process intensification” in a
+quantitative term a physical variable namely “degree of crystallinity (DOC)” linked to
+the crystalline Al diffracting volume fraction is chosen [368]-[370]. It is the integrated
+intensity of the crystalline Al diffracting component to that of the total integrated
+intensity of both the crystalline Al and amorphous PVP fractions. The process followed
+21

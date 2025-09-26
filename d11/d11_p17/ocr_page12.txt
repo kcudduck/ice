@@ -1,0 +1,31 @@
+spectra after 60 minutes of ultrasonic irradiation (nm), energy difference between the
+Highest Occupied Molecular Orbital (HOMO) and Lowest Unoccupied Molecular Orbital
+(LUMO) or HOMO-LUMO gap (eV), final pH values, and in the last column, the different
+types of obtained GNPs polyhedral configuration.
+Average
+Irradiation Heat AT As, FWHM  HOMO-LUMO
+Size PHsinal Polyhedra
+power (W) (°C/min) (°C) (nm) (nm) (eV)
+(nm)
+Tetrakis
+60 2 34 16.243 560 114 2.21 5.09
+hexahedron
+Triakis
+150 3 42 16£1.6 535 82 2.32 5.23 |
+icosahedron
+Pentakis
+210 4.5 52  12.2+1.2 525 75 2.36 5.31
+dodecahedron
+The sonochemical method implemented in this work, did not reach boiling
+temperature unlike the classic hotplate system. However, the latent heat in the
+reaction medium causes a small but notable reduction in the size of GNPs
+obtained In the citrate reduction of HAuUCls In water. Cavitation promotes local
+violent reaction conditions, heating and turbulent agitation by heat transfer of gas
+bubbles [52], driving to accelerate nucleation process and concentration of seeds
+could be elevated. These phenomena lead to the relaxation and interface defects
+formation, in order to form polyhedral GNPs. Likewise, the energy Is absorbed by
+the system during the cavitation processing into the solution. Then this can lead to
+the exotic polyhedral morphologies formation, as have been predicted in the
+literature. High energy potentials and formation systems can improve the
+plasmonic responses [53] (Fig. 4b).
+12

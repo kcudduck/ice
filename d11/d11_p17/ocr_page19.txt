@@ -1,0 +1,31 @@
+References
+[1] L.C. Kennedy, L.R. Bickford, N.A. Lewinski, A.J. Coughlin, Y. Hu, E.S. Day, J.L.
+West, R.A. Drezek, A New Era for Cancer Treatment: Gold-Nanoparticle- Mediated
+Thermal Therapies, Small 7 (2011) 169-83.
+https://doi.org/10.1002/smlil.201000134
+[2] R.A. Sperling, P.R. Gil, F. Zhang, M. Zanella, W.J. Parak, Biological
+applications of gold nanoparticles, Chem. Soc. Rev. 37 (2008) 1896-1908.
+https://doi.org/10.1039/b712170a
+[3] J.F. Hainfeld, D.N. Slatkin, H.M. Smilowitz, The use of gold nanoparticles to
+enhance radiotherapy in mice, Phys. Med. Biol. 49 (2004) N309—-N315.
+https://doi.org/10.1088/0031-9155/49/18/N03
+[4] P. Ghosh, G. Han, M. De, C.K. Kim, V.M. Rotello, Gold nanoparticles in delivery
+applications, Adv. Drug Deliv. Rev. 60 (2008) 1307-1315.
+https://doi.org/10.1016/}.addr.2008.03.016
+[5] K.S. Lee, M.A. El-Sayed, Gold and Silver Nanoparticles in Sensing and
+Imaging: Sensitivity of Plasmon Response to Size, Shape, and Metal Composition,
+J. Phys. Chem. B 110 (2006) 19220-19225. https://doi.org/10.1021/jp062536y
+[6] T.K. Sau, C.J. Murphy, Room Temperature, High-Yield Synthesis of Multiple
+Shapes of Gold Nanoparticles in Aqueous Solution, J. Am. Chem. Soc. 126 (2004)
+8648-8649. https://doi.org/10.1021/ja047846d
+[7] S.D. Perrault, W.C.W. Chan, Synthesis and Surface Modification of Highly
+Monodispersed, Spherical Gold Nanoparticles of 50-200 nm, J. Am. Chem. Soc.
+131 (2009) 17042-17043. https://doi.org/10.1021/ja907069u
+[8] J. Turkevich, P. Cooper Stevenson, J. Hillier, A Study of the Nucleation and
+Growth Processes In the Synthesis of Colloidal Gold, Disc. Farad. Soc. 11 (1951)
+55-75. https://dol.org/10.1039/DF9511100055
+[9] G. Frens, Controlled Nucleation for the Regulation of Particle Size In
+Monodisperse Gold Suspensions, Nat. Phys. Sci. 241 (1973) 20-22.
+https://doi.org/10.1038/physci241020a0
+
+19

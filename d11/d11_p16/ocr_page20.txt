@@ -1,0 +1,47 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+namely on acoustical forces on a bubble and on rectified diffusion — was essential in solving
+this problem.
+
+Once the bubble has grown by rectified diffusion to considerable size, the actuation pres-
+sure pulse to jet a droplet simply leads to bubble compression, and not to a pressure increase
+at the nozzle. Therefore, no droplets can be jetted any longer. Only after the acoustic pres-
+sure has been turned off, can the bubble dissolve by diffusion so that printing becomes
+possible again.
+
+The final goal of course must be to avoid the entrainment of the bubble or to immediately
+get rid of it again, e.g., by applying an acoustical pulse immediately after the bubble has
+been detected. For the next step — the development of even faster printers with even smaller
+droplets — further fundamental work on the meniscus instability leading to the bubble en-
+trainment remains essential.
+
+logo U (m/s)
+© > I |
+&£» —3H ® Simulations
+Advancing side Tile receding side S 3
+BEES a ray 2
+ETA B
+S Sot
+(b) SE oo -
+elocity » a {0
+= ~; 2 3 4 5 6
+log, St
+A Bubbles (d) Vo
+JE / : |
+FIG. 15. (a) Schematic cross section of an immersion lithographic scanning device. The water in
+between the lens and the wafer reduces the imaging resolution below 40 nm. (b) Visualization of
+the contact line instabilities: Bubbles are entrained at the advancing contact line whereas droplets
+are lost at the receding contact line. (c) Entrained bubble volume after drop impact versus impact
+velocity, given both in dimensional units (right and upper axis) and dimensionless units (left and
+lower axis), showing a clear maximum. To the left capillarity prevails, while to the right inertia
+prevails. Red circles correspond to experiments with color-interferometry, blue squares to boundary
+integral simulations coupled to a viscous lubrication approximation. Figure adopted from ref. [97].
+(d) Sketch of the droplet impact and bubble entrainment mechanism, with (from left to right)
+increasing velocity.
+
+Bubble entrainment also turned out to be crucial for so-called immersion lithography, pi-
+oneered by ASML, the world’s leading supplier of lithography systems for the semiconductor
+industry. Once the photolithography of wafers had been at the edge of optical resolution,
+even smaller structures were realized by introducing lithography machines using immersion
+technology, i.e., lithography under a film of water (with a refractive index of 1.33, rather than
+1.00 for air) between wafer and optical lens, see figure 15a, allowing for smaller structures on
+20 20

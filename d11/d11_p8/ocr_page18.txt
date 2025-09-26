@@ -1,0 +1,33 @@
+18 D.F. Rivas, Ashokkumar, Leong, Yasui, Tuziuti, Kentish, Lohse and Gardeniers
+A
+Micromachined
+Pits
+oy
+TOWNE, Sor een”
+—
+/
+2 Um Meg= 608KX EMT = 10.00 kV Signal A = InLeas Date :25 Feb 2010 ES
+HH Wo= Smm PhobNo.=S020 Timed52201  cemenOTi
+Figure 12: Pits etched on a silicone substrate. Top view, perspective view, top overview
+and distances.
+ax 10°
+3.5
+3
+S 2.5 Ultrasound off
+OD >
+@))
+© Background noise
+oO 1.5
+>
+I | PMT turned off
+0.5
+/
+0
+-0.5
+0 5 10
+Time [Ss]
+Figure 13: PMT read-out case in which given instants are pointed by arrows. The arrows
+mark the instant where the US signal and PMT amplifier are turned off.
+Appendix A. PMT voltage levels
+In Figure [13] the comparison of voltage read-out from the PMT when the ultrasound
+is turned off and when the PMT is turned off is shown.

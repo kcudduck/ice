@@ -1,0 +1,56 @@
+11,862 JULIAN: VOLCANIC TREMOR—NONLINEAR EXCITATION BY FLUID FLOW
+1977 September
+15 20 25 30
+EE .
+- 100 |
+5 TILT - Summit
+]
+H
+H
+10
+> 200
+= | SEISMICITY - East Rift
+>
+= 100
+@ |
+- I
+Figure 6. Chronology of seismic, tilt, and eruptive events associated with the September 13, 1977, east
+rift eruption of Kilauea (R. Koyanagi, personal communication, 1977). Solid areas on plot of eruption
+phases indicate strong fountaining; open areas indicate less vigorous spattering activity. Summit tilt was
+recorded by east-west component Ideal- Aerosmith tiltmeter at Uwekahuna. Harmonic tremor amplitudes
+were measured hourly from records of stations HUL (east rift) and NPT (summit). The seismicity plot
+shows hourly count of microearthquakes on east rift and south flank of Kilauea.
+at the onset of eruption and its amplitude varied directly heterogeneous medium, a crack might propagate jerkily, as
+with eruptive activity throughout the entire episode. Other it encounters regions of varying fracture toughness, but this
+examples include the Kilauea summit eruptions of May propagation would probably be highly erratic and irregular.
+31, 1954 [MacDonald and Eaton, 1954], November 14, The intense earthquake swarms that occur in volcanic areas
+1959 [FEaton, 1962; Eaton et al., 1987], April 30, 1982 may be caused by such irregular crack propagation.
+(F. Klein, personal communication, 1982), and September Aki et al. [1977] noted a third difficulty with crack
+25, 1982 (R. Koyanagi, personal communication, 1982) and propagation mechanisms: they would result in systematic
+the Kilauea east rift zone eruptions of February 28, 1955 increases in the dimensions of the resonating bodies and
+[MacDonald and Eaton, 1955], November 16, 1979 (F. Klein, thus in systematic shifts of spectra with time toward lower
+personal communication, 1979), and January 3, 1983 [ Wolfe frequencies, which are not observed. This inconsistency led
+et al., 1987; R. Koyanagi, personal communication, 1983]. Aki et al. to propose a model involving a chain of cracks
+Sustained tremor often occurs in Hawalian rift zones connected by narrow channels that are normally closed but
+upstream of long-lived active fountains, for example in the open rhythmically in response to elevated magma pressure.
+Mauna Ulu eruption of June 1969 [Koyanag: et al., 1987]. A similar argument can be made about long-period
+Collapses of Kilauea’s summit reservoir that feed intrusions earthquakes. Seismological evidence often shows that they
+into the rift zones are often accompanied by sustained high- recur thousands of times within a small volume, which
+frequency tremor originating at the summit, for example remains fixed for long intervals, for example at Redoubt
+in March 1955 [MacDonald and Eaton, 1955], and in the volcano, Alaska, in 1989 and 1990 [Chouet et al., 1993]. If
+September 1977 eruption shown in Figure 6. The initial and they were excited by crack propagation, they would migrate
+most rapid re-inflation of the summit following a collapse systematically with time.
+is often accompanied by increased long-period earthquake
+activity le-g., Koyanagt et al., 1987, Figure 45.4]. All these Nonlinear Oscillators
+observations indicate that at Kilauea tremor is associated
+with magma flow, and crack propagation produces high- Any tremor generation process must necessarily be
+frequency earthquakes. nonlinear. A time-invariant linear system cannot oscillate
+On theoretical grounds, a crack is not expected to spontaneously, because its output can contain only
+propagate in a series of repeated jerks, as it would have to do frequencies that are present in its input. Tremor is an
+to generate continuous tremor. In a homogeneous medium, oscillatory response to a steady (near zero frequency) input
+a fluid-driven tensile crack propagates stably, without (for example, stress, fluid pressure, or heat), so a nonlinear
+generating seismic waves, whereas in an inhomogeneous process of some kind is essential to its occurrence.
+medium it can undergo an isolated episode of rapid, Nonlinear systems are more difficult to analyze
+catastrophic growth, for example when approaching a free mathematically than linear ones. Tools and concepts such
+surface or another crack, or when initially breaking out of a as impulse response, Green’s functions, and spectral analysis
+magma chamber [Sammus and Julian, 1987]. In a randomly that are effective in linear problems are of little use because

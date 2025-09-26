@@ -1,0 +1,73 @@
+much too slow in relation to the outlet- € .“ there is more than one tunnel, the larger
+stream discharge at the time of observa- See ones will grow at the expense of the
+tion (7 m’/sec). To permit a water-flow § 20 ay smaller, so that the system evolves into
+speed of only 0.02 m/sec down the actual 2 Te 55 one with only a single tunnel or at most
+gradient (0.1), a tunnel would have to be ~~ 8 ~0N drop very few (20, 25). In contrast, because of
+only ~1 mm in diameter and would carry ~~ § 1.0 17 the direct relation between water flux
+a discharge of only ~107® m®/sec. Thus E Th, and pressure, passageways in a linked-
+there must be many water-conducting 3g cavity system are stable against pertur-
+passageways, distributed across the 3 0 bations in which some passageways are
+“width of the glacier bed. A limiting case & © 20 40 60 enlarged at the expense of the others; as
+of this would be a continuous gap, about Longitudinal coordinate x (m) a result, the linked-cavity system can
+1 mm thick, between the ice and its bed, Fig. 12. Vertical displacement of a marker exist stably as a system of multiple inter-
+which is similar to the model proposed emplaced in ice at the glacier center line near connecting passageways distributed over
+y Km 8, plotted against horizontal displace- )
+for surging by Weertman (27). However, ment. The reduced vertical coordinate z' is the width of the glacier bed.
+even 1n this limiting case the water flux the actual elevation z reduced by an amount |
+carried by the system would be much too corresponding to motion down a sloping line
+small, only ~0.02 m*sec. From this we ©f constant slope 0.125; thus 'z'=2 = phe Guree Mechanism
+0.125x — zy, where zo, 1s a fixed arbi-
+are forced to conclude that the system yy constant: x is the horizontal distance in
+consists not of conduits or gaps of uni- the direction of glacier flow (N50°W), with The immediate cause of the high gla-
+form width or thickness but rather of arbitrary zero. The drop of 0.1 m that occurs  cier flow velocities in the surge is high
+relatively large cavities linked by nar- between measurement points 4 and 6, shown p49] water pressure, which causes a
+row, gaplike orifices that conduct the by the offset between the sloping lines fitted great increase in basal sliding. The ob-
+’ : to the points before and after, may be due to : )
+water flow from one cavity to the next. the closure of basal cavities when the surge S€rvational basis for this conclusion was
+The overall flow rate (water discharge) is ended. The measurement times of the num- given above. According to theoretical
+controlled by high-speed flow through bered points are as follows: 1, 4 July 1983,  djscussions of the basal sliding process
+the narrow orifices, whereas most of the 10:34; 2, 15:11; 3, 17:24; 4, 20:09; 5, 22:04;6,5 (78) increased basal water pressure
+| July 1983, 12:11; and 7, 13:49. Co
+travel time for water transport through causes increased sliding by reducing fric-
+the system is taken in slow-speed flow tion and by increasing basal cavitation,
+through the large cavities. and also by exerting a direct effect of the
+We believe that this system of linked comparison with a tunnel system, the integral of pressure over the irregular
+cavities forms by the process of basal enlargement of the passageways by fric- undulating base of the ice mass.
+cavitation (1/6). The cavities, which form tional melting 1s greatly reduced, be- Theoretically, if the basal water pres-
+on the lee sides of bedrock protuber- cause the total ice surface area of the sure were to reach and remain at the ice
+ances, probably have horizontal dimen- cavity roofs is much greater than the roof overburden pressure, the glacier would
+sions of a few meters and heights of a area of a tunnel carrying the same dis- be floated off its bed, which would cause
+meter or less. The connections between charge. The total frictional heat, which the sliding velocity to increase practical-
+them, which are in places where cavita- for the same discharge and same hydrau- ly without limit. A more limited effect of
+tion occurs only marginally, must be lic gradient will be the same in both this kind must be produced when the
+only a few centimeters high to throttle systems, is thus spread out in the linked- basal water pressure approaches but
+the flow. cavity system over a much larger ice does not reach the ice overburden pres-
+A quantitative theoretical model of surface area and the rate of enlargement sure. How closely the water pressure
+such a system has been constructed (22), of the cavities by melting is proportion- must approach the overburden to give
+which is able to account for the observed ately reduced. To keep the conduits sliding velocities of the magnitude ob-
+discharge of 7 m?/sec and transit time of open enough to provide the hydraulic served in the surge (~15 m/day in the
+90 hours. These figures require that the conductivity needed to carry a given upper glacier, ~50 m/day in the lower) is
+cavities have an average area of 200 m? discharge therefore requires a much from the theoretical point of view (18) a
+in lateral cross section, which means that higher basal water pressure in the linked- complicated question. Empirically, on
+their average height is 200 m? += 1000 m cavity system than in the tunnel system. the basis of the evidence presented
+(the glacier width) = 0.2 m. The opening In the linked-cavity system, an in- above, we conclude that basal water
+or closing of such a cavity system would crease in basal water pressure enlarges pressures consistently within 4 to 5 bars
+store or release water as discussed earli- the cavities and therefore increases the of the overburden, and with transient
+er and would cause the glacier surface to basal water flux, under otherwise fixed fluctuations close to the overburden, are
+rise or fall by 0.2 m, which is of the order conditions (24). This behavior is oppo- sufficient to cause these high sliding ve-
+of magnitude of the drop actually ob- site to that of a normal tunnel system, in locities. In minisurges, the peak basal
+served at surge termination. The wide- which an increase in basal water flux water pressures are higher, normally at
+spread distribution of the passageways results in a decrease in water pressure in or above overburden, while the peak
+across the glacier bed accords with the the tunnel or tunnels, once transient ef- sliding velocities (1 to 3 m/day) are lower
+greatly increased turbidity of the outflow fects have died out and a steady state 1s than in surge; this 1s probably because
+water during surge: by comparison with established; this is so because the in- the high pressure does not gain access to
+a normal tunnel system, it allows a much creased melting caused by increased wa- more than a fraction of the area of the
+more extensive access of the basal water ter flow must be balanced by an in- bed in the relatively short duration of the
+to the source of comminuted rock debris creased viscous closure rate for the tun- high-pressure peak (~10 hours).
+that is generally present between the nel, which requires a drop in the water The role of high water pressure In
+base of the ice and the underlying bed- pressure (20). One consequence of the causing the rapid basal sliding motion in
+rock (23). inverse relation between water flux and the surge of a glacier 1s analogous to its
+In the linked-basal-cavity system, by pressure in a tunnel system is that, if proposed role in the mechanics of over-
+478 SCIENCE, VOL. 227
+This content downloaded from 132.174.255.223 on Tue, 20 Sep 2016 11:36:46 UTC
+All use subject to http://about.jstor.org/terms

@@ -1,0 +1,43 @@
+Notice that exponential stability of the linear problem in H and Hj; allows we to obtain the
+estimates (5.7), (5.8) and (5.10) with right hand side time-independent. This allows us to take
+T = oo is all of them and repeat the same construction to obtain a fixed—point of © defined in the
+whole RR...
+
+This completes the proof of theorem 2.3 by taking p = pgs.
+
+6 Proof of Theorem 2.4-Uniform Nonlinear Stability
+In this section we show that one can easily show that the solution of the nonlinear problem decay
+exponentially to zero as t — oo by taking advantage of three facts established in this paper.
+(i) The fact that the solution is a fixed point of the map © defined in (5.5), and therefore can be
+implicitly represented as
+t
+S(t) =T(t)Dy + / T(t —o)F(®)(o)do (6.1)
+0
+(ii) The fact that our existence of global solution result requires smallness of initial data only in the
+a lower topology and the use of this along with interpolation inequalities allowed us to obtain
+the key estimate (5.2).
+(ii) The fact that the semigroup 7'(¢) in (6.1) is uniformly exponentially stable in both H and Hj.
+
+The final result of this section is the following.
+
+Theorem 6.1. There exists p > 0 such that the solution ® constructed in (2.3) is such that
+
+|B (ts, < 2Mye™ "(| Do |s, (6.2)
+for all t > 0, where My,w; are the constants involved in the uniform stability of the linear semigroup
+T(t).
+
+The proof of this result relies heavily on the facts (i)—(ii) outlined above and a Grownwall type
+inequality. This inequality seems to have been originally introduced in |1|, but here we are using |2,
+Corollary 1, p. 389]. We state the inequality here for convenience, but in a version which is suitable
+for our use in what follows. We invite the reader to consult |1, 2| and references therein for more
+details
+Lemma 6.2 (Grownwall-Beesack Inequality). Let u, f,g,h : R = R measurable functions such that
+fh,gh and uh are integrable. If u, f,g, h are nonnegative and
+
+t
+u(t) < (0) +90) | hou(o)do 63
+0
+then
+lt) < 10) +90) [ Homo exp] [ goh(s)as | do (6.0)
+0 o
+29

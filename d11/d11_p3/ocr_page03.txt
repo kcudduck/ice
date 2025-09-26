@@ -1,0 +1,51 @@
+3
+R, =2 m
+1.7 ee P A= 60kPa
+1.6 ee P A= 90kPa
+P, = 110kPa
+1.5 ——P, = 150kPa
+o14 P, = 200kPa
+oC
+T 13
+1.2
+1.1 i
+1.4 1.6 1.8 2 2.2 2.4
+f/f
+(2
+FIG. 1. SH resonance frequency of a bubble with Ry = 2um at different pressure amplitudes.
+by solving equation 1, for f, < f < 2.2f, and for a range Where P denotes the points in the bifurcation diagram,
+of pressure amplitudes. The resonance curves were only R and R are the time dependentradius and wall velocity
+calculated for pressure amplitude and frequency combi- of the bubble at a given set of control parameters of
+nations that result in non-destructive bubble oscillations (Ro, Po, Pa, c, k, u, 0, f) and © is given by 7 Points
+ys < 2 [26,67]. The maximum bubble radius was cal- on the bifurcation diagram are constructed by plotting
+culated in the last 20 cycles of a 200 cycle driving pulse the solution of R(t) at time points that are multiples of
+to ensure that there was no transient behavior (similar the driving acoustic period. The results are plotted for
+analysis to [66]) and then plotted as a function of fre- 7 = 400 — 440 to ensure a steady state solution has been
+quency in each graph. At each pressure, fs, and Pdfsp, reached for all bubbles. Due to smaller viscous effects,
+were selected from the graphs and used to generate the bigger bubbles require longer cycles to reach steady state.
+bifurcation diagrams in the next step.
+C. Bifurcation diagrams
+2. Method of peaks
+Bifurcation diagrams are valuable tools to analyze
+the dynamics of nonlinear systems where the qualitative
+and quantitative changes of the dynamics of the system As a more general method, bifurcation points can be
+can be investigated effectively over a wide range of the constructed by setting one of the phase space coordinates
+control parameters. In this paper, we employ a more to zero:
+comprehensive bifurcation analysis method introduced
+in [74.75].
+in [74,75] Q = maz(R){(R, R) : k= 0} (3)
+In this method, the steady state solution of the radial
+1. Conventional bifurcation analysis oscillations for each control parameter is considered.
+The maxima of the radial peaks (R = 0) are identi-
+When dealing with systems responding to a driving fied (determined within 400-440 cycles of the stable
+CL : : : oscillations) and are plotted versus the given control
+force, to generate the points in the bifurcation diagrams /
+Lo parameter in the bifurcation diagrams. The bifurcation
+vs. the control parameter, one option is to sample the ) a Rn
+: : LL : diagrams of the normalized bubble oscillations (=~) are
+R(t) curves using a specific point in each driving period. Ro
+The approach can be summarized in: calculated using both methods a) and b). When the
+two results are plotted alongside each other, it is easier
+_ : Nn B to uncover more important details about the SuH and
+P= (RO){(L(), E(t) : © = 7 where n = 400, 401...440 UH oscillations, as well as the SH and chaotic oscillations.
+(2)

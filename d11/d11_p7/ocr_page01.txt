@@ -1,0 +1,54 @@
+reactions In cavitation fields.
+M.A. MARGULIS
+Contemporary ideas on the nature of cavitation are reviewed in this paper. The
+general theories of sonoluminescence and sonochemical reactions, the origin,
+stability and splitting of cavitation bubbles, the dynamics of cavitation field
+evolution, the peculiarities of cavitation effects at low intensity and low-
+frequency acoustic oscillations, the sonoluminescence quenching effect and
+some questions on the energetics of cavitation fields are discussed. The |
+electrical theory of the splitting of cavitation bubbles may, as shown in the paper,
+g | dy, as: Pap
+become an alternative to the thermal theories of cavitation in the future.
+KEYWORDS: ultrasonics, cavitation, bubble dynamics, sonoluminescence
+Introduction type processes for aromatic and aliphatic halide |
+Co derivatives!*, substitution of hydrogen for a halide in
+The phenomenon of cavitation, which was discovered an aromatic cycle when a reaction with LiAlH, takes
+more than a century ago. now attracts the attention of place!’ cyclo-oligomerization of alkyl chlorosilanes
+many scientists by its multifaceted and contradictory and alkyl chlorostannanes'®, and reactions of amides
+aspects as well as the constantly appearing interesting with P,S,, to give thioamides'’. The reaction of zinc
+and sometimes mysterious discoveries on the subject. with o-dibromoxylene, flowing in an ultrasonic field.
+In the 1960s. after general publications on powerful generates xylylene radicals which give tetrahydro-
+cavitation fields’, sonochemical reactions*°, and naphthalenes by reaction with olefins'®. In an
+sonoluminescence’ ". harmony was established mn ultrasonic field, the increase in the rate of acetaldehyde
+this area between experimental and theoretical results. oxidation is accompanied by substantially increased
+However, since about 1975 the number of publications light emission (probably, recombination light)".
+on these problems has sharply increased and in the
+past decade a number of results have been obtained To understand the mechanism of chemical and
+which require the refinement of many deep-seated physicochemical interactions of ultrasound, it 1s
+ideas on the nature of cavitation. necessary to establish coherent concepts of the nature
+. of cavitation. The present review 1s concerned with
+In 1982. during decomposition of water by ultrasonic general problems on the dynamics of cavitation
+waves, the formation of H and OH radicals evolution and modern ideas on the mechanism by
+which sonoluminescence and sonochemical reactions
+H,0 —»+ H + OH M) ecur
+was registered® by the EPR method using spin marks. . oo Co
+Earlier, this mechanism. which was proposed by Loss of stability and splitting of cavitation
+Prudhomme and Grabar®, could be supported only by bubbles
+an indirect kinetic proof*™®. In sonolysis of anhydrous Co
+CCl, chlorine atoms were formed and registered by the The dynamics pia single cavitation bubble are
+: . 10 : ICTY described by the equations of Rayleigh?*, Noltingk-
+spin marks technique'®, In recent years, 1t 1s discovered Nepniras Herring-Flvnn' and Kirkwood-Bethel»26
+that low-frequency acoustic fields (7-200 Hz) gave rise Tham i. cr c . that th Bubb atin ".
+to sonochemical reactions!’ and sonoluminescence!'?, as oo CT ehane Bofe ulate a “Th cr Hl > hav
+well as a slight prethreshold light emission in liquids’. oo rs 5 NY oti] in apse. A Twi ; »
+It has been shown that in anhydrous systems exposed eo od in this clall In TevIEws and will no
+to ultrasound®®, a sharp increase in activity occurs in ¢ treated in > Paper
+such processes as reactions between organic bromine Analysis of data in the literature leads us to conclude
+derivatives and aldehydes or ketones'*, Wurtz reaction- that the effects of surface tension and liquid viscosity
+are small*?'-22, The generally discussed assumption of
+ee  ATUnion Research the adiabatic collapse of a cavitation bubble 1s
+e author 1s in the Department o emica YSICS, -UNIon nesearc ji . . ,
+Institute of Organic Synthesis, 12 Radio Street, Moscow, 107005, USSR. contradictory. Many authors’ *" have attempted to
+Paper received 17 August 1984. explain that the relation between sonochemical
+0041-624X/85/040157-13/$303.00 © 1985 Butterworth & Co (Publishers) Ltd
+ULTRASONICS . JULY 1985 157

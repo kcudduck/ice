@@ -1,0 +1,46 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+
+(a) Os 20 s 44 s 66 s 120 s 180 s
+ini mnnn? antigo Qe: Oo: o:0
+snp GENE 64H HY ¢HY
+
+100 pm |
+(b) 0 min 5 min 10 min 20 min
+XY OY yy
+— ~ : -
+FIG. 21. (a) Controlled microbubble formation and growth on hydrophobic surfaces decorated with
+maicro-machined micropits (with diameter of 10 um and edge-to-edge distance of 13 um) by solvent
+exchange: The microchannel was first filled with air-saturated water which was then replaced by
+ethanol solution under a flow rates of 100 uL/min. Figure taken from ref. [145]. (b) Dissolution
+process of an ensembles of HDODA nanodroplets with a typical contact diameter of L = 10—30um.
+
+The color scale corresponds to a height of Oum (blue) to 0.9um (red) of the droplets. The dissolution
+
+process was stopped by polymerisation of the HDODA by UV-radiation, so that a visualization of
+the droplets by AFM became possible, a trick introduced in ref. [146]. Figure taken from [147].
+inertial bubble dynamics of figure 16b, where the whole series of snapshots is less than 25
+14S.
+
+For interacting surface nanobubbles, according to above sketched theory [134] one would
+expect that in equilibrium all surface nanobubbles would have the same radius of curvature
+R. = L./(2(). On first sight, one may expect that this equilibrium is unstable due to
+Ostwald ripening of the bubbles [142]: Small bubbles shrink due to their larger Laplace
+pressure and neighboring larger ones grow. However, it turns out that again it is pinning
+which stabilizes these neighboring bubbles against Ostwald ripening [143, 144].
+
+As stated above, a central idea of solving the surface nanobubble paradox originated from
+the analogy to the pinned coffee stain [136]: The first problem is controlled by diffusion of
+air in liquid, the latter one by diffusion of vapor in air. In between these two cases is the one
+of a liquid surface nanodroplet (see figure 17b) in a sparsely miscible host liquid, for which
+the stability (with pinning, or lack thereof, without pinning) is given by the same equations
+and mechanisms [121].
+
+Not only the dissolution processes of such surface nanodroplets (see figure 21b) are com-
+pletely analogous to those of surface nanobubbles, but also the nucleation and growth pro-
+cesses. In particular, it is again the solvent-exchange process that allows surface nanodroplets
+to be generated in a controlled manner [146, 148]: Now a high solubility liquid saturated with
+a certain substance is replaced by another with less solubility. The emerging oversaturation
+leads to droplet nucleation.
+
+As an example, consider the Greek liquor “Ouzo” (alternatively Pastis (France) or Sam-
+28 28

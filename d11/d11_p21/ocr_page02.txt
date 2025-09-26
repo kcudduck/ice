@@ -1,0 +1,73 @@
+REVIEW ARTICLES
+ability to discriminate between LP and VT events. Our studies LP events on the basis of this polarity distribution. The LP, hybrid
+demonstrate and illustrate that spectral analyses of LP events are and shallow VT events in Fig. 2 all occurred in roughly the same
+needed to recognise the differences between the source properties source region at depths of 1.4-1.7km beneath the crater of
+of fluid-driven activity and those of solid-state failure processes. Redoubt, yet their temporal and spectral signatures are quite
+ce a . . distinct. As they were all recorded at the same location, their
+Seismic signatures of volcanic activity distinct character cannot be attributed to a path effect. Com-
+The identification of LP events with eruptive activity is scarcely parisons with the signatures of a chemical explosion detonated in
+new’, but the significance of this activity for eruption potential the crater of Redoubt also indicate that these features can not be
+was not clearly recognized until a formal theoretical background attributed to site effects’. The tremor signal closely resembles that
+was established that linked the LP signatures to physical processes of the LP event except in its sustained character. The two types of
+at the source. Two outstanding examples of precursory swarms of event share the same dominant frequency near 1.5 Hz, and the
+long-period events are those that preceded the 1958 and 1983 tremor displays occasional bursts of high frequencies (see signal
+eruptions of Asama volcano, Japan'~'°. Swarms of long-period near 205s) reminiscent of those found in the early part of the LP
+events also preceded the 1987 eruption of Meakan-dake, Japan'’, signature. These features are suggestive of a common source
+the 1989 Ito-oki submarine volcanic eruption near the Izu penin- process, differing only in duration, underlying LP events and
+sula, Japan'®, and the 1982 eruptions of El Chichon, Mexico”. tremor.
+Intense swarms of LP events, some of which were large enough to .
+be recorded at distances of up to 300 km, preceded the paroxysmal Source dynamics
+eruption of Mount Pinatubo, Philippines, in 1991°. Precursory LP The above considerations naturally lead to a classification of
+swarms were recognized for 14 of 22 significant eruptions at seismic events based on the physics of the source process, which
+Redoubt, Alaska, in 1989-90%. Many additional reports of pre- has the advantage of offering a clearer picture of the link between
+cursory LP activity can be found in the literature". fluid transport and seismicity. Viewed in such a context, the
+Long-period events all share a characteristic signature consist- enormous variety of seismic signatures observed in volcanoes is
+ing of a high-frequency onset followed by a harmonic waveform merely a reflection of the effects of extreme structural hetero-
+containing one or up to several dominant periods in the typical geneity and strong topography of volcanic edifices on the signals
+range of 0.2-2s (Fig. 1). The high-frequency beginning of the originating in two basic families of processes. The first family
+signal 1s most clear when observations are made close to the consists of volumetric sources, in which the fluid plays an active
+source where the effects of anelastic attenuation are minimized role in the generation of elastic waves, and the second consists of
+(see Fig. 1). An important limitation in recognizing LLP seismicity shear or tensile sources involving brittle rock failure.
+as diagnostic of impending eruptive activity has arisen from the In volumetric sources, gas, liquid and solid are dynamically
+wide variety of names used to describe it. For example, in Japan coupled and elastic radiation 1s the result of processes originating
+LP events have been identified variously as b-type events'***, N- in the physics of multi-phase fluid flow through cracks and
+type earthquakes’, tremor-like volcanic earthquakes, single- conduits. Long-period events, tremor and seismic signals related
+frequency earthquakes’ and isolated tremor'®; at El Chichon to mechanisms of degassing in open vents are manifestations of
+volcano they were named type-2 and type-3 earthquakes", and such processes. The liquid and gas may be of magmatic or
+at Galeras volcano they were referred to as screw-type events geothermal origin depending on the volcanic setting, and the
+and butterfly-type events’. Although there is no one-to-one gas content may vary greatly according to source depth and gas
+correspondence between these events and those in Fig. 1, there fugacity. For example, the sources of long-period events and
+is no mistaking the resemblance between these waveforms. tremor beneath Kilauea are thought to involve magma with
+Another impediment has been the idea that the LP signature some gas, the proportion of which increases with the shallowness
+reflects wave propagation effects along the transmission path of the source’ ’~®. In contrast, the shallow long-period events and
+rather than characteristics of the source mechanism as accumulat- tremor under Nevado del Ruiz are interpreted as originating in
+ing evidence now strongly suggests. the thermal interaction between magmatic heat and a separated
+The essential features of the LP signature become clearer when groundwater system, such that liquid water and steam are the
+they are compared to those of VT earthquakes or tremor. For primary constituents of the two-phase fluid involved in the source
+example, Fig. 2 shows seismograms and their associated spectro- ~~ process>**®. At Galeras, shallow LP activity appears to be
+grams for several sources observed before the 14 December, 1989 intimately linked to the accumulation of SO, beneath the crater
+eruption of Redoubt volcano, Alaska. The LP event is character- ~~ floor".
+ized by a weak high-frequency onset with frequencies up to 13 Hz, The second family of sources involves brittle failure and purely
+followed a few seconds later by a strong harmonic signal with a elastic processes. These include the VT earthquakes, in which
+peak frequency near 1.5 Hz lasting roughly 30s. In contrast, the magmatic processes provide the source of elastic strain energy
+deeper VT earthquake is dominated by broadband P and S phases that leads to rock failure, but where a fluid is not actively involved
+with energy peaking in the band of 6-8 Hz, followed by a very in the source dynamics—although fluids may be passively
+short broadband coda (the trailing part of the seismogram) with involved by reducing effective stress and strength through ele-
+significant energy up to 15 Hz. This signature is typical for VT vated pore pressures. These sources occur in the brittle rock
+sources deeper than a few kilometres and 1s easily distinguished around the magma reservoir and conduit (either within the
+from that of LP events. The shallow VT earthquake resembles the volcanic edifice or in the crust beneath it) and may involve shear
+deep VT event but displays a slightly longer, narrower-band, coda linked to stresses induced by magma movement™~"*, or tensile
+exhibiting frequencies characteristic of a dispersed surface wave- failure of rock caused by thermal contraction due to cooling in the
+train. Shallow VT earthquakes usually generate stronger surface vicinity of a magma body or in the volcanic edifice as a whole**.
+waves than the deeper VT earthquakes but are still distinguishable Thus, these sources are associated with the structural response of
+from the LP signature. The hybrid event shows mixed character- the volcanic edifice to the intrusion and/or withdrawal of fluids. In
+istics reminiscent of both LP and VT events. The high-frequency this sense they differ from purely tectonic earthquakes, which are
+onset of the hybrid is more pronounced than that of the LP, but its driven by large-scale tectonic plate motions, although their source
+coda 1s dominated by a non-dispersive harmonic wavetrain that is processes and signatures are indistinguishable from those of
+characteristic of LP events so that the spectrograms of the codas of tectonic events.
+hybrid and LP events are similar. In terms of first motions, the VT In the greater dynamical context of an entire volcanic structure,
+and hybrid earthquakes both show mixed polarities at the record- LP events, tremor and VT earthquakes are intimately related and
+ing stations, whereas LP events typically display the same polarity inseparable. Thus, there must be classes of events that represent
+at all stations. Hybrid events can usually be distinguished from the transitions between the idealized end-member families
+310 NATURE - VOL 380 - 28 MARCH 1996
+© 1996 Nature Publishing Group

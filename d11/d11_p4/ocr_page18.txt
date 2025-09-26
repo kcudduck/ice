@@ -1,0 +1,31 @@
+16
+10-2 — Cox
+- 102 + i.
+lure] rl 10-3 AZpin/Re = 0.0030 —— —<
+a 1/2 — - Ain / Re = 0.0007
+104 107°
+0 0.0002 0.0004 0.0006 0.0008 0.0002 0.0004 0.0006 0.0008
+tUc tUc
+R. R.
+(a) (b)
+Figure 10: The grid convergence of viscous solution (a) The evolution of velocity of
+contact line is plotted for different grid-size. (b) The evolution of jet velocity is plotted for
+various grid size.
+Water
+Shock wave Al plate
+LR
+polarizer
+| Water drop
+7
+Nd :YAG pulsed LASER rN
+| 45° mirror
+val F=250mm
+Figure 11: Experimental setup used to create flat bubbles.
+maximum at 9.2 ms. This laser beam passes through a quarter wave plate and polariser for
+modulating the energy and then focused using a planoconvex lens of focal length 250mm
+that creates a focal spot of 4mm in diameter on the aluminium plate. For bubbles shown with
+a > m/2 the laser is focused on the water droplet attached to bottom of an aluminium plate
+(1 mm thick) kept at bottom of a water tank and for the bubbles with a < 7/2 the laser if
+focused on the top of this aluminium plate kept at the bottom of same tank (see figure 11).
+The laser energy is set to 50% of maximum in case where @ < m/2 and we observe the
+cavitation phenomenon in the water tank using high speed camera.

@@ -1,0 +1,28 @@
+generates a crystalline building unit, which subsequently grows by further coalescence
+based on the duration of sonoprocessing.
+4) To validate Al crystals growth by building unit coalescence, Al-rich compositions
+with Al (M)/ PVP (P) ratio higher than 1:1 ratio investigated indicates building units
+sono-agglomeration. In this case, the reduced fraction of PVP surfactant offers less
+hindrance to agglomerate almost 10 nm Al cubes in sidewise fashion to deliver around
+359 nm Al 2D-large lumps devoid of an oxide phase. When exposed to TEM e-beam, the
+de-agglomeration of individual building units is observed.
+5) In the case of Al (M)/ PVP (P) fraction= 1:1, the sono-agglomeration of nano-Al
+building units is actively suppressed by the PVP fraction to deliver approximately 15
+nm Al crystallites densely packed inside the PVP matrix. The degree of crystallinity of
+the Al phase as expected is 56 % (XRD extraction), slightly above the theoretical
+expected 50 % in line with the composite fraction considered.
+6) The arrangement/attachment of nano-Al crystals at the edges of the GC indicates
+almost all the major features linked to the Al phase like; nucleation, coalescence, and
+growth mostly happen in the n-hexadecane medium. Simultaneous gradual embedding
+of grown nano-Al crystals into the GC layers results in intercalation, and leading
+thereby its c-axis expansion.
+7) The crystal structural data of the expandable GC extracted indicates that its
+expansion is 48 % higher with respect to the standard ICDD structure, to accommodate
+56 % nano-Al fraction.
+8) The generated composite is air-stable, Al-rich with no amorphous surface oxide and
+is expected to have many years storability making it suitable for fuel applications.
+9) Finally, the conventional protocol-1, which requires around 16 hrs processing time, is
+brought down to just 2 hrs highlights another demonstration to sonic-assisted process
+intensification activity.
+
+37

@@ -1,0 +1,68 @@
+The Journal of Organic Chemistry pubs.acs.org/joc
+Scheme 14. Mechanical and Reductive Cleavage of Disulfide-Centered Polymers Aimed at Drug Release by Ultrasonication
+~
+N._~
+i HO C1 0
+N
+o~ ®
+| = 0 Co '
+L PER ! N
+be A S ) 50 JIN
+SAO O “, —
+TTS TL (JJ 9
+Y R Sage 0 NZ
+O O N O © O
+N
+0 HS o_O
+C N I NP T | / 0 O
+R ”
+O
+N HO
+O
+HO. F R HO
+Fg 0
+~ on
+O
+0 Oo” °N | HS” Ny F 0
+be 0 Sw 0 oor
+2
+Y sH 0 + 0
+S _A_0._0 O N
+07 0s wo _
+0.__0O o \ OH
+R
+hd 3 HO i
+O o_O NH
+7 ~ O N O
+\_/
+NH,
+O_O
+R =Bror OX ~T00H;
+7 Br
+selectivities in shorter times. A critical appraisal based on green rapid micromixing of the reaction partners.”* As a
+metrics should be advocated nevertheless.””"' Enabling consequence, sonication may replace the assistance of phase-
+techniques, namely ultrasound, microwaves, electrochemistry transfer catalysis and facilitate the coupling of insoluble
+or mechanochemistry, are not green on their own. It is ironic to substrates in aqueous media. Representative developments
+claim benign syntheses under such “green conditions” while that illustrate the eflicient sonomixing of biphasic solutions are
+ignoring the amount of volatile solvents needed for product portrayed by olefin metathesis in aqueous emulsions or on-
+isolation and purification, as well as the fate of waste generated. water reactions. A sonochemical ring-closing metathesis
+That said, ultrasound exerts a beneficial homogenizing effect (RCM) at room temperature, without surfactants or organic
+that enables water and water—organic cosolvent mixtures to be cosolvents, takes place inside the water-insoluble droplets of
+used, along with “in-water” and “on-water” reactions that the diene, leading to carbocycles in almost quantitative yields
+depend strongly on interfacial contact.” Early work by Ando (Scheme 15).% The ring-forming process occurs under neat
+and co-workers showed that ultrasound alone may replace the conditions as well, although accompanied by side products
+role of water and heterogeneous solid—solid and solid—liquid resulting from diene oligomerization. The latter was prevented
+reactions are more favored than those run in homogeneous under the micellar conditions attained with sonication.
+solution. As example, a strong oxidant like KMnO, oxidizes A one-pot synthesis of the antitumoral indole alkaloid
+alkenes smoothly in aqueous solution depending on the pH of cephalandole A involves the catalyst-free condensation of 2-
+the solution, but attacks double bonds very slowly in apolar aminophenol with an indolyl carboxylic acid derivative in water
+solvents. The latter is much more efficient under sonication, under ultrasonic agitation. This application discloses a
+presumably by destroying or altering the crystal lattice of the convenient atom-economical protocol for the construction of
+solid salt.”” Kinetic studies conducted under ultrasonic 2-oxo-benzo| 1,4 |oxazines in aqueous media that combines
+irradiation provided further evidence on hydrophobic inter- ultrasound and heating.” A related transformation, using a
+actions, which are responsible for the acceleration of some chiral diamino ligand as catalyst, (S,S)-diphenylethylenedi-
+reactions in aqueous media. Sonication caused retardation of amine, affords the anticoagulant drug warfarin in optically pure
+polar reactions in water, whereas rates were restored and form"” and could be accomplished in sonicated aqueous
+enhanced in water—ethanol mixtures, likely associated with solution (Scheme 16).
+13842 https://doi.org/10.1021/acs.joc.1c00805
+J. Org. Chem. 2021, 86, 13833-13856

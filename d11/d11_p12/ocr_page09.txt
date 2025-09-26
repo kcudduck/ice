@@ -1,0 +1,29 @@
+process still runs over several hours resulting in non-uniform larger particle size, scale-
+up limitations, and energy content inefficiencies [312]-[315]. The inorganic case
+(protocol-1) is the most utilized conventional case left to be investigated employing
+heterogeneous sonochemistry as standalone stimulation for process intensification
+studies.
+
+4.2 Materials and Methods
+
+Chemicals and precursors used in this chapter are of Analytical Reagent (AR) grade.
+Chemicals received from the different vendors are used without any further
+purification. Aluminum chloride (AlCls, Reagent plus (R), 99%), Lithium Aluminum
+Hydride (LiAlH4, pellets, Reagent grade, 95%), Poly (vinylpyrrolidone) (PVP, molecular
+weight 10,000), n-Hexadecane (CHs (CH2)1sCHs, anhydrous, 99%), and UHP Argon are
+used. Glassware related accessories cleaned by standard laboratory procedures, and the
+nitrogen glove box is used to handle moisture-sensitive chemicals.
+
+Sonochemical processing is carried out with Sonics VCX-750 watt ultrasonic
+processor. Sonochemical reaction vessel (40-250 mL processing capacity, three 14/20
+side necks, glass chamber height 62 mm), with the adapter (Part number: 830-0014) is
+screwed into the special long full-wave solid probe (Titanium alloy Ti-6Al-4V, 13 mm
+tip, 245 mm long) at the nodal point. The glass sonochemical reaction vessel slides on
+the adapter and is fixed in a place as required by the bushing which is screwed into the
+reaction vessel, with an O-ring compress. The reaction vessel movement on the adapter
+facilitates the probe portion extension out of the adapter required to be immersed into
+the sample. A continuous mode of operation for 2 hrs (process control from 1s to a
+maximum of 10 hrs) processing is carried out with ice water (20 °C) circulation based on
+the requirement. The UHP argon bubbling at 30 bubbles /minute is also maintained
+
+9S

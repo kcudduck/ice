@@ -1,0 +1,41 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+forces acting on the bubble (a), the spiralling trajectories for certain parameters (b), and
+the extracted rotational lift coefficients C';,, which remarkably can take both negative and
+positive values (c¢) [169]. In a particularly counter-intuitive example, employing the Basset
+history force as a non-local-in-time effective force [170], we could explain how viscosity can
+destabilize the path dynamics of sonoluminescing bubbles [171], a phenomenon discovered
+by Suslick and coworkers for sonoluminescing bubbles in glycol and called moving-SBL [172].
+The unstable, chaotic path-trajectory of such a bubble is shown in figure 24d.
+(d) , x10”
+| =
+(c) :
+= 0
+a Fea His AA 2
+0 eee JER gh ?
+a i} 1s 1.6 17 1.8 1.9 2
+4 o 3 5 timet/s
+/ $ x 107°
+Cro ig) 2 5 7T E 195 _— |
+O 3 = ——— ———~ Th
+3 27 8 42 C=
+5 | % ((—=—= — SO
+; 0) 0 2
+iA wt 2 3 x10” in -2 2 i" x10"
+10 10 10 10 y—position / m X—position / m
+Re
+FIG. 24. (a) Forces acting on a bubble spiralling in a rotating horizontal cylinder: Drag Fp, lift Fr,
+added mass Fx, and buoyancy Fg. The net force typically leads to a spiralling trajectory, as shown
+in (b) for bubbles with two different sets of parameters (axes in mm; the center of the cylinder is
+at (0,0). (c) Rotational lift coefficient Cro extracted from such trajectories (open symbols) and
+compared with numerical data of ref. [170]. Figure (a) — (c) are taken from ref. [169], to which we
+refer for more details. (d) y-position and three-dimensional trajectory of a moving SBSL-bubble in
+N-methylformamide [172] from a dynamical model based on effective forces (including the history
+force), for the same parameters as in experiment [172], where similar trajectories are observed.
+Taken from ref. [171].
+
+Encouraged by these successes, we |[175, 176] dared to transfer Maxey and Riley’s seminal
+idea of using effective forces on small particles to describe their (collective) dynamics in
+dispersed multiphase flow with point-like particles [173] to turbulent dispersed multiphase
+flow [177-179] with point-like bubbles, following refs. [180-190|. The motion of the small
+and thus non-deformable bubbles of radius a, volume V, = 4mwa’/3, velocity v(x,t) and
+32 32

@@ -1,0 +1,90 @@
+11,876 JULIAN: VOLCANIC TREMOR—NONLINEAR EXCITATION BY FLUID FLOW
+References of long period seismic events that originate under the
+volcano, Geophys. Res. Lett., 9, 1017-1020, 1982.
+
+Aki, K., and R. Y. Koyanagi, Deep volcanic tremor and Feigenbaum, M. J., Quantitative universality for a class
+magma ascent mechanism under Kilauea, Hawaii, J. of nonlinear transformations, J. Statist. Phys., 19, 25-52,
+Geophys. Res., 86, 7095-7110, 1981. 1978.
+
+Aki, K., M. Fehler, and S. Das, Source mechanism of volcanic ~~ Feigenbaum, M. J., Universal behavior in nonlinear systems,
+tremor: fluid-driven crack models and their application to Los Alamos Sci., 1, 4-27, 1980.
+the 1963 Kilauea eruption, J. Volcanol. Geotherm. Res., 2, Ferrazzini, V., and K. Aki, Slow waves trapped in a fluid-
+259-287, 1977. filled infinite crack: Implications for volcanic tremor, J.
+
+Berge, P., Y. Pomeau, and C. Vidal, Order Within Chaos, Geophys. Res., 92, 9215-9223. 1987.
+
+329 pp., John Wiley, New York, 1984. Ferrick, M. G., A. Qamar, and W. F. St. Lawrence, Source
+
+Bulirsch, R., and J. Stoer, Numerical treatment of ordinary mechanism of volcanic tremor, J. Geophys. Res., 87, 8675—
+differential equations by extrapolation methods, Numer. 8683, 1982.
+
+Math., 8, 1-13, 1966. Fletcher, N. H., Excitation mechanisms in woodwind and
+
+Chouet, B., Ground motion in the near field of a fluid- brass instruments, Acustica, 43, 63-72, 1979.
+driven crack and its interpretation in the study of shallow Gantmacher, F. R., Matrix Theory, 2 vols., 650 pp., Chelsea,
+volcanic tremor, J. Geophys. Res., 86, 5985-6016, 1981. New York, 1960.
+
+Chouet, B., Excitation of a buried magmatic pipe: A seismic Grassberger, P., and 1. Procaccia, Characterization of
+source model for volcanic tremor, J. Geophys. Res., 90, strange attractors, Phys. Rev. Lett., 50, 346-349, 1983.
+1881-1893, 1985. Havskov, J., S. De la Cruz-Reyna, S. K. Singh, F. Medina,
+
+Chouet, B., Dynamics of a fluid-driven crack in three and C. Gutierrez, Seismic activity related to the March-
+dimensions by the finite difference method, J. Geophys. April, 1982 eruptions of El Chichon volcano, Chiapas,
+Res., 91, 13,967-13,992, 1986. Mexico, Geophys. Res. Lett., 10, 293-296, 1083.
+
+Chouet, B., A seismic model for the source of long-period Hj), D. P., and A. M. Pitt, Long-period earthquakes at mid-
+events and harmonic tremor, in Volcanic Seismology, crustal depths beneath the western margin of Long Valley
+IAVCEI Proceedings in Volcanology, vol. 3, edited by P. Caldera, California (abstract), Eos Trans. AGU, 73(43),
+Gasparini et al., pp. 133-156, Springer Verlag, New York, Fall Meeting suppl., 343, 1992.
+
+1992. Hill, D. P., and J. J. Zucca, Constraints on the structure
+Chouet, B., and B. R. Julian, Dynamics of an expanding f Kilauea and Mauna Loa volcanoes, Hawaii, and some
+fluid-filled crack, J. Geophys. Res., 90, 11187-11198,  . ~. ... HOPES
+
+implications for seismo-magmatic processes, in Volcanism
+1985. in Hawaii, edited by R. W. Decker, T. W. Wright, and P.
+
+Chouet, B. A, Volcano seismology as an approach to H. Stauffer, U.S. Geol. Surv. Prof. Pap., 1350, 903-934,
+eruption forecasting, Nature, in press, 1994. 1987.
+
+Chouet, B. A., R. A. Page, C. D. Stephens, J. C. Lahr, and Hofstetter, A., and S. D. Malone, Observations of volcanic
+J. A. Power, Precursory swarms of long-period events at tremor at Mt. St. Helens in April and May 1980, Bull.
+Redoubt volcano 959 1990). Alaska: Their origin and Seismol. Soc. Am., 76. 923-938. 1986.
+
+Cress. ag osm tool, J. Veleanol. Geotiierm. fes., in Hurst, A. W., A Volcanic Tremor Monitoring System, J.
+
+Crosson, R. S., and D. A. Bame, A spherical source model Volcanol. Geotherm. Res., 26, 181-187, 1985.
+for low frequency volcanic earthquakes, J. Geophys. Res., Jordan, D. W., and P. Smith, Nonlinear Ordinary Differential
+90, 10,237-10,247, 1985. Equations, 360 pp., Clarendon, Oxford, 1983.
+
+Den Hartog, J. P., Mechanical Vibrations, 436 pp., Dover, Kamo, K., T. Furuzawa, and J. Akamatsu, Some natures of
+New York, 1985. volcanic micro-tremors at the Sakura-jima volcano, Bull.
+
+Dzurisin, D., J. M. Donnelly-Nolan, J. R. Evans, and S. Volcanol. Soc. Jpn., 22, 41-58, 1977.
+
+R. Walter, Crustal subsidence, seismicity, and structure Koyanagi, R. Y., B. Chouet, and K. Aki, Origin of volcanic
+near Medicine Lake volcano, California, J. Geophys. Res., tremor in Hawaii Part I. Data from the Hawaiian Volcano
+96, 16,319-16,333, 1991. Observatory 1969-1985, in Volcanism in Hawaii, edited
+
+Eaton, J. P., Crustal structure and volcanism in Hawaii, in by R. W. Decker, T. W. Wright, and P. H. Stauffer, U.S.
+The Crust of the Pacific Basin, Geophys. Monogr. Ser., vol. Geol. Surv. Prof. Pap., 1350, 1221-1259, 1987.
+
+6, edited by G. A. Macdonald and H. Kuno, pp. 13-29, Kubotera, A., Volcanic tremors at Aso volcano, in Dev. Solid
+AGU, Washington, D. C., 1962. Earth Geophys., vol. 6, Physical Volcanology, edited by L.
+
+Eaton, J. P., D. H. Richter, and H. L. Krivoy, Cycling of Civetta et al., 29-47, Elsevier, New York, 1974.
+magma between the summit reservoir and Kilauea Iki Kubotera, A., and M. Otsuka, Nature of non-volcanic micro-
+lava lake during the 1959 eruption of Kilauea volcano, tremor observed on the Aso caldera, J. Phys. Earth, 18,
+in Volcanism in Hawaii, edited by R. W. Decker, T. W. 115-124, 1970.
+
+Wright, and P. H. Stauffer, U.S. Geol. Surv. Prof. Pap., Lahr, J. C.; B. A. Chouet, C. D. Stephens, J. A. Power,
+1850, 1307-1335, 1987. and R. A. Page, Earthquake classification, location, and
+
+Eckmann, J.-P., Roads to turbulence in dissipative error analysis in a volcanic environment: Implications
+dynamical systems, Rev. Mod. Phys., 53, 643-654, 1981. for the magmatic system of the 1989-1990 eruptions at
+
+Fehler, M., Observations of volcanic tremor at Mount St. Redoubt volcano, Alaska, J. Volcanol. Geotherm. Res., in
+Helens volcano, J. Geophys. Res., 88, 3476-3484, 1983. press, 1994.
+
+Fehler, M., and B. Chouet, Operation of a digital seismic Latter, J. H., Volcanological observations at Tongariro
+network on Mt. St. Helens volcano and observations National Park, 2, Types and classification of volcanic

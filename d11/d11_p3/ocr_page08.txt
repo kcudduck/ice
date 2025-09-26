@@ -1,0 +1,56 @@
+8
+, R,=1p m,f=2%r ] R,=1p m,f=1.6*fr
+25 2.2 :
+1.8 3 4
+4 — 4
+1.6 “RAE 2 i
++ Ci 14 i / Ah”
+gs \ :
+08 ¥ | 2 :
+o 1 2 3 4 5 6 1 2 3 4 5
+Pressure (Pa) %x10° Pressure (Pa) %x10°
+(a) (b)
+SH amplitude when R,=11 m UH amplitude when R,=1n m
+~3.5dB 10 ~7dB
+-10 ~4dB A oversaturation -20 10 dB } oversaturatio
+20 \ -30
+-30
+-40 \. |
+m -40 m
+pe © 50
+-50 340 kPa
+60 -60 340 kPa
+1 2 3 4 5 6 7 oOo 1 2 3 4 5 6
+Pressure (Pa) %x10° Pressure (Pa) %x10°
+(c) (d)
+max(P? ) for R,=1n m IR’. for R,=1u m
+30
+“
+N 25 y7 pa? “0 B mls
+\) UL
+a 20 a
+~ 3 X 30 23 m/s
+% 1° 16.5 Pa’ 5 |
+. da ;
+£ 10 ® 20
+5| 340 kPa 10 Piy 140 kPa
+0! ———— ) 0 =
+o 1 2 3 4 5 6 7 1 2 3 4 5 6 7
+Pressure (Pa) «10° Pressure (Pa) «10°
+(e) (£)
+FIG. 4. Period doubling and the corresponding bifurcation structure: a) bifurcation structure of the bubble when f = 2f,,b)
+bifurcation structure of the bubble when f = 1.6f, and c) corresponding SH component of the Ps., d) corresponding UH
+component of the Pi., ¢) Maximum non-destructive PZ, (Famos < 2) and f) maximum absolute value of the wall velocity
+acoustic pressures. enhancement of the PZ: however, this enhancement in
+Figure 6 displays the maximum non-destructive (5 < 2) amplitude is associated with a rapid decrease in SH and
+P? at different frequencies (f=2f,, 1.8f., 1.6f,. and UH amplitude (Fig 4 and 5). ,
+1.5f,) for Ro=2 pum (6a), Ro=1 pum (6b), Ro=400 nm When f = Pdfsp, (f = 1.8f;, 1.7f, and 1.6), Ps.
+(6c) and Rp=200 nm (6d). When f=2f,, P2 is very is smaller than its counter part when f = 2f,.. Above
+small for pressures below PD: concomitant with gener- a pressure threshold, the SN bifurcation results in the
+ation of PD, P2 undergoes a rapid increase and then generation of higher amplitude P2 oscillations. The aN
+increases linearly with acoustic pressure. When P4 oscil- bifurcation 1S coincident with a rapid increase in P, sc 1 sc
+lations occur, P2 decreases for micron size bubbles (the ~~ becomes significantly larger than the case of sonication
+growth rate decreases for nano-size bubbles); this is simi- ~~ With f = 2f, (e.g. for the bubble with Fo=2 pm and
+lar to the decrease of P,. concomitant with P2 oscillations f= 1.61. r, when SN occurs at &~ 242 kPa, Ps. becomes
+when f=f, [26]. Further increase in the acoustic pressure ~~ 8.4 times larger than its counterpart when f= 2f).
+results in chaotic oscillations which lead to significant After the SN, P;. increase monotonically with pressure

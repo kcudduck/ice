@@ -1,0 +1,39 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+Fr E PE 15 ps
+Pa) 00000 |
+(c) o hs [Re] 90000 —_
+a 980080
+1 : " 13.5 pis
+= [0 L____JISENES
+~ a 17.5 us
+g 2 25 1
+[ "weseew | | |
+50 55 60 65 - > i
+0 100 200 300 400 500 =
+r (nm)
+C
+FIG. 16. (a) Electron microscopy image of an individual hydrophobic microcavity (diamter 4pm)
+etched on a silicon plate acting as gas trap. Taken from ref. [107]. (b) Comparison between
+experiment and boundary integral simulation of the cavitation of 5 bubbles in microholes set on a
+line with a distance of d = 200 um and a driving pressure of P, = —1.4 MPa. One clearly sees
+the shielding effect for the inner bubble, collapsing later than the outer ones. Figure taken from
+ref. [107]. (c) Nucleation threshold p,, as function of the pit radius r. for both theory (line) and
+experiment (symbols, crosses: nucleation, circles: no nucleation). The inset shows a zoom in with
+error bars. For visibility overlapping points are shifted £0.25 nm with respect to each other. Figure
+taken from [108].
+the nucleation threshold calculated from the crevice model [114] with the experimental data,
+finding good agreement. We also used such hydrophobic micro-machined pits as artificial
+crevices for bubble nucleation to achieve higher sonochemical yields at ultrasound powers
+that would otherwise not produce a significant chemical effect [115] and for ultrasonic clean-
+ing purposes [116], in both cases making use of the energy focusing power of the collapsing
+bubbles. Out of this activity another spin-off company emerged from our group. Finally,
+with such pits we enhanced the heat flux in thermal convection by vapor-bubble nucleation
+117).
+VIII. FROM SURFACE NANOBUBBLES TO CATALYSIS AND
+ELECTROLYSIS
+Being interested in tiny surface bubbles, the so-called surface nanobubbles caught my
+attention, which from about 2000 on have been found in atomic force microscopy (AFM)
+images of water-immersed, preferentially hydrophobic substrates [118-120], see figure 17a.
+One of course immediately wonders why such surface nanobubbles are stable. Because of the
+diverging Laplace pressure prapiace = 20/ R, where o is the surface tension and R the radius
+22 22

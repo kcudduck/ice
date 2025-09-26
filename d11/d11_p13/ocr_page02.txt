@@ -1,0 +1,47 @@
+11,860 JULIAN: VOLCANIC TREMOR—NONLINEAR EXCITATION BY FLUID FLOW
+GON FEB. 24 OT7:14 1975
+f
+V Lamm si view
+' ! ' ' ‘ ! ’ - ’ J ’ ' ' ' I ’ ' ’ ’ / ’ ' ' . J) ’ ' ' . { ' a ' . J ' ’ . . 4
+LR bmn
+) . d ' ' ' ' ’ [ ) ’ ' ' ' ) ‘ ' ) N ' . ‘ . [ ’ ' ' ‘ | ' ‘ ’ . ' ' ' ' ’ '
+) ' . ' . [] I ’ ’ , ] ’ . (] ' ’ v ' [| ' . ' - ) ' . * . [] * ’ ' ’ [] ’ ’ . J ’
+10 20 30 40 SEC
+Mi
+Vv L T
+|
+a
+2
+o
+3
+| i
+0 2 3 4 C! eHZ © 2 3 4 8 MZ 0 | 2 3 4 C ¢ HZ
+Figure 1. Examples of tremor seismograms and their spectra from station GON at Sakura-jima volcano,
+Japan [after Kamo et al, 1977]. Abbreviations are V; vertical component; L; longitudinal component;
+and T'; transverse component.
+Lawrence and Qamar, 1979; Ferrick et al., 1982], but no in mammalian circulatory systems. Below I formulate
+mechanism to excite this resonance has been identified. a simplified quantitative model of this mechanism and
+This paper deals with the nonlinear process that investigate its behavior using numerical and approximate
+excites tremor. Many characteristics of observed tremor analytical methods. This model exhibits several types
+are understandable as examples of universal behavior of behavior, depending on the values of parameters
+exhibited by many nonlinear systems. I propose a particular such as driving pressure and fluid viscosity: steady flow
+nonlinear mechanism of tremor generation: flow-induced without oscillations; both simple and complex limit-
+oscillation in channels transporting magmatic fluid. Such cycle oscillations, resembling harmonic tremor; chaotic
+a mechanism has many familiar analogs, including the oscillations; and transient disturbances resembling long-
+vibration of vocal chords, musical wind instruments, period earthquakes.
+defective valves in plumbing systems, and collapsed arteries None of the tremor generation mechanisms that have
+Cc VOLCANIC TREMOR | |
+Jt PS2
+= firearm Add
+S |
+[
+es {Heb irtiees J LT TO
+WR] Pus
+3
+PVV $ | PVV
+015 basso |
+I—— . =a N « == a : oLe
+10 sec 0 2 3 4 5
+Frequency, Hz
+Figure 2. Examples of tremor seismograms and their spectra from Pavlof volcano, Alaska [after McNutt,
+1986].

@@ -1,0 +1,31 @@
+edges to the center. The TEM-SAED recorded from these layers has the characteristic
+halo-disc shape of amorphous materials. One such localized region with SAED aperture
+and obtained SAED pattern are shown in figs. 4 2 (e), and (f), respectively. The PVP
+material is stable under step-2 TEM e-beam investigation used for probing, as evident
+from lack of changes to these layers surface microstructures in the present illustrations.
+Based on the current TEM-BF study (figs. 4 2 (b)-(e)) and literature, a representative
+schematic of PVP lumps concurrent with the observations is overlaid on tig. 4 2 (f) as
+inset [316].
+(0) 4 | .
+= ERAN ;
+. ) or 2X fo 3 0 deg
+OF 0, Nv wo °
+
+RD & 9 \ WN
+
+Fig.4 3 [Pristine PVP AFM observations]: DFM operation for obtaining; (a)
+
+3D-topography, and (b) corresponding phase contrast image (arrows indicate
+
+lump wall) respectively.
+Ethanol solvent dispersed PVP spin-coated on to a silicon substrate is imaged by
+employing the non-contact dynamic force microscopy (DFM) mode in an AFM. PVP
+lumps 3D view is acquired to support TEM 2D observations depicting no contrast. A
+larger PVP globule is chosen, and its acquired 3D topography is shown in fig. 4 3 (a).
+Acquired globule represents one TEM lump and is about micron thick, thereby non-
+transparent to TEM e-beam, hence is of darker contrast. Many micron-sized smaller
+spherical aggregates constituting this lump can be seen in topography, but are recorded
+with better contrast for differentiation in the phase image shown in fig. 4 3 (b) [317]-
+[319]. The existing individual aggregate walls are of 100-400 nm thick and are marked
+
+12

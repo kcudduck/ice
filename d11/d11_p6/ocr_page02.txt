@@ -1,0 +1,39 @@
+Ultrasonic cavitation is widely used for homogenization, dispersion, deagglomeration,
+erosion, cleaning, milling, emulsification, extraction, disintegration and sonochemistry.
+Different processes require different intensities of cavitation. The way to control the
+intensity is typically with the power output and frequency of the ultrasonic probe. However,
+the power output has limitations to indicate the existence of cavitation. If the pressures
+created by the sound wave are not enough to reduce the local pressure below the vapour
+pressure, the sound wave could be transmitted to the liquid without generation of
+cavitation.
+There is a wide range of sonication intensities that are commonly used. This range goes
+from high intensity cavitation to ultrasound without cavitation. The absence of cavitation
+during sonication was proven useful in some chemical reactions (2) and in increasing the
+temperature of the nucleation of ice in water (3). Low acoustic intensity can enhance
+bacteriological processes (4, 5). This is especially important in sonobioreactors, where
+excessive cavitation can damage the cell culture, although ultrasound produces beneficial
+effects (6). On the other hand, there are applications where ultrasound is used but
+cavitation is not desirable such as medicine or ultrasound diagnosis (7)
+Sonochemistry has been proven to have in many occasions low reproducibility due to
+geometrical differences of the beaker or reactor, and power and frequency dependence on
+the probe itself (8). On the other hand, in biology, the failure to reproduce the results from
+another investigator during sonication of cells in vitro is common due to the variability in
+the occurrence of cavitation (9). Mason and Peters listed a series of parameter that should
+be reported in order to increase the poor reproducibility commonly found (10). Among
+those parameters are frequency, intensity and shape. Researchers from the National
+Physical Laboratory reported the creation of a reference cavitating vessel to increase
+reproducibility in industrial and research applications (11, 12). Consequently, a
+dimensionless number that quantifies the existence of cavitation could be a complementary
+parameter that increases accuracy in the replication of conditions in research and industrial
+applications, especially when the conditions are close to the cavitation threshold.
+Therefore, a dimensionless number that predicts the existence or absence of cavitation and
+the proximity to the threshold between the two conditions is a contribution with immediate
+application that can increase reproducibility. This article provides this dimensionless number
+applied to ultrasonic cavitation.
+2. Dimensionless number.
+
+In 2016 a new dimensionless number to predict cavitation in accelerated systems was
+reported (13). It was applied to the “tube arrest” method and to the downstream flow of a
+closing valve. The new dimensionless number was formulated as
+
+2

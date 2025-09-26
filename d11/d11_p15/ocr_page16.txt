@@ -1,0 +1,48 @@
+. We next multiply (4.1) by zdiv(h) and again integrate by parts to obtain the following identity
+b T—s 1 1 —s
+2 [ | ozadivinyarat - 5 | | Junsdiv(iydnar
+2 S I) 2 S ()
+1 1T'—s 1 T—s
++ = / zizdiv(h)dS) + 5 / / (b|Vz| — 27) div(h)dQdt
+2 2 Ss 2 S (2
+b T—s 1 1 —s
+— > [ / Vz -V(div(h))dQdt — 5 | / fzdiv(h)dSdt (4.12)
+S () S Q)
+where we have, as in (4.10), kept the boundary terms on the left—-hand—side. Adding (4.10) and (4.12)
+we obtain
+1 T'—s , , T'—s b T'—s |
+5 (27 — Vz?) (h-v)dDdt +b 0,z(h - Vz)dl'dt + 5 0, zzdiv(h)dI'dt
+S I’ S I’ S I’
+T'—s 1 T'—s b T'—s
+-/ | Juan - V2)dQdt + 5 | | Junsdiv(ydat + 2 JRIONAREY:
+S () S () S ()
+T—s 1 T—s b T—g
++ / zi (h - vic) + 5 | zdiviao — 2 / | =v -V(div(h))dQdt
+Q S 2 2 S 2 S Q
+T'—s 1 T'—s
+-/ | st - V2)dQdt — 5 | | padiviyac
+S () 2 S Q)
+and then the boundary terms can be written more compactly in terms of the interior terms as
+T—s T—s T'—s
+/ Br) (0d: — | | (ru — f) M(t + [ (0
+S S (2 2 S
+b 1T—s b T—s
++ 2 [ / J(h)|V z]?dQdt — 2 / / Vz -V(div(h))dSdt. (4.13)
+S Q) S ()
+by defining My(z) := h- Vz + 1zdiv(h) and
+1
+B(T') := 5 | (2 — b|Vz]?) (h-v)dD + | 0, zMp(z)dl. (4.14)
+I I
+Now, the second part of geometrical condition (4.9) allow us to obtain an estimate for the potential
+z—energy. To see this, first notice that Mj(z) is controlled by the potential energy, indeed,
+1
+| Mi(2)]2| < sup(|h(z)| + div(h)(z)]) (17:1; + 5lel $ zl) S 147222, (4.15)
+rel
+due to Robin boundary condition imposed on 1'y which allows to control Ls norms by the gradient.
+Moreover, the last term in (4.13) can be estimated as
+T—s T'—s
+/ / V9 (div(0)) dst <e / / V2|2dQdt + Cul) 22(e sire), (4.16)
+for any € > 0, due to Peter-Paul’s Inequality and boundedness of D?h in €). Similarly, for any ¢ > 0
+T—s T'—s T—s
+S () S Q) S Q)
+16

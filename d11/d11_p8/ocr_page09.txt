@@ -1,0 +1,47 @@
+Sonoluminescence and sonochemiluminescence from a microreactor 9
+ gX107
+HE 3 pits
+I 2 pits
+AN 11 pits
+| Lo
+D
+®) A
+© A
+O &
+= &
+0.5
+High Low
+Power
+Figure 6: Averaged SL intensities for the different studied experimental conditions with
+aqueous propanol solutions.
+3.3. Luminol solution
+Similar bubble streamer patterns from the luminol emission photographs are obtained
+(Figure|7) to those observed in Figure |3] The light emitted was bright enough to be seen
+with the naked eye in adjusted dark conditions.
+
+As can be seen in these images, the SCL and hence radical formation is intensified at
+the location of the micropits. The average SCL intensities for the case of luminol solutions
+were several orders of magnitude higher than those from the SL in water as presented
+in Figure It is surprising then that the total emissions arising from the substrates
+containing pits are more or less identical to those arising from the blank substrate at low
+power. For the higher power, the two and three pits systems actually produce a lower
+yield than the blank substrate. It has been reported before that luminol SCL can have a
+unusual dependence with increasing power, sometimes reaching saturation and complete
+fading of intensity (Negishi, 1961).
+
+An explanation for our observations is that by driving the systems with two or more
+pits at high power, the shape of the bubbles in the cluster become deformed. This, com-
+bined with liquid flow inside the microreactor chamber, mixing, free liquid-air interface
+oscillation and temperature increase in less than 5 min can bring a change in the SCL.
+
+We speculate that the observation of different SCL signal trends when compared to
+our previous study measuring OH radicals (Fernandez Rivas et al., 2010) are due to
+the surface oscillation taking place at the liquid-air interface of the microreactor at the
+higher power conditions as reported before (Tuziuti et al., 2010). More details will be
+provided in the coming section [3.4] and also in the supplementary videos.
+
+The pixel intensities of the luminol photographs were also averaged in time and are
+presented in Figure 9] It can be seen that the two different experimental techniques
+(PMT and photographic imaging) produced similar trends (compare Figure |8| and 9).
+From the photographic images taken, it can be seen that luminol emission is intensified
+not just at the location of the pits, but also at the edges of the substrate and other

@@ -1,0 +1,66 @@
+14
+
+Going one step further by assuming the fluid is incom- terms on the left-hand side yields
+pressible, with cg — oo, the velocity potential is governed
+by V?i¢ = 0 and the propagation speed along outgo- 200 \ «a [ cp, + R 3c, — R R?
+ing characteristics is infinite. The pressure in the liquid (cur T =) R= 2 (222 H — or —R ’) T
+is given by Eq. (87) and the flow velocity follows from -
+
+Eq. (88) as R ao R? Rpoo
+p (7 + 73 R + 2apu =) — (95)
+R 1+a/2
+U = (5) R. (92) We can solve this second-order ODE by separating it into
+r two first-order ODEs for R and U = R, such that at each
+time instance t; we Integrate the equations
+With cg — oo, the ODE for the radial bubble dynamics,
+Eq. (91), further reduces to a generalized form of the R; +1 =U; (96)
+Rayleigh-Plesset equation':'?2:210
+and
+RR + 5 2? = UPL ~ Poo) (93) : _« cL,j + R; 3cr,; — 1 Rj
+1 200 Uppr = 5p | —2pl Hy = =
+2A; \ ev; — R; cL; —R; 2
+LB (Boa of, 2orH fe) (97)
+VIII. SOLUTION METHODS Aj \ pL;  RipL;  B5pL; Poo,
+where
+The equations governing the bubble dynamics and the 2
+equations describing the flow field can be solved inde- A; =cL RR; + “OH (9%)
+pendent of each other. From the viewpoint of the bubble PL,j
+dynamics, this is possible because the Kirkwood-Bethe The embedded fifth-order Runge-Kutta scheme of Dor-
+hypothesis connects the kinematic conditions at the gas- mand and Prince?!”. which adapts the numerical time
+liquid interface to the spatially invariant ambient con- step At; =t; —t;_; based on the estimated solution er-
+dition at an assumed infinite distance. The flow field, ror, is a common choice to integrate this system of ODEs,
+in turn, is defined by discrete pieces of information that as it is, for instance, the basis of the ode45 function in
+evolve along a single spatial dimension with speed c +u Matlab, the default solver of the solve_ivp function of
+and are connected to their initial conditions originating the SciPy package, and used in the solver of the open-
+at the gas-liquid interface by the invariant g. The solu- source cavitation software library APECSS!9.
+tion methods presented in this section are implemented
+in the open-source software library APECSS'?°.
+B. Flow field
+
+A. Bubble dynamics To solve the How velocity and specific enthalpy (or
+pressure), the information originating at the gas-liquid
+interface is tracked along the outgoing characteristics,
+
+In order to solve the equation of motion of the gas- whereby each parcel of information propagates on its own
+liquid interface, Eq. (54), we require expressions for the  })aracteristic with velocity ¢+w. To this end, the bubble
+specific enthalpy difference H and its derivative H. The radius R;, the speed of the gas-liquid interface Rj, and
+specific enthalpy difference can be computed using a suit- the specific enthalpy of the liquid at the gas-liquid inter-
+able FoS in conjunction with the liquid pressure at the face h1.; obtained by solving Eqs. (96) and (97) serve as
+gas-liquid interface pr, and the ambient pressure p... the initial conditions.
+
+Considering a Newtonian liquid, pp, is given by The invariant g of information parcel 7 is defined upon
+Eq. (56). Since dh = dp/p for the considered isentropic ~~ emission at the gas-liquid interface, at emission time 7;,
+flow, the derivative of the specific enthalpy difference is as
+defined as
+
+2 R(1;)?
+gi = R(7:)*/ ae — hoo (73) + ; | (99)
+=e Pe (1 YR
+
+PL Poo PL lit The radial position r; ; and flow velocity u; ; of each in-
+
+R?2 R Do formation parcel i at time ¢; result from Eqs. (33) and
+
+Hops - apn re (94) (75), by integrating
+3 7 = Ci,j + Ui (100)
+Inserting Eq. (94) into Eq. (54) and gathering the R- dt |; 5

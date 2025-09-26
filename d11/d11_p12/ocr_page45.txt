@@ -1,0 +1,63 @@
+[378] X.-G. Li, I. Kresse, J. Springer, J. Nissen, and Y.-L. Yang, “Morphology and gas permselectivity of
+blend membranes of polyvinylpyridine with ethylcellulose,” Polymer, vol. 42, no. 16, pp. 6859—-
+6869, Jul. 2001, doi: 10.1016/S0032-3861(01)00057-X.
+
+[379] K. K. Kumar, M. Ravi, Y. Pavani, S. Bhavani, A. K. Sharma, and V. V. R. Narasimha Rao,
+“Investigations on PEO/PVP/NaBr complexed polymer blend electrolytes for electrochemical cell
+applications,” Journal of Membrane Science, vol. 454, pp. 200-211, Mar. 2014, doi:
+10.1016/j.memsci.2013.12.022.
+
+[380] E. M. Abdelrazek, A. M. Abdelghany, S. I. Badr, and M. A. Morsi, “Structural, optical,
+morphological and thermal properties of PEO/PVP blend containing different concentrations of
+biosynthesized Au nanoparticles,” Journal of Materials Research and Technology, vol. 7, no. 4, pp.
+419-431, Oct. 2018, doi: 10.1016/j.jmrt.2017.06.009.
+
+[381] P.-H. Huang and H.-Y. Lai, “Nucleation and propagation of dislocations during nanopore lattice
+mending by laser annealing: Modified continuum-atomistic modeling,” Phys. Rev. B, vol. 77, no.
+12, p. 125408, Mar. 2008, doi: 10.1103/PhysRevB.77.125408.
+
+[382] P.-H. Huang and H.-Y. Lai, “Pressure-induced solid-state lattice mending of nanopores by pulse
+laser annealing,” Nanotechnology, vol. 19, no. 25, p. 255701, Jun. 2008, doi: 10.1088/0957-
+4484/19/25/255701.
+
+[383] P.-H. Huang and H.-Y. Lai, “Atomistic modeling of lattice frame effects on laser-induced
+dislocation behaviors in nanopore mending processes,” Journal of Applied Physics, vol. 108, no.
+12, p. 123504, Dec. 2010, doi: 10.1063/1.3517788.
+
+[384] B.-S. An, “Electron beam irradiation induced crystallization behavior of amorphous Ge25b2Te5
+chalcogenide material,” Appl. Microsc., vol. 49, no. 1, p. 17, Dec. 2019, doi: 10.1186/s42649-019-
+0021-5.
+
+[385] I. Jencic, M. W. Bench, |. M. Robertson, and M. A. Kirk, “Electron-beam-induced crystallization of
+isolated amorphous regions in Si, Ge, GaP, and GaAs,” Journal of Applied Physics, vol. 78, no. 2,
+pp. 974-982, Jul. 1995, doi: 10.1063/1.360764.
+
+[386] B. J. Kooi, W. M. G. Groot, and J. Th. M. De Hosson, “In situ transmission electron microscopy
+study of the crystallization of Ge2Sb2Te5,” Journal of Applied Physics, vol. 95, no. 3, pp. 924-932,
+Feb. 2004, doi: 10.1063/1.1636259.
+
+[387] Y. Zhang, J. Lian, C. M. Wang, W. Jiang, R. C. Ewing, and W. J. Weber, “lon-induced damage
+accumulation and electron-beam-enhanced recrystallization in
+S\mathrm{Sri\mathrm{Ti{\mathrm{O}} {3}S,” Phys. Rev. B, vol. 72, no. 9, p. 094112, Sep. 2005,
+doi: 10.1103/PhysRevB.72.094112.
+
+[388] J. Murray, K. Song, W. Huebner, and M. O'Keefe, “Electron beam induced crystallization of
+sputter deposited amorphous alumina thin films,” Materials Letters, vol. 74, pp. 12-15, May
+2012, doi: 10.1016/j.matlet.2012.01.039.
+
+[389] Match! - Phase Identification from Powder Diffraction, Kreuzherrenstr. 102, 53227 Bonn,
+Germany: Crystal Impact - Dr. H. Putz & Dr. K. Brandenburg GbR.
+
+[390] D. Huang et al., “The synergistic effect of proton intercalation and electron transfer via electro-
+activated molybdenum disulfide/graphite felt toward hydrogen evolution reaction,” Journal of
+Catalysis, vol. 381, pp. 175-185, Jan. 2020, doi: 10.1016/j.jcat.2019.11.003.
+
+[391] Y. Leietal., “Unveiling the influence of electrode/electrolyte interface on the capacity fading for
+typical graphite-based potassium-ion batteries,” Energy Storage Materials, vol. 24, pp. 319-328,
+Jan. 2020, doi: 10.1016/j.ensm.2019.07.043.
+
+[392] T. Seita et al., “Graphite—Lithium Sulfide Battery with a Single-Phase Sparingly Solvating
+Electrolyte,” ACS Energy Lett., vol. 5, no. 1, pp. 1-7, Jan. 2020, doi:
+10.1021/acsenergylett.9002347.
+
+45

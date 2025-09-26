@@ -1,0 +1,64 @@
+The Journal of Organic Chemistry pubs.acs.org/joc
+resulting from energy dissipation along with reversible surface HB AUTHOR INFORMATION
+deformation.'”> The latter can enhance catalytic rates via C :
+ion—desorption process induced by the acoustic oscil- orresponding Authors
+hon P P Y R. Fernando Martinez — Department of Organic and
+Inorganic Chemistry, Faculty of Sciences, and IACYS-Green
+Chemistry and Sustainable Development Unit, University of
+BM CONCLUSIONS AND OUTLOOK Extremadura, 06006 Badajoz, Spain; © orcid.org/0000-
+“Oye hijo mio, oye el silencio, Es un silencio onduloso” 0002-3278-6074; Email: rmarvaz@unex.es
+[“Hear my son, hear the silence, It is a wavy silence” Pedro Cintas — Department of Organic and Inorganic
+, Chemistry, Faculty of Sciences, and IACYS-Green Chemistry
+Federico Garcia Lorca (1931)"* and Sustainable Development Unit, University of
+One could conclude that sonochemistry, dealing with the Extremadura, 06006 Badajoz, Spain; © orcid.org/0000-
+chemical use of sound in a broad range of frequency and 0002-2608-3604; Email: pecintas@unex.es
+power, has gained a pole position among enabling techniques
+with an eye on more sustainable protocols. In some ways, Author
+however, the discipline cannot be regarded as mature. We Giancarlo Cravotto — Dipartimento di Scienza e Tecnologia
+should ask questions like, why one or the other product are del Farmaco, Universita degli Studi di Torino, Torino 1012S,
+obtained, whether we can understand how activation happens, Italy; © orcid.org/0000-0001-7574-7350
+and if the use of ultrasound is really justified, rather than Complete contact information is available at:
+claiming another synthetic variation. While ultrasonic https://pubs.acs.org/10.1021/acs.joc.1c00805
+activation is rooted in well-established principles of cavitational
+phenomena, the first action to be taken, which agrees with the Notes
+rules suggested by Apfel, is know the equipment you need and The authors declare no competing financial interest.
+how it works. Reproducible experiments can be run paying Biographies
+attention to a few parameters without worrying about others.
+In our Perspective, we have given a glimpse on known facts.
+One can anticipate that some reactions and substrates will be
+sensitive to sonication in either physical or chemical terms.
+Whether or not ultrasound switches the conventionally , a
+assumed mechanism often needs further evidence, where the ,
+sonochemical experiment itself can be as informative as other
+elucidation methods. Attempts to classify sonochemical ¥
+reactions can result in ill-conceived conclusions if structural a 9 §
+and solvent effects that usually accompany cavitation are not
+investigated in detail. A reductionist approach that merely :
+considers either convergent or divergent results with respect to FAY.
+conventional chemistry may be the key to identifying the tools Ca !
+that are required to understand how the reaction takes place. AES \& 1 »
+Whatever the mechanism can be, a different result under R. Fernando Martinez studied Chemistry at the University of
+sonication is not synonymous with a radical/electron transfer Extremadura, where he received his B.Sc. in 2006. In 2010, he
+pathway as often and erroneously invoked; two polar received his Ph.D. at the University of Extremadura under the
+mechanisms can compete each other. Perhaps the most supervision of Prof. Juan C. Palacios. In 2011, he moved to Oxford,
+divergent results arise from the conceptual framework of where he worked as a postdoctoral researcher in the groups of Prof.
+sono-mechanochemistry as another manifestation of mechanical George W. J. Fleet and Prof. Angela J. Russell (University of Oxford).
+effects, especially in polymer chains, induced by turbulent In 2015, he joined the group led by Prof. Maria Luz Lopez Rodriguez
+solvent flows at the microscale. The issue is complex, although at the Complutense University of Madrid. Since 2017, he has been
+inertial motion in an acoustic field may affect both bonding working as Associate Professor at the University of Extremadura.
+and energy barriers. As far as we know, cavitation does not =
+involve an electric field component (as once postulated) and fo |
+our present-day interpretation relies largely upon the hot spot | ES |
+theory. Piezoelectric materials, the source of ultrasonic i ak
+transducers, are susceptible to electric polarization under Eo
+strain. This peripheral effect can advantageously be exploited in ET I
+new mechano-redox processes that provide salient and i | { y,
+unexpected results. A translation of cavitational flow into a ~ =.
+continuous operation has enabled further innovation in :
+microfluidics and acoustophoretic devices, which should be
+part of the future of chemistry. Despite bottlenecks and
+insufficient knowledge of cavitational effects, the impact of
+ultrasound-based chemistry is steadily increasing in multiple
+synthetic and nonsynthetic applications.
+13851 https://doi.org/10.1021/acs.joc.1c00805
+J. Org. Chem. 2021, 86, 13833-13856

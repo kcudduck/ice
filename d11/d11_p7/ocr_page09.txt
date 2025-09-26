@@ -1,0 +1,69 @@
+process and are not stimulated by other mutual colli
+sions. All the studied salts, even Rb,SO, (which itself
+gives no characteristic lines), suppressed the emission
+band of OH* in the sonoluminescence spectrum; this .
+1s attributed to the reactions n
+Me + OH* ———— Me* + OH (8) y Bl
+SN) i
+Me + OH*——> MeOH + hv (9) :
+Peterson and Anderson®® obtained, during hydro-
+dynamic cavitation, spectra of light emission which
+were blue-white discrete splashes. The spectra proved
+to be rather flat and uniform (Fig. 7), and did not
+contain either lines or bands (within the limits of the
+resolution of the apparatus). UVoiwfl = ——..
+Though the sonoluminescence and the light emission Tin I
+produced by hydrodynamic cavitation would be | |
+expected to be similar in nature, the spectrum of the Fig. 8 Dependence of sonochemica reaction rate (w) and
+latter (as opposed to that of the sonoluminescence) sonoluminescence flux {U] on intensity
+proved to be different from black-body emission. As
+et, the reasons for this are not clear. The hydro- C
+dynamic light emission spectrum might bo a where Fr and Fy are initial energy yields of radicals
+maximum. but in a loneer-wave part which proved and excited molecules, M*, x and g are coefficients of
+accessible for the e x ment a Ref ee the chemical and light activities of cavitation, k 1s the
+quip CT fraction of acoustic energy expended to create the
+E ) Co. . cavitation, 4; and a; are the probabilities of emission
+nergetics of the cavitation field and non-emission transitions, / is the length of the
+The effect of the sudden increase in the sonolu- cavitation region and Np 1s the Avogadro number.
+minescence flux by U™ and in the sonochemical reaction
+rate by w™ at / = [ >’ requires a revision of the basic ee ay When 2 and U depen ence
+oe Co for cavitation field?’ | CL LL A te ;
+inimal stationary concentration of cavitation bubbles ual conditions. the square brackets contain only one
+be nm and the a on liberated insid item, prethreshold light flux, Up. and, possibly, the rate
+Ginole bubble or / Che Em Then (he Pa : of prethreshold sonochemical reaction, wP. At low
+S at [~ refin » _ Al:
+formula of Messino® for n (/) should take the form? Intensities when [AU =1y) < I. we observe parabolic
+oe functions of w({) and U(/). At moderate intensities
+hen IA(/—1,) > 1, there are linear functions of w(/)
+no() = n= + a(l-I 10 W th) = 1, HEL net
+(7) (Hn) (10) and U(/). When intensities are very high, > | and
+The Rosenberg formula for the function of the both w and U decrease® with increasing /.
+cavitation losses of acoustic energy®’ should be . .
+represented as?’ Effect of sonoluminescence quenching
+pm, m Reference 69 gives relations between the sonochemical
+CU I) = — ar _ A(T)? + 1 Tx (11) reaction rate and the sonoluminescence flux, and their
+ox I, energy yields. and some parameters in the cavitation
+bubble:
+where x 1s the coordinate of a one-dimensional
+cavitation region, and a and A are constants. The [7
+energy released inside a single bubble 1s equal to?’ w+ wys + re
+A
+o 2AT,
+E,(I) = £7 + — (I=Itn) (12) _ KPpme ; 1 Zk; 0*E
+100 NV TeZV; ZV; | Vor
+General formulae for the sonochemical reaction rate A i
+(w) and sonoluminescence flux (U) against the 5
+intensity* at / =1,;, are written as follows?3: (15)
+—I.. )2 1 2k
+Ww = )Y KX Elna + A(l Tih) + WP XF_n,0 + € F, + Fn, = Orme £ mr tt
+100 Ny To 1 + A(T) Te «Vj Pi
+(13) (16)
+u Fys hD ZA; . pic . A(T)? [+ LP where FE 1s the acoustic energy taken up in volume, V,
+CT Thais a cso Ka Tr YT a during time, 1, gp is the energy yield of excited
+TA; + Za; T 1 + A(T] HMC, L, Oy 1 gyy
+100(24; ) ° (Fn) molecules M*®, k; is the rate constant of the
+(14) quenching of M*, p; is the partial pressure of the
+quencher, v; are characteristic frequencies for the
+* In these equations, the coefficient 6.25 x 108 (for conversion of J to cmission, Intercombination Conversion, predissociative
+eV) is omitted degradation, quenching, and possible reactions of M*
+ULTRASONICS . JULY 1985 165

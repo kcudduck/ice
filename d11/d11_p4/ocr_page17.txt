@@ -1,0 +1,55 @@
+15
+case, an unconventional jetting mechanism 1s observed and shown to be responsible for the
+appearance of a vortex dipole travelling in the direction opposite to the wall. The nature of
+interaction between the bubble and the surrounding medium is then strongly influenced by
+the bubble shape at the instant before collapse, appearing as a critical parameter if one wants
+to control or model the physical phenomena triggered by the collapse of bubbles attached to
+a wall.
+
+The findings of this work could be used to explain and control various processes triggered
+by the collapse of bubbles. Some examples include mixing and transport processes, the
+development of treatment technologies based on the bubble—tissue interactions including
+drug delivery and high intensity ultrasound techniques (Prentice ef al. 2005; Ohl et al.
+20060; Maxwell ef al. 2011) and the interactions between a collapsing bubble and the free
+surface (Kedrinskil 1978). Another exciting phenomenon 1s generation of surface waves from
+the bubble collapse in deep water. The phenomenon described in this manuscript may be
+eventually related to the appearance of Tsunamis from underwater volcanic eruptions where
+the mechanisms linking both processes are not fully understood yet Paris (2015). Finally the
+fundamental understanding of interaction of collapsing bubble with the surrounding media
+should improve the design and development of various technologies based on the physical,
+mechanical and chemical effects induced by the collapse of bubbles. The relation of the
+singularity of potential flow to the well known force singularity during the motion of contact
+line described by Huh & Scriven (1971) remains another open research problem where the
+solutions reported 1n this work may inspire new ideas.
+
+Acknowledgements. Authors want to acknowledge Julien Le Clanche, research engineer at ENSTA Bretagne
+for his kind support.
+
+Funding. This research 1s supported by European Union (EU) under the MSCA-ITN grant agreement number
+813766, under the project named ultrasound cavitation in soft matter (UCOM). Part of this work was part
+of the PROBALCAYV program supported by The French National Research Agency (ANR) and cofunded
+by DGA (French Minisitry of Defense Procurment Agency) under reference Projet ANR-21-ASM1-0005
+PROBALCAV.
+
+Declaration of interests. The authors report no conflict of interest.
+
+Author contributions. D.F., M.A. and S.Z. designed the research program. M.S. conducted the simulations
+and analyzed data. M.S. and D.F. did the theoretical calculus. E.T. and M.A. performed the experiments.
+M.S, D.F, M.A., E.T. and S.Z discussed the results. M.S. and D.F. wrote the paper.
+
+Appendix A. Convergence study
+
+The convergence properties of the contact line velocity and jet velocity are discussed in this
+section. The velocity of the contact line (figure 10a where |urp| is contact line velocity)
+changes as the mesh is refined since slip length changes implicitly (1 = Axi, /2). It is also
+evident from the same plot that in very short times the well known scaling for the thickness
+of the boundary layer (¢!/?) is not recovered as the boundary layer is not well resolved. At
+slightly longer times the boundary layer growth recovers the expected scaling law. Despite of
+the sensitivity of the contact line motion to the slip length imposed, the peak interface velocity
+(Jet velocity uj.) plotted in Figure 10b reveal that the numerical results are converged and
+therefore independent of the slip length.
+
+Appendix B. Experimental method
+
+The experiments are performed with pulsed Nd:YAG laser (model quanta ray pro 350-10)
+that provides maximum of 3.5] of energy with Gaussian distribution in time having half

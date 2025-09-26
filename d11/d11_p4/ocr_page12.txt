@@ -1,0 +1,52 @@
+10
+0.003 1.00
+°c a="Tr/12
+°c a=27r/3 0.95
+0.002 a = 3m /4
+Ujet a= 57/6 q 0.90
+Ue
+0.85
+0.001
+0.000 +£ 0.75
+0.0000 0.0001 0.0002 0.0003 T/2 21/3 57/6 ™
+tUc Qo
+R.
+(a) (b)
+Figure 5: (a) Evolution of jet velocity for different contact angles from (dots) DNS and
+(solid lines) fitting using equation 3.7. (b) Exponent ¢g from DNS fitting and predictions
+of equation 3.8.
+the wall, the thickness of this layer defined by the height for which the velocity 1s maximum.
+Outside this region the free surface potential flow solution (equation 3.4), shown with a solid
+black line, predicts the interface velocity obtained from DNS relatively well, therefore the
+potential flow solution 1s a good approximation of the collapse process outside the viscous
+boundary layer. Inside the viscous boundary layer, the interface acceleration 1s sensitive to
+the slip length imposed (see Appendix A) and also to the movement of the contact line. In
+this region, the solution of free surface model at # = O cannot be extrapolated to predict the
+flow field near the contact line at short times. Remarkably, although the contact line motion
+1s grid dependent, the average acceleration and the maximum jet velocity 1s shown to be
+independent of the slip length imposed (see Appendix A). This fact together with slight
+dependence of the average acceleration with Re (figure 3c) confirms that for large enough
+Reynolds numbers, the bubble dynamic response 1s mainly governed by the potential flow
+solution and not by the particular contact line motion model used. In these conditions, the
+free surface potential flow model at r = O 1s a useful tool to predict the average dynamics of
+the interface at short times.
+
+In order to characterise the jet formation process we extract the maximum interface velocity
+magnitude from DNS data, which we name as jet velocity uj... This velocity 1s fitted using
+a power law function of the form (figure 5a)
+
+Diet _ A %) (3.7)
+
+Ue Rc
+where ¢ 1s a coeflicient that becomes smaller than one when the acceleration 1s singular at
+t = 0. A theoretical estimation of coeflicient g accounting for viscous effects can be obtained
+from the singular solution described in the previous section as following: The jet velocity after
+short time (#5) can be approximated from the initial acceleration evaluated at the interface at
+height equal to thickness of boundary layer z = d(¢y). The d is given approximately by the
+solution of the Stokes problem for the flow near the flat plate that 1s impulsively started from
+rest therefore, we can impose that 6(z5) ~ Cs+/vty where Cg is a constant of order unity. In
+this case the jet velocity velocity 1s estimated as
+
+Ujer(ts) = arr (t = 0,21 = 6(t5)) 1s
+where we assume that the interface quickly decelerates as soon as it enters inside the viscous
+Rapids articles must not exceed this page length

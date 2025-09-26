@@ -1,0 +1,48 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+(2) a (b) SLiminiilon memento
+#—#% Spandan et al. (2018) van den Berg et al. (2005)
+dl ===) J | [3] Sugiyama et al. (2008) van Gils et al. (2013)
+—— pr Ea I - Us er Lagmongion racking ¢ ¢ Chouippe et al. (2014) Verschoof et al. (2016)
+yoo INES 103
+9 29
+Lg, fl T&R - clipsoidal bubbles and drops 102
+| 1 : | A
+A () A Il 7a - finitesize bubbles and drops
+rN : 0: - “| e ential bse emt 100 i
+FL ----- jee 10!
+— Cc mmm 10? 103 10 10° 10°
+Re;
+FIG. 29. (a) Visualization of the different ways to numerically treat bubbles in TC flow, depending
+on their sizes. Figure adopted from the PhD thesis of Vamsi Spandan, Physics of Fluids, University
+of Twente, 2017. (b) Parameter space of bubble drag reduction in TC flow: Various bubble sizes
+dy (given relative to the Kolmogorov scale 6,) were realized in experiments and simulations for
+Reynolds numbers Re; from a few hundreds up to more than 10°. The left block of data are
+experiments and numerical simulations for microbubble drag reduction from refs. [21/, 215, 222,
+223], and the right block of data are our large Re experiments with deformable bubbles [196, 205,
+206].
+in the low Reynolds number regime the effect of bubble drag reduction gets smaller with
+increasing Reynolds number (figure 28a).
+
+As the relevant mechanism for bubble drag reduction in TC flow in the low Reynolds
+number regime, we could identity the considerable weakening of the Taylor rolls through the
+rising bubbles, see figures 28b-d. The crucial parameter in this low Reynolds number regime
+is therefore the Froude number (and not the Weber number as in the large Reynolds number
+regime), here defined as square root of the ratio between centrifugal force and buoyancy,
+Fr = w;\/1;/g, where r; is the bubble radius, w; the angular velocity of the inner cylinder
+and ¢ gravity. For small Fr < 1 (figure 28c), buoyancy wins, and the bubbles rise through
+the Taylor rolls, thereby weakening them. This reduces the angular momentum transfer
+from inner to outer cylinder and thus the drag. For large F'r > 1 (figure 28d) the bubbles
+simply get trapped in the Taylor rolls, without affecting them much, and the overall drag
+remains nearly unchanged [217]. For increasing Reynolds numbers the Taylor rolls more and
+more lose their low dominance which explains why in this low Reynolds number regime the
+bubble drag reduction decreases with increasing Reynolds number (figure 28a).
+
+The challenge for the next years will be to close the gap between the microbubble drag
+reduction experiments at lower Re of Murai et al. [214] and our large Re experiments
+with deformable bubbles [196], see figure 29. Our first step on this way was to include
+bubble deformability in point-particles by picking up an idea of refs. [218, 219] and couple
+the deformation dynamics of ellipsoidal bubbles to the flow. Indeed, we found that bubble
+deformation helped the overall drag reduction [217]. In a second step [220], we coupled the
+well-resolved bubbles with an immersed boundary method to the Navier-Stokes equation,
+again finding that an increase in the bubble deformability (i.e., its Weber number) indeed
+37 37

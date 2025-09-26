@@ -1,0 +1,36 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+(c) L CA-mode
+(a) unpinned: “CA-mode”
+ee 5 ’
+pinned: “CR-mode” 0 CR-mode
+(b) 5x10
+| — — Pinned (d)
+4 AEN —— Unpinned
+& — i N
+a2 9 6 = 90°
+—~40° R,=1 m \
+9 = 0° —_— R-H i
+1
+/ )
+Y—07 08 12 16 2
+a x 10°
+V/m
+FIG. 18. (a) The nanobubbles can dissolve in two different “modes” (the time direction is indicated
+by the arrow): In the CA mode (constant contact angle, above), the contact angle is constant. As
+a result, the radius of curvature becomes smaller and smaller, which leads to the divergence in the
+Laplace pressure, as can be seen in (b) (red curve), where we show Ap = Drapiace aS a function
+of the bubble volume V. In the CR mode (constant contact radius, bottom), the contact radius is
+constant and the contact angle becomes smaller. As a result, the radius of curvature increases in
+the course of the dissolution process and the divergence in Laplace pressure does not occur (blue
+curve in (b)). In (c), we show a sketch of the phase space for the stable equilibrium, which results
+in “pinning” (CR-mode, bottom), with the equilibrium contact angle 0., given by equation (§8)),
+and a sketch of the phase space for unstable equilibrium without pinning (CA-mode), in which the
+surface bubble either shrinks or grows. In (d) the used notation is introduced: L is the lateral extent
+of the bubble at the substrate (contact diameter), H is the bubble height, 0 is the contact angle at
+the gas side, and R the radius of curvature.
+can exist. That the equilibrium indeed is stable is seen from the phase space figure 18c,
+bottom. In this stable equilibrium, Laplace pressure (causing gas flux out of the bubble)
+and gas overpressure (causing gas influx) are in balance.
+From equations (7) and (8) we also see that for too large oversaturation ( > L./L there
+is no stable equilibrium and the surface bubble keeps on growing so that it will finally
+20 20

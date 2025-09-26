@@ -1,0 +1,56 @@
+The Gilmore-NASG model to predict single-bubble cavitation
+in compressible liquids
+Fabian Denner
+Chair of Mechanical Process Engineering, Otto-von-Guericke- Universitat Magdeburg,
+Unwversitatsplatz 2, 39106 Magdeburg, Germany
+Abstract
+The Gilmore model is combined with the Noble-Abel-stiffened-gas (NASG) equation of state to yield a simple
+SS model to predict the expansion and collapse of spherical bubbles based on real gas thermodynamics. The
+o NASG equation of state resolves the temperature inaccuracy associated with the commonly employed Tait
+~ equation of state for liquids and, thus, can provide a consistent description of compressible and thermal effects
+of the bubble content and the surrounding liquid during cavitation. After a detailed derivation of the proposed
+= Gilmore-NASG model, the differences between the classical Gilmore-Tait model and the proposed model are
+< highlighted with results of single-bubble cavitation related to bubble collapse and driven by an acoustic excitation
+in frequency and amplitude regimes relevant to sonoluminescence, high-intensity focused ultrasound and shock
+— wave lithotripsy. Especially for rapidly and violently collapsing bubbles, substantial differences in the bubble
+@\ behaviour can be observed between the proposed Gilmore-NASG model and the classical Gilmore-Tait model.
+— The ability of the Gilmore-NASG model to simultaneously predict reliable pressure and temperature values
+- in gas, vapour and liquid, makes the proposed model particularly attractive for sonochemistry and biomedical
+> applications.
+jo
+~ Keywords: Cavitation, Bubble dynamics, Rayleigh-Plesset models, Real gas
+= (© 2020. This manuscript version is made available under the CC-BY-NC-ND 4.0 license.
+http: //creativecommons.org/licenses /by-nc-nd /4.0/
+Q
+ee
+v9
+= 1. Introduction applications in which an accurate prediction of the
+QO. bubble behaviour as well as the temperature and the
+— The Rayleigh-Plesset (RP) model [1] and its vari- pressure of the liquid is critical, such as sonochem-
+ous extensions are the workhorse of theoretical stud- istry [10], sonocrystallisation [11] or ultrasound-based
+C1 jes of bubble dynamics and cavitation. All RP model
+> les of bubble dynamics an cavitation. models medical treatments [12, 13].
+@\ have Hh COLInon that (i) the modelled bubble dynam- During the expansion and collapse of a bubble,
+cn) ics are spherical and that (ii) the compression and  yeat is exchanged between the gas (or vapour) inside
+3 expansion of the gas or vapour inside the bubble is a {Lo hybble and the surrounding liquid as a result of
+- polytropic process. Yet despite these seemingly limit- thermal diffusion as well as evaporation and condensa-
+. ing simplifications, RP models have been very success- tion [14]. The liquid, thus, regulates the temperature
+= ful 1h modelling a broad range of bubble dynamics and of the bubble content, whereby the large heat capacity
+- cavitation phenomena [2]. Among the various exten- of the liquid plays a dominant role [15]. Representing
+~~) sions of the RP model to include the compressibility the heat capacity of the liquid surrounding the bub-
+> of the liquid or soft matter surrounding the bubble pe accurately, therefore, has a direct influence on the
+o vi 3, 4]; the model proposed by Gilmore 1] is generally temperature and, in turn, on the pressure and chemi-
+e considered one of the most widely applicable models 51 reactions inside the bubble.
+= 2, 6]. | | N A conceptually simple model to predict the ex-
+Lhe Gilmore model is traditionally founded onthe pansion and collapse of spherical bubbles based on a
+Tait equation of state (EOS), the polytropic form of consistent EOS for both the gas or vapour inside the
+the stiffened-gas EOS [7], to describe the liquid. While pyphle as well as the liquid surrounding the bubble is
+the Tait LOS is able to represent the compressibility ot available to date. In order to remedy this short-
+of common liquids, such as water, accurately, it fails coming. a Gilmore model based on the Noble-Abel-
+to predict their temperature 3, 9], due to an unphys- gtiffened-gas (NASG) EOS is proposed. The NASG
+ically large polytropic exponent and underpredicted EOS is able to describe both compressible and ther-
+heat capacity. This is a significant shortcoming for a] effects in gases, liquids and their vapours reliably
+using a single EOS [8, 9, 16].
+*Corresponding author:
+Email address: fabian.denner@ovgu.de (Fabian Denner)
+1

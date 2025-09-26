@@ -1,0 +1,42 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+gy 4 8
+RE X poe
+-
+? 9 gs |
+a :
+> of
+a) b)
+FIG. 6. (a) HeLa cells (some um in size) glued to a glass plate. In the center of the cell colony a
+bubble imploded, leading to a cell detachment due to the induced shear flow. Cells at the edge took
+up fluorescine, which is only possible through holes in the cell membrane. (b) These holes can be
+visualized through electron microscopy. Figures taken from ref. [55].
+vapor bubbles [58]. While for gas bubbles it makes sense to ascribe them an ambient radius
+as the gas exchange processes with the environment are slow due to the slow gas diffusion,
+it does not make sense for vapor bubbles, which are controlled by the much faster heat
+diffusion and condensation and evaporation. Also the resonance frequency of vapor bubbles
+does not scale like the inverse radius as for gas bubbles (equation (4)), but as ~ 1/R?/3
+58]. Note that an expanding vapor bubble is not only invaded by evaporating liquid, but
+also by gas dissolved in the liquid, which in the long term crucially determines its dynam-
+ics and lifetime, as we showed for vapor bubbles generated with water-immersed plasmonic
+nanoparticles [59].
+
+Such so-called plasmonic microbubbles [60, 61] indeed also have potential biomedical
+applications [62-66], again both in diagnosis and therapy (next to other potential appli-
+cations in micro- and nano-manipulation, catalysis, and solar energy harvesting [67]), and
+understanding and controlling the dynamics of these microbubbles is key to successfully
+exploit them — and to recognize potential risks. In figure 7a we show the life-cycle of such
+a plasmonic nanobubble, nucleating in air-saturated water thanks to laser-illumination of
+plasmonic gold nanoparticles, each with a diameter of about 100 nm. Note the very differ-
+ent timescales in between the four snapshots. After some delay time 7; after the beginning
+of the illumination, the bubble explosively grows to giant size (as compared to the size of
+the nanoparticle), up to a maximum radius of 80 um, and collapses again within ~ 10us
+(bubble life phase 1, which we time-resolved with ultra high-speed imaging in figure 7b).
+The maximum bubble volume V,,,,, remarkably increases with decreasing laser power IF, see
+figure 7c, and, also remarkably, decreases with increasing gas saturation of the water.
+
+We could explain [57] these remarkable features, based on the phase diagram of water (see
+figure 7d for a sketch) and in particular the lines of attainable superheat therein, which are in
+between the line of liquid-vapor coexistence and the liquid spinodal line. We first measured
+the delay time 7; from the beginning of the illumination up to nucleation, which drastically
+increases with decreasing laser power, leading to less total dumped energy FE = Py74. This
+11 11

@@ -1,0 +1,38 @@
+waves remain genuinely nonlinear.
+
+For other relatively recent references related to regularity questions for linear MGT equation, an
+interested reader may be referred to : [8, 38, 44|
+2 Main Results and Discussion.
+
+We consider the system comprised of (1.1), boundary conditions (1.4) and initial conditions
+u(0, +) = ug, ut (0) = uy, ug (0, +) = us (2.1)
+with regularity to be specified in what follows.
+
+Here and throughout the paper, by L?(Q)) and L*(I') we denote the sets of measurable (in the
+Lebesgue and Hausdorff senses, respectively) functions whose squares are integrable on 2 and I’
+respectively equipped with the norms induced by the inner products
+
+(u,v) = / wud? and (u,v)r = [ vir
+0 r
+and denoted respectively by ||-||2 and || ||[r. The remaining LP(2)—spaces (1 <p < oo) will also have
+their norms denoted by || -[|,. Additionally, by H*(£2) we denote the (L*-based) Sobolev space of
+order s and define the particular spaces H{ (2) and HZ(Q) as
+HQ) = {ue H(Q); ulr=0} and HE(Q) = H*(Q) N HQ)
+
+in order to avoid confusion with the standard Hj; ().
+2.1 Functional Analytic Setting.
+Let A: D(A) C L*(Q) — L*(Q2) be the operator defined as
+
+AE = —AE, D(A) = {£ € HQ); B€lr, = 0,046 + rol, = 0}. 22)
+In this setting, A is a positive, self-adjoint operator with compact resolvent and for ro > 0, D (AY?) =
+H'(Q) with the — equivalent to H'(Q)) — topology of D(A?) given by
+
+fully = [Val + | wofufdTo
+0
+In addition, with some abuse of notation we (also) denote by A: L*(Q) — [D(A)]|' the extension (by
+duality) of the operator A.
+Let us introduce the phase space H given by
+H := D(AY?) x D(AY?) x L*(Q) ~ HY(Q) x HY(Q) x L*(Q). (2.3)
+Next, we rewrite (1.1) along with (1.4) and (2.1) as a first-order abstract system on H. For this,
+we introduce the classic boundary — interior harmonic extension for the Neumann data on I'; as
+4

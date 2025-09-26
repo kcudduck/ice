@@ -1,0 +1,65 @@
+conclude that pulsing bubbles can produce only a very
+small part of the light emission in an acoustic field.
+Spectral studies of sonoluminescence
+An extensive study of sonoluminescence spectra of
+water and salt solutions is presented in Ref. 61. The
+| sonoluminescence spectra (Fig. 7) show a continuum
+with a broad peak between 300 and 400 nm, with lines
+~ | and bands at 290, 310, and 340 nm distorting the peak
+= The continuum peak obtained at 500 kHz 1s located
+- nearer to the UV region than that obtained at 16 kHz.
+g When replacing the gases Ar, Kr, Xe, the peak
+£ sharpens and shifts a little to the UV region. The
+= features observed in the spectrum at 300 nm®'-®? are
+> classified by Taylor and Jarman as a transition,
+3
+OH*(A2Z")——OH (X*M) + Av (5)
+A which is characteristic of the deactivation of an excited
+hydroxyl. Generally, OH* 1s produced by exciting
+water up to a level of 'A,. The three weak bands in a
+| region of ~300 nm are referred to transitions between
+5 the vibrational levels v (2.0.0) and v (1,0.1). respectively.
+2 This classification of the bands is in agreement with
+papers on flame spectroscopy. The band (0.0) becomes
+more intense with the replacement by the gases Xe, Kr,
+200 400 600 Ar, and the lowering the frequency from 500 to 16 kHz.
+A Lom] We believe that the increased sharpness at 300 nm for
+, . | oo [6 kHz is accounted for by the longer “life” of the
+ear ouImInesconcs pests of water saturated wih of a excited OH* (cog ~10°°'9). In fact at 16 kHz the
+3 — 500 kHz; 4 — 16 kHz®'. Spectra of light emission during sonoflashes last tor about 0.1 7, = 6 xX 107% s, which is
+hydrodynamic cavitation®® of water saturated with air and 17% Xe (not to greater than toy« (here 7, 1s an acoustic oscillation
+scale) period). At 500 kHz, 0.1 7, = 2 xX 1077 s € tos. and a
+considerable part of the OH* has no time to give a
+light flash; therefore, the intensity of the band for OH*
+ration of small fragmentation spherical bubbles: with respect to the continuum is lower thaan it 1s at
+pulsation and growth of fragmentation bubbles: 16 kHz.
+attraction of fragmentation bubbles to bigger bubbles Salts dissolved in water proved not only to give
+under Bjerkness forces, etc. Thus a stationary intensive characteristic lines of metals in the spectrum,
+concentration of cavitation bubbles results. but also to change the entire emission spectrum at low
+The dynamics of cavitation field evolution by the ultrasonic irequencies, particularly In the red region”.
+above chain mechanism can be described by the Ret. 63 explains the eitect ol the CHSS1ON of alkaline
+following equation’s: and alkahne-earth metal lines in a cavitation field oh
+The theoretical results of the space-time distribution of
+dn _ n _ Kn? 4 jn (3) temperature (heat exchange considered) in a contrac-
+a iT, c iT, ting cavitation bubble**-** have shown that at the final
+stage of the process, lasting less than 1077 s, heating
+where # 1s the local concentration of cavitation bubbles occurs of both the bubble vapour-gas mixture and the
+at time ¢, K_ is the rate constant of their coalescence adjacent area ( ~ 107° ¢m thick), the temperature of the
+and j is the average number of fragmentation bubbles latter reaching ~0.1 7, (T};, 1s the maximum tempera-
+after one bubble has split. Integration of (3) between ture at the centre of the bubble). The parameters
+the limits 0 and ¢, and from the initial concentration, achieved at the boundary between the bubble and the
+ny. to n gives the following solution®: liquid are sufficient for evaporation of halide salts. A
+Noo Mg microquantity of a salt, for example NaCl, entrained by
+nit) s ———————— (4) the vapour-gas stream inside the bubble, suffices to
+ng + (neo — 119) exp (~ Nek ol) excite metal spectral lines when heating; analogous
+: yrocesses are provided by flames, shock tubes, etc. This
+Here the stationary bubble concentration 7. = volves clementary Drocesses which, for halide salts,
+(j—1)/iK_.T,. and T, is the period of acoustic oscillations. MeX. are represented by the Terenin equation:
+The detection of prethreshold light emission in water"? E
+and of very weak luminescence of bubbles (of a near- MeX ——=Me* + X (6)
+resonance size) artificially injected into a water-
+glycerine mixture (95% glycerine)* allows us to Me * -Me + hvye (7)
+* 60
+umber of bubbles changes under uiyasound: thus i is not clear f bubble OT Process (6). the dissociation and excitation of the
+splitting took place degraded product are involved in one elementary
+164 ULTRASONICS . JULY 1985

@@ -1,0 +1,42 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+a
+eo? > \- Q
+\ low ol CR,
+100 um ge ovum 3
+200 um ‘ 3 ri om t=1s t=152s t =2935s
+oF 200mm X R =20 um R = 307 um R =474 um
+0 um
+
+FIG. 22. (a) Confocal images of surface oxygen bubbles in a HsOs-solution (0.1% in water),
+growing on a (catalytic) platinum surface, 7.2 s after exposure of the platinum with the peroxide.
+Image made by Pengyu Lv, Physics of Fluids, University of Twente. (b) Three snapshots of the
+same surface bubble, pinned at a micropit, and growing out of a C'Os-oversaturated solution with
+a (pressure controlled) oversaturation of ( = 0.18. Figure taken from ref. [158].
+
+nano- and microbubbles considerably impair the efficiency, as they cover the electrode or
+catalyst. How does one control the growth of the bubbles and how to get rid of them?
+We have taken some first steps to answer these questions [159-162|. Figure 22a shows
+catalytically grown oxygen bubbles on a platinum surface immersed in a hydrogen peroxide
+(H>O5) solution. The platinum acts as a catalyst which triggers the decay of the peroxide to
+oxygen (evolving in bubbles) and water. For such bubbles evolving out of chemical reactions
+the relevant dimensionless number coming into play is the Damkohler number Da, which is
+the ratio between the chemical reaction rate and the (diffusive or convective) mass transport
+rate. If Da is very large, the chemical reactions is controlled by the latter.
+
+An example of a carbon dioxide bubble which is purely growing by diffusion is shown in
+figure 22b. As discussed above, according to the Epstein-Plesset theory [20], for such bubbles
+the radius should grow in time with a square-root behavior. As we found in ref. [158], in the
+beginning it indeed does, but later on convective effects take over, as the dissolved carbon
+dioxide affects the density of water. We also found that in the long term gas depletion effects
+become very relevant and bubbles nucleating later at the same location grow much slower
+than the earlier ones [163]. After growth, the bubbles finally detach. This happens because
+of buoyancy, either directly once they are so large that the buoyant forces overwhelm the
+capillary forces (the so-called Fritz radius [75, 164]), or when they coalesce and then detach,
+as shown in figure 23. In the context of catalysis and electrolysis, the bubble detachment is
+of course advantageous, as pointed out above.
+
+The area of electrolysis and catalysis seems to me to be a very important and promising
+future field for physics of fluids, building a bridge from fluid dynamics to process technology
+and (colloid) chemistry.
+
+30 30

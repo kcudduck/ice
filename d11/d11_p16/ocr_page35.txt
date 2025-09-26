@@ -1,0 +1,53 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+
+the fuel consumed by ships without adding substances into water. As far as I can remember,
+I myself first heard of this phenomenon at an APS DFD meeting in a talk of Kazu Sugiyama,
+then a postdoc in the group of Yoichiro Matsumoto and Shu Takagi in Tokyo/Japan. For
+excellent recent reviews on bubble drag reduction I refer to refs. [200-202].
+
+Despite all efforts done to understand the fundamental mechanisms behind this effect,
+a solid understanding of the drag reduction mechanisms occurring in bubbly flows has still
+been missing. To achieve such an understanding, we wanted to study bubble drag reduction
+under the well-defined conditions of turbulent Taylor-Couette (TC) flow, the flow between
+two coaxial co- or counter-rotating cylinders. For recent reviews on low-Reynolds number
+and high-Reynolds number TC flow, we refer to ref. [203] and ref. [204], respectively. The
+advantage of this canonical flow of physics of fluids is that it takes place in a closed system
+and that both global measurements (the overall torque required to drive the system, i.e.,
+the drag) and local measurements (by PIV or LDV) are possible. In a series of papers on
+turbulent bubble drag reduction [196, 205, 206], we could indeed measure major bubble
+drag reduction in this TC system, namely in the strongly turbulent case up to 40% with
+only 4% volume fraction of the bubbles, see figure 26b, and in addition characterize bubble
+concentration and velocity profiles. The measurements were consistent with the conjecture
+that it is the bubble deformability that is responsible for the strong drag reduction, i.e, we
+only found substantial drag reduction for bubble Weber numbers We larger than 1 [196].
+These findings were in line with the results from numerical simulations by Gretar Tryg-
+gvason’s group [207], employing the front-tracking technique. The modification of the lift
+force on the bubbles due to their deformability (for We > 1) seems to play a central role in
+the mechanism and the bubbles arrange themselves in between the turbulent bulk and the
+boundary layers, blocking the momentum transfer and therefore reducing the overall drag.
+
+How to further validate this hypothesis? If the hypothesis were correct, one should
+change the bubble deformability during the experiment and then the drag should change on
+the spot. But how to achieve this? In 2010 I had visited the group of Yoichiro Matsumoto
+and Shu Takagi in Tokyo and saw their impressive huge bubble column experiment, in
+which the addition of a few drops of surfactants (Triton X) immediately changed the flow
+characteristics and bubble size, see ref. [208]; for a recent review of this phenomenon, see
+209]. The main reason is that the Triton X surfactant prevents bubble coalescence, and that
+therefore in strongly turbulent flow in which bubble splitting is omnipresent, the average
+bubble size will dramatically decrease after the addition of Triton X.
+
+We decided to apply the same trick in turbulent bubbly TC flow, and indeed found that
+also here the addition of a few drops of Triton X (to 111 liter of water in our TC setup
+210) dramatically changed the flow [211], see figure 27, in spite of the unchanged bubble
+volume fraction: Optically (fig. 27a-f), because the flow became very opaque, just as in ref.
+208], but in particular also mechanically (fig. 27g-h), as the effect of bubble drag reduction
+nearly vanished. The combination of these local and global findings strongly supports the
+hypothesis that it is the bubble deformability which is relevant for strong turbulent bubble
+drag reduction.
+
+How to numerically model turbulent bubble drag reduction? Given that the mechanism
+is bubble deformability, which requires to resolve the gas-liquid interfaces of the bubbles and
+given the large Reynolds numbers, this is extremely challenging. With the front-tracking
+technique, Tryggvason and coworkers could simulate a few large bubbles in a “minimum
+turbulent channel”, indeed qualitatively finding bubble drag reduction due to deformability
+35 35

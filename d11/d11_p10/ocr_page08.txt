@@ -1,0 +1,62 @@
+8
+The last term on the left-hand side vanishes for plane EoS used widely in conjunction with the Kirkwood-Bethe
+(a = 0) and spherical (a = 2) waves, such that Eq. (39) hypothesis is formulated along isentropes”!
+is identical to Eq. (25). This means that the potential
+1» and the shape of plane and spherical waves of small 1/9 |
+: 2 2 v
+amplitude, where u® < ¢“, remain unchanged as they —— (5) = (42)
+propagate away from the emitter. However, the corre- v\dp/, nlp+B(s)]
+sponding wave equation for cylindrical waves (a = 1),
+1 92 ’ Ca? 1 on which is, in essence, the isentropic (or, more generally,
+Salil A v2 Y/N (5 4 345) (40) polytropic) form of the stiffened-gas EoS'®%1%Y The
+c? Ot? 4r2 cA \ Ot 2 Or modified Tait EoS defines the fluid properties based on
+the pressure p as
+contains a spurious term proportional to 1/r? and pro-
+vides an accurate solution only in the asymptotic limit
+r — 00.9718% In fact, in the interval 0 < a < 2, the spu- ho— n p+B (43)
+rious term in Eq. (39) is largest for a = 1, and Rice and n—1 p
+Ginell °7+%® reported more accurate results for cylindrical p+ B +
+underwater explosions with ov = 0.8. 0 = po (222) (44)
+In summary, the assumptions underpinning the po+B
+Kirkwood-Bethe hypothesis are, strictly speaking, valid p+ B
+only when either the wavelength is relatively small, such C = (/n— (45)
+that the plane wave assumption is valid'®®, or when the P
+Mach number of the induced flow is small. The var-
+ious modelling errors of the Kirkwood-Bethe hypothe- ~~ where subscript 0 defines a reference state. For water,
+sis vanish in the asymptotic limits 7 — oo, representing commonly used values are n = 7 and B ~ 3 x 10° Pa,
+the far field, or u — 0, representing the linear acoustic or B = pgcs/n.*> The reference density, pressure and
+regime. More generally, the Kirkwood-Bethe hypothesis ~~ speed of sound of water are typically assumed to be
+can be regarded as an extrapolation of the linear acoustic ~~ po ~ 1000kg/ m°, py ~ 10° Pa, and cy ~ 1500 m/s, re-
+theory!’ and, as briefly revisited in Section VII, is part ~~ spectively. Figure 2 shows the density, speed of sound
+of a consistent hierarchy of models®”'®°. Nevertheless, and temperature predicted by the Tait EoS in compari-
+as further discussed in Section IX, the Kirkwood-Bethe son to the IAPWS R6-95(2018) standard.
+hypothesis provides accurate predictions under the spe- The polytropic exponent for an isentropic flow repre-
+cific conditions associated with pressure-driven bubble sents the ratio of specific heats, which is approximately
+dynamics, cavitation and underwater explosions. unity for water and other liquids. Thus, the large poly-
+tropic exponent for water, n =~ 7, points to the main
+shortcoming of the Tait EoS: it severely overpredicts
+IV. LIQUID EQUATION OF STATE changes in temperature as a result of adiabatic compres-
+sion or expansion®”?"
+The Kirkwood-Bethe hypothesis does not assume a
+specific equation of state (EoS) for the liquid, even (n—1)/n
+though it is almost always presented and used in con- _ (2 B )
+junction with the modified Tait EoS®®, which Kirkwood po +B
+and Bethe?’ used in their original work. Similarly, the
+influential works of Cole” on underwater explosions and as seen in Figure 2. In fact, during a violent bubble
+Gilmore °< on cavitation also used the modified Tait EoS. collapse, the Tait EoS may predict the temperature of
+Lhe reasons for the popularity of this kos are rather the liquid in the vicinity of the gas-liquid interface to
+straightforward: it has a simple analytical form and 1t be higher than the temperature inside the gas bubble”,
+provides an accurate (isentropic) relationship between which is unphysical on account of the considerably larger
+the pressure p, the specific enthalpy h, the density p, heat capacity of liquids compared to gases.
+and the speed of sound c¢ of water, even when com- oo
+pared against modern standards, such as the IAPWS To rectify this shortcoming of the Tait Fos and, simi-
+R6-95(2018) standards”. larly, the stiffened-gas Eos, Le Métayer and Saurel pro-
+While the original Tait EoS is formulated along Posed the Noble-Abel stiffened-gas (NASG) EoS, which
+isotherms had already been postulated in similar (isothermal) form
+by Tammann'?'. The NASG EoS extends the Tait
+ov 1 and stiffened-gas EoS by introducing the co-volume b
+(2) — (41)
+(5). n [p+ B(T)] that represents the finite volume occupied by the fluid
+molecules, rendering the NASG EoS a simplified version
+where v = 1/p is the specific volume, n is the polytropic of the van-der-Waals EoS'”? with constant coefficients B
+exponent, and B is a pressure constant, the modified Tait and b. For an isentropic flow the specific enthalpy, den-

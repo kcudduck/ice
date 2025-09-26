@@ -1,0 +1,20 @@
+18
+frequencies and very low acoustic pressures.” In 2012 Fluid Flow 31, no. 6 (2010): 1040-1049.
+IEEE International Ultrasonics Symposium. [89] Haghi, H., Sojahrood, A.J. and Kolios, M.C., 2019. Col-
+[85] Prosperetti, Andrea, Lawrence A. Crum, and Kerry W. lective nonlinear behavior of interacting polydisperse mi-
+Commander. ” Nonlinear bubble dynamics.” The Journal crobubble clusters. Ultrasonics Sonochemistry, p.104708.
+of the Acoustical Society of America 83, no. 2 (1988): [90] Pandey, V., 2019. Asymmetricity and sign reversal of
+502-514. secondary Bjerknes force from strong nonlinear coupling
+[86] Stricker, Laura, Andrea Prosperetti, and Detlef Lohse. in cavitation bubble pairs. Physical Review E, 99(4),
+”Validation of an approximate model for the thermal be- p.0422009.
+havior in acoustically driven bubbles.” The Journal of the [91] Pandey, V., 2018. Simulated cavitation noise from strong
+Acoustical Society of America 130, no. 5 (2011): 3243- nonlinear coupling in a multi-bubble system. The Journal
+3251. of the Acoustical Society of America, 144(3), pp.1985-
+[87] Zhang, Yuning, and S. C. Li. ” Notes on radial oscillations 1985.
+of gas bubbles in liquids: Thermal effects.” The Journal 92] Pandey, V., 2018. Strong nonlinear coupling between two
+of the Acoustical Society of America 128, no. 5 (2010): cavitation bubbles in an acoustic field. The Journal of the
+EL306-EL309. Acoustical Society of America, 144(3), pp.1984-1984.
+[88] Hegeds, Ferenc, Csaba Hs, and Lszl Kullmann. ” Influence [93] Nguyen, D.M., Sanathanan, M.S., Miao, J., Rivas, D.F.
+of heat transfer on the dynamic response of a spherical and Ohl, C.D., 2019. In-phase synchronization between
+gas/vapour bubble.” International Journal of Heat and two auto-oscillating bubbles. Physical review fluids, 4(4),
+p.043601.

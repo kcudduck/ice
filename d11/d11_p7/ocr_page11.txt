@@ -1,0 +1,72 @@
+x where r 1s the radius of the neck, R, is the radius of
+| the fragmentation bubble, f and q, are the frequency
+5 and amplitude of the acoustic oscillations, respectively,
+7 v(x) and o and p are the surface tension and density of the
+1 liquid. respectively. As, at the instant of the collapse of
+/ a neck of length L, Apmrr = © X 2arL and Z = 2ar, the
+i Q integral in (22) corresponds to the & potential,
+X79 § 6 apn, 8
+r
+: Tr I, = iL t to fa, p 8) (24)
+y L /
+¢ (x)
+Taking into account the fact that the liquid electric
+resistance is A/mr?, where A is the specific resistance, the
+conduction current for an accumulated charge Q 1s
+o_o 10 [rr \? 25)
+Fig. 10 Potential, ¢(x), and liquid speed-space distribution, v(x}, near ‘c Neo 7) (
+collapsing neck, and electrical field intensity, £,, at the instant of
+separation of a fragmentation bubble from a primary cavitation bubble |
+For the process of charging and simultaneous
+discharging of a fragmentation bubble under
+formation,
+temperatures in the bubble during irradiation; the
+absence of the collapse of cavitation bubbles: the sharp dQ = (I.—i,)dt (26)
+increase in sonoluminescent flux in a constant elec-
+trical field’®; the emission of sonoflashes during the Substitution of (24) and (25) into (26), followed by
+phases of contraction or expansion of the sound integration, yields:
+wave’, etc. 4
+In recent years, Margulis®® has proposed a new Q= — [1 — exp(—B1)] (27)
+electrical theory for cavitation phenomena, which B
+adequately explains available experimental data. Ref.
+80 considers a double electrical layer adjacent to the where
+neck that results from the separation of fragmentation 3
+bubbles from a deformed cavitation bubble pulsing in 4 = meg ET g + 18 202, , £3
+the acoustic field. its stability being lost (Fig. 10). yl’ 3 r
+Immediately adjacent to the bubble surface, one may
+isolate, as 1s known, a dense part of the double layer _ om r \?
+and a more distant diffusion part whose ions can move B= eh \R,
+along with the liquid stream. Water molecules having a
+dipole moment of ~6 X 107°° C m, orientate Wh fic par: bstituted i 57
+themselves in the surface layer in such a manner that cn Spectiic parameters were SU stituted into ( ) we
+an average of 1/30 of their total amount are placed with obtained the value of the charge accumulated on ! ©
+their negative poles turned towards the gas phase®'. neck of the bubble at the Instant of its separation.
+Available anions interact with the positive charges of Q~8 x 10 C™. In considering that the bubble
+the orientated dipoles and bind the diffusion layer of separation and neck collapse occur very quickly. one
+cations. may assume that the uncompensated charge 1s concen-
+trated locally on an area approximately equal to the
+Distribution of the ¢(x) potential in the diffusion part neck cross-section, mr (Fig. 10). This results in
+of the double layer is described by the Poisson- a normal component of electrical field intensity,
+Boltzman equation. The potential of the surface with E,= O/2me,*) = 10" Vm! #0, To cause an electrical
+the x, coordinate (slide surface), after which, at x > x, breakdown in dry air at atmospheric pressure, the
+the 1ons move together with the liquid stream v(x), 1s critical intensity, £., = 3 X 10° V m™!, 1s sufficient.
+generally called the & potential (for distilled water, Since the critical intensity originating an electrical
+0.005 <E< 0.064 V). The charge of electricity breakdown 1s proportional to the gas pressure, the
+transferred by the liquid stream passing around the electrical discharge in the cavitation bubble can result,
+bubble neck per second 1s with a high probability, even at pressures of up to
+several thousand atmospheres. When this happens, the
+ee Zr [  d%¢ free pass length of a molecule is much less than the
+fe = ——— [ x —- dx (22) Inimal si faf tation bubbl
+n de? minimal size of a fragmentation bubble. or even less
+0 than a primary cavitation bubble. Thus, the condition
+Co is fulfilled for the beginning of an avalanche ionization
+where £ 1s the permittivity of the medium, Z 1s the | during the breakdown.
+perimeter of the neck. 7 1s the cut-off tension, and 7 is
+the dynamic viscosity. The model proposed in Ref. 80 of an electric charge
+localized on a cavitation bubble surface and the
+The pressure difference between a pulsing primary bubble's breakdown permits us to account for the
+bubble and a pulsing fractionation bubble 1s above experimental facts which are difficult to explain
+R3 within the bounds of the thermal theories. Further-
+Ap = 9 ; 16 m2 flap —= (23) more, a natural explanation 1s found for the origin of
+r 3 r? such phenomena as electric pulses in a liquid, dis-
+ULTRASONICS . JULY 1985 167

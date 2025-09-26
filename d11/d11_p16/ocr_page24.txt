@@ -1,0 +1,56 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+
+First it was speculated that the stability of surface nanobubbles is due to surfactants [124],
+which however for various reasons (explained in ref. [121]) could be ruled out. Moreover,
+with the help of fluorescence lifetime imaging microscopy it could be shown [125], that the
+objects observed with AFM are indeed air bubbles, and not nanodroplets of a contaminating
+liquid. In addition to the remarkable stability of the nanobubbles, another paradox was that
+their contact angle (measured on the bubble side) was not Young's angle, as known from
+macroscopic measurements, but much smaller [126, 127].
+
+When there is such a large gap between experiment and theory, numerical simulations of-
+ten help. We therefore performed MD (molecular-dynamics) simulations of surface nanobub-
+bles [128], and at least those adhered to the theoretical expectation: they dissolved in mi-
+croseconds.
+
+The key to solving this paradox came from the experiments of Xuehua Zhang and
+coworkers [129] who observed that surface nanobubbles exposed to gas-undersaturated water
+(¢ < 0) dissolve slowly, but (initially) not by reducing their lateral size, but by reducing their
+contact angle (on the gas side), see Fig. 18a: The three-phase contact line remains pinned.
+This dissolution mode is called “CR-mode”, standing for constant contact radius, in con-
+trast to the so-called “CA-mode”, standing for constant contact angle [130, 131]. Pinning
+dramatically changes the dissolution scenario: the Laplace pressure prgpiace = 20/R now no
+longer diverges, but approaches zero, see Figure 18b. Thus, when the bubble dissolves, no
+large internal pressure can build up and thus no concentration gradient from the outside
+of the bubble to the predetermined concentration level c,, far away from the bubble: The
+bubble becomes stable.
+
+The reason for the pinning lies in the unavoidable surface inhomogeneities of geometric
+and/or chemical nature. These are also relevant in the above mentioned daily life phe-
+nomenon of bubble formation in a glass with cold tap water which warms up or when we
+pour soda water into a glass: In both cases bubbles nucleate out of oversaturated water
+on such inhomogeneities. Macroscopically, the surface inhomogeneities lead to contact line
+hysteresis, as studied extensively by de Gennes and co-workers in the 1990s [132, 133].
+
+We could generalize the classical Epstein-Plesset calculation [20] to calculate the diffusive
+dynamics of pinned surface bubbles [134]. Here the key idea was to adopt the quasistatic
+calculation of Popov [135] for the so-called “coffee stain problem” [136, 137], which is on
+the evaporation of a liquid drop on a plain substrate. This is not surprising, because both
+processes are controlled by diffusion outside of the drop / bubble: in the evaporating droplet
+case, of diffusion of water vapor in air, and in the surface nanobubble case, of air into water.
+For bubbles with constant contact diameter L (i.e., in the CR-mode), the result of this
+adopted (quasistatic) calculation reads [134]
+
+db 4D c, L.
+
+& = zp, (LT est) ost (7)
+with a positive definite f(6) given in ref. [135] and a critical lateral extension L, = 40/ Fy ~
+2.84m for air bubbles in water with 1 atm ambient pressure. From eq. (7) it immediately
+follows that for gas undersaturation —1 < ¢ < 0 no stable surface nanobubbles can exist, as
+then the right-hand side of eq. (7) is always negative: the bubble dissolves down to 8 = 0.
+For gas oversaturation ¢( > 0, however, a stable equilibrium with the equilibrium contact
+angle [134]
+
+L
+sin, = ( I. (8)
+24 24

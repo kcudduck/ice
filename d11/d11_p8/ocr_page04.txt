@@ -1,0 +1,57 @@
+4  D.F. Rwas, Ashokkumar, Leong, Yasui, Tuziuti, Kentish, Lohse and Gardeniers
+with a Hanna K-type Thermocouple leading to 12.7 W for the high power and 3.32 W
+for the low power settings. Since control over the heating of the liquid volume was not
+available, temperature measurements were carried out before and after irradiation times
+of 3 minutes at similar conditions at which the SL and SCL signals were recorded. The
+thermocouple was removed from the liquid chamber during sonication to avoid damaging
+the thermocouple tip. At low power (3.32 W) the temperature did not increase by more
+than 3 K. For high power (12.7 W) the temperature increase was of 10 K. The 10 s
+period would generate an increase in temperature of around 0.6 K. We overestimate the
+temperature increase to be at least 1 K (2 K maximum) to be conservative. For this
+reason, the PMT measurements lasted in general no longer than 10 s to avoid large
+temperature variations.
+
+The continuously applied acoustic field generated a standing wave depending on the
+height of the liquid column. For liquid heights close to one-quarter or three-quarters
+of the acoustic wavelength (approximately 250 or 300 pf volume of liquid, respectively)
+a pressure antinode is expected to be located on the substrate and a node at the free
+liquid-air interface. In this study frequencies of about 200 kHz with a corresponding
+water height of approximately 5 mm were used (250 uf).
+
+A Hamamatsu E849-35 PMT (2.5 ns risetime), with 15 mm diameter glass window,
+amplified by a Canberra H.V. Supply Model 3002 was placed to capture the light emitted
+by the sonicated liquid on top of the chamber.
+
+The experiments were conducted with different liquids but the same volumes (250 uf)
+at ambient conditions and open to the atmosphere. The voltage readout of the PMT
+corresponded to the SL and SCL emission, where applicable, from a certain population
+of bubbles.
+
+The variations to the bottom surface (square silicon substrate of 10 mm width) of
+the micro-sonoreactor (the same as presented in (Fernandez Rivas et al., 2010)) were:
+blank with no pit (equivalent to a conventional US reactor of the bath type), one, two
+or three pits (small predefined cylindrical crevices on the silicon surface). The pits acted
+as nucleation sites for microbubble streamers that would otherwise not be present at the
+conditions studied.
+
+Two different power settings were chosen out of the three presented in (Fernandez Rivas
+et al., 2010), corresponding to lower and higher power levels. The main reason to select
+these two settings is that they evidence a clear difference in the bubble pattern and the
+ultrasonic power being supplied to the whole system. Hence, we expect to see differences
+in the bubble populations capable of emitting light and producing radicals in all cases.
+
+The controlled and localized acoustic microbubble generation can be sustained for
+at least several hours due to dissolved gas in the liquid transported into the pit by
+a process similar to rectified diffusion (Brenner et al., 2002; Apfel, 1970; Crum, 1982;
+Fowlkes & Crum, 1988). Since temperature and gas escaping the microchamber could
+not be controlled in this particular case, all experiments were carried out within 5 to 10
+minutes.
+
+For the SCL imaging, a digital SLR camera (Nikon D90) with 18-55 mm AFS zoom
+lens using the settings ISO1250, f 5.0 and a 60 s exposure time.
+
+For SL imaging a NF Multifunction synthesizer WF-1946A with a NF HSA-4014 am-
+plifier, and a fan to cool the microreactor were used to get similar conditions as described
+betore. The exposure time for experimental imaging and dark conditions subtraction was
+10 minutes with a BitranBS-41L cooled CCD camera coupled to a Nikkor 35 mm lens
+and a magnifying glass.

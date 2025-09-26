@@ -1,0 +1,32 @@
+1. Introduction
+The gold nanoparticles (GNPs) have been studied as plasmonic materials for their
+application in biomedical field. Some of these applications involves photo-thermal
+cancer treatment agents [1], molecular labeling [2], radiotherapies [3], drug delivery
+systems [4], and optical sensing devices [5]. The current demand for well-defined
+GNPs properties is creating the cutting edge methods toward more efficient, safe
+and economically for nanoparticle manufacture [6]. Colloidal GNPs have been
+easily synthesized and size and shape controlled by chemical methods [7].
+Turkevich et al. developed a synthetic route to obtain colloidal gold nanoparticles
+(GNPs) based on hydrogen tetrachloroaurate (HAuUCls) reduction from citric acid
+and sodium citrate as reducing agents in boiling water, under vigorous stirring
+conditions [8]. The advantages of sodium citrate salt in the synthesis are: it acts as
+a reducing and stabilizing agent, also forms a buffer in aqueous solution avoiding
+abrupt pH modifications in the reaction. Tuerkevich-Frens method allows preparing
+GNPs with different sizes by modifying gold ions/citrate ratios for controlled
+nucleation velocity and steric surface can be achieved for colloidal stability and
+biological functionalization [9-11].
+A challenge in the chemical synthetic routes for GNPs manufacture is to control the
+primary morphology, particle size distribution, crystalline structure in a simple way,
+and retain their properties along time [12]. Several strategies have done to control
+these properties using surfactants [13], dispersing agents [14], and biological
+compounds [15]. Likewise, other approaches include electromagnetic irradiation,
+such as microwaves [16], ultraviolet (UV) light [17], electron beam [18], and
+gamma-ray [19] to obtain GNPs without using reducing agents, and their
+sterilization by means of a one-step process were also developed [20]. The
+Interaction between irradiation energy and the irradiated solution has been the key
+to control the properties of GNPs by kinetics reaction manipulation. However, high
+energy Is needed for ionizing those systems, additionally, complicated
+experimental setups are required, and making manufacture non-rentable for
+industrial production.
+
+3

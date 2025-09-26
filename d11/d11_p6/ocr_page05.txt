@@ -1,0 +1,32 @@
+beaker is going to change the pressure field considerably, see Figure 3. The results
+presented here include the reflection of the pressure wave in the beaker unless otherwise
+indicated.
+ph 200 KPa
+20 KHz
+0.81 um :
+i i 100
+0
+Figure 2 Pressure field in a beaker at 25us, during the first cycle,
+subjected to sonication with a 15 mm diameter probe, at 20KHz, with
+amplitude 0.81 um. The compressive wave is about to reach the bottom
+of the beaker and being reflected.
+200 KPa
+t=8.08 us
+@ 30 mm
+1 MHz
+0.004 um
+= il
+0
+Figure 3 Pressure field in a beaker at 8.08us, approximately at the 8t
+cycle, subjected to sonication with a 30 mm diameter probe, at 1 MHz,
+with amplitude 0.004 um. The pressure waves are about to reach the
+bottom of the beaker and being reflected.
+4. Results.
+The results are presented in charts amplitude versus diameter. See Figures 4-8. For each
+probe diameter, there is an amplitude limit above which cavitation exists. Conversely for
+smaller amplitudes cavitation does not occur. It is easy to conclude that the region of the
+chart with high amplitude corresponds to the region where cavitation happens while the
+region with low amplitudes cavitation does not happen. The shape of the transition
+between this two regions and the location of such transition is calculated with the finite
+element method and represented by square dots in the chart. At the same time the
+5

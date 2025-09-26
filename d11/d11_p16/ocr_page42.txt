@@ -1,0 +1,67 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+oscillations of ultrasound contrast agent microbubbles, Ultrasound in Med. & Biol. 34, 1465
+(2008).
+
+47] M. Overvelde, V. Garbin, J. Sijl, B. Dollet, N. de Jong, D. Lohse, and M. Versluis, Nonlinear
+shell behavior of phosolipid-coated microbubbles, Ultrasound in Med. & Biol. 36, 2080 (2010).
+
+48] N. De Jong, M. Emmer, C. T. Chin, A. Bouakaz, F. Mastik, D. Lohse, and M. Versluis,
+“Compression-only” behavior of phospholipid-coated contrast bubbles, Ultrasound in Med. &
+Biol. 33, 653 (2007).
+
+49] J. Sijl, M. Overvelde, B. Dollet, V. Garbin, N. de Jong, D. Lohse, and M. Versluis,
+“Compression-only” behavior: A second-order nonlinear response of ultrasound contrast
+agent microbubbles, J. Acoust. Soc. Am. 129, 1729 (2011).
+
+50] S. L. Anna, N. Bontoux, and H. A. Stone, Formation of dispersions using flow focusing in
+microchannels, Appl. Phys. Lett. 82, 364 (2003).
+
+51] A. Utada, E. Lorenceau, D. Link, P. Kaplan, H. Stone, and D. Weitz, Monodisperse double
+emulsions generated from a microcapillary device, Science 308, 537 (2005).
+
+52] A. S. Utada, A. Fernandez-Nieves, H. A. Stone, and D. A. Weitz, Dripping to Jetting Tran-
+sitions in Coflowing Liquid Streams, Phys. Rev. Lett. 99, 094502 (2007).
+
+53] J. M. Gordillo, Z. Cheng, A. M. Ganan-Calvo, M. Marquez, and D. A. Weitz, A new device
+for the generation of microbubbles, Phys. Fluids 16, 2828 (2004).
+
+54] E. Castro-Hernandez, W. van Hoeve, D. Lohse, and J. M. Gordillo, Microbubble generation
+in a co-flow device operated in a new regime, Lab on a Chip 11, 2023 (2011).
+
+55] C.D. Ohl, M. Arora, R. Ikink, N. D. Jong, M. Versluis, M. Delius, and D. Lohse, Sonoporation
+from Jetting Cavitation Bubbles, Biophys. J. 91, 4285 (2006).
+
+56] O. Shpak, M. Verweij, H. J. Vos, N. de Jong, D. Lohse, and M. Versluis, Acoustic droplet
+vaporization is initiated by superharmonic focusing, Proc. Nat. Acad. Sci. 111, 1697 (2014).
+
+57] Y. Wang, M. E. Zaytsev, G. Lajoinie, H. L. The, J. C. T. Eijkel, A. van den Berg, B. M.
+Weckhuysen, X. Zhang, H. J. W. Zandvliet, and D. Lohse, Giant and explosive plasmonic
+bubbles by delayed nucleation, Proc. Nat. Acad. Soc. 115, 7676 (2018).
+
+58] A. Prosperetti, Vapor bubbles, Annu. Rev. Fluid Mech. 49, 221 (2017).
+
+59] Y. Wang, M. E. Zaytsev, H. L. The, J. C. T. Eijkel, H. J. W. Zandvliet, X. Zhang, and D.
+Lohse, Vapor and Gas-Bubble Growth Dynamics around Laser-Irradiated, Water-Immersed
+Plasmonic Nanoparticles, ACS Nano 11, 2045 (2017).
+
+60] Z. Fang, Y. R. Zhen, O. Neumann, A. Polman, F. J. Garcia de Abajo, P. Nordlander, and
+N. J. Halas, Fvolution of Light-Induced Vapor Generation at a Liquid-Immersed Metallic
+Nanoparticle, Nano Lett. 13, 1736 (2013).
+
+61] G. Baffou, J. Polleux, H. Rigneault, and S. Monneret, Super-Heating and Micro-Bubble Gen-
+eration around Plasmonic Nanoparticles under cw Illumination, The Journal of Physical
+Chemistry C 118, 4890 (2014).
+
+62] D. Lapotko, Plasmonic Nanoparticle-Generated Photothermal Bubbles and Their Biomedical
+Applications, Nanomedicine 4, 813 (2009).
+
+63] S. Y. Emelianov, P.-C. Li, and M. O’Donnell, Photoacoustics for Molecular Imaging and
+Therapy, Phys. Today 62, 34 (2009).
+
+64] G. Baffou and R. Quidant, Thermo-Plasmonics: Using Metallic Nanostructures as Nano-
+Sources of Heat, Laser Photonics Rev. 7, 171 (2013).
+
+65] J. Shao, M. Xuan, L. Dai, T. Si, J. Li, and Q. He, Near-Infrared-Activated Nanocalorifiers
+in Microcapsules: Vapor Bubble Generation for In Vivo Enhanced Cancer Therapy, Angew.
+
+42 42

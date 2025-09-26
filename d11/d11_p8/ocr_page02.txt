@@ -1,0 +1,55 @@
+2 D.F. Riwas, Ashokkumar, Leong, Yasui, Tuziuti, Kentish, Lohse and Gardeniers
+
+in most cases, the cavitation bubbles are never exactly the same due to the complexity
+of the phenomena involved (Lauterborn & Kurz, 2010), rendering it difficult to obtain
+a deterministic relation between driving conditions and actual bubble population. To
+complement direct determination of bubble size distributions which require fast imaging
+and intensive image processing, a good alternative is the use of indirect methods like
+measuring the light emitted by these bubbles.
+
+Most researchers agree that the studies of Marinesco and Trillat (Marinesco & Trillat,
+1933) and Frenzel and Shultes (Frenzel & Schultes, 1934) were the first in which light
+emission could be detected as a result of ultrasound irradiation in a liquid sample. After
+several studies to determine the actual mechanism behind this remarkable effect, sono-
+luminescence (SL) has been described as the light emitted by cavitation bubbles driven
+by an ultrasonic driving pressure field. Sonochemiluminescence (SCL) is defined in this
+study as the light emission when luminol reacts with OH radicals. There is a large
+difference between the SL emission from a single bubble (SBSL) and SL from a cluster of
+bubbles (MBSL, i.e. multibubble SL). For SBSL the collapse is nearly spherically sym-
+metric and highly reproducible (Brenner et al., 2002); and for MBSL the more frequent
+non repeatable asymmetric collapse produces liquid jets penetrating the hot bubble con-
+tents (Crum, 1994; Flint & Suslick, 1991; Matula & Roy, 1997; W.B. McNamara III,
+2000). These differences are evident in the emission profile and spectra produced from
+both types of SL. The spectra collected from MBSL contain many peaks and features,
+whereas the spectra emanating from SBSL are normally featureless (Suslick et al., 1999;
+Suslick & Flannigan, 2008). The effect of power and frequency on bubble-size distribu-
+tions of MBSL in acoustic cavitation has been studied previously using pulsed ultrasound
+(Brotchie et al., 2009). The main conclusion was that the mean bubble size increased
+with increasing acoustic power and at the same time decreased with increasing ultra-
+sound frequency. Additionally, the mean bubble size distribution of bubbles emitting SL
+was larger and narrower than SCL producing bubbles (centred at smaller bubble sizes
+and broader) meaning that the two processes result from different bubble sizes (Yasui
+et al., 20080) and the physical locations in which these bubbles exist can differ (Sunartio
+et al., 2007). MBSL has also a defined phase window of the driving pressure oscillation,
+meaning that in a phase window of about 30° from the full 360° SL can be detected
+(Lauterborn & Kurz, 2010). Other researchers have reported singular dependences of SL
+and capillary pressure in small gaps with an implicit advantage in not using a light-proof
+box to quantity multibubble intertial cavitation thresholds (N.V. Dezhkunov, 2004).
+
+Sonochemistry performed in microfluidic devices has received some attention in the last
+decade (Fernandez Rivas et al., 2010; Iida et al., 2004: Lee et al., 2007; Tandiono et al.,
+2011). In this work an extended study on an ultrasonic microreactor described before
+(Fernandez Rivas et al., 2010) is presented. The working principle of that sonoreactor is
+based on the ability of small predefined crevices (pits etched in silicon substrate surface
+(Bremond et al., 2006b a; Marmottant et al., 2006; Borkent et al., 2009)) to stabilize
+small gas nuclei. When the ultrasound is turned on, a characteristic microbubble cloud
+appears, that would not be present in the absence of pits. In this way a continuous locally
+controlled generation of cavitating microbubbles is achieved. The chemical activity of
+these microbubbles was previously verified by luminol SCL imaging and OH radical
+dosimetry by using terephthalic acid (Fernandez Rivas et al., 2010).
+
+The aim of the present work was to study the changes of SL and SCL intensities em-
+anating from different solutions as the population of microbubbles nucleated from the
+pits on the silicon substrate varies. This is influenced by altering the power input to the
+system and the number of pits. The areas of potential application for these findings are
+many; to name a few we consider the ultrapurification of water for fine chemicals or phar-

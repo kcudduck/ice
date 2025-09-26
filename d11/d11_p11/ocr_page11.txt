@@ -1,0 +1,54 @@
+3 0.05
+~ 0
+2
+-0.05
+x
+A, 1.5 o
+-0.1
+1
+05 -0.15
+0 -0.9
+0 0.05 0.1 0.15 0.2 -30 -20 -10 0 10 20 30
+z (m) r (mm)
+Figure 14: Pressure profile on the symmetry axis for a 7 cm diameter Figure 15: Radial variation of the phase of the pressure field,
+sonotrode, with Rg = 2 um, Ng = 90 bubbles/mm?. The velocity of at 1.5 cm {from the transducer. The quantity represented is
+the sonotrode tip is 1.31 m/s. Solid line: prediction by the present (¢(0,1.5 cm) — ¢(r, 1.5 ¢cm))/(27), where ¢(r, z) = arg(p(r, z)). The
+model. Stars: experimental measurements redrawn from Fig. 6 in solid line represents the theoretical prediction, and the stars are ex-
+Ref. 16]. perimental results redrawn from Fig. 10 in Ref. 28]. The simulations
+parameter are the same as for Fig.
+eter sonotrodes excited in pulsed mode in order to avoid oo
+acoustic currents 16, 28]. In order to put our model to experimental values, along with the prediction of our sim-
+the test, we performed additional simulations of a 7 cm ulation in Fig. [15] (the simulation parameters are the same
+sonotrode, again with for 2 um bubble radii and Ny = 90 5 for Fig.[14). It can be seen that the agreement is very
+bubbles/mm3. The transducer displacement was set in or- good, and the result was found almost unsensitive to an in-
+: crease of the bubble density up to Ng = 360 bubbles/mm>.
+der to match the velocity of the sonotrode area measured
+in Ref. 16] (1.31 m/s). It is interesting to compare the The present calculation shows therefore that the exis-
+calculated and experimental axial acoustic pressure pro- ~~ 'eBCe of a curved resonant layer of bubble is not neces-
+files (Fig 6 in Ref. [16], star signs). The result is displayed sary to explain the experimental results, although nonlin-
+in Fig. Tt can be seen that the agreement is somewhat ear resonant effects cannot be discarded. The wave focuses
+poor: even if the order of magnitude of the predicted pres- ~~ YW just because the outermost bubbles in the bubble
+sure field is reasonable, it vanishes much more slowly than ~~ |@Yer are more smoothly driven than the central ones, and
+the experimental one. We increased the bubble density up therefore have a lower influence on the local sound speed.
+to Ny = 360 bubbles/mm? without appreciable change in This a purely nonlinear effect, and is correctly summarized
+the pressure profile, except near the sonotrode. This un- by Fig. 4 in [OL I]. Besides, our simulations indeed exhibit
+derlines the limit of the present model, and may result of © bubbly layer near the transducer, but rather than being
+the rough assumption of a constant bubble density. Be- resonant, this layer is in fact found to be very dissipative.
+sides, the pressure field calculated in the immediate vicin- ~~ Such a large dissipation cannot be predicted by using a
+ity of the transducer (z = 0) is found to be much larger reduced bubble dynamic equation, and is strongly corre-
+than the experimental one. It should however be noted lated to the inertial character of the bubble oscillations, as
+that hydrophones have a finite size, which does not allow shown in our companion paper [OL I].
+to measure the acoustic pressure exactly near z = 0, where
+the present theory predicts a large pressure gradient. 3.4. Cleaning bath
+Finally, Dubus and co-workers 28] proposed an alter- The system considered is axi-symmetrical and is rep-
+native explanation of the bubble cone structure. Their resented in a half-plane cut on Fig. The bottom of
+analysis relies on the formation of a nonlinear resonant the bath is a thin circular steel plate of 4 mm thickness
+layer of bubbly liquid attached on the transducer, the fo- and 20 cm diameter, which upper side is in contact with
+cusing being qualitatively attributed to the curvature of the liquid, while its lower side is free, except its central
+the bubble layer. This layer produces a phase shift of part (red line on Fig. r € |0,3 cm]) which is assumed
+the wave emitted by the sonotrode, dependent on its local ~~ to vibrate with a uniform amplitude Uy = 2 pm and a
+width. The argumentation is supported by phase mea- frequency of 20 kHz. This boundary condition is a simpli-
+surements of the pressure field in a horizontal plane below fication of a system where a piezo-ceramic ring would be
+the layer. We have therefore reported the corresponding clamped to the bottom side of the plate and impose an os-
+cillatory displacement. The liquid fills the space above the
+11

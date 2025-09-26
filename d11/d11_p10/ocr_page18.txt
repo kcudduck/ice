@@ -1,0 +1,52 @@
+18
+1.0 10
+Navier-Stokes
+i 0° —— Gilmore
+~ ©)
+= 0.5 = 10"
+= °
+~ 10
+0.0 10°
+0.00204060381.01.2 0.00.20406081.01.2
+
+tt. tt.
+
+FIG. 8: Radius R(t), normalized by the initial radius Ry, and gas pressure pg (t), normalized by the initial gas
+pressure pg, as a function of time ¢, normalized by the Rayleigh collapse time ¢., of the Rayleigh collapse of a
+spherical gas bubble in water, obtained with a Navier-Stokes solver and the Gilmore equation.
+
+Navier-Stokes == == Clipping — Averaging
+10° 10° 10°
+< < <
+= 10° = 10° 3 10°
+QL QL QL
+< 10" < 10" < 10" |
+10° 10° 10°
+1.00 1.01 1.02 0.92 1.02 1.12 0.92 1.02 1.12
+tt. t/t. tte
+10 4 2
+o o 2 |
+= = =
+) 0 = =
+= SE SE
+—10 —2 —1
+1.00 1.01 1.02 0.92 1.02 1.12 0.92 1.02 1.12
+t/t. t/t. tt.
+
+FIG. 9: Temporal evolution of the pressure amplitude Ap(r,t) = p(r,t) — poo, normalized by the constant ambient
+pressure poo, and flow velocity u(r, t), normalized by the characteristic collapse velocity u. = Rg/t., emitted by the
+Rayleigh collapse of a spherical gas bubble in water at different radial locations » = {0.2,0.5, 1} Ry, obtained with
+the KBH model described in Section VIII B. Time t is normalized by the Rayleigh collapse time ¢.. The multivalued
+solutions at the shock front are treated either by clipping the wave profile or by applying the proposed averaging
+procedure. Results obtained with a Navier-Stokes solver are shown for reference.
+
+Kirkwood-Bethe hypothesis are compared to a fully re- with the Gilmore equation, Eq. (55). The temporal evo-
+solved simulation using a state-of-the-art Navier-Stokes lution of the pressure and velocity in the vicinity of the
+solver*®:°2. For this simulation, the pressure in the liquid bubble is shown in Figure 9, at » = {0.2,0.5,1} Ry. The
+is initialized as p(r) = Po + Ro(Pc.0 — Peo) /7, the bubble emitted acoustic wave forms a shock front, with a verti-
+is resolved with 1000 mesh cells per initial bubble radius, cal left slope of the pressure and velocity profiles. Note
+and the time step applied at the time when the bubble that in the temporal-evolution plots shown in Figure 9,
+reaches its minimum radius is At ~ 5 x 107%¢., where the left-hand side of the profile reaches the measurement
+te =~ 0.915 Ro\/ poo /Po is the Rayleigh collapse time??". location first. The results obtained with both methods to
+Figure 8 shows a close agreement of the bubble radius and treat the shock front, either clipping the wave profile or
+gas pressure obtained with the Navier-Stokes solver and applying the proposed averaging procedure, yield a good

@@ -1,0 +1,70 @@
+of the head of the glacier and of its main ~~ form an impressive surge front sweeping through the lower glacier to Km 15.6, at
+tributary, as shown by the dashed lines ponderously down the glacier. The prop- an average propagation speed of 23
+in Fig. 1. agating surge front is depicted in Fig. 4, m/day. The forward propagation over
+Phase 2 of the surge began in October where it is seen as a downstream-facing the period 17 May to 13 June is docu-
+1982 with a gradual increase in seismicity topographic ramp about 1 to 2 km long, mented in Fig. 4. During this time the
+and flow velocity in the upper glacier behind which the ice has thickened by sharply defined leading edge of the front
+(Fig. 2B). This continued until early Jan- about 100 m from its presurge thickness advanced at a nearly constant speed of
+uary 1983, when the velocity reached a (which can be judged from the dashed 80 m/day. This speed was maintained,
+stable level of 5 to 7 m/day, about three line in Fig. 4B). Within the front there is with only a slight decrease, up to the
+times the wintertime level in phase 1. An a high longitudinal gradient of the flow surge termination on 4 to 5 July.
+abrupt major drop on 3 February was velocity (Fig. 4A), corresponding to ex- The propagation speed of the surge
+followed by a gradual recovery to the tremely large compressive strain rates of front can be explained on the basis of
+stable level. In April the velocity begana up to 0.2 per day. (Compare these with conservation of ice volume (continuity).
+further gradual but substantial increase, typical rates of <0.1 per year in nonsurg- If v, is the flow velocity at the trailing
+reminiscent of the phase 1 increase in ing glaciers.) Ahead of the surge front edge of the front, A, is the ice thickness
+May to June 1982, and reaching a broad the flow velocity is about nil, while be- there, and /, the thickness at the leading
+maximum of about 15 m/day in mid- hind it the ice is moving at full surge edge (where v, = 0), then continuity re-
+June, upon which large, complex fluctu- speed and the longitudinal velocity gradi- quires the front to advance at a speed V
+ations were superimposed, beginning ent is small and in fact becomes locally givenby V = v,h,/(h, — h;). For the val-
+about 1 June. In the afternoon and eve- extensile as a velocity maximum devel- ues of Ay, hy, and v, seen in Fig. 4, this
+ning of 4 July the surge entered into ops around the topographic crest of the equation gives V values in the range 50 to
+an abrupt termination. The velocity surge-front wave from 23 May onward. 100 m/day, in rough agreement with the
+dropped in a few hours to about a quarter The leading edge of the surge front had observed speed of advance. This agree-
+of its previous value. There was a slight reached Km 13.5 by 15 February 1982, ment supports the conclusion that the
+recovery on 6 July, but by 8 July the and by 15 May it had propagated down advance of the surge front is a phenome-
+velocity had decreased to 1.2 m/day or | non of kinematic-wave type, although
+less throughout the glacier. A slow de- different from the kinematic waves pre-
+crease continued thereafter. By 26 July 60 viously proposed for glaciers (/2). The
+the velocity in the upper glacier was no | details of the surge mechanism govern
+more than about 0.2 m/day, lower than TT ) the propagation speed V via their effect
+presurge velocities. ES | / on Ah, and vs.
+In phase 2 the surge propagated pro- S ow . "IN 6.13
+gressively down into the lower glacier. £ 40 PZ NO N
+Flow velocities there, which had been z N 6.5 Detailed Flow Features of the Surge
+very low (0.2 m/day or less) in the pre- 5 ~~ +
+surge condition, rose dramatically as the =< 5 40\ \ Large pulsations or oscillations in the
+surge front arrived and reached 40 to 60 : 20 PA \ surge velocity occurred during July 1982
+m/day during June (Fig. 2C). The highest 2 and June 1983; the latter are shown in
+velocity measured was 65 m/day, on ¢ 83.4 17 detail in Fig. 5. Three distinct types of
+june 9, for about 2 pours, at am 4 : A fluctiations are recognizable, (1) duast
+¢ surge termination affected the lower : regular oscillations with a period o
+glacier similarly to the upper. By 27 July 0 Th | about 2 days are very pronounced in the
+the velocity was down to about 0.4 NN surface upper glacier (Fig. 5, A and B). From 19
+m/day and by September to about 0.2 \ June to 6 July they have a very regular
+m/day. 600 AN Ne period of about 40 hours; prior to 19 June
+The surge produced great changes in = Pe NS the period is longer and more irregular.
+the glacier (Fig. 3). The surface became N 82.7 ~ (il) Oscillations of shorter period, gener-
+intensely crevassed throughout the surg- c 88.5.17 AN ® Ny ally somewhat shorter than 1 day, are
+ing part (delimited in Fig. 1). In the upper = 5.23 \ NN 5 09 pronounced in the lower glacier (Fig.
+glacier, above Km 8, the ice was thinned E Bed NNW 65 5C). (1) Approximately every 4 or 5
+from its presurge condition by as much x days there occur major slowdown
+as 50 m. Below Km 8, thickening oc- S MC: 13 events, in which the velocity, after first
+curred, up to a maximum of 100 m at Km ? rising to a peak, drops rapidly, in a few
+16. 200 ~~ hours, to a level distinctly lower than
+~ was reached in the previous several
+| 13 15 17 days. The surge termination on 4 to 5
+The Surge Front Longitudinal coordinate § (Km) July 1983 was an event of this type, as
+Fig. 4. Forward propagation of the surge was the major slowdown on 26 June 1982
+The enhanced downstream transport front, shown by longitudinal profiles of ice and the slowdowns that ended the subse-
+of ice in phase 1 of the surge produced a flow velocity (A) and ice surface elevation (B) ent movement pulses in phase 1. The
+CC as a function of the longitudinal coordinate §
+general thickening of about 30 m in the xn (see curvilinear coordinate scale in Fig, Major slowdown on 3 February 1983 1s
+lower half of the reach affected by this 1). The profiles are shown at five successive also similar except that it was not pre-
+phase, from about Km 7 to 12.5. In phase times in May and June 1983, at intervals of 6 ceded by a peak in motion. Major slow-
+2 this “‘bulge began to propagate as a PRT - wr in B) with a I" eo q downs in June 1983 are marked with
+wave downglacier, and, as the thicken- line, and the approximate position of the downward-pointing arrows in Fig. 5. Be-
+ing increased further, the forward side of glacier bed as determined by reflection seis- tween slowdown events, there is a ten-
+the wave steepened and sharpened to mology (8) is also shown. | dency toward progressive Increase in
+This content downloaded from 132.174.255.223 on Tue, 20 Sep 2016 11:36:46 UTC
+All use subject to http://about.jstor.org/terms

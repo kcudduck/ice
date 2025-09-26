@@ -1,0 +1,36 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+0
+|
+| FIG. 1. Setup for single bubble sonolumi-
+i de nescence: Piezoelectric transducers are glued
+= to a flask filled with water. They excite a
+= 5 standing acoustic wave wn which the light-
+: L £ "1 emitting bubble is trapped. Photo taken by
+N A al LY Rudiger Toegel, Physics of Fluids, Twente,
+5 | 2000.
+Plesset (RP) equation for the bubble radius R(t),
+3, 1 R 20
+RR+ —R* =~ — Py — P(t) —4n= — = | | 1
+where p,(R(t)) is the pressure inside the gas bubble, P(t) = FP, sin(wt) the driving acoustical
+pressure with amplitude P, and frequency f = w/(27), Fy the ambient pressure, n the
+dynamic viscosity, and o the surface tension. A historical review of the development of
+this equation is given in ref. [12]. The typical RP bubble dynamics for increasing driving
+pressure P, is shown in figure 2b.
+
+The left-hand side of the RP equation (1) was already known to Lord Rayleigh who
+derived it in the context of an analysis of cavitation damage of ship propellors |[1, 13, 14].
+So already in Rayleigh’s time applied and fundamental science came hand in hand. The
+solution to the inertial part RR + 2R* = 0 of the RP equation (1) is the power law
+
+R(t)  (t, — 1)/5 2)
+with a diverging singularity in the bubble wall velocity R(t) o (t, — t)~%/ at time t,. This
+singularity reflects the violent bubble collapse which can occur for strong enough driving,
+see figure 2. In a nutshell, at collapse, the gas inside the bubble gets compressed, heats up,
+partly ionizes, and at recombination light is emitted [8, 15].
+
+The work of Andrea Prosperetti also led us to the conditions under which stable single
+bubble sonoluminescence can occur: An obvious necessary condition is the (spherical) shape
+stability of the bubble, which Eller and Crum [16] had experimentally and Prosperetti
+theoretically analysed [17]. We applied his results and determined under what conditions
+the collapsing bubble would be (spherical) shape stable so that it would on the one hand
+4 4

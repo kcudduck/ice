@@ -1,0 +1,77 @@
+reaction rate and sonoluminescence intensity for investigated at asymmetric boundary conditions using
+different gases in solution with similar C/C\ 1s the method of finite elements?®.
+overned by the heat conduction of gases. However, .
+£07 . y I» .. & Experimental studies have shown that the pulsation ot
+discussion of heat conduction is irrelevant when SE ,
+ce : NTS Cie cavitation bubbles gives rise to annular’ and radial
+considering the adiabatic collapse of a cavitation Co. : : CL
+: co : Lo - cumulative jets near the surface (Fig. 1). This 1s
+bubble, involving excitation and dissociation of ny : >
+| : | I. accompanied by the splitting of cavitation bubbles.
+molecules: after the collapse, when the bubble has , .
+y 1: : i" NE One of the new and promising techniques in studying
+disappeared, discussing heat conduction of gases 1s A o
+the movement and interaction of cavitation bubbles 1s
+also irrelevant. CO Ny
+to induce cavitation by focused beams of laser radia-
+Heat conduction and gas dynamics in a collapsing tion (optical cavitation). "Laser cavitation bubbles may
+bubble are taken into acccount by Refs 28 and 29. At be created at predetermined points and a desired
+the same time. another important factor. liquid instant of time.
+compressibility, should be taken into consideration
+Lo : aute ct al’ investigated se bubbles by means
+using the Herring-Flynn equation. However, the Lauterborn cl ’ | h tigated the 1 film: ) : ‘
+: “Dag _ Cs ONnve al and holographic rapid filming :
+cquations of Ref. 28 cannot be applied in combination ) “Ot oo HON © Ane etdp a » ming 4
+with the Kirkwood-Bethe equations because the REC AIAN ; hl " Co dist
+: Co Ce | respectively. A cavit: > pulsing at a distance
+assumption of an isoentropic shift of the shock wave Ive y. AA cai Pe it h ch | 15 N « ¢ , a
+front 1s the basic prerequisite of the theory. Ol => Maximum fadii from ihe SOc suriace unde
+goes a stage of maximum contraction (‘collapse’) and
+None of the proposed models of cavitation bubble then ejects a thin cumulative jet (at a speed
+collapse have so far been able to take into of ~10 m s™ 1) in the direction of the solid wall
+consideration jointly liquid compressibility, heat (Fig. 1b: Ref 35. p. 5). A bubble of smaller size
+exchange, change of mass of the vapour-gas mixture® interacts with a larger one in the same manner as 1t
+in the bubble, etc. Limiting evaluations of the ettects of docs with the wall: it ¢jects a thin cumulative jet that
+phase transitions, straightened gas diffusion. and heat penetrates the larger bubble. The contraction of laser
+transfer'-**2" for small pulsations make it impossible to cavitation bubbles and the radiation of shock waves
+study these phenomena when the bubble contracts can be seen in detail in Fig 2 (Rel. 35. p. 6). The third
+sharply. frame shows the start of the creation of a spherical
+The vapour-gas mixture in a cavitation bubble 1s shock oh the fourth Jame 1 propasdiion (one oe
+generally considered as an 1dcal gas; this causes a ! AT. as [UO ms: 7). | at the instant o
+significant errors at high pressures. However. the use of CO apse . ¢ conaction zone 1S mymmeirie lwo (or
+the van der Waals equation of state would significantly nore) >phcticd yma Waves dlc Td lated ,
+complicate the equations and numerical calculations. >HI laneous y. Ea centres being at the nodes of
+As a rule, the dynamics of a single bubble are contraction (Fig. 2b).
+investigated without considering the interaction of It 1s important to note that the radiation of a shock
+bubbles in the cavitation field. Rosenberg’ has shown wave occurs when the cavitation bubble has a
+that one may ignore the etfect of Bernoullt's pressure. minimum volume, while the cumulative jet in the
+which develops between bubbles. At the same time. in
+our opinion, a much greater contribution 1s provided
+by the interaction involving the Bjerkness’® and
+Konig? forces that arise between pulsing bubbles.
+Th C dy n d Im | CS Cq u cl { 10 § S desc ri be th C pu ] sat O Nn d n d . : iii. ) isi pe ie ii pr pr
+collapse of spherical cavitation bubbles. Theoretically, Lal a
+vibrations of a bubble similar in size to the resonance ‘- EE BR OEE TE
+size result in the bubbles quick contraction, crushing -n he _— - ee mn On
+and disappearance in the liquid (collapse). However, in a
+recent years studies have revealed other experimental
+results: deformation of the spherical shape of the
+bubble, 1ts loss of stability, and degradation into a
+number of fragmentation bubbles**. Plesset and Mitchell” EN re PY wy OY MM
+have established a stability condition for the spherical EEE = Prd yy WW WW WW
+form of a bubble. Theoretical studies of the motion of host DEERE - BEE oo
+deformed bubbles are based on the general dynamics a Ee | l )
+equations, in which the radius of a non-spherical BE JR I ro
+bubble, R, 1s represented by the sum of a mean radius di AE ET a a al
+. | . a " mE EE . 3 - a -
+as per the Rayleigh-Plesset equation and a spherical oy | I WW WW Oo 0
+harmonic component®*:?°: | = - |
+with the pulsation amplitude. 4, < R(7). Also. the form aa IVE
+of a contracting cavitation bubble 1s directly ’ | 4 Ri 9 o 9 ®
+* Calculations3© have shown that a contracted cavitation bubble mainly b a —_— FE CA. IRON! AR a ;
+comprises gas, the concentration of the gas reaching 30 M PR ——n
+**As there is no experimental evidence for the bubble collapse effect, the
+processes of quick contraction, loss of stability, degradation into Fig. 1 High speed photographs of pulsing cavitation bubbles and the
+fragmentation bubbles, etc will together be arbitrarily called a ‘collapse’ appearance of a — annular 7 and b — radial®® cumulative jets. {The
+from bere on frames follow from left to right)
+158 ULTRASONICS . JULY 1985

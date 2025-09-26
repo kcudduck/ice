@@ -1,0 +1,48 @@
+14
+101 RAEN Re =10* ——
+oo Re = 10° ——
+Re = 10?
+wr 10° Re = 10
+Ul, /
+101 °
+AD
+i. — 1) (I~
+10° 102 104 10°
+Re
+(a) (b)
+Figure 9: (a) Peak of the non-dimensional velocity as a function of Reynolds number for
+an air bubble at py = 0.1 atm collapsing in water at atmospheric pressure. (b) Interface
+contours as a function of the Reynolds number at the instant of minimum radius.
+manuscript apply. We take an ideal case of an air bubble with p;, o = 0.1 atm and constant
+contact angle equal to 120 degrees collapsing in water at an ambient far field pressure. In
+this situation, the characteristic velocity of the process stays constant and equal to 10 m/s
+and the initial radius of curvature 1s then left as the unique parameter controlling the values
+of the Reynolds and Weber number.
+
+In figure 9a we show the maximum non-dimensional velocity reached during the collapse
+as a function of the Reynolds number. For Reynolds numbers above a given critical value
+Re > Re. = 100 the influence of Reynolds on the peak velocities 1s only marginal. However,
+when the Reynolds 1s below this critical value, the jet velocity drops dramatically further
+decaying with decreasing Re . This sudden change on the peak velocities 1s controlled by the
+appearance of jetting, which 1s not visible for Re < 100 (see figure 9b). For a low pressure air
+bubble collapsing in water at atmospheric pressure these results reveal that the observations
+reported (reversed re-entrant jet) are applicable for bubbles larger than R. > 10um. We
+must still emphasise that the results reported here are limited to spherical cap bubbles. In
+reality other kind of behaviour can be observed depending upon the mechanism by which the
+bubbles are generated and the bubble shape reached at the instant of maximum expansion.
+If the bubble shape 1s not a spherical cap or the microlayer 1s not able to drain during the
+bubble collapse or the bubble size 1s comparable to pits, it can lead to a variety of other
+collapse and jetting dynamics discussed by Lechner ef al. (2020), Reuter & Ohl (2021) and
+Trummler ef al. (2020) respectively.
+
+5. Conclusions
+
+In this work, we show that the impulsive potential flow theory can be used to discuss the
+influence of the bubble shape on the dynamic response of collapsing bubbles for sufficiently
+large Reynolds and Weber numbers. As an example, we present the results obtained for the
+collapse of the spherical cap bubbles showing that the effective contact angle at the instant
+of maximum expansion controls the interface acceleration at the beginning of the collapse
+phase and the jetting direction observed in Direct Numerical Simulations and experiments.
+When a > 90 degrees the potential flow solution at small times shows the appearance
+of a singularity which causes extremely high accelerations close to the contact point and
+a change in vorticity direction with respect to the a < 90 degrees case. In the former

@@ -1,0 +1,41 @@
+1 Introduction
+
+Cavitation bubbles, driven in motion by an acoustic field, are the example
+of highly nonlinear forced oscillators. The study of their behavior, recently,
+has attracted lots of attention and it is shown that this phenomenon exhibit
+highly nonlinear and complex dynamics both experimentally |1, 2, 3| and
+numerically |4, 5, 6, 7|. Besides their complex behavior, acoustically driven
+bubbles have lots of advantageous applications in material science, sonolu-
+minescence and sonochemistry |8, 9, 10, 11, 12|, sonofusion |13| and medical
+procedures such as: lithotripsy, diagnostic imaging, drug and gene delivery,
+increasing membrane permeability, opening blood brain barrier and high in-
+tensity focused ultrasound (HIFU) surgery |14, 15, 16, 17, 18]. In all of these
+applications a conventional single frequency acoustic source has been used
+to provide the bubble oscillations. As an alternative to this conventional
+approach recently using dual frequency sources has lured a great amount of
+attention in order to improve the outcome of the applications involving acous-
+tic cavitation. Dual frequency has been used to enhance sonoluminescence
+phenomenon |19, 20, 21, 22, 23] resulting in an increase in the light emis-
+sion up to 300 percent. In ultrasound imaging, it introduces a robust back
+scatter of ultrasound agents even at low intensity frequencies, which can be
+optimized up to 200 percent brighter as compared to single frequency employ-
+ment [24]. In sonochemistry, using two harmonics has shown to increase the
+energy efficacy and enhance sonochemical reactors function |25, 26, 27, 28].
+In therapeutic applications such as sonodynamic therapy and HIFU, using
+a dual frequency source is shown to greatly increase the treatment efficacy
+29, 30, 31, 32|. In the above mentioned applications, an optimum employ-
+ment of bubbles suggests that chaotic oscillations be reduced, because when
+the bubble motion gets chaotic, its behavior becomes unpredictable and very
+hard to control. Therefor, reducing chaotic oscillations can be the first step
+in precisely controlling the bubble dynamics and can provide more beneficial
+outcomes.
+
+In applications involving cavitation, the parameters like the viscosity, surface
+tension or the diameter of the bubble are determined by the media and type
+of the application. Therefore, in order to carry out control strategies in the
+system, the only remaining parameter that can be dealt with, is the per-
+turbation of the forcing term. As mentioned using dual frequency sources is
+practical and has been proved to have many advantages in an increasing num-
+ber of applications. For this reason, in order to stabilize the bubble motion,
+
+2

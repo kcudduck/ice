@@ -1,0 +1,67 @@
+The Journal of Organic Chemistry pubs.acs.org/joc
+Herein, we concentrate on sono-organic methods and Secondary sonochemistry
+general trends, which reflect well-established points and open (radicals diffuse and react into bulk liqui Fo EE
+quid) (reactions inside bubble)
+up prospects for future explorations, especially in organic and
+medicinal chemistry. We begin with some introductory aspects . \ /s
+ce : Shock waves/ Sonoluminescence
+of cavitational effects, followed by practical remarks on Ultrasound ' + VR 7
+common ultrasonic reactors and how a series of external ale en ; — Hot Spot
+parameters, often overlooked or misunderstood, matter. The 1 IY,
+Perspective continues with some empirical rules, which show ) - | RUBEIElieHi
+the opportunities and challenges for achieving creativity and Bubble ~~ _ hadicalsformation
+selectivity under eco-friendly conditions. We finally address nucleation (3 em Ory
+future orientations and innovations, such as piezo-redox pee Streaming Mg erosion
+catalysts, flow designs, and in-line automation. | Crevices
+HB WHAT IS CAVITATIONAL CHEMISTRY? Figure 1. Representation of chemical and mechanical effects induced
+Ultrasound refers to inaudible acoustic waves, which are by acoustic cavitation.
+generally considered as being about 20 kHz, even though the
+audible upper limit of frequency in humans depend on age and heterogeneous reactions involving solid—liquid and liquid—
+other physiological conditions. Power ultrasound is devoted to liquid interfaces, such forces result in high-velocity flows,
+high-intensity applications that produce permanent changes in acoustic streaming, which enhance both mass and energy
+the physical and chemical properties of materials. Most transfers. Bubble implosion on surfaces generates microjets,
+sonochemical reactions are conducted at ultrasonic frequencies hammering, and interparticle collisions,” all accounting for the
+between 20 and 100 kHz with intensities high enough to cause well-established mechanical action and cleaning of acoustic
+cavitation in the liquid medium. This unique phenomenon cavitation.”'" In aqueous media and in the presence of oxygen,
+provides the kinetic energy that fuels a transformation to formation of reactive oxygen species (ROS) will take place,
+completion and involves a juxtaposition of purely chemical with the OH radical being the most significant and nonspecific
+(i.e. bond-breaking and bond-forming reactions) and oxidizing agent. Accordingly, a large variety of organic
+mechanical (cleaning, dispersion, friction, interface instability, molecules, especially pollutants, can be degraded by sonication
+degassing, defoaming, and others) effects. Within this context, alone or combined with other protocols.” Good correlations
+ultrasound-induced chemistry can be appropriately defined as between octanol—water partition coefhicients and reaction rates
+cavitational chemistry.” Cavitation refers to the generation of have been observed, as hydrophobic pollutants tend to
+voids or microsized cavities when a liquid suffers a sufficient accumulate near cavitation bubbles.” The cytotoxicity
+pressure drop that disrupts its cohesive forces. The subsequent associated with some ROS can also be harnessed in
+and violent collapse to restore the intermolecular interactions sonodynamic therapies, involving the action of sonosensitizers
+releases a huge energy input accounting for the aforemen- under ultrasonic stimulation.’
+tioned effects. Although cavitation can be produced by various Remarkably, cavitation is a geochemical phenomenon that
+methods, there is little doubt that acoustic cavitation is the best occurs naturally under intense hydrodynamic conditions,
+known. The extreme conditions inside the microbubble with turbulent streams, earthquakes, or waterfalls and wherever a
+temperatures of several thousand Kelvin and more than 1000 shear force rapidly disrupts the continuity of aqueous surfaces.
+atm were notably advanced by Lord Raleigh in the first Collapsing waves in primeval oceans would have generated
+hydrodynamic model as early as 1917.1" Given the small size sufficient cavitation to induce chemical reactions and hence,
+(~1 yum) and transient lifetime (~1 ns) of bubbles, the formation of organic compounds.” The putative role of
+physical nature of cavitation has been ascertained through light cavitation 1n prebiotic synthesis of life-based building blocks
+emission spectra (sonoluminescence) that occur during bubble was suggested long time ago,”””* but its potentiality has
+collapse, which have even unveiled formation of plasma-like scarcely been explored. A recent and detailed study from
+conditions in recent studies.'””"" Grieser's team reported that cavitation may be effective in
+Surprisingly, the first chemical effects observed by Loomis producing amino acid mixtures from carbon and nitrogen
+and his co-workers were ascribed vaguely to “frequency effects” sources available in the early biosphere.” Ultrasonic irradiation
+(they employed high-frequency transducers, unusual by that (355 kHz, 70 W) of a mixture of nitrogen, methane, water, and
+time). By 1929, however, the first description of ultrasonic acetic acid led to formation of a few amino acids (glycine,
+oxidations suggested the putative role of hydroxyl radicals." ethylglycine, and alanine) at rates in the range 1—100 nM/min
+Richards reported the first comprehensive review of supersonic (Scheme 1).
+transformations, including sonochemical ones, in 1939 with It is believed that pyrolytic decomposition of substrates
+348 references. ® would occur within the imploding bubbles, affording H*, HO?,
+A catching picture of cavitation and its effects is shown in *NH?®, and NH,"® radicals, among others, with acetic acid being
+Figure 1. Volatile reagents and solvents will be trapped in the sufficiently volatile to enter an expanding bubble and
+microbubbles, then undergoing homolytic cleavage and/or fragmented into carbonaceous radicals as well. Both radical—
+conversion into excited states. This represents a primary radical and radical-molecule reactions should be equally
+sonochemistry that can be followed by secondary effects, as probable given the high radical concentration within the
+such reactive species delivered into the liquid will react with bubbles and yielding the end products in solution. This sort of
+molecules at the vicinity of the collapsing bubble or recombine cavitational syntheses provides new vistas in origin-of-life
+to form stable products. Bubble collapse is accompanied by studies, as evidenced recently by Zeiri et al. from a
+shock waves and shear forces that may cause further rupture of computational simulation of cavitational impacts (via shock
+nonvolatile molecules accumulated at the bubble interface. In wave modeling) on variable gaseous mixtures (CO, CO,, CH,
+13834 https://doi.org/10.1021/acs.joc.1c00805
+J. Org. Chem. 2021, 86, 13833-13856

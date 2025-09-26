@@ -1,0 +1,43 @@
+where K, : L*(Q) — L?(Q) acts on an element £ € L*(Q) as
+Ki = [(s"+8)A™ + b(I + sN(kiN*A)] &.
+We now notice the restriction Kj |p 41/2 is strictly positive. Indeed it follows by (2.5) that, given
+¢ € D(AY?) we have
+(K€ E)pavzy = (5° + s)[[€]I5 + DIIAYZE][3 + bs(AV2N (ki N*A)E, AV2E)
+= (5° + s)[|€]13 + bl AVZE3 + bs] RINT AE[I7, > 0.
+Therefore Ks pai c L(D(AY?)) and since sA™'h — bg € D(AY?) we have that
+& = K;'(sA™'h — bg) € D(A?)
+is the solution of (3.9). Finally,
+&=s'(& +g) e DAY).
+For the final step to conclude membership of (&1,&,&3) in D(A) we look at the abstract version
+of the description of D(A):
+D(A) = {(&1, 2,8) €H; & + N(kiN*A&s) € D(A) }
+whereby one only needs to check that & + N(kiN*A&) € D(A) since the regularity for the triple
+(£1,&9,&3)" to belong to Hl was already established. The desired regularity will follow from (3.8),
+which implies
+bs(&o + N(rk1N*AE)) — —(s° + s) ATES + sA th - D(A),
+since &3,h € L*(9).
+
+This proves that A; is maximal dissipative, therefore generates a Cy—semigroup of contractions
+due to Lummer Phillips Theorem and, since P is bounded, A = A; + P generates a Cy—semigroup on
+HL.
+
+For generation in H; we use an argument inspired by the one presented in ([36], p. 26) with the
+needed modifications. Since we already know that A generates a Cy semigroup {S(¢)}>0 on a larger
+space H, we only show that
+
+{T(1) Fe=0 := 15(0)|m, Feo
+is also a semigroup and that its infinitesimal generator is A when considered as an operator in Hj.
+
+This entails the proof of two things: {7'()};>0 satisfies the semigroup property — which follows
+from the fact that the problem is autonomous — and invariance: T'(t)(H;) C H; for all £ > 0.
+
+If ® = (ug,ui,us)’ € H; then dug + kiuy = 0 on I'j. We then need to show that this
+condition is invariant under the dynamics and, in addition, the regularity Au € C([0,T); L*(Q))
+holds true. This along with the boundary conditions and regularity of elliptic problems will prove
+that uw € C(]0,T); H*(?)). In order to show that Au € C ([0,T); L*(Q2)), we appeal to the change of
+variables bz; = bu; + c*u. By the variation of parameters formula we have
+
+2 t 2
+u(t) =e” vty vf e” v7 2(g)do
+0
+11

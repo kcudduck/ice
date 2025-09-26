@@ -1,0 +1,55 @@
+tatively reproduce the experimental observations on the planar pressure wave. The fluid has density p, speed of
+clustering of bubble clouds. Similar simplified models sound c, surface tension o- and kinematic viscosity v.
+are also used in the simulations in [27, 29, 25], which The radii of the bubbles can be described by the
+qualitatively reproduces the formation of the Lichtenberg Keller-Miksis model [20, 4] with additional pressure
+pattern [23]. These simulations follow the movements of ~~ coupling terms between the bubbles as introduced in
+individual bubbles, thus are based on a Lagrangian ap- [26]. Ignoring the time-delay effect, the coupling pres-
+proach. Recently a hybrid Lagrangian-Eulerian method sure between bubbles i (i = 1,2) and j = 3 — i, denoted
+1s proposed in [24 | where bubble oscillation 1s computed, as p;;j, 1s given by [26]
+although the secondary Bjerknes force 1s not explicitly |
+included. 0 dR’R j
+The past research has yielded considerable physical pij(1) = D dr (2)
+insights about the secondary Bjerknes force. Unfortu- Co ~
+nately, due to the complexity of the problem, the insights which 1s valid when the radi R; and R; are much smaller
+have yet to be translated into accurate and computation- than D. With p;; included, the equation for R;(#) becomes
+ally efficient models. We observe, however, that the com- [26]:
+plexity of the problem makes it an excellent example 1+ . C1)
+for which a data-driven approach can be fruitful. Data- 2p(1 = ¢ RORiR; +p(3 = ¢ RR;
+driven methods, especially machine learning, have made =2(1 + ¢™'R)(pwi — p1) + 2¢” Ri Pui — pr)
+tremendous progresses in recent years, as are exemplified —20D7'(2 R, R n R’ R). (3)
+and popularized by the success of AlphaGo [34]. The
+methods have been successfully applied to many physi- where
+cal and applied sciences. There 1s, however, not yet any -
+report of such applications in bubble simulations. The Pui = [7 N 20 | 2) 20 ApYR; 4)
+objective of this paper 1s to use machine learning to build Rei | \ R; R; R;
+a novel model for the secondary Bjerknes force that 1s
+more comprehensive than those previously reported, and is the pressure on the outer wall of bubble i and k 1s the
+more generally, introduce this useful method into the in- polytropic exponent for the gas inside the bubble. We
+vestigation and modelling of bubbles oscillations. note that other models for the oscillation of coupled bub-
+The paper is organized as follows. The dynamical bles exist in the literature. Obviously the machine learn-
+equations for the bubbles are reviewed in Section ing models to be presented below can be used with other
+where the dependence of the secondary Bjerknes force models as well.
+on relevant parameters are highlighted. The data set for The secondary Bjerknes force 1s defined as the time-
+the force is described in Section[3] Section [4]introduces aver aged pressure exerting on bubble i due to the oscilla-
+the relevant machine learning models to be used to build tons of bubble J 18 26]. Let F;; be the notation for this
+the model for the force. The practical aspects of the train- force, simple calculation shows that, for small bubbles,
+ing and testing of the models are also presented. Addi- Fj can be written as (see, e.g., [3]):
+tional checks are performed in Section [5| where the efli- IRR RAR
+ciency of the models 1s also assessed. The conclusions Fi; = - Pp (v J 3 _ PAViY) | (5)
+are summarized in Section|6] D> dt 4nD?
+where V; 1s the volume of bubble i. The pointed brack-
+2. The governing equations ets represent time averaging. In the above expression we
+follow the tradition where F;; 1s positive when it 1s at-
+Let D be the distance between the two bubbles. The tractive. The secondary Bjerknes force factor f;; [26] 18
+radius of bubble i (i = 1,2) is denoted by R;(¢) and its defined as
+equilibrium radius is Rg;. The bubbles are driven by a , (VV
+uniform pressure oscillating harmonically in time: Jij= DFij = Py (6)
+pif) = po — pa sin(wt) (1) In a bubble cluster, F;; 1s expected to depend not only on
+bubbles i and j but also the other bubbles. Nevertheless,
+where pg 1s the ambient pressure, p, 1s the amplitude when the force was considered in the few bubble cluster
+of the ultrasonic pressure, and w = 2x f and f are the simulations [27, 29, 22] reported so far, F;; had all been
+angular and linear frequencies, respectively. By using a calculated from 2-bubble systems, where the contribu-
+pressure uniform in space, it has been assumed that D tions from other bubbles were neglected. Empirical fit-
+1s small compared with the wave length of the pressure ting of F;; as a function of D was used. The dependence
+wave or the bubbles are on the same phase plane of a of F';; on other parameters have not been considered.
+2

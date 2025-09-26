@@ -1,0 +1,43 @@
+Sonoluminescence and sonochemiluminescence from a maicroreactor 11
+BE 2 pits
+[11 pits
+[Blank
+0.25
+— 0.2 iN
+=,
+O
+O)o.15
+8S 4x \7 /\
+9 A
+> &
+0.1 A
+0.05 | |
+0
+High Low
+Power
+Figure 8: Averaged SCL intensities for the different experimental conditions for aqueous
+luminol solution.
+12
+HE 3 pits
+C 10 BE 2 pits
+© [11 pit
+> [Blank
+= 8
+—
+v0)
+53
+-—
+£a°
+[0
+2X
+al 4
+-
+>
+] | ] |
+0 High L -
+9 Power OR
+Figure 9: Averaged pixel intensity values from the luminol images recorded (SCL) for the
+different experimental conditions for aqueous luminol solutions. Besides the blue light
+coming from the center of the silicon substrate (microbubbles generated from the pits) in
+some cases some SCL signal is seen coming from the edges of the substrate; presumably
+from crevices existing in the glass reaction chamber or substrate edges.

@@ -1,0 +1,49 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+one increase the signal-to-noise ratio? Namely, when detecting the emitted sound from the
+bubble at the driving frequency, the signal is obscured by the reflections from tissue. To
+improve the signal quality, it had been proposed [40] to detect higher harmonics of the driving
+frequency in the sound emission spectrum of the bubble. Vice-versa, also subharmonics had
+been suggested for better contrast. The immediate question was: What bubble properties
+are optimal for these purposes, in particular what bubble size, for given driving frequency?
+This indeed was the question with which the pharmaceutical industry approached us, and
+thanks to our work on single bubble sonoluminescence, we could straightforwardly provide an
+answer, namely by simply solving the RP equation with the relevant parameter for medical
+ultrasound imaging: Here, rather than in the range of 20 kHz — 30 kHz as common for single
+bubble sonoluminescence, the typical driving frequencies are between 2 MHz and 10 MHz
+and typical bubble radii are a few micrometers. From linearizing the RP equation (1) it
+follows that the eigenirequency of the volume oscillations of an acoustically driven bubble
+with ambient radius Ry and under isothermal conditions approximately is [1, 12, 41]
+| 3F)
+Wo o RZ (3)
+
+This eigenfrequency is called Minnaert frequency. With the material parameters for water
+under ambient conditions this gives the well-known rule-of-thumb [41]
+
+foRo ~ 3 MHz pm = 3 kHz mm = 3 Hz m (4)
+for the resonance frequency fy = wg/(27). For the frequencies of medical ultrasound imaging,
+the resonance radii are thus in the micron range. Also in the fully nonlinear case, thanks
+to the full RP equation we could calculate optimal parameter values for maximal sound
+emission in the second harmonic and in subharmonics, and could make statements on the
+expected bubble shape stability in those regimes [42].
+
+One issue we had first ignored was that the ultrasound contrast agent bubbles are not
+“naked”, but coated with lipids and polymers (figure 4b), to avoid the obviously undesirable
+bubble clustering in the body and to increase their lifetime. The coating however modifies the
+oscillation behavior of the bubble in an a priori unknown way. Therefore, a few years later,
+to take the effect of the coating on the bubble dynamics into consideration, we developed
+a model to quantitatively describe this modification of the RP dynamics (1), which is now
+known as “Marmottant model” [38]. The key idea behind this model is to introduce an
+instantaneous bubble-size dependent surface tension, reflecting the buckling behavior of the
+bubble coating when compressing the bubble, an elastic regime, and a shell-ruptured regime.
+An excellent recent review of such modified bubble dynamics can be found in ref. [39].
+
+To experimentally test such models for the relevant frequencies in the MHz regime, one
+unavoidably needs ultra high-speed imaging, with frame rates > 1 MHz. In an effort led
+by Nico de Jong and Michel Versluis, we therefore developed [43, 44] an ultrafast camera,
+which allows imaging 128 digital frames with a frame rate of up to 25 MHz. We called it
+“Brandaris 128”, as it is based on a rotating mirror, just as the famous Dutch lighthouse
+Brandaris on Terschelling. This camera allowed us to gain insight into the volume and shape
+oscillations of ultrasound contrast agent bubbles [45-47], in particular when combining it
+with measurements of the acoustic emission of such coated bubbles [45]. This procedure
+allowed us to adjust the model parameters of the Marmottant model [38] to the experimental
+9 9

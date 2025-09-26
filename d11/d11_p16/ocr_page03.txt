@@ -1,0 +1,52 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+
+e Lewis number Le = k/D, ratio of thermal diffusivity x to mass diffusivity D, and thus
+another material parameter,
+
+e¢ Damkohler number Da, ratio between chemical reaction rate and (diffusive or convec-
+tive) mass transport rate,
+
+e Jakob number Ja = pc,(T — Tsqt)/(pu/\), ratio of sensible heat to latent heat. Here c,
+is the liquid specific heat, A is the latent heat, p, the vapor density, T%,: the saturation
+temperature of the liquid, and 7" the temperature of the surrounding liquid.
+
+eo ....
+
+We will encounter most of these numbers in this article.
+
+The selection of which bubble problems I will report on is naturally subjective and, as said
+above, along my own scientific bubble journey. This will also be reflected in the citations,
+where I will restrict myself to papers that had a significant scientific impact on me and
+to references to our original work. Some of the given examples I briefly discussed before,
+in a short Proceedings |3] (without Web of Science Index). There are many more bubble
+problems and applications, which I cannot report here or which I am even not aware of, but 1
+hope that the paper stimulates other scientists to look into the subject and be open towards
+both fundamental and applied bubble problems, because — as I hope to be able to show with
+this article — it is intellectually very rewarding, covers many areas of fluid dynamics, and
+extremely relevant in many applications.
+
+II. SONOLUMINESCENCE — ILLUMINATED BUBBLE DYNAMICS
+
+The first major scientific bubble problem I bumped into was sonoluminescence. In 1994,
+during my time as postdoc at the University of Chicago in the group of Leo Kadanoff, I
+attended a lecture by Brad Barber on his PhD thesis on single bubble sonoluminescence
+4, 5] (later summarized in [6]). This phenomenon had been discovered a few years earlier
+by Felipe Gaitan |7, 8, then a PhD student in Mississippi, when he experimented with an air
+bubble trapped in a water-filled flask by piezo-acoustical forces (the so-call Bjerknes force
+9, 10], see figure 1 for a similar setup), which at the same time drive the bubble: When
+the pressure is low, the bubble expands, and once it is high, it is compressed. But what
+Galtan observed was first not believed by anybody: Under certain conditions the bubble
+can emit light! How can this be? Typical acoustical energies are in the range of 10712 eV
+per molecule, typical light energies in the range of 1 eV. This means that there is an energy
+focusing factor of 101%! Sound, radius, and light intensity as function of time are reproduced
+in figure 2a.
+
+Directly after Barber's talk, I discussed this fascinating subject with my colleague Michael
+Brenner, then also a postdoc at the University of Chicago. We asked ourselves the two
+obvious questions: What is the light emitting process and under what conditions does this
+phenomenon happen, i.e., what is the phase space of single bubble sonoluminescence? We
+first focused on the second question, and started to read and learn about bubble dynamics.
+
+We very soon found the seminal papers by Andrea Prosperetti on this subject, most visibly
+summarized in his review [12]. The core dynamical equation is the celebrated Rayleigh-
+3 3

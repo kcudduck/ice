@@ -1,0 +1,57 @@
+JULIAN: VOLCANIC TREMOR-—NONLINEAR EXCITATION BY FLUID FLOW 11,861
+SF 3 4s () resonance because they would have to be essentially
+TIME (SEC) uncoupled and resonate independently of one another.
+Tremor is widely observed in places such as the rift zones
+of Hawaiian volcanoes. Geophysical measurements [Hill and
+Zucca, 1987] and studies of exhumed rift zones on the older
+islands | Walker, 1987] show that rift zones consist not of
+flows but of massive dike complexes with dimensions of the
+order of kilometers. Mechanisms such as the one proposed
+by Omer [1950] could not operate in such places.
+BCR Z f2a657 18 00103
+At depths of several kilometers, gases such as steam or
+Carbon dioxide are relatively incompressible. For example,
+the compressibility of steam at 1000°C is about 1.5x1073
+MPa~! at a pressure of 1 GPa (10 kbar, or about 40 km
+Nie depth) and about 3.7x1072 MPa~! at 0.2 GPa (2 kbar,
+| PAW or about 8 km depth). These values are comparable to
+| that for liquid water at room conditions (about 4.7x10~%
+MPa). Mechanisms requiring highly compressible gas
+phases could operate only at depths of less than a few
+Sch 2 ern. 00660 kilometers and cannot explain tremor originating at depths
+of 40 km or more beneath Hawaii [Aki and Koyanagi,
+Figure 3. Seismograms of an ordinary high-frequency 1981] or long-period events at depths of 30 km in Japan
+earthquake (above) and a “long-period event” (below) from |Ukawa and Ohtake, 1987], 16 to 22 km at Lassen Peak
+Mount St. Helens volcano, Washington [after Fehler and and Medicine Lake volcanoes in California | Walter, 1986;
+Chouet, 1982]. Walter, 1988; Walter, 1991; Dzurisin et al., 1991], 10 to
+28 km at Long Valley caldera, California [Hill and Pitt,
+been proposed satisfactorily explain all of tremor’s observed 1992], 20 to 30 km beneath Mount Spurr, Alaska (A. Jolly,
+Ahern personal communication, 1993), 15 to 25 km beneath the
+Resonating rock laminae cannot explain tremor, because Clear Lake volcanic center, California (S. Walter, personal
+tremor occurs in many places where no such laminae communication, 1993), and about 35 km beneath Mount
+exist. Omer [1950] expected volcanoes to consist mostly Pinatubo in the Philippines (R. A. White et al., unpublished
+of laminae, which he believed originated as piles of data, 1993).
+subhorizontal lava flows. Although the flanks of many Mechanisms that involve jerky crack propagation are
+volcanoes are made up of flows, there is serious question inconsistent with observations of dike propagation episodes
+whether their mechanical properties would support high- at active volcanoes, which usually are accompanied by
+swarms of ordinary high-frequency earthquakes, with
+only weak tremor and few long-period events. When
+mab | x1 a propagating dike reaches the surface, high-frequency
+earthquakes diminish sharply or cease and are replaced by
+vigorous tremor and long-period earthquakes accompanying
+Su — x1 the eruption of lava. Figure 6 shows such a sequence of events
+| in a typical east rift eruption of Kilauea. Rapid summit
+| tilt and summit tremor beginning late on September 12
+indicated the flow of magma from the summit chamber
+oO wv 20 into the east rift zone and were accompanied by intense
+SECONDS short-period earthquake activity on the east rift zone.
+Figure 4. Seismograms of a long-period earthquake and About a, day later, eruptions began on the east rift zone.
+the sudden onset of a tremor episode at Mount St. Helens Short-period earthquake activity decreased and returned
+after Fehler, 1983]. The similarity of the initial portions of to approximately the background level during the first
+the signals indicates that the events have similar locations few days of the eruption. Tremor on the east rift, in
+and physical mechanisms. contrast, was weak on the first day but became strong
+o_o er Pe
+Ei ——— a LTT TTS ToT TT - Sa
+Figure 5. Seismograms of a “long-coda” earthquake, or “tornillo,” from Galeras volcano, Colombia.
+Small time marks are 10 s apart. Seismograms are reproduced courtesy of INGEOMINAS, Galeras
+Volcano Observatory, Pasto, Colombia.

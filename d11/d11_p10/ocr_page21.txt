@@ -1,0 +1,60 @@
+21
+(a) Analytical =~ —— Kirkwood-Bethe = === p;/(pc)
+0.005 0.005
+0.000 _ 0.000
+< SY
+J S
+=-0.005 2 —0.005
+2 5
+—0.010 —0.010
+0 1 2 3 4 0 1 2 3 4
+(r—R)/A, (r—R)/A,
+(b) Analytical =~ —— Kirkwood-Bethe === p;/(pc)
+0.3 0.3
+< 0.0 S 0.0
+5 J
+3 2
+= 03 ST 0.3
+—0.6 —0.6
+0 I y 3 4 0 I 2 3 4
+(r—R)/A, (r—R)/A,
+(¢) Analytical =~ —— Kirkwood-Bethe === p;/(pc)
+1.0 1.0
+0.5 0.5
+$ = |
+I 00 J 00
+, S
+—0.5 —0.5
+~1.0 —-1.0
+0 | 2 3 4 0 | 2 3 4
+(r—R)/ 1, (r—R)/ 1,
+
+FIG. 14: The pressure (left) and velocity (right) of acoustic waves emitted by a pulsating spherical emitter with (a)
+k.Ro = 0.01, (b) k.Ry = 1, and (c) k, Ro = 100, predicted by the Kirkwood-Bethe hypothesis. The analytical
+solution for curved acoustic waves, Eqs. (115) and (117), and the particle velocity for plane acoustic waves are
+
+shown for reference.
+
+of the emitter wall are defined as Eq. (37), the analytical solutions for the acoustic pres-
+
+- sure and particle velocity are given as'®?
+p(t) = po + Ap, cos (wat — >) (113) n
+Ap - p1(r,t) = p Ap, COs (wat 5 k(r — R)) (115)
+R(t) = —— cos (wat — >) : (114)
+pC 2
+R Ap, Tr
+respectively. The considered pressure amplitude Ap, is uy (r,t) = — ———— cos (wat ———k(r—R) — 0)
+r pccos(6) 2
+
+sufficiently small such that the pressure-dependency of (116)
+
+the liquid density and speed of sound are negligible. At
+
+the emitter wall, pressure and velocity are, therefore, in respectively, where the complex impedance manifests in
+
+phase and there is no relative velocity between the emit- ~~ the phase shift § = 7/2 — arctan(kr). Taking the os-
+
+ter wall and the fluid. The water surrounding the emitter cillating emitter into account by inserting the analytical
+is described using the modified Tait EoS, with n = 7.15, particle velocity defined by Eq. (116) into the flow veloc-
+
+B = 3.046 x 10° Pa, and pg = 997kg/ m®. Following ity given by Eq. (67), the analytical solution for the flow

@@ -1,0 +1,29 @@
+readily reduces inorganic ions, like Au(l) yielding Au(0) and hydronium ion as
+products, like the reduction of the silver ion, as presented by Sarkar [68]. The
+degenerate reaction of the hydrogen atom with the hydroxyl radical reforms the
+solvent. Even when H20: Is formed, this has been used to promote nanoparticle
+growth after seed addition to a chloroaurate solution [69]. The hydrogen ranges
+produced with this methodology are from 20 to 18 uM, other reported ranges are
+between 10 and 6 uM per hour (on sonochemical oxidation of iodine by a hydroxyl
+radical at 20 kHz and 42 £2 W) at room temperature and 50 °C respectively [70].
+The third reaction mechanism is based on the radical species formed in the
+reaction. The presence of air dissolved in the reaction mixture triggers a radical
+chain mechanism that involves oxidative degradation of citric acid [71]. Notably, the
+oxidative pathway of citrate, 3-oxoglutarate and further, encompasses many
+propagation steps, including possible formation of an alkyl radical, centered on the
+transfer of a carbon atom a to the carboxyl group. NMR has detected oxidative
+byproducts during the formation of gold nanoparticles by citrate reduction [72]. The
+oxidation implies the formation of a carbocation highly unstable, by the electron-
+withdrawing group (EWG) —CO2H. The third reaction mechanism is based on the
+radical species formed in the reaction EWG [73].
+4. Conclusions
+The proposed experimental methodology using ultrasound to GNPs manufacture
+allowed to obtain controlled shape, homogenous narrow size distribution, and
+enhanced plasmonic properties by tuning the irradiation power. The proposed
+experimental procedure allows to show the different phenomena involved in the
+ultrasound assisted Turkevich-Frens method, associating the physical effects such
+as temperature and pH rise over reaction with cavitation phenomena and radical
+exchange. The obtained results show the strong influence of increasing ultrasound
+Irradiation on particle size, polyhedral structure and optical properties of as
+obtained GNPs and the reaction kinetics for their formation. Particle sizes from 16
+17

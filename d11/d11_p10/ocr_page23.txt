@@ -1,0 +1,73 @@
+23
+CONFLICT OF INTEREST ward High-Precision Invisible Sonic Scalpel,” Small 13, 1701555
+(2017).
+17G. Shakya, M. Cattaneo, G. Guerriero, A. Prasanna, S. Fior-
+Lhe author has no conflicts that could have influenced ini, and O. Supponen, “Ultrasound-responsive microbubbles
+this work. and nanodroplets: A pathway to targeted drug delivery,” Ad-
+vanced Drug Delivery Reviews 206, 115178 (2024).
+18M. Habibi, S. Foroughi, V. Karamzadeh, and M. Packirisamy,
+DATA AVAILABILITY Pers sound printing,” Nature Communications 13, 1800
+9A. G. Athanassiadis, Z. Ma, N. Moreno-Gomez, K. Melde,
+All presented results were produced, and can be read- E. Choi, R. Goyal, and P. Fischer, “Ultrasound-Responsive Sys-
+: : : tems as Components for Smart Materials,” Chemical Reviews
+ily reproduced, with the open-source software library 122. 5165-5208 (2022)
+APECSS, as referenced in Section IX. 207. Ma, C. Bourquard, Q. Gao, S. Jiang, T. De Iure-Grimmel,
+R. Huo, X. Li, Z. He, Z. Yang, G. Yang, Y. Wang, E. Lam, Z.-h.
+Gao, O. Supponen, and J. Li, “Controlled tough bioadhesion
+REFERENCES mediated by ultrasound,” Science 377, 751-755 (2022).
+21C.-D. Ohl, M. Arora, R. Ikink, N. de Jong, M. Versluis,
+M. Delius, and D. Lohse, “Sonoporation from Jetting Cavi-
+tation Bubbles,” Biophysical Journal 91, 4285-4295 (2006).
+IM. S. Plesset and A. Prosperetti, “Bubble Dynamics and Cavi- 2283 Helfield. X. Chen. S. C. Watkins. and F. S. Villanueva. “Bio-
+tation,” Annual Review of Fluid Mechanics 9, 145-185 (1977). physical insight into mechanisms of sonoporation,” Proceedings
+C. LE. Brennen, Cavitation and Bubble Dynamacs, Oxford Fn- of the National Academy of Sciences 113, 9983-9988 (2016).
+gineering Science Series No. 44 (Oxford University Press, New 23A Sarc. J. Kosel. D. Stopar, M. Oder, and M. Dular, “Re-
+, York, 1995). 3} y moval of bacteria Legionella pneumophila, Escherichia coli, and
+W. Lauterborn and I. Kurz, “Physics of bubble oscillations, Bacillus subtilis by (super)cavitation,” Ultrasonics Sonochem-
+Reports on Progress in Physics 73, 106501 (2010). istry 42, 228-236 (2018).
+2J. R. Blake and D. C. Gibson, “Cavitation Bubbles Near Bound- 243 L. Chahine A. Kapahi, J.-K. Choi, and C.-T. Hsiao, “Mod-
+aries,” Annual Review of Fluid Mechanics 19, 99-123 (1987). eling of surface cleaning by cavitation bubble dynamics and col-
+EF. Reuter, C. Deiter, and C.-D. Ohl, “Cavitation erosion by lapse,” Ultrasonics Sonochemistry 29, 528-549 (2016).
+shockwave self-focusing of a single bubble,” Ultrasonics Sono- 251 Reuter. S. Lauterborn. R. Mettin. and W. Lauterborn
+chemistry 90, 106131 (2022). Co “Membrane cleaning with ultrasonically driven bubbles,” Ultra-
+SM. Dular and C. D. Ohl, “Bulk material influence on the aggres- sonics Sonochemistry 37, 542-560 (2017).
+siveness of cavitation — Questioning the microjet impact influ- 264 Barcikowski. A. Plech 1% S. Suslick, and A. Vogel, “Materials
+ence and suggesting a possible way to erosion mitigation,” Wear synthesis in a bubble,” MRS Bulletin 44, 382-391 (2019).
+205061 (2023). Co 27H. Soyama and A. M. Korsunsky, “A critical comparative re-
+K. J ohansen, J. H. Song, K. Johnston, and P. Prentice, Decon- view of cavitation peening and other surface peening methods,”
+volution of acoustically detected bubble-collapse shock waves, Journal of Materials Processing Technology 305, 117586 (2022).
+Ultrasonics 73, 144-153 (2017). oo 287. J. Gutiérrez-Hernandez, H. Reese, F. Reuter, C.-D. Ohl, and
+8L. Gaisser, O. Kirschner, and S. Riedelbauch, “Cavitation de- P. A. Quinto-Su, “Nano-Cracks and Glass Carving from Non-
+tection in hydraulic machinery by analyzing acoustic emissions Symmetrically Converging Shocks,” Advanced Physics Research
+under strong domain shifts using neural networks,” Physics of 2300030 (2023).
+Lo uds 35, 027128 (2023). 29C. Llorens, M. Argentina, N. Rojas, J. Westbrook, J. Dumais,
+>. C. Haskell, N. Lu, G. Eb. Stocker, 2. Au, and J . R. Sukovich, and X. Noblin, “The fern cavitation catapult: Mechanism and
+Monitoring cavitation dynamics evolution in tissue mimicking design principles,” Journal of The Royal Society Interface 13,
+hydrogels for repeated exposures via acoustic cavitation emis- 20150930 (2016).
+sions,” The Journal of the Acoustical Society of America 153, 30p, Koukouvinis, C. Bruecker, and M. Gavaises, “Unveiling the
+237-247 (2023). Co physical mechanism behind pistol shrimp cavitation,” Scientific
+10M. Wan, Y. Feng, and G. ter Haar, eds., Cavitation in Reports 7, 13994 (2017).
+Biomedicine (Springer Netherlands, Dordrecht, 2015). 31R. H. Cole, Underwater Explosions (Princeton University Press,
+1D. Meroni, R. Djellabi, M. Ashokkumar, C. L. Bianchi, and Princeton, New Jersey, 1948).
+D. C. Boflito, “Sonoprocessing: Irom Concepts to Large-Scale 32W. Wu A.-M. Zhang Y.-L. Liu, and M. Liu, “Interaction be-
+|, Reactors,” Chemical Reviews 122, 3219-3258 (2022). tween shock wave and a movable sphere with cavitation effects
+K. Maeda, A. D. Maxwell, I. Colonius, W. Kreider, and in shallow water,” Physics of Fluids 32, 016103 (2020).
+M. R. Bailey, “Energy shielding by cavitation bubble clouds in 33W. Yu, S. Song, and J.-I. Choi, “Numerical simulations of
+burst wave lithotripsy,” The Journal of the Acoustical Society underwater explosions using a compressible multi-fluid model.”
+of America 144, 2952-2961 (2018). Co Physics of Fluids 35, 106102 (2023).
+O. A. Sapozhnikov, A. D. Maxwell, and M. R. Bailey, Maximiz- 34K. de Graaf, I. Penesis, and P. Brandner, “Modelling of seismic
+ing mechanical stress in small urinary stones during burst wave airgun bubble dynamics and pressure field using the Gilmore
+lithotripsy,” The Journal of the Acoustical Society of America equation with additional damping factors,” Ocean Engineering
+150, 4203-4212 (2021). 76, 32-39 (2014)
+14 % ; ’
+I. Yeats, N. Lu, J. R. Sukovich, Z. Au, and L. L. Hall, Soft Lis- 3°A. O. MacGillivray, “An Airgun Array Source Model Accounting
+sue Aberration Correction for Histotripsy Using Acoustic Emis- for High-Frequency Sound Emissions During Firing—Solutions
+sions From Cavitation Cloud Nucleation and Collapse,” Ultra- to the IAMW Source Test Cases.” IEEE Journal of Oceanic
+sound in Medicine & Biology 49, 1182-1193 (2023). Engineering 44, 582-588 (2019) |
+15 T
+A. Vogel, W. Hentschel, J. Holztuss, and W. Lauterborn, Cav- 36 A. G. Athanassiadis, Optical Breakdown Acoustics: Transduc-
+itation Bubble Dynamics and Acoustic Transient (Generation tion and Sensing Underwater, Ph.D. thesis, Massachusetts In-
+in Ocular Surgery with Pulsed Neodymium:YAG Lasers,” Oph- stitute of Technology, Cambridge, MA, USA (2019).
+| thalmology 93, 1259-1269 (1986). ) 3"M. A. O'Reilly and K. Hynynen, “Blood-Brain Barrier: Real-
+T. Lee, W. Luo, Q. Li, H. Demirci, and L. J. Guo, “Laser- time Feedback-controlled Focused Ultrasound Disruption by Us-
+Induced Focused Ultrasound for Cavitation Treatment: To-

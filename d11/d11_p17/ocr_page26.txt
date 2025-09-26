@@ -1,0 +1,29 @@
+[64] D.W. Larson, M.W. Lister, Catalytic decomposition of acetonedicarboxylic acid,
+Can. J. Chem. 46, (1968) 823-832. https://doi.org/ 10.1139/v68-143
+[65] C.H. Gammons, Y. Yu, A.E. Willlams-Jones, The disproportionation of gold(l)
+chloride complexes at 25 to 200°C, Geochim. Cosmochim. Acta 61 (1997) 1971-
+1983. https://doi.org/ 10.1016/S0016-7037(97)00060-4
+[66] K. Theilacker, H.B. Schlegel, M. Kaupp, P. Schwerdtfeger, Relativistic and
+Solvation Effects on the Stability of Gold(lll) Halides in Agueous Solution, Inorg.
+Chem. 54 (2015) 9869-9875. https://doi.org/ 10.1021/acs.inorgchem.5b01632
+[67] G.V. Buxton, C.L. Greenstock, W.P. Helman, A.B. Ross, Critical Review of
+Rate Constants for Reactions of Hydrated Electrons, Hydrogen atoms and
+Hydroxyl Radicals (¢«OH/*O-), J. Phys. Che. Ref. Data 17 (1988) 513-886.
+https://doi.org//10.1063/1.555805
+[68] A. Sarkar, E. Janata, Formation of the Silver Hydride lon AgH+ upon the
+Reduction of Silver Ions by He in Aqueous Solution. A Pulse Radiolysis Study, Z.
+Phys. Chem. 221 (2007) 403-413. https://doi.org/10.1524/zpch.2007.221.3.403
+[69] X. Liu, H. Xu, H. Xia, D. Wang, Rapid Seeded Growth of Monodisperse,
+Quasi-Spherical, Citrate-Stabilized Gold Nanoparticles via H202 Reduction,
+Langmuir 28 (2012) 13720-13726. https://doi.org/10.1021/1a3027804
+[70] M.H. Enterazi, P. Kruus, Effect of frequency on sonochemical reactions Il.
+Temperature and intensity effects, Ultrason. Sonochem. 3 (1996) 19-24.
+https://doi.org/10.1016/1350-4177(95)00037-2
+[71] V. Augugliario, M. Bellardita, V. Loddo, G. Palmisano, L. Palmisano, S.
+Yurdakal, Overview on oxidation mechanisms of organic compounds by TIiO2 In
+heterogeneous photocatalysis, J. Photochem. Photobiol. C Photochem. Rev. 13
+(2012) 224-245. https://doi.org/ 10.1016/).jphotochemrev.2012.04.003
+[72] M. Doyen; K. Bartik, G. Bruylants, UV-Vis and NMR study of the formation of
+gold nanoparticles by citrate reduction: Observation of gold-citrate aggregates, J.
+Colloid Interface Sci. 399 (2013) 1-5. https://doi.org/ 10.1016/}.jcis.2013.02.040
+26

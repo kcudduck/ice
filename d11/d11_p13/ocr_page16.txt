@@ -1,0 +1,61 @@
+11,874 JULIAN: VOLCANIC TREMOR—NONLINEAR EXCITATION BY FLUID FLOW
+map” in Figure 17, which shows the value of the nth peak,
+d ~. h.,, as a function of the immediately preceding peak, An, _1.
+Ta The resulting set of points is close to a simple curve, which
+200 enables values to be predicted one cycle into the future.
+/ \ In fact, period-doubling cascades and chaos of the sort I
+/ “ have been describing are obtained from the iteration of any
+A " function that has a quadratic extremum [May, 1976; Berge
+\y Ry et al., 1984].
+: \,
+E } B Spectra
+> ; Y, Figure 13 shows spectra of the synthetic tremor signals in
+; \ Figure 12. The first spectrum, corresponding to a simple
+] ~~ limit cycle, consists primarily of a narrow peak at a
+N fundamental frequency fy = 5 Hz, and, because the signal
+\ is not a perfect sinusoid, small peaks at harmonics of
+150 \ this frequency. The second and third spectra correspond
+to higher-order limit cycles and have additional peaks
+corresponding to the subharmonics at fy/2 and fy/4 and
+0.0 0.5 1.0 the higher harmonics of these frequencies. There is also
+h,m more power in the harmonics of the fundamental. In the
+final two cases, which correspond to chaotic behavior, the
+\ subharmonic peaks have become broader and the spectra
+h \ include a continuous component as well as peaks. In the
+164.9 \ fourth spectrum, for the “noisy limit cycle,” all the peaks
+\ from the “period four” limit cycle can still be seen, but
+\ for fully developed chaos (fifth spectrum) only those peaks
+\ representing the simple limit cycle are resolvable. For still
+NL more chaotic cases, even these peaks disappear in the
+- \ continuous “noise.”
+» 164.8
+e Ju | Observational Tests of the Model
+\ The tremor-generation mechanism proposed here can be
+\ tested in several ways. Direct observations of magmatic fluid
+164.7 NY | flow made during eruptions provide opportunities to obtain
+\ several kinds of data. Pulsation rates of lava fountains and
+\ gas emissions can be compared with tremor frequencies.
+\ Observed fluid properties, flow speeds, and channel sizes
+can be used to predict tremor amplitudes, frequencies,
+0.888 0.889 0.890 0.801 0.892 and waveforms. Qualitative observations of this kind have
+h, m already been made in the early stages of Hawaiian-type
+eruptions: as “curtains of fire” change to lava fountains
+164.780 - and vents evolve from tabular to less compliant cylindrical
+* shapes, tremor amplitudes are observed to decrease greatly.
+C \ These changes in channel geometry should also cause
+| systematic increases in tremor frequency. (Quantitative
+, prediction of these changes will require that the tremor
+. model be extended to cylindrical geometry.)
+\ The tremor model predicts that long-period earthquakes
+_ should have simple source time functions resembling damped
+7 IN sinusoids, like the synthetic time series in Figure 10. In
+£ 164.779 No some cases, such simple behavior is evident on seismograms
+-> : (Figure 5). More complicated seismograms (Figures 3 and
+4, for example) presumably result when simple source
+" time functions are obscured by wave propagation effects.
+\ ——
+Figure 15. (a) Poincaré section showing intersections of a
+\ finite portion of the phase orbit of Figure 14e with the h—v
+164.778 plane, on which h(t) = 0. (b) View of region enclosed in box
+0.88962 0.88963 0.88964 in Figure 15a, enlarged 225. (c) View of region enclosed
+h, m in box in Figure 15b, enlarged 165 X.

@@ -1,0 +1,29 @@
+TEM-SAED pattern. Besides TEM-SAED, the investigation of Al particle surface (i.e.
+HRTEM mode) for the presence of surface oxide is attempted. However, HRTEM
+surface oxide isolation remained unsuccessful in isolating surface oxide validates the
+outcome 2 presented. The Al mesocrystal has shown in fig. 4 9 (d) just exposed to
+HRTEM mode e-beam exposure (E4I5M) initiates the disintegration of the
+mesocrystalline formulation of cubical building unit (see drawn schematic in tig. 4 3 (f)).
+The disintegrated Al mesocrystal after 5 minutes of step-4 HRTEM mode exposure is
+shown in fig. 4 9 (f). This implies Al cubical building units are loosely agglomerated
+(facile disintegration under TEM e-beam) but in a periodic coherent order to behave as a
+whole single crystalline block. Similar to present observation of Al mesocrystal
+formation under ultrasonic irradiation, case studies of materials orderly arrangement
+achieved in materials during sonoprocessing are; (1) BaTiOs mesocrystals, (2) layered
+arrangement of CaCQOs, and (3) TiO, etc [356]-[360].
+
+Although the ultrasonic irradiation-induced inter-particle collision is the leading
+attribute contributing to sono-agglomeration, another essential contributor that needs
+mention linked to the solvent physical attribute (i.e., surface tension, viscosity, and
+vapor pressure, etc) used in sonolysis process. In brief preferred solvents having low
+viscosity, low surface tension, and less vapor pressure are the most preferred [361]. The
+list of conventional solvents mostly employed for sonochemical processing is; hexane,
+hexadecane, pentane, dichloromethane, etc [362], [363]. Also, in the case of polar
+(methanol, ethyl alcohol) vs non-polar solvent (diethyl ether, hexadecane) solvent effect
+during sonoprocessing for fabricating pu-CuO agglomerates; highlights non-polar
+solvents acts effectively [364]. The current Al mesocrystals extraction is done out of the
+hexadecane solvent fabricate Al-rich compositions with Al (M)/ PVP (P) ratio higher
+than 1:1 ratio. This product develops surface oxide after storage for a week in laboratory
+conditions, hence not useful for fuel applications.
+
+20

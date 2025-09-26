@@ -1,0 +1,53 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+WE i we ET SE HELE Be. 0 NY
+
+RA * < EEE ie RE EER a rd EY BE Bo i Cite SRT a BE LT YE te
+
+dA AT PR CT oh conn EE RR XK: Na Se a se
+PA 577 5 lk 4 Po EE a EE ES
+bid 05 a Cl SE Ee ER NE
+
+AER 3 Ei RE RS i ARE ME EPR IAEA RIS ag Rs a
+
+Pas. Nomar ane fe oe Ue
+
+dR Ee Shea THES LEHR gale dat irri 2 OR oh i LA ay
+
+Sail) EES SH
+FIG. 25. Snapshots of the particle distribution in turbulent flow field for a Stokes number St = 0.6
+for (a) bubbles, (b) tracers, and (c) heavy particles, all for a Taylor-Reynolds number Rey = 75,
+obtained with the point-particle approach in the spirit of Maxey and Riley [173]. Figure taken from
+ref. [17}].
+embedded in a velocity field u(x,t) was modelled by (see e.g. [166, 180, 187, 188])
+dv Ta?
+PVs = (Pg = P)Vog — Cp—- priv —uf(v —u)
+Du dv Du
++o | Cy— — — | + pt Vo— — Crp V(v —u) Xx w (9)
+J Dt dt ay J
+and each bubble at position y(t) exerted a d-type force on the liquid flow [176],
+Du
+fot) =Vo | = — 9g) o(x—y(1)). (10)
+Dt
+Here, ps is the liquid density and p, < ps is the (low) gas density. The terms on the
+right-hand side of eq. (9) represent buoyancy, drag, added mass plus fluid acceleration, and
+lift, where Cp, Cs and Cf, are the corresponding coeflicients, which are modelled. Though
+in such complicated turbulent flow situation in particular the lift coefficient is not exactly
+known, as an approximation — and in order to explore the effect of the lift force on the overall
+flow dynamics — we took the standard value Cp, = 1/2 [166] for small spherical bubbles in
+shear flow. Following this approach, we studied the effect of the bubbles on the turbulent
+energy spectra [176], the Lagrangian statistics of bubbles in turbulence [191] finding very
+pronounced intermittency of the bubble acceleration, and the clustering of bubbles in the
+vortices [174, 192], see figure 25, in which we compare the distribution of bubbles with that
+of particles in dispersed multiphase flow. We also extended the effective bubble force idea
+to vapor bubbles in turbulent flow which can shrink and grow thanks to evaporation and
+condensation [193-195]. In this way we could reveal the physics of the considerable enhanced
+heat transfer in boiling thermal convection as compared to normal thermal convection.
+Two enhancing effects compete: Enhancement due to additional mixing by the rising vapor
+bubbles, and enhancement due to the bubbles as directed carriers of (latent) heat from
+the boiling bottom plate to the cold top plate. Due to the many modelling assumptions a
+quantitative comparison with experimental data [117] however remains difficult.
+
+One of the most remarkable features of dispersed bubbly flow is that a bubble addition
+of only a few percent leads to remarkable drag reduction of up to 80% [197, 198], with great
+potential for naval applications [199] (see figure 26a), as it can lead to significant reduction of
+33 33

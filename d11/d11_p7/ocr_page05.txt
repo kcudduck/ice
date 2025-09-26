@@ -1,0 +1,80 @@
+Excitation of a liquid with 30-200 Hz acoustic shown that there are two types of pulsing cavitation
+oscillations results in the gradual formation of a large bubbles: small spherical bubbles and large deformed
+deformed bubble (LDB) of ~] ¢m diameter, to which bubbles, the former being able to result from the
+the rest of the bubbles rush under the action of splitting of the latter. LDBs effectively interact with
+Bjerkness's forces. Short exposure photography pulsing bubbles, solid body surfaces. and interfaces of
+(0.002 s) has revealed that the LDB is not spherical immiscible liquids. Therefore, the movement of an
+(Fig. 3a, b). Like the fragments of a glassy body, the LDB causes dispersion, erosion, emulsification, and
+LDB has numerous cracks, cavities and projections, other physicochemical effects. When there 1s no LDB,
+which develop in various directions at high speed and the small pulsing bubbles are unable to produce these
+apparently with equal probability. This can explain effects. The splitting of bubbles and the formation of
+why an LDB, being visually observed or photographed small spherical bubbles lead to sonoluminescence and
+with a long time exposure (0.1 s), resembles a spherical sonochemical reactions. All this considered, we can
+hedgehog (Fig. 3¢). When the power was increased or the understand why the rate of erosion and the rate of
+frequency lowered. the LDB began to move away from sonochemaical reactions have different temperature-
+the oscillating piston to the vessel bottom. When the dependencies’®; the maximum activity of LDBs occurs
+frequency was equal to the resonance frequency (for a at 50°C while LDB splitting becomes more effective
+given size of LDB) and the power was sufficiently high, with a decrease in temperature.
+the LDB gradually post its stability. When contractin : -
+eres HY POST 115 Std J en COTTTactite, The large space (~ 1 cm) and time ( ~107" s) scales of
+the LDB periodically emitted pulsed liquid streams er So
+So ) 3s 3m : the cavitation phenomenon at low frequencies enable 1t
+(Fig 4), similar to the cumulative jets’”+?’, which were ", : : 44—a6
+: to be comprehensively investigated . For instance,
+illed with fragmentation microbubbles. The streams oo : :
+oT oo RIAN : an insight has been gained into many details of the
+traced out complex close trajectories and rushed back oo LC
+. emulsification and coalescence of slurries in an
+to the LDB. According to the results of high-speed a.
+Emin oA : acoustic field, as well as into the nucleation, growth,
+ilming**, both the LDB and the small spherical : ag
+h : SUR : DERN . : pulsation, and splitting of bubbles. The procedure
+ubbles breaking away from it pulse within an acoustic : : be
+pee oe : : developed permits extensive studies of cavitation. It
+oscillation frequency. In no case was the effect of a real Co,
+collapse (disappearance) of the bubble observed should also be noted that the two types of cavitation
+bubbles are also observed in ultrasonic fields (at least
+Until recently, sonochemical reactions were carried out at 20 kHz). The LDB's loss of stability and the separa-
+at relatively high frequencies. higher than 10 kHz. The tion of small bubbles correspond to the formation of
+chemical effect of low frequency: acoustic oscillations 1s new cavitation nuclei in ultrasonic fields and the
+covered in Refs 11, 47 and 48. At 14-80 Hz, a bromine- “multiplication” of cavitation bubbles. At low intensities,
+sensitized stereoisomerization of maleic acid to fumaric a volume under study contains one or two LDBs
+acid 1s initiated*®''. The maximum reaction rate, as In (without spherical bubbles), while at higher intensities,
+the case of 860 kHZz*, was observed in a solution the number of small pulsing bubbles can exceed the
+saturated with argon: saturation with nitrogen or air number of LDBs by one or two orders of magnitude or
+resulted in a significant decrase in fumaric acid more. The transition from stable to unstable motion of
+formation. LDBs at an intensity, /, of ~0.5 W cm™? proceeds at a
+At frequencies of 70-80 Hz or higher, the reaction took ~~ Sudden jump: the transition is accompanied by a sharp
+place only under the conditions of LDB formation and ¢ et In dCOustic Held structure and impbre ©
+LDB vibration with a sufficient amplitude that a Acoustic Noise.
+break-away of small bubbles could be provoked. It 1s
+interesting that at 14-40 Hz, the precipitate of fumaric D - PRY : -
+namics of cavitation field evolution
+acid fell out even 1n the absence of an LDB. When this y
+occurred. intensive surface waves arose in the liquid The initial definition of cavitation was the rupture of
+surface (above the piston). and bubbles of 0.5-2 mm liquid as a result of negative (stretching) pressures. But
+diameter separated from the surface and sped deep the resistance to rupture of real liquids is less than
+into the vessel in vortex streams. The reactions could theoretically predicted, by two or three orders of
+not be initiated in the absence of the bubbles. Small magnitude. because microbubbles and other
+pulsing® bubbles can initiate a sonochemical reaction, inhomogeneities are usually present in a liquid'-%. So we
+whether they tear away from the LDB or from a free have a contradiction: during the appearance of
+liquid surface. cavitation no rupture of the liquid occurs, but
+| cy microbubbles already present and pulsing in the liquid
+Low-lrequency acoustic osctllations of 7-200 Hz grow. Bubbles which do not appear from the rupture of
+PTOVORE SONOCHCHIICAl TCCOR TCAClIonS 1 aqueous the liquid are usually called pulsing cavitation bubbles.
+solutions: hydrogen peroxide synthesis, ferrous | oo
+sulphate (II) oxidation, cerig(1V) sulphate reduction, We shall consider as cavitation phenomena the
+etcd7-11 pulsation, oscillation, growth, interaction and other
+Sonolumines : field of low f . kinds of movement of bubbles, regardless of their
+ou] Ce  0S100 Ho N ol oh rts acoustic origin and the effects they produce (as opposed to
+OSC! astons | ht emi 2) prove i oy a. ar 11 many Flynn's definition’), when low and then high pressures
+be ee “Gump likelihood 0 Pst Waves occur 1n a liquid. To overcome the contradiction in
+at fo | pot P a 0 © To te terminology, the cavitation threshold (which was earlier
+irregularities of the sonoflash amplitude). regarded as the instant at which cavitation began) will
+Thus the study of low frequency sound fields has from now on be called the developed cavitation
+threshold. At this instant the number of cavitation
+a bubbles increases suddenly and many physicochemical
+* Pulsation of the small bubbles is an essential condition of their chemical effects are intensified.
+activity because when small bubble vortexes were produced in a solution
+by means of a high speed agitator, the reaction did not proceed It was found by improved methods that, before the
+ULTRASONICS . JULY 1985 161

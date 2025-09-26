@@ -1,0 +1,40 @@
+For notational convenience and future use, we introduce the following change of variables bz =
+bu, + c*u which reduces the problem to a PDE-abstract ODE coupled system. The change from the
+coordinates (u, ug, uy) to (u, z, z¢) is described through the isomophism M € L(H) given by (see |36])
+
+1 0 O
+2
+M = SI 0]
+b
+0 = 1
+b
+The next lemma makes the above topological statement precise.
+Lemma 3.1. Assume that the compatibility conditions
+AO, Ug + Koug = 0 on Ty, Jug + ku; = 0 on I'y (3.2)
+hold. Then ® € C*(0,T;H)NC(0,T;D(A)) is a strong solution of
+do, = AD
+(3.3)
+d(0) = dy
+if, and only if, V. = M® € C0, T;H) NC (0,T;D(A)) is a strong solution for
+| — AW
+(3.4)
+U0) =Ty = Mo,
+where A = MAM! with
+&1
+2
+D(A) = |&| € [H*(Q)]” x D (AY?) [NDE + koalp, = 0, [0,2 + Ki&s]p, = 0 (3.5)
+$
+Proof. We only check the matching of the boundary conditions. Assume that ¥ = (u,z, 2) €
+CY0,T;H)NC(0,T;D(A)) is a strong solution for (3.4). Let
+T(t) := (AO u(t) + rou(t))|r,, t= 0
+and notice that bY; + ¢*Y = 0 for all ¢. This along with the compatibility condition (3.2); (T(0) = 0)
+implies that T = 0. The same argument mutatis mutandis recovers the boundary condition for u on
+I. []
+For convenience, we explicitly write a formula for the new operator A = MAM~!. We have
+c? |
+4] —1 I 0 41
+A N = 0 0 1 N (3.6)
+4 2 b 1 b
+$ 51 v1 2A IT ZAN(s NFA) | [83
+T T T T T
+9

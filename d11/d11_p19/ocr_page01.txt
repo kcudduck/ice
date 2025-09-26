@@ -1,0 +1,59 @@
+Journal of Glaciology, Vol. 56, No. 200, 2010 1069
+Glacier hydromechanics: early insights and the lasting legacy of
+three works by lken and colleagues
+Gwenn E. FLOWERS
+Department of Earth Sciences, Simon Fraser University, 8888 University Drive, Burnaby, British Columbia V5A 156, Canada
+E-mail: gflowers@sfu.ca
+ABSTRACT. The association between basal hydrology and glacier sliding has become nearly
+synonymous with the early work of Almut lken and colleagues. Their research published in the Journal
+of Glaciology from 1981 to 1986 made an indelible impact on the study of glacier hydromechanics by
+documenting strong correlations between basal water pressure and short-term ice-flow variations. With
+a passion for elucidating the physics of glacier-bed processes, lken herself made fundamental
+contributions to our theoretical and empirical understanding of the sliding process. From the theoretical
+bound on basal shear stress, to the inferences drawn from detailed horizontal and vertical velocity
+measurements, the work of lken and colleagues continues to inform the interpretation of data from
+
+alpine glaciers and has found increasing relevance to observations from the ice sheets.
+INTRODUCTION Subsequent work in the late 1960s and 1970s would
+Hydromechanical processes operating at the glacier bed are generalize sliding theory and extend it to a variety of
+responsible for some of the most intriguing ice-flow pheno- idealized bed configurations (e.g. Nye, 1969, 1970; Kamb,
+mena, including glacier surging (e.g. Kamb and others, 1985) 1970; Morland, 19764; Fowler, 1979).
+and ice streaming (e.g. Alley and others, 1986). Since its At the same time, a variety of conceptual models of
+inception, the Journal of Glaciology has been a repository for englacial and subglacial water flow were emetsing that
+works addressing glacier hydromechanics with such seminal would shape our picture of glacier drainage for decades to
+contributions as those of Weertman (1964), Lliboutry (1968) ~~ <O™M¢€: The year 1972 alone saw the publication of theories
+and Budd and others (1979). Among the most influential and ~~ describing water flow along englacial potential gradients
+highly cited works on this topic are several by Almut ken and (Shreve, 1972), In a thin film at the bed (Weertman, | 972)
+colleagues dating to the 1980s. These pioneering works and in ice-walled conduits (later ‘R-channels’) (Rothlis-
+collectively examine the intimate coupling between basal berger, 1972). These works were contemporaneous with the
+hydrology and ice dynamics and its power to explain early studies of jokulhlaups (e.g. BjGrnsson, 1974; Nye,
+measurable phenomena, such as seasonal uplift of the glacier 1976) and complemented observational studies of englacial
+surface (Iken and others, 1983) and short-term variations in ~~ ©' subglacial hydrology which were focused largely on
+slacier flow speed (Iken, 1981; Iken and Bindschadler, 1986). attempts 10 measure basal water pressure (e.g. Mathews,
+In celebration of the publication of the 200th issue of the 1964; Hodge, 1976).
+Journal of Glaciology, we look back at the insights hatched in It was in this context that lken began her career in
+these three papers and trace their influence to the present day. ~~ 8laciology. As a student with Fritz Mller at McGill
+These works remain staples for those with a passion for alpine ~~ University her earliest work was carried out on White
+slacier dynamics and are being rediscovered by those Glacier in the Canadian Arctic as part of the Axel Heiberg
+seeking to unravel some of the ice-sheet observations so Island Expedition (ken, 1972, 1974; Miller and ken, 1973).
+newsworthy in recent years. She was given, according to some of her contemporaries, the
+obscure and unrewarding assignment of trying to measure
+short-term velocity fluctuations of White Glacier. Conven-
+BACKGROUND AND CONTEXT tional wisdom held that the glacier should be frozen to its
+At the time the work of Iken and colleagues was published, bed, hence free of such variability. In 1967, len conducted
+it had been over 20 years since Weertman (1957) stake surveys at 3 hour intervals over 2 weeks in the ablation
+introduced his sliding theory based on regelation and ~~ re? of White Glacier and detected diurnal variations in flow
+enhanced creep around obstacles at the bed. The notion of speed (lken, 1974). This ignited her interest in the theoretical
+sliding as a contributor to overall glacier motion had been and observed relationships between water pressure and
+recognized previously (e.g. Gerrard and others, 1952; sliding velocity, to which she would dedicate much of her
+Haefeli, 1957), with its study dating back to the mid- ~~ Creer Her research would take her back to the Alps and
+1800s (Hopkins, 1845, 1849). Lliboutry (1958) introduced eventually to Alaska and Greenland.
+ice—bed separation (cavitation) into sliding theory, thus
+formally admitting a primary role for basal water pressure.
+Weertman’s (1964) work became the basis for a sliding law INSIGHTS FROM SELECTED WORKS
+of the form u= C7?/N9 (e.g. Budd and others, 1979; This section highlights three of the most enduring works of
+Bindschadler, 1983; Fowler, 1987), still in use today, with lken and her colleagues. These were chosen in part for their
+sliding speed wu, constant C which depends on bed numerous citations, but primarily based on a ‘focus group’
+geometry, basal shear stress 7, effective pressure N and approach to identifying the most influential Journal papers
+positive constants p and g often set to 3 and 1, respectively. and the favourites of Journal readers.
+https://doi.org/10.3189/002214311796406103 Published online by Cambridge University Press

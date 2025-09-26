@@ -1,0 +1,84 @@
+16
+in medicine & biology27.10 (2001): 1399-1412. microbubble contrast agents.” Ultrasound quarterly 22,
+
+123] Yoshizawa, Shin, et al. "High intensity focused ultra- no. 1 (2006): 53-66.
+sound lithotripsy with cavitating microbubbles.” Medi- 140] Sijl, Jeroen, Benjamin Dollet, Marlies Overvelde, Valeria
+cal & biological engineering & computing 47.8 (2009): Garbin, Timo Rozendal, Nico De Jong, Detlef Lohse, and
+851-860. Michel Versluis. ” Subharmonic behavior of phospholipid-
+
+24] Sojahrood, Amin Jafari, and Michael C. Kolios. ” Classi- coated ultrasound contrast agent microbubbles.” The
+fication of the nonlinear dynamics and bifurcation struc- Journal of the Acoustical Society of America 128, no.
+ture of ultrasound contrast agents excited at higher mul- 5 (2010): 3239-3252.
+tiples of their resonance frequency.” Physics Letters A [41] Needles, A., D. E. Goertz, R. Karshafian, E. Cherin, A.
+376.33 (2012): 2222-2229. S. Brown, P. N. Burns, and F. S. Foster. ” High-frequency
+
+25] Behnia, Sohrab, et al. ” Suppressing chaotic oscillations of subharmonic pulsed-wave Doppler and color flow imaging
+a spherical cavitation bubble through applying a periodic of microbubble contrast agents.” Ultrasound in medicine
+perturbation.” Ultrasonics sonochemistry 16.4 (2009): & biology 34, no. 7 (2008): 1139-1151.
+
+502-511. 42] Liu, Ji-Bin, Daniel A. Merton, Flemming Forsberg,
+
+26] Sojahrood, Amin Jafari, et al. ” Influence of the pressure- and Barry B. Goldberg. ” Contrast-Enhanced Ultrasound
+dependent resonance frequency on the bifurcation struc- Imaging.” In Diagnostic Ultrasound, pp. 51-74. CRC
+ture and backscattered pressure of ultrasound contrast Press, 2019.
+agents: a numerical investigation.” Nonlinear Dynamics [43] Forsberg, Flemming, Maria Stanczak, Andrej Lyshchik,
+80.1-2 (2015): 889-904. David Loren, Patrick O’kane, Ali Siddiqui, Thomas E.
+
+27] Behnia S., Jafari A., Soltanpoor W. and Jahanbakhsh Kowalski et al. ”Subharmonic and Endoscopic Contrast
+O. Nonlinear transitions of a spherical cavitation bubble, Imaging of Pancreatic Masses: A Pilot Study.” Journal
+Choas, Solitons & Fractals, 41 (2), (2009): 818-828. of Ultrasound in Medicine 37, no. 1 (2018): 123-129.
+
+28] Hegeds, Ferenc, and Lszl Kullmann. ” Basins of attraction [44] Coussios, CC, et al. "Role of acoustic cavitation in
+in a harmonically excited spherical bubble model.” Peri- the delivery and monitoring of cancer treatment by
+odica Polytechnica Mechanical Engineering 56.2 (2012): high-intensity focused ultrasound (HIFU).” International
+125-132. Journal of Hyperthermia 23.2 (2007): 105-120.
+
+29] Hegeds, Ferenc, et al. "Non-feedback technique to di- [45] K.J. Haworth, et al., Passive imaging with pulsed ultra-
+rectly control multistability in nonlinear oscillators by sound insonations, The Journal of the Acoustical Society
+dual-frequency driving.” Nonlinear Dynamics (2018): 1- of America, 132(1) (2012): 544-553.
+
+21. [46] M.A. OReilly, et al, Focused-ultrasound disruption of the
+
+[30] Hegeds, Ferenc, and Csand Kalmr. ” Dynamic stabiliza- blood-brain barrier using closely-timed short pulses: in-
+tion of an asymmetric nonlinear bubble oscillator.” Non- flence of sonication parameters and injection rate, Ultra-
+linear Dynamics: 1-18. sound in medicine & biology 37 (2011): 587-594.
+
+[31] Hegeds, Ferenc. ”Topological analysis of the periodic 47] Jones, Ryan M., and Kullervo Hynynen. ” Advances in
+structures in a harmonically driven bubble oscillator near acoustic monitoring and control of focused ultrasound-
+Blake’s critical threshold: Infinite sequence of two-sided mediated increases in blood-brain barrier permeability.”
+Farey ordering trees.” Physics Letters A 380.9-10 (2016): The British journal of radiology 92, no. xxxx (2019):
+1012-1022. 20180601.
+
+[32] Varga, Roxna, and Ferenc Hegeds. ” Classification of the 48] Gupta, Ipshita, John R. Eisenbrey, Priscilla Machado,
+bifurcation structure of a periodically driven gas bubble.” Maria Stanczak, Kirk Wallace, and Flemming Forsberg.
+Nonlinear Dynamics 86.2 (2016): 1239-1248. ”On Factors Affecting Subharmonic-aided Pressure Esti-
+
+[33] Hegeds, F., Cs Hs, and L.. Kullmann. ” Stable period 1, 2 mation (SHAPE).” Ultrasonic imaging 41, no. 1 (2019):
+and 3 structures of the harmonically excited RayleighP- 35-48.
+lesset equation applying low ambient pressure.” The IMA [49] Dave, Jaydev K., Valgerdur G. Halldorsdottir, John R.
+Journal of Applied Mathematics 78.6 (2012): 1179-1195. Eisenbrey, Daniel A. Merton, Ji-Bin Liu, Jian-Hua Zhou,
+
+34] Zhang, Yuning. ”Chaotic oscillations of gas bubbles Hsin-Kai Wang et al. "Investigating the efficacy of sub-
+under dual-frequency acoustic excitation.” Ultrasonics harmonic aided pressure estimation for portal vein pres-
+sonochemistry40 (2018): 151-157. sures and portal hypertension monitoring.” Ultrasound
+
+[35] Zhang, Yuning, Yuhang Gao, and Xiaoze Du. ”Stabil- in medicine & biology 38, no. 10 (2012): 1784-1798.
+ity mechanisms of oscillating vapor bubbles in acoustic [50] Jimenez-Fernandez, J. ” Dependence of the subharmonic
+fields.” Ultrasonics sonochemistry 40 (2018): 808-814. signal from contrast agent microbubbles on ambient pres-
+
+[36] Zhang, Y. N., and S. C. Li. "Bubble dynamics under sure: A theoretical analysis.” The Journal of the Acous-
+acoustic excitation with multiple frequencies.” IOP Con- tical Society of America 143, no. 1 (2018): 169-179.
+ference Series: Materials Science and Engineering. Vol. [51] Goertz, David E., et al. ”Subharmonic contrast intravas-
+72. No. 1. IOP Publishing, 2015. cular ultrasound for vasa vasorum imaging.” Ultrasound
+
+[37] Zhang, Yuning, and Shengcai Li. ” Combination and si- in medicine & biology 33.12 (2007): 1859-1872.
+multaneous resonances of gas bubbles oscillating in lig- [52] Helfield, Brandon L., Emmanuel Cherin, F. Stuart Fos-
+uids under dual-frequency acoustic excitation.” Ultrason- ter, and David E. Goertz. "Investigating the subhar-
+ics sonochemistry 35 (2017): 431-439. monic response of individual phospholipid encapsulated
+
+138] Quaia, Emilio. ” Assessment of tissue perfusion by microbubbles at high frequencies: A comparative study
+contrast-enhanced ultrasound.” European radiology 21, of five agents.” Ultrasound in medicine & biology 38, no.
+no. 3 (2011): 604-615. 5 (2012): 846-863.
+
+[39] Correas, Jean-Michel, Michel Claudon, Franois Tran- [53] Leighton, T. G., et al. ” Acoustic bubble sizing by the
+quart, and Olivier Hlnon. "The kidney: imaging with combination of subharmonic emissions with an imaging

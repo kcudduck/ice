@@ -1,0 +1,64 @@
+[393] W. Lj, Y. Li, and K. Xu, “Azidated Graphene: Direct Azidation from Monolayers, Click Chemistry,
+and Bulk Production from Graphite,” Nano Lett., vol. 20, no. 1, pp. 534-539, Jan. 2020, doi:
+10.1021/acs.nanolett.9b04267.
+
+[394] F. Ma, L. Liu, X. Wang, M. Jing, W. Tan, and X. Hao, “Rapid production of few layer graphene for
+energy storage via dry exfoliation of expansible graphite,” Composites Science and Technology,
+vol. 185, p. 107895, Jan. 2020, doi: 10.1016/j.compscitech.2019.107895.
+
+[395] T. Wang etal., “Direct regeneration of spent LiFePO4via a graphite prelithiation strategy,” Chem.
+Commun., vol. 56, no. 2, pp. 245-248, Dec. 2019, doi: 10.1039/C9CC08155K.
+
+[396] Q. Wang, D. Zhou, Y. Chen, P. Eames, and Z. Wu, “Characterization and effects of thermal cycling
+on the properties of paraffin/expanded graphite composites,” Renewable Energy, vol. 147, pp.
+1131-1138, Mar. 2020, doi: 10.1016/j.renene.2019.09.091.
+
+[397] D Roylance, “Stress-strain curves,” Stress-strain curves. Massachusetts Institute of Technology
+study, Cambridge., 2001.
+
+[398] A. Jain et al., “Commentary: The Materials Project: A materials genome approach to accelerating
+materials innovation,” APL Materials, vol. 1, no. 1, p. 011002, Jul. 2013, doi: 10.1063/1.4812323.
+
+[399] E. M. C. Jones, O. O. Capraz, S. R. White, and N. R. Sottos, “Reversible and Irreversible
+Deformation Mechanisms of Composite Graphite Electrodes in Lithium-lon Batteries,” J.
+Electrochem. Soc., vol. 163, no. 9, pp. A1965—-A1974, 2016, doi: 10.1149/2.0751609jes.
+
+[400] Y. Sui et al., “Dual-ion batteries: The emerging alternative rechargeable batteries,” Energy
+Storage Materials, vol. 25, pp. 1-32, Mar. 2020, doi: 10.1016/j.ensm.2019.11.003.
+
+[401] Y.Li,Y. Lu, P. Adelhelm, M.-M. Titirici, and Y.-S. Hu, “Intercalation chemistry of graphite: alkali
+metal ions and beyond,” Chem. Soc. Rev., vol. 48, no. 17, pp. 4655-4687, Aug. 2019, doi:
+10.1039/C9CS00162J.
+
+[402] |. G. Gonzalez-Martinez et al., “Electron-beam induced synthesis of nanostructures: a review,”
+Nanoscale, vol. 8, no. 22, pp. 11340-11362, 2016, doi: 10.1039/C6NR01941B.
+
+[403] I. Jencic, M. W. Bench, I. M. Robertson, and M. A. Kirk, “Electron-beam-induced crystallization of
+isolated amorphous regions in Si, Ge, GaP, and GaAs,” Journal of Applied Physics, vol. 78, no. 2,
+pp. 974-982, Jul. 1995, doi: 10.1063/1.360764.
+
+[404] B. J. Kooi, W. M. G. Groot, and J. Th. M. De Hosson, “In situ transmission electron microscopy
+study of the crystallization of Ge2Sb2Te5,” Journal of Applied Physics, vol. 95, no. 3, pp. 924-932,
+Feb. 2004, doi: 10.1063/1.1636259.
+
+[405] G. Lee et al., “Electron beam induced epitaxial crystallization in a conducting and insulating a-
+LaAlO 3 /SrTiO 3 system,” RSC Advances, vol. 7, no. 64, pp. 40279-40285, 2017, doi:
+10.1039/C7RA06353A.
+
+[406] O. Tengstrand et al., “Beam-induced crystallization of amorphous Me-Si—C (Me = Nb or Zr) thin
+films during transmission electron microscopy,” MRS Communications, vol. 3, no. 3, pp. 151-155,
+Sep. 2013, doi: 10.1557/mrc.2013.31.
+
+[407] G. Lulli, P. G. Merli, and M. V. Antisari, “Solid-phase epitaxy of amorphous silicon induced by
+electron irradiation at room temperature,” Phys. Rev. B, vol. 36, no. 15, pp. 8038-8042, Nov.
+1987, doi: 10.1103/PhysRevB.36.8038.
+
+[408] F. Corticelli, G. Lulli, and P. G. Merli, “Solid-phase epitaxy of implanted silicon at liquid nitrogen
+and room temperature induced by electron irradiation in the electron microscope,” Philosophical
+Magazine Letters, vol. 61, no. 3, pp. 101-106, Mar. 1990, doi: 10.1080/09500839008206487.
+
+[409] T. Zhang, Z. Song, M. Sun, B. Liu, S. Feng, and B. Chen, “Investigation of electron beam induced
+phase change in Si2Sb2Te5 material,” Appl. Phys. A, vol. 90, no. 3, pp. 451-455, Mar. 2008, doi:
+10.1007/s00339-007-4302-4.
+
+46

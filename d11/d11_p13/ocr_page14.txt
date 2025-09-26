@@ -1,0 +1,29 @@
+11,872 JULIAN: VOLCANIC TREMOR—NONLINEAR EXCITATION BY FLUID FLOW
+h
+| 4
+h
+h
+V
+h
+h
+Vv
+h
+
+Figure 14. Stereoscopic views of orbits in phase space corresponding to the five time series in Figure
+
+12. The h axis points out of the page and to the right, the v axis points into the page and to the right,
+
+and the h axis points upward. In the third view, the starting transient is omitted for clarity.
+of Grassberger and Procaccia [1983] to a 10,000-sample dimension depends on the parameter values chosen. I leave
+sequence of values of A, sampled at 0.005-s intervals, and for the future an investigation of this dependence.
+I obtained a value of 1.93 + 0.01. This value is evidently
+too low; the attractor’s dimension must be > 2.0. The . .
+reason for the discrepancy is that the correlation method Evolution of Behavior
+samples points along a dynamical orbit. This path does not Figure 16 summarizes the behavior of the model as the
+sample the attractor uniformly but visits some regions more driving pressure p; is varied. This figure was generated
+frequently than others. Grassberger and Procaccia [1983] by numerically integrating the equations of motion (9)
+argue that this sampling bias gives a value that is actually and (12) for 800 equally spaced values of p; and, for
+more descriptive of the dynamics than the more formally each value, plotting the local maxima and minima of
+defined Hausdorff dimension. The correlation dimension h(t), that is, the values on the Poincaré section A(t) =
+has the further advantage of being determinable from an 0, that occur within 100 s. There are about 1000 such
+observed time series, such as a seismogram. Obviously, the extrema for each time series; the first 100 are omitted

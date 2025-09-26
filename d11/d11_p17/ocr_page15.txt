@@ -1,0 +1,36 @@
+the synthesized nanoparticles through the combination of ultrasound and citrate In
+aqueous medium without the need to use mechanical stirring and external heating
+[38]. The presented results in this work probe that it can be achieved modifying
+only ultrasonic power input
+In Scheme 1, reaction mechanism for the reduction of chloroaurate is illustrated.
+Ojea-Jiménez and Campanera [59] have stated that during the Initial stage, the
+chloride ion must be displaced from chloroaurate by an oxygen atom in the citrate
+basic form. The intermediate | undergo an internal reorganization of the hydrogen
+bridge, which coordinates with gold (I—1l). In the later stage, two-electron are
+transferred and decarboxylation occurs, chloride displacement yields 3-oxoglutaric
+acid (3-OGA) by citrate and aurous chloride complex.
+AAA proposed -—
+— degradative \ )
+path
+HCI 0, NAC H,0
+| 0 ) C0 | ) oo |
+AN oo ee | NH cl 0 0 ©
+iY Pp o 7 NH i Sa Ny Horny N —ry ~~ oA AA,
+"Ho / > of No ” o \- “cl Oe
+/ | | _ : | C) Reductive +
+| replacment BAO coganieation ore AuCl, | © elimination OH |
+\ E* pun = 1.83 V SEE
+\ 7 A
+f= — yd SR omolysis
+E° auginyaugy = 1.36 V Tb) Dicoronortionation ser J E=23V 00 kta
+Lo SET
+| Au? | H,O
+Scheme 1. Mechanistic proposal presenting combined chemical and ultrasonic reduction
+of chloroaurate. A) Ligand replacement: negatively charged oxygen atom from carboxylate
+group In citric acid, substitutes a chloride ligand of tetrachloroaurate complex anion (with
+formal loss of a molecule of chlorhydric acid equivalent). B) Au (lll) coordination-sphere
+reorganisation (adduct | — Il): it is a two-step representation of necessary assembly of
+electron arrangement in order to allow the reductive elimination step. C) Reductive
+elimination: the two electrons constituting O-Au (lll) bond will be transferred to core shell of
+gold atom, passing from +3—+1 formal oxidation state in adduct Il. D) Oxidative
+15

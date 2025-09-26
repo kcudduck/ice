@@ -1,0 +1,56 @@
+which we recast as: : 013 —
+10
+Hssino(r) = vi) ) (11) —
+—~ 1 0’
+with =
+27 >
+Ic = | V(T™) cost" dT”, (12) -10"
+27 0 (0-2
+Is = | V(r*)sint™ dr*. (13)
+Yr 0 _1 0! =
+This decomposition (which was suggested in a slightly dif- 0-5 | "2 2 2: 3
+ferent form by Mettin 1]), has the advantage to clearly 77
+decompose the respective influences of the bubble dynam- 107°
+ics through integrals I and Ig, and the one of the acous-
+tic field, through the phase shift ¢(r) — 1; (r). In the case 10 |
+of a 1D wave, the latter corresponds to the angle 6 that 10 |
+we defined in figure[Il Integral Ic measures the standing |
+wave contribution to the Bjerknes force (¢ — 1 = 0 or ), 10°"
+while integral Ig measures the traveling wave contribution k
+(¢ —¢ ==+7/2). oo /
+The two integrals Io and Ig can be easily calculated E 107° ;
+numerically by solving a radial dynamics equation to ob- “0 J
+tain VV and averaging over one period. They can also be _18 ef
+calculated analytically, trivially for linear oscillations, and 10 pam |
+in a more complex manner for inertial oscillations in a
+small size range above the Blake threshold 12]. The cor- 107°
+rect matching between the two extreme cases is however 0 0.5 1 1.5 2 2.5 3
+difficult, so that we will use the numerical values here- | P|
+inafter.
+The results are displayed in Fig. in the case of air Figure 2: Average quantities I~ and Ig for an air bubble of ambient
+bubbles in water in ambient conditions for two ambient racius 3 pm (solid line) and 5 pum (dashed line) In water, as a function
+of the dimensionless acoustic pressure |P*| for frequency of 20 kHz.
+radii Ry = 3 pm (solid lines) and Ry = 5 pum (dashed The vertical lines represent the Blake thresholds for 3 ym (solid) and
+lines). The integral I is represented in signed logarithmic 5 um bubbles (dashed).
+scale (note the different scales for the positive and nega-
+tive parts). It is seen that it is positive for low drivings, oo
+and quickly increases near the Blake threshold by about 3 where the complex wave number 1s given by:
+orders of magnitude. In this range of acoustic pressures, Ww? AnRow?N
+antinodes are attractive. Then, above |P*| = 1.7 bar, I. R(k*) = = + — 5 (15)
+becomes largely negative and the antinodes become repul- “i “0 TH
+sive, as was found in Ref. 6]. 3 (2) = op N tt Ly (16)
+The integral Ig is always positive, is very weak below P|?
+the Blake threshold, and drastically increases above the The bubble number N is defined as a step function: it is
+Blake threshold (by 6 to 7 orders of magnitude). This
+: assumed zero in the zones where the acoustic pressure is
+predicts that, as reported H Rel. 13), the Bjerknes force less than the Blake threshold, and is assigned to a constant
+can become very large in traveling waves. : :
+value in the opposite case.
+3. Results N — ~ " » g 2 (17)
+B
+3.1. Simulation method
+The complex acoustic field P is obtained by solving a ~~ 3.2. 1D results
+nonlinear Helmholtz equation, which has been detailed in We first calculate the primary Bjerknes force for the
+(OL I] and is briefly recalled here for completeness: same 1D configuration as in [OL I]: the domain length is
+V2P + k2 (IP) P = 0 (14) 10 cm, the right boundary is assumed infinitely soft, air
+4

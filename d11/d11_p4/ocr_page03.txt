@@ -1,0 +1,45 @@
+Under consideration for publication in J. Fluid Mech. |
++ Banner appropriate to article type will appear here in typeset article
+C\
+-
+@\
+C
+=
+— On the dynamics of a collapsing bubble in contact
+— with a rigid wall
+o—
+—- Mandeep Saini! +, Erwan Tanne’, Michel Arrigoni 2, Stephane Zaleski > and
+= Daniel Fuster! +
+~ ISorbonne Université and CNRS UMR 7190, Institut Jean le Rond 9°’Alembert F75005 Paris, France
+= 2ENSTA Bertagne UMR 6027 - IRDL F-29806, Brest, France
+7s 3 Institut universitaire de France, UMR 7190, Institut Jean le Rond 9’Alembert F75005 Paris, France
+. Q (Received xx; revised xx; accepted xx)
+v9
+> This work reveals that the dynamic response of a spherical cap bubble in contact with a rigid
+r=) wall depends on the effective contact angle at the instant prior to collapse. This parameter
+— allows us to discriminate between two regimes in which the mechanisms of interaction
+between the collapsing bubble and its surrounding medium differ significantly: When the
+IS contact angle 1s smaller than 90 degrees a classical jet directed towards the wall 1s observed
+[~ whereas 1f the initial contact angle 1s larger than 90 degrees an annular re-entrant jet parallel
+\O to the wall appears. We show that this change of the behaviour can be explained using the
+Ww impulse potential flow theory for small times which shows the presence of a singularity on
+VQ the initial acceleration of the contact line when the contact angle 1s larger then 90 degrees.
+- Direct Numerical Simulations show that although viscosity regularises the solution at z > 0,
+— the solution remains singular at + = 0. In these circumstances numerical and experimental
+OO results show that the collapse of flat bubbles can eventually lead to the formation of a vortex
+iN ring that unexpectedly induces long-range effects. The role of the bubble geometry at the
+oo instant of maximum expansion on the overall collapse process 1s shown to be well captured
+> by the impulse potential flow theory, which can be easily generalised to other bubble shapes.
+7 These results may find direct application in the interpretation of geophysical flows as well as
+the control and design of bio-medical, naval, manufacturing and sonochemistry applications.
+= g g y
+Key words: Cavitation | Contact line| Bubble dynamics | Jets | Singularity
+1. Introduction
+Cavitation, the process of bubble formation and collapse, 1s a key physics problem because
+of its applications in nature, mechanics, biomedical, and many other fields (Cole & Weller
+1948; Lohse et al. 2001; Ohl et al. 2006a,b; Maxwell et al. 2013; Fuster 2019). In recent
+studies, Hou ef al. (2021) show that cavitation bubbles can enhance the efficiency of solar
+absorption refrigeration systems, Bhat & Gogate (2021) and Prado ef al. (2022) reviewed the
+T mandeep.saini @sorbonne-universite.fr
++ Email address for correspondence: daniel.fuster @sorbonne-universite.ir
+Abstract must not spill onto p.2

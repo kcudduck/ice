@@ -1,0 +1,44 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+detach. The condition L < L./( is the reason that there can be stable surface bubbles
+only on a microscopic scale. The stabilization mechanism does not work on a macroscopic
+scale, because then the Laplace pressure is too weak and cannot compensate for the gas
+overpressure from the outside. We also see that on the microscopic scale, the radius of
+curvature of a surface bubble is not given by Young's equation but by the relationship (8).
+We note that eq. (8) and the stability of the equilibrium have also been confirmed both
+by numerical simulations of the full diffusion equation [138], employing immersed boundary
+methods for the growing or shrinking bubble, see figure 19, and in addition also by MD
+simulations — but now with built-in pinning [139], see figure 20.
+(a) 0.6 time (2) = 7us 0.06 0.6 time (#) = 50,5 0.06
+go vos E vor
+>0.2 0ous > 0:2 0.045
+° 0.5 1 1.5 op OV % 0.5 1 1.5 oO
+X(um) X(um)
+0.6 time (J) = 700.5 006 0.6 time (9) = 400, 0.06
+ge oe E° or
+>0.2 0.045 >0.2 0.045
+% 0.5 1 1.5 op OV ° 0.5 1 1.5 op OV
+X(pm) X(um)
+(b) 100 c) 50
+~ 60 ~~ 30 EE |
+40 I 20
+0. = 20.6°
+20 f= 10 |
+r
+0 100 200 300 400 0 0.5 1 1.5 2
+t(us) C
+FIG. 19. Results from a numerical simulation (using the finite difference method) of the diffusion
+equation, with the shrinking or growing pinned surface bubbles coupled with the immersed boundary
+method: (a) Snapshots of the diffusive dynamics of a pinned surface nanobubbles growing towards
+its equilibrium state. The color code represents the gas concentration field. Here L = 1 um and
+¢ = 1. (b) Time evolution 68(t) of the contact angle growing or shrinking towards its equilibrium
+value 6. given by Eq. (8). Two cases with different initial contact angles 6; are shown. Here, L = 1
+um and = 1. (c¢) Equilibrium contact angle 0. for various gas concentrations (. The straight line
+is the prediction eq. (8), giving perfect agreement. Again, L = 1 um. In the simulations here, the
+domain size 1s 6umx3umx6um. Figures taken from ref. [138].
+
+As we see, the size L of the pinning site and the oversaturation ( > 0 determine the
+stability of the surface nanobubbles. But how is the oversaturation ( determined? When the
+liquid container with the surface nanobubbles on some substrate is closed and in equilibrium,
+( remains constant and hence the equilibrium contact angle 6., Eq. (8). In an open vessel,
+on the other hand, an initial gas oversaturation ¢ > 0 will not last long due to diffusive
+20 20

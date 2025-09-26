@@ -1,0 +1,37 @@
+From idenity (4.5) (with f = 0) we see that the uniform boundedness FE7(0) implies uniform
+boundedness of ET (t), t € |0,T|. Therefore, one might choose a (non—relabeled) subsequence satisfying
+zn — some (, weak® in L>°(0,T; H*(Q)) (4.35a)
+tn — some (;, weak™ in L>(0,T; L*(Q)) — L*(0,T; H°()); (4.35b)
+2, — some n, weak in L>(0,T; L*(Q)); (4.35¢)
+It easily follows from distributional calculus that ¢ = ¢; and, in the limit, the functions ¢ and n
+satisfy the equation
+(= bA¢ — "2 in Q (4.362)
+ve ZC 1.36b
+YC =n (4.36D)
+0 0
+ov . ov .
+1 0
+plus respective initial data.
+It follows from the weak convergence that there exist M independent of n such that
+(zn Zo) ll Loo 0,11 @) x -5 (0) = ||Znlla <M, (4.37)
+for all n. Then, by compactness (of A in L*(0,T; H'7°()) there exists a subsequence, still indexed
+by n, such that
+zn — C strongly in L*(0,T; H'7°(Q)). (4.38)
+Next we show that nn and ¢ are zero elements. Indeed, from (4.34b) we obtain that '/2ii,, — 0 in
+L2(0,T:; L*(Q)) and Z,|r, — 0 in L?*(0,T; L*(T';)). This implies that 7 = 0 and (|r, = 0. Indeed, the
+last claim follows from ~'/2ii, — 7 in H~1(0,T; L?(Q)) where by the uniqueness of the limit one must
+have n = 0 . Similar argument applies to infer ¢ r, =0.
+Next, passing to the limit as n — oo yields the following over determined (on I'y) problem:
+¢ = bAC in Q (4.392)
+yz _ © 1.39b
+VC= (4.39b)
+zs zs
+> — 0: —> = 0: — 0 4.39
+KE I ; E T ol i ; Gelry c)
+plus respective initial data. The overdetermined (—problem implies in particular with v = (;
+v= bAv
+with the overdetermined boundary conditions
+ov
+1 Zo — 0
+Ov i | vl
+21

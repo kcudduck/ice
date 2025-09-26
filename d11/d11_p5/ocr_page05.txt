@@ -1,0 +1,35 @@
+Figures 2a —b show the bifurcation diagram and lyapunov spectrum of a bub-
+ble when driven by a pressure source of 500K Pa versus frequency in the range
+of 100KHz — 2M Hz. We can perceive in figure 2a intermittent occurrence
+of chaotic and stable behaviors in bubble oscillations during frequency in-
+crease. The transitions from stable to chaotic oscillations are through period
+doubling bifurcations. The last transition to stable everlasting oscillations
+occurred through a saddle node bifurcation after an inverse period doubling.
+As a quantitative criterion for the comportment illustrated in figure 2a, the
+lyapunov exponent spectrum was sketched in figure 2b.
+The significant undesirable behavior outlined in figures 1 and 2 is oscillations
+which are chaotic. To avoid these unwanted dynamical effects, it is necessary
+to carry out control strategies in the system. To achieve this objective we
+propose a method called "Dual frequency technique”. In the stated method
+we introduced a secondary frequency employment along with the primary
+driving frequency source.
+In this technique, the effect of not only the secondary frequency but also
+its phase difference with the basic frequency must be concomitantly taken
+into consideration to get the desirable outcome. More explanation is going
+to be put forward in this paper. In order to streamline the manifestation
+of the method efficacy on chaotic behaviors, some chaotic zones have been
+arbitrarily chosen to be exposed to the secondary frequency. For the asso-
+ciated zones the dynamical behavior of the bubble was analyzed before and
+after control. This is done through analyzing its bifurcation diagram and the
+corresponding lyapunov spectrum. Also time series of the normalized radius
+of the bubble are presented in order to reveal the stabilizing effect on the
+oscillations of the bubble in certain values of the control parameter.
+3.2 Possibility of controlling chaotic oscillations using
+a dual frequency forcing
+Starting with a completely chaotic zone for a single cavitation bubble when
+the control parameter is pressure, figure 3 has been presented. The funda-
+mental frequency is 200K Hz for a bubble of initial radius of 10um. Figure
+Ja displays the status prior to applying the technique; while figure 3b exhibits
+the same system when a secondary frequency of 500K Hz was applied with
+the phase difference of pi/2 with the primer one. It is considerable in figure
+5

@@ -1,0 +1,59 @@
+5
+D. Backscattered pressure B. Bifurcation structure of the micron size bubbles
+(SH enhancement region)
+Oscillations of a bubble generates a scattered pressure
+(Psc) which can be calculated by [71]: Figures 2a and 2b show the bifurcation structure of
+the Ro=2um and Rg=1um bubbles as a function of pres-
+RR _ =9 sure when f=2f,.. The radial oscillations of the bubbles
+Foe = pg (RE +28) (4) undergo period doubling at the lowest pressure thresh-
+old (60 kPa for Ryp=2 pum), which evolve in the form
+where d is the distance from the center of the bubble of a bowtie to P2 oscillations of higher amplitude as the
+(and for simplicity is considered as 1m in this paper) acoustic pressure increases. The oscillations undergo tur-
+26]. Equation 1 is solved using the 4th order Runge- ther period doubling before the appearance of chaos. In
+Kutta technique using the ode45 function in Matlab (this this case full amplitude (Z=2) P2 non-destructive oscil-
+function also has a 5th order estimation); the control pa- lations do not develop. ’
+rameters of interest are Rg, jf and P4. The resulting Figures 2c and 2d show the bifurcation structure of the
+radial bubble oscillations are visualized using resonance Ro=2 um and Ro=1 um bubbles as a function of pres-
+curves and bifurcations diagrams. Bifurcation diagrams sure when f = 1.8f,. The radial oscillations undergo
+of the normalized bubble oscillations i are presented a saddle node bifurcation from P1 to P2 oscillations of
+as a function of the driving pressure in conjunction with higher amplitude. The P2 oscillations have one maxi-
+the SH and UH amplitude of the Ps.. The scattered pres- ~~ mum (red curve), above a second pressure threshold the
+sure (Ps) is calculated alongside the bifurcation struc- second maximum appears (oscillations become P2 with
+ture only for pressures that result in non-destructive os- two maxima); the maxima are exactly on top of one
+cillations (5 < 2) [26,67]. SH and UH amplitude of the of the branches of the conventional method which im-
+Ps is plotted alongside each bifurcation diagram to high- plies the wall velocity is in phase with the driving signal
+light the effect of nonlinearities on the changes in the SH once every two acoustic cycles. Compared to the case of
+and UH strength. f = fs, bubbles sonicated by their Pdf; have a higher
+pressure threshold for P2 oscillations; however, the am-
+plitude of the P2 oscillations are higher. The oscillations
+undergo further period doubling and chaos eventually oc-
+HL. RESULTS curs. Similar to f = 2f,., when f = 1.8f, full amplitude
+(A-=2) P2 non-destructive oscillations did not develop.
+A. Pressure dependent SH resonance frequency Figures 2c and 2d show the bifurcation structure of the
+(PDSH) Ro=2 um and Rp=1 pm size bubbles as a function of
+pressure when f = 1.6f,. The radial oscillations un-
+First we explored the bubble expansion ratio (+) as  dergo a saddle node bifurcation from P2 (with two max-
+a function of peak excitation pressure for a range of fre- ima) oscillations to P2 oscillations of higher amplitude
+quencies between 1.4f,- 2f,., where f, is the linear res- (with one maxima). Compared to the case of =f, and
+onance frequency. It has been hypothesized that a local f=1.8f,. bubbles sonicated by their Pdfs,=1.6f,. have a
+maximum in the expansion ratio would be observed at higher pressure threshold (Pt) for P2 oscillations (e.g.
+2 f,., which would represent the subharmonic response of for Ry=2um Pt= 230 kPa). The amplitude of the P2
+the bubble. However, the maximum response shifted to oscillations are higher than the previous cases at the oc-
+lower frequencies as the excitation pressure was increased ~~ currence of SN bifurcation (e.g. for Ro=2um P= 242
+(Fig. 1). Theoretical studies have reported that the res- kPa the paz —1.94).b Similar to the previous cases, as
+onance frequency, which equates to f,. only at very low pressure increases a second maximum re-emerges in the
+excitation pressures (i.e. < 50kPa) for a microbubble is blue curve with its value being the same as one of the
+inversely related with excitation pressure. We postulate branches of the red curve. P2 oscillations then grow by
+this can explain the shift in the subharmonic response to pressure increase and P2 oscillations reach a large ampli-
+lower frequencies relative to 2f,.. Figure 1 shows the SH tude that result in non-destructive oscillations (e.g. for
+resonance frequency of a Ryp=2um bubble sonicated with Ro=2um R=1.99 Rpat P4 =309 kPa).
+different pressure amplitudes. The linear SH resonance Figures 2g and 2h show the bifurcation structure of the
+frequency is generated at 60 kPa and f=2f,. As the Ro=2 pm and Ry=1 pum bubbles as a function of pres-
+pressure increases, similar to the case of pressure depen- sure when f = 1.5f,.. PD initiation is at the highest
+dent resonance [26], SH resonance frequency decreases. pressure threshold (e.g. for Ro=2um Pd occurs at 245
+For example the SH resonance frequency is ® 2f,. at 60 kPa). Above a second pressure threshold (e.g. for Ryp=2
+kPa and is 1.7f, at 200 kPa. We call this shifted SH res- um at P4 =295 kPa) P2 oscillations (with two maxima
+onance frequency pressure dependent SH resonance fre- ) undergo a SN bifurcation to P2 oscillations (with two
+quency (Pdfsn). In the next section, we will show the maxima) of higher amplitude ((Hppas ~ 2.13). In this
+mechanism of SH enhancement when bubbles of different case occurrence of PD is concomitant with bubble de-
+sizes are sonicated with their Pdf. struction as i > 2 for both bubbles.

@@ -1,0 +1,47 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+(a) | —— Normal operating nozzle (b) =e L
+Normal operating nozzle. Nozzle failure 120 ks,
+0.5 E he
+— 100 TONER
+2 | : 60 aR.
+a S . TER
+1 } he
+| a
+-12 0 10 20 % 50 100 150 200 —
+Time [s] %10"° Time [s]
+
+FIG. 14. (a) Acoustic response (as reflected in the piezo-current) of a normally operating nozzle
+(blue line) and with an entrained air bubble with a volume of Vi, = 80pl (red) close to the nozzle
+plate. It can be seen that the volume oscillations of the entrapped bubble modify the piezo-current
+significantly: the piezo-current amplitude is less damped and the main frequency decreases. (b)
+Comparing optically and acoustically measured bubble volume during bubble dissolution (which takes
+about 250 s here): The acoustically measured bubble volume is shown as red dotted line and the
+optically measured bubble volume as blue solid line. The areas around the lines give the error
+margins in the results. Figures taken from ref. [94].
+
+Hans Reinten then told me that unfortunately this very fast and precise printing facility
+can break down from time to time: After billions of cycles a distortion of the droplet
+formation in a channel can develop. This distortion either vanishes after a short time (figure
+13b), or the jetting process of that channel eventually completely breaks down. The only
+solution then is to turn off the piezo and wait for a minute or so, which of course is extremely
+annoying for a high-speed printer (though other nozzles might take over during that time).
+The suspected culprit for the problem was a bubble within the inkjet channel. But how does
+the bubble get there and what is its dynamics? And how to avoid this trouble?
+
+To solve this problem, we employed the same method as for the snapping shrimp [68]
+or the entrained bubble at water droplet impact [69]: watch and listen. I.e., we measured
+the acoustic response of the channel and combined it with high-speed imaging. Indeed, we
+found that the distortion of the droplet is correlated with a modification of the acoustic
+response of the channel. This result indeed suggested that the distortion originates from a
+bubble, because bubbles modify the acoustical behavior of the channel [94, 95]. In fact, we
+were even able to “hear” the size of the bubble, see figure 14. But how does the bubble get
+there? Is it nucleated or entrained at the nozzle?”
+
+By combining high-speed imaging for the inkjet and infrared imaging for the interior of
+the ink-channel, we succeeded to visualize how a bubble is entrained at the nozzle [93, 96
+and what are its dynamics inside the channel (figure 13c). Here small dirt particles —
+either on the nozzle plate or in the ink channel — play a crucial role. Once a tiny bubble
+is entrained at the nozzle, the acoustical forces pull it into the channel. Just as in single
+bubble sonoluminescence, the oscillating bubble then grows in the acoustic field by rectified
+diffusion. So the knowledge which we had acquired from single bubble sonoluminesence —
+19 19

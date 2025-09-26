@@ -1,0 +1,73 @@
+11,868 JULIAN: VOLCANIC TREMOR—NONLINEAR EXCITATION BY FLUID FLOW
+1.05 and are obtained from the equations of motion (9) and
+(12) by setting all time derivatives to zero. Equation (14)
+expresses the balance between the viscous drag force and the
+force from the reservoir pressure difference. Equation (15)
+= 1.00 expresses the balance between elastic and pressure forces on
+= the channel walls. To determine the steady-flow solution,
+the variable vs; can be eliminated from equations (14) and
+(15) to give a quartic equation in hg, which is, in principle,
+solvable analytically, but is easier to solve numerically. It can
+0.95 be shown that for 1, L, p;1, p2, k, and p all positive, there is
+50 exactly one physical solution (hs > 0) when the condition
+HELL LLL LULL
+L
+40 kho + 2 (p1 +p2) > 0 (16)
+» 30 is satisfied; there are no physical solutions otherwise. This
+= equation expresses the requirement that the fluid pressure
+~> 20 be able to overcome the spring force and hold the channel
+open.
+10
+J
+0 | : > ; 2 Instability of Steady Flow
+0 1
+ts To decide whether tremor occurs, we must determine
+- 10. S - ] Chat 3 MP whether the steady flow solution is stable, so that small
+igure 1U. oSame as figure J except that pp = @- perturbations from it die out with time, or unstable, so
+Note greatly expanded scale for channel thickness (top). that small perturbations grow. To answer this question, I
+linearize the equations of motion (9) and (12) to obtain
+a system of linear ordinary differential equations for small
+the fluid flow; the final average flow rate is only about one 4 iations 64 and 8v about the steady flow state:
+half of what it would be if tremor did not occur.
+Figure 10 shows computed results for a case the same as
+that in Figure 9, except that p; has the lower value of 3 MPa Sh 0 1 0 5H
+(30bars). In this case, oscillations excited by the starting J L 4 7
+transient die out with time, and the system approaches a a : “M+ — Te — yr :
+state of constant flow speed and channel thickness. dt on tm tm Tm oh
+These results suggest that both continuous tremor and Sv 2av 0 a Sv
+long-period events can be understood as oscillations of a mh m
+channel transporting magmatic fluid, excited in different Co (17)
+ways. Continuous tremor is excited by fluid flow above where we define the quantities
+a critical threshold, and long-period events are transient
+oscillations excited by an external disturbance when the flow 3
+is below this threshold. Possible sources of such external m def pL (18)
+disturbances are discussed above. 12h,
+and
+Tremor Conditions , def nL” (19)
+3 ;
+The model can exhibit two different types of behavior: hs
+oscillations that grow and approach a stable limit cycle : Co :
+1 ys : which have the following interpretations. As h changes, the
+(tremor), and transient oscillations that decay, leading to Cy
+i» amount of fluid in the channel must change, so acceleration
+steady flow. To determine the conditions under which each
+: of the channel walls requires a change in the flow speed,
+type of behavior occurs, I first find the steady-flow solution Cry : :
+: : and the fluid’s inertia contributes an extra amount m to the
+to the equations of motion (9) and (12), and then conduct ca
+: : i. : : effective mass of the walls. The fluid’s viscosity produces
+linearized stability analysis to determine whether small :
+perturbations from this solution grow or decay an additional force of magnitude ah resisting the motion of
+the walls, so a is the fluid’s contribution to the damping of
+. ll motion. These contributions to the effective parameters
+teady Flow Solution wa p
+Steady Flow Soluti of the wall can be seen directly in the second equation of
+The equations describing steady flow with h = h; and v motion (12).
+= vg are The steady flow solution of the equations of motion (9)
+and (12) is unstable if and only if the linearized system (17)
+127, _ Pr — D2 (1 4) has a growing solution. The characteristic equation of the
+h? L system is
+and
+3 2 —
+8 - )
+2 2 with coefficients

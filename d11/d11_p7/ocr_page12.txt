@@ -1,0 +1,85 @@
+covered by Gimenez (Ref. 35, p. 101); sonolumine- / Jarman, P.D. Sonoluminescence: a discussion, J Acoust Soc
+scence and sonochemical reactions in low frequency Am. 32 (1960) 1459 | - )
+acoustic fields''12. where the development of high 8 Makino, K., Mossoba, M.M., Risz, P. Chemical Eftects of
+temperatures is difficult to assume: and sonochemical Ultrasound on Aqueous Solutions. Evidence for OH and H
+; . ’ by Spin Trapping. J Am. Chem Soc 104 (1982) 35337-3539
+reactions in the absence of LDBs when bubbles y Pp : CPA pi (aon y
+LL. : 48 : rudhomme, R.O., Grabar, P. De I'Action Chimique des
+separate from the liquid surface in a vessel*®. Taking Ultrasons sur Certain Solutions Aqueuses. J Chin. Phys. 46
+into consideration the loss of stability of cavitation (1949) 323-33]
+bubbles during hydrodynamic*? and laser” cavitation, 10 Rosental, I., Mossoba, M.M., Riesz, P. Sonolysis of
+we may believe that the role of electrical phenomena in Perhalomethane as Studied by EPR and Spin Trapping.
+the above processes 1s substantial. J Magn. Reson. 45 (1981) 359-361
+Co [1 Margulis, M.A., Grundel’, L.M. Chemical Action of Low-
+When a cavitation bubble undergoes an clectrical Frequency Acoustic Vibrations, Dokl Acad Nauk SSSR 265
+breakdown, the lines of alkaline and alkaline-carth (1982) 914-917
+metals in strong salt solutions should appear, 12 Margulis, M.A., Grundel’, L.M. Appearance of Light in
+according to the proposed model. earlier than or Liquid in Low-frequency Acoustic Fields. Dokl Akad. Nauk
+concurrent with the continuum of sonoluminescence. SSSR 269 (1983) 405-407
+In accordance with the thermal mechanism of cavita- [3 Margulis, M.A., Grundel, L.M. Investigation of Ultrasonic
+tion action. results obtained with the cavitation- Leh! In Liquid near the Cavitation J preshald U
+: : 82 UR TIN PRET Appearance of Prethreshold Glow of Liquid in Ultrasonic
+dilfusion model » and bubble collapse calculations Field, Russ J Phys. Chem. 55 (1981) 687-691
+(thermal exchange considered), the cmission of metal 14 Luche, J.-L., Damiano, J.-C. Ultrasounds in Organic
+lines should result after the continuum radiation. This Syntheses. |. Effect of the Formation of Lithium
+fact may aid the choice between an electrical and a Organometallic Reagents. J 4m. Chem. Soc. 102 (1980)
+thermal mechanism; however, to determine the phase 1926-7927 | oo | |
+of the metal line emission requires extremely high > Jan. BH. soudjouks b Organic Qonochemisin. Lltrasonic
+als Acceleration oi the Reduction of Simple and Leactivate
+quality equipment Aryl Halides Using Lithium Aluminium Hydride.
+In conclusion, it should be noted that the model of the Tetrahedron Lett. 23 (1982) 1643-1646 |
+space-time distribution of radicals (cavitation- 6 Rouciout 0 Han. oe praanic SOnaEheMIsLYy. Dlirasound
+1: 2 : | TEN TT romoted Coupling of Chlorosianes in the Presence o
+diffusion)*, when applied to the electrical breakdown Lithium Wire, Tetrahedron Let. 22 (1981) 3813-3814
+of a bubble by the mechansim of Ref. 80, undergoes 7 Raucher, S., Klein, P. Ultrasound in Heterogeneous Organic
+only insignificant changes. In fact, the plasma bunch Reactions, and Improved Procedure for the Synthesis of
+resulting from the breakdown almost instantly moves Thioamides. J Org Chem. 46 (1981) 3558-3559
+to the bubble centre, because a microscopic vapour IX Han, B.H., Boudjouk, P. Organic Sonochemistry. Ultrasound-
+cushion is produced near the region of the neck Promoted APA cine hi a, o-dibromo-o-xylene.
+. Co : - Org. Chem 2) 751-752
+collapse. For this case. the distribution of temperature 19 Starshevski, V.L., Vacilina, T.V., Mokri, E.N., Grundel’, L.M.,
+and radicals 1S appropnate for description by Gauss's Margulis, M.A. Study of Organic Substances Oxidation 1n
+law**. The distribution of the dissolved substance Ultrasonic Field. III. Mechanism of Chain Birth and
+remains unchanged. Tearing oft during Acetic Aldehyde Oxidation under
+Co Ultrasonic action, Russ. J Phys. Chem. 50 (1984) 457
+The basic equations of cavitation bubble dynamics 20 Margulis, M.A. Contemporary Views on Nature of
+correctly describe bubble pulsations at least up to Sonochemical Reactions, Russ J. Phys. Chen 50 (1976) 1-18
+bubble sizes close to resonance size and up to their 21 Neppiras, E.A. Acoustic Cavitation. Phys. Rep.. Rev. Sect.
+loss of stability. The equations allow one to calculate i. Pays. Lett 61 (1580) 160-243 oo )
+
+oo . 22 Apfel, RE. Acoustic Cavitation. In: Ultrasonics, P. Edmonds
+the rate of surface charge formation caused by quick ¢d.. Methods of Experimental Physics Series. C. Marton ed.
+renovation of the gas-liquid interface surface. as well Academic Press, New York (1982)
+as many parameters of a splitting cavitation bubble. 23 Margulis, M.A. Principles of Sonochemistry. Vysshaya
+
+: Lo : : Shkola, Moscow (1984)
+The electrical theory of cavitation, covering basic 4 Rayleigh On Pressure Developed in a Liquid during the
+principles of cavitation dynamics, pulsation and Collapse of a Spherical Cavity, Phil Mag. 34 (1917) 94
+deformation of a cavitation bubble, non-uniformity of 25 Noltingk, B.E., Neppiras, E.A. Cavitation Produced by
+charge distribution on bubble surfaces, space-time Ultrasonics. Proc. Phys. Soc. 63B (1950) 674
+distribution of radicals and dissolved substance, action -6 Cole, R.H. Underwater Explosions. Princeton (1943).
+of different types of acoustic streaming near a bubble 2 young Fe] Sonoluminescence rom Wate -onpLaining
+84.85 her factors. mav in the near future issolvec Gases. J Acoust Soc. Am. 60 (1976) 100-104
+boundary and ot cr fac : y C i 28 Margulis, M.A., Dmitrieva, A.F. Investigation of Dynamics of
+become an alternative to the thermal theories of Cavitation Bubble Collapse. I. Equations of Bubble
+cavitation. Movement with Heat Transler, Russ. J Phys. Chen. 55 (1981)
+159-163
+29 Margulis, ML A., Dmitrieva, A.F. Investigation of Dynamics of
+Cavitation Bubble Collapse. II. Results of Numerical
+References Integration of Equations of Bubble Dynamics with Heat
+1 Flynn, H.G. Physics of Acoustic Cavitation in Liquids. In: Transter, Russ. J Phys. Chem. 56 (1982) 323-327
+Physical Acoustics, Vol. I B. W. Mason ed. Academic Press. 30 Margulis, M.A, Didenko, Yu. T. Study of Energetics and
+New York (1964) Mechanism of Sonochemical Reactions. Yield Relation of
+2 Rosenberg, L.D. ed. Strong Ultrasonic Fields, Nauka, Hydrogen and Hydrogen Peroxide in Various Aqueous
+Moscow (1968) Systems. Russ. J Phys Chem. 58 (1984) 1402-1405
+3 Pernik; A.D. Problems ot Cavitation. Sudpromgiz. Leningrad 31 Akulishev, V.A Cavitation in Cryogenic and Boiling Liquids.
+(1966) Nauka, Moscow (1978)
+4 Erlpiner, LE. Ultrasound. Physicochemical and Biological 32  Bjerkness, C.A. Hydrodynamische Fernkrafte, Leipzig (1915)
+Action, Fizmatgiz, Moscow (1963) 33 Plesset, M.S., Mitchell, T.P. On the Stability of the Spherical
+5 Margulis, M.A. Sonoluminescence and Ultrasonic Chemical Shape of a Vapor Cavity in a Liquid, OQ. Appl Math. 13
+
+Reactions. Review, Russ. Acoust J 15 (1969) 153-173 (1956) 419-430
+6 Margulis, M.A. Mechanism of Ultrasonic Chemical 34  Prosperetti, A., Plesset, M.S. Bubbl¢ Dynamics and Cavitation,
+
+Reactions, Russ. J Phys Chem 43 (1969) 1935-1950 A Rev. Fluid Mech. 9 (1977) 143-183
+168 ULTRASONICS. JULY 1985

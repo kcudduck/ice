@@ -1,0 +1,32 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+(2) Ql] == | ——tmm les=0
+N \ A y % \ / g yy \ \Y, P yr
+% "N / AN 4M
+| | | L “ J J | \ TW 1 | Lad |
+FIG. 10. (a) A disk (diameter 6 cm) is pulled through an air-water interface with constant velocity
+of Im/s. The emerging void is collapsing due to the hydrostatic pressure. The photos are taken
+88ms, 115ms, and 131ms after the impact of the disk, the solid line results from a boundary integral
+calculation without any free parameter and shows excellent agreement with the data. The pictures
+are taken from ref. [79]. (b) Here the pulled impact disk (diameter 4 cm) has a small azimuthal
+asymmetry with a mode m=20 and an amplitude of 4%. Again, the impact velocity is 1 m/s. The
+three snapshots show the evolution of the shape distortions. Taken from ref. [86].
+FIG. 11. A comparable process as
+in figure 10 at a later stage: Two
+i jets have developed at the singular-
+O ity: One upwards and one down-
+wards into the bubble. This photo
+is taken from ref. [1/].
+
+The analogy between the 3D bubble collapse and the 2D void collapse goes so far that even
+the shape stability can be analysed in one-to-one analogy, as again first done by Prosperetti
+88]. Later, we extended this analysis both theoretically and experimentally to find the
+shape of a collapsing non-axisymmetric impact-created air cavity in water [86], see figure
+10b.
+
+To proceed to even larger scale: How comparable is the impact of a ball on a water surface
+with that of an asteriod on the surface of a planet? We downscaled such an astroid impact
+to lab-scale by fluidizing very fine sand. Before the impact event, the air-flow is turned
+off. The first reason for the fluidization is to create reproducible conditions. Second, the
+fluidization implies that the energy stored in the ground decreases by orders of magnitude,
+corresponding to the much smaller kinetic energy of the falling ball in the lab as compared
+16 16

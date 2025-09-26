@@ -1,0 +1,52 @@
+12
+R,=2 m,f=1.4*fr R,=1 pu m,f=1.4%fr
+2.5 2 »
+fh  -
+3 4
+2 - ign
+o 3 o Ari
+| _— a B. )
+0 05 1 15 2 25 3 35 1 2 3 4 5
+Pressure (Pa) %x10° Pressure (Pa) %x10°
+(a) (b)
+R,=2 m,f=1.2*fr R,=1 pu m,f=1.2%fr
+2 48 2 rs
+a 1.8 a
+18 {a | [EE
+14 A A 14 y fei si
+2 1.4 — 8 ON 1.4 a AS
+1.2 — ky % EE 1.2 5 { X #1 a
+XE 1 NONE
+0.8 BE RES Sl \ Je a 0%:
+Foo 0.8 ANSE
+0 05 1 15 2 25 3 1 2 3 4
+Pressure (Pa) %x10° Pressure (Pa) %x10°
+(c) (d)
+R,=2 m,f=1.1*fr R,=1n m,f=1.1*fr
+td |
+£0 2 <i
+2 i. ar’
+s a © 16 Ca
+_- oP ge Brig;
+© 15 ENT 1.4 a —T ANY esd
+Sa “Hh Yr 1.2 A AN 7 4 TE
+reds 0.8 hn
+05 1 15 2 25 3 05 1 15 2 25 3 35 4
+Pressure (Pa) %x10° Pressure (Pa) %x10°
+(e) (£)
+FIG. 8. Bifurcation structure (blue: method of peaks, red: conventional method) of the micron-size bubbles as a function of
+pressure when sonicated with f = 1.4f,.,1.2f,.&1.1f,. Left column is for Rp = 2um and Right column is for Ry = 1um (arrow
+shows the pressure responsible for SN bifurcation)
+quickly with increasing pressure reaching a saturation the goal is higher CTR and SNR.
+value. Thus, there is an upper limit of achievable SH 3- Pressure increase leads to a decrease in SH resonance
+and UH strength under conventional exposure parame- frequency. This is similar to the decrease in resonance
+ters for SH imaging. frequency with pressure [26].
+2- When sonicated with fs, or Pdfsh, the occurrence 4- When the bubble is sonicated with Pdfsh, PD initia-
+of P4 or chaotic oscillations lead to a drop in the SH tion is at higher pressures compared to f = fs. Bubble
+and UH amplitude. Thus, in a clinical setting CTR de- oscillations undergo a SN bifurcation from P1 to P2 or
+creases for these exposure conditions. Furthermore since from a P2 to P2 oscillations of higher amplitude. This is
+P4 and chaos occur at higher acoustic pressures, higher concomitant with a rapid growth of signal and oversatu-
+backscatter from tissue will result in a decrease of bub- ration of the SH level.
+ble contrast enhancement compared to the tissue signal. 5- When f = Pdfsh, the SN bifurcation results in a sud-
+Thus, the limit for the occurrence of P4 or chaos should den increase in the scattered pressure and wall velocity:
+be determined and avoided in practical situations where this effect is more pronounced in bubbles > 800nm as

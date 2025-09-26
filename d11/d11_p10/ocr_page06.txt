@@ -1,0 +1,52 @@
+6
+a=10 a=1 a= 2
+ll» A
+lh
+i ’ all A
+FIG. 1: Schematic illustration of the considered (quasi) one-dimensional domains: one-dimensional planar (a = 0),
+cylindrical symmetry (a = 1), and spherical symmetry (a = 2). The one-dimensional spatial coordinate is denoted
+with r and the width or radius of the gas cavity or bubble is denoted with R.
+with which the continuity and momentum equations can finite propagation speed is unimportant in the near field,
+be written as where the flow behaves similar to an incompressible fluid
+(¢ — 00), with VZ¢ = 0, while the perturbations are
+1 (5 _ Oh + 5) 190 (re y — 0 (19) small in the far field, such that terms of order O(u?)
+c? \ Ot ot Or re or Or become negligible™, and Eq. (25) reduces to the classic
+0 0 0 [u? oh form of the wave equation,
+L000 9 (uy Oh (20) !
+ot or Or \ 2 or
+19% _ Vi =0 (26)
+Integrating Eq. (20) from r to oo, assuming the poten- 2 Ot2 ne
+tial 1 vanishes at infinity, yields the transient Bernoulli
+equation, Comparing the magnitude of the right-hand side of
+Eq. (25) to the magnitude of the second-order time
+op wu? derivative of the velocity potential on the left-hand side
+Ot ™ 9 th —he =0, (21) may be used to quantity the local error of using a
+wave equation to propagate acoustic information in this
+based on which Kirkwood and Bethe“? defined the spe- case! 09
+cific kinetic enthalpy as The work of Kirkwood and Bethe? rests on a refor-
+p 5 mulated velocity potential in spherical symmetry, defined
+0) = ov —h— hy + wo (22) as ¢@ = ri. With this new potential, the wave equation,
+ot 2 Eq. (25), becomes
+Rearranging Eq. (22) for the enthalpy difference h— hq ) ) ) )
+and inserting the resulting expression into the continuity 1 7 _ 79 _ (5 4 345) (27)
+equation, Eq. (19), yields c* ot? or? 2 \ Ot 2 Or
+1 [8% 9 dy 10u? 1 Ou and the transient Bernoulli equation, Eq. (21), yields
+(oe Le :
+1 O or = =r (nen +5) (28)
+_ = or OV = 0. (23) ot ot > 2
+re or or
+hich is, in fact, th tity defined in Eq. (1). Adopt-
+Noting that the last term on the left-hand side is the JIE 15, 11 ah, DHE QUAIL CELE HBA: (1) °b
+I anlac £ the velocit Contin] ing this principle for the general one-dimensional domain
+aplaclall Ob LHe VEIOCILY Potential, considered here, with a defining the symmetry of the
+1 9 A problem, the reformulated velocity potential is defined
+V2) = a (m3) (24) as ¢ = r®/2q), originally proposed by Rice and Ginell 47.
+er 4 The wave equation then reads as
+Eq. (23) can be rewritten as a wave equation with a non- , , 0/2 , ,
+linear correction of order O(u?),** 17 10% 0% ou” n 1 ou (29)
+c¢2 Ot? Or? c? ot 2 Or
+1 0% 5 1 [Ou* 1 Ou’
+2 92 Vip = 2 (5 ™ 345) ) (25) and the transient Bernoulli equation yields
+suggesting that the velocity potential 1) propagates like 90), 0/2 oY 0/2 u?
+. . . - 176 — =7T — — TI h— hs + — . (30)
+a wave. As discussed in detail by Prosperetti ‘®, the Ot Ot 2

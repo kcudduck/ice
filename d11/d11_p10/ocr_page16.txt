@@ -1,0 +1,57 @@
+16
+
+a b C
+
+( ) 2s ( 1070 ( )1025
+
+Clipping at run time
+mmm Equal area rule
+20 To 1099 71020 1 —— Rav data 4
+
+= 15 £ 1040 8
+
+=X 2 =~ 1015
+
+6.48 6.49 6.50 6.51 6.52 0 10 20 30 17 18 19
+t [ps] r [pm] r [pm]
+
+FIG. 4: Example of the different treatments of a shock front forming after the collapse of a cavitation bubble
+produced by a femtosecond laser, as studied by Liang et al.””. (a) Selected outgoing wave characteristics are shown
+in a time-space plot, where the characteristic associated with the minimum radius is seen to intersect previously
+emitted characteristics. The thick black line shows the bubble radius. (b) The resulting multivalued density profile
+50 ns after the bubble attained its minimum radius. (c¢) Close up of the density profile, to which two different shock
+treatments are applied. The clipping of the profile as proposed by Denner and Schenke °° is applied at run time,
+whereas the rule of equal areas®’ is applied as a post-processing step.
+
+1 +2 +1 142 1 +2 +1 142
+r— 1 r— 1 r — 1 1 — 1
+FIG. 5: Sketch of a discrete wave profile (left) with a FIG. 6: Sketch of a discrete wave profile (left) with a
+multivalued solution and (right) after treating this multivalued solution and (right) after treating this
+multivalued solution by clipping the wave profile, as multivalued solution by the proposed averaging
+proposed by Denner and Schenke “. procedure, Eqs. (105)-(107).
+experiments and fully resolved simulations, and have the multivalued solution should also be appropriately re-
+been found to produce accurate and reliable results in solved in space. Assuming that we follow the discrete
+a variety of scenarios. However, some fundamental pieces of information that originate at the gas-liquid in-
+questions regarding the validity and applicability of the terface along the outgoing characteristic, e.g. as described
+Kirkwood-Bethe hypothesis remain. To further scruti- in Section VIII B, the spatial resolution of the wave pro-
+nize and improve KBH models, this section focuses on the file is directly dependent on the time step applied to solve
+prediction of the propagation and attenuation of shock the bubble dynamics.
+fronts at simulation run time (Section IX A) and the com- While the application of the rule of equal areas pro-
+plex impedance of curved acoustic waves (Section [X B). vides an accurate means to rectify multivalued solutions,
+The presented results were produced with version v1.6 of ~~ 1t 1s usually applied as a post-processing step. The clip-
+the open-source software library APECSS!”°, available at ping method of Denner and Schenke® can treat mul-
+https://doi.org/10.5281/zenodo.10981878. tivalued solutions at run time, but does not conserve
+mass and tends to overestimate the attenuation at shock
+fronts. To remedy this shortcoming, a run-time shock
+A. Predicting shock fronts at simulation run time treatment based on a simple averaging procedure of the
+multivalued solution is proposed, as illustrated in Figure
+. With th king inf t 1141 t
+The robust and accurate treatment of multivalued so- 0. With the overta “HE HEOTIIABOL parte Lr tagged ©
+) ) be deleted, the location r; and invariant g; of information
+lutions associated with shock fronts at simulation run
+parcel ¢ are redefined as
+time presents challenges. Firstly, the tull wave profile
+is required for an accurate treatment of a multivalued iil + Ti
+solution. This can be addressed when solving the flow Fig — 5 (105)
+along the outgoing characteristics by reconstructing the Givi + i
+pressure or density profile in space. Secondly, however, Ji = To (106)

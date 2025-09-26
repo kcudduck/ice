@@ -1,0 +1,27 @@
+10c and 10h. In figure 10 except for 10c and 10h the oscillations have become
+stable. It is also seen that this technique may arm us by the possibility to
+provide oscillations of desired amplitude.
+4 Conclusion
+The dynamics of an acoustically driven gas bubble was studied applying the
+method of chaos physics. Results indicated its rich nonlinear dynamics with
+respect to variations in the control parameters of the system. A method
+based on applying a dual frequency source is proposed. Simulation results
+demonstrated that the proposed procedure may be able to achieve the con-
+trol objective. This is possible through choosing appropriate values of the
+secondary frequency and its phase difference with initial one.
+References
+1] W. Luterborn and L. Cramer Phys. Rev. Lett., 47 (1981) 1445.
+2] W. Lauterborn and A. Koch, Phys. Rev. A 35 (1987) 1974.
+3] R.G. Holt, D.F. Gaitan, A.A. Atchley and J. Holzfuss, Phys. Rev. Lett.
+72 (1994) 1376.
+4] U. Parlitz, V. Englisch, C. Scheffczyk and W. Lauterborn, J. Acoust.
+Soc. Am. 88 (1990) 1061.
+5] G. Simon, P. Cvitanovic, M.T. Levinsen, I. Csabai and A. Horvath,
+Nonlinearity 15 (2002) 25.
+6] I.Sh. Akhatov and S.I. Konovalova, J. Appl. Math. Mech. 69 (2005) 575.
+7] C.A. Macdonald and J. Gomatam, Proc. IMechE. 220 (2006) 333.
+8] K.S. Suslick and J.G. Price, Annu. Rev. Mater. Sci. 29 (1999) 295.
+9] A. Gedanken, Ultrason. Sonochem. 11 (2004) 47.
+10] D.J. Flannigan, S.D. Hopkins and K.S. Suslick, J. Organomet. Chem.
+690 (2005) 3513.
+9

@@ -1,0 +1,47 @@
+Then, taking £ small and using (4.40) we have
+T T
+auT) +e [18a SEO) + | Eiloydo + | faq. (4.49
+0 0 @
+
+From (4.48) we have obtained that Au(¢) € L*(Q). In addition (u, us, uy) € H implies that u(t) €
+HY(Q) and u(t) € HY(Q). By a standard duality argument one this obtains that 0,u(t) € HY/2(T).
+We will be able to improve this regularity by appealing to H regularity already obtained in te previous
+section. On the other hand, by using invariance of boundary conditions we also have
+
+O,u(t)|r, = —kou(t) € HY2(Ty) O,u(t)|r, = —riw(t) € HY*(T).
+By the definition of the norm in Hj the above implies that (u, us, uy) € Hy, as desired. Moreover we
+have a control of the norms:
+(us wg, wee) [Jy << Cw; ue, wee) [| + | Au) [|2 + [[V Eu) grey + (VEU) [120
+
+< OC ([[(w, wg, ua) [m+ [| Au(t)]]2)
+
+which proved the desired regularity in H;. We are ready to complete the proof.
+Let f =0. Adding E(T) + IN E(o)do to both sides of (4.48) we obtain,
+T T
+ET) vf E(o)do < E(0)+ E(T) vf E(o)do
+0 0
+t
+<E(0)+ ME(0)e™™" + ME(0) / e “do
+0
+=E(0) + ME(0)e™" —w™ 'ME(0) [e™" — 1| < +00,
+for all t > 0, for some w, M > 0. By making T°" — oo we see that
+/ E(o)do < +0,
+0
+
+and the result follows by Pazy—Datko’s Theorem [37]. ]
+5 Proof of Theorem 2.3 — Construction of Global H;— valued Solutions
+Our goal now is to prove that fixed—point solutions can be constructed for the nonlinear problem in
+Hl. To this end, fix » > 0 such that |®g|lm, <7 and let X be the set defined as
+
+w
+
+XP = dV =|w|cC0,T];H); sup [[¥(t)[lm, Sr+1 and sup [[U(t)|a <p
+te[0,T] te(0,T]
+
+Wit
+where 8 > 0 1s for the time being a given positive number but we will take it to be sufficiently
+small later. Moreover, the condition sup ||V(t)|g, <r + 1 simply means that solutions will exist in
+
+t€[0,T]
+bounded sets of C'(|0,T|;H;) with respect to H but this introduces no restriction on the size of the
+20

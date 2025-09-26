@@ -1,0 +1,50 @@
+9
+| Outflow
+>|
+Z | 1.0
+: 0.8 0.02 \
+= liquid = ZL
+Ol — 100, R :
+Oo O © 0.00
+El = 0.4 12 3
+<|
+z 0.2
+B 0.0 :
+; NR ro Wall 0 1 2 3 4
+RED I ar 1
+Sed (a) (b)
+Figure 4: (a) The numerical setup for DNS (5) Results from the DNS for a = 27/3 and
+Re = 100. Time averaged interface acceleration in direction parallel to the wall,
+ar] = ur 1/t, as a function of the distance from the wall at five different times (in colour
+where tU¢/R.o € [7.27 - 1072,3.6 - 10~*]). For reference we include the potential flow
+solution given by equation 3.4 evaluated at the interface (solid black line). The inset
+represents a zoom 1n to the viscous boundary layer generated close to the wall.
+develops regularising the flow close to the contact point. We use the results from the DNS
+of the Navier-Stokes equations at short times to investigate the influence of viscosity on the
+dynamic response of the bubbles.
+
+We solve for the full set of equations 2.1 where, for the sake of simplicity, we neglect
+surface tension effects. The equations are solved using the All-Mach implementation
+(Popinet 2015; Fuster & Popinet 2018), where the one fluid approach is used to solve the
+modelling equations. This solver has been already used successfully to investigate some
+aspects on the interaction of an oscillating bubble and a rigid tube by Fan er al. (2020)
+and interactions of collapsing bubbles with free surface by Saade er al. (2021). The setup
+for numerical simulations 1s shown 1n figure 4a, where a spherical cap-shaped bubble 1s
+initialised in a square domain of size 100 times the initial radius of curvature of this bubble.
+We use such large domains so that the pressure waves reflected from the boundaries do not
+affect the solution, moreover grid 1s coarsened away from the bubble to diffuse these waves.
+The simulations are axisymmetric about left boundary and the bubble 1s initially in contact
+with the bottom boundary where a non-slip boundary conditions 1s applied. The faraway
+boundaries are given constant far-field pressure conditions and homogeneous Neumann
+condition for velocity. The grid 1s refined progressively near the interface to a minimum
+orid size of Axi, /R. = 0.00038. The maximum time step in the simulation is governed
+by acoustic CFL restriction, which in our case 1s 0.4. The initial pressure field inside the
+domain 1s given from Equation 2.2, velocity field 1s given as zero and total energy 1s given
+from EOS.
+
+In figure 4b we characterise the bubble motion at short non-dimensional time tU./R,
+by showing the evolution of the time averaged interface acceleration magnitude parallel to
+the wall, defined as a, (¢#) = u,(¢)/t, as a function of the normal distance from the wall.
+The results shown with coloured dots are obtained from DNS for @ = 27/3 and Re = 100
+where colour scale represents the non-dimensional time varying between 7.27 - 10™ and
+3.6 - 107%. The inset figure shows the clear development of a boundary layer very close to

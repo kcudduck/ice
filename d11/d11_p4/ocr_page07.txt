@@ -1,0 +1,42 @@
+5
+1.6 JFree surface model Co TT~__
+1.2
+_R 0.8 ’ Vil 102
+Re « Numerical
+0.4 7Z—=\ —— Equation 3.3
+Equation 3.4
+, ——\\ . a
+-1.5 —-1.0 -0.5 0.0 0.5 1.0 1.5 10—4 102 109
+Tr Ts
+R. RR.
+(a) (b)
+Figure 2: (a) Isocontours of the magnitude of acceleration for bubble with a = a = 37/4:
+The 1socontours 1n the left half are obtained from free surface model and those 1n the right
+half are obtained from DNS. (») Non-dimensional acceleration magnitude along the wall
+obtained for bubble with @ = 37/4 using the free surface model.
+Weber number, are determined only by the radius of curvature of the bubble. In the particular
+experiments considered in this study the radius of curvature remains to be of the order
+1 cm obtaining characteristic values of the Weber and Reynolds number of the order of
+We ~ O(10%) and Re ~ O(10°). The influence of finite values of Reynolds is briefly
+discussed using Direct Numerical Simulations.
+3. Short time dynamics
+At short times, we can simplify the system of equations if we consider the liquid as an
+incompressible substance and the interface as a free surface, 1.e. we neglect inertial and
+viscous effects inside the bubble. This assumption is reasonable given that u,/u; <1
+and p,/p; < 1 (in experiments the density ratio is of the order of 10~> when the bubble
+pressure equals the vapour pressure). The velocity at short times remains a small quantity,
+thus we can neglect the convective terms as compared to temporal derivatives of velocity and
+spatial pressure gradients (Batchelor 2000). This hypothesis remains true when time scales
+under consideration are smaller than the advection time scales 1.e. he < 1. Under these
+assumptions the solution of the velocity is obtained from the integration of the linearised
+momentum equation as
+1 I 1 I
+u(tg) = — Vp + =| Vr. (3.1)
+P Jo P Jo
+It 1s classical for this linear system to decompose the velocity field in to a potential part (ug)
+and a viscous correction (u,) i.e. u = uy +u,,. The potential flow theory gives u, whereas the
+viscous correction requires complex analysis (Saffman 1995; Batchelor 2000; Pope 2001).
+For the short times and large enough Reynolds numbers, the viscous contributions to velocity
+are relevant only in the small region of thickness § ~ O(\/vt) near the solid boundary. Thus
+in such a situation, we expect the solution to be governed by the potential part and the viscous
+part 1s only a correction in a thin region close to the wall. We discuss these aspects next.

@@ -1,0 +1,75 @@
+REVIEW ARTICLES
+Under such circumstances the technique of spectral stacking may marked by several dominant and subdominant peaks common
+again be helpful in extracting stationary peaks due to sustained to stations covering a wide range of azimuths and distances from
+source resonance. the source?, while careful location and error analyses established
+Quantitative analysis at Redoubt volcano that his activity origin ated from a single point source 1.4 km
+The reawakening of Redoubt volcano on 13 December, 1989, These features were found to be compatible with those pro-
+after 23 years of quiescence, was heralded by the gradual onset of duced by the resonant excitation of a fluid-driven crack and
+repetitious LP events. This activity soon evolved into an intense yielded the following parameters for the LP source” crack
+swarm that lasted 23 hours and terminated with the initial major length, 280-380m; crack width, 140-190 m; crack aperture,
+eruption on 14 December, which blew ash to an altitude in excess 0.05-0.20 m; crack stiffness, 100-200; sound speed of fluid, 0.8-
+of 10,000 m (refs 2,60). Several outstanding features of the swarm 1.3kms™'; compressional wavespeed of rock, 5.1 kms; density
+were immediately recognized? as follows: a rapidly accelerating ratio of fluid to rock, about 0.4; and ratio of bulk modulus of fluid
+rate of seismic energy release over the first 18 hours of activity, to rigidity of rock, 0.03—-0.07. Crack excitation was fitted by an
+followed by a decline coinciding with the emergence of sustained impulsive pressure drop in the range 0.4-40 bar. These para-
+tremor in the final 5 hours before the eruption; nearly identical meters, along with the spatio-temporal characteristics of the
+signatures for individual events in the swarm; dilatational first pressure transient and observed intermittency, collectively were
+motions on all stations of the network for all LP events with clear P found to be consistent with forced crack excitations associated
+phases; and a magnitude range from —0.4 to 1.6 for the entire with unsteady choked flow conditions”.
+sequence. Detailed spectral analyses performed subsequently A conceptual model of the processes that may have character-
+revealed that both LP events and tremor had similar spectra ized the pre-eruptive sequence observed at Redoubt is shown in
+Fig. 6a. The sketch shows the old dome capping the vent, the
+hydrothermal system, shallow magma chamber, and LP source
+0 x located between these two reservoirs. The evidence for a shallow
+a qT b som hamb from a t hic study conducted at
+y 3 Lp magma chamber comes from a tomographic study conducted a
+h' | Redoubt in 1991, in which a volume of approximately 2-3 km’
+| with P- to S-wave velocity ratio 4% higher than average was found
+T centred 2.5km beneath the crater and 1-2km north of the
+z eruptive vent®'. This small volume is located immediately beneath
+and to the north of the source of the LP swarm. Petrological data
+'y Lp provide evidence for a magma-mixing event preceding the start of
+h=105m the eruption®, which is thought to have been the source of the
+excess pressure driving the sequence®. Accordingly, the initiation
+. 1s of the swarm may be interpreted as representing the failure of a
+| | pressure-reliet valve connecting a deeper supercharged magma-
+Jo | dominated reservoir to a shallow low-pressure hydrothermal
+g 0= Ash system. The sustained rate of 3—5 LP events per minute observed
+E during the first 18 hours of the swarm* may then be viewed as the
+3 A result of unsteady choking of a supersonic flow of magmatic steam
+> driven by the pressure gradient existing between the two reser-
+9 c | voirs. By the same token, the emergence of sustained tremor 5
+[= I= | hours before the eruption may represent a change in choked-flow
+3 AS [ I A 2 ) wy regime associated wh a gradual weakening of the pressure
+N - a! radient driving the flow™.
+£ ol= WileoaTAV 3 0 = of ° The graph in Fig. 6b gives a schematic representation of the
+= 9 pressure histories in the magma chamber and hydrothermal
+h =300 m E: h=105m system, and pressure gradient between these two reservoirs,
+—— Homogeneous = | — Single along with significant events inferred to have occurred during
+— Layaregim £ __poxciation the 23-hour-long pre-eruptive phase. Injection of a more mafic
+medium 2 excitations magma into the base of the magma reservoir® represents the
+A i | initial event that triggered magmatic convection and increased
+q hy, AA VN Ww, PEN pr a" exsolution of volatiles leading to rapid pressurization of the
+ph 10 % 3 cs 10 system. At some time during this pressurization phase, critical
+Frequency (Hz) Frequency (Hz) pressure was reached and either a fracture was created or a pre-
+existing fissure was dilated and communication was opened to the
+| oo overlying lower-pressure hydrothermal system. The pressure
+FIG. 5 Dependence of synthetics on crack depth and crack excitation. The gradient between the two systems then drove magmatic steam
+crack geometry Is shown in the cartesian coordinates at the upper left. All h h this conduit. and LP activity was triceered bv unstead
+synthetics are for a 100-m-wide, 200-m-long, vertical crack excited by a throug ) ty 85 y y
+pressure transient applied at the centre of the crack. Each synthetic ~~ choked flow in response to fluctuations of outlet pressure asso-
+represents a vertical component of ground velocity w calculated at a lated with the reaction of the upper reservoir to the injection of
+distance r of 1 km and azimuth ¢ of 25°. a, Comparisons between spectra mass and heat from below®. Initially, the hydrothermal system
+obtained for a crack embedded in a homogeneous half-space and those may have responded to the increased heat injection into its base by
+derived for the same crack embedded in a layered half-space. The spectra accelerated convection that would have manifested itself in
+are calculated for a step excitation of a crack buried at depths h = O m (top), increased steam emissions at the summit of Redoubt, and
+h=105m (middle), and h = 300m (bottom). The spectra shown for jpdeed observations of the volcano a few days before the eruption
+Loom ee ame i ose, cepted or cate 2 Jn 18 9,55 seem to indicate that such may have been the case. Later in the
+| oo | | a. swarm sequence, the import of heat started to exceed the capacity
+single step excitation and those derived for multiple step excitations of a
+crack embedded in a layered structure. Top, synthetics obtained for a single of the hydr othermal system to evacuate so that heat and pressure
+excitation (LP) and synthetics obtained by delaying and superposing multi- started to rise in that system as well. Eventually, the pressure
+ple copies of the LP waveforms (T) for two crack depths h = Om and gradient driving the LP source started to decrease and the
+h = 105m. Bottom, spectra of the seismograms shown above. flow regime inside the crack changed from intermittent, high-
+314 NATURE - VOL 380 - 28 MARCH 1996
+© 1996 Nature Publishing Group

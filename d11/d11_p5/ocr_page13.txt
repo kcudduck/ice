@@ -1,0 +1,19 @@
+Figure8. Bifurcation diagrams of the normalized bubble radius driven
+with the fundamental frequency of 1M Hz and Ryo=4um versus pressure: 8a-
+Driven by a single frequency. 8b — d-After applying the secondary frequency
+of 1.5M Hz with the phase difference of 8b-pi/6, 8c-pi/2, 8d-3pi/4.
+
+Figure9. Bifurcation diagrams of the normalized bubble radius driven by
+dual frequency source with fundamental frequency of 1M Hz and phase dif-
+ference of pi/3 and Ro=4pum versus pressure when the secondary frequencies
+are: 9a-500K Hz, 90-800K Hz, 9c-2M H z and 9d-3M H z.
+
+Figurel0. Normalized amplitude of oscillations versus time for a bubble with
+initial radius of 50um driven by the frequency of 300K Hz and 1M Pa of
+pressure: 10a- chaotic oscillations before technique engagement, lett column:
+after applying the secondary frequency of vy = 1.5M H z while the phase dif-
+ference is 100-pi/6, 10c-pi/4, 10d-pi/3, 10e-pt, right column: after applying
+the phase difference of pi/3 while the secondary frequency is 10 f- 400K H z,
+10g- 600K Hz, 10h- 1M Hz and 10:-2M HZ.
+
+13

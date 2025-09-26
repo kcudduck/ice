@@ -1,0 +1,22 @@
+19
+
+STEGER, KARL 1990 Corner singularities of solutions of the potential equation in three dimensions. In
+Mathematical Modelling and Simulation of Electrical Circuits and Semiconductor Devices, pp.
+283-297. Springer.
+
+SuppoNEN, OuTtt 2017 Collapse phenomena of deformed cavitation bubbles. Tech. Rep.. EPFL.
+
+TaHAN, GILLES, ARRIGONI, MICHEL, BIDAUD, PIERRE, VIDEAU, LAURENT & THEVENET, DAavID 2020 Evolution
+of failure pattern by laser induced shockwave within an adhesive bond. Optics & Laser Technology
+129, 106224.
+
+TRUMMLER, THERESA, BRYNGELSON, SPENCER H, SCHMIDMAYER, KEVIN, SCHMIDT, STEFFEN J, COLONIUS,
+Timm & Apams, NikoLaus A 2020 Near-surface dynamics of a gas bubble collapsing above a crevice.
+Journal of Fluid Mechanics 899.
+
+TRYGGVASON, GRETAR, SCARDOVELLI, RUBEN & ZALESKI, STEPHANE 2011 Direct numerical simulations of
+gas—liquid multiphase flows. Cambridge university press.
+
+YoOSIBASH, ZOHAR, SHANNON, SAMUEL, DAUGE, MONIQUE & CosTABEL, MARTIN 2011 Circular edge
+singularities for the laplace equation and the elasticity system in 3-d domains. International journal
+of fracture 168 (1), 31-52.

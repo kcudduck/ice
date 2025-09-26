@@ -1,0 +1,45 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+t=0 100 ps 197 us 200 ps 203 us 213 us 1600 ps 9600 us 20000 pus
+(@) |. . EE a -u
+oA E a | +E 8-
+Dela Phase 1: Giant vapor bubbles Phase 2: oscillating Phase 3: Phase 4: Slow
+Y Tq life cycle: 7 bubbles Vaporization growing by gas
+¢ dominated growth expelling
+n ips 2.4 ps [RE 3.7 us
+B 2 = ==
+Pe
+we pm #& ad R -
+(c) (d) (e)
++ yy Critical point 5 A
+A Vapor spinodals_ >
+Ee 4 " Liquid/vapor ljne g Se & A
+a. B — Q STABLE /+STABLE « 3} gas poor
+5 zg OF 2 | \uaQup // VAPOR 2 IE POS
+Rg : 8 4 £ 2 IA gas rich -? 0
+1 cp. 8 O ' gas poor 3 ©
+gas rich oo, 2 a DN \ J “Liquid = To gas rich
+0 8 : Triple point spinodal 0 2h
+0 50 100 150 200 250 0 10 20 30
+P (mW) Temperature E (uJ)
+FIG. 7. (a) Time sequence of a plasmonic bubble (generated at gold nanoparticles) under continuous
+laser irradiation in gas-rich water. The nucleation and growth dynamics of the plasmonic bubbles
+as four phases (see text). The scale bar is 25 um. (b) Evolution of the initial giant plasmonic
+bubble during its life cycles in an air-saturated liquid, captured at 7.47 million frames per second.
+The laser power was Py = 185mW. (c¢) Maximum volume Vy,q. of the giant bubble as function
+of laser power Pp in gas-rich water and gas-poor water. (d) Schematic phase diagram of water.
+The green solid line is the liquid spinodal line, the theoretical limit of superheat, while the blue and
+red dashed lines schematically depict the attainable superheat for gas-poor and gas-rich water. (e)
+Maximal volume of the giant bubble Vi. as function of the dumped energy E = Py14 in gas-rich
+and gas-poor water. Both cases show the identical linear relation, regardless of the delay time 74
+and the applied laser power Py. All figures taken from ref. [57].
+dumped energy E shows a universal linear scaling relation with V,,,,., irrespectively of the gas
+concentration of the surrounding water (figure 7e). This finding supports the interpretation
+that the initial giant bubble is a pure vapor bubble. In contrast, the delay time does depend
+on the gas concentration of the water, as gas pockets in the water facilitate an earlier
+vapor bubble nucleation, which leads to smaller delay times and lower bubble nucleation
+temperatures (see again the phase diagram of water, figure 7d). After the collapse of the
+initial giant bubbles, first much smaller oscillating bubbles form out of the remaining gas
+nuclei (bubble life phase 2, up to typically 10 ms, see fig. 7a). Subsequently, a vaporization-
+dominated growth phase takes over and the bubble stabilizes (life phase 3). In the final life
+phase 4, the bubble slowly grows by gas being expelled due to heating of the surrounding.
+12 12

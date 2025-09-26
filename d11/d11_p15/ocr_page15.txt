@@ -1,0 +1,42 @@
+with v being the unit outward normal, and that for some constant 6 > 0 and all vector u(x) €
+L?(Q)]", we have
+JROTEREE u(x)|*dS2, (4.9b)
+Q Q
+
+where J(h) represents the Jacobian matrix of h.
+Remark 4.1. We note that the more general typical star-shaped condition A-v < 0 on I'y is not
+sufficient. This is due to the presence of tangential derivatives on uncontrolled part of the boundary
+which can not be “absorbed” via dissipation by the microlocal argument [30, 43, 29].
+
+This all leads to the following local estimate
+
+10-ullz, < Cllud[s, + Clloyulls, + lotg
+
+valid on solutions. Above, lotyg mean lower order terms on (Q = 2 x [0,7]. By “bending” on the
+boundary I'g the radial vector field allows to eliminate its contribution of tangential derivatives. See
+Remark 4.3.
+Remark 4.2. Convexity of I'y is only one sufficient condition. Several examples where the construction
+in (4.9) holds for other types of domains are given in [32].
+
+As mentioned earlier, since we have dissipation only on a portion of the boundary, while the
+remaining part is subject to Neuman /Robin type of boundary conditions, standard multiplier theory
+with radial vector fields does no apply- due to sign inconsistency in the estimates of tangential
+boundary integrals. The introduction of the vector field h € C? in (4.9) is then critical for the results
+in this paper.
+
+We start with energetic calculations performed first on regular (strong) solutions. Let’s multiply
+equation (4.1) by h- Vz integrate by parts in (s,T — s) x €2, for s € |0,71/2). This gives
+
+1 [Ts T—s
+5 / / (2; — b|Vz|?) (h-v)dDdt + | | xt -Vz)dl'dt
+T—s I'—s
+— / / Yu (h + V2)dQdt + / zi (h - vio)
+Sole SUR
++ 5 / JRGIERNT + 5 | / (2; — b|Vz|?) div(h)d2dt
+T—s
+_ / / F(h- V2)dQt, (4.10)
+where J(h) is the Jacobian. Now notice that equipartition of kinetic and potential energy appears in
+the above identity via the term
+/ (22 = bV= 2) div(h)d2, (4.11)
+Q
+15

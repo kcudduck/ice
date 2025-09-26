@@ -1,0 +1,39 @@
+1 MHz
+100 (Ga=0.5 =——Ga=1 Ga=/ EB Simul.
+Cavitation
+10
+5
+L 1
+2
+a
+£ 0.1
+0.01
+? "= = CE,
+1001 INO Cavitation . . G,=2
+Diameter {mm)
+Figure 8 Amplitude needed to cavitate for a given probe diameter at 1
+MHz in water at room conditions. Contourlines for (4, values of 0.5, 1
+and 2 compare with the onset of cavitation according to simulations
+represented as squares. Yellow squares indicate without reflection of
+wave pressures.
+5. Discussion.
+Figure 4 shows the results for 20 KHz. The red squares represent the condition of amplitude
+and probe diameter of the cavitation onset. At higher amplitudes the liquid would cavitate,
+at lower amplitudes the liquid will not cavitate. The location of these squares coincide
+remarkably well with the contourline for G4, = 1 . At high diameters close to 100mm the
+contourline for G4, = 1 present a deflection and becomes horizontal. This behaviour is also
+shown by the simulation with diameter 80 mm and repeated at higher frequencies in the
+other figures.
+The results for 30 KHz, 40KHz and 100 KHz are very similar with the corresponding shift for
+the values (Figure 5, 6 and 7) due to the change of frequency. The simulations show that the
+threshold for cavitation is very close to G4, = 1 and always well within 0.5 and 2.
+For 1 MHz, (Figure 8), the fitting of the simulations for small diameters to the contourline
+G, = 1 is very good. However, for bigger diameters, where half of the wavelength is
+shorter than the radius of the probe, there is a departure of the contourline G, = 1
+towards greater values of GG, . It means that for bigger diameters and high frequencies it is
+easier to get regions of the fluid with lower pressures, due to the reflection of the very
+directional soundwaves in the beaker walls. Consequently, a series of simulations without
+allowing time for the soundwaves to be reflected on the walls have been performed and are
+represented in Figure 8 as yellow squares. This yellow squares are closer to the contourline
+Go=1.
+8

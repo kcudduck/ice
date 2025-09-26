@@ -1,8 +1,0 @@
-o -20
-z
-b o
-D .25
--30 E
--35
-1 1.2 1.4 1.6
-Frequency (flfr

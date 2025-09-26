@@ -1,0 +1,84 @@
+L07614 SHAPIRO AND CAMPILLO: CORRELATIONS OF THE SEISMIC NOISE L.07614 g
+lw)
+
+c) :
+
+— CO
+HE H&P es 0 time (s) 1000 5 \ it Vo E
+TATE ll
+
+40°N [ows [Te | \ 71 fy 7/ 1% :
+NEE ==5dg 2° N, 5
+NN SLElSY § NN Psy» :
+
+Av dlp rnd > | cmeruc|  ON[EYwasl ok 2
+30°N J 700 pf—eemd. = 4 — :
+HR = YE ia 1081 km \ z
+
+TT 120W 100W  80W 3 ~ = 30days IONgT—*—————1—— |
+
+5 & 120°E 140°E 160°E =
+
+D) 10 20 50 100 f) =
+wn) | re period (Ss) 2
+
+| | YX : ) — )
+
+o | : a 0 time (s) 1000 =5 3
+
+< ! |ANMO-cCm E z
+
+3, I | | 1405 km Cs = PET-MAJO 5
+
+3 py» >] 24days £ Sq Sl 5496 km =
+
+S : “4 = 4 CCM-HRV a a = «= | 21days
+
+Lf P—_ | Se SE 1740 km o GF | 5
+
+10 20 Seree 5) 10 5 di 10 20 50 100 =
+
+period (s) S
+
+10 20 period (5) 100 :
+
+Z
+
+=
+
+Figure 2. Analysis of broadband (0.008—0.07 Hz) cross-correlations computed for four pairs of stations from the :
+continuous 1SPS vertical component channel recorded between January 10 and February 8, 2002. (a) Maps showing c
+locations of stations in US. (b)—(d) results for three pairs of stations in US. (e) Map showing location of stations in North =
+Western Pacific. (f) Results for stations PET and MAJO. For each pair of stations, the upper frame show the cross- g
+correlation that has been high-passe filtered at 0.05 Hz to emphasize the long-period part of the emerging signal. The lower <
+frame shows the comparison of a period group-velocity diagram computed from this cross-correlation with a dispersion =
+curve (solid black line) predicted for the corresponding inter-station path from global Rayleigh-wave group velocity 2
+tomographic maps of [Ritzwoller et al., 2002] computed from the ballistic surface waves. For each pair of stations, we :
+indicate the inter-station distance and the total duration of the noise records available. For the path PET-MAJO, we also B
+compare the period- group velocity diagram computed from the cross-correlation with the group-velocity dispersion curve :
+(dotted white line) measured from an earthquake located near the coast of Kamchatka (1995/04/01, 05:50:18, 52.26N, :
+159.04E) and recorded at MAJO. §
+stations (PET) and recorded by the other station (MAJO). All ambient seismic noise. This suggests a possibility to mea-
+three measurements agree very well at periods smaller than sure broadband Rayleigh wave dispersion curves between g
+50 s. Computation of cross-correlations at more regional any desired pair of seismic stations. Development of meth- =
+scale 1s presented in Figure 3 that shows results obtained in ods that will explore this possibility is a topic for future =
+Southern California using records of TERR Ascope stations. research that, as we hope, can be stimulated by this paper. 2
+It can be seen that, at distances of a few hundreds of Estimating the accuracy of the measurements made from the 2
+kilometers, short period Rayleigh waves emerge very clearly seismic noise will be critical for the success of those
+from the noise. At longer distances, the short-period signal methods. 8
+can be obscured by strong attenuation. Making dispersion [9] Surface-wave measurements made from the seismic 4
+measurements at short period 1s very important to obtain noise can be specially advantageous with dense arrays of =
+better estimations of the crustal structure and to improve the seismometers when they can be made for many paths and a
+vertical resolution of the seismic tomographic models [e.g., directions that cannot be sampled with the ballistic waves. :
+Shapiro and Ritzwoller, 2002]. Moreover the measurements made from the noise has E
+significant advantages relative to measurements obtained 3
+
+4. Discussion with the direct waves. First, those measurements can be el
+) done for any direction of propagation. Second, they do not >
+[8] Our examples clearly demonstrate that fundamental- depend on the source location and phase (equation (3)). 2
+mode Rayleigh wave emerges from the correlations of the Third, the sensitivity zone of those measurements is local- :
+:
+
+3 of 4 >
+
+C

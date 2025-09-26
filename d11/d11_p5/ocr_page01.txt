@@ -1,0 +1,62 @@
+Possibility of using dual frequency to control
+= chaotic oscillations of a spherical bubble
+-
+
+a
+
+C
+
+au!
+
+—
+
+on November 6, 2021
+
+—
+
+—
+
+a Sohrab Behnial, Amin Jafari?, Wiria Soltanpoor? and Okhtai Jahanbakhsh?
+
+O I Department of Physics, IAU, Urmia, Iran
+
+i= 2 Department of Physics, Urmia University, Urmia, Iran
+
+- Emai: s.behnia@iaurmia.ac.ir
+
+Lo
+
+— Abstract
+
+i Acoustic cavitation bubbles are known to exhibit highly nonlinear
+
+<3 and unpredictable chaotic dynamics. Their inevitable role in appli-
+
+o) cations like sonoluminescence, sonochemistry and medical procedures
+
+— suggests that their dynamics be controlled. Reducing chaotic oscilla-
+
+= tions could be the first step in controlling the bubble dynamics by in-
+
+oO creasing the predictability of the bubble response to an applied acous-
+
+- tic field. One way to achieve this concept is to perturb the acoustic
+
+> forcing. Recently, due to the improvements associated with using dual
+
+Ne frequency sources, this method has been the subject of many studies
+
+- which have proved its applicability and advantages. Due to this rea-
+
+S son, in this paper, the oscillations of a spherical bubble driven by a
+dual frequency source, were studied and compared to the ones driven
+by a single source. Results indicated that using dual frequency had
+a strong impact on reducing the chaotic oscillations to regular ones.
+The governing parameters influencing its dynamics are the secondary
+frequency and its phase difference with the fundamental frequency.
+Also using dual frequency forcing may arm us by the possibility of
+generating oscillations of desired amplitudes. To our knowledge the
+investigation of the ability of using a dual frequency forcing to control
+chaotic oscillations are presented for the first time in this paper.
+
+1

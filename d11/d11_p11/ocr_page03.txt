@@ -1,0 +1,61 @@
+between the volume V and the pressure gradient dp/0z, frequency w, and defined in any point r by
+which can be better understood with the schematic repre- ,
+sentation of Fig. [ll the phase shift between V and dp/0x p(r,t) = pg + = (Pir) 1 Pre) (2)
+can be decomposed into two part: the phase shift v be- 2
+tween volume V and pressure p, and the phase shift 6 LL.
+hich ting P = |P b t
+between p and its gradient dp/dx. The former depends WHE, WIIG |P(r)] exp (i(r)), call bE 1EEash as
+on the way the bubble responds to the local acoustic field, p(r,t) = po + | P(r)| cos [wt + ¢(r)] (3)
+that is on the bubble dynamics, whereas the latter depends
+on the structure of the acoustic field. All the results men- This expression may represent a traveling wave, a standing
+tioned in the introduction can be interpreted from this ~~ wave, or any combination of both. We also define the
+picture. pressure gradient in general form as
+Op
+y 9 SL (1,1) = G(x) cos wt + (1) (4)
+TT TT where the fields G; and 1; can be expressed as functions
+Op of P and ¢ once the acoustic field is known.
+V D The following two extreme cases deserve special consid-
+or eration: for a standing wave, ¢(r) = ¢q, so that G;(r) =
+Bubble OP/0x; and ;(r) = ¢g; for a traveling wave, P(r) = BF,
+d : Acoustic field and ¢(r) = —k.r so that G;(r) = k;Py and v;(r) =
+y11alllCs
+G(r) —m/2.
+The expression of the Bjerknes force on the bubble lo-
+Figure 1: Schematic interpretation of Eq. (1). The phase shift be- cated at r reads. from (1):
+tween bubble volume V and pressure gradient Op/0x can be decom- ’
+posed into two parts: + depending on the bubble dynamics, and 6 1 T
+depending on the acoustic field. Fg, = —G,; (r) / V(r, t) cos |wt + ;(r)]| dt, (5)
+0
+Let > take for example the case of sub-resonant bubble where Tis the acoustic period and V(r, ?) is the instanta-
+oscillating linearly. In this case, pressure and volume are
+ig neous volume of a bubble located at r and can be calcu-
+in opposition (vy =m). In a pure 1D linear standing wave,
+lated by solving a radial dynamics equation, for example:
+away from pressure nodes or antinodes, p and Op/0x are
+either in phase (6 = 0), or in phase opposition (f = 7), de- . 3. 20r R
+: RR+ -R*) =p, — — — d= — p(x, t) (6)
+pending on the location relative to the pressure antinode. Pl 9 Pg R fil R pir, t).
+Thus, the phase shift between V and 0p/0x is either 0 or
+7. This yields therefore a large average value for the prod- ~~ The bubble volume depends on r because two bubbles lo-
+uct (VOp/0x), except in the pressure antinodes and nodes cated at different points may be excited by fields of differ-
+where it is zero. Conversely, for a traveling wave, pressure ent amplitudes |P| but also different phases ¢. However,
+and pressure gradient are in quadrature (§ = 7/2), so that ~~ in order to be able to calculate the volume V' of any bubble
+(VOp/Ox) is clearly zero in this case. over one acoustic period independently of its spatial loca-
+If the analysis is rather simple for linear oscillations, tion, we must fix the phase of the driving field in Eq. (6) by
+this is no longer the case for strongly nonlinear inertial os- a convenient change of variables. We therefore set, taking
+cillations. In that case, the bubble radial motion is mainly this opportunity to non-dimensionalize the variables:
+driven by the inertia of the liquid, and the bubble radius ) .
+contains a large out-of-phase component with respect to p(r,t) = po (1 —|P7[cosT"), (7)
+the driving pressure p. ‘Lhis 15 the Ce why pressure where the minus sign has been chosen to be consistent with
+antinodes tay become repulsive even pa sub-resonant earlier studies 12, 29], and, comparing this expression with
+bubble in a large amplitude standing wave 6], and why the q we get:
+Bjerknes force may become very large in traveling waves
+13, 14]. The next section quantifies this qualitative anal- P* = P(r) /po, (8)
+YBIS T(r, t) = wt + P(r) — 7. (9)
+2.2. General calculation of the Bjerknes force We now note V (7%) the volume of the bubble when it is
+The model described in [OL I| was shown to result from driven by the pressure field (7), and making the change of
+the assumption that the bubbles mainly respond to the variables in (5), we get:
+first harmonic of the field, which we termed as “first har- | pom
+monic approximation” (FHA). We therefore assume that Fg, = G;(r)— / V (7%) cos [T* — o(r) + ;(r)] dr*,
+the pressure field in the liquid is mono-harmonic at angular 21 Jo (10)
+3

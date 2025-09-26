@@ -1,0 +1,53 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+Rev. Fluid Mech. 43, 615 (2011).
+
+210] D. P. M. van Gils, G. W. Bruggert, D. P. Lathrop, C. Sun, and D. Lohse, The Twente
+turbulent Taylor-Couette (T°C') facility: strongly turbulent (multi-phase) flow between inde-
+pendently rotating cylinders, Rev. Sci. Instr. 82, 025105 (2011).
+
+211] R. A. Verschoof, R. C. A. van der Veen, C. Sun, and D. Lohse, Bubble drag reduction requires
+large bubbles, Phys. Rev. Lett. 117, 104502 (2016).
+
+212] J. Lu and G. Tryggvason, Effect of bubble deformability in turbulent bubbly upflow in a vertical
+channel, Phys. Fluids 20, 040701 (2008).
+
+213] S. Dabiri, J. Lu, and G. Tryggvason, Transition between regimes of a vertical channel bubbly
+upflow due to bubble deformability, Phys. Fluids 25, 102110 (2013).
+
+214] Y. Murai, H. Oiwa, and Y. Takeda, Bubble behavior in a vertical Taylor-Couette flow, J.
+Phys. (Conf. Series) 14, 143 (2005).
+
+215] K. Sugiyama, E. Calzavarini, and D. Lohse, Microbubble drag reduction in Taylor-Couette
+flow in the wavy vortex regime, J. Fluid Mech. 608, 21 (2008).
+
+216] V. Spandan, D. Lohse, and R. Verzicco, Drag reduction in numerical two-phase Taylor-
+Couette turbulence using an Euler-Lagrange approach, J. Fluid Mech. 798, 411 (2016).
+
+217] V. Spandan, R. Verzicco, and D. Lohse, Deformable ellipsoidal bubbles in Taylor-Couette
+flow with enhanced Fuler-Lagrangian tracking, Phys. Rev. Fluids 2, 104304 (2017).
+
+218] P. Maffettone and M. Minale, Equation of change for ellipsoidal drops in viscous flow, J.
+Non-Newtonian Fluid Mech. 78, 227 (1998).
+
+219] L. Biferale, C. Meneveau, and R. Verzicco, Deformation statistics of sub-Kolmogorov-scale
+ellipsoidal neutrally buoyant drops in isotropic turbulence, J. Fluid Mech. 754, 184 (2014).
+
+220] V. Spandan, R. Verzicco, and D. Lohse, Physical mechanisms governing drag reduction in
+turbulent Taylor-Couette flow with finite-size deformable bubbles, J. Fluid Mech. 849, R3
+(2018).
+
+221] R. A. Verschoof, D. Bakhuis, P. A. Bullee, S. G. Huisman, C. Sun, and D. Lohse, Air cavities
+at the inner cylinder of turbulent Taylor-Couette flow, Int. J. Multiphase Flow 105, 264
+(2018).
+
+222] A. Chouippe, E. Climent, D. Legendre, and C. Gabillet, Numerical simulation of bubble
+dispersion in turbulent Taylor-Couette flow, Phys. Fluids 26, 043304 (2014).
+
+223] G. N. Fokoua, C. Gabillet, A. Aubert, and C. Colin, Effect of bubble’s arrangement on the
+viscous torque in bubbly Taylor-Couette flow, Phys. Fluids 27, 034105 (2015).
+
+224] M. Versluis, High-speed imaging in fluids, Exp. Fluids 54, 1458 (2013).
+
+225] A. Prosperetti, Bubbles, Phys. Fluids 16, 1852 (2004).
+
+o0 50

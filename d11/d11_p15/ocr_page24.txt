@@ -1,0 +1,47 @@
+Proposition 4.8. Let ¥ = (u, 2, z;) be a classical solution for (4.1). Then for all 0 < s <t <T the
+following identity holds
+t 1 t t
+» | (Az, Au)do = er Bu) + 51V:18] vf | 0,zdrdo
+S S S I
+ET 2 t
+vf (5 + vu du) io | (f, Au)do (4.45)
+Proof. We start by noticing that since WU is classical, we have Au, Au, € L?(Q2), moreover, we compute
+(0s A) = 0 (2, Aw) — (21, Au) = (3, A) — (7,8 (2 = ©
+tty AU) = Tr “ty AU ty [QUL) — It ty AU Zt < 7 u
+d 1d 1 c?
+— — (2; Au) + 5 7 IVzl: mY | zi (Ko(x)2)g — | zi(Kk1(x)2)dl + (5 Au)
+d 1d 1 d Cc?
+= a 8) + 3 IVE = TR, — al, + (Sau)
+Thus, taking the L*—inner product of z; — bAz = —vyuy + f with Au € L?(Q) we get
+( (
+b | (Az, Au)do = / (zee + yu — f, Au)do
+S i. ,
+= / (zu, Muyo + (yur — f, Au)do
+_ A 1 2 1 1/2 112 : 1/2 12
+= | (2, Au) + SIVzl3 = ox ll60 zl, || — [ 18d "2dr, do
+2 2\ CC.
+ET / 2 t
+vf (5+ vu du) io | (f, Au)do.
+[]
+We now derive the estimate for Ey. We take the L*-inner product of
+A(buy + cu) = bAz
+with Au and integrate in time. By connecting it with (4.45) one obtains that
+T T
+dul +c [aul = bul +5 | (Az a0
+0 0
+2 1 2 1 1/2 112 :
+= bl| Aull + | (zt, Au) + [| Vzllz — Sx llko "2
+2 2 “11g
+ro T[/ 2 T
+-/ Ik) lf, do + | (G+ vu du) io | (f, Au)do (4.46)
+0 0 0
+Now since all terms in (4.46) are benign in the sense that all (but f and Au) are either members
+of E(t) or are bounded above by the damping, it follows that for each € > 0 there exists C. > 0 such
+that
+T T
+AT) + [180 $ £0) +e (lau + [ular )
+0 0
+T
++ C. (Ea vf Fi(o)do vf Faq) (4.47)
+0 @
+24

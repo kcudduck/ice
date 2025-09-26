@@ -1,0 +1,22 @@
+10 D.F. Rivas, Ashokkumar, Leong, Yasui, Tuziuti, Kentish, Lohse and Gardeniers
+
+Power Low 3 mm High
+
+-’ ® -
+
+Blank
+Figure 7: Luminol solution images showing sonochemical active regions in white for the
+different scenarios studied.
+locations like cracks on the silicon substrate edge or the corners of the microchamber
+which can act as nucleation sites. Such effects occur across all the experiments and will
+be additive to the luminol emission from the pits. The PMT used to measure the SCL
+yield picks up light not just from the pits but also from the other places described.
+
+3.4. Comparing SL and SCL
+
+In Figure [10] the relative increase of the SL intensity in water and propanol solutions is
+compared. Note that for all situations there is an increase in SL intensity of propanol
+over water as described before. For two- and one-pit cases the low power shows a higher
+relative value than at high power (when the bubble streamers travel parallel to the wall
+and towards the center point) where the bubble population vary as the bubble clouds
+change their shape.

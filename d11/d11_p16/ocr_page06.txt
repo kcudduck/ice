@@ -1,0 +1,47 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+factor of 100 higher gas concentration required for stable single bubble sonoluminescene
+with air as compared to the pure argon (or any other inert gas) case. This theory later got
+confirmed through various experimental results, see e.g. [29, 30]. Another advantage of argon
+for achieving strong SBSL is that in contrast to Oy or Ny, argon has no internal degrees
+of freedom. Thus the focused energy of the bubble collapse can directly be transferred
+into heat. The 15000 K which are reached in this way are sufficient to partly ionize the gas.
+Recombination of ions and electrons leads to light emission through thermal bremsstrahlung
+31, 32]. Later we extended the ideas of chemical stability of ref. [26] to include various
+other chemical reactions of air with water [27] to find very good and quantitative agreement
+between experimental and theoretical phase diagrams, see figure 3b.
+b) 0.6
+(3a) 6 [ 6 6 ( )
+5 unstable SL
+- 04 00000 OO OOO
+24 4 4 b S
+ee 3 «© no SL
+: A \ $0.2 | ecoo seees © 0 OO OO XOCOM0o
+2 2 2 SNE 2 AY
+EF 125 1.5 1 125 1.5 1 1.25 1.5 0 | I
+1.3 1.5
+P_/ bar P_/ bar P_/ bar PIP,
+FIG. 3. (a) Phase space of single bubble sonoluminescence in the argon concentration P./Py vs.
+driving pressure P,/Py phase plane for pure argon bubbles, showing the three phases “no SL”,
+“stable SL” (only possible for very small argon concentrations), and “unstable SL”, where the
+bubbles grow by rectified diffusion while emitting light and finally run into a shape instability [19].
+Adopted from [19]. (b) Phase space of single bubble sonoluminescence in the bubble radius vs.
+driving pressure phase plane for air bubbles, taken from ref. [27]: Bubble equilibrium radius Ry
+versus driving pressure P, for three different air concentrations (10%, 20%, and 40% of saturation;
+the driving frequency is 33.4 kHz). The curves, signalling stable bubbles, follow from our parameter-
+free theory [27]; the data points had been measured by Ketterling and Apfel [30]. The bubble emits
+light only on the right curves where argon has accumulated in the bubble (filled diamonds). On the
+left curves, the losses by chemical reactions and the growth by rectified diffusion balance.
+
+In a sense, single bubble sonoluminescence can be viewed as illuminated bubble dynamics,
+with the RP dynamics as backbone. A combination of concepts from hydrodynamics (both
+shape stability and diffusive stability), chemistry, plasma physics, applied mathematics,
+thermodynamics, and acoustics led to the phase diagrams, which are in good agreement with
+the experiments [15, 27|. In its conceptual simplicity — an isolated, fixed, non-interacting
+single bubble in a flask — it can also be seen as “hydrogen atom of bubble fluid dynamics”,
+on which we learned a lot.
+
+Our work on sonoluminescence started off as pure fundamental research, driven by cu-
+riosity. We had not asked ourselves whether there would be any applications. Single bubble
+sonoluminescence simply was a fascinating and outstanding problem, with major open ques-
+tions. In answering them, we learned tremendously, including on
+0 0

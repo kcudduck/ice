@@ -1,0 +1,70 @@
+where 1.0 |< 302 Tait
+Poo — PLO + Pa (18) 0.8 7 — NASG
+is the pressure of the liquid at infinity, with py, o the E06 301
+ambient pressure in the liquid and p, the acoustic ex- 04 =
+citation pressure, and 0.2
+300
+1 0
+Ky (poo + By) Te 0 1 2 3 4 0 1 2 3 4
+Poo = ——————— (19) t/t t/t
+14+ by Kp (poo + Be) Te
+Figure 1: Bubble radius R and liquid temperature 17,,.—pg) at
+is the corresponding density at infinity. The derivative the bubble wall as a function of dimensionless time t/t, with
+of H readily follows as tc = 0.915 Rg \/ poo /Poo the Rayleigh collapse time, predicted
+y
+by the Gilmore-Tait model and the Gilmore-NASG model for
+i I, | pL + By D1, OL ) the Rayleigh collapse of a bubble with Ry = 1 m and ps /pg,0 =
+— = SZ |\7 | = — — 10.
+I'y—1 PL pL + Be pL
+Poo + By Doo =) b PL — Poo
+== | ——=— ==) —b == 32
+Poo Poo 1 By Poo I —1
+(20) 24 Tait
+El — NASG
+where the derivatives of pressure are ~ 10
+8
+Poo — Da (21) 0
+: - 0 10 20 30 40
+20 R*> R
+pL = PG + oz lt + 4 pug E — :) (22) tus]
+4 4
+Ye I, (pa + By) 10 BN 10
+pa (1 — ¢ PG) 3 =
+J I
+and the derivatives of density are = 108 = 10°
+Poo Poo
+= —— (1-0 24
+Poo = T, (Poo + Bp) ¢ Po) (24) 2097 2098 20.99 2097 2098 20.99
+; t (us| t (us|
+: PL PL H H
+PL — T, (pL + Be) (1 — be pr) (25)
+¢ \PL ¢ Figure 2: Evolution of the bubble radius R, as well as the gas
+R temperature Tg and liquid temperature 7y,,—g) at the bubble
+pc = —3 pg —. (26) wall during the first collapse, predicted by the Gilmore-Tait
+R model and the Gilmore-NASG model for a bubble with Rg =
+Inser ting the expressions for feo AN d or into Eq. (20) pm ven by an acoustic excitation with Ap, = 135 kPa and
+simplifies the derivative of the enthalpy difference to
+H — PL Poo (27) bs = 0 unless stated otherwise. Water has the prop-
+PL Poo erties I'y = 1.19, By, = 6.2178 x 10% Pa, by = 6.7212 x
+—4 3 _ 3
+Extending existing models based on the original 107" m”/kg and py ret = 997kg/m 20 | for the NASG
+formulation of Gilmore [5] to the improved formula- EOS and L' = 7.15, B ¢ = 3.046 x 10° Pa and pg rer =
+tion proposed above, merely requires to amend the 997 kg/m for the Tait EOS. In all cases, the reference
+definitions of density, pressure, speed of sound and  PFeSSULCIS Pgoref = Pe ref = 10 Pa. The reference tem-
+enthalpy, as described in this section. The implemen- perature, which 1s not required to solve Eq. (10) and
+tation of the Gilmore-NASG model is discussed in Ap- defined only for post-processing, is Tier = 300K.
+pendix A. Since thermal transport (advection, diffusion and ra-
+diation) and mass transfer are neglected, the liquid
+temperatures given below likely represent an upper
+4. Results limit.
+To highlight the differences between the classical 1.1. Rayleigh collapse
+Gilmore-Tait model and the proposed Gilmore-NASG Co J 7 p |
+model, the results of four representative cavitation First, a simple Rayleigh collapse of a bubble with
+events of an air bubble in water are presented. The initial radius Ho — lm is considered, induced by atl
+system of ordinary differential equations arising from ~~ ©OVOIPTESSULC Ll the liquid at infinity of Poo = 10 Pa
+Eq. (10), see Eqs. (A.11) and (A.12) in Appendix A, against the initial gas pressure pg = 10* Pa in the
+is solved using a fourth-order Runge-Kutta method bubble. Viscosity and surface tension are neglected.
+with adaptive time-stepping [19]. Air is described Fig. 1 shows the evolution of the bubble radius R and
+with Ty = 1.4, B, = 0 and pgret = 1.2kg/m®, and the temperature 17,,— pg), obtained via Eq. (9), of the
+liquid at the bubble wall. While the bubble radius
+3

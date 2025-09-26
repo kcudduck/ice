@@ -1,0 +1,61 @@
+10 2.0 10° 10°
+10 Tait
+5 1.5 _ — NASG
+eo 1L < . 7 10* = 10%
+2 a. = El i
+0.1 Js 0.5 10 = 10
+0.01 —10 0 10° 10°
+0 1 2 3 1.509 1.510 1.509 1.510 1.509 1.510 1.509 1.510
+tps] tps] tps] tps] tps]
+Figure 3: Evolution of the bubble radius R, the velocity U and Mach number U/C}, of the bubble wall, and the temperature of
+the gas Tg and the liquid T1,(,—gr) at the bubble wall, predicted by the Gilmore-Tait model and the Gilmore-NASG model for a
+bubble with Rg = 1.25 um driven by an acoustic excitation with Ap, = 1.25 MPa and f, = 750 kHz.
+10 2.0 10° 1,000
+10 by #0
+5 1.5 __ 800 — bg =0
+- 1 Q — va 10" =
+| il Hei J 11
+a = > ~ 103 =
+0.1 5 0.5 = 400
+0.01 —-10 0 10? 200
+0 1 2 3 1.509 1.510 1.509 1.510 1.509 1.510 1.509 1.510
+tps] tps] tps] tps] tps]
+Figure 4: Evolution of the bubble radius R, the velocity U and Mach number U/C, of the bubble wall, and the temperature of the
+gas Tg and the liquid T7,,—r) at the bubble wall, predicted by the Gilmore-NASG model with bg = 0 and bg = 10~3 m3 /kg for a
+bubble with Rg = 1.25 um driven by an acoustic excitation with Ap, = 1.25 MPa and f, = 750 kHz.
+is in excellent agreement for both Gilmore models, tissue [12, 22]. Fig. 3 shows the behaviour of a bub-
+the Gilmore-Tait model predicts a significantly higher ble with Ry = 1.25 um and ¢ = 0.072N/m driven
+temperature in the liquid. This is a manifestation of = by a sinusoidal acoustic excitation, Eq. (28), with
+the unphysically large polytropic exponent of the Tait Ap, = 1.25 MPa and f, = 750kHz, which is typical
+model (I'y ~ 7), chosen to approximate the compress- for high-intensity focused ultrasound treatments [23].
+ibility of the liquid. The viscosity of the liquid is py = 0.001 Pas and the
+bubble is initially in equilibrium, with pr, g = 10° Pa.
+4.2. Sonoluminescence The Gilmore-NASG model predicts a stronger col-
+The cavitation of a bubble with initial radius Ry = lapse of the bubble than the Gilmore-Tait model, with
+3 pm driven by a sinusoidal acoustic excitation defined = @ smaller minimum bubble radius and a considerably
+as higher peak velocity of the bubble wall. However,
+Pa = —Ap, sin(27 fut), (28) the peak Mach number of the bubble wall, M;, =
+U/CY,, is similar with both models, since the Gilmore-
+with pressure amplitude Ap, = 135kPa and frequency ~~ NASG model also predicts a higher pressure and, con-
+fa = 25kHz is considered next, an acoustic regime sequently, a larger speed of sound of the liquid due to
+relevant for sonoluminescence [21]. The bubble is ini- the stronger collapse of the bubble. In both cases the
+tially in equilibrium, with pgo = prLo + 20/Ry and Mach number stays below 2.2, the upper bound of va-
+pro = 10°Pa. The viscosity of the liquid is pu, = lidity previously proposed for the Gilmore model [5].
+0.001 Pas and the surface tension is ¢ = 0.072 N/m. The Gilmore-Tait model again predicts a peak tem-
+The evolution of the bubble radius RF is shown in perature of the liquid at the bubble wall that exceeds
+Fig. 2, alongside the gas temperature Tq and the lig- the gas temperature.
+uid temperature Tp.—g) at the bubble wall during The cases presented above neglect the co-volume of
+the first collapse. While the temperature in the lig- the gas, bg, in the NASG model. However, especially
+uid at the bubble wall differs significantly for both 5; inertial cavitation, where the gas in the bubble
+models, the evolution of the radius exhibits only very is compressed very strongly and rapidly, the volume
+small differences between the two models. Interest- occupied by the individual gas molecules becomes an
+ingly, the temperature predicted in the liquid by the  jpportant factor. Fig. 4 shows the same cavitation
+Gilmore-Tait model is higher than the corresponding event as Fig. 3, now using the Gilmore-NASG model
+gas temperature, a physically questionable result. with b, = 10-3 m3 /kg, an approximate value typical
+for gases [24], compared against by = 0. The non-zero
+4.3. High-intensity focused ultrasound co-volume of the gas inhibits the collapse markedly,
+The application of ultrasound-based diagnostic and with a considerably reduced peak velocity of the bub-
+therapy methods in biomedical applications requires ble wall. The Mach number of the bubble as well as
+an accurate prediction of the peak pressure amplitudes the temperatures of the gas and the liquid, however,
+and the heat generated in the surrounding blood or do not change significantly.
+4

@@ -1,0 +1,31 @@
+factor of chemical intermediates generation at pressure—temperature relationships
+during the oxidation—reduction reaction [40]. Then, investigate their effect in GNPs
+IS Important to enhance their optical properties for Biomedical applications based
+on intrinsic features such as SPR, physicochemical and surface interactions to
+recognize biomolecules in sensing systems or photo thermal and photodynamic
+therapies [41]. The GNPs properties are sensitive to size and shape modifications
+and their adequate control during the synthesis Is crucial for their implementation
+as tool in early disease detection [42] and multifunctional nanomedicines for cancer
+therapy [43].
+Furthermore, the molecular dynamics simulations suggest that the surface energy
+of GNPs decreases by increasing cluster size at 0 K, but It is increased at higher
+temperatures [44]. The self-assembly of molecular polyhedra into complex
+structures can modify the shape of Au® atoms polyhedral in a face-centered cubic
+(FCC). The FCC clusters have shown different optical behavior depending on the
+facet structure, the crystal system arrangement is crucial in the modification of
+ultraviolet and visible (UV-Vis) interactions. Au dodecahedron and icosahedron
+exhibit bathochromic shifted and broader surface plasmon resonance (SPR)
+peaks, whereas the quasi—spherical shape of the truncated octahedron leads to a
+similar optical response as a perfect sphere, with a slight bathochromic shifting and
+localized surface plasmon resonance (LSPR) [45]. Electron diffraction patterns
+observed In transmission electron microscopy (TEM) characterization have
+confirmed the facet orientations and the FCC structure to form exotic solids [46].
+An experimental survey on the Au clusters synthesis reported their evolution In
+different solids, controlling the cluster arrangement is possible to influence the
+optical response [47].
+In this work, the variation of ultrasonic power from 60 to 210 W nominal values in
+the synthesis of GNPs using an ultrasonic probe at 20 kHz of frequency was
+studied. The experimental methodology was designed to observe the primary and
+secondary sonochemical effects monitoring temperature every 10 minutes and final
+pH differential after 60 minutes of irradiation to determine the macroscopic effects
+5

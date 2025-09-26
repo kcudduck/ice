@@ -1,0 +1,61 @@
+Sonoluminescence and sonochemiluminescence from a microreactor 17
+
+SUSLICK, K.S., DIDENKO, Y., FANG, M.M., HyeoN, T., KOLBECK, K.J., McNA-
+MARA, W.B., MDLELENI, M.M. & WoNG, M. 1999 Acoustic cavitation and its
+chemical consequences. Philos. T. R. Soc. A 357 (1751), 335.
+
+SUSLICK, K. S. & FLANNIGAN, D. J. 2008 Inside a collapsing bubble: Sonoluminescence
+and the conditions during cavitation. Annu. Rev. Phys. Chem. 59, 659-683.
+
+TAaNnDIONO, OHL, S.W., Ow, D.S.W., KLASEBOER, E., WoNG, V.V., DUMKE, R.
+& OHL, C.D. 2011 Sonochemistry and sonoluminescence in microfluidics. Proc. Natl.
+Acad. Sci. USA 108 (15), 5996-5998.
+
+ToeEGEL, R., GomMPF, B., PECHA, R. & LOHSE, D. 2000 Does water vapor prevent
+upscaling sonoluminescence? Phys. Rev. Lett. 85 (15), 3165-3168.
+
+TOEGEL, RUEDIGER, HILGENFELDT, SASCHA & LOHSE, DETLEF 2002 Suppressing
+dissociation in sonoluminescing bubbles: The effect of excluded volume. Phys. Rew.
+Lett. 88, 034301.
+
+TsocHATZIDIS, NA, GUIRAUD, P., WILHELM, AM & DELMAS, H. 2001 Determination
+of velocity, size and concentration of ultrasonic cavitation bubbles by the phase-doppler
+technique. Chem. Eng. Sci. 56 (5), 1831-1840.
+
+TuzivuTi, T., YAsul, K., Kozuka, T. & TowATA, A. 2010 Influence of liquid-surface
+vibration on sonochemiluminescence intensity. J. Phys. Chem. A 114 (27), 7321-7325.
+
+W.B. McNAMARA III, Y. DiDENKO, K.S. SusLiCcK 2000 Effect of noble gases on
+sonoluminescence temperatures during multibubble cavitation. Phys. Rev. Lett. 84,
+777-780.
+
+Yasui, K., Iba, Y., TuzivTi, T., KozukA, T. & TOWATA, A. 2008a Strongly inter-
+acting bubbles under an ultrasonic horn. Phys. Rev. E 77 (1), 016609.
+
+YAsul, KyuicHI, TOWATA, ATSUYA, TuziuTi, TORU, KOZUKA, TERUYUKI & KATO,
+KAzuMmI 2011 Effect of static pressure on acoustic energy radiated by cavitation bubbles
+in viscous liquids under ultrasound. J. Acoust. Soc. Am. 130 (5), 3233-3242.
+
+Yasul, K., Tuziuti, T. & ItbA, Y. 2004 Optimum bubble temperature for the sono-
+chemical production of oxidants. Ultrasonics 42 (1), 579-584.
+
+Yasui, K., Tuziuti, T., LEE, J., Kozuka, T., TowaTa, A. & IDA, Y. 200856 The
+range of ambient radius for an active bubble in sonoluminescence and sonochemical
+reactions. J. Chem. Phys. 128, 184705.
+
+ZERAVCIC, ZORANA, LOHSE, DETLEF & VAN SAARLOOS, WIM 2011 Collective oscilla-
+tions in bubble clouds. J. Fluid Mech. 680, 114-149.
+
+Silicon substrate micromachining
+Three different configurations of pits were designed. The pits had the same diameter
+
+(30um) and were arranged in sets of one, two (in a line) or three (in a triangle) at a
+distance of 1000 um from each other (see Figure|12). The substrates were micromachined
+under clean room conditions on double-side polished silicon wafers and spin coated with
+the photosensitive substance Olin 12, on which the designed pattern was transferred with
+a mask aligner EV620 (photolitography). After development the pit pattern was open
+and with a plasma dry-etching machine Adixen AMS 100 SE (Alcatel) process BHARS,
+the holes were etched into the silicon substrate at the desired depth. The machined diced
+silicon square pieces of 1 cm-side were mounted to the bottom of a small glass container
+which contained a liquid volume of 300 wf, to the bottom of which a piezo element was
+attached.

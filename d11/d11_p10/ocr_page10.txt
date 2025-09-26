@@ -1,0 +1,56 @@
+10
+1250 3200 350
+IAPWS R6-95
+_ = = = [e Mcétayer & Saurel p
+i= 1150 — 2600 -- Chandran & Salih _ 330) Fy
+= ~~ Denner & Schenke \
+ivy £ - FP
+~ 1050 / © 2000 / 310 J
+950 1400 + 290
+10° 10’ 10 10° 10’ 10 10° 10’ 10
+p [Pa] p [Pa] p [Pa]
+FIG. 3: Density p, speed of sound c, and temperature 1" of water obtained with the NASG EoS, using the model
+constants listed in Table I, compared against the IAPWS R6-95(2018) standard. The reference temperature is
+To = 298.3 K.
+Evaluating this equation at the gas-liquid interface (r = The gas pressure inside the bubble, pq, is defined by
+R) yields a second-order ODE describing the change in an appropriate EoS as a function of the bubble size. As-
+radius R of a gas bubble or cavity, given as suming the gas to be ideal, the pressure in the bubble to
+be spatially uniform and the compression to be adiabatic,
+P . 3 PR the gas pressure of a cavitation bubble under considera-
+t — 2) RR + 1° t — =) R? tion of the dimensionality parameter « is given as
+ROT! 7
+_ t 1 2) H + t _ 2) rH (54) PG = PG,0 (55) ; (57)
+2 C1, C1, C1,
+where pg o 1s the gas pressure at initial radius Ry and
+with H = hy — h., and I — hr _ I. where & = DO /Dt is the ratio of specific heats (or, more generally, the poly-
+denotes the material derivative at the gas-liquid interface tropic exponent) of the gas. The finite volume occupied
+and the subscript L denotes quantities of the liquid at the ~~ by the gas molecules, which becomes important during a
+gas-liquid interface. In this general form, Eq. (54) was Strong bubble collapse, can be taken into account by the
+first presented by Kedrinskii and Kuzavov®°, while in van-der-Waals hardcore radius r,"”" such that
+spherical symmetry (a = 2), Eq. (54) is the well-known patl _ a+l\7
+. . 0 hc
+Gilmore equation PG = PG.o (re) (58)
+t RR RE + 3 t  R 1? Alternatively, the same can be achieved with the Noble-
+CL 2 Jer Abel (NA) EoS'77:198 a simplification of the NASG EoS
+discussed in Section IV, with which the gas pressure and
+_ t n R b+ t RR RH (55) density as a result of adiabatic compression are defined
+C1, C1, C1, as”!
+y
+Note that the assumption of a cylindrical or spherical PG = PG.o Exar (59)
+bubble, as well as the assumption of a spatially invariant pG,o(l —bpc)
+ambient enthalpy ho, are only valid if Ao > R,'73194 Ry atl
+where A is the wavelength of ho (1). PG = PGO (F) ) (60)
+The specific enthalpy hy, incorporates the kinematic
+boundary conditions at the gas-liquid interface. Consid- ~~ respectively, where pg o is the gas density at pressure pao
+ering a Newtonian liquid and a clean gas-liquid interface and b is the co-volume of the gas. More elaborate gas
+without surface-active substances, the liquid pressure pj, ~~ models that dispense with the polytropic relation or use
+at the gas-liquid interface is defined as'”” more complex gas equations of state!”” 2"! account for
+heat transfer???" mass transfer?*124,200,201,206 = and
+oo m R external damping effects®* can also be readily applied
+PL = PG — no 200 BR (56) in conjunction with the Gilmore model. For underwater
+explosions, the Jones-Wilkins-Lee (JWL) EoS?""2%8 is a
+where o is the surface tension coefficient and up is the popular choice in conjunction with the Chapman-Jouguet
+dynamic viscosity of the liquid. The Gilmore model has isentrope!"?'® to describe the properties of the gaseous
+also been used in conjunction with viscoelastic materials detonation products constituting the bubble and to pro-
+surrounding the gas bubble!*3:14%146:196 aq considering vide initial conditions for the velocity of the gas-liquid
+a coated gas-liquid interface®:!42-144, interface” 100-102,104,209=211

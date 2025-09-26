@@ -1,0 +1,66 @@
+1072 Flowers: Glacier hydromechanics — insights and legacy of lken’s works
+Horizontal wvelocity § Si
+40 (pole C3] " *oeeelken (1981)
+I — — — lken and Bindschadler (1986) Pg
+| = Pr
+35 | Es ba
+| T= AL)
+| : = i
+= 50 BRIBE Ll
+| 3 et
+30 : ;
+1980 1985 1990 1995 2000 2005 2010
+| Calendar year
+£0 Fig. 4. Cumulative citations over time according to the Web of
+1 Science™ citation index.
+20— or
+| EN In a germane follow-up study, lken and Truffer (1997)
+gh made similar measurements to those of lken and Bind-
+| AL schadler (1986) on Findelengletscher during its advance in
+a / the early 1980s and its subsequent retreat. They found a
+different relationship between borehole water level and
+glacier flow speed than that plotted in Figure 3. Data from
+10 velocity fall 1382 1985, at the end of the advance, and from 1994, during the
+°F retreat, were distinct from one another and plotted below the
+mr 180 ac 0 a0 oH data from 1980-82. By 1994, the variation in glacier velocity
+Depth of water level below glacier surface with water level was less than that of 1980-82 by about an
+order of magnitude. lken and Truffer (1997) attributed this
+Fig. 3. Velocity of pole C3 as a function of the subglacial water change in the relation between water level and sliding speed
+pressure (shown as depth of water level below surface). The water ~~ to a change in the nature of the subglacial drainage system
+pressure, equal to the ice-overburden pressure og at the centre line, over time, in which the connectivity between cavities had
+corresponds to a depth of water level of 18 m below the surface. decreased. In effect, unconnected areas of the glacier bed
+Different symbols refer to different periods (Iken and Bindschadler, buffered the velocity response to basal water pressure: high
+1986). Data from Findelengletscher, 1980-82. sliding rates were inhibited by limited water access to
+cavities, while the lowest sliding rates were precluded by
+isolated water pockets failing to drain.
+layer was inferred from the damped and delayed response
+of the drainage system to hydraulic perturbations.
+The data in Figure 3 were compared with theoretical LEGACY
+predictions, namely the sliding speed over a perfectly Figure 4 presents a superficial analysis of the legacy of the
+lubricated sinusoidal bed for a constant basal shear stress. ~~ works summarized above. With over 100 documented
+Empirical estimates of the separation pressure p; corres- citations each, these papers have had a persistent influence
+ponded to water levels of 140-180 m below the surface and over the years. The citing studies run the gamut from surging
+were obtained from Figure 3 by extrapolating the relationship ~~ and tidewater glaciers (e.g. Kamb and others, 1985; Fowler,
+to a horizontal tangent at low water levels. Values of bed 1989; O’Neel and others, 2001; Fatland and Lingle, 2002;
+roughness a/\ ~0.02 were obtained for the empirical ~~ Vieli and others, 2004) to theoretical modelling of basal
+separation pressures according to ps = og — At/ma, where processes (e.g. Meyssonnier, 1989; Zmitrowicz, 2003;
+op is the ice overburden pressure, A and a are the wavelength Raymond and Gudmundsson, 2005; Calvo and others,
+and amplitude of sinusoidal bed undulations, respectively, ~~ 2006; Sayag and Tziperman, 2009) to the interpretation of
+and 7 =~ 1 bar is the basal shear stress. These roughness values ~~ conditions beneath paleo ice sheets (e.g. Dardis and
+were deemed consistent with the visible bedrock undulations Hanvey, 1994; Piotrowski and Tulaczyk, 1999; Brennand,
+of the proglacial area, but when used to calculate the limiting ~~ 2000). Although the absolute number of citations within ice-
+or critical pressure for a sinusoidal bed, p. = 09 — At/2ma, sheet studies is still few, it is interesting to note that recent
+predicted unstable sliding at pressures that were far too low. studies of Antarctic ice streams (e.g. Gray and others, 2005;
+The data in fact suggested a critical pressure very near the ice Fricker and others, 2007; Joughin and others, 2009) and
+overburden pressure. lken and Bindschadler (1986) isolated ~~ Greenland outlet glaciers (e.g. Joughin and others, 2008;
+the assumption of perfect basal lubrication as the leading ~~ Shepherd and others, 2009; Bartholomew and others, 2010)
+shortcoming in their theoretical calculations and suggested ~~ continue to draw upon these works.
+that friction due to basal debris may play a significant role in Attribution is possible for some of the inflections in the
+reducing the basal shear stress that contributes to sliding. ~~ cumulative citation curves (Fig. 4). For example, the flurry of
+They concluded with one of the rarely mentioned but papers related to Variegated Glacier in Alaska (e.g. Kamb
+inevitable truths regarding the interpretation of field data: and others, 1985; Raymond and Malone, 1986) contributes
+‘In order to reach conclusions, it was often necessary to to the rise in cumulative citations to lken (1981) from 1985
+generalize the results of measurements made ata very limited ~~ to 1989. Output from the Haut Glacier d’Arolla (Switzer-
+number of points and, furthermore, to decide sometimes land) project from 1996 to 1999 (e.g. Nienow and others,
+what was typical or irregular.’ 1996; Harbor and others, 1997) is also visible in this record.
+https://doi.org/10.3189/002214311796406103 Published online by Cambridge University Press

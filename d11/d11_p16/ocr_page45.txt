@@ -1,0 +1,68 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+
+1106] R. C. A. van der Veen, T. Tran, D. Lohse, and C. Sun, Direct measurements of air layer
+profiles under impacting droplets using high-speed color interferometry, Phys. Rev. E 85,
+026315 (2012).
+
+1107] N. Bremond, M. Arora, S. Dammer, and D. Lohse, Interaction of cavitation bubbles on a
+wall, Phys. Fluids 18, 121505 (2006).
+
+1108] B. M. Borkent, S. Gekle, A. Prosperetti, and D. Lohse, Nucleation threshold and deactivation
+mechanisms of nanoscopic cavitation nuclei, Phys. Fluids 21, 102003 (2009).
+
+1109] R. Mettin, I. Akhatov, U. Parlitz, C. D. Ohl, and W. Lauterborn, Bjerknes forces between
+small cavitation bubbles in a strong acoustic field, Phys. Rev. E 56, 2924 (1997).
+
+1110] N. Bremond, M. Arora, C. D. Ohl, and D. Lohse, Controlled multi-bubble surface cavitation,
+Phys. Rev. Lett. 96, 224501 (2006).
+
+111] E. N. Harvey, D. K. Barnes, W. D. McElroy, A. H. Whiteley, D. C. Pease, and K. W. Cooper,
+Bubble formation in animals. I. Physical factors, J. Cell. Comp. Physio. 24, 1 (1944).
+
+112] R. E. Apfel, The Role of Impurities in Cavitation Threshold Determination, J. Acoust. Soc.
+Am. 48, 1179 (1970).
+
+1113] L. A. Crum, Surface oscillations and jet development in pulsating air bubbles, J. de Physique
+Colloque 40, 285 (1979).
+
+114] A. A. Atchley and A. Prosperetti, The crevice model of bubble nucleation, J. Acoust. Soc.
+Am. 86, 1065 (1989).
+
+1115] D. Rivas Fernandez, A. Prosperetti, A. G. Z. Aaldert, D. Lohse, and H. J. G. E. Garde-
+niers, Efficient Sonochemistry through Microbubbles Generated with Micromachined Surfaces,
+Angewandte Chemie International Edition 49, 9699 (2010).
+
+[116] D. Rivas Fernandez, B. Verhaagen, J. R. T. Seddon, A. G. Zijlstra, L. M. Jiang, L. W. M.
+van der Sluis, M. Versluis, D. Lohse, and H. J. G. E. Gardeniers, Localized removal of layers
+of metal, polymer, or biomaterial by ultrasound cavitation bubbles, Biomicrofluidics 6, 034114
+(2012).
+
+1117] D. N. Guzman, Y. Xie, S. Chen, D. Rivas Fernandez, C. Sun, D. Lohse, and G. Ahlers,
+Heat-flur enhancement by vapour-bubble nucleation in Rayleigh-Benard turbulence, J. Fluid
+Mech. 787, 331 (2016).
+
+1118] S.-T. Lou, Z.-Q. Ouyang, Y. Zhang, X.-J. Li, J. Hu, M.-Q. Li, and F.-J. Yang, Nanobubbles
+on solid surface imaged by atomic force microscopy, J. Vac. Sci. Technol. B 18, 2573 (2000).
+
+1119] N. Ishida, T. Inoue, M. Miyahara, and K. Higashitani, Nano bubbles on a hydrophobic surface
+in water observed by tapping-mode atomic force microscopy, Langmuir 16, 6377 (2000).
+
+1120] J. W. G. Tyrrell and P. Attard, Atomic force microscope images of nanbubbles on a hy-
+drophobic surface and corresponding force-separation data, Langmuir 18, 160 (2002).
+
+1121] D. Lohse and X. Zhang, Surface nanobubble and surface nanodroplets, Rev. Mod. Phys. 87,
+981 (2015).
+
+122] X. H. Zhang, X. D. Zhang, S. T. Lou, Z. X. Zhang, J. L.. Sun, and J. Hu, Degassing and
+temperature effects on the formation of nanobubbles at the mica/water interface, Langmuir
+20, 3813 (2004).
+
+1123] X. Zhang and W. Ducker, Formation of interfacial nanodroplets through changes in solvent
+quality, Langmuir 23, 12478 (2007).
+
+1124] W. A. Ducker, Contact angle and stability of interfacial nanobubbles, Langmuir 25, 8907
+(2009).
+
+1125] N. Hain, D. Wesner, S. I. Druzhinin, and H. Schénherr, Surface Nanobubbles Studied by Time-
+
+45 45

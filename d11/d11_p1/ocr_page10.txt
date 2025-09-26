@@ -1,0 +1,81 @@
+[17] Hastie, T., Tibshirani, R., Friedman, J., 2009. The elements of sta-
+tistical learning: data mining, inference, and prediction. Springer.
+
+[18] Ida, M., 2009. Multibubble cavitation inception. Phys. Fluids 21,
+113302.
+
+[19] Jiao, J., He, Y., Kentish, S. E., Ashokkumar, M., Manasseh, R.,
+Lee, J., 2015. Experimental and theoretical analysis of secondary
+bjerknes forces between two bubbles in a standing wave. Ultra-
+sonics 58, 35-42.
+
+[20] Keller, J. B., Miksis, M., 1980. Bubble oscillations of large am-
+plitude. J. Acoust. Soc. Am. 68, 628-633.
+
+[21] Lanoy, M., Derec, C., Tourin, A., Leroy, V., 2015. Manipulating
+bubbles with secondary bjerknes forces. Appl. Phys. Lett. 107,
+214101.
+
+[22] Lazarus, C., Pouliopoulos, A. N., Tinguely, M., Garbin, V., Choi,
+J.J., 2017. Clustering dynamics of microbubbles exposed to low-
+pressure 1-mhz ultrasound. J. Acoust. Soc. Am. 142, 3135-3146.
+
+[23] Leighton, T. G., 1994. The Acoustic Bubble. Academic Press,
+London.
+
+[24] Maeda, K., Colonius, T., 2019. Bubble cloud dynamics in an ul-
+trasound field. J. Fluid Mech. 862, 1105-1134.
+
+[25] Mettin, R., 2005. Bubble structures in acoustic cavitation. In:
+Doinikov, A. (Ed.), Bubble and Particle Dynamics in Acoustic
+Fields: Modern Trends and Applications. Kerala, India: Research
+Signpost, pp. 1-36.
+
+[26] Mettin, R., Akhatov, I., Parlitz, U., Ohl, C. D., Lauterborn,
+W., 1997. Bjerknes forces between small cavitation bubbles in
+a strong acoustic field. Phys. Rev. E 56, 2925.
+
+[27] Mettin, R., Luther, S., Ohl, C.-D., Lauterborn, W., 1999. Acoustic
+cavitation structures and simulations by a particle model. Ultra-
+sonics Sonochemistry 6, 25-29.
+
+[28] Pandey, V., 2019. Asymmetricity and sign reversal of secondary
+bjerknes force from strong nonlinear coupling in cavitation bub-
+ble pairs. Phys. Rev. E 99, 042209.
+
+[29] Parlitze, U., Mettin, R., Luther, S., Akhatov, I., Voss, M., Lauter-
+born, W., 1999. Spatio-temporal dynamics of acoustic cavitation
+bubble clouds. Phil. Trans. R. Soc. Lond. A 357, 313-334.
+
+[30] Pelekasis, N. A., Gaki, A., Doinikov, A., Tsamopoulos, J. A.,
+2004. Secondary bjerknes forces between two bubbles and the
+phenomenon of acoustic streamers. J. Fluid Mech. 500, 313-347.
+
+[31] Pelekasis, N. A., Tsamopoulos, J. A., 1993. Bjerknes forces be-
+tween two bubbles. part 1. response to a step change in pressure.
+J. Fluid Mech. 254, 467-499.
+
+[32] Pelekasis, N. A., Tsamopoulos, J. A., 1993. Bjerknes forces be-
+tween two bubbles. part 2. response to an oscillatory pressure
+field. J. Fluid Mech. 254, 501-527.
+
+[33] Roberts, W. W., 2014. Development and translation of his-
+totripsy: current status and future directions. Curr. Opin. Urol.
+24, 104-110.
+
+[34] Silver, D., Schrittwieser, J., Simonyan, K., Antonoglou, I.,
+Huang, A., Guez, A., adn L. Baker, T. H., Lai, M., Bolton, A.,
+Chen, Y., Lillicrap, T., Hui, F., Sifre, L., van den Driessche, G.,
+Graepel, T., Hassabis, D., 2017. Mastering the game of Go with-
+out human knowledge. Nature 550, 354.
+
+[35] Yoshida, K., Fujikawa, T., Watanabe, Y., 2011. Experimental in-
+vestigation on reversal of secondary bjerknes force between two
+bubbles 1n ultrasonic standing wave. The Journal of the Acousti-
+cal Society of America 130, 135.
+
+[36] Zhang, Y., Zhang, Y., Li, S., 2016. The secondary bjerknes force
+between two gas bubbles under dual-frequency acoustic excita-
+tion. Ultrasonics Sonochemistry 29, 129-145.
+
+10

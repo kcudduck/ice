@@ -1,0 +1,28 @@
+PY | Polymer (P):Metal (M)=1:1 (Taken)
+| Xrd NP & P:M=0.8:1 (XRD)
+—Y_ COF(): 14 |= | GC:PVP:AI0.6:0.2:1
+| , Co DOC (Al)=56 %
+| } yo cel! of a
+=| er ~ 3  <
+=| I 's = (a) ¥
+S| w > GOF() : 2.1 | P:M=4:1 (Taken)
+= | 2 > 1 P:M=3.5:1 (XRD)
+JL : Co GC:PVP:Al=2.23:1.26:1
+| <3 Us an | DOC (AD=22%
+| agg,
+10 20 30 40 50 60 70
+_ 2000)
+Fig.4 15 [A set of P: M fraction]: XRD patterns of the (a) P: M=1:1, (b) P: M=4:1
+composites respectively.
+4.5 Metallic Al Crystal Growth
+The synthesized RTSC/PVP-Al composite having the least DOC=2 % of Al, is the
+precursor chosen to illustrate the Al crystal growth. In fact the RTSC/PVP-Al composite
+is having the Al phase is at its nucleating state (Al_Nucleation). To facilitate Al crystal
+growth the sonochemical processing generated solution self heating is considered. The
+80 °C reached with 1 h of processing is maintained another 1 h. A total 2 hrs of
+processing at 80 °C increases the DOC to 17 % representing Al growth (Al_Growth). In
+contrast 130 °C reached during 2 hrs of processing further increases DOC to 49 %,
+almost approaching the 50 % theoretical DOC limit chosen. Therefore, the DOC=49 %
+achieved product is identified as Al_Grown. Clearly these XRD quantitative DOC data
+extracted from the product XRD patterns shown in fig. 4 14, can be identified with Al
+31

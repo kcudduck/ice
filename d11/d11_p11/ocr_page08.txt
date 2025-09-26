@@ -1,0 +1,58 @@
+4
+10
+1 0° i
+0 0.02
+10 ,
+10, | 0.8
+10
+ye 5 VR—— Tr “
+0 | NV 0.6
+19, 0.02 /
+“10 > | /
+0.4
+-0.03 -0.02 -0.01 0 -0.04
+z =
+Figure 8: Blue line: magnitude of the parenthesis of Fg, in Eq. | 02
+along the symmetry axis. The emitter is on the right of the graph. -0.06
+Green line: cos term in the parenthesis of Fg, in Eq. (standing
+wave contribution). Red line: sin term in the parenthesis of Fg in
+Eq. (traveling wave contribution).
+00% 002 004 006 °
+large region of traveling wave in the r-direction (sin? 6, ~ |
+1) surrounds approximately the cone boundary, but that Tr
+sin” 6, decreases back to zero when either entering the core
+of the cone, or moving outward perpendicular to the cone Figure 9: Color plot of sin? 8,-, where 0, represents the phase between
+boundary. In the latter two regions, the wave has there- p and Op/Or. The S-streamers are recalled in black lines.
+fore a larger standing part, so that the classical picture
+of attraction by pressure antinodes and repulsion by pres- CL
+tip in Fig. [7] (blue lines).
+sure nodes applies. Thus, when the pressure is maximal Anotl v " h odes is th
+on the axis, bubbles converge toward the latter, and this HOLLEE COLIOL OLSEIVALIOL O11 SUC SOLOLTOCES 15 LIE
+explains the formation of the narrow cone tip. This is the ~~ Presence of small streamers on their lateral side, visible
+case for 2 = —0.04 m (thin solid line in Fig.[I0). The op- near the upper left corner of Fig. [7b. As seen in the right
+posite holds in the core of the cone, where the variations part - t phe atter haure, Hs penomenon 15 reasonab.y
+of the acoustic pressure in the radial direction presents a oor DY VIE SUIUALION, all 15 15 LUE TEASOIL Wily Lhe
+local minimum on the axis, for example at z = —0.01 m deformation of the transducer was accounted for. Indeed,
+(dashed line in Fig or L_ 0.02 m (dash-dotted line) our result suggests that such small structures result from
+The radial comp on ent of the Bierknes force in this ome the lateral vibration of the sonotrode, which emits a radial
+is therefore oriented outwards. This is why, as mentioned wave, and produces a small zone of large acoustic pressure.
+above, the point on the axis (near z = —0 01 m) where the The bubbles in this zone strongly attenuate the wave, and
+co omp onent of the Bjerknes force change sign is in fact a produces a traveling part in the radial wave. The physical
+saddle-point, which locally pushes the bubbles far from the mechanism is therefore similar to the cone formation, but
+axis, and produces a void region in the heart of the cone here the stagnation point is very close to the sonotrode
+clearly visible on the experimental picture. This feature surtace, so that only a small flat filamentary structure is
+has been commented in Ref. 15] and was attributed to the p— b 0h n ms "
+nonlinear reversal of the Bjerknes force in standing waves SUTCLLL SHOWS LUE SAE TESUIL as tls. LID WHCTE We
+near 1.7 bar. Our results suggest that this is not the case, sketched additional streamers originating from arbitrary
+and that the void region results from a combination of a points in the liquid (green lines), which makes the COM
+canceling z-component of the Bjerknes force and a local parison of the lateral filamentary structure with experi-
+inversion of the radial standing wave pressure profile. ments more striking. Furthermore, this representation al-
+The shape of our predicted void region shows reason- lows to evidence streamers starting near the cone lateral
+able agreement with the experiments. Furthermore, the boundary and quickly merging with the latter, as indeed
+oo visible on the experimental picture. Figure[l1]also shows
+experimental cone tip seems to be more dense than its core. )
+This may be due to nucleation of bubbles at the Blake that the corner of the sonotrode acts as a separatrix be-
+threshold in this part, as suggested by the L-streamers tween the streamers attracted by the cone and the ones at-
+starting from the BI ee contour loop just above the cone tracted by the lateral filamentary structure, as can be also
+speculated from the experimental picture. We note how-
+8

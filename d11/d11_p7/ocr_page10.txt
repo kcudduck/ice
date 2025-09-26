@@ -1,0 +1,72 @@
+It 1s natural to correlate the U/UY ratio with the
+D effective cross-section of sonoluminescence
+quenching’:
+10 4
+3 Oeff = 1000 2v; Uv — 1 (21)
+y - YC Nv \ UA
+{ v
+-
+- C where ¥ is the ratio between the average concentration
+DS 5H ) ; of the quencher in the cavitation bubble and Cj. and b
+> u 1s the average heat rate in the bubble,
+> 2 The effect of ultrasonic light emission quenching by
+- } - | small quantities of substances which are able to
+fp Te penetrate into a growing cavitation bubble, lincar U/UY
+dependence on C, lack of correlation between the
+0 0.5 1.0 1.5 quenching ctficiency and the pressure of the saturated
+CIXITEM] vapour. the relationship between this efficiency and the
+quencher chemical structure — all these allow us to
+Fig. 9 Dependence of U/U? on additive concentration: 1 — methanol conclude that the main component of the ultrasonic
+2 — ethanol, 3 — n-propanol, 4 — tertiary butanol, 5 — benzene light continuum is of a luminescent nature and not a
+thermal cquilibrium emission. For the case of black
+body radiation, Noltingk and Neppiras®® postulated
+running at a rate of wy, 7. 1s the average time for the that Uru would Increase with rising VApOUL presstire
+intercombination conversion. and F_y; co, Fr. Fj, are of the additive. Irreversible conversion of cxcitation
+energy yields of initially degraded water molecules. energy to heat during a collision with the quencher
+excited molecules reacted with the substance. and those (the Frank-Hertz sccond-type shock) is possible only
+yielding a quantum, /,. respectively. Equations (15) in the absence of lemperature cquilibrium between the
+and (16), are derived in Ref. 69 under the assumption CISION and the substance. The possibility ol
+of a luminescent character of the ultrasonic hight quenching the light emission by second-type shocks
+emission in the liquid. This results in the following proves Its luminescent nature and its difference from
+equation for sonoluminescence quenching: other types of radiation.
+U _ ZK iby
+~ =] 4+ 9 (17) : . :
+Ue 2.0; Theories on the origin of sonoluminescence
+and sonochemical reactions
+which somewhat differs from the Stern-Volmer | Co
+So oo Ne At present, there are two main categories of theory —
+equation for photoluminescence quenching, aN Ce
+thermal and electrical — to explain the origin of
+sonoluminescence and sonochemical reactions. The
+Upn =1 + 2K gil; (18) thermal theories include: the theory of a "hot spot. or
+Uh Ve adiabatic heating of the gas during the collapse of a
+cavitation bubble, proposed by Noltingk and
+where U. U4, Upp, Udy, are fluxes of sonoluminescence Neppiras®: the thermochemical theory, according to
+and photoluminescence without or with quenchers, which the heating of the vapour-gas mixture in a
+respectively, and v, is the frequency of emission. collapsing bubble results in thermal dissociation or
+| ionization ot water molecules, the light emission
+The Sehgal et al paper® may be considered as originating {rom the recombination of radicals™-** or
+independent experimental support of (17), which is ions’: the mechanico-thermal theory proposed by
+theoretically derived in Ref. 70; Scghal obtained a Jarman’ postulating that the collapse of a cavitation
+linear dependence of the U/UY ratio in water on the bubble gives rise to high temperatures, pressures, and
+concentration of benzene or certain alcohols added light radiation. which is similar to the case of
+(Fig. 9)%2. Assuming that the main continuum 1n the converging shock waves: etc.
+sonoluminescence spectrum resulted from the radical To | |
+recombination light emission After a detailed analysis™ of the electrical theories
+proposed by Frenkel”, Nathanson, Harvey’, and
+H+ OH + M H,0 + M + hv (19) Degrois and Baldo™, We arrived a the conclusion that
+they cannot be considered satistactory. Schgal and
+Seghal et al attempted to relate the efficiency of the Verrall™ have also shown that the theory dealt with 1n
+sonoluminescence flux decrease, U/UY, caused by Rel. 75 disagrees with experimental data.
+various additives. to the rate constants of reactions From the viewpoint of the thermal theories of cavita-
+between the additives and radicals. Ho OH. However, tion. it 1s difficult to interpret some experimental facts:
+there is no such correlation and this interpretation the luminescent. non-equilibrium character of the hight
+does not hold™. The lincar dependence of U/UY on the cmission®’. which requires the absence of high
+additive concentration in the solution, Cand the
+different valucs of U/UA may be explained by the * When thermal equilibrium radiation occurs, small quantities of any
+difference in the rate constants of excited state substance with a high vapour pressure, penetrating the bubble, would
+quenching ki result in quick heating of the substance, temperature equalization and
+practically the same radiation intensity; the efficiency of this process
+M* +S _ Kai M +S. + 7 (20) would depend only on the boiling point rather than the molecular structure
+qi qi
+166 ULTRASONICS . JULY 1985

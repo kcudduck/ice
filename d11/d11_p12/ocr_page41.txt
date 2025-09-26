@@ -1,0 +1,64 @@
+Aluminum Core-Shell Nanoparticles,” J. Phys. Chem. C, vol. 113, no. 2, pp. 500-503, Jan. 2009,
+doi: 10.1021/jp809295e.
+
+[312] C. Mahendiran, R. Ganesan, and A. Gedanken, “Sonoelectrochemical Synthesis of Metallic
+Aluminum Nanoparticles,” European Journal of Inorganic Chemistry, vol. 2009, no. 14, pp. 2050—-
+2053, 2009, doi: 10.1002/ejic.200900097.
+
+[313] M. B. Pomfret, D. J. Brown, A. Epshteyn, A. P. Purdy, and J. C. Owrutsky, “Electrochemical
+Template Deposition of Aluminum Nanorods Using lonic Liquids,” Chem. Mater., vol. 20, no. 19,
+pp. 5945-5947, Oct. 2008, doi: 10.1021/cm801983w.
+
+[314] S.Z. E. Abedin, E. M. Moustafa, R. Hempelmann, H. Natter, and F. Endres, “Electrodeposition of
+Nano- and Microcrystalline Aluminium in Three Different Air and Water Stable lonic Liquids,”
+ChemPhysChem, vol. 7, no. 7, pp. 1535-1543, 2006, doi: 10.1002/cphc.200600095.
+
+[315] S. R. Ghanta and K. Muralidharan, “Solution phase chemical synthesis of nano aluminium
+particles stabilized in poly(vinylpyrrolidone) and poly(methylmethacrylate) matrices,” Nanoscale,
+vol. 2, no. 6, pp. 976-980, Jun. 2010, doi: 10.1039/BONRO0337A.
+
+[316] I. A. Safo, M. Werheid, C. Dosche, and M. Oezaslan, “The role of polyvinylpyrrolidone (PVP) as a
+capping and structure-directing agent in the formation of Pt nanocubes,” Nanoscale Advances,
+vol. 1, no. 8, pp. 3095-3106, 2019, doi: 10.1039/CONA00186G.
+
+[317] S. Zavyalov, “Formation and characterization of metal-polymer nanostructured composites,”
+Solid State Ionics, vol. 147, no. 3-4, pp. 415-419, Apr. 2002, doi: 10.1016/50167-2738(02)00038-
+3.
+
+[318] A. Das, S. Das, and A. K. Raychaudhuri, “Growth of two-dimensional arrays of uncapped gold
+nanoparticles on silicon substrates,” Bull Mater Sci, vol. 31, no. 3, pp. 277-282, Jun. 2008, doi:
+10.1007/s12034-008-0045-x.
+
+[319] P. Kumar, M. G. Krishna, A. K. Bhatnagar, and A. K. Bhattacharya, “Dynamic force microscopy
+study of the microstructural evolution of pulsed laser deposited ultrathin Ni and Ag films,” J.
+Mater. Res., vol. 23, no. 7, pp. 1826-1839, Jul. 2008, doi: 10.1557/IMR.2008.0228.
+
+[320] P. R. Gogate, “Cavitational reactors for process intensification of chemical processing
+applications: A critical review,” Chemical Engineering and Processing: Process Intensification, vol.
+47, no. 4, pp. 515-527, Apr. 2008, doi: 10.1016/j.cep.2007.09.014.
+
+[321] P.R. Gogate, S. Mujumdar, and A. B. Pandit, “Large-scale sonochemical reactors for process
+intensification: design and experimental validation,” Journal of Chemical Technology &
+Biotechnology, vol. 78, no. 6, pp. 685-693, 2003, doi: 10.1002/jctb.697.
+
+[322] S.V.Sancheti and P. R. Gogate, “A review of engineering aspects of intensification of chemical
+synthesis using ultrasound,” Ultrasonics Sonochemistry, vol. 36, pp. 527-543, May 2017, doi:
+10.1016/j.ultsonch.2016.08.009.
+
+[323] D. Panda and S. Manickam, “Cavitation Technology—The Future of Greener Extraction Method: A
+Review on the Extraction of Natural Products and Process Intensification Mechanism and
+Perspectives,” Applied Sciences, vol. 9, no. 4, p. 766, Jan. 2019, doi: 10.3390/app9040766.
+
+[324] Xu Wenlin, Ding Yuanqiong, Shao Qing, and Wang Yaqiong, “Application of Ultrasonic
+Intensification Technology in Chemical Engineering in China,” Chemical Engineering Transactions,
+vol. 74, pp. 1351-1356, May 2019, doi: 10.3303/CET1974226.
+
+[325] R. R. Andrés, E. Riera, J. A. Gallego-Juarez, A. Mulet, J. V. Garcia-Pérez, and J. A. Carcel, “Airborne
+power ultrasound for drying process intensification at low temperatures: Use of a stepped-
+grooved plate transducer,” Drying Technology, vol. 0, no. 0, pp. 1-14, Oct. 2019, doi:
+10.1080/07373937.2019.1677704.
+
+[326] F. Vallespir, L. Crescenzo, O. Rodriguez, F. Marra, and S. Simal, “Intensification of Low-
+Temperature Drying of Mushroom by Means of Power Ultrasound: Effects on Drying Kinetics and
+
+41

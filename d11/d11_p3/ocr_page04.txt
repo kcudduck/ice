@@ -1,0 +1,67 @@
+4
+R,=2u m,f=2*fr R,=1 pu m,f=2*fr
+2.5 ;
+1.8 3
+|
+2 4 1.6 a
+5 I
+_ jig o 14 TB
+14 PI xX A PG
+* fo a py, ar me - gh
+$n N
+aE 0.8
+1 2 3 4 0 1 2 3 4 5 6
+Pressure (Pa) x10° Pressure (Pa) x10°
+(a) (b)
+R,=2u m,f=1.8*fr R,=1 pm, f=1.8*fr
+[EE A A
+2 ; i > a 1
+. - 1.8 ARP .
+1.8 — ; “ _— A 3
+y ¢ Ade
+o ~f N No! RS
+ov 1.6 - Ni oc 1.6 J I * 5
+i a N ~ pe RY { > 1
+& iN a ps NJ A
+1.4 EE P Ce NJ ATE
+ee — . EA 14 I a——— . LC
+“3 1.2 . ” 2
+1 : posnto ARR EETR sees M . A
+- 1 t= eee E——
+0.8
+0 1 2 3 4 0 1 2 3 4 5
+Pressure (Pa) x10° Pressure (Pa) x10°
+(c) (d)
+R,=2p m,f=1.6*fr R,=1 pu m,f=1.6*fr
+2.2 >
+We 2 Al
+& «s . A ¢ ¥
+1.8 EL itt wT ¥; ~~ J i A
+14 Te— I NS EY 1d . ERPS
+oz 1.6 NA he 7 B of
+.. BB 1.4 i 4
+1.4 s a J Ba x
+; | KN ‘. a | h | 4
+1 2 N 2 =
+0 0.5 1 1.5 2 2.5 3 3.5 0 1 2 3 4 5
+Pressure (Pa) x 10° Pressure (Pa) x 10°
+(e) (f)
+R 021 m,f=1.5*fr R,=1 pn m,f=1.5*fr
+2.5 FL >
+~ - ; >
+We I oN a
+Sa, jr 2 3 yy. -
+2 = A, 5 i ~~ dA
+lh AE 1.8 in JEN
+= > ™, RE is o ’ NY
+oy oF ,. 5 o! . o 1 6 yd ig
+R . _-— X) . BR
+o’ 1.5 o ie deed or rd j= 2
+oo ; al 1. 4 + ea ‘
+0.5 : 0.8
+0 1 2 3 4 0 1 2 3 4 5
+Pressure (Pa) %x10° Pressure (Pa) x10°
+(e) (f)
+FIG. 2. Bifurcation structure (blue: method of peaks, red: conventional method) of the micron-size bubbles as a function of
+pressure when sonicated with fs, and Pdfs,. Left column is for Rp = 2um and Right column is for Rg = 1um (arrow shows
+the pressure responsible for SN bifurcation)

@@ -1,0 +1,57 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+(a) INK reservoir graphite (c) f ; _ A
+0.06
+O e |
+S » 3
+5 membrane piezo a i
+Ob) |
+
+= [J — 36.6 [9]
+
+chamber 0.16 a J|/0.28 sa J|(0.34
+
+2 ££) v
+
+= | LY || LD
+
+0 jee 038 {0.40 | [0.46
+
+silicon throu Ol PB
+
+(U 04 060 | 062 |
+
+| F 8 F (3) 4
+
+nozzle plate nozzle bubble = = -’ Le
+
+(b) Et d EP ET TR EE EEE E3
+
+| | i 8 6 ‘ |. 4
+t=Ops To. t=50us + t=100us bs — t=200us t=250us +
+Droplet 26 Droplet 27 Droplet 28 Droplet 29 Droplet 30 Droplet 31
+
+FIG. 13. (a) Schematic of the ink channel (side view) of a MEMS-based drop-on-demand inkjet
+printer. An air bubble has been entrained and pushed to the corner of the ink channel. (b) Droplet
+distortion (droplets 28-29) caused by a dirt particle around the jetting nozzle. Such a dirt particle
+can lead to bubble entrainment. In the shown case here the normal droplet formation process
+recovers and becomes reqular again. Figure taken from ref. [93]. (c) Upper: Infrared bottom view
+through the silicon around the nozzle into the ink channel. In the center the nozzle is seen. In three
+of the four corners bubbles got entrained which affect the printing process. The nine smaller images
+show the diffusive dynamics of the bubbles, clearly revealing bubble growth (by rectified diffusion)
+and Ostwald ripening. The times are given in seconds. Images taken by Arjan Fraters, Physics of
+Fluids group, Twente, in collaboration with Océ.
+
+developing piezo-acoustic ink-jet printers and obviously various great fluid dynamics chal-
+lenges come with this, starting from the flow in the nozzle, to the jetting and droplet process,
+down to drop impact, drop spreading and drop-paper interaction, and finally (partial) drop
+evaporation or solidification. One of the most burning questions Océ had in those days was
+on the fluid dynamics in the print-head.
+
+A schematic cross-section through a typical modern MEMS-based print-head is seen
+in figure 13a. The piezo-actuator — similar to the piezo used to generate single bubble
+sonoluminescence — gives short pulses with — depending on the printer — a frequency of
+around 20 kHz to 100 kHz. Each pressure pulse drives out a little droplet. Altogether,
+typically there are presently hundreds of nozzles within one silicon chip and several chips
+are integrated in one print-head. A modern inkjet printer has tens of such print-heads.
+
+13 18

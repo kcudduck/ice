@@ -1,0 +1,33 @@
+sonocrystallization is ambient RT and mostly athermal shock wave-dominated
+phenomena needs exploration. In fact demonstration of the sonocrystallization
+phenomenon includes (1) aspirin as model for the molecular crystal [90], (2) organic
+molecules [91], (3) alkali halides as the ionic crystals [92]. The outputs of such studies
+suggest it is the direct particle and shock wave interaction is responsible for facilitating
+such phenomena. Still, a general acceptance of sonocrystallization out of these few
+individual case studies on crystallization and acoustic cavitation is not sufficient. This
+has also been suggested in a recent detailed review of possible mechanisms of
+sonocrystallization in solution [93], [94].
+
+Sono-agglomeration as a result of a high-velocity inter-particle collision and
+subsequent fusion by melting delivered grain growth is also another significant physio-
+chemical attribute. Literature on some unusual sonochemical-assisted assemblies
+developed are: (1) graphene oxide (GO) and carbon nanotube (CNT) [95], (2) 2D-
+materials (graphene, MoS;, h-BN etc) on flexible polymer substrates [96], (3)
+mesocrystals of TiO2 and BaTiOs [97]-[100], and (4) silica spheres [101] etc. The case of
+metals sono-agglomeration during sonoprocess is extensively investigated by Suslick
+and co-authors et al [102]-[104]. Two particular outcomes of the metal sono-
+agglomeration studies are; if (1) particles collide head-on, it leads to agglomeration;
+otherwise if (2) the collision is at glancing angle leads to the removal of the inbuilt
+respective metals surface oxide layer by cracking and finally making the surface highly
+reactive. Thus, sonocrystallization leads to the generation of the crystalline nuclei while
+sono-agglomeration drives these generated nuclei to coalescence resulting in building
+unit and crystal growth.
+
+Given these promising physio-chemical viables of ultrasonic sonochemistry, this
+
+chapter is an attempt to realize, demonstrate, and quantity the phenomenon like; (a)
+
+process intensification of chemical reaction, (b) sonocrystallization, (c) sono-
+
+aggregation. These phenomenon are investigated using precursors; (1) N-polyvinyl
+7

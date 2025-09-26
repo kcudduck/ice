@@ -1,0 +1,59 @@
+velocity, superimposed on the oscilla- micity that accompanied these events; mass. Thus about 95 percent of the mo-
+tions. | the propagation velocity for the 21 Feb- tion is due to basal sliding and about 5
+There is a very clear correlation of ruary event was 500 m/hour. percent to internal deformation, the lat-
+individual velocity peaks, troughs, and On 23 July 1983, well after the surge ter being at least roughly (within a factor
+slowdowns as observed at different termination, a minisurge occurred in of 2) the amount of internal motion that
+points along the length of the upper which the flow velocity quickly quadru- would be expected to take place in the
+glacier (Fig. 5, A and B). The correlation pled and then dropped back to ~0.4 absence of the surging. This result dem-
+is somewhat confused as we move tothe m/day in ~10 hours. It was detected onstrates that the surge motion is caused
+lower glacier (Fig. 5C) because of the strongly at Km 9.5 and, 7 hours later, at by extreme enhancement of basal shid-
+increased number of peaks and troughs Km 14.5. The time delay corresponds to  ing—a conclusion often previously sur-
+there, but in many cases a correlation an average downglacier propagation mised but never before demonstrated by
+can nevertheless be identified; in partic- speed of 700 m/hour. This is at the upper. actual observation.
+ular, the major slowdown events clearly end of the range of minisurge propaga- Indirect confirmatory evidence for the
+affect the entire surging length of the tion speeds (250 to 700 m/hour) observed large enhancement of basal sliding in the
+glacier. Close inspection of Fig. Sreveals in 1979 through 1981 (10). surge 1s given by comparison of trans-
+definite shifts in the time of individual verse profiles of flow velocity as ob-
+peaks, troughs, and slowdowns at differ- | | ~ served under nonsurging and surging.
+ent points. In general, these features Basal Sliding in the Surge conditions (Fig. 7). The change from a
+arrive later at points farther downglacier, quasi-parabolic transverse profile of ve-
+indicating downglacier propagation of In order to determine how much of the locity across the width of the glacier
+the velocity fluctuations. From 17 June surge motion is due to internal deforma- under nonsurging conditions (Fig. 7, A
+onward the propagation speed is approx- tion within the ice mass and how muchto and D) to a flat profile, representing
+imately 600 m/hour. Prior to 17 June the basal sliding, on 8 June 1983 a borehole “‘plug flow’ (/4), under surge (Fig. 7, B
+propagation speed is generally faster, was drilled 385 m to the bed (/3) at Km and C) is interpretable in terms of a great
+and in many cases the fluctuations ap- 9.5. The spatial configuration of the hole increase in basal and marginal sliding in
+pear to be almost synchronous through- was measured on 10 June and againon 12 the surge. | |
+out the surging part of the glacier. The June by means of borehole inclinometry Observations of closely spaced mark-
+major slowdown on 3 February 1983, (Fig. 6). Over the 2-day interval the ice ers near the south margin of the profile in
+and also minor slowdown events on 21 moved forward 27.3 m at the surface, Fig. 7C reveal that there is a large veloci-
+February and 22 and 31 March, showed while the bottom of the borehole lagged ty discontinuity within the ice mass near
+downglacier propagation effects as de- behind by slightly less than 1 m as a the edge. This discontinuity, marked by
+tected in records of strain, tilt, and seis- result of internal deformation in the ice shear arrows in Fig. 7C, occurs across a
+15 —— —
+A | |
+10 | | |
+so
+s 5 ELTA
+© |
+E 10 B | 1.
+o 0 60 I | | Coq
+E | | |
+3 5 | |
+hod :
+pe 40F | | | | |
+0 c [Yi
+20 | |
+» oo
+a
+0
+10 15 20 25 | 30 5 |
+1983 June July
+Fig. 5. Glacier flow velocity versus time over the period 7 June to 7 July 1983 at (A) a point in the upper glacier near Km 5.5, (B) a point in the mid-
+dle glacier near Km 9.5, and (C) a point in the lower glacier in the reach Km 13.5 to 15. Each velocity value is plotted as a horizontal line over the
+time interval over which it was measured. (The actual velocity as a function of time is doubtless a smooth curve through these data lines.) The
+graphs have a common time abscissa; the ordinate scales are offset as indicated. The downward-pointing arrows mark major slowdowns in flow
+velocity, which occurred throughout the surging part of the glacier; dashed arrows are shown for the slowdown on 16 to 17 June because of the
+complexity of this event. Discontinuities in the data occur where there is a switch between different markers whose motion is being followed.
+This content downloaded from 132.174.255.223 on Tue, 20 Sep 2016 11:36:46 UTC
+All use subject to http://about.jstor.org/terms

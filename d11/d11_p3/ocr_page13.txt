@@ -1,0 +1,48 @@
+13
+R0=0.4, m,f=1.4*fr R0=0.2; m,f=1.4*fr
+2.5 2.5 7
+Q
+¢. p
+2 - 2 ;
+o - N ex x ~~ pe \
+3 AY
+1 : a
+2 4 6 8 10 12 0 0.5 1 1.5 2 2.5
+Pressure (Pa) %x10° Pressure (Pa) % 10°
+(a) (b)
+)s R0=0.4, m,f=1.2*fr R0=0.2; m,f=1.2*fr |
+4 9% 2.5
+D) as Ix | ALi pr P
+or 7 pa - or A
+1.5 4 Av gh ws. v
+2 4 6 8 10 0 0.5 1 1.5 2
+Pressure (Pa) %x10° Pressure (Pa) %10°
+(c) (d)
+R0=0.4, m,f=1.1*fr R0=0.2; m,f=1.1*fr
+2.5 2.5
+2 AE
+Eh 2 pr
+ST he PA 4 Fre]
+or” . £50 ATW: oe” 5 he
+AEH wR ! IA SEN DY
+ON Eg 15 NNT, 2.
+0 2 4 6 8 0 5 10 15
+Pressure (Pa) %x10° Pressure (Pa) %x10°
+(e) (f)
+FIG. 9. Bifurcation structure (blue: method of peaks, red: conventional method) of the micron-size bubbles as a function of
+pressure when sonicated with f = 1.4f,,1.2f.&1.1f.. Left column is for Ry = 0.4um and Right column is for Ry = 0.2um
+(arrow shows the pressure responsible for SN bifurcation)
+the higher viscous forces on smaller bubbles increases the pressure dependent resonance (PD f.) and f = f,, the
+pressure required for the onset of nonlinear oscillations. maximum wall velocity drops when PD occurs [26]. This
+6- In this study for bubble sizes > 800nm, the maximum can be one of the reasons for the loss of echogenecity ob-
+non-destructive SH, UH, backscatter pressure and wall served concomittant with Pd [72]
+velocity are generated when bubbles are sonicated with 8- When sonicated with 1.5f, < f < 2f,, the occur-
+t~1.55-1.6 f,.. Conversely, there is a universal minimum rence of P4 or chaotic oscillations lead to an increase in
+)
+for all these values at {=1.4-1.5f,. maximum scattered pressure and wall velocity; however,
+7- When sonicated with 1.5f, < f < 2f,, the occurrence this increase is simultaneous with a drop in SH and UH
+of PD is concomitant with an increase in the wall velocity strength; thus it is not an ideal situation for SH imaging
+and scattered pressure. This is in contrast to sonication applications.
+with f. < f < 1.5f,, where PD is simultaneous with a ~~ 9- For bubble sizes > 400nm when sonicated with f,. <
+drop in scattered pressure and wall velocity. We have also f < 1.5f,; oscillations undergo a simple PD from P1
+previously shown that when bubble is sonicated with its to P2 oscillations which is followed by a PD cascade to

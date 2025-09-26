@@ -1,0 +1,47 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+Indeed, the singularity (2) in the RP bubble dynamics is reflected in a singularity P(t) ~
+(ts —t)~%° in the sound emission.
+
+The second obvious question to ask is: Why is the snapping shrimp doing all this? The
+answer is simple: It wants to eat! The emitted sound pulse of the collapsing bubble is so
+strong that little fish or shrimp get stunned or even killed by it and are then eaten up by
+the snapping shrimp. Our explanation immediately solved another paradox: Why aren’t
+there any snapping shrimp in the deep ocean, but only in water up to about 50 m depth
+70]? The reason is that the hydrostatic pressure increases with increasing depth so that
+eventually the shrimp can no longer generate a cavitating bubble. Thus it would starve in
+deeper water.
+
+With our background in single bubble sonoluminescence, we could not resist looking into
+possible light emission from the shrimp-produced collapsing bubbles: Indeed, there was a
+faint light emission, a phenomenon we called shrimpoluminescence [71].
+
+RCA pees
+coustic Sane
+(e.g., airgun)
+2 FIG. 9. Principle of acoustic ma-
+| - Soramometer rine geophysical survey. Illustra-
+| EN Ca tion courtesy of National Science
+SERN 0: 4b Foundation.
+
+Sound emission from oscillating or collapsing bubbles is not only relevant for snapping
+shrimp, but also on a much larger length scale. Eq. (4) is not only valid in the micrometer
+or millimeter range, but can even be employed as an estimate in the meter range, implying
+that the resonance frequency of a bubble with an ambient radius By = 1 m is 3 Hz. Such
+extremely low frequencies are of great interest, for example, in the oil industry for acoustic
+marine geophysical exploration. The giant bubbles are generated with so-called airgun
+acoustic sources. Their operating principle is as follows: During the charging process, air is
+put under very high pressure in a cavity in the airgun. This air is laterally released during
+the discharging process, leading to a giant air bubble with typical diameters of one meter
+and beyond. The oscillations of this air bubble leads to sound generation and emission,
+according to eq. (5). The sound gets reflected at the ocean-bottom and is detected both
+with hydrophone streamers and with ocean bottom seismometers and hydrophones, see
+figure 9. To extract the relevant information from these data, low frequencies around 1 Hz
+are crucial, whereas high frequencies beyond 120 Hz are attenuated in the earth. This is the
+reason why it is essential to generate low frequencies with the airgun (or airgun clusters)
+and thus employ big bubbles.
+
+Bubbles of this size will no longer be strictly spherical during their whole period of
+life, and this will affect their sound emission behavior, both with respect to intensity and
+direction. The way to calculate the dynamics of such large bubbles or voids from the Navier-
+Stokes equation (or, to be precise, from its potential flow approximation) are boundary
+14 14

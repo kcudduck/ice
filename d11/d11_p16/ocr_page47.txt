@@ -1,0 +1,68 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+
+Nanodroplets to Permanent Nanolenses, Soft Matter 8, 4314 (2012).
+
+147] X. Zhang, J. Wang, L. Bao, E. Dietrich, R. C. A. van der Veen, S. Peng, J. Friend, H. J. W.
+Zandvliet, L. Yeo, and D. Lohse, Mixed mode of dissolving immersed microdroplets at a
+solid-water interface, Soft Matter 11, 1889 (2015).
+
+1148] X. Zhang, Z. Lu, H. Tan, L. Bao, Y. He, C. Sun, and D. Lohse, Formation of surface
+nanodroplets under controlled flow conditions, Proc. Nat. Acad. Sci. 112, 9253 (2015).
+
+1149] L. Bao, Z. Werbiuk, D. Lohse, and Z. Zhang, Controlling the growth modes of femtoliter
+sessile droplets nucleating on chemically patterned surfaces, J. Phys. Chem. Lett. 7, 1055
+(2016).
+
+1150] L. Bao, V. Spandan, Y. Yang, B. Dyett, R. Verzicco, D. Lohse, and X. Zhang, Flow-induced
+dissolution of femtoliter surface droplet arrays, Lab on Chip 18, 1066 (2018).
+
+1151] F. Pregl, Die quantitative organische Mikroanalyse (Springer, Berlin, 1917).
+
+1152] A. Jain and K. K. Verma, Recent advances in applications of single-drop microextraction: A
+review, Analytica Chimica Acta 706, 37 (2011).
+
+1153] M. Rezaee, Y. Assadi, M. R. M. Hosseinia, E. Aghaee, F. Ahmadi, and S. Berijani, De-
+termination of organic compounds in water using dispersive liquid-liquid microextraction, J.
+Chromatography A 1116, 1 (2006).
+
+1154] M. Rezaee, Y. Yamini, and M. Faraji, Evolution of dispersive liquid-liquid microextraction
+method, J. Chromatography A 1217, 2342 (2010).
+
+1155] A. Zgola-Grzeskowiak and T. Grzeskowiak, Dispersive liquid-liquid microextraction, Trends
+in Analytical Chem. 30, 1382 (2011).
+
+1156] D. Lohse, Towards controlled liquid-liquid microextraction, J. Fluid Mech. 804, 1 (2016).
+
+1157] G. Wagner, P. Schlanstein, S. Fiehe, T. Kaufmann, R. Kopp, R. Bensberg, T. Schmitz-Rode,
+U. Steinseifer, and J. Arens, A novel approach in extracorporeal circulation: individual, in-
+tegrated, and interactive heart-lung assist (I-3-Assist), Biomedical Engineering — Biomedi-
+zinische Technik 59, 125 (2014).
+
+1158] O. R. Enriquez, C. Sun, D. Lohse, A. Prosperetti, and D. van der Meer, The quasi-static
+growth of COs bubbles, J. Fluid Mech. 741, R1 (2014).
+
+1159] S. Yang, P. Tsai, E. S. Kooij, A. Prosperetti, H. J. W. Zandvliet, and D. Lohse, Electrolytically
+generated nanobubbles on highly orientated pyrolytic graphite surfaces, Langmuir 25, 1466
+(2009), see also the Erratum in Langmuir 29, 5937 (2013).
+
+1160] P. Lv, H. Le The, J. Eijkel, A. Van den Berg, X. Zhang, and D. Lohse, Growth and Detach-
+ment of Oxygen Bubbles Induced by Gold-Catalyzed Decomposition of Hydrogen Peroxide, J.
+Phys. Chem. C 121, 20769 (2017).
+
+1161] P. van der Linde, A. M. Soto, P. Penas-Lopez, J. Rodriguez-Rodriguez, D. Lohse, H. Garde-
+niers, D. van der Meer, and D. F. Rivas, Electrolysis-Driven and Pressure-Controlled Diffusive
+Growth of Successive Bubbles on Microstructured Surfaces, Langmuir 33, 12873 (2017).
+
+1162] A. Moreno Soto, S. R. German, H. Ren, D. van der Meer, D. Lohse, M. R. Edwards, and
+H. S. White, The Nucleation Rate of Single O2 Nanobubbles at Pt Nanoelectrodes, Langmuir
+34, 7309 (2018).
+
+1163] A. Moreno Soto, A. Prosperetti, D. Lohse, and D. van der Meer, Gas depletion through
+single gas bubble diffusive growth and its effect on subsequent bubbles, J. Fluid Mech. 831,
+474 (2017).
+
+1164] W. Fritz, Berechung des Mazximalvolumens von Dampfblasen, Phys. Z. 36, 379 (1935).
+
+1165] A. Moreno Soto, T. Maddalena, A. Fraters, D. van der Meer, and D. Lohse, Coalescence of
+
+4'7 47

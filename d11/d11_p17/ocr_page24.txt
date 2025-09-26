@@ -1,0 +1,31 @@
+[45] A.Q. Zhang, D.J. Qian, M. Chen, Simulated optical properties of noble metallic
+nanopolyhedra with different shapes and structures, Eur. Phys. J. D 67 (2013) 1-9.
+https://doi.org/10.1140/epjd/e2013-40240-1
+[46] D.Y. Kim, S.H. Im, O.0O. Park, Y.T. Lim, Evolution of gold nanoparticles
+through Catalan, Archimedean, and Platonic solids, Cryst. Eng. Comm. 12 (2010)
+116-121. https://dol.org/10.1039/b914353]
+[47] Gong, J., Newman, R., Engel, M. et al. Shape-dependent ordering of gold
+nanocrystals into large-scale superlattices. Nat Commun 8, 14038 (2017).
+https://doi.org/10.1038/ncomms14038
+[48] P.F. Damasceno, M. Engel, S.C. Glotzer, Predictive self-assembly of
+polyhedra into complex structures, Science 337 (2012) 453-457.
+https://doi.org/10.1126/science.1220869
+[49] M. Wuithschick, S. Witte, F. Kettemann, K. Rademann, J. Polte, Illustrating the
+formation of metal nanoparticles with a growth concept based on colloidal stability,
+Phys. Chem. Chem. Phys. 17 (2015) 19895-19900.
+https://doi.org/10.1039/c5cp02219c
+[50] K. Takiyama, Formation and Aging of Precipitates. VIIl.* Formation of
+Monodisperse Particles (1) Gold Sol Particles by Sodium Citrate Method, Bull.
+Chem. Soc. Jpn. 31 (1958) 944-950. https://doi.org/10.1246/bcs|.31.944
+[51] Minh Tran, Rebekah DePenning, Madeline Turner and Sonal Padalkar. Effect
+of citrate ratio and temperature on gold nanoparticle size and morphology. Mater.
+Res. Express 3 (2016) 105027. https://doi:10.1088/2053-1591/3/10/105027
+[52] Wenchao Ding, Peina Zhang, Yijing Li, Haibing Xia, Dayang Wang, Xutang
+Tao. Effect of Latent Heat in Boiling Water on the Synthesis of Gold Nanoparticles
+of Different Sizes by using the Turkevich Method. ChemPhysChem. 16 (2) (2015)
+447-454 https://dol.org/10.1002/cphc.201402648
+[53] R. Jin, C. Zeng, M. Zhou, Y. Chen, Atomically Precise Colloidal Metal
+Nanoclusters and Nanoparticles: Fundamentals and Opportunities, Chem. Rev.
+116 (2016) 10346-10413. https://doi.org/10.1021/acs.chemrev.5b00703
+
+24

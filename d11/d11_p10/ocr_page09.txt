@@ -1,0 +1,55 @@
+9
+1250 3200 350 T7500
+IAPWS R6-95 LL
+— Tait
+5 1150 — 2600 3304 2%
+= = ~ 10’ 10°
+vy — ~
+~ 1050 © 2000 310
+950 1400 290
+10° 10’ 10 10° 10’ 10 10° 10’ 10
+p [Pa] p [Pa] p [Pa]
+
+FIG. 2: Density p, speed of sound ¢, and temperature 1’ of water obtained with the modified Tait EoS, using the
+model constants of Cole”! (n = 7.15 and B = 3047 x 10° Pa), compared against the IAPWS R6-95(2018) standard.
+The reference values are pg = 10° Pa, pg = 997 kg/m”, and TH = 298.3 K.
+
+TABLE I: Model constants of the NASG EoS for water proposed in recent years.
+
+Le Métayer and Saurel ®® Chandran and Salih” Denner and Schenke ©”
+mn 1.19 1.19 1.11
+B [Pa] 7028 x 10° 6218 x 10° 6480 x 10°
+b [m® /kg] 6.61 x 10™4 6.72 x 1074 6.80 x 10™4
+po [kg/m”] 957.7 997.0 997.0
+po [Pa] 1.0453 x 10° 10° 10°
+sity and speed of sound are defined as”’ V. BUBBLE DYNAMICS
+mn p+B nb The propagation of the invariant g along outgoing char-
+= n—1 p n—1 (p+ B)+bp (47) acteristics, as stipulated by the Kirkwood-Bethe hypoth-
+K (p+ B)* esis, can be readily employed to derive the equation of
+p = —————— (48) motion of the gas-liquid interface of a gas bubble or cav-
+p+ B Expanding Eq. (31) under consideration of the time-
+C = {Nn Db bp? (49) dependent ambient enthalpy defined by Eq. (12) yields
+A | Dh Dh. Du Oh ou
+where K = po/[(pg + B)'/™ (1 — bpo)] describes a con- "Dt "Df + ey Tre Ir + “a,
+stant reference state. Just like the Tait EoS, to which A
+it reduces for b = 0, the NASG EoS is unconditionally + a (1 — he + >) 7 =0. (50)
+convex®®, making it an equally robust alternative to the 2 2) dt,
+Tait EoS. The temperature as a result of adiabatic com- | | Co |
+pression and expansion is also for the NASG EoS given by Expressions for the spatial derivatives of the flow velocity
+Eq. (46). Different model constants for the NASG EoS ~~ and specific enthalpy follow by rearranging the continuity
+of water have been proposed in recent years, as listed and momentum equations, Eqs. (16) and (17), as
+in Table I and shown in Figure 3. In particular the
+model constants for isentropic water proposed by Denner du _ 1 Dh B Dhog ou (51)
+and Schenke % exhibit a very good agreement with the or c? \ Dt Dt r
+TAPWS R6-95(2018) standard. The NASG EoS was first Oh Du
+used in conjunction with the Kirkwood-Bethe hypothe- 9 Dt’ (52)
+sis in the Gilmore-NASG model for bubble dynamics by
+Denner °° and, using the theory derived in Section VI for respectively. Inserting Eqs. (33), (51), and (52) nto
+spherical bubbles, to model the full flow field introduced Eq. (50), we obtain
+by cavitation bubbles by Denner and Schenke °°.
+
+Other equations of state, such as the van-der-Waals Dh Dhy, Du ru (Dh Dhy
+EoS or any tabulated EoS, may also be applied in con- "\Dr TT TD + ry (w —¢) — ~ \Dr Di
+junction with the Kirkwood-Bethe hypothesis. However, 5
+the simplicity and robustness of the Tait EoS and, more — acu? + a (1 — hoo + >) (c4+u)=0. (53)
+recently, the NASG EoS have prevailed so far. 2 2

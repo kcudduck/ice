@@ -1,0 +1,56 @@
+The dual problem is solved with the sequential mini- 045 eo — 04
+mal optimization (SMO) algorithm. The SMO 1s an it- = Of a0 =0.6
+erative descent algorithm. The convergence 1s monitored = 0.35
+by the gradient of the objective function (given in Eq. 9) £ 03 c=10
+with respect to a’, specifically, by the difference between . 0.25
+the gradient components corresponding to the maximal E 0.2
+upper and lower violation of the feasibility conditions Z 01s
+|7, 11]. The iteration 1s deemed converged when this dif- G 0 \
+ference 1s smaller than a tolerance 6. Once the optimal = esl Ak
+solution for the dual problem is found, w and b can then J
+be found from «’ using the Karush-Kuhn-Tucker condi- %0 5 10 15 20
+tions, which are then used to classify a new data point. ¢
+For more details of the SVM methods and the algorithms, Figure 8: The mis-classification rate for different kernel scales o- and
+see [17,7]. box constraints C.
+0 4
+o 3.5 Therefore, 1t 1s appropriate to use a large C to limit mis-
+. classification, although it 1s not necessary to achieve zero
+Nn Ny : mis-classification.
+z 300 | = With the above discussion in mind, the mis-
+2 400 IE classification rate has been calculated for several dif-
+i E ferent kernel scales 0 and box constraints C. A point
+7 1 © x) is mis-classified if y/ f(x’) < 1 (c.f. Eq. 8). The
+-600 05 mis-classification rate 1s the ratio of the number of mis-
+00 _— . classified points, N,,, to the total number N. The results
+’ = + Epochs i. » 0 are plotted in Fig. |8| The mis-classification rate reaches
+an approximate plateau quickly when C increases. The
+Figure 7: The objective function and the gradient difference as func- results for 0 = 0.4 are clearly much worse, whereas
+tions of the training epochs in a typical training session. Only the first small mis-classification is found for other o’s when C
+100 epochs are shown. is sufficiently large. These observations demonstrate the
+robustness of the classification scheme as long as o 1s
+The SVM model is applied to classify the data for pot too small. The smallest mis-classification of 2.61%
+sgn f12, using the MATLAB command fitcsvm which 5 found at (0, C) = (0.6, 20), which is considered suffi-
+implements the above algorithms. In this case, x 1s @  ¢jently small. Therefore C = 20 and 0 = 0.6 are used in
+five dimensional vector, i.e., x = (D, Rg, Rga, Pa, w)! what follows.
+and the label y 1s sgn fi». The number of data points
+1s N = 5400. The data are standardized when they are L
+fed into the training algorithm. Specifically, the mean 0.95 tr ————F- 0.995
+is removed from the data which are then rescaled by the 09 =="
+standard deviation. Fig. [7[illustrates the decay of the gra- El EL 1 oo E
+dient difference as well as the objective function in Eq. 9] 7 Ny AT --- - ;
+in a typical training process. > 7 I
+The adjustable parameters in the model are the box rr pe 0965
+constraint C, the kernel scale o, and the tolerance 9. 7 ‘ 096
+Tests with 6 = 107 and 10™* show essentially the same 0.65 0.955
+results. Therefore 6 = 10™* has been used. When the 0 — og
+separation boundary has a complicated shape, a small Number of folds
+o 1s required to model the fine features of the bound-
+ary. However a too small o may limit the ability of Figure 9: The left axis: the median accuracy (solid line with circles)
+: : and the median specificity (dashed line with squares). The right axis:
+the model to capture the large scale features in the dis- the median precision (solid line with diamonds) and the median recall
+tribution of the data. The choice of C depends on the (dashed line with triangles). Found in an ensemble of 32 runs. The
+accuracy of the data for fi,. If the data for fi, likely error bars show the maximum and minimum.
+contain large errors, it 1s not meaningful to insist perfect
+classification. The physical model being used here (Eq. The robustness of the model 1s assessed in Fig. 9lusing
+has been derived with a few simplifying assumptions. k-tfold cross-validation [17]. In k-fold cross-validation,
+7

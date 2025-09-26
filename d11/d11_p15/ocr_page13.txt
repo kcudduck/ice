@@ -1,0 +1,32 @@
+The energy for a solution ® = (u, us, uy) € D(A) will be computed in two levels. We define the
+lower energy functional F(t) = Ey(t) + E1(t) where
+But) i= DIA] + al + Sl 2 (42)
+2 2 2b
+1 1/2 112 c” 1/2 112
+Ey(t) = 5 lla ull + 5 Au (4.3)
+and the higher energy functional £(t) = E(t) + E5(t) where
+b 2
+Bx(t) = 2 [| Au (4.4)
+where a and v may depend on x. We also note that
+| AY2ulls = [Vall + [| vFoullF,
+. By Poincare- Wirtenberg inequality we obtain that
+| AY 2ully ~ lull mo
+It is standard to see that E(t) ~ ||®(¢)]|%, see |5] for details. The following lemma follows from
+classic elliptic theory and provides the estimate which is necessary for justifying our choice of higher
+energy functional. As a remark, here and hereafter we use the notation a < b to say that a < Cb
+where C' is a constant possibly depending on the physical parameters of the model (7,¢,b > 0) but
+independent of space, time and vy € L*>(€2).
+Lemma 4.1. Let Q be a smooth domain and consider a function u : © — R such that Au € L*(Q)
+and O,ulsn € HY2(T), then u € H*(Q) and
+|ull 20) S [|Aull2 + [|Ovul| gz ry.
+4.1 Propagation of boundary dissipation — Flow multipliers
+We begin with energy identity for F;. Since the problem is linear we work with smooth solutions (in
+the domain of the generator) which can be extended by density to the phase space solutions.
+Proposition 4.2 (Energy Identity). Let T'> 0. If ¥ = (u, z, 2;) is a weak solution of (4.1) then
+T T
+E,(T) + / Dy (s)ds = Ey (1) + / / fds (4.5)
+t t JQ
+holds for 0 <t <T, where Dy represents the interior/boundary damping and is given by
+Dy = » | kizedl + [ ud dos (4.6)
+Ty Q
+13

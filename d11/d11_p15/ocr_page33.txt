@@ -1,0 +1,47 @@
+124] B. Kaltenbacher, I. Lasiecka, and R. Marchand. Wellposedness and exponential decay rates
+for the Moore-Gibson—Thompson equation arising in high intensity ultrasound. Control and
+Cybernetics, 40(4):971-988, 2011.
+
+125] B. Kaltenbacher, I. Lasiecka, and M. Pospieszalska. Wellposedness and exponential decay of the
+energy in the nonlinear jmgt equation arising in high intensity ultrasound. Math. Models Methods
+Appl.Sci, 22(11):34 p, 2012.
+
+126] B. Kaltenbacher and V. Nikolic. On the Jordan—Moore—Gibson—Thompson equation: well-
+posedness with quadratic gradient nonlinearity and singular limit for vanishing relaxation time.
+Mathematical Models and Methods in Applied Sciences, 29(13):2523-2556, 2019.
+
+127] B. Kaltenbacher and V. Nikoli¢. Vanishing relaxation time limit of the Jordan—Moore—Gibson—
+Thompson wave equation with Neumann and absorbing boundary conditions. Pure and Applied
+Functional Analysis, 5(1):1-26, 2020.
+
+128] I. Lasiecka and C. Lebiedzik. Asymptotic behaviour or nonlinear structural acoustic in-
+teractions with thermal effects on the interface. Nonlinear Analysis, 49(5):703-735, 2002.
+doi:10.1016/S0362-546X(01)00135-3.
+
+129] I. Lasiecka and D. Tataru. Uniform boundary stabilization of semilinear wave equations
+with nonlinear boundary damping. Differential Integral Equations, 6(3):507-533, 1993. URL:
+https://projecteuclid.org:443/euclid.die/1370378427.
+
+130] I. Lasiecka and R. Triggiani. Uniform stabilization of the wave equation with Dirichlet or Neu-
+mann feedback control without geometrical conditions. Applied Mathematics and Optimization,
+25(2):189-224, 1992. doi:10.1007/BF01182480.
+
+131] I. Lasiecka and R. Triggiani. Control Theory for Partial Differential Equations: Continuous and
+Approximation Theories. Volume 1,. Cambridge University Press, Cambridge, 2010.
+
+132] I. Lasiecka, R. Triggiani, and X. Zhang. Nonconservative wave equations with unobserved Neu-
+mann BC: global uniqueness and observability in one shot. Contemporary Mathematics, 268:227—
+326, 2000. doi:10.1007/978-0-387-35690-7_24.
+
+133] I. Lasiecka and X. Wang. Moore—Gibson—Thompson equation with memory, part II:
+General decay of energy. Journal of Differential Equations, 259(12):7610-7635, 2015.
+doi:10.1016/5.9de.2015.08.052.
+
+134] I. Lasiecka and X. Wang. Moore-Gibson—-Thompson equation with memory, part I: ex-
+ponential decay of energy. Journal of Applied Mathematics and Physics, 67(2):17, 2016.
+doi:10.1007/s00033-015-0597-8.
+
+135] J. L. Lions and E. Magenes. Non-homogeneous Boundary Value Problems and Applications: vol
+I, Problemes aur Limites Non—homogenes et Applications. Springer-Verlag, Berlin, 1972.
+
+33

@@ -1,0 +1,49 @@
+Proof. We need to estimate all the terms in (4.22). We immediately notice that the first boundary
+term contains |z|* — |V,z|? evaluated on the boundary. However, on Ij we have no information on
+either tangential derivative — which provides contribution unbounded with respect to the energy level.
+And it is at this point where we will be using orthogonality of the constructed vector field A with
+respect to normal to the boundary direction. The details are given below.
+
+We start with the last term in (4.22) . Notice that
+
+T'—s 1'—s 1T'—s
+/ | dyzarae— | / 2 (-22) droit + | / 2 (—ky(x)z) dl’ dt
+S I S I'o A S I'
+1 2 1 2 1 2
+= —— koz dg — = | ki(x)2*(T —s)dl'y + = | ki(x)z7(s)dl’y
+A S I'o 2 I' 2 I"
+1
+<5 | R@A dr SIA) S Bils) (4.24)
+I"
+due to trace inequality. Next, we notice that
+T'—s T'—s
+/ / (22 — BIV22) (h - v)dTdt -/ (f wf ) (22 — B[V2?) (h - v)dTdt
+S I’ S Io I"
+T T'—s
+< / Dy (s)ds — b / / V22(h- v)dLdt. (4.25)
+0 S I'y
+due to h-v =0 on I'y and the definition of the damping term (4.6).
+Remark 4.3. Notice that assuming only Ah -v <0, would allow to dispense with the term
+T'—s
+/ / Zz (h-v) <0.
+S I'o
+However, the gradient term
+T'—s I'—s
+[vel = [Ga pepe
+S I'o S I'o
+where 0, indicates derivative in the tangential direction, poses difficulties. Boundary condition on I,
+provide good estimate for the first part. However, for the second no estimate is available unless zr,
+is under control, which is given through the dissipation or h-v = 0.
+
+Back to (4.25), for I'y a tangential-trace estimate is available. In fact, using an adaptation
+of Lemma 2.1 in [28], which was obtained via microlocal analysis of the homogeneous case, and
+accounting for our non—homogeneity —vyu; + f in (4.1) we obtain
+
+T—s ik
+/ / 10, 22d dt < cr | / (10, 2|* + 27)dl dt
+S I'4 0 I'1
++ Cr ue + flea g) + Lots(2)
+T
+<0 / Da (5)ds + Coll IP -1jorsiq) + Crlots(2), (4.26)
+0
+18

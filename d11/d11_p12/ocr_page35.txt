@@ -1,0 +1,21 @@
+observed clear brighter spots in TEM DF imaging mode all over the GC flake validates
+the crystallinity of embedded nanoparticulate. The entire GC flake portion acquired in
+TEM SAED mode validates nanoparticulate entities to Al structural phase ring indexing
+(see fig. 4 17 (c)). Sequential e-beam irradiated RTSC/PVP-Al composite portion after 0,
+2.5, and 5 minutes exposure is shown in figs. 4 17 (d)-(f) validates crystal growth and
+supports particle attachment. TEM e-beam electron transparency in the HR-TEM
+micrographs of figs. 4 17 (d)-(f) to classify whether the particle attachment is OR or OA
+scheme. Another GC flake already once E4I5M irradiated having a comparatively larger
+10-15 nm size is chosen for crystal growth observation. One of the edge portions of the
+flake having 9 Al nanocrystallites is shown in fig. 4 18 (b). Subsequent E412.5M
+exposure few smaller ones disappear, highlighting coarsening of smaller ones
+coarsening by OR scheme. This is further illustrated in a still larger particulate marked
+as-1 is shown in fig. 4 18 (d). The OR of particles 2, 3, and simultaneous growth and
+evolution of particle-1 shape is in support of OR, leading to Al crystal growth. This
+physical evidence demonstrated under TEM e-beam is consistent with literature on
+metallic particles crystal growth by ultrasonic induced head-on collision facilitated
+agglomeration, particle fusion by melting, and coalescence [350]-[355]. The similarity
+being both (TEM e-beam and Ultrasonic) Al crystal growth is by classical OR
+mechanism. The difference being that the first is athermal, while in the second, localized
+temperature rise above melting resulting coalescence is the proven reasoning.
+35

@@ -1,0 +1,61 @@
+11,866 JULIAN: VOLCANIC TREMOR—NONLINEAR EXCITATION BY FLUID FLOW
+Kinematics of Fluid Flow Ov N Ov Op 127 . (6)
+First, I derive a kinematic relation connecting the flow P\ Be or) Ox h?2 7’
+speeds at different positions along the channel, which Ce :
+enables us to restrict our attention to the speed at a single where o 's VRS. The last term represents the viscous
+position and thus to deal with ordinary, rather than partial, rag Co exe Hom Po will H Time and s oe
+differential equations. This kinematic relation is based on Fifferonti poe ing ( 3) He How. © g
+the equation of conservation of mass for the fluid, rererilation of v using BIVES
+0 0
+=~ (pvh) = —=(ph) , (1) ho 12
+Oz ot 2d — Py — — v(0,1) — pv (0,1)
+where p is the fluid density, v(z,t) is the flow speed averaged T
+over the channel cross-section hk, z is the spatial coordinate : . . \2
+along the channel, measured from an arbitrary origin, and ¢ + 129 h +p h —9 h 7 (7)
+is time. To find a reasonably tractable model, I assume that h? h h h
+the fluid is incompressible (p = const) and that the entire
+wall surface moves in unison, so that the channel thickness : Co :
+h is the same along the entire channel and is a function h(t) The fluid flow speed appeatiiie = (7) is evaluated only at
+of time only. Equation (1) then simplifies to = 0, so the spatial argument will be omitted from here on.
+The solution of (7) satisfying the boundary condition (4) is
+0 .
+he = —h (2)
+or ho 12 L
+(the dot indicates differentiation with respect to time), p(z,t) = (7 — =) Vv — q € + 7)
+which can be integrated with respect to z to give
+‘ - . \2 2
+o 2 L
+v(z,t) =v(0,t) ~ >. (3) + hen 5
+This is the desired kinematic relation. The fluid speed a.
+everywhere in the channel is determined if h, A, and the +p — P v + L h (8)
+speed at the origin are known. I place the origin midway 172 2h|
+along the length of the channel.
+Substituting this expression in the boundary condition (5)
+Boundary Conditions gives the first equation of motion
+Boundary conditions relate the pressures and flow speeds pv + 12, _ PLP (9)
+at the ends of the channel to the properties of the reservoirs. h? L
+Assume that the reservoir pressures are constant away : .
+from the channel entrances, in effect taking the radiation he second © uation of motion 's based lls the ow Ne
+impedances in the reservoirs to be zero. Also assume that Auid F © channel wats. ~Ae to
+the reservoir pressures relate to the pressures and speeds at » P FOSSURC force P exerted on the ch annel wall surface is
+the ends of the channel by Bernoulli’s theorem in the form obtained by Subst tuting equation (9) into equation (8) and
+int :
+p + pv? /2 = const, appropriate for steady inviscid flow, so negrating over the surface
+that
+L/2
+p(-L/2,8) = pr — Eu*(=L/2,1) BO= | peti
+2 ~L/2
+. 72
+p Lh [2h L212 h\ h 2
+2h 12h 12\ AZ 2h) Hh 2 2
+and ’ (10)
+p(L/2,t) =p2 — 9? (L/2,¢) The fluid pressure drives the elastic/damped response of the
+ri 2 channel walls:
+4
+— P22 — =< v(0,t) — — . 9 7 ’
+| ) 2 (5) Mh + Ah + k(h — ho) = F, (11)
+where hg is the equilibrium thickness of the channel with no
+. . forces applied to its walls. (If prestress is present and a finite
+Equations of Motion pressure is required to start opening the channel, then hy is
+The first equation of motion is based upon the law of negative.) Substituting F,, from equations (10) into (11) and
+conservation of momentum in the fluid: collecting terms yields the second equation of motion:

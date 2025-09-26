@@ -1,0 +1,70 @@
+BE line be f(x) =w!/x +b =0, wherew € Rand b € R. Tt
+0.9 ne can be shown that the best separating line 1s the solution
+/ . . ° . 1 :
+0.8 / of the following optimization problem [17]: find w and
+/ ce. . .
+0.7 I b that minimize the objective ||w||* such that for all data
+= 0.6 / points (x/, y/),
+ost | yf) > 1. (7)
+Qo
+$04 f) The optimal objective maximizes the margins on the two
+03 | sides of the line. The constraints ensure that the points
+02 J \ are found on the correct sides of the separating line.
+0.1F | : The optimal solution 1s used to classify new data (not
+0 : in the training set) in the following way. Let w and b be
+° 02 04 06 08 A te 14 16 18 2 the optimal solution, and f(x) = Ww! x + b. The classifica-
+tion of a data point x 1s given by its label sgn f(x).
+Figure 6: The probability distribution for the relative error &, = |(|f,|- In the more general cases where the data are not sepa-
+If72DI/1f7%] for the training (bars) and the testing (filled circles) sets. rable, two modifications to the above method have been
+The Y-axis 1s the probability for Er in each bin. The blue line 1s the introduced. Firstly, one may allow a small number of
+cumulative probability for g, for the testing data. : : . :
+points to be mis-classified, a practice termed using soft
+margin. Mathematically, this method amounts to replac-
+There are a small number of extraneous samples where ing Eq.[7|by oo |
+&, can be more than 100%, but, as expected, the majority Yi) z1-¢ (8)
+of the samples have small errors. The cumulative prob-
+we Salp ES b for & > 0. Meanwhile, a penalty term 1s added to the
+ability distribution, plotted with the dashed line, shows 7 oT
+: : objective function to limit the magnitude of &/. For this
+that more than 90% samples in the testing set have rela- Co . Noo
+investigation, the term takes the form of C »,._, &/ with
+tive errors smaller than 30%, and about 85% smaller than CH=
+. C being a parameter called the box constraint. A larger C
+20%. Comparing the errors on the training set and the y
+. introduces larger penalty, hence reduces £/°s magnitudes,
+testing set, it 1s only slightly more probable to observe
+which means fewer mis-classifications are allowed. No
+larger errors on the testing data, which demonstrates that Co
+mis-classification 1s allowed when C — oo.
+the model generalizes well. g dl is
+The above results show that the FFNN model (with 15 ceondly, Oe mdy use a noniineat curve 0 separate
+: : the data. The idea 1s implemented by using a function
+neurons on each of the two hidden layers) can provide an ry b as th Here A(x)
+accurate model for not only log, |f12| but also [fi]. In F(x) = w (x) + a5 the separating curve, w cre (x) 15
+ . : a non-linear function that transforms the separating line
+terms of the training cost, typically less than 100 epochs I
+are needed to achieve the accuracy depicted in Figs. to a nonlinear separating curve. |
+which takes less than one minute to compute on a modern The SVM mode] obviously 15 also applicable for
+laptop higher dimensional problems. It 1s used in this 1investi-
+gation, but the solution 1s based on its dual formulation,
+: because the dual problem 1s convex and guaranteed to
+4.2. The support-vector machine model for sgn fi, P . — S
+Co converge to the global minimum [7]. Letting a’ be the
+In its most simple form, the SVM [17] 1s an algorithm dual variable corresponding to the constraint given in Eq.
+that finds the optimal line that separates two clusters of the dual problem can be written as
+points on a plane, hence classifying the points into two
+classes. In order to introduce some necessary basic con- 1 LY _y Cy No
+cepts, its formulation is briefly explained. It is assumed min 3 > > a’ "yy G(x, x") — > a’ (9)
+that a set of N points x/ = (x,x}) € R* (j = 1,2,...,N) j=1 k=1 J=1
+1s given as the training set. The points are divided into
+» : : subject to the constraints
+two groups, the positive and negative classes. For sim-
+plicity, the data are assumed to be separable, 1.e., it 1s N
+assumed that a straight line can be found to separate the > aly =0, 0<al<C (10)
+two classes, and that the classifications are known and P=
+labelled by 1 and —1, respectively. The classification of
+point x’ 1s recorded by y’/ € {—1, 1}. The bivariate function G in Eq. 9]is the kernel function
+The optimal separating line 1s defined as the line that corresponding to the nonlinear function A(x). For this in-
+separates the two groups whilst leaving the largest mar- vestigation, a Gaussian kernel is used where G(x/, x") =
+gins on both sides of the line. Let the equation for the exp(—||x/ — |? /o?) with being the kernel scale.
+6

@@ -1,0 +1,30 @@
+pyrrolidone (PVP), and (2) anhydrous AIClz in conventional hexadecane solvent
+respectively, as case studies. The PVP polymer is used to adjudge sonocrystallization
+phenomena without bulk solution heating at ambient laboratory conditions. This
+judgment is to isolate whether it is an athermal shock wave generated shear/pressure
+linked or temperature linked process. In contrast, metallic Al is used to understand the
+crystal growth aspect employing “ultrasonic-assisted process intensification activity”
+based on conventional solution-phase chemical Al precursor reduction process to
+deliver Al nanoparticles. As stated, sonoprocess generated Al nanoparticles of uniform
+dimension and surface oxide-free are incorporated into the sonocrystallized PVP
+matrix. The motivation of this chapter is employing sono-process for achieving the
+fabrication PVP (P), graphitic carbon (GC), and Al (M) incorporated air-stable
+composite. Further is to examine the loss of metallic content after year-long storage,
+which is essential for fuel application.
+
+In this context, generic protocols to fabricate oxide-free Al nanocrystals involve
+either; (1) direct solution-phase reduction of Al precursor reduction leading to Al
+crystal growth or via a (2) alane-precursor based thermal decomposition schemes [306]
+[308]. In these schemes for safe laboratory handling, surface passivation of the Al
+nanostructured product is achieved either by (a) controlled air exposure (help in
+developing thin amorphous Al20s outer shell) or (2) an appropriate polymer surface
+coating respectively. Most importantly, these protocols run over several long hours to
+complete. It is important to note that, besides sono-chemical, attempts to superimpose
+with electric and microwave field stimulation on many conventional approaches for
+reaction process intensification is also reported [309], [310]. Significantly, the
+introduction of sonochemical stimulation to the organic alane-precursor based thermal
+decomposition (protocol-2) reaction scales down, remarkably, to just several minutes
+[311]. Although the use of inorganic Al precursor also attempted in sono-
+electrochemical, electrochemical template deposition and polymer stabilization, the
+
+8

@@ -1,0 +1,29 @@
+cubic power law is the best fit (red curve, x? =0.999) to the entire dataset considered,
+when there is mass flow into the unit cell. That is, once the number of carbon atomic
+sites in the unit cell is increased from z=4 to z=12. The physical appearance of both the
+plots of fig. 4 13 (b) and (c) becomes analogous. (2) A linear fit is the best fit (blue line, y?
+=0.999) untill the GC lattice expansion reaches 55 % (proportional limit); and the
+number of GC atomic site is maintained at z=4. An unit cell expansion of less than 55 %
+is recoverable, and the expandable graphite is in the elastic region. In the fabricated
+RTSC/PVP-Al composite do=7.66 A (see Fig.4.10 GC_ generated) represents 48 %
+elongation, thereby is in the elastic region. One-to-one correspondence employing fig. 4
+13 (b) plots, it is estimated that the expanded GC density must be 1.17 g/cm?. Thereby
+the material project mp-99182 file represents the ideal current sonocrystallized
+expanded GC unit cell parameters.
+Table 4 1 GC unit cell taken from the material project (mp) [398] and ICSD database
+
+ID mp-48 1D mp- 1D mp- | 1ICSD- ICSD- 1ICDD-
+
+CT | om um
+a=b=2.467 A | a=b=2.467 A | a=b=2.468 A | a=b=2.469 A | a=b=2.470 A | a=b=2.464
+
+=7.803A | c=31983A | c=14.998A | =8841A | =6.930 A A
+
+o=3=90° o=3=90° o=p=90° o=3=90° o=3=90° o=3=90°
+TE EEE
+
+p=1.94 g/cm? | p=1.42 g/cm? | p=1.01 g/cm? | p=1.71 g/cm? | p=2.18 g/cm? | p=2.26
+J Hf a =
+This illustration of the soft and expandability feature of the GC, by bringing a
+correlation with well-established materials stress-strain plot is most illustrative. This
+28

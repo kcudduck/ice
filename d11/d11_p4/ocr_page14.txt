@@ -1,0 +1,38 @@
+12
+1 2 3 4
+1.4 cm
+D 6 7 3
+a = 4 900°
+(a)
+| |
+1 12 3 4
+2.3 cm - | — a
+5 6 7 E
+(b)
+Figure 7: The snapshots of bubble shape are shown for the two representative cases, the
+numerical bubble shapes shown with red curves are overlaid at same times and scaled to
+same length as in experiments. (a) Case where a > 7/2, each snapshots are taken every
+0.1 ms (b) Case where a < 7/2, each snapshots are taken every 0.125 ms.
+a). The snapshots are taken at every 0.1 ms, the interface from the second snapshotis extracted
+and fitted with an approximate spherical cap which gives R. = 7.56x 10m and @ = 0.727.
+
+We reproduce the experimental conditions numerically using the numerical setup
+described in section 3.2. The minimum mesh size of Ax = 60um, the far field pressure po 1s
+1 atm and the pressure inside bubble 1s set to a low value of 0.1 atm which 1s chosen by hit
+and trial method to match the numerical collapse time with the collapse time 1n experiments.
+We consider both surface tension and viscous effects in the numerical simulations with
+Re =~ 75600 and We ~ 10500. The numerically obtained bubble shapes plotted with red
+contours and scaled to bubble size in snapshot 2, these are subsequently overlaid on the
+experimental snapshots after same times. A very good agreement 1s seen between the
+numerical and the experimental bubble shapes, small differences subsist because of the
+simplification of the bubble shape during the expansion, the influence of gravity, mass
+transfer and other effects that are not considered in the numerical simulations.
+
+At the beginning of collapse phase the highest interface velocity 1s developed at edge of
+the viscous boundary layer (see figure 4b) that leads to the appearance of an annular jet
+which 1s generated parallel to the wall and a mushroom-like shape of the interface contour
+(see figure 7a and supplementary movie 1). These results are consistent with previous
+numerical works of Lauer ef al. (2012) and Koukouvinis ef al. (2016). Remarkably, when
+the collapse 1s strong enough and the jet reaches the axis of symmetry, a stagnation point
+appears there and a secondary upward jet normal to the wall is generated. The re-entrant jet
+observed for @ > m/2 is not conventional in cavitation and generates vortex ring structures

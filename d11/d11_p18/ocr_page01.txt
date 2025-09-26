@@ -1,0 +1,59 @@
+GEOPHYSICAL RESEARCH LETTERS, VOL. 31, L07614, do1:10.1029/2004GL019491, 2004
+Emergence of broadband Rayleigh waves from correlations of the
+ambient seismic noise
+N. M. Shapiro’ and M. Campillo®
+Received 14 January 2004; revised 25 February 2004; accepted 10 March 2004; published 8 April 2004.
+[1] We demonstrate that the coherent information about information about the structure of the Earth’s crust and
+the Earth structure can be extracted from the ambient upper mantle. Measurements made from direct surface
+seismic noise. We compute cross-correlations of vertical waves have several limitations. First, the direct surface
+component records of several days of seismic noise at waves mostly sample only a few preferential directions
+different pairs of stations separated by distances from about while many other directions of propagation remain
+one hundred to more than two thousand kilometers. unsampled. Second, inversions of the ballistic surface
+Coherent broadband dispersive wavetrains clearly emerge waves require some information about the source that is
+with group velocities similar to those predicted from the not always known with a sufficient accuracy. Third, the
+global Rayleigh-wave tomographic maps that have been measurements made with the teleseismic surface waves
+constrained using ballistic surface waves. Those results provide averages values over extended areas [e.g., Nolet
+show that coherent Rayleigh waves can be extracted from and Dahlen, 2000; Spetzier et al., 2002] that limits the
+the ambient seismic noise and that their dispersion resolution of resulting seismic images. Fourth, it 1s difficult
+characteristics can be measured in a broad range of to make short-period measurements from teleseismic sur-
+periods. This provides a source for new types of surface- face-waves because the heterogeneity results in the simul-
+wave measurements that can be obtained for numerous taneous arrivals of waves with different paths.
+paths that could not be sampled with the ballistic waves and,
+therefore, can significantly improve the resolution of
+seismic 1mages. INDEX TERMS: 7255 Seismology: Surface 2. Cross-Correlations of Random Wavefields
+waves and free oscillations; 7260 Seismology: Theory and
+modeling; 7294 Seismology: Instruments and techniques; 8180 [4] Recent developments in acoustics [e.g., Weaver and
+Tectonophysics: Tomography. Citation: Shapiro, N. M., and Lobkis J 2001a, 2001b; Derode et al., 2003] and seismology
+M. Campillo (2004), Emergence of broadband Rayleigh waves [Campillo and P aul, 2003] suggest an alternative method 10
+from correlations of the ambient seismic noise, Geophys. Res. measure the elastic resp onse of the Earth by extracting the
+Lett 31. LO7614. doi-10.1029/2004GL019491. Green function from the diffuse or random wavefields.
+Co Contrary to ballistic waves, fully diffuse wavefields are
+composed of waves with random amplitudes and phases but
+1. Introduction propagating in all possible directions and, therefore, contain
+[2] Seismic imaging has been traditionally based on the information about any possible path that can be
+direct waves that are emitted by seismic sources such as extracted by computing cross-correlations between pairs
+explosions or earthquakes. Those ballistic waves have been Of receivers. A simple demonstration of this property 1s
+used to measure travel times of the body waves, dispersion based on a modal representation of a diffuse wavetield
+curves of the surface waves and frequencies of the Earth’s Inside an elastic body (the Earth in our case) [Weaver and
+normal modes. Inversion of those measurements provided a  Lobkis, 2001b]:
+fundamental information about the Earth’s interior and
+allowed to understand the Earth’s structure both in terms o(x, 1) = 3 aii (x) (1)
+of 1ts spherically symmetric stratification and in terms of p
+three-dimensional and anisotropic variations of seismic
+properties. Co. where x 1s position, ¢ 1s time, u,, and w, are eigenfunctions
+3] Further INereasing of the resolution of SCISIMIC MAZES and eigenfrequencies of the real Earth, and a, are modal
+5 mostly limited by the Inhomogeneous distribution of excitation functions. An important property of the diffuse
+SCISTHIL SOUTCES and receivers that still HMpOSE SOME funda- field 1s that the modal amplitudes are uncorrelated random
+mental limitations on the resolution of seismic measure- :
+CL variables:
+ments from the ballistic waves. In this paper we concentrate
+on seismic surface-waves that are one of main sources of
+(anal) = Spm (Wy) (2)
+where F(w) 1s the spectral energy density. Because the
+Center for Imaging the Earth’s Interior, Department of Physics, cross-terms disappear in average due to equation (2), the
+University of Colorado at Boulder, Boulder, Colorado, USA. correlation between the fields at locations x and y becomes
+Laboratoire de Geophysique Interne et Tectonophysique, Observatoire simply:
+de Grenoble, Université Joseph Fourier & CNRS, Grenoble, France.
+Copyright 2004 by the American Geophysical Union. C (x,y, T ) — > F (wy uy, (x) uy, (y)e "nT (3)
+0094-8276/04/2004GL019491 n
+1.07614 1 of 4

@@ -1,0 +1,42 @@
+28
+ence on Engineering Systems Design and Analysis, Volume 3 219M. F. Hamilton and D. T. Blackstock, “On the coefficient of non-
+(ASMEDC, Istanbul, Turkey, 2010) pp. 425-433. linearity 8 in nonlinear acoustics,” The Journal of the Acoustical
+
+207E. L. Lee, H. C. Hornig, and J. W. Kury, “Adiabatic Expansion Society of America 83, 74-77 (1988).
+Of High Explosive Detonation Products,” Tech. Rep. UCRL- 220K. A. Naugol’'nykh, “Absorption of finite-amplitude waves,” in
+50422 (Univ. of California Radiation Lab. at Livermore, Liver- High-Intensity Ultrasonic Fields, edited by L. D. Rozenberg
+more, CA, USA, 1968). (Springer US, Boston, MA, 1971).
+208G. Baudin and R. Serradeill, “Review of Jones-Wilkins-Lee 2217 Rudnick, “Theory of the Attenuation of Very High Amplitude
+equation of state,” EPJ Web of Conferences 10, 00021 (2010). Sound Waves,” Tech. Rep. (Soundrive Engine Company, Los
+209M. Riley, “Analytical Solutions for Predicting Underwater Ex- Angeles, California, USA, 1952).
+plosion Gas Bubble Behaviour,” Tech. Rep. DRDC Atlantic TM 222(C. B. Laney, Computational Gasdynamics (Cambridge Univer-
+2010-237 (Defence R&D Canada — Atlantic, Dartmouth, NS, sity Press, Cambridge; New York, NY, 1998).
+Canada, 2010). 22338. Schenke, F. Sewerin, B. van Wachem, and F. Denner, “Ex-
+210. Gao, S. Wang, J. Zhang, X. Jia, C. Liang, and F. Ma, “Ef- plicit predictor—corrector method for nonlinear acoustic waves
+fects of underwater explosion depth on shock wave overpressure excited by a moving wave emitting boundary,” Journal of Sound
+and energy,” Physics of Fluids 34, 037108 (2022). and Vibration 527, 116814 (2022).
+211%. Jia, S. Wang, J. Xu, J. Zhang, Y. Gao, and F. Ma, “Non- 224@Q. B. Whitham, Linear and Nonlinear Waves (John Wiley &
+linear characteristics and corrections of near-field underwater Sons, Inc., Hoboken, NJ, USA, 1999).
+explosion shock waves,” Physics of Fluids 34, 046108 (2022). 225]. T. Blackstock, “Connection between the Fay and Fubini Solu-
+212 A. Prosperetti and A. Lezzi, “Bubble dynamics in a compressible tions for Plane Sound Waves of Finite Amplitude,” The Journal
+liquid. Part 1. First-order theory,” Journal of Fluid Mechanics of the Acoustical Society of America 39, 1019-1026 (1966).
+168, 457-478 (1986). 226\. Lauterborn, T. Kurz, and I. Akhatov, “Nonlinear Acoustics
+213 A. Lezzi and A. Prosperetti, “Bubble dynamics in a compressible in Fluids,” in Springer Handbook of Acoustics, edited by T. D.
+liquid. Part 2. Second-order theory,” Journal of Fluid Mechanics Rossing (Springer New York, New York, NY, 2007) pp. 257-297.
+185, 289-321 (1987). 2271,. Rayleigh, “On the pressure developed in a liquid during the
+2147 B. Benjamin, “Pressure waves from collapsing cavities,” in collapse of a spherical cavity,” Philosophical Magazine 34, 94-98
+Second Symposium on Naval Hydrodynamics: Hydrodynamic (1917).
+Noise, Cavity Flow, edited by R. Cooper (National Academy of 2283. ter Haar, “Ultrasonic imaging: Safety considerations,” Inter-
+Sciences—National Research Council, 1958). face Focus 1, 686-697 (2011).
+2153 B. Keller and M. Miksis, “Bubble oscillations of large am- 229Y. Fan, H. Li, and D. Fuster, “Time-delayed interactions on
+plitude,” The Journal of the Acoustical Society of America 68, acoustically driven bubbly screens,” The Journal of the Acous-
+J 028 633 (1980). | | | tical Society of America 150, 4219-4231 (2021).
+X. Wang, X. Zhang, 5. Li, C. Zhang, Y. Zhang, Q. Jiang, J. Li, 230. Fu, X.-X. Liang, S. Wang, S. Wang, P. Wang, Z. Zhang,
+S. Zheng, and Y. Zhang, “Primary resonance characteristics of J. Wang, A. Vogel, and C. Yao, “Laser induced spherical bub-
+a cylindrical bubble based on the multi-scale method,” Physics ble dynamics in partially confined geometry with acoustic feed-
+of Fluids 36, 023333 (2024). back from container walls,” Ultrasonics Sonochemistry , 106664
+2173. Dormand and P. Prince, “A family of embedded Runge-Kutta (2023).
+formulae,” Journal of Computational and Applied Mathematics
+6, 19-26 (1980).
+218R. D. Fay, “Plane sound waves of finite amplitude,” The Journal
+of the Acoustical Society of America 3, 222-241 (1931).

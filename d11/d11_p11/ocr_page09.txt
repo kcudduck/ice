@@ -1,0 +1,60 @@
+25 tute the key phenomenon of the problem, it is interesting
+to sketch the contour lines of the acoustic field phase (¢ in
+2 Eq. (3). For a traveling wave these lines are orthogonal
+15 to the direction of propagation and constitute therefore a
+| P*| mee powerful visual tool to assess the latter. The result is dis-
+1 I | played in Fig. (white lines). It can be seen that, while
+0.5 LTO the wave mainly propagates along the z-direction inside
+- the cone, it bends into an oblique direction near the cone
+0 boundary, targeting at a point located on the symmetry
+0 0.02 0.04 0.06 axis (S-streamers are recalled in black). We emphasize
+r (m) that the emission of an oblique wave from the sonotrode
+corner was found to occur in all our simulations, whatever
+Figure 10: Radial pressure profiles at z = 0 m (thick solid line), z = the sizes of the sonotrode and the liquid domain, and the
+—0.01 m(dashed line), z = —0.02 m (dash-dotted line), z = —0.04 m type of the bottom liquid boundary. More importantly,
+(thin solid line). we found that the same phenomenon occurs whenever the
+deformation of the sonotrode was accounted for or not,
+ever that streamers starting at a larger distance from the ~~ Which rules out any effect of a non uniform displacement
+cone (see magenta lines in Fig.[IT) start upwards, whereas ~~ ©f the sonotrode tip.
+such streamers on the experimental picture seems to start oo
+downwards. The experimental image also suggests that K/ P* 5
+some streamers starting from points far from the cone (say, 0.02 E
+near r = 0.06 m, z = —0.07 m) seem to be attracted by » 1.8
+points located outside the picture, and this feature is not | RE RRRURUUIUUNOU—
+. . ERREEERERERRR ERC 1.6
+caught by our simulation. SEA 1 a —
+1 = 1.4
+0.02 li N—
+0.03 - == 7.2 1.2
+Fr 3 HE -0.04 mon f =——\
+oh. NIRS : 3 =— "
+Boe yam EARL " AEN 006 / <3 N
+eT } =) »
+rt ON We = CC — N
+weching AMEHE SEN 8 (—
+SUE AN ~ — 0-2
+ani. 728
+0.06 [HEISEI 01 © 005 0.1 °
+PRAIA =
+Ty 1. LW fare BS. a
+ry Wi 1 bl N ~ Figure 12: Color plot of the acoustic pressure field in the liquid.
+009+. \ B. a | The white lines are the contour lines of the phase ¢ of the acoustic
+: oa | pressure field (see Eq. (3). The S-streamers are recalled by the black
+| x: h lines.
+-0.06 -0.03 0 0.03 0.06
+We therefore infer that the slanting of the wave prop-
+Figure 11: Same as Fig.[7b, sketching additional streamers originat- agation direction is definitely linked to the presence of
+ing from arbitrary points points below the Blake threshold (green strongly driven bubbles near the vibrating area. These
+and magenta lines). bubbles dissipate a lot of energy, rendering the square
+of the local wave number almost purely imaginary. But
+The interpretation of the cone structure as the result the acoustic field near the outer points of the sonotrode is
+of the combination of a longitudinal traveling wave and a weaker, because this region is less constrained laterally (see
+lateral standing wave proposed in Ref. 14] is therefore con- pressure profile in thick solid line in Fig.[10). Therefore, as
+firmed by the present model. However, the above analysis oyidenced in [OL I] (see Fig. 4 in the latter reference), the
+does not tell much about how such an acoustic field P= real part of k is higher in the central part of the sonotrode
+pears. Since cone bubble structure are very robust against than in its outer part, and the opposite holds for the sound
+amplitude, sonotrode size (see discussion in Ref. 15]), and velocity w/R(k), which is confirmed by Fig. There ap-
+even appear near the walls of ultrasonic baths (see Ref. 1], pears therefore an outward gradient of sound speed along
+and next section), there must be some generic mechanism the sonotrode area, which, following Huygens principle,
+responsible of its formation. Since traveling waves consti- bends the wave number towards the axis, and produces
+9

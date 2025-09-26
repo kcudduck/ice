@@ -1,0 +1,51 @@
+Captions for movies
+-
+@\
+
+SS Movie 1: The asymmetric collapse of spherical cap bubble with initial contact
+== angle of 120 degrees, Re = 5000 and We = 1000 Left: A rendered video of
+- interface. Right: The inverted RdBu colour map of non dimensional velocity
+— magnitude |u|/U,. € (0,1) with blue = 0 and red = 1, and the interface is rep-
+— resented with black curve.
+
+- Movie 2: The asymmetric collapse of spherical cap bubble with initial contact
+
+Pa angle of 75 degrees, Re = 5000 and We = 1000 Left: A rendered video of
+oO interface. Right: The inverted RdBu colour map of non dimensional velocity
+
+= magnitude |u|/U. € (0,1) with blue = 0 and red = 1, and the interface is rep-
+Co resented with black curve.
+
+7s Movie 3: The experiment of flat bubble collapse with ink to visualise vortex
+OQ formation and its evolution where it travels to long distances in direction op-
+
+Jp posite to wall and eventually interacts with free-surface leading to long range
+
+> effects.
+=
+
+oO,
+
+—
+—
+
+>
+~~
+\O
+Uv)
+
+Ye
+<
+N—
+-
+<3
+»
+
+>
+<
+
+Pt
+
+S
+
+1

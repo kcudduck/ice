@@ -1,0 +1,44 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+Bubble puzzles: From fundamentals to applications
+Detlef Lohse!'?
+
+L Physics of Fluids Group, Max-Planck Center for Complex Fluid Dynamics,
+
+MESA + Research Institute and J.M. Burgers Centre for Fluid Dynamics,
+
+Unwersity of Twente, P.O. Box 217, 7500 AE Enschede, The Netherlands.
+
+2Maz Planck Institute for Dynamics and Self-Organization,
+Am Fassberg 17, 37077 Gottingen, Germany
+- (Dated: January 6, 2020)
+Q For centuries, bubbles have fascinated artists, engineers, and scientists alike. In
+@\ spite of century-long research on them, new and often surprising bubble phenomena,
+= features, and applications keep popping up. In this paper I sketch my personal
+py scientific bubble journey, starting with single bubble sonoluminescence, continuing
+cn with sound emission and scattering of bubbles, cavitation, snapping shrimp, impact
+— events, air entrainment, surface micro- and nanobubbles, and finally coming to ef-
+Ss fective force models for bubbles and dispersed bubbly two-phase flow. In particular,
+® I also cover various applications of bubbles, namely in ultrasound diagnostics, drug
+~ and gene delivery, piezo-acoustic inkjet printing, immersion lithography, sonochem-
+T- istry, electrolysis, catalysis, acoustic marine geophysical survey, and bubble drag
+Tp reduction for naval vessels, and show how these applications crossed my way. 1
+9 also try to show that good and interesting fundamental science and relevant appli-
+2 cations are not a contradiction, but mutually stimulate each other in both directions.
+=
+= DOI: 10.1103 /PhysRevFluids.3.110504
+Yo
+>
+oO
+<I
+oO
+-
+<
+—
+-
+-
+a
+>
+><
+Ye
+au!
+1 1

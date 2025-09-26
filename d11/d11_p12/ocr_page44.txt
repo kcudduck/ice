@@ -1,0 +1,67 @@
+Chemical Engineering Journal, vol. 170, no. 1, pp. 333-337, May 2011, doi:
+10.1016/j.cej.2011.03.076.
+
+[361] J. P. Lorimer and T. J. Mason, “Sonochemistry. Part 1—The physical aspects,” Chem. Soc. Rev., vol.
+16, no. 0, pp. 239-274, 1987, doi: 10.1039/CS9871600239.
+
+[362] C. U. Okoli et al., “Solvent effect in sonochemical synthesis of metal-alloy nanoparticles for use as
+electrocatalysts,” Ultrasonics Sonochemistry, vol. 41, pp. 427-434, Mar. 2018, doi:
+10.1016/j.ultsonch.2017.09.049.
+
+[363] K.S. Suslick, J. J. Gawienowski, P. F. Schubert, and H. H. Wang, “Alkane sonochemistry,” J. Phys.
+Chem., vol. 87, no. 13, pp. 2299-2301, Jun. 1983, doi: 10.1021/j100236a013.
+
+[364] Y. Chen et al., “Solvent-dependent ultrasonic surface treatment on morphological reconstruction
+of CuO particles for copper electrodeposition,” Applied Surface Science, vol. 491, pp. 206-215,
+Oct. 2019, doi: 10.1016/j.apsusc.2019.06.117.
+
+[365] S. R. Ghanta and K. Muralidharan, “Solution phase chemical synthesis of nano aluminium
+particles stabilized in poly(vinylpyrrolidone) and poly(methylmethacrylate) matrices,” Nanoscale,
+vol. 2, no. 6, pp. 976-980, Jun. 2010, doi: 10.1039/B9NR0O0337A.
+
+[366] J. A. Haber and W. E. Buhro, “Kinetic Instability of Nanocrystalline Aluminum Prepared by
+Chemical Synthesis; Facile Room-Temperature Grain Growth,” J. Am. Chem. Soc., vol. 120, no. 42,
+pp. 10847-10855, Oct. 1998, doi: 10.1021/ja981972y.
+
+[367] T. Watanabe, K. Koyasu, and T. Tsukuda, “Density Functional Theory Study on Stabilization of the
+Al13 Superatom by Poly(vinylpyrrolidone),” J. Phys. Chem. C, vol. 119, no. 20, pp. 10904-10909,
+May 2015, doi: 10.1021/jp5107718.
+
+[368] D. A. Yatsenko and T. B. Medvedeva, “Estimating Crystality Index of Microcrystalline Cellulose
+Using Diffraction Methods,” J Struct Chem, vol. 60, no. 9, pp. 1430-1436, Sep. 2019, doi:
+10.1134/50022476619090075.
+
+[369] D. Farlay, G. Panczer, C. Rey, P. Delmas, and G. Boivin, “Mineral maturity and crystallinity index
+are distinct characteristics of bone mineral,” J Bone Miner Metab, vol. 28, no. 4, pp. 433-445, Jul.
+2010, doi: 10.1007/s00774-009-0146-7.
+
+[370] L. Katz, “X-ray diffraction in crystals, imperfect crystals, and amorphous bodies (Guinier, A.),” J.
+Chem. Educ., vol. 41, no. 5, p. 292, May 1964, doi: 10.1021/ed041p292.2.
+
+[371] J.S. O. Evans, “Advanced Input Files & Parametric Quantitative Analysis Using Topas,” MSF, vol.
+651, pp. 1-9, May 2010, doi: 10.4028/www.scientific.net/MSF.651.1.
+
+[372] L. Lutterotti, H. Pilliere, C. Fontugne, P. Boullay, and D. Chateigner, “Full-profile search—match by
+the Rietveld method,” J Appl Cryst, vol. 52, no. 3, pp. 587-598, Jun. 2019, doi:
+10.1107/S160057671900342X.
+
+[373] M. Tamer, “Quantitative Phase Analysis Based on Rietveld Structure Refinement for Carbonate
+Rocks,” vol. 2013, Aug. 2013, doi: 10.4236/jmp.2013.48154.
+
+[374] R. W. Cheary, A. A. Coelho, and J. P. Cline, “Fundamental Parameters Line Profile Fitting in
+Laboratory Diffractometers,” J Res Natl Inst Stand Technol, vol. 109, no. 1, pp. 1-25, Feb. 2004,
+doi: 10.6028/jres.109.002.
+
+[375] S. Shabana et al., “Improved synthesis of aluminium nanoparticles using ultrasound assisted
+approach and subsequent dispersion studies in di-octyl adipate,” Ultrasonics Sonochemistry, vol.
+36, pp. 59-69, May 2017, doi: 10.1016/j.ultsonch.2016.11.020.
+
+[376] M. Haneef, K. Yagoob, M. Adeel Umer, and Z. Hussain, “A novel strategy for synthesis of Al
+powder comprising of Al nanoflakes via ultrasonication of Al foil,” Ultrasonics Sonochemistry, vol.
+61, p. 104838, Mar. 2020, doi: 10.1016/j.ultsonch.2019.104838.
+
+[377] X. Qian, J. Yin, S. Feng, S. Liu, and Z. Zhu, “Preparation and characterization of
+polyvinylpyrrolidone films containing silver sulfide nanoparticles,” J. Mater. Chem., vol. 11, no.
+10, pp. 2504-2506, 2001, doi: 10.1039/b103708k.
+
+44

@@ -1,0 +1,54 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+
+buca (Italy) or Raki (Turkey)): Ouzo consists of alcohol, water and anise oil, which is very
+soluble in alcohol. When served, the ouzo is diluted with water. As a result, the alcohol
+concentration and thus the solubility of the oil decreases: Oil droplets then nucleate and
+crow in the supersaturated solution. This leads to the known milky appearance of the
+ouzo-water mixture. In the presence of a hydrophobic surface, nucleation naturally takes
+place at this surface and surface nanodroplets are formed in complete analogy to the surface
+nanobubbles. With the help of the control techniques of microfluidics, one can study very
+precisely the dependencies of the nucleation process on the control parameters such as flow
+velocity, channel thickness, oil concentration, size and shape of the pinning sites etc. and
+understand them theoretically and quantitatively [148-150].
+
+The technological relevance of surface bubbles and droplets and the solvent-exchange
+process can hardly be underestimated. In our review article [121] we have dedicated a whole
+chapter to it; here I restrict myself to some particularly relevant and beautiful examples.
+
+Liquid-liquid extraction — the transfer of a substance from one solvent to another — is
+one of the key processes of chemical technology and analysis. Since the work of Nobel Prize
+winner Fritz Pregl [151], efforts have been made to further miniaturize processes for chemical
+analysis and chromotography. The need to do this has increased in recent years [152]. First,
+it 1s important to be able to demonstrate ever smaller traces of chemical substances, be it in
+a medical context or for environmental reasons. Moreover, this proof must be fast and small
+samples should be sufficient, also to come to a “greener” chemical technology. One way to
+achieve this is single drop microextraction, where a substance A dissolved in water slowly
+dissolves in a drop of an organic solvent with a much higher solubility for A (e.g. carbon
+tetrachloride) held in the water. The drop is then extracted and analyzed. However, this
+process generally takes a long time and the efficiency is low.
+
+These limitations were elegantly overcome with the so-called disperse liquid-liquid mi-
+croextraction (DLLME) technique [153-155] invented just 12 years ago. The technique in-
+volves a third liquid that is miscible with water and with carbon tetrachloride, e.g., ethanol.
+If a mixture of carbon tetrachloride and ethanol is now added to the water containing the
+substance A to be extracted, instantaneously many nano- and microdroplets of carbon tetra-
+chloride nucleate, due to the enhanced water concentrations these molecules experience and
+the resulting lower solubility. With their very large total surface area, these nano- and
+microdroplets are very efficient to extract the substance A. As a final step, the carbon tetra-
+chloride microdroplets are centrifuged off. The highly enriched substance A can then easily
+be detected by conventional methods. So far, DLLME is mostly optimized by trial-and-
+error; however, to achieve further control and progress, from my point of view it is very
+promising to apply the well-controlled methods of microfluidics and fluid dynamics to this
+process [156].
+
+A good understanding and control of the diffusive processes in and around microdroplets
+and microbubbles may even save lives: in open-heart surgery, the blood stream is decoupled
+from the heart and maintained by a heart-lung machine [157] and at the same time the
+blood is cooled down. In the cold blood more air dissolves than when it is warm. However,
+warming up the patient after surgery can be seen as a solvent-exchange process that can
+result in the nucleation of (surface) nano- and microbubbles that may significantly affect
+the blood supply locally. Here, too, it is essential and possibly life-saving to well understand
+bubble nucleation in diffusive processes.
+
+Further examples are electrolysis and catalysis: In both processes, the forming surface
+29 29

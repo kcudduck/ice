@@ -1,0 +1,62 @@
+JULIAN: VOLCANIC TREMOR—NONLINEAR EXCITATION BY FLUID FLOW 11,871
+0
+P1=13.0 MPa |
+-100
+0
+16.0
+0 _100
+2 0 17.5
+DO
+—
+® -100
+—
+a © 18.0
+Q.
+6p
+-100
+0 19.0
+Wl ee
+1 10 100
+Frequency, Hz
+Figure 13. Spectra of the synthetic tremor shown in Figure 12, computed for time series 200 s (10°
+samples) long, using Welch's [1967] method of averaging periodograms applied to 8192—sample windows.
+fundamental period doubles repeatedly to values of about 4, In Figure 14d, the orbits are restricted to a band, which
+8, 16, ... times that of the initial limit cycle (“period four,” has a double loop reminiscent of the loops for the “period
+“period eight,” etc.). The third time series in Figure 12, for two” limit cycle of Figure 14b. The system’s behavior under
+p1 = 17.5 MPa, has undergone two period doublings and is these conditions may be thought of as a “noisy limit cycle.”
+of period four. Note that the peaks (also the troughs) in each In the fifth view, Figure 14e, the bands have broadened until
+of these periodic time series take on only a finite number of they overlap and form a single band, in which, however,
+distinct values, which is the same as the repetition “period.” detailed but complicated structure can still be seen.
+
+The appearance of each new subharmonic requires a The chaotic orbits in Figure 14e are controlled by a
+smaller increase in p;, and as p; approaches a value of about strange attractor of Rossler type |Rossler, 1976]. The orbits
+17.9, the number of subharmonics increases without limit. lie in (and densely cover) a band, which folds over onto itself
+Increasing p; beyond this limit point causes the behavior in the lower left part of the figure. Because of this folding,
+to become aperiodic and chaotic. The fourth and fifth time it is possible for two orbits that are widely separated during
+series in Figure 12 show examples of chaotic behavior. one cycle to be close together in the next cycle. The folding
+
+One of the most important characteristics of chaotic is also responsible for the fact that the oscillations remain
+behavior is exponential growth of small perturbations, which finite in amplitude, despite the exponential divergence of
+causes nearly identical initial conditions to evolve rapidly adjacent orbits. It can be seen that the strange attractor
+into different time histories. This extreme sensitivity to cannot consist of any finite number of sheets, because after
+initial conditions was exhibited in an unexpected way during each folding the number would double. The attractor is a
+the computation of the time series in Figure 12. The fractal object, consisting of an infinite number of sheets.
+fifth time series exhibits a striking run of nearly periodic A useful way to illustrate the fractal structure of the
+oscillations in the interval from about 5 to 6.5 s, whereas attractor is to construct a Poincaré section, which shows
+time series from earlier computer runs do not. The first the points where a finite portion of the orbit crosses a
+10 or so oscillations are visually identical in the two cases, plane in phase space. Figure 15 shows a Poincaré section
+but within 3 or 4 s the time series diverge noticeably. This corresponding to the bottom time series in Figure 12. The
+difference arises because the earlier computations used single particular plane used here is the h—v coordinate plane, on
+(24-bit) precision arithmetic, whereas those for Figure 12 which & = 0. Thus each point gives the values of h and
+used double (53-bit) precision. The resulting introduction wv corresponding to a peak or trough in the time series of
+of “noise” at a level of about one part in 8 million leads h(¢). The folding of the attractor is clearly visible on the
+within a few cycles to differences as large as the oscillation left side of Figure 15a. Enlarged views of portions of the
+amplitude. section (Figures 15b and 15c¢) show smaller-scale folds and
+
+Figure 14 shows stereoscopic views of the orbits in phase illustrate that the attractor consists of an infinite number of
+space corresponding to the time series in Figure 12. The sheets.
+first three views (Figures 14a—14c) correspond to periodic One commonly used measure of the “shape” of an
+oscillations (limit cycles), and each orbit is a simple closed attractor is its fractal dimension. For limit cycles, such as
+curve, with the number of loops equal to the “period.” The those shown in Figures 14a—14c, for example, this dimension
+fourth and fifth views (Figures 14d and 14e) correspond to is one. I have estimated the dimension in the fully chaotic
+chaotic oscillations. regime (Figure 14e) by applying the correlation method

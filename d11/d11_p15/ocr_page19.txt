@@ -1,0 +1,43 @@
+with lots(z) complying with the condition stated in Proposition 4.3. With this we then improve
+estimate (4.25) as follows
+T'—s T T—s
+/ / (27 — b|Vz|?) (h-v)dldt < | Dats)as +f / 10, z|* dl dt
+S I 0 S I'y
+T
+< Cy / Da (5)ds + CrllfIPyormrnig + Crlots(s), (4.27)
+0
+due to (4.26). Finally, we tackle the more involved term. We notice that,
+1T'—s 1T'—s 1
+/ | oa (2)ra = / | o: (1 Vz + 5ediv() dl'dt (4.28)
+S I' S I’
+1T'—s
+< / / O,z (h-Vz)dl'dt + Fy (s), (4.29)
+S I}
+where we have used the fact that the second integral in (4.28) is exactly the one in (4.24) up to an
+uniformly bounded term. For the first integral in (4.28), we use the identity
+O,(h-Vz)=10,z|°(h-v) + 0,20-2(h - 7)
+which is obtained by writing the coordinates of the vector Vz in the basis {7,v}. This allows us to
+write, recalling the damping terms (4.6) and the tangential trace inequality (4.26):
+1T'—s 1T'—s
+/ [o: (h-Vz)dldt < / / 0,20.z(h - 7)
+S I' S I'o
+T
++ Cr [Duts)as + | F115 -1/248(0 + ots (2) (4.30)
+0
+and we now invoke Sobolev Embedding’s Theory. Recall that
+AO, 2 = —koz € H¥?*(T'y) — H (Ty)
+(0; < 3/2) since z € H*(Q) if ¥ is a classic solution. On the other hand,
+0.2 € H'Y2(Ty) — H*®(Ty)
+(09 < 1/2). Taking any 6; = € (0,1/2] and 9, = —6; € [—1/2,0) we have, by duality pairing along
+with continuity of the operator O.|r, : H327°(Q) — H~°(Ly)
+1T'—s 1T'—s
+2 2
+| [ost naradrs | [Clos + lone losy
+: 1T'—s
+3 A EA El
+i 1T'—s 1T'—s
+< c. | 121 571/246 (0 A + - | IV 2] 22 dt
+1T'—s
+Se | IValtadt + Crelleliinmsy (4.31)
+finishing the proof of Lemma 4.4. []
+19

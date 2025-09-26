@@ -1,0 +1,59 @@
+JO - Journal of Organic Chemistry
+pubs.acs.org/joc | Perspective
+(J (J o ® J ® ®
+Organic Sonochemistry: A Chemist's Timely Perspective on
+Mechanisms and Reactivity
+R. Fernando Martinez,™ Giancarlo Cravotto, and Pedro Cintas™
+Cite This: J. Org. Chem. 2021, 86, 13833-13856 G Read Online
+| iil Metrics & More | Article Recommendations |
+PE -
+i= ABSTRACT: Sonochemistry, the use of sound waves, usually |
+S within the ultrasonic range (>20 kHz), to boost or alter chemical Rp  SYepr—
+5 properties and reactivity constitutes a long-standing and = 0
+OS sustainable technique that has, however, received less attention Cavitation ser rE “N\ Apfel's
+= o than other activation protocols despite affordable setups. Even if chemistry « 2 use of sound ) rules
+SEE unnecessary to underline the impact of ultrasound-based strategies ARNG =)
+hl 7 . . . . c : : —— —— Mechanistic
+= z in a broad range of chemical and biological applications, there is oie & i 20-100 kHz ——— investigation
+SZ considerable misunderstanding and pitfalls regarding the inter- gent pATWAYS — AMAL
+- = pretation of cavitational effects and the actual role played by the
+SZ acoustic field. In this Perspective, with an eye on mechanisms in
+= . particular, we discuss the potentiality of sonochemistry in synthetic
+8 2 organic chemistry through selected examples of past and recent developments. Such examples illustrate specific controlling effects
+= 5 and working rules. Looking back at the past while looking forward to advancing the field, some essentials of sonochemical activation
+2g will be distilled.
+A I
+5 &
+JE
+~ 8 “Alfred L. Loomis, Wall Street banker and scientist, with a solution. This is reminiscent of the renaissance of sonochem-
+of = beautifully equipped research laboratory at his Tuxedo istry in organic synthesis in the early 1980s as narrated by one
+R= Park residence where he cooperates in pure science pioneer, Jean-Louis Luche, who attempted a difhcult Grignard
+=e necromancy with his friend, Professor R. W. Woods, of reaction in a cleaning bath when all else failed. The
+ERE Johns Hopkins University, made public yesterday details of a transformation succeeded and led to new avenues and
+5 E: new form of sorcery, super-audible sounds. strategies in metal activation and improved one-pot Barbier-
+kE 7 The New York American (1927)" type reactions that bypassed tedious and hazardous organo-
+zg HB INTRODUCTION AND MOTIVATION metallic reactions.” Readers are referred to recent books and
+air} reviews that address the multiple applications of ultrasonics
+2 Nearly one century after the seminal discovery by Loomis and and sonochemistry and provide sufficient knowledge for
+E associates of chemical, physical, and physiological effects further research.””’ Previous textbook-like monographs,
+2 induced by ultrasonic frequencies, Sonochemistry has pecome suitable for beginners and practitioners alike, deal with key
+a lo an Co ce tec on to reconsiaer concepts and useful tips while illustrating the broad
+sustaina © chcinica syntheses in line with t © ever-increasing applicability of ultrasonic waves.” In fact, sonochemistry
+impact of environmental concerns. Sonochemistry has moved owes credit to some pioneers who paved the way to the
+from a specialized field to inter- and multidisciplinary domains current state of the art, both demystifying the technique and
+Abo from nanotechno ogy to org de ivery, among otners showing the fundamentals embedded in acoustics along with
+oug © use of UItrasonic ac vd ton nas ong been working rules. To name a few who influenced our approach to
+brought into the mainstream of organic synthesis, modern organic sonochemistry, but by no means excluding others:
+synthetic challenges such as selective functionalization, stereo-
+RRS Jean-Louis Luche, Ken Suslick, Tim Mason, Arnim Henglein,
+chemical control, or mechanistic interpretations still represent Peter Riesz, Takashi Ando, Oleg Abramov, and Jacques Reisse
+unsolved and/or open questions. ’ » ES ’ 1
+Compared to other enabling techniques, namely photo- EE
+chemistry, electrochemistry, and microwave chemistry, for Special Issue: Enabling Techniques for Organic Syn- JOC.
+which some variables are known and should be adjusted; thesis =
+sonochemistry is often viewed as a black art, where it is less Received: April 7, 2021 = A
+easy to predict what you are going to get. Ways of thinking Published: June 22, 2021 =
+with this technique lie invariably in cavitation (vide infra), =
+which is complex enough to model or interpret all effects in
+. . i i i https://doi.org/10.1021/acs.joc.1c00805
+<r ACS Publ ications © 2021 American Chemical Society 13833 Fits Spore 2021. 86 esa 13800

@@ -1,0 +1,98 @@
+non-symmetric, and to ensure a maximal objectivity in the First, it is seen that the global shape of the cone is
+
+comparison, we present our result compared both to the correctly reproduced. The acoustic pressure on the axial
+
+left part of the cone (Fig.[7Th) and to its mirrored right part ~~ point of the emitter is 2.16 bar. Cavitation occurring near
+
+(Fig. [7b). Besides, the original picture has been video- the sonotrode dissipates a lot of energy, which produces
+
+reversed in order to obtain black bubble paths on a white a strong attenuation and therefore a large traveling wave
+
+background. We emphasize that this was the only image contribution in the vertical direction. Bubbles originating
+treatment performed. The Blake threshold contour curve from the transducer (black lines in Fig. are therefore
+is displayed in thick solid red line. The S-streamers, orig- strongly expelled from the sonotrode surface, the mecha-
+inating from the transducer, are displayed in black, while nism being the same as the one explained above for 1D
+
+the L-streamers, originating from arbitrary points on the waves (see Fig. [4).
+
+Blake threshold contour line are displayed in blue. A more detailed analysis of the vertical component of
+the Bjerknes force can be made by referring to the z-
+projection of Eq. (11). The green line in Fig. [8] represents
+
+003; (3) | \ the standing wave contribution I cos |¢(r) — 1. (r)] as a
+z : function of the distance to the sonotrode (the latter be-
+| / ing located on the right of the graph), the red line is the
+
+0 TT iE [= traveling wave contribution Ig sin [¢(r) — ,(r)|, and the
+A sak JP” blue line is the sum of the two latter. The sign of the
+fd MS 4 blue line represents therefore the sign of the z-component
+
+-0.03 | :| ; X : - / of Fg, which, if negative, corresponds to a downward ori-
+
+i Tm | ented force. It can be seen that near the sonotrode, the
+
+Iii] h i in vertical Bjerknes force is dominated by the strong repul-
+
+0086 J! / sive traveling wave contribution, as was the case for the
+A i a 1D simulation, which is clearly due to the strong attenu-
+
+Fd | ation of the wave near the sonotrode. It can be noticed
+
+0.09 CP A 4 by the way that the standing wave contribution is repul-
+: = sive only in a small layer near the sonotrode because the
+
+ia  ) acoustic pressure is larger than the threshold 1.7 bar in
+
+-0.06 -0.03 0 0.03 0.06 this zone. Then, slightly before z = —0.01 m, the positive
+standing wave contribution cancels exactly the traveling
+
+003: (b) wave one, and becomes dominant, so that the Bjerknes
+
+a : force becomes positive. This means that, as far as only
+
+Nn 7 the z-component of the Bjerknes force is concerned, there
+
+0 A Yi | Bh is a stagnation point for bubbles near z = —0.01 m. In fact
+CS RARRAA ! Ns as will be seen below, this point is a saddle-point since the
+
+| He 3 h \ la axis 1s repulsive in the radial direction at this point, so
+
+003 B&B fit A NY J that the bubbles expelled from the sonotrode brake here
+
+| PRs a INE in the z-direction and follow their motion radially, which
+LE NE N- os explains the formation of the void region in the core of the
+
+; HAREM A cone. Near z = —0.02 m, the standing wave contribution
+
+-0.06 ? biti dad 2 7, changes sign again, so that the force becomes downwards
+Te J oe " f and dominated by the traveling wave again. Drawing the
+
+AY SEA dc. same curves for larger distances from the sonotrode would
+
+0.091 y TVA show that this is the case up to another sign-change of the
+
+ha ) hn standing wave contribution, near z = —0.155 m, which
+008  -003 Bed OBE constitutes a real stagnation point since there, the radial
+force is oriented towards the axis. Contrarily to earlier in-
+
+Figure 7: Comparison between the experimental picture of Fig. [6] terpretations 1, 14], the present results suggest that the
+
+(the image of Ref 15] has been video reversed in order to make the tip of the cone (near z = —0.07 m) 1s not a stagnation
+
+comparison easier) and the numerical results obtained for 2 pm air point, and that the real one is located well below, so that
+
+bubbles, with Ug = 1.4 um, Ng = 360 bubbles. mm™°. The input :
+
+intensity is 8.2 W.cm~2. The black lines are the S-streamers, the the bubbles follow closely the axis up to the latter on an
+
+blue lines are the L-streamers, and the thick solid red line is the appreciable distance. This is consistent, at least qualita-
+
+Blake threshold contour curve (|P*| = 1.178 for 2 um bubbles). (a) tively, with the original picture of the cone Fig. (6) which
+
+comparison with the left part of Fig. [6]; (b) comparison with the op, wo that the cone ends into a long fluctuating tail.
+
+mirrored right part of Fig.[6] The horizontal and vertical lines in the :
+liquid just mark the separation between various subdomains and do We now look at the behavior in the radial direction.
+not have any physical meaning. Figure [9] displays sin” 6,., where 6, = ¢(r) — 1,.(r) is the
+phase shift between p and Op/0r. It can be seen that a
+7

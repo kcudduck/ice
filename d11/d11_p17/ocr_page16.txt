@@ -1,0 +1,32 @@
+elimination: the carbon dioxide loss from adduct Il generate 3-oxoglutaric acid as by-
+product from citric acid. Homolysis: homolytic cleavage of solvent generates local
+accumulation of high-energy species such as hydroxyl and hydrogen radicals capable of
+react in the periphery of implossing cavitatory bubbles.
+The final reduction stage poses at least three possibilities: According to Ojea-
+Jiménez and coworkers [60], 3-OGA induces the fast [3-OGA-Au+] complex
+formation that promotes the stability of precursor by disproportionation of aurous
+species. It is well-known the ultrasonic energy promotes chemical reactions by
+pyrolysis (thermal dissociation) water molecules and forms «OH and <H highly
+reactive free radicals [61].
+Another arrangement adequate to disproportion reaction, with no need for 3-OGA
+Intervention, is based on the intensity of aurophilic interactions between gold atoms
+and/or gold (I) ions with energies comparable to strong hydrogen bonds [59]. We
+consider the formation of small clusters of mixed metal-ion gold, as has been
+demonstrated for silver species [63], as understood, 3-OGA Is capable of
+decomposing In the presence of transition metals [64] through a SET mechanism
+Involving the reduction of gold (I) to a gold atom, with the formation of a radical
+Intermediate, once again.
+During the disproportionation process, a complex tetrachloroaurate is recycled for
+the two-electron reduction by citrate. The equilibrium is driven by the departure of
+gold from the system to form clusters, which eventually yields seeds for NPs
+growth [65, 66]. These perform the catalyst role for deposition of newly formed gold
+atoms because of reaction proceeds faster in the presence of gold surfaces, as a
+seed-mediated growth mechanism [11]. In this case, no further seed formation was
+observed In the SPR and the initial settled kinetic control became thermodynamic.
+A second reduction mechanism is proposed based on the range of hydrogen
+produced in the reaction medium. At working pH values of 3.3 (initially) and up to
+5.2 after the reaction, the formation of reductants hydrated electrons [67] In this
+solution Is not feasible. Thus, we conclude that hydrogen is the main reducer in a
+mechanism single electron transfer SET. The reduction potential was —2.3 V. It
+
+16

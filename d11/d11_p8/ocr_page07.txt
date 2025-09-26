@@ -1,0 +1,26 @@
+Sonoluminescence and sonochemiluminescence from a microreactor 7
+Power Low 0.5 mm High
+Figure 3: Top view of the visible bubble streamers for the different scenarios studied.
+See Supporting videos
+exposure times required to obtain images like the ones presented in Figure |5| made it
+very difficult to cover the same experimental conditions as for the rest of this work.
+
+Nevertheless, these results allow us to conclude that the SL signal detected with the
+PMT was primarily due to light emission from the bubbles ejected from the micropits
+and not from random cavitation events in the bulk liquid.
+
+3.2. Aqueous propanol solution
+The visible bubble pattern for aqueous propanol solutions had no evident change when
+compared to water; however, as presented in Figure[2] spikes present in the water emission
+profile are not as frequent in propanol solutions and the spike height is on average lower.
+The average intensities for propanol solutions are presented in Figure [6]
+
+Propanol can cause two effects in sonicated liquids: by adsorbing to the bubble solution
+interface it hinders bubble coalescence. And due to its volatile nature, it evaporates into
+the bubble and lowers the polytropic exponent, resulting in less heating inside the bubble
+(Toegel et al., 2002). These two effects can affect the SL in two ways. The hindrance
+to bubble coalescence has been shown to increase the number of transient cavitation
+bubbles (Price et al., 2004). The volatile nature leads to significant SL quenching in stable
+cavitation bubbles (Guan & Matula, 2003). However, both processes need sufficient time
+for the propanol to accumulate at the bubble interface. Here, under the conditions of
+transient cavitation this time is not given. The observation that the average SL intensity

@@ -1,0 +1,34 @@
+follows: for ¢ € L*(T";), let 9 := N(y), be the unique solution of the elliptic problem
+AY = 0 in €)
+OY — ©lr, on I (2.4)
+0, + Kol = on Ig.
+From elliptic theory, it follows that that N € L(H*(T';), H**3/2(Q)) (s € R) and
+on [|
+N*A¢ = S : (2.5)
+0 on Io,
+for all £ € D(A), where N* represents the adjoint of N when it is considered as an operator from
+L*(T') to L*(2) [31].
+Thus, the u—problem can be written (via duality on [D(A)]") as
+TU + OU T+ c? Au + bAu, + c*AN (ki N* Au) + DAN (ki N™ Aug) — u? + Uy (2.6)
+where we have taken k = 1/2 without any loss of generality.
+Next, we introduce the operator A: D(A) C H — H with the action:
+6] | © I 0 | Te
+Ale =1] 0 ! &2 (2.7)
+c c b b o
+& ——A —— AN (ki N*A) — —-A ——AN (rk N*A) — —1| |&3
+T T T T T
+and domain (with &€ = (£1, &, &)T
+D(A) = {€c H; & €D (AY), & + N(kiN* Ay) € D(A), for i = 1, 21
+= 2
+= {€e [H0)]" x HQ); [0,6 + rofaly, = [Ou + kool, = 0
+0,&4 + r182lp, — 0,5 + 183), — 0} (2.8)
+where the second characterization follows from elliptic regularity. This gives
+D(A) C H*(Q) x H*(Q) x H(Q)
+with a proper, but not dense injection.
+The first order abstract version of the u—problem is thus given by
+do, = AD + F(D
+®(0) = 0p = (uo, ur, uz)
+in the variable ® = (u,u;, uy) with A defined in (2.7) and F(®)' = (0,0, 77 (u? + wuy)).
+In order to treat nonlinear problem one needs to consider “smoother” solutions than generated
+by the topology of H. This leads ton the following construction of the second phase space denoted
+5

@@ -1,0 +1,52 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+
+~~
+
+AVAVAVAVA I
+
+i. |= I i i? 0
+
+2 of | wif ie 0
+
+SM ni Stn atin wiedl  SRL IRL
+0 40 80 120 160 200 0 ED EE
+TIME (microseconds) 0 1 2
+
+(2) (b) vT,
+
+FIG. 2. (a) Acoustic driving pressure P(t) (in red), resulting bubble radius R(t) (in green), and
+light intensity I(t) (in blue), as measured by [11]. A negative driving pressure causes the bubble to
+expand; when the driving pressure changes sign, the bubble collapses, resulting in a short pulse of
+light (marked SL). The figure is taken from ref. [8]. (b) Solutions to the Rayleigh—Plesset equation
+(1) with a sinusoidal driving P(t) = P,sin(wt) at forcing pressures P, = 1.0,1.1,1.2,1.3 atm. The
+ambient bubble radius is Rg = 2um and the frequency f = w/ (27) = 26.5 kHz. Material parameters
+are for water at room temperature.
+
+survive the collapse, but at the same time would still collapse strongly enough so that the
+gas inside the bubble would be considerably heated [18]. Both a parametric instability and
+the Rayleigh-Taylor instability turned out to be relevant [15, 18, 19].
+
+Another necessary condition for stable single bubble sonoluminescence is the diffusive
+stability of the bubble. Also the diffusive bubble stability had been analysed before, namely
+in the seminal work by Epstein and Plesset [20], later extended by Fyrillas and Szeri [21] to
+oscillating bubbles, for which rectified diffusion [22-24] can occur: For large pressure, the
+bubble loses gas to the outside liquid, but during the low pressure period, it can gain gas
+from outside. For very strong driving the growth can win, mainly due to the thin boundary
+layer during that time but also due to the much larger bubble size. Applying these ideas
+to the regime of sonoluminescing bubbles could account for the experimentally observed
+diffusively stable single bubble sonoluminescence [25], and combining the conditions of shape
+stability, diffusive stability, and energy focusing led to the phase diagram of sonoluminescing
+bubbles [19], which for pure argon bubbles was in good agreement with the experimental
+observations.
+
+However, air bubbles were found to be stable for 100 times larger gas saturation than
+pure argon bubbles, see figure 3. The reason for this turned out to be the chemical stability
+of the gas inside the bubble [26]: The bubble is collapsing so strongly that the gas inside
+is nearly adiabatically compressed. This means that the collapse of the bubble is so violent
+that no thermal equilibrium with the surrounding water can be established: The bubble is
+heating up, to about 15000 K, as we now know both theoretically [27] and experimentally
+28]. For molecular gases such as O, or Ny this is much too hot and they dissociate: The
+resulting radicals react with each other and with the dissociation products of water vapor.
+NO, NH, etc. are formed, which dissolve in water. Therefore it is mainly argon that remains
+in the bubble, which is contained in air with a concentration of about 1%, explaining the
+5 5

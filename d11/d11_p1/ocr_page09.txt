@@ -1,0 +1,82 @@
+A prediction for the force factor fi, can be made by enhance the future simulations of bubble clusters. Ob-
+combining the two ML models obtained in Section [4] In viously, the model can be further refined and expanded,
+this section the predictions f5 made this way are com- by, e.g., using a larger dataset covering a wider range of
+pared with the true predictions fis found from solving parameters. Machine learning clearly 1s equally applica-
+Egs. and 6] 1024 samples for (D, Rg, Rea, pa, w)! ble when a more sophisticate physical model 1s used to
+are randomly chosen, with each component falling in the describe bubble oscillations, although it 1s not obvious
+range covered by the dataset used to train the ML models. that the currently chosen architectures are still sufficient
+Note that the samples are not necessarily in the dataset. when the dataset grows larger. These interesting topics
+Excluding the samples where Rg; < Rp, 640 samples will be explored in our future investigations.
+
+° ° IA
+are used for this test, and 640 pairs of values (f/,, f{5)
+are obtained.
+Lo. 7. Acknowledgement
+
+Excellent correlation is found between f{, and f},, 5
+with the correlation coeflicient being 0.98. The scatter The authors gratefully acknowledge the support pro-
+plot for the data 1s shown in Fig. [10} The figure confirms 4c by the Guangzhou Science (Technology) Research
+the good correlation while, in the meantime, shows that Project (Project No. 201704030010) and the special fund
+the difference tends to increase when the magnitude of 5 iect of science and technology innovation strategy of
+the force increases. ; Guangdong Province.
+
+_ -
+
+| The histo gram for the relative error &r = f= fal,
+is shown in Fig. [11| The error distribution has a broader
+spread than those in Fig. ol 1.e., those for the training References
+data and the testing data. This behaviour 1S not unex- "11 Ahmed. D.. Lu. M.. Nourhani, A.. Lammert, P. E.. Stratton.
+pected as the ML models are being applied 0 a new Z., Muddana, H. S., Crespi, V. H., Huang, T. J., 2015. Selec-
+dataset here. Nevertheless, more than 45% samples have tively manipulable acoustic-powered microswimmers. Scientific
+less than 20% errors, and for more than 75% samples - poports > oa Lin CoS. 1090. Dnamics of tw
+
+. . arbat, 1., Ashgriz, \\N., Liu, C.-5., . Dynamics of two 1nter-
+the error is less than 40%. Therefore, the results are still acting bubbles in an acoustic field. J. Fluid Mech. 389, 137-168.
+quite satistactory. Obviously, the performance of the ML [3] Bermudez-Aguirre, D., Mobbs, T., Barbosa-Canovas, G. V.,
+models can be improved if the training data set can be ex- 2011. Ultrasound applications in food processing. In: Feng, H.,
+panded and refined. parbosar -novas, > V., Weiss, i (Eds.), Jitrasound Technolo-
+
+: : gies for food and Bioprocessing. Springer, p. 63.
+
+Finally, the ML models are extremely efficient com- [4] Brennen, C. E., 1995. Cavitation and bubble dynamics. Oxford
+pared with direct numerical integration. It takes about University Press.
+one hour to obtain the 640 values for f{,, whereas it takes [5] Brujan, E. A., 2011. Cavitation in Non-Newtonian Fluids.
+less than one second for the ML models to find corre- Springer-Verlag Berlin Heidelberg. |
+
+” [6] Ciaburro, G., 2017. MATLAB for Machine Learning. Packt Pub-
+sponding f5. lishing.
+[7] Cristianini, N., Shawe-Taylor, J., 2014. An introduction to sup-
+port vector machines and other kernel-based learning methods.
+6. Conclusions Cambridge University Press.
+[8] Crum, L. A., 1975. Bjerknes forces on bubbles in a stationary
+
+Machine learning models for the secondary Bjerknes aioe The Journal of the Acoustical Society of America
+force as a function for several parameters have been de- [9] Doinikov, A. A., Zavtrak, S. T., 1995. On the mutual interaction
+veloped 1n a two bubble system. Because the force varies of two gas bubbles in a sound field. Phys. Fluids 7, 1923.
+sign of the force have to be modelled separately, which alloy metals. CRC Press.
+
+g ] TT p Y; [11] Fan, R. E., Chen, P. H., Lin, C. J., 2005. Working set selection
+results in a composite model consisting of a feed-forward using second order information for training support vector ma-
+neural network for (the logarithm of) the former and a chines. Journal of Machine Learning Research 6, 18891918.
+support-vector machine for the latter. [12] Fan, Z., Chen, D., Deng, C. X., 2014. Characterization of the dy-
+
+N cal tests d trate the feasibility of us: namic activities of a population of microbubbles driven by pulsed
+
+umeticd 5 5 (emons ra © the 1easibill y OL using ultrasound exposure 1n sonoporation. Ultrasound in Medicine and
+
+machine learning to tackle this problem. Practical meth- Biology 40, 1260-1272.
+ods for choosing the suitable architecture and hyperpa- [13] Goodfellow, I., Bengio, Y., Courville, A., Bach, F., 2017. Deep
+rameters for the models are proposed. Accurate machine Learning. MIT Press.
+
+del btained. which h b ici [14] Hagan, M. T., Demuth, H. B., Beale, M. H., Jesus, O. D., 2014.
+models arc 0 taine , WILC at C S1 own to e very efficient Neural Network Desgin. Martin Hagan, 2014.
+compared with direct numerical integration of the bubble [15] Haghi, H., Sojahrood, A. J., Kolios, M. C., 2019. Collective non-
+evolution equations. linear behavior of interacting polydisperse microbubble clusters.
+
+SAE Ultrasonics - Sonochemistry 58, 104708.
+
+The results demonstrate that machine learning 15d V1 [16] Harkin, A., Kaper, T. J., Nadim, A., 2001. Coupled pulsation and
+able method in modelling the interactions between bub- translation of two gas bubbles in a liquid. J. Fluid Mech. 445,
+bles. The models developed here have the potential to 377-411.
+
+9

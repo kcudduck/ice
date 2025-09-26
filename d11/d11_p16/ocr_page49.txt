@@ -1,0 +1,69 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+flow, J. Fluid Mech. 336, 221 (1997).
+
+1189] D. Legendre and J. Magnaudet, The lift force on a spherical bubble in a viscous linear shear
+flow, J. Fluid Mech. 368, 81 (1998).
+
+1190] G. Sridhar and J. Katz, Effect of entrained bubbles on the structure of vortex rings, J. Fluid
+Mech. 397, 171 (1999).
+
+1191] I. M. Mazzitelli and D. Lohse, Lagrangian statistics for fluid particles and bubbles in turbu-
+lence, New J. Phys. 6, 203 (2004).
+
+1192] E. Calzavarini, M. Cencini, D. Lohse, and F. Toschi, Quantifying turbulence induced segre-
+gation of inertial particles, Phys. Rev. Lett. 101, 084504 (2008).
+
+1193] P. Oresta, R. Verzicco, D. Lohse, and A. Prosperetti, Heat transfer mechanisms in bubbly
+Rayleigh-Bénard convection, Phys. Rev. E 80, 026304 (2009).
+
+1194] R. Lakkaraju, L. E. Schmidt, P. Oresta, F. Toschi, R. Verzicco, D. Lohse, and A. Prosperetti,
+Effect of vapor bubbles on velocity fluctuations and dissipation rates in bubbly Rayleigh-Bénard
+convection, Phys. Rev. E 84, 036312 (2011).
+
+1195] R. Lakkaraju, R. J. A. M. Stevens, P. Oresta, R. Verzicco, D. Lohse, and A. Prosperetti,
+Heat transport in bubbling turbulent convection, Proc. Nat. Acad. Sci. 110, 9237 (2013).
+
+1196] D. P. M. van Gils, D. Narezo Guzman, C. Sun, and D. Lohse, The importance of bubble
+deformability for strong drag reduction in bubbly turbulent Taylor-Couette flow, J. Fluid
+Mech. 722, 317 (2013).
+
+1197] N. K. Madavan, S. Deutsch, and C. L. Merkle, Reduction of turbulent skin friction by micro-
+bubbles, Phys. Fluids 27, 356 (1984).
+
+1198] N. K. Madavan, S. Deutsch, and C. L. Merkle, Measurements of local skin friction in a
+maicrobubble-modified turbulent boundary layer, J. Fluid Mech. 156, 237 (1985).
+
+1199] Y. Kodama, A. Kakugawa, T. Takahashi, and H. Kawashima, Experimental studies on mi-
+crobubbles and their applicability to ships for skin friction reduction, Int. J. Heat and Fluid
+Flow 21, 582 (2000).
+
+200] S. L. Ceccio, Friction Drag Reduction of External Flows with Bubble and Gas Injection,
+Annu. Rev. Fluid Mech. 42, 183 (2010).
+
+201] Y. Murai, Frictional drag reduction by bubble injection, Exp. Fluids 55, 1773 (2014).
+
+202] I. Kumagai, Y. Takahashi, and Y. Murai, Power-saving device for air bubble generation using
+a hydrofoil to reduce ship drag: Theory, experiments, and application to ships, Ocean Eng.
+95, 183 (2015).
+
+203] M. A. Fardin, C. Perge, and N. Taberlet, “The hydrogen atom of fluid dynamics” - Introduc-
+tion to the Taylor-Couette flow for Soft Matter scientists, Soft Matter 10, 3523 (2014).
+
+204] S. Grossmann, D. Lohse, and C. Sun, High Reynolds number Taylor-Couette turbulence, Ann.
+Rev. Fluid Mech 48, 53 (2016).
+
+205] T. H. van den Berg, S. Luther, D. P. Lathrop, and D. Lohse, Drag reduction in bubbly
+Taylor-Couette turbulence, Phys. Rev. Lett. 94, 044501 (2005).
+
+206] T. H. van den Berg, D. P. M. van Gils, D. P. Lathrop, and D. Lohse, Bubbly turbulent drag
+reduction 1s a boundary layer effect, Phys. Rev. Lett. 98, 084501 (2007).
+
+207] J. C. Lu, A. Fernandez, and G. Tryggvason, Drag reduction in a turbulent channel due to
+bubble injection, Phys. Fluids 17, 095102 (2005).
+
+208] S. Takagi, T. Ogasawara, and Y. Matsumoto, The effects of surfactant on the multiscale
+structure of bubbly flows., Philos. Trans. A. Math. Phys. Eng. Sci. 366, 2117 (2008).
+
+209] S. Takagi and Y. Matsumoto, Surfactant Effects on Bubble Motion and Bubbly Flows, Annu.
+
+49 49

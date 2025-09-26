@@ -1,0 +1,70 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+
+Resolved Fluorescence Microscopy Methods Combined with AFM: The Impact of Surface
+Treatment on Nanobubble Nucleation, Langmuir 32, 11155 (2015).
+
+1126] B. Song, W. Walczyk, and H. Schonherr, Contact Angles of Surface Nanobubbles on Mixed
+Self-Assembled Monolayers with Systematically Varied Macroscopic Wettability by Atomic
+Force Microscopy, Langmuir 27, 8223 (2011).
+
+1127] W. Walczyk and H. Schonherr, Dimensions and the Profile of Surface Nanobubbles: Tip-
+Nanobubble Interactions and Nanobubble Deformation in Atomic Force Microscopy, Lang-
+muir 30, 11955 (2014).
+
+1128] J. H. Weijs, J. H. Snoeijer, and D. Lohse, Surface nanobubbles: formation and universality
+of the contact angle, Phys. Rev. Lett. 108, 104501 (2012).
+
+1129] X. Zhang, D. Y. C. Chan, D. Wang, and N. Maeda, Stability of Interfacial Nanobubbles,
+Langmuir 29, 1017 (2013).
+
+1130] R. G. Picknett and R. Bexon, The evaporation of sessile or pendant drops in still air, J.
+Colloid Interface Sci. 61, 336 (1977).
+
+1131] A. M. Cazabat and G. Guéna, Fvaporation of macroscopic sessile droplets, Soft Matter 6,
+2591 (2010).
+
+1132] J. Joanny and P. de Gennes, A model for contact angle hysteresis, J. Chem. Phys. 81, 552
+(1984).
+
+1133] P. G. de Gennes, Wetting: statics and dynamics, Rev. Mod. Phys. 57, 827 (1985).
+
+1134] D. Lohse and X. Zhang, Pinning and gas oversaturation imply stable single surface nanobub-
+ble, Phys. Rev. E 91, 031003(R) (2015).
+
+1135] Y. O. Popov, Evaporative deposition patterns: Spatial dimensions of the deposit, Phys. Rev.
+E 71, 036313 (2005).
+
+1136] R. D. Deegan, O. Bakajin, T. F. Dupont, G. Huber, S. R. Nagel, and T. A. Witten, Capillary
+flow as the cause of ring stains from dried liquid drops, Nature 389, 827 (1997).
+
+1137] A. G. Marin, H. Gelderblom, D. Lohse, and J. H. Snoeijer, Order-to-disorder transition in
+ring-shaped colloidal stains, Phys. Rev. Lett. 107, 085502 (2011).
+
+1138] X. Zhu, R. Verzicco, X. Zhang, and D. Lohse, Diffusive interaction of multiple surface
+nanobubbles: shrinkage, growth, and coarsening, Soft Matter 14, 2006 (2018).
+
+1139] S. Maheshwari, M. van der Hoef, X. Zhang, and D. Lohse, Stability of Surface Nanobubbles:
+A Molecular Dynamics Study, Langmuir 32, 11116 (2016).
+
+1140] J. H. Weijs and D. Lohse, Why Surface Nanobubbles Live for Hours, Phys. Rev. Lett. 110,
+054501 (2013).
+
+1141] S. Peng, T. L. Mega, and X. Zhang, Collective Effects in Microbubble Growth by Solvent
+Fxchange, Langmuir 32, 11265 (2016).
+
+1142] P. W. Voorhees, The theory of Ostwald ripening, J. Stat. Phys. 38, 231 (1985).
+
+1143] B. Dollet and D. Lohse, Pinning Stabilizes Neighboring Surface Nanobubbles against Ostwald
+Ripening, Langmuir 32, 11335 (2016).
+
+1144] S. Maheshwari, M. van der Hoef, J. Rodriguez Rodriguez, and D. Lohse, Leakiness of Pinned
+Neighboring Surface Nanobubbles Induced by Strong Gas-Surface Interaction, ACS Nano 12,
+2603 (2018).
+
+1145] S. Peng, V. Spandan, R. Verzicco, D. Lohse, and X. H. Zhang, Growth Dynamics of Mi-
+crobubbles on Microcavity Arrays by Solvent Exchange, J. Colloidal & Interface Sci. 532, 103
+(2018).
+
+146] X. H. Zhang, J. M. Ren, H. J. Yang, Y. H. He, J. F. Tan, and G. G. Qiao, From Transient
+
+46 46

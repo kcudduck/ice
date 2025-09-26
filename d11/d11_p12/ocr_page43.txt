@@ -1,0 +1,67 @@
+[343] J.T. Han etal., “Extremely Efficient Liquid Exfoliation and Dispersion of Layered Materials by
+Unusual Acoustic Cavitation,” Scientific Reports, vol. 4, no. 1, pp. 1-7, May 2014, doi:
+10.1038/srep05133.
+
+[344] L. Lu et al., “Few-layer Bismuthene: Sonochemical Exfoliation, Nonlinear Optics and Applications
+for Ultrafast Photonics with Enhanced Stability,” Laser & Photonics Reviews, vol. 12, no. 1, p.
+1700221, Jan. 2018, doi: 10.1002/lpor.201700221.
+
+[345] J. Shen et al., “Liquid Phase Exfoliation of Two-Dimensional Materials by Directly Probing and
+Matching Surface Tension Components,” Nano Lett., vol. 15, no. 8, pp. 5449-5454, Aug. 2015,
+doi: 10.1021/acs.nanolett.5b01842.
+
+[346] H. Tao, Y. Zhang, Y. Gao, Z. Sun, C. Yan, and J. Texter, “Scalable exfoliation and dispersion of two-
+dimensional materials — an update,” Phys. Chem. Chem. Phys., vol. 19, no. 2, pp. 921-960, Jan.
+2017, doi: 10.1039/C6CP06813H.
+
+[347] P. Yasaei et al., “High-Quality Black Phosphorus Atomic Layers by Liquid-Phase Exfoliation,” Adv.
+Mater., vol. 27, no. 11, pp. 1887-1892, Mar. 2015, doi: 10.1002/adma.201405150.
+
+[348] Damien Hanlon, “Liquid Phase Exfoliation of Novel 2D Nanomaterials,” A thesis submitted for the
+degree of Doctor of philosophy in physics, Trinity College Dublin, Ireland, 2016.
+
+[349] S. Nalesso, M. J. Bussemaker, R. P. Sear, M. Hodnett, and J. Lee, “A review on possible
+mechanisms of sonocrystallisation in solution,” Ultrasonics Sonochemistry, vol. 57, pp. 125-138,
+Oct. 2019, doi: 10.1016/j.ultsonch.2019.04.020.
+
+[350] K.S. Suslick, D. J. Casadonte, and S. J. Doktycz, “The effects of ultrasound on nickel and copper
+powders,” Solid State Ionics, vol. 32-33, pp. 444-452, Feb. 1989, doi: 10.1016/0167-
+2738(89)90254-3.
+
+[351] K.S. Suslick, D. J. Casadonte, M. L. H. Green, and M. E. Thompson, “Effects of high intensity
+ultrasound on inorganic solids,” Ultrasonics, vol. 25, no. 1, pp. 56-59, Jan. 1987, doi:
+10.1016/0041-624X(87)90013-8.
+
+[352] K. S. Suslick, D. J. Casadonte, and S. J. Doktycz, “Ultrasonic irradiation of copper powder,” Chem.
+Mater., vol. 1, no. 1, pp. 6-8, Jan. 1989, doi: 10.1021/cm00001a003.
+
+[353] K.S. Suslick and S. J. Doktycz, “The sonochemistry of zinc powder,” J. Am. Chem. Soc., vol. 111,
+no. 6, pp. 2342-2344, Mar. 1989, doi: 10.1021/ja00188a081.
+
+[354] S.J. Doktycz and K. S. Suslick, “Interparticle collisions driven by ultrasound,” Science, vol. 247, no.
+4946, pp. 1067-1069, Mar. 1990, doi: 10.1126/science.2309118.
+
+[355] T. Prozorov, R. Prozorov, and K. S. Suslick, “High Velocity Interparticle Collisions Driven by
+Ultrasound,” J. Am. Chem. Soc., vol. 126, no. 43, pp. 13890-13891, Nov. 2004, doi:
+10.1021/ja0494930.
+
+[356] K. Yasui and K. Kato, “Dipole—Dipole Interaction Model for Oriented Attachment of BaTiO3
+Nanocrystals: A Route to Mesocrystal Formation,” J. Phys. Chem. C, vol. 116, no. 1, pp. 319-324,
+Jan. 2012, doi: 10.1021/jp208848;.
+
+[357] F. Dang, K. Kato, H. Imai, S. Wada, H. Haneda, and M. Kuwabara, “A new effect of ultrasonication
+on the formation of BaTiO3 nanoparticles,” Ultrasonics Sonochemistry, vol. 17, no. 2, pp. 310—-
+314, Feb. 2010, doi: 10.1016/j.ultsonch.2009.08.006.
+
+[358] S.S. Berdonosov, I. V. Melikhov, and I. V. Znamenskaya, “Layered agglomeration of primary
+vaterite nanoparticles during ultrasonic stirring,” Inorg Mater, vol. 41, no. 4, pp. 397-401, Apr.
+2005, doi: 10.1007/s10789-005-0142-9.
+
+[359] C. Tang, L. Liu, Y. Li, and Z. Bian, “Aerosol spray assisted assembly of TiO2 mesocrystals into
+hierarchical hollow microspheres with enhanced photocatalytic performance,” Applied Catalysis
+B: Environmental, vol. 201, pp. 41-47, Feb. 2017, doi: 10.1016/j.apcatb.2016.08.006.
+
+[360] F. Dang, K. Kato, H. Imai, S. Wada, H. Haneda, and M. Kuwabara, “Growth of BaTiO3
+nanoparticles in ethanol-water mixture solvent under an ultrasound-assisted synthesis,”
+
+43

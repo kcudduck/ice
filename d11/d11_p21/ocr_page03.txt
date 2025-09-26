@@ -1,0 +1,76 @@
+REVIEW ARTICLES
+described above. These correspond to the so-called hybrid events encountered to date, both in terms of event magnitudes and
+seen in Fig. 2, which are thought to involve shear faulting on a rate of event production, was that observed during the week
+plane intersecting a fluid-filled crack and thus may contain both preceding the paroxysmal eruption of Mount Pinatubo on 15
+shear and volumetric components. Consequently, there should be June, 1991°~°,
+tremor and/or LP-induced failure cascades in which the percola- It naturally follows that LP activity may also be triggered by
+tion of fluids through fluid-induced fractures associated with depressurization associated with eruptive activity. This has indeed
+magma transport activates a cascade of shear failures™”**, If = been observed at Redoubt®’ and Galeras™. At Kilauea, LP activity
+true, this means that there should be some sets of hybrid events and weak tremor have been observed following eruptive episodes
+blending the characteristics of LP events, tremor and VT earth- at Mauna Ulu in 1969, and are often observed during deflation
+quakes. This is supported by the fact that LP events and tremor in episodes of the Kilauea summit’.
+
+Hawaii volcanoes are clustered within or near clusters of VT Thus, LP events offer a glimpse into fluid dynamics and can be
+earthquakes™. This may well be true also for two-phase ground- extremely useful in assessing the internal state of a volcano. To use
+water systems at high enough pressures to induce shear failures by the forecasting potential of shallow LP events fully, however, one
+hydrofracture, as suggested for the hybrid events observed at must first be able to distinguish their signatures from those of VT
+Redoubt™. earthquakes, a task made difficult by the extreme heterogeneity of
+An interesting aspect of LP seismicity 1s the similarity in the volcanic media.
+signatures of individual events in some swarms, which 1s strongly
+suggestive of the repetitive excitation of a stationary source in a Source modelling
+non-destructive process>**’*°°. Another important clue comes One tool used by volcano seismologists to discriminate between
+from the observed similarities between LP events and tremor. different source types is the comparison of spectral and temporal
+Both have been observed to occur concurrently with the same
+spatial, temporal and spectral characteristics>. Both display
+strongly peaked spectra with dominant frequencies that are
+independent of azimuth and distance to the source". Both
+show correlations between changes in their spectra and changes pe Ni es. | (ARE
+in volcanic activity” ***, and both can display wide variations of |
+spectral amplitude and corresponding small variations in fre- 15 :
+quency during steady activity”. \ LP Hybrid
+The repetitive nature of LP seismicity, together with the ringing 10 |
+characteristics of the LP signature and the close link between LP 5 > |
+events and tremor, all point to a source effect involving some form a Bh Fi bo
+of resonant excitation in a fluid-filled conduit. Tremor and LP 0 pe— | pe SR
+activity are thus different manifestations of the same basic process
+of unsteady mass transport. In this context, the LP event may be
+viewed as the response of the tremor-generating system to a hitler a
+sudden pressure transient, whereas sustained tremor may be
+interpreted as the response of this system to sustained pressure N15 :
+fluctuations. The occurrence of one or the other depends on the ~~ = 4 Shallow VT / Deep VT
+physical parameters of the fluid and flow conditions in effect at the og 10 N &
+time so that the richness of the signatures observed 1s a direct & 5 ’ . \
+consequence of the sensitive dependence of the nonlinear fluid & NP. og | [3 N
+dynamics on these flow parameters. Recent pre-eruptive rT 0 — | m—
+sequences observed at Redoubt*®, Pinatubo™"’/, Galeras™->-" 0 < 40 © 20 40
+and Ito-oki* are examples of this variability of behaviour.
+Put together, these observations suggest the working hypothesis oon aso TE AL nant, | wt em,
+that shallow LP activity, and tremor, are manifestations of pres-
+surization in a magmatic/hydrothermal system. Accordingly, one 15 -
+might expect that a direct link should exist between the strength of 10 bagi}
+LP activity and the potential for explosive activity; in other words, ’
+one might expect LP events to be more likely to develop into an 5
+energetic swarm in explosive systems supporting strong pressur- AAAS im cn
+ization, than in effusive systems for which pressurization is 0 0 20 3 40 60
+obviously weaker. By the same token, one might expect that the Time (s)
+rate of LP production should depend on the rate and magnitude of | |
+pressurization. Thus, a sealed system may support strong pressur- | Ny |
+ization, which may manifest itself in an energetic LP swarm, FIG. 2 Vertical ground velocities and associated spectrograms for typical
+h a 1 stem ma stain little pressurization and LP, VT and hybrid events and tremor observed at Redoubt volcano. Each
+wheteds eaky sy y Sus p : spectrogram is a map of the spectral amplitudes of ground velocity versus
+relatively few LP events. Observations at Redoubt in December frequency and time calculated with a moving 1-s window running through
+1989 and Galeras in January 1993 provide contrasting cases of the entire seismogram shown above the spectrogram. Warm colours (red,
+pressurization in sealed versus leaky systems. Redoubt, whichwas ~~ orange and yellow) define the dominant spectral amplitudes; cooler colours
+capped by a lava dome at the time*>*, is an example of a sealed (dark and light blue) define lower amplitudes and background. The LP and
+system with well developed precursory LP activity. In contrast, hybrid events both occurred in a small source zone 1.4 km below the crater
+Galeras, which had been left with a relatively unobstructed floor of Redoubt. The shallow VT earthquake originated 1.7 km below the
+conduit after the July 1992 explosion’, is an example of leaky crater floor, and the deep VT earthquake originated 8.4 km below the crater
+system with subtle precursory activity. At Redoubt, the pre- oor The tremor displays the same dominant frequency as the LP ana
+: : : ybrid events, but differs from those events in its sustained signal. A small
+eruption rate of LP production was a few events per munute packet of high frequencies 20 s into the tremor seismogram may represent
+over a period of about a day”, and at Galeras the rate was 1 or 2 an individual LP event. This tremor is thought to originate from the same
+events per day over a two-week period”. Examples of weak LP source as the LP event. All events were observed at the same receiver
+swarms were those seen durmg the waning phase of the 1989-90 location at an epicentral distance of 7.7 km. The origin of the time axis is
+Redoubt eruption sequence”. The most energetic LP activity arbitrary; event onsets are marked by an arrow.
+NATURE - VOL 380 - 28 MARCH 1996 311
+© 1996 Nature Publishing Group

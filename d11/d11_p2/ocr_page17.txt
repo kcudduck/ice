@@ -1,0 +1,64 @@
+The Journal of Organic Chemistry pubs.acs.org/joc
+\ 0.5 M THF
+AN 0.30 mL/min 3:2 Toluene / EO (—
+MaBr 1.2 mL/min
+7
+0 (( —o—
+Wy)
+3 40 min FlowlR BrMgO NN»
+® 40°C lemme ccm mmm md oe
+O 0.5M3:2 Toluene / Et,O waste
+0.27 mL/min
+vapors out N, D €D) NH, CI (9) "0 NN Tr CE
+(condenser) 1.4 bar 05 VV) (D—L75psi_
+1% av)
+3 \ organic out
+@ HO °N ml charcoal
+filter
+. ml eM.
+MeCN webcam | beads
+1.2 mL/min i EH
+|
+aqueous
+talt
+\Q peristaltic out +20 FO wide-bore
+residence tubing
+i es) o
+Ped H.SO,
+T 0.05 mLimin (J wide-bore
+<——> I | M — residence tubing
+| I
+NM IN. 30 min =
+= I (2 25°C KOH (4 M)
+Z .-" webcam 0.15 -1.4 mL/min D Sr Eo! HO
+Ir
+| 1 oe
+__...5bar -— rotating sinter
+=O (6 il) - NH 5 _ solids removed AN
+gas-pressure 25 min ~ 1 = replaceable filter R— I——
+BPR (average) webcam yy
+a, 120°C cotton wool
+7 Z a rr KOH, EtOH
+Ne 0 FF
+Y'-& y
+Figure 10. Telescoped eight-step continuous flow synthesis affording a polycyclic intermediate of biological importance. Reproduced from ref
+129b. Copyright 2016 American Chemical Society.
+microchannel device in an ultrasonic bath as depicted in Figure production (H®* and OH®) and removing oxygen from the
+8. The system in question was employed for the phase-transfer solution. The transformation proceeds with formation of CO,
+reaction of benzyl chloride and sodium sulfide catalyzed by an and dicyclohexyl urea as byproducts.
+ammonium salt.'”’ Multistep continuous synthesis will require external input to
+An optimized Barton decarboxylation has been achieved quicken the flow of heterogeneous mixtures through a narrow
+under ultrasonic continuous flow, which enabled large-scale tubing. An impressive example is shown in Figure 10 detailing
+synthesis.'”® The reductive decarboxylation of hexanoic acid the synthesis of a biologically active intermediate from a
+was selected as a case study, using CH,Cl,—MeOH as solvent tricyclic ketone. The complete operational protocol could be
+system pumped by HPLC. The mixture was entered into a executed by a single researcher, who also controlled the
+tubular reactor (Teflon coil, 0.8 mm internal diameter and 40- machined setup with a low-cost computed-assisted webcam.'*”
+m length) heated in an ultrasonic bath below 35 °C (Figure 9). The telescoped eight-step route comprises in addition three
+Both power (10 to 100%, 300 W) and frequency (37 to 80 transformations involving five intermediate downstream
+kHz) were regulated, while in order to ensure a liquid mixture processing steps. Sonication was applied to enhance mass
+the pressure was set to 0.1 MPa by a back-pressure valve transfer in two critical points (steps 1 and 2), thereby
+(BPR). Being a radical mechanism, the Barton decarboxylation increasing overall efficiency.
+took advantage of both mechanical and chemical effects A different design for handling solid-forming reactions
+provided by cavitation, by bringing energy for radical involves a multilayered piezoelectric actuator (50 kHz, 300 W)
+13849 https://doi.org/10.1021/acs.joc.1c00805
+J. Org. Chem. 2021, 86, 13833-13856

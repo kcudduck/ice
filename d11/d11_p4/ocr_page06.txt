@@ -1,0 +1,52 @@
+4
+
+7; = u;(Vu + (Vu)!) is the viscous stress tensor for each component. The total energy
+0: Ei = pie; + 1 o;U -u, 1s the sum of internal energy per unit volume p;e; and kinetic energy
+1 o;u - u per unit volume. Finally the equation of state (EOS) 1s written as p;e; = poi
+where I" and II are adopted from Johnsen & Colonius (2006) in such a way that liquid 1s
+a slightly compressible and the bubble contents obeys an ideal gas EOS. The system of
+equations 1s closed by adding an advection equation for the interface position which 1s
+represented by the volume of fluid method (Tryggvason ef al. 2011). After the advection, the
+interface 1s reconstructed using a piecewise linear interface construction. The surface-tension
+appears implicitly while averaging the equation 2.1 in the mixed cells and 1t 1s added as the
+continum surface force using the method of Brackbill er al. (1992) also reviewed recently
+by Popinet (2018). All the intricate details of the method are given in Fuster & Popinet (2018)
+
+In the DNS, a non-slip boundary condition is imposed on the velocity field at the wall,
+while a standard free flow condition 1s applied in all the other boundaries. Note that
+although a non-slip boundary condition imposes zero velocity at the boundary, the velocity
+at which the interface 1s advected in the cell adjacent to the wall 1s different from zero. This
+effectively acts as an implicit slip length for the contact line motion given as A = Axi, /2,
+where Ax,,;, 1s the smallest grid size. This influence of this parameter will be discussed 1n
+appendix A. The static contact angle model proposed by Afkhami & Bussmann (2008) is
+used to implement contact angle boundary condition which although 1s not very accurate
+for prediction the contact line motion but is a convenient tool that gives fair insight of the
+growth of boundary layer and range of influence of viscosity. More sophisticated models for
+contact line motion could be used but a significant change in the conclusions of this work 1s
+not expected.
+
+The initial conditions are defined by imposing the fluid to be initially at rest (uz = 0). In
+this case the divergence of the momentum equation gives a Laplace equation for the initial
+liquid pressure while assuming the liquid as an incompressible substance,
+
+Ap; = 0. (2.2)
+This equation 1s readily solved if we assume that the gas pressure 1s initially uniform such
+that the boundary conditions for pressure (as shown in figure 1) are the following: at the
+interface the liquid pressure 1s
+Po,L = Pg,0 — =, (2.3)
+C
+where o 1s the surface tension coefficient and R, 1s the radius of curvature; at the far—away
+boundaries the pressure 1s po, and at the wall the normal pressure gradient is null due to
+impermeability condition. The initial condition for total energy 1s then calculated from the
+EOS using the initial pressure field.
+
+We finally introduce relevant dimensionless quantities using the radius of curvature as
+characteristic length, the liquid density and the characteristic velocity U., = (poo/ on 2
+obtained by assuming that at the instant of maximum radius the liquid pressure along the
+surface 1s negligible compared to the far-field pressure. A simple dimensional analysis shows
+that the solution of the problem depends on the density and viscosity ratios, the Reynolds
+number, Re = fre, the Weber number We = pUcRe and the contact angle (a). The
+characteristic velocity 1s constant and equal to 10 m/s for the low pressure bubbles collapsing
+in water under the action of the atmospheric pressure, therefore both, the Reynolds and
+
+Focus on Fluids articles must not exceed this page length

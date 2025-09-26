@@ -1,0 +1,56 @@
+14 D.F. Rivas, Ashokkumar, Leong, Yasui, Tuziuti, Kentish, Lohse and Gardeniers
+one pit. As the meniscus shakes vigorously (a sizzling sound accompanies this process),
+the cavitation field changes considerably in a way difficult to quantify or predict. This
+can introduce sources of errors in the SL and SCL measurements. In addition, at the
+highest power heating and degassing of the liquid occur faster and this obviously changes
+the conditions for SL and SCL.
+
+It would be interesting to correlate the observed SL profile measured in this study to
+the influence of fluid mechanics such as low due to acoustic streaming, microstreaming by
+meniscus oscillation, microbubbles flowing at different regimes, the interplay of secondary
+Bjerknes forces and bubble cluster interaction with the overall low. Other factors such
+as closing the system with the presence of a glass slide on top of the microreactor to
+minimize liquid splashing, are among several other conditions that could be investigated
+but the appearance of degassing bubbles on the glass surface might be an undesired side-
+effect (see supplementary video). The above mentioned factors would influence the light
+emission, both from SL and SCL, at the different powers. As a last effort, continuous
+recording of these bubble streamers (in water, propanol and luminol solutions) may
+provide further clues to better understand our findings.
+
+4. Conclusions
+We have measured light emission at a single frequency from different systems at two
+
+different power levels in the presence and absence of pits on surfaces. These pits promoted
+nucleation of microbubble streamers with distinctive streaming patterns at each power
+level. SL and SCL imaging provided evidence that the microbubbles arising from the pits
+are responsible for most of the light emission detected with PMT measurements. The
+presence of transient cavitation conditions was verified by measuring the SL intensity
+in propanol solutions. A difference in the light intensity of SL and SCL also led to the
+conclusion that there is a difference in the bubble population able to emit light and
+those which are chemically active. The multiple factors affecting the bubble streamers
+behavior are difficult to resolve individually. For that reason, there exists significant
+scope for future studies, particularly involving the control of the free surface liquid-air
+meniscus.
+
+Acknowledgements
+We thank Prof. Franz Grieser and Prof. Andrea Prosperetti for useful discussions
+
+and Stefan Schlautmann for technical assistance. This research was supported by the
+
+Technology Foundation STW, Applied Science Division of NWO and the Technology Pro-
+
+gramme of the Ministry of Economic Affairs, The Netherlands. The authors acknowledge
+
+financial support from the ARC, Australia.
+
+References
+
+APFEL, R. E. 1970 Role of impurities in cavitation threshold determination. J. Acoust.
+Soc. Am. 48 (5), 1179-1186.
+
+ASHOKKUMAR, M., LEE, J., IibA, Y., Yasui, K., KozukaA, T., Tuzivri, T. &
+TowATA, A. 2009 The detection and control of stable and transient acoustic cavitation
+bubbles. Phys. Chem. Chem. Phys. 11 (43), 10118-10121.
+
+ASHOKKUMAR, MUTHUPANDIAN, LEE, JUDY, IIDA, YASUO, YASUI, KYUICHI, KOZUKA,
+TERUYUKI, TUzIUTI, TORU & TOWATA, ATSUYA 2010 Spatial distribution of acoustic

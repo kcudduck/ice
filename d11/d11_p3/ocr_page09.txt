@@ -1,0 +1,59 @@
+9
+SH amplitude when R =2x m SH amplitude when R =1x m
+6 ——f=151 -10 ——f=1.5"
+dm = we HT
+= 1.7, EE f=1.74,
+-10 |——f=1.8", | -20 {|——1f=1.81
+f=27 f = 2*f
+a -12 | a 25 r
+14 | 30
+16 35
+18 -40
+1 2 3 4 o 1 2 3 4 5 6
+Pressure (Pa) %x10° Pressure (Pa) x10°
+(a) (b)
+SH amplitude when R,=0.4p m SH amplitude when R,=0.2 m
+151 f=154 —— ool | TET =
+f= 1.6% y= a ——f=15% 4
+-20 r f=1.7*f
+f=1.7* r
+25 fer | 30 — =e |
+m -30 f=24 om t=24,
+© © -40 |
+35 |
+-40 50
+-45
+60
+-50
+2 4 6 8 10 12 0 0.5 1 1.5 2 2.5
+Pressure (Pa) %x10° Pressure (Pa) x 10°
+(c) (d)
+FIG. 5. Non-destructive (Fa < 2) SH component of the Ps. for fsp and Pdfs, of: a) Ryo = 2um, b) Ryo = 1um, ¢) Ro = 0.4um
+and d) Rp = 0.2um.
+increase until the bubble is destroyed (Hppas > 2). E. Bifurcation structure of the micro-bubbles (for
+Figure 7 displays the maximum non-destructive wall ve- fr<f<15f)
+locity at different frequencies (f = 2f,, 1.8f., 1.6 f,. and
+1.5) for Ro=2 pum (6a), ftp=1 pm (6b), o=400 nm In the previous sections we saw that when f = 1.51,
+(6c) and Rp=200 nm (6d). Maximum wall velocity am- SN bifurcation results in bubble destruction (5 > 2) and
+plitude increases monotonically with pressure; however, sonication with 1.5fr < f < 2f, results in an enhance-
+as Soon as PD occurs, the wall velocity undergoes a rapid ment of the SH amplitude. In this section, we closely
+increase and continues to increase monotonically after. examine the bifurcation structure of the micro-bubbles
+The occurrence of P4 oscillations results in a decrease in when sonicated with f, < f < 1.5f.. Figure 8 shows
+the maximum wall velocities for micron size bubbles (or the bifurcation structure of the micron-size bubbles with
+decrease in the growth rate of wall velocity for nano-size Ro=2um and Rop=1um as a function of pressure. The
+bubbles) which is similar to the decrease of wall veloc- frequencies are 1.4f,, 1.2f, and 1.1f,. Unlike the case
+ity concomitant with the occurrence of P2 when f = f r of sonication with 1.5f, < f < 2f,; within the parame-
+26]. At higher pressures, the generation of chaotic oscll- ter ranges studies here (and for i < 2), there is no SN
+lations leads to a rapid increase in wall velocity; however, bifurcation taking place in the diagrams. The evolution
+as seen before this is simultaneous with a decrease in SH of the dynamics of the system is through a simple PD to
+and UH amplitudes. For the bubble with Ry=0.2 pm the P2 oscillations followed by a cascade of PDs to chaos. In
+occurrence of SN bifurcation does not have a pronounced case of f =1.2f,and 1.1f, full amplitude (Hmaz —=2) non-
+effect on the maximum wall velocity amplitude which is destructive P2 oscillations are developed; however, un-
+due to the dominant effect of liquid viscosity on smaller like 1.5f, < f < 2f,, PD is simultaneous with a decrease
+bubbles. in wall velocity and scattered pressure. We have previ-
+ously shown that when bubble is sonicated with f = f,,
+the occurrence of PD is concomitant with a decrease in
+the scattered pressure and maximum wall velocity [26].
+The red curve in figure 8 (constructed by conventional
+method) never meets the blue curve (constructed by the
+maxima method) suggesting that the wall velocity of the

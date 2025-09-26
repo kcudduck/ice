@@ -1,0 +1,57 @@
+12
+Inserting Eqs. (62) and (68) into Eq. (67), the velocity = approximately accurate, is inferred by the governing con-
+at radial location r and time t is servation laws.
+The enthalpy derivative along outgoing characteristics
+20] 1+a/2 | | Or (7) | follows from Eq. (71) as
+u(r,t) = | — R(T) — —————F—
+r(t) cL(7) + R(T) )
+a/2 dh _ du _ auc” | Oh (72)
+4 EY Slr) (69) dt |, dt |. r ot
+r(t) c(r,t) + u(r,t)’
+Taking the derivative of Eq. (30) along an outgoing char-
+which satisfies the boundary condition w(R,7) = R(T) at teristic reads as
+the gas-liquid interface (r = R).
+The explicit expression of the velocity given by d ) ag " p "
+Eq. (69) separates the flow velocity into three distinct —| = —= —| +r" —
+contributions®’: the first term is the incompressible dis- dt], 2r di], dt |
+placement of the fluid by the moving gas-liquid interface, _ pa)? dhoo © pa/2y, du —0, (73)
+the second term represents the compression /expansion of de |, de |.
+the fluid resulting from its displacement, and the third
+term is the particle velocity associated with the emitted where (dg/dt). = 0 by virtue of the Kirkwood-Bethe hy-
+acoustic wave. Hence, the first two terms represent hy- pothesis, and (dh /dt). = Oho /Ot, since hy is spatially
+drodynamic contributions and the third term represents invariant by definition. Inserting Eq. (73) into Eq. (72),
+the acoustic contribution to the flow field. However, the
+assumption that the potential ¢ propagates as an out- Oh ag dr du
+going wave with constant amplitude is valid only if the 57 9.04072) 7 —U =
+nonlinear terms on the right-hand side of Eq. (29) are t 2 te ar
+negligible. Hence, Eq. (67) is accurate only if the flow du auc’ Oho “4
+velocity is sufficiently small, u? < c?. BET) ] or + ot’ (74)
+the derivative of the flow velocity uv along an outgoing
+B. Differential equation for the flow velocity characteristic is given as
+Alternative to the explicit expression for the flow veloc- dul « g dr| (75)
+ity presented in the previous section, it is also possible to dt || r(c—u)|2 ro/2 dt ) “els
+derive an ODE describing the flow velocity, as proposed
+by Gilmore? and Hickling and Plesset °*, without the or, by inserting Eq. (33),
+assumption that ¢ retains a constant value as it prop-
+agates outward. To this end, the continuity equation, du o q ,
+Eq. (16), is added to the momentum equation, Eq. (17), = = rc — uw) i (c+ u) — uc | . (76)
+to obtain c
+In spherical symmetry (a = 2), Eq. (76) corresponds to
+! (5 + ur) + JU + ae + Ou the ODE first — by i > Plesset
+c \ Ot or or r ot
+Ou Oh 1 0h du 1 q ,
+tugs +o = 5 (70) T= rem [Ler w —2u]. (77)
+This equation may be rearranged as The derivation of this ODE for the flow velocity in
+the way presented here follows the derivation presented
+1 [Oh Oh ou ou
+- E + (c+ 5] + — + (c+ u)=— for the special case of spherical symmetry (a = 2) by
+c | Ot or ot or Tvany “4.
+_ auc n 1 Ohoo (71) An ODE for the flow velocity with respect to the ra-
+r c Ot’ dial coordinate may be obtained by dividing Eq. (76) by
+which is, considering that the ambient specific enthalpy Eq. (33),
+ho 1s assumed to be spatially invariant, equivalent to _1 ,
+the equation for the outgoing Riemann invariant, see = _ = 7 __¢@ | gy _ — (78)
+Eq. (35). Thus, the derivation of a differential equation dr|., dt], df], r(c—u)|2r*/2  c+ul’
+for the flow velocity starts from the equation governing
+a curved Riemann wave in an isentropic flow. This fur- an ODE first proposed by Gilmore °? for spherical sym-
+ther shows that the propagation speed c¢ + u, albeit only = metry (a = 2) using the modified Tait EoS.

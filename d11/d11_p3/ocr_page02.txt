@@ -1,0 +1,70 @@
+2
+mum for sonications with twice the linear resonance fre- diagrams. We show that Pdf; decreases as pressure in-
+quency (f.) of the bubbles. This frequency is referred to creases. Sonication of the bubble with Pdf; results in
+as the linear ~ order SH resonance frequency (fsp=2f,). a saddle node bifurcation from a period 1 (P1) or a P2
+Recently, several experimental [61-63], numerical [64,65] oscillation regime to a P2 oscillation of higher amplitude.
+and theoretical [59,62] studies have investigated the pres- This is concomitant by the oversaturation of the SHs and
+sure threshold of SH generation in bubble oscillations. UHs strength of up to =4 and =7 dB. Additionally for
+These works have shown that SH oscillations in bubbles each bubble size there is an optimum frequency between
+have three stages: initiation, rapid growth and satura- 1.5f, — 1.8 f,.which results in the maximum SH scattering
+tion. Numerical Investigation of the SH threshold in un- cross section.
+coated and coated bubbles in [64,65]; have shown that
+for small bubbles (less than 500nm), increased damping
+weakens the bubble response at fs. This leads to a shift II. METHODS
+of the minimum SH pressure threshold from fs; towards
+fr. Similar to [66], we have chosen the uncoated bubble as
+We have recently studied the bifurcation structure of the bubble oscillator of interest. Effect of coating is ne-
+the bubbles excited with their f,. and fs, [66]. We  glected as addition of the encapsulation introduces more
+have shown that for uncoated bubbles in water, non- complexity to the bubble dynamics. In order to have a
+destructive (#- <2 [67]) stable SH oscillations are less detailed understanding on the dynamics of the bubble
+likely to develop if the bubble is sonicated with f,. This its preferable to separate the nonlinear effects of coat-
+is because when f = f., SHs oscillations only devel- ing from that of the bubble itself. This makes it easier
+oped for ys >2. When the bubble is sonicated with ~~ to understand the dynamics of the system and under-
+fsh, PD occurs through a bow-tie shape bifurcation and stand the basis of the bubble behavior. Furthermore, in
+at very gentle oscillation regimes (2 < 1.05). This sug- future studies where coating is involved, information of
+gest that bubbles are more likely to sustain stable SHs the system behavior in the absence of coating will allow
+at fon [66]. The generation of PD in bifurcation dia- for a more straightforward understanding of the complex
+grams was concomitant with the initiation of SHs which effects of coating on the system behavior.
+rapidly grow with increased pressure and get saturated.
+
+In other words, there is an upper limit for the achievable
+SHs and UHs strength and acoustic pressure increase will A. The Bubble model
+not necessarily result in SHs increase. To the contrary, a
+pressure increase can result in chaotic oscillations and/or The radial oscillations of the bubbles are numerically
+bubble destruction which will lead to subsequent decrease simulated by solving the Keller-Miksis equation 68]:
+in SHs and UHs strength [50,66]. Despite several studies
+investigating the SH threshold of the bubbles [56-59,61- R._. 3., R R R d
+65], conditions for the enhancement of the upper limit pll——)RR+SR (1-2) = (1+) (G)+——(G) (1)
+of non-destructive SHs and UHs oscillations are under- |
+investigated. Furthermore, the bifurcation structure of where G = Pp, — pr R _ 20 — Py — Pysin(2rft). P,
+the bubble oscillator in the regime of 5 order SHs when is the gas pressure in the bubble and is given by P, =
+fr < f <&= fq is not studied in detail. Due to the (Py + 29) x (B37
+. . : R R
+importance of the SH and UH oscillations of bubbles, In this equation, R is radius at time t, Ry is the initial
+comprehensive knowledge of the resonant period 2 (P2) ype radius, R is the wall velocity of the bubble and R
+oscillations and conditions to enhance non-destructive P2 is the wall acceleration p is the liquid density (998 kg ),
+oscillations can aid in understanding and optimizing bub- ¢ is the sound speed (1481 m/s), P, is the gas pressure,
+e applications. : N Cy
+th face t 0725 = the liquid vis-
+In this study, which follows upon our previous work [26] 015 IE SULArs LCHSION (0 0725 57), i is the Jue VIS
+cosity (0.001 Pa.s), Pa = and f are the amplitude and
+where pressure dependent resonance (PD f,.) was used to : :
+frequency of the applied acoustic pressure. The values
+increase the non-destructive scattered pressure (Ps.) by 0
+) in the parentheses are for water at 293K. In this paper
+bubbles, we investigate the pressure dependence of SH CL A BN
+the gas inside the bubble is Air (y=1.4) and water is the
+resonance (Pdfsy ). Through numerically simulating the host media
+resonance curves of bubbles at different pressures, linear
+(fsn) and pressure dependent (Pdf; ) SH resonance fre-
+quencies of bubble diameters ranging from 400nm up to 8
+microns are calculated ( 8 microns can be considered the B. Resonance Curves
+upper limit of size used in biomedical applications [19]).
+The bit t1 truct f the bubbl illati
+© DICAION SITUELTULTE OF WIE DHDDIC ORE ariots as a It is shown that above a pressure threshold SH oscilla-
+function of pressure is studied when f = Pdfs,. The Co
+: tions are generated and the threshold is minimum at fg
+corresponding SH and UH strength of the P,. are cal- a
+1 : : : : : (f = 2f,). The radial oscillations of free uncoated air
+culated and studied in conjunction with the bifurcation ]
+bubbles (Ry=200nm-4 pm) were numerically simulated

@@ -1,0 +1,58 @@
+the conical traveling wave visible on Fig. This travel- ble dissipation. This is a missing brick in our model since
+ing wave produces in turn a strong Bjerknes force directed we consider constant bubble densities above the Blake
+along the propagation direction of the wave (a large Ig threshold. We thus infer that the model in its present
+term in Eq. (11), which structures the bubbles into a con- ~~ form is not able to catch the latter experimental feature.
+ical shape. The latter scenario was qualitatively checked One should finally mention, as underlined in Ref. 28],
+by simple linear acoustics simulations: setting the sound another explanation for the cone structure robustness against
+field to ¢; uniformly in the liquid except in a thin cylinder- driving level above a certain threshold, borrowed to phase
+shaped region below the transducer, the bending of the transitions theory. Skokov and co-workers measured laser
+iso-¢ lines was indeed observed. intensity transmission through a cavitation zone and ob-
+tained time-series presenting fluctuations whose power spec-
+1 trum were found to be inversely proportional to frequency
+ad 36, 37]. This feature, also termed as “flicker noise” has
+cR(k) been shown to occur in various physical processes 38],
+and has been interpreted as a consequence of the interac-
+0.5 tion between two phase transitions, one subcritical, the
+other supercritical 39]. The result is that the system
+self-organizes into a critical state, whatever the precise
+value of the controlling parameter, contrarily to classi-
+0 0.02 0.04 0.06 oo critical states which require a fine tuning of the lat-
+r er to be reached. This phenomenon has been termed as
+“selt-criticality” and produces organized self-similar spa-
+Figure 13: Radial profile of sound velocity on the transducer area. tial structures, reminiscent of bubble web-like organiza-
+The sound velocity is non-dimensionalized by the sound velocity in tion. Self-criticality can be modeled generically by a stochas-
+the pure liquid ¢;. tic dynamical system of two equations, generalizing the
+Ginzburg-Landau equation. One of the two order param-
+A remarkable feature of cone bubble structures is the  otorg exhibits fluctuations between two attractors, with
+invariance of their shape when intensity is increased above a power spectrum varying in 1/f, as observed in experi-
+a given level 15]. Following the suggestion of an anony- ants This original theory has the advantage to explain
+mous reviewer, we performed an additional simulation of 50 generally overlooked features of cavitation clouds by
+the above configuration, increasing the sonotrode displace- 5 ypjversal physical mechanism. However it still remains
+ment Up up to 4.2 pm (instead of 1.4 ym). The results are (ory far from the precise cavitation physics, and the pro-
+presented as supplementary material. The cone shape ob- 504 equations are phenomenological. In particular the
+tained is indiscernible from the one presented in Fig. precise physical sense of the order parameters remains to
+However, a close examination of the axial pressure pro- explicited, maybe on the light of the coupled evolutions
+files in the two cases reveals that the acoustic fields differ of the bubble field and the acoustic wave. For now, the
+mainly in a thin layer of about 5 mm near the sonotrode  ,54e] is still far from a predictive tool for acoustic cavi-
+(see supplementary material). This is a clear manifesta- tation, but this promising approach remains opened.
+tion of the self-saturation effect inherent to the present
+model through the field-dependence of the attenuation co- 3.3.2. Experiments with a 7 cm diameter sonotrode
+efficient (see [OL IJ): increasing the sonotrode displace- Reference 15] also present results for thinner sonotrodes,
+ment produces a large increase of acoustic pressure only put the latters produce acoustic currents which deform
+locally, but the bubbles in this zone being excited more 10 cone structure, so that a direct comparison of the ex-
+strongly, they dissipate the excess acoustic energy very perimental images and simulated cone structures is not
+rapidly. It should be noted that experimental manifesta- possible in this case. In spite of the latter restriction,
+tions of this phenomenon have been reported in the early we performed additional simulations for a 8 mm diame-
+work of Rozenberg 35]. ter sonotrode (referred as “type B” in Ref. |15]), in an
+Other studies demonstrates that conversely, for low ex- otherwise identical geometry, for 2 zm bubble radii and a
+citations, the shape of the cone bubble structure does de- bubble density Ny = 90 bubbles/mm?3, in order to match
+pend on the driving. Although some of our simulations at hegt the experimental shape of the cone structure. The
+could partially catch such a dependence, convergence prob-  ;oq1t of the visual comparison between the simulated cone
+lems in this range prohibited any firm conclusion. We ob- structure and Fig. 2 in [15] is deferred to supplementary
+served however that the cone shape was very sensitive to material, and shows that, in spite of the blurring of the
+the choice of the bubble density when the latter was low gycture by acoustic currents, some similarities in the
+enough. This might suggest that the experimentally ob- cone shape can be observed.
+served shape dependence for low drivings would be rather Apart from imaging cone structures, Dubus and co-
+due to the variation of the bubble density with acoustic \orkers have collected valuable quantitative experimen-
+pressure, than to the pressure dependence of a single bub- 4] informations in additional studies, using 7 cm diam-
+10

@@ -1,0 +1,34 @@
+Prediction of ultrasonic cavitation with a dimensionless number, towards
+higher reproducibility.
+Name: Gonzalo Family name: Garcia-Atance Fatjo
+Jost Institute for Tribotechnology, University of Central Lancashire, Preston PR1 2HE, UK
+Email: ggarcia-atancefatjo@uclan.ac.uk
+https://orcid.org/0000-0002-3914-7160
+Abstract
+Ultrasonic cavitation is the formation of vapour cavities within a liquid due to the action of
+an ultrasound source. It is widely used for homogenization, dispersion, deagglomeration,
+erosion, cleaning, milling, emulsification, extraction, disintegration and sonochemistry. On
+the other hand, the so-called cavitation number is used to assess the likelihood of cavitation
+in fluid flows within a conduit or around a hydrofoil but it is not valid in ultrasonic cavitation
+since there is no fluid flow. A recently formulated number predicts the cavitation in case of
+sudden accelerations. The tip surface of an ultrasonic probe is subjected to a continuous
+repetition of alternating accelerations at high frequency. Therefore, the use of the recently
+formulated number in ultrasonic cavitation is explored here. Simulations of the ultrasonic
+probe in water just at the condition of cavitation onset have been performed for a
+combination of probe diameters from 0.2 to 100 mm and frequencies 20, 30, 40, 100 and
+1000 KHz. The recently formulated number is applied to these combinations and it is found
+that can be used to predict ultrasonic cavitation. Consequently, the dimensionless number
+can be used to decide the conditions to avoid or generate cavitation when a fluid is
+sonicated and to increase reproducibility in such conditions.
+Keywords: ultrasonic cavitation; dimensionless number; sonochemistry; sonicator;
+1. Introduction
+Vaporous cavitation in a fluid is the change from liquid phase to vapour phase due to a drop
+in the local pressure, as opposed to boiling where the change of phase is due to a rise in
+temperature. As the change of pressure propagates much faster than the change of
+temperature, the cavities can be generated and collapsed rapidly producing turbulence,
+sound, pressure shockwaves, local rise of temperature and surface erosion. Thoma and
+Leraux introduced in 1923-1925 a dimensionless number called cavitation number (1) that is
+used in fluid flows, for example, to either prevent cavitation in a hydrofoil or in a conduit,
+or to produce cavitation in laboratory tests. This number cannot be applied to ultrasonic
+cavitation.
+1

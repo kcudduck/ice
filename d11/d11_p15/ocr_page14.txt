@@ -1,0 +1,37 @@
+Proof. The energy identity (4.5) is first derived for strong solutions and then extended by density to
+weak solutions. Consider the bilinear form (-,-) : H x HH —+ R be given by
+Sal» | p2 = (AY2&,, AZ p,) + (&3, ©3) T In (5 (& — “6 ) y P2 — Soi) (4.7)
+& #3
+which is continuous. Moreover, recalling that ¥ = (u,z, 2z;) it follows that 2FE;(t) = (V(t), U(1)).
+Therefore, with G = (0,0, f)' we have, after straightforward calculations (see [6] for details)
+dF (t) dV (t)
+2——= = ——=, V(t) ) = (AV (t) + G, V(t
+0 (Tv) = (40) + Go)
+= ~ [dans | wsdl + [fad
+Q I Q
+Identity (4.5) then follows by an integration in time on |t, 7]. ]
+In the next step we reconstruct the integral of the full energy on a truncated time interval (s,7—s)
+for 0 <s <T/2.
+Proposition 4.3. Let T > 0. If (u,z, 2) 1s a classical solution of (3.4) then the inequality
+T'—s
+[Bd SE) + BT 9)
+T
+0 @
+holds for 0 < s <T/2. Here, lots(z) is a collection of lower order terms satisfying
+lots() < Cs sup {I12(O)31-5(0) + 120-50) |
+t€[0,T]
+for some 0 > 0.
+Proof. We study stability properties of both S(t) and T(t) assuming the general degenerated case
+for v, i.e, v € L>®(2) and v(x) > 0 a.e. in 2. This includes a completely degenerate (critical) case
+when v = 0 and the uncontrolled dynamics is unstable. With a feedback boundary control, we will
+be able to show that the semigroups can be stabilized — but under additional geometric conditions
+which however are stronger than the ones typically assumed in a boundary stabilization theory of
+hyperbolic dynamics. It is clear that if I'g = () then the entire boundary I' is dissipated and therefore
+stability results would hold true without any additional geometric restrictions. Assuming I'g # 0,
+and I'y is star-shaped (standard condition), classical stability methods (multipliers) do not work due
+to conflicting signs of radial vector fields on the boundary I'y when acting on tangential derivatives.
+This fact has been recognized already in |32|. However,due to convexity of I'y and Assumption | one
+obtains the following construction [32]: there exists a vector field h(x) = [hi(x),--- , hq(x)] € C*(Q)
+such that
+h-v=0 on I} (4.92)
+14

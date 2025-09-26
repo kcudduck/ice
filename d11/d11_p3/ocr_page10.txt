@@ -1,0 +1,62 @@
+10
+max(P_ ) P when R,=2p m max(P_) when R,=1 pum
+120 35
+—f= 1.5% —f= 1.5%
+Ll I — 30 ——f=1.6
+o f= 1.7 N 25 f= 1.7%
+gs 80 ——f=1.8" a ——f=1.81
+a: f= 2+ ~, 20 f = 2+
+4 60 r 4 © r
+3 x 15
+£40 £
+E 10
+20 5
+0 = 0
+0 1 2 3 4 5 0 2 4 6 8
+Pressure (Pa) %x10° Pressure (Pa) x10°
+(a) (b)
+1 max(P_ ) when R_.=0.4y m max(P_.) when R,=0.2p m
+° —f = 1.5"
+—f = 1.5" r
+10 . r 5 ——f = 1.6™f
+—f =1.6™f r
+r f=1.7"f
+“© 8 f= NS 4 Ep
+a —_—f=18 f o { = ox
+~ 6 f=2"% JB 3 r
+a a
+= Qa
+g 4 :
+2 1
+0 — I" Za EE 0b— JE J,
+0 5 10 15 0 05 1 15 2 25 3
+Pressure (Pa) %x10° Pressure (Pa) x 10°
+(c) (d)
+FIG. 6. Maximum value of Non-destructive PZ. for fs», and Pdf, of: a) Ro = 2um, b) Ro = lum, ¢) Rp = 0.4um and d)
+Ro = 0.2um.
+bubble never gets in phase with the acoustic driving force. G. Maximum achievable PZ, wall velocity, SH and
+UH as a function of frequency
+In many applications, it is of interest to find exposure
+parameters that maximize the scattered pressure or en-
+hances a specific frequency component in the scattered
+F. Bifurcation structure of the nano-bubbles (for pressure. Figure 10a-b show the normalized value of max-
+fr < f<15Ff) imum non-destructive P2, (5 < 2) and wall velocity in
+the regime of P2 oscillations as a function of frequency.
+P? and wall velocity reach their maximum at f = 1.6f,
+Figure 9 shows the bifurcation structure of the nano- for bubbles with Ryp=0.4, 1 and 2um and it is maximum
+size bubbles as a function of pressure. Bubbles have ini- for f = 1.65f, when Ry=0.2 um. For all bubbles there
+tial radii of Rp= 400nm (left column) and Ry=200nm is a universal minimum for P? and wall velocity when
+(right column). When f = 1.4f,, P1 bubble oscillations f=15—1.55fr. We show that conventional practice of
+crow monotonically with increasing pressure and above sonication with SH resonance frequency (fsn=2f,) does
+a pressure threshold bubbles undergo a PD to P2 oscil- not lead to the generation of the maximum P2 scattered
+lations. P2 oscillations grow in amplitude and above a pressure or wall velocity. Instead there is a frequency
+second pressure threshold; there is a SN bifurcation to P2 range (1.55 < f < 1.7) that results in the maximum value
+oscillations of higher amplitude. The SN bifurcation re- of the two parameters. Figure 10c-d presents the max-
+sults in P2 oscillations that are resonant (one of the max- ~~ imum non-destructive (4 < 2) SH and UH amplitude
+ima, in blue curve is on top of one of the branches of the as a function of frequency. For all bubble sizes exam-
+red curve), however, similar to the case of the f = 1.5f,., ined, the conventional sonication with the fs; (2f,) does
+the SN results in bubble destruction (fimo > 2). When not result in the strongest SH or UH amplitude. The
+f=1.2f, and f = 1.1f,., SN bifurcation does not take bubble with Ryg=2um reaches the strongest SH and UH
+place and the bubble oscillations undergo a PD bifurca- amplitude when f = 1.6f,; the bubbles with Ro=1um
+tion to P2 oscillations followed by a cascade of PDs to and Ryp=0.4um reach the maximum at f = 1.55f,. For
+chaos. bubbles with Rog=2um, lum and 0.4m there exist a uni-

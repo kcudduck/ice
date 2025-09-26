@@ -1,0 +1,69 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+
+126] D. Lohse, M. P. Brenner, T. F. Dupont, S. Hilgenfeldt, and B. Johnston, Sonoluminescing
+air bubbles rectify argon, Phys. Rev. Lett. 78, 1359 (1997).
+
+27] R. Toegel and D. Lohse, Phase diagrams for sonoluminescing bubbles: A comparison between
+experiment and theory, J. Chem. Phys. 118, 1863 (2003).
+
+28] D. J. Flannigan and K. S. Suslick, Plasma formation and temperature measurement during
+single-bubble cavitation, Nature 434, 52 (2005).
+
+29] T. J. Matula and L. A. Crum, Fvidence for gas exchange in single-bubble sonoluminescence,
+Phys. Rev. Lett. 80, 865 (1998).
+
+30] J. A. Ketterling and R. E. Apfel, Experimental validation of the dissociation hypothesis for
+single bubble sonoluminescence, Phys. Rev. Lett. 81, 4991 (1998).
+
+31] W. C. Moss, D. B. Clarke, and D. A. Young, Calculated pulse widths and spectra of a single
+sonoluminescing bubble, Science 276, 1398 (1997).
+
+132] S. Hilgenfeldt, S. Grossmann, and D. Lohse, A simple explanation of light emission in sono-
+luminescence, Nature 398, 402 (1999).
+
+33] P. Frinking, A. Bouakaz, J. Kirkhorn, F. Ten Cate, and N. de Jong, Ultrasound contrast
+imaging: Current and new potential methods, Ultrasound in Med. & Biol. 26, 965 (2000).
+
+134] H. Becher and P. Burns, Handbook of Contrast Echocardiography, left ventricular function
+and myocardial perfusion (Springer, New York, 2000).
+
+135] S. R. Wilson and P. N. Burns, Microbubble-enhanced US in Body Imaging: What Role?
+Radiology 257, 24 (2010).
+
+136] F. Cavalieri, M. Ashokkumar, F. Grieser, and F. Caruso, Ultrasonic Synthesis of Stable,
+Functional Lysozyme Microbubbles, Langmuir 24, 10078 (2008).
+
+137] J. S. Lum, J. D. Dove, T. W. Murray, and M. A. Borden, Single Microbubble Measurements
+of Lipid Monolayer Viscoelastic Properties for Small-Amplitude Oscillations, Langmuir 32,
+9410 (2016).
+
+138] P. Marmottant, S. van der Meer, M. Versluis, N. de Jong, S. Hilgenfeldt, and D. Lohse, A
+model for large amplitude oscillations of coated bubbles accounting for buckling and rupture,
+J. Acoust. Soc. Am. 118, 3499 (2005).
+
+139] B. Dollet, P. Marmottant, and V. Garbin, Bubble Dynamics in Soft and Biological Matter,
+Annu. Rev. Fluid. Mech. 51, 331 (2019).
+
+40] P. Burns, Harmonic imaging with ultrasound contrast agents, Clinical Radiology 51, 50
+(1996).
+
+41] A. Prosperetti, Bubble phenomena in sound fields, part one, Ultrasonics 22, 115 (1984).
+
+142] S. Grossmann, S. Hilgenfeldt, D. Lohse, and M. Zomack, Sound radiation of 3-MHz driven
+gas bubbles, J. Acoust. Soc. Am. 102, 1223 (1997).
+
+143] C. T. Chin, C. Lancee, J. Borsboom, F. Mastik, M. E. F. N. de Jong, M. Versluis, and
+D. Lohse, Brandaris 128: A digital 25 million frames per second camera with 128 highly
+sensitive frames, Rev. Sci. Instru. 74, 5026 (2003).
+
+44] E. C. Gelderblom, H. J. Vos, F. Mastik, T. Faez, Y. Luan, T. J. A. Kokhuis, A. F. W. van der
+Steen, D. Lohse, N. de Jong, and M. Versluis, Brandaris 128 ultra-high-speed imaging facility:
+10 years of operation, updates, and enhanced features, Rev. Sci. Instr. 83, 103706 (2012).
+
+145] S. M. van der Meer, B. Dollet, M. M. Voormolen, C. T. Chin, A. Bouakaz, N. de Jong, M.
+Versluis, and D. Lohse, Microbubble spectroscopy of ultrasound contrast agents, J. Acoust.
+Soc. Am. 121, 648 (2007).
+
+146] B. Dollet, S. M. van der Meer, V. Garbin, N. de Jong, D. Lohse, and M. Versluis, Nonspherical
+
+41 41

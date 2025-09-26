@@ -1,0 +1,33 @@
+P — Pv
+Gp = —— 1
+A= aL (1)
+where G, is the new dimensionless number, p is the pressure of the liquid before or after
+being subjected to acceleration, p,, is the vapour pressure of the liquid, p is the density of
+the liquid, L is the effective length of the liquid or column subjected to acceleration
+measured parallel to the acceleration vector, and a is the acceleration.
+In order to apply this number to an ultrasonic probe, the acceleration a is calculated as a
+function of the frequency and the amplitude. The length L of the liquid subjected to
+acceleration has to be estimated.
+Probe
+R H
+oc
+Fluid
+Figure 1 Estimation of the length of water under direct influence of the
+acceleration of the tip surface.
+Figure 1 shows an estimation of the length of water under direct influence of the movement
+of the tip. The length L is estimated to be the radius of the probe. This kind of estimations
+are typical in the utilisation of dimensionless numbers. The justification for this estimation is
+that it is a representative size of the system with physical meaning, easy to remember, and
+resembles the cavitation field normally seen in these systems.
+The length L is, as stated in (13), the shortest of the geometrical length, in this case the
+radius R, and the result of cAt where c is the speed of sound and At is the time that the
+acceleration lasts. At is taken for simplicity half the period, since half of the period the
+acceleration is producing a tension pulse and the other half is producing a compression
+pulse. This approach is justified later in the results.
+In order to calculate the acceleration a of the tip surface a sine movement of the tip is
+assumed with frequency f and amplitude d. The maximum acceleration is given by:
+a=d 2m f)? (2)
+The recently presented dimensionless number G4, will indicate the likelihood of cavitation
+within the liquid. In general if G;, < 1, the liquid will cavitate. This is set in a similar manner
+as the traditional cavitation number that will indicate cavitation when N-, < 1. However,
+3

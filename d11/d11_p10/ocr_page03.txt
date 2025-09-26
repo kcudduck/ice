@@ -1,0 +1,62 @@
+3
+gas-liquid interface motion, the Gilmore model presents Kirkwood-Bethe hypothesis, which does not require ex-
+an extension to the models of Herring ®® and Trilling ®* plicit knowledge of the generated flow velocity. Moreover,
+that are bound to first-order acoustics. In addition, while previous studies**:°#:°* had deliberately avoided the
+Gilmore °? also derived models for the flow velocity and multivalued solutions arising at shock fronts, Akulichev
+pressure induced by a bubble or cavity under different et al.” used the rule of equal areas®’ to treat such mul-
+assumptions. Among these models is an ordinary differ- tivalued solutions. As a result, Akulichev and co-workers
+ential equation (ODE) for the flow velocity with respect ~~ were able to demonstrate that when the emitted pressure
+to the radial coordinate along outgoing characteristics wave forms a shock front, the pressure may be severely
+based on the Kirkwood-Bethe hypothesis, which allows overpredicted if the additional dissipation arising at the
+to reconstruct the flow and acoustics resulting from a shock front is not taken into account.
+bubble collapse or oscillation. Generalizing the Gilmore All the research reported in the publications discussed
+model for spherical bubbles, Kedrinskii and Kuzavov ®° above employ the (modified) Tait equation of state®° to
+proposed a model of the radial dynamics of bubbles in describe the liquid properties, starting with the original
+planar and cylindrical symmetry. work of Kirkwood and Bethe®’. The main shortcom-
+
+Hickling and Plesset 64 published an institutional re- ing of the Tait EoS is that it drastically overpredicts the
+port on a study of the collapse and rebound of an adiabat- temperature due to isentropic compression® ". How-
+ically compressed gas cavity in 1963, using the Kirkwood- ever, the Kirkwood-Bethe hypothesis is not limited to a
+Bethe hypothesis in conjunction with the method of char- specific EoS for the liquid. Flynn ®>:°® used a tabulated
+acteristics. A shortened version of their report was pub- ~~ EoS based on the work of Rice and Walsh”! to define
+lished as a paper’® the following year. To describe the the properties of the liquid. Unfortunately, however, a
+flow of the liquid surrounding the gas cavity, Hickling and ~~ copy of one of Flynn’s reports’® on this matter could
+Plesset presented ODEs for both the flow velocity and not be located (the reference here relies on the account
+pressure with respect to time along outgoing characteris- ~~ of Ivany **), while the other report® does not present
+tics based on the Kirkwood-Bethe hypothesis, although the methodology in detail. Recently, Denner” extended
+they did not present a detailed derivation of these ODEs. the Gilmore model using the Noble-Abel stiffened-gas
+Under the assumptions associated with the Kirkwood- (NASG) EoS and, subsequently, Denner and Schenke
+Bethe hypothesis, the ODE for the flow velocity with used the NASG EoS successfully to model the flow and
+respect to time (du/dt) proposed by Hickling and Ples- acoustics induced by cavitation bubbles in conjunction
+set 94 is equivalent to the ODE with respect to the radial with the models of Gilmore, Hickling and Plesset °*,
+coordinate (du/dr) of Gilmore °“. and Ivany **.
+
+Ivany ** revisited the theory on cavitation bubble dy- These milestones form the foundation of KBH models
+namics and acoustic emissions in a PhD thesis on the today. Concurrent and subsequent research efforts have
+collapse of gas cavities, completed in 1965. In this thesis, primarily focused on applying these models to various
+which was in parts published in a subsequent paper’”. engineering problems, as well as to elucidate the physics
+Ivany presented a detailed derivation of an ODE for the of pressure-driven bubble dynamics and acoustics.
+flow velocity in the liquid starting from the momentum
+and continuity equations by using the Kirkwood-Bethe
+hypothesis and, in fact, arrived at the same ODE as Hick-  B. Applications
+ling and Plesset °* two years prior. However, while the
+model presented by Hickling and Plesset required to also The application in the context of which the Kirkwood-
+solve an ODE for the pressure, Ivany employed an explicit Bethe hypothesis was originally conceived are underwater
+expression for the pressure along outgoing characteristics explosions, whereby the expansion of burnt gaseous deto-
+obtained directly from the Kirkwood-Bethe hypothesis pation products and the emitted shock wave in the water
+using the Tait®® equation of state (EoS), as previously are of primary interest. Early work on this subject, start-
+suggested by Gilmore®. In the appendix of the thesis, ing with the study of Kirkwood and Bethe *?, focused on
+Ivany ** carefully explains how the bubble dynamics and predicting the evolution and decay of the peak pressure
+the flow field are solved and, remarkably, provides listings of the emitted shock wave in spherical**?279% and cylin-
+of the developed computer codes, written in the Michi- drical symmetry®7:6%:80:99 Tq this end, the main aim was
+gan Algorithm Decoder programming language, making to find an accurate definition for the decay constant 6 of
+it perhaps the first open-source software for cavitation the approximately exponential decay, et? of the peak
+research. Shortly after, in 1966, Lilliston®> provided pressure. In the 21st century, the focus has shifted away
+a computer code written in Fortran IV for bubble dy- from approximating the peak pressure in favor of using
+namics and the resulting flow field based on the work of ~~ KBH models to compute and study the full range of dy-
+Gilmore °* in the appendix of a report on the collapse of namics arising in underwater explosions, including the
+a gas-filled cavity. associated bubble dynamics!’ 1"? pressure and shock
+
+Akulichev et al. ™ proposed an explicit approximation waves! 19% and fluid-structure interaction'”. These
+for the pressure emitted by oscillating bubbles using Rie- models have repeatedly been found to be of very high
+mann invariants and the Tait EoS on the basis of the predictive quality’! 14. The research into underwater

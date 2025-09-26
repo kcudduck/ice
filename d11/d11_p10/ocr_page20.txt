@@ -1,0 +1,60 @@
+20
+40 0.3
+: 10
+10
+8
+= 30 ~ 0.0 — 10
+jus a6
+= 20 2-03 = 10
+=< SS 4
+= ht © 10
+= 10 = 0.6 =~
+10
+0 -0.9 10°
+0 3 6 9 0 3 6 9 0 3 6 9
+t [ps] t [ps] t [ps]
+FIG. 12: Temporal evolution of the radius R(t), bubble wall Mach number R(t)/cr(t), and gas pressure pga (t) of the
+laser-induced bubble of Liang et al.””, obtained with the Gilmore model.
+4 FET .
+— 0 Rr iy NR |p) J
+= 3 ol et 2 » — 1 —0.07 ns
+2 1077 =) = —
+— “a — —— 19+ 0.09 ns
+so, TONG < —1000 fo+0.30 ns
+> ge, = to + 0.76 ns
+< 10 Gi ". fo 43.20 ns
+—6 5 —6 5
+10 10 10 10
+r [m] r [m]
+
+FIG. 13: Wave profiles of the pressure amplitude Ap(r,t) = p(r,t) — po (t) and the flow velocity u(r, t) at selected
+time instances of the acoustic wave emitted by the first collapse of the laser-induced bubble of Liang et al. °”,
+obtained with the KBH model described in Section VIII B. The solid line shows the results obtained by applying the
+proposed averaging procedure at the shock front, the dotted line shows the results obtained by clipping the wave
+profile, and the colored dots show the corresponding results of Liang et al.””. Time t; is the time at which the peak
+pressure 1s emitted.
+
+B. Complex impedance of curved acoustic waves the velocity is
+The acoustic impedance experienced by a curved R(T) @/2 PL(T) — Poo (T)
+: ur (r,t) = | —== _— (111)
+acoustic wave is complex, see Eq. (37), and depends on r(t) pe
+the radius of curvature of the acoustic wave relative to its
+wavenumber. Only for relatively short Waves (kr > ) or, using the notation used in the acoustic expansions,
+does the simple definition z = pc of the specific acoustic : h
+. . . . with p = pg + Pi,
+impedance hold in good approximation.
+As discussed in Section VIA, the explicit velocity ex- 0/2
+pression given by Eq. (69) is the sum of the displace- uy (r,t) = EY pi(7) (112)
+ment of the fluid by the moving gas-liquid interface and r(t) pc
+the acoustic particle velocity associated with the emit-
+ted acoustic wave. According to Eq. (69), the acoustic ~~ This expression is evidently not dependent on the relative
+particle velocity wu; is, thus, given as curvature of the emitted wave and, therefore, suggests
+that velocity expressions derived from the Kirkwood-
+a/2 Bethe hypothesis do not account for the complex acoustic
+R(7)]*" hi (r) = hol) :
+uy (r,t) = a FCOERTCOR (110) impedance of curved waves.
+rt) crt) + u(r. To test this, we consider a spherical emitter situated in
+water that oscillates and emits acoustic waves at angular
+Applying the isentropic relation dh = dp/p and assuming frequency w,, chosen such that a specific dimensionless
+the acoustic wave has a small pressure amplitude, such wavenumber k, RR is obtained, with k, = w,/c. The pres-
+that u < ¢, p = p(r,t) = pr(7) and ¢ = ¢(r,t) = c,(7), sure at the emitter wall and the time-dependent velocity

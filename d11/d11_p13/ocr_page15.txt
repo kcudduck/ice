@@ -1,0 +1,34 @@
+JULIAN: VOLCANIC TREMOR—NONLINEAR EXCITATION BY FLUID FLOW 11,873
+h ZZ y \
+/ “\ \ | 72)
+d 2) | | YAR
+y \ | | | | \ Q | |
+hh NY NG
+A
+Yl | I |
+h Z| I NS) /
+Figure 14. (continued)
+from the plot to eliminate the initial transients. For low until at about 18.5 MPa the peak (and trough) values
+pressures, the flow is asymptotically steady, and h takes become densely distributed over a single band. Within this
+on a single value. At p; = 10.2 MPa, steady flow becomes fully chaotic regime, however, the behavior still exhibits
+unstable, a limit-cycle oscillation appears, and the curve several kinds of regularity. The edges of the chaotic bands
+bifurcates. For 10.2 < p; < 15.4 there are two curves, are still evident as darker regions, because these values occur
+corresponding to the peaks and troughs of simple limit- more frequently than others. More surprisingly, for p; in
+cycle oscillations like the one shown at the top of Figure 12. certain narrow “windows,” there is a return to periodic
+A succession of further such “pitchfork” bifurcations [May, behavior but with periods that are no longer powers of
+1976] marks the appearances of subharmonic responses of 2, as they were below the chaos threshold. Within each
+higher orders. The pressure increments required to produce window, the periodic behavior reverts to chaos through a
+successive bifurcations decrease, and their ratios approach new subharmonic period-doubling cascade, although this
+the universal constant § = 4.669... of Feigenbaum [1978; behavior is not clearly resolvable in Figure 16.
+1980]. As discussed above, this geometric series approaches For p; above about 21 MPa, the system evolves in an
+a limit or “accumulation point” at about 17.9 MPa, beyond unexpected way, passing through a reverse period-doubling
+which the behavior becomes chaotic. For p; in a narrow cascade back to a “period two” limit-cycle oscillation. Not
+range slightly above the chaos threshold, there occurs an all nonlinear systems behave in this way, and it is not
+“inverse cascade,” whose time series are “noisy limit cycles.” yet clear why our tremor model does so. The manner In
+In this regime, the peak and trough values are restricted which the evolution of the dynamics depends on the choice
+to discrete “bands” of finite width. The successive peaks of parameter values is obviously a rich field for future
+and troughs visit these bands in a cyclic order, but the investigation.
+actual values within each band vary chaotically. Figure 14d The existence of a strange attractor indicates that, despite
+shows an attractor with two such bands, corresponding to its apparently random appearance, the chaotic time series
+the fourth time series in Figure 12. The bands become in Figure 12 contain a high degree of order. A more striking
+broader with increasing p;, and adjacent bands overlap, demonstration of this fact is provided by the “first-return

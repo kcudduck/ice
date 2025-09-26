@@ -1,0 +1,41 @@
+contourlines for G4 values of 0.5, 1 and 2 are included in these charts. G4 is calculated using
+the radius of the probe for the left part of the charts. For the right end, where diameters of
+the probe are big, and the radius of the probe is longer than half the wavelength, half the
+wavelength is used. Half the wavelength is calculated as cAt where c is the speed of sound
+and At is half the period. This explains why G4 is not dependent on the diameter of the
+probe when the dimeter is large. It becomes a horizontal line on the right part of the chart.
+The selection of frequencies used for this study are 20 KHz (Figure 4), 30 KHz (Figure 5), 40
+KHz (Figure 6), 100 KHz (Figure 7) and 1 MHz (Figure 8). The higher the frequency is, the
+shorter the wavelength is, and therefore, the longer the horizontal part of the countourline
+for G4 is.
+20 KHz
+Ga=0.5 —Ga=1 Ga=2 HW Simul.
+100
+Cavitation
+10
+E
+2
+< Ga=1
+>> No Cavitation a2
+0.01 = T 55 af
+Diameter Gham i
+Figure 4 Amplitude needed to cavitate for a given probe diameter at 20
+KHz in water at room conditions. Contourlines for G, values of 0.5, 1 and
+2 compare with the onset of cavitation according to simulations
+represented as squares.
+30 KHz
+Ga=0.5 —Ga=1 Ga=2 Bl Simul.
+100
+Cavitation
+10
+E
+2
+<C
+od No Cavitation on
+0.01 £ i i
+° Diameter (mm) .
+Figure 5 Amplitude needed to cavitate for a given probe diameter at 30
+KHz in water at room conditions. Contourlines for G, values of 0.5, 1 and
+2 compare with the onset of cavitation according to simulations
+represented as squares.
+6

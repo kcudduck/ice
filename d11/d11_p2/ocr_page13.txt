@@ -1,0 +1,70 @@
+The Journal of Organic Chemistry pubs.acs.org/joc
+species from aqueous to organic phase to epoxidize cis- HB PIEZOELECTRICITY AND PIEZO-REDOX
+cyclooctene (Scheme 20). While the silent reaction produces CHEMISTRY
+-Y Ultrasonic energy is transmitted by power transducers, which
+Scheme 20. Catalytic Cycle Induced by High-Frequency have the ability to convert high-frequency electrical fields into
+Ultrasound in the H,0,-Mediated Biphasic Epoxidation of mechanical vibration. This takes advantage of the piezoelectric
+Cyclooctene effect in certain crystals, by which a mechanical force applied to
+() H,0,, QX )))) Cy an ionic crystal produces an electric polarization, and therefore
+0 a measurable voltage. This is the direct piezoelectric effect. The
+, N inverse piezoelectric effect occurs when a voltage applied to the
+material leads to mechanical strain (Figure 4). Piezoelectricity
+ne, ne, -
+J 0 | °Q* Ji 0 | 2q" Mechanical
+<0 ll F ~~ deformation
+PAN y, BAN oo
+OO" / ~O o~/ O —
+O 5 O 5 pT
+organic pe -
+he N_ [= Shae (a) BE Av (b) Ey
+a em sues a ——
+2© HO H20; ,© phase
+J O | oH* J 0 | oH* Figure 4. Schematic representation of direct (left) and inverse (right)
+Sw? We piezoelectric effects.
+0" / 0 0" / ™0 -—
+O 2 O 2
+has the origin in the lack of a center of symmetry in the crystal
+NS structure and the anisotropic effect can only be observed in
+some directions of natural and artificial crystals.” Along with
+piezoelectric transducers, magnetostrictive materials have been
+QX (Aliquat-36) = OctsMeN "CI : :
+employed as well, where a magnetic field converts into
+- mechanical motion. However, the development of piezoelectric
+higher conversion and yield after 15 min, almost complete ceramics with improved mechanical properties make these
+selectivity toward epoxide formation is provided by sonication materials suitable for most power ultrasonic systems.
+between 15 and 45 min. This result is linked to the accurate Furthermore, piezoelectric crystals can also be ferroelectric
+control of temperature (between 60 and 80 °C), which also with a hysteresis loop, a nonlinear relationship between
+allows a low loading of H,WO, as catalyst compared with the polarization and the applied electric field.'”’ Common
+nonirradiated reaction.” piezoelectric materials include oxides like BaTiO; PbTiO;
+A more direct participation of water sonolysis at high and LiNbO; together with more complex compositions, albeit
+frequency that alters product selectivity is evidenced by glucose in all cases they show perovskite-type structures. It is
+oxidation catalyzed by cupric oxide at 550 kHz.” While noteworthy that piezoelectricity can be substantially improved
+ultrasound alone and Cu(II) catalysts can independently by metal doping, which may find further applicability in sonar
+oxidize glucose to gluconic acid, water sonolysis at high and ultrasonic imaging.'**
+frequency under argon leads to H® and OH" radicals, the Piezoelectric materials, in the form of massive solids or
+former being trapped by the oxygenated lattice of the catalyst. particles, have shown to catalyze redox reactions under
+This leaves concomitantly a broader coverage of OH" radicals mechanical force, like those produced by shear conditions of
+on the CuO surface that selectively oxidizes glucose to low-frequency ultrasound as well as strong mechano-vibration.
+glucuronic acid (Scheme 21). Moreover, cavitation bubbles are It is believed that charges occur in the catalyst, thereby
+- generating a strain-induced voltage that can be coupled with
+Scheme 21. Selective Sonocatalytic Oxidation of p-Glucose electron transfer with substrates. Such mechanoredox catalysts
+to p-Glucuronic Acid under High-Frequency Ultrasound can be viewed as analogous to photoredox catalysts, which
+OH o_ OH hold significant promises for synthetic explorations. In order to
+0 ) 0 understand how piezoelectricity can mediate a redox trans-
+A Tho oN formation, some physical considerations are needed, the basis
+OH OH being that aligned dipoles exist within the solid. A compressive
+| oo force will decrease the dipole separation, thus leading to a net
+H+ HO HO HO HO charge on the faces of the material and hence a voltage.
+CuO —  » Cu,0,, Conversely, a tensile force will produce an opposite voltage. As
+a result, a piezoelectric material combines both mechanical and
+- electric properties.'”” For an elastic solid, the relation between
+stress (0) and strain (¢) is given by Hooke’s law in the form
+much smaller at high frequency than at the usual 20 kHz, thus
+preventing the mechanical damage of shock waves on the 0 = Ee (3)
+catalyst after implosion. Gluconic acid is formed as byproduct where E is Young's modulus. For the remaining discussion,
+in low yield (<10%), probably due to diffusion of radicals into however, and given the potential confusion between E for
+the bulk liquid. The use of a radical scavenger inhibited the Young's modulus and the standard nomenclature for electric
+formation of glucuronic acid, thus illustrating the synergistic field strength (with identical symbol), Hooke’s law should now
+effect of OH® radicals and the solid catalyst. be expressed as
+13845 https://doi.org/10.1021/acs.joc.1c00805
+J. Org. Chem. 2021, 86, 13833-13856

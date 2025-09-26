@@ -1,0 +1,43 @@
+The validity of the previous Lemma along with the fact that A generates Cp—semigroups 7'(%)
+and S(t) on H; and H respectively, guarantees that, for each W € X there exists a unique ® =
+(uw, ug, ug) =: OW) € C([0,T];H;) solution of (2.9) characterized as the variation of parameters
+formula with forcing term F(V¥) and initial condition ®¢ = (ug, uy, us) € Hy, i.e.,
+
+!
+OV)(t) =T(t)Py + / T(t—o0)F(V)(o)do (5.5)
+0
+and we note that the same formula is valid if we replace T(t) by S(t). Moreover, uniform exponential
+stability implies the existence of numbers wg, wi, My, My; > 0 such that
+|T() Poll, < Mie" ||ollm, and [|T'(¢)Pollm < Moe "|| Po||m (5.6)
+for all £ > 0. Among other properties, the exponential stability of the linear problem implies invariance
+of the map © in X?, as we make precise below.
+Lemma 5.2. . Given ®y € H; such that ||®g||lm, < C . Then, there exist 3 > 0 and pg > 0 with the
+property that if ||Pollm < ps then the map © is XP” —invariant.
+Proof. Proving this claim is equivalent to prove that there exists § > 0 for which [|©(W)(¢) |g, Sr+1
+and [|©(W)(t)||g < B for all t € [0,T) and each ¥ € XP provided ||®¢|lm < pg, with ps conveniently
+chosen. From (5.5) and (5.6) it follows, for each t € [0,T),
+l
+1) (|r, < [[T() Pom, + T(t — 0) F(¥)(0) ||, do
+!
+<M (all + [NF sd
+0
+Cy,
+S Mi[f|@olm, + — sup 7|[F(V) (1) lm]
+T  t€[0,T]
+
+SMC + Mir7iC, (B24 BV +1) Sr, (5.7)
+provided M;C < 1/2(r+1) and f is sufficiently small. Moreover, by Lemma 5.1 (and again (5.5) and
+(5.6))
+
+l
+|O(¥) (1) ls < [TOs + | IT(t =) FW) do
+!
+< Mo (alla + | IF) 0) do
+0
+M,C,
+< Mo Poll + ——= sup 7[|[F(¥)(t)]|s,
+T  t€[0,T]
+S ps + (87+ Br +1) < 8 (5.8)
+provided 8 and pg < 1/28 are sufficiently small. []
+We are then ready to prove that for a (possibly smaller) 8, the map © is a contraction.
+27

@@ -1,0 +1,64 @@
+For a 2-bubble system, the only secondary Bjerknes second one contains the sign of fi, (sgn fi»). Two ma-
+force factor 1s fi». fi» depends on many parameters chine learning models are built for the two sets sepa-
+of the system, including Rg;, D, p,, w, v, p, c, O, rately, and the prediction for fi, 1s reconstructed from
+and k. In the present investigation, we choose water the two models. The first model, given the nature of the
+as the medium, hence fixing v at 0.89 X 107m? /s, 0 data, 1s a regression model, which 1s implemented with
+at 997kg/m?, ¢ at 1497m/s and o at 0.0721N/m. An a feed-forward neural network (FFNN). The data in the
+adiabatic process 1s assumed so that k 1s fixed at 1.4, second data set are binary (they are either 1 or —1). A
+whereas pg 1s assumed to be the atmospheric pressure classification model, the support-vector machine (SVM),
+Pam = 1.013 x 10°Pa. The objective of the investigation 1s thus used. If the predictions from the first and the sec-
+1s to model the dependence of fi, (hence Fj») on the five ond models are y; and y,, respectively, the prediction for
+parameters: D, p,, w (or f), Rg; and Rg». f12 1s then given by y, 10°".
+
+Working with log, [f12| proves to be crucial. Taking
+
+the logarithm reduces the range of the data, and as a re-
+
+3. The data for fi, sult, a FENN can be found to model |fi»| (after expo-
+nentiation) and hence fi; with good accuracy. Without
+
+The machine learning method is used to discover the separating the magnitude and the sign and taking the log-
+complicated dependence of fi, on the system parame- arithm of the magnitude, we failed to find a satisfactory
+ters. The method 1s data-driven and 1s based on a large ~~ ML model for f;,. The FENN and the SVM models are
+data set for fi» obtained over a range of values for the pow explained.
+five parameters. The distance D ranges from 100um to
+1000um with an increment of 100um. The pressure am- 4.1. The feed-forward neural network for log,, | fia)
+plitude p, ranges from 40kPa to 150kPa with an incre- oo
+ment of 10kPa. This range covers both near harmonic An FENN [14] typically includes an input layer, an
+and strongly nonlinear aharmonic oscillations. The forc- out put layer, and several hidden layer > of neurons. The
+ing frequency f ranges from 20kHz to 40kHz with an neurons are connected to and receive 1mnputs from those
+increment of 10kHz. Both Ry; and Rp, start at 1um and In previous layers, and similarly, connected to and send
+end at 10um with an increment of 2um. outputs to those in later layers. Each neuron is defined
+
+When the other parameters are held fixed, a bubble by an activation function (also known as transfer func-
+pair with radii (Rg, Rgy) would have the same fi, as a tion), which processes the puts and generates an out-
+pair with radii (Rg, Rg). Therefore the parameter com- put. The Inputs are combined with suitable weights W
+binations with Rg; < Rp» are removed from the data set, and biases b in the activation function. Fig. [1| provides
+which leaves in total 5400 combinations of parameter a schematic illustration of the structure of an FENN. All
+values. Eq. 3]is numerically integrated for each combi- the cop onents in a blue box forms a NEUIon. Only One
+nation to obtain the corresponding fi». The ode45 solver ~~ THOR 15 shown explicitly mn each layer in Fig. [1] but mn
+in MATLAB is used. In each run, the simulation 1s run reality there could be many. In an FENN, the number
+for ten periods of the forcing pressure to allow the os- of hidden layer s, the number of neurons in each layer,
+cillation becomes stationary. The data from the last two and the activation functions are chosen a prior and, ih
+periods are used to calculate the force factor fi, accord- practice, mostly “mp irically. The weights w and biases b
+ing to Eq. 0] The data for fj, obtained this way, and are determined by training’ the network to provide the
+the corresponding parameters, form the dataset for the Op timal description of the data in the so-called train-
+development of the machine learning models. In the ter- hg dataset. The OP timal weights and biases are usually
+minology of machine learning, a set of values for the five obtained by applying OP timization algorithms which ad-
+parameters 1s called a predictor, the corresponding fi, 1s Just the weights and biases iteratively through 4 Process
+a response. called back-propagation. For more details on FFNNs and
+
+machine learning in general, see, e.g., [14, 17, 13].
+4. The machine learning models 4.1.1. The architecture and the hyperparameters
+MATLAB 1s used to define, train, validate and test the
+
+The secondary Bjerknes force factor fi, depends sen- network |6]. The numbers of layers and neurons and the
+sitively on the flow parameters. As a result, the magni- activation functions are the hyperparameters that should
+tude for fi, varies over many orders of magnitude, which be decided at the outset.
+poses a significant difficulty for the development of the For the activation functions, the default setting 1s
+machine learning models. adopted, where the hyperbolic tangent sigmoid function
+
+To overcome the difficulty, the data set for fi, 1s split 1s used for the neurons in the hidden layers and the linear
+into two. The first one contains log, |f12|, whereas the function 1s used in the output layer. Even though in the
+
+3

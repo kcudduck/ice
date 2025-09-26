@@ -1,0 +1,39 @@
+2 as expanded - 60 Note chage wrt ICDD i it (b)
+s - ccm NA sites Z=4 <7 1
+HK: IL ut: gl [Linear Fit 25
+gh We =< 40 |
+2 | 8 g PY o
+Q_T79 = 48.48
+£ © | © 89-7213 = J ( ) |
+BE S LJ
+0 20 550) 40 Zz " — NA sites Z=12
+z 20 3 Non Linear
+(a) S ’ Ap/p=3Al/l H Cubic Fit
+- = |g Ap/p=Am/m+3AIN| =
+& 0 —
+pr Cm 9 0 20 40 60 80
+E og : : Unitcell ¢/a expansion (%) |as strain]
+< = Yield point
+~ C= ot! 0 Max strength : (¢)
+gc Le on | o=Ee€1—/. 5
+Er . IT cn Strain softening “—
+E hotpspey go)
+h l (any — ~O > 2 Proportional lint —
+= # wikipedia.org
+ICDD PDF: 89-7213 elem
+Fig.4 13 [Expandable GC]: (a) schematic of Graphite unit cell and its generated
+XRD pattern (b) change in unit cell density versus lattice expansion as stress-
+strain curve, and (c) physical shape of stress-stain curve adopted from
+Wikipedia respectively.
+Thereby in the elastic region, observation the stress versus strain proportionallity
+behavior observation is analogously extended to the material density changes brought
+in by c-axis elongation. This presumption is correct until no external mass flows into or
+out of this hexagonal carbon unit cell (GC, crystal system- hexagonal, space group
+number-194, space group symbol-P63/mmc) is strictly prohibited. That is, elongation
+proportionally reduces unit-cell density. Based on this fact, both the c-axis elongation
+and corresponding possible density changes of a variety of GC unit-cells are plotted in
+fig. 4 13 (b). The expansions of these GC unit-cells are with respect to the ICDD PDEF-2:
+89-7213 standard file. The set of expandable GC unit cells utilized are tabulated in
+Table-1 taken from “The material project: A material genome approach to accelerating
+material innovation” [398]. Two implications of this correlation are; (1) a nonlinear
+27

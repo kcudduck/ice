@@ -1,0 +1,61 @@
+2. Noble-Abel-stiffened-gas equation of state 3. Gilmore-NASG model
+The NASG EOS [8] combines the stiffened-gas EOS The Gilmore model [5] describes the temporal evo-
+and the Noble-Abel EOS to yield an unconditionally lution of the bubble radius R by a second-order ordi-
+convex EOS that includes both molecular attraction nary differential equation, given as
+and repulsion. The original idea for the NASG EOS
+goes back to Tammann [17], as studiously pointed out t B ) REL 3 t B = P2 _
+by Radulescu [9]. CL 2 3CL
+The NASG EOS is defined by its thermal and (10)
+caloric equations of state, which are given as [8] t n Ri H+ t ft R H
+CL CL Cr’
+p(v,T) = D&T Delp CON
+v where C7, is the speed of sound of the liquid at the
+(v—1)(e—q) bubble wall and H is the difference between the en-
+pve) = ———7— = B (2) thalpy of the liquid at the bubble wall and at infin-
+ity. Combining the Gilmore model, Eq. (10), with the
+respectively, where p is the pressure, 1" is the temper- NASG EOS, thus, requires suitable definitions for Cf,
+ature, e is the specific internal energy, v is the specific and H.
+volume, b is the co-volume that represents the volume The density of the gas in the bubble follows from
+occupied by the individual molecules, B is a pressure the conservation of mass as
+constant that models molecular attraction, vy is the
+heat capacity ratio, ¢, is the heat capacity at constant Ref :
+volume and q is a specific reference energy. For a fluid PG = Pgret (5) (11)
+modelled by the NASG EOS, the speed of sound is
+where Ref 1s the reference bubble radius and pg ref 18
+c= |r p+ B 3) the assoclated gas density. Lhe pressure of the gas in
+p(1—bp)’ the bubble is then given, following Eq. (6), as
+Ig
+where p = 1/v is the density, and the enthalpy is PG = (Pg ret + By) BE (1 — bg Pere) ~ B,, (12)
+Pg. ref (1 — bs pc)
+h=vyc,T+bp+q. (4)
+where subscript g denotes the properties of the gas
+Along the isentrope, the NASG EOS yields [9] and pg ref is the predefined reference gas pressure as-
+sociated with R,.;. The pressure in the liquid at the
+(p+ B)(v—b)" = const. (5) Lubble wall is defined as [2]
+By replacing the heat capacity ratio v with the 5 J
+general polytropic exponent I', the isentropic relation PL = Pa — “9 4 1p —, (13)
+given in Eq. (5) is readily turned into a polytropic h h
+NASG EOS, given as [18] where o is the surface tension coefficient and uy is the
+0 ) dynamic viscosity of the liquid. The liquid speed of
+1—bp =K((p+ B)T, (6) sound at the bubble wall follows from Eq. (3) as
+where K is a constant representing the reference state, pr + By
+Cr = 1 (Ll —bopL) (14)
+K — Pref | (7) PL ¢ PL
+(Pret + B)T (1 = b pref) where subscript ¢ denotes the properties of the liquid
+with pres and pros the predefined reference pressure — and
+and reference density, respectively. The enthalpy of B Ky (pr, + Be) Te 15
+a polytropic NASG fluid follows by inserting Eq. (1) PL = 1 + by Ky (pr, + B,)T (15)
+nto Eq. (1) as is the density of the liquid at the bubble wall, with the
+pn _ I' p+B TI'b (p+ B)+bp+aq (8) constant representing the liquid reference state given
+b= p b= > Pe ref
+Kiy=——"°7"———, (16)
+and the temperature of this polytropic process follows (pore + Be) Te (1 — by pi ves)
+by inserting Eq. (1) into Eq. (5) as where py ref and py ref are the predefined reference pres-
+p+ B I—i sure and reference density of the liquid, respectively.
+T = Tier (22) (9) The enthalpy difference H = hy, — hy is given, based
+Pret + 55 on Eq. (8), as
+Conveniently, the NASG EOS readily reduces to
+the Tait EOS (b = 0, B > 0), the ideal-gas EOS H = Le (rs — bot 4) — by PL ~ Poo
+(b=0, B = 0) or the Noble-Abel EOS (b> 0, B = 0), Fe=1X\ po Poo Le—1
+dependent on the chosen fluid parameters. (17)
+2

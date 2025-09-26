@@ -1,0 +1,52 @@
+Machine learning models for the secondary Bjerknes force between two
+insonated bubbles
+Haiyan Chen, Yue Zeng
+School of Material and Energy, Guangdong University of Technology, Guangzhou, China, 510006
+Yi Li”
+School of Mathematics and Statistics, University of Sheffield, Sheffield, UK, $3 7RH
+-
+C\ EE —
+-
+cl Abstract
+- The secondary Bjerknes force plays a significant role in the evolution of bubble clusters. However, due to the
+© complex dependence of the force on multiple parameters, it 1s highly non-trivial to include the effects of this force
+- in the simulations of bubble clusters. In this paper, machine learning 1s used to develop a data-driven model for the
+~~ secondary Bjerknes force between two insonated bubbles as a function of the equilibrium radii of the bubbles, the
+distance between the bubbles, the amplitude and the frequency of the pressure. The force varies over several orders
+r=) of magnitude, which poses a serious challenge for the usual machine learning models. To overcome this difficulty,
+oO. the magnitudes and the signs of the force are separated and modelled separately. A nonlinear regression 1s obtained
+: with a feed-forward network model for the logarithm of the magnitude, whereas the sign 1s modelled by a support-
+Q, vector machine model. The principle, the practical aspects related to the training and validation of the machine models
+- are introduced. The predictions from the models are checked against the values computed from the Keller-Miksis
+Q equations. The results show that the models are extremely efficient while providing accurate estimate of the force. The
+OQ models make it computationally feasible for the future simulations of the bubble clusters to include the effects of the
+2 secondary Bjerknes force.
+QO
+7 Keywords: Bubble clusters, secondary Bjerknes force, machine learning, neural networks, support-vector machine,
+Pe numerical simulations
+= nnn
+oO,
+ll
+1. Introduction namics of micro-bubble clusters. The collective behav-
+— | . iors of up to 100 oscillating bubbles are modelled in
+> | The secondary Bjerknes force 23 4] is the Interac- 15] using the coupled Keller-Miksis equations [20]. It
+— tion between two bubbles oscillating in a acoustically jg found that the interactions between the bubbles can
+=? driven fluid, and 1t 1s induced by the pressure pertur- pe both constructive and destructive, and the bifurcation
+50 bation radiated from the bubbles. The force is thought sequences of a system with more bubbles can be much
+= to be important in the evolution of bubble clusters and different from a small one. The research again demon-
+— has attracted considerable research in the past decades trates the importance of the interactions between the
+- [8,31,32,9, 26, 2, 16,30, 35, 19, 36], which explores bubbles which are manifested as the secondary Bjerknes
+- me crects o noninear correction mulipe eee force. The force has been used to manipulate bubbles,
+@\ and the coupling with shape oscillation and translation, oo = a5 3 mean to control micro-devices, which poten-
+> as well as the experimental measurement of the force. tially have important applications [18, 21, 1]. Given that
+PT The asymmetricity of the force 15 discussed recently IM bubble clusters are commonly observed in biomedicine,
+>< ol aking io account heher reer non near coup ine metallurgical industries, food processing, and other ap-
+tween the bubbles, which further highlights the com- SE | |
+a ctw plications (see, e.g., [5, 3, 33, 10]), the modelling of the
+plexity of the force. | | | secondary Bjerknes force and hence bubble clusters is a
+| Recent experimental evidences [12, 22] support the question of significant interests.
+importance of the secondary Bjerknes force m the dy- Few simulations of bubble clusters so far have em-
+ployed sophisticated models for the secondary Bjerknes
+*To whom correspondence should be addressed. force. Numerical simulations conducted in [22], with a
+Email address: yili@sheffield.ac.uk. (Yi Li) simple model for the secondary Bjerknes force, quali-
+Preprint submitted to Ultrasonics Sonochemistry January 24, 2020

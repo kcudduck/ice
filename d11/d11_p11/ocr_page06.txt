@@ -1,0 +1,59 @@
+i streamers”.
+| | Besides, many bubble structures appear far from solid
+— Transducer boundaries as a more or less complex set of bubble fila-
+ments 1]. In that case, bubble seem to originate from
+7 Z given points of the bulk liquid, but the precise mechanism
+3 om of nucleation of such bubbles is not clear. Although it has
+on 19m long been thought that sub-micronic nuclei could grow up
+Oo : to the Blake threshold by rectified diffusion 32, 33], this
+40 cm ” | y Ricid walls is ruled out by nonlinear theory, since a sub-Blake bub-
+qu 5 ble cannot grow by rectified diffusion 34]. Coalescence is
+/ an alternative growth process, but this issue is yet unre-
+| solved. We will therefore assume that a bubble is visible
+2 i / DE
+Tere ating, that is in somes above the Blake threehold. Thi
+Anechoic bottom is anyway consistent with our assumption on the bubble
+| density used to calculate the acoustic field. We will
+Figure 5: Axi-symmetrical geometry for large area sonotrode. therefore launch streamlines from arbitrary points located
+on the calculated curves |P| = Pp, where Pp is the Blake
+threshold (Pp = 1.178 bar for 2 pum bubbles in ambient
+tures. However, since details on the internal structure of conditions, see [OL T]). We will refer to such streamlines
+the transducer are not given in Refs. 15, 16], we assumed as “L-streamers” and we will represent then with a color
+the latter made of steel and following a non-dissipative different from surface streamlines in order to distinguish
+elastic behavior represented by Hooke’s law (with Young ther.
+modulus E = 2x10" Pa, Poisson ratio v = 0.3, den- Figure [6] displays one of the original images obtained
+sity ps = 7900 kg/ m”). Lhe vibration of the transducer in Ref. 15] for an acoustic intensity I = 8.2 W. The
+15 coupled to the acoustic field tH the liquid by USING the cone is completely formed and ends in a long tail under-
+convenient cinematic and dynamic interface conditions, as going lateral fluctuations, which explains the slightly non-
+detailed in Ref. 30]. We simulate only the bottom part of v1) 16tric shape of the structure. Besides, it can be easily
+the transducer, containing the whole part immersed in the oop that a large region inside the cone is poorly populated
+liquid and all arbitrary small length (3 cm) of the emerged in bubbles, compared to the the immediate vicinity of the
+part. A uniform sinusoidal displacement of amplitude Uj transducer and the lateral boundaries of the cone.
+is imposed on the upper boundary of the simulated trans-
+ducer rod. In order to match the conditions of the ex- . BE
+periments, the acoustic intensity I entering the medium | Ly )
+through the lower boundary of the sonotrode is calculated TF |
+by: 30] ue
+1 1 .
+r=, [[ sreev ) dS 18) -
+S |
+Both parameters Uy and Ng are varied in order to obtain 4 wy nl ly 2 A
+the required value of I. ™ awl 4 ol 4s
+In order to tentatively exhibit the bubble structures i. Bi Lo ea N
+formed in a given configuration, the bubble paths, gener- p b &
+ally termed as “streamers”, will be materialized by draw- E = Re \
+ing the "streamlines” of the Bjerknes force field in some ) \ &
+parts of the liquid. The adequate choice of the starting d | ,
+points of these streamlines is difficult, because it would JA |
+require a clear knowledge otf the bubble nucleation pro- ,
+cess. Solid boundaries are known to act as sources of |
+bubble nuclei, where the latter may be trapped by mi- |
+croscopic crevices 31]. Common observation of cavitation
+experiments indeed show that bubbles often originate from Figure 6: Original image of cone bubble structure (reprinted from
+the transducer area, which might suggest that the release Ref. 15], with permission from Elsevier). The transducer diameter
+’ 1s 12 cm.
+of crevice-trapped bubbles is more efficient on vibrating
+surfaces. We will therefore launch systematically stream- We present in Fig. [7] a comparison between this pic-
+lines of the Bjerknes force field from equidistant points ture and the result of our model for Uy = 1.4 um and
+of vibrating boundaries, and we will term them as ”5- Ny = 360 bubbles.mm~3. Because the original picture is
+6

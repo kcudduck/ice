@@ -1,0 +1,68 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+
+186] O. R. Enriquez, I. R. Peters, S. Gekle, L. E. Schmidt, D. Lohse, and D. van der Meer,
+Collapse and pinch-off of a non-axisymmetric impact-created air cavity in water, J. Fluid
+Mech. 701, 40 (2012).
+
+187] S. Gekle, I. R. Peters, J. Manuel Gordillo, D. van der Meer, and D. Lohse, Supersonic Air
+Flow due to Solid-Liquid Impact, Phys. Rev. Lett. 104, 024501 (2010).
+
+188] A. Prosperetti, On the stability of spherically symmetric flows, Atti Accad. Naz. Lincei Rend.
+Cl. Sci. Fis. Mat. Nat. 62, 196 (1977).
+
+189] G. A. Caballero, R. Bergmann, D. van der Meer, A. Prosperetti, and D. Lohse, Role of Air
+in Granular Jet Formation, Phys. Rev. Lett. 99, 018001 (2007).
+
+90] J. R. Royer, E. I. Corwin, P. J. Eng, and H. M. Jaeger, Gas-mediated impact dynamics in
+fine-grained granular materials, Phys. Rev. Lett. 99, 038003 (2007).
+
+91] T. Homan, C. Gjaltema, and D. van der Meer, Collapsing granular beds: The role of inter-
+stitial air, Phys. Rev. E 89, 052204 (2014).
+
+92] D. van der Meer, Impact on Granular Beds, Annu. Rev. Fluid Mech. 49, 463 (2017).
+
+93] J. de Jong, G. de Bruin, H. Reinten, M. van den Berg, H. Wijshoff, M. Versluis, and D. Lohse,
+Air entrapment in piezo-driven inkjet printheads, J. Acoust. Soc. Am. 120, 1257 (2006).
+
+94] R. J. M. Jeurissen, A. van der Bos, H. Reinten, M. van den Berg, H. Wijshoff, J. de Jong,
+M. Versluis, and D. Lohse, Acoustic measurement of bubble size in an inkjet printhead, J.
+Acoust. Soc. Am. 126, 2184 (2009).
+
+95] R. J. M. Jeurissen, J. de Jong, H. Reinten, M. van den Berg, H. Wijshoff, M. Versluis, and
+D. Lohse, Effect of an entrained air bubble on the acoustics of an ink channel, J. Acoust.
+Soc. Am. 123, 2496 (2008).
+
+96] J. de Jong, R. Jeurissen, H. Borel, M. van den Berg, H. Wijshoff, H. Reinten, M. Versluis,
+A. Prosperetti, and D. Lohse, Entrapped air bubbles in piezo-driven inkjet printing: Their
+effect on the droplet velocity, Phys. Fluids 18, 121511 (2006).
+
+97] W. Bouwhuis, R. C. A. van der Veen, T. Tran, D. L. Keij, K. G. Winkels, I. R. Peters, D.
+van der Meer, C. Sun, J. H. Snoeijer, and D. Lohse, Maximal Air Bubble Entrainment at
+Liquid-Drop Impact, Phys. Rev. Lett. 109, 264501 (2012).
+
+98] L. Xu, W. W. Zhang, and S. R. Nagel, Drop Splashing on a Dry Smooth Surface, Phys. Rev.
+Lett. 94, 184505 (2005).
+
+99] S. Thoroddsen, T. Etoh, K. Takehara, N. Ootsuka, and A. Hatsuki, The air bubble entrapped
+under a drop impacting on a solid surface, J. Fluid Mech. 545, 203 (2005).
+
+1100] S. Thoroddsen, T. Etoh, and K. Takehara, High-Speed Imaging of Drops and Bubbles, Annu.
+Rev. Fluid Mech. 40, 257 (2008).
+
+1101] S. Mandre, M. Mani, and M. P. Brenner, Precursors to Splashing of Liquid Droplets on a
+Solid Surface, Phys. Rev. Lett. 102, 134502 (2009).
+
+1102] P. D. Hicks and R. Purvis, Air cushioning and bubble entrapment in three-dimensional droplet
+impacts, J. Fluid Mech. 649, 135 (2010).
+
+[103] J. M. Kolinski, S. M. Rubinstein, S. Mandre, M. Mani, M. P. Brenner, D. A. Weitz, and L.
+Mahadevan, Skating on a film of air: Drops impacting on a surface, Phys. Rev. Lett. 108,
+074503 (2012).
+
+1104] C. Josserand and S. Thoroddsen, Drop Impact on a Solid Surface, Annu. Rev. Fluid Mech.
+48, 365 (2016).
+
+1105] A. L. Yarin, I. V. Roisman, and C. Tropea, Collision phenomena in liquids and solids (Cam-
+bridge University Press, Cambridge, 2017).
+
+44 44

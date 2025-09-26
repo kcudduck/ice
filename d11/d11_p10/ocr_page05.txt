@@ -1,0 +1,61 @@
+5
+where p is the fluid density, u is the flow velocity, p de- as h — h — ho. The ambient enthalpy hh. is spatially
+notes the pressure, h is the specific enthalpy, T represents invariant (Vhs = 0), such that
+viscous stresses, ¢ is the heat flux due to thermal conduc-
+tion, and Dhoo _ Ohoo
+
+= (12)
+Dt ot
+D 0 :
+— = —+(u-V) (5) Inserting Eq. (10) in the form dp = pdh/c* alongside
+Dt ot the ambient enthalpy h., into the continuity equation,
+denotes the material derivative operator. The thermody- Eq. (7), yields
+namic relation dh = T'ds+dp/p allows us to reformulate 1 Dh 1 oh
+the energy equation in terms of the specific entropy s, — — +V.u= >, (13)
+such that c= Dt cs Ot
+D For convenience, we also separate the kinetic energy and
+S 1 : : :
+— =—(7:Vu-V-.gq), (6) the rotation of the flow by reformulating the convective
+Dt pT velocity derivative as
+where T' is the temperature. This system of equations u2
+is closed with a suitable equation of state (EoS) that (u-V)u=V (5) —u x (V xu), (14)
+defines a relationship between the thermodynamic quan-
+tities. Since the subsequent derivation is agnostic to the with which the momentum equation, Eq. (8), becomes
+applied EoS, we proceed without assuming a specific EoS 5 ,
+and revisit commonly used EoS in Section IV. u u B
+Assuming that the considered flow is ideal, without ot tv (5) —ux(Vxu)+Vh = 0. (15)
+viscous dissipation ( ’ ol and heat conduction (¢ = 0). Note that, since the density and pressure have been re-
+placed by the specific enthalpy and the speed of sound on
+Dp the basis of the flow being isentropic, the entropy equa-
+Dt +pV-u = 0 (7) tion, Eq. (9), is now obsolete.
+D 1
+= +oVp = 0 (8)
+B. Hypothesis
+Ds
+— = 0. (9)
+Di The Kirkwood-Bethe hypothesis is typically derived
+This set of governing equations, with which Kirk- and applied under the assumption of spherical sym-
+wood and Bethe *® commenced their work, assumes that metry. However, it can be derived more generally
+changes to the state of the fluid of a sufficiently smooth for one-dimensional problems, e.g. exploiting cylindrical
+flow are adiabatic and reversible. Consequently, the flow symmetry’, to explore the influence of the shape of a
+is isentropic, as imposed by Eq. (9). Especially for wa- bubble on its dynamics and the induced flow field. Here,
+ter, this turns out to be a good assumption even for ~~ we consider an arbitrary (quasi) one-dimensional domain,
+pressure waves with a large amplitude, because the re- illustrated in Figure 1, characterized by the dimension-
+sulting change in entropy is small. The previously sug- ality coefficient oo that defines the effective dimensions of
+gested upper limit for the validity of this approximation the system: a = 0 describing a planar case, a = 1 de-
+is p = O(GPa).*>"% Assuming that the flow is isentropic ~~ scribing cylindrical symmetry, and a = 2 describing the
+does, however, not imply that all fluid elements are on conventionally assumed spherical symmetry.
+the same isentrope, because the entropy may change at a Considering a (quasi) one-dimensional flow by exploit-
+shock front, which is further discussed in Section VIII C. ing the symmetry of the system, we know that the flow
+The differential relation of the specific enthalpy for an is irrotational, with V x u = 0. The continuity equation,
+isentropic fluid is Eq. (13), and the momentum equation, Eq. (15), along
+the one-dimensional spatial coordinate r are, therefore,
+dh = dp — ¢? dp (10) given as
+g g 1 (0h  On\ 1 0 1 Oho
+with the speed of sound c defined as 2 (5 TU uy - a Or (ru) = 2 Ot (16)
+2 op Ou 9 :) oh _
+© = (5) (11) ot i or 2)" or J. (17)
+where subscript s implies a constant entropy. In addition, Since the flow is irrotational, the velocity may be ex-
+to account for a time-varying pressure in the far field, we pressed in terms of the potential 1),
+introduce the ambient enthalpy h., and redefine, in a OY
+slight abuse of notation, the specific enthalpy difference = or (18)

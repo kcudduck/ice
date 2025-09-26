@@ -1,0 +1,37 @@
+60 20
+-=-210 — 7 Tetrakis Hexahedron
+O° 60 £ 18 \ |
+Re Nw Triakis
+2 40 Noe oN “% lcosahedron
+£30 ©
+O © 14
+S 20{ = &
+(0 LA i
+12 ® Pentakis
+= 10 / A Dodecahedron
+< 7
+0+ 10
+0 10 20 30 40 0 60 120 180 240 300
+Time (min) Irradiation power (W)
+Fig. 4. Left panel: Temperature increase as a function of time along the reaction process
+for samples labeled 60, 150 and 210. The stabilization of the reaction temperature was
+observed after approximately 20 minutes from the start of the irradiation. Right panel.
+illustration of the changes in polyhedron shapes adopted by GNPs and the corresponding
+average particle sizes vs. nominal irradiation power.
+Energy transmitted to the solution can be expressed as ultrasound power (W),
+ultrasound intensity (W/cm?), acoustic energy density (W/mL), or cavitation
+Intensity. The ultrasound and the cavitation activity in a reactor may vary for the
+same ultrasound intensity, If the sample volume and location of ultrasound
+transducer changes. Ultrasonic power, intensity, and acoustic energy density can
+be calculated using the following equations [37]:
+aT
+Power (W) = mC, Fe (2)
+Ultrasonic intensity (W/cm?) = . (3)
+Acoustic energy density (W /mL) = : (4)
+where, m Is the mass (0.09 kg), C, Is the specific heat capacity (4.186 ), AIS
+2
+the area of the radiating surface (in the case of ultrasonic probe A = = where D Is
+the diameter (0.95 cm), V Is the volume (90 mL), and E) IS the Initial rate of
+change of temperature during sonication. According with [37], this can be
+determined by fitting the data of Figure 4 (a) to a polynomial curve and
+13

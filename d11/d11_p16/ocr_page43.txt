@@ -1,0 +1,68 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+Chem., Int. Ed. 54, 12782 (2015).
+
+66] H.-L. Liu, C.-H. Fan, C.-Y. Ting, and C.-K. Yeh, Combining Microbubbles and Ultrasound
+for Drug Delivery to Brain Tumors: Current Progress and Overview, Theranostics 4, 432
+(2014).
+
+67] O. Neumann, C. Feronti, A. D. Neumann, A. Dong, K. Schell, B. Lu, E. Kim, M. Quinn,
+S. Thompson, N. Grady, P. Nordlander, M. Oden, and N. J. Halas, Compact solar autoclave
+based on steam generation using broadband light-harvesting nanoparticles, PNAS 110, 11677
+(2013).
+
+68] M. Versluis, A. v. d. Heydt, B. Schmitz, and D. Lohse, How snapping shrimp snap: through
+cavitating bubbles, Science 289, 2114 (2000).
+
+69] A. Prosperetti, L. A. Crum, and H. C. Pumphrey, Underwater noise of rain, J. Geophys.
+Res. 94, 3255 (1989).
+
+70] F. A. Everest, R. W. Young, and M. W. Johnson, Acoustical Characteristics of Noise Pro-
+duced by Snapping Shrimp, J. Acoust. Soc. Am. 20, 137 (1948).
+
+71] D. Lohse, B. Schmitz, and M. Versluis, Snapping shrimp make flashing bubbles, Nature 413,
+477 (2001).
+
+72] A. Prosperetti and H. Oguz, The impact of drops on liquid surfaces and the underwater noise
+of rain, Annu. Rev. Fluid Mech. 25, 577 (1993).
+
+73] H. Oguz and A. Prosperetti, Bubble entrainment by the impact of drops on liquid surfaces,
+J. Fluid Mech. 219, 143 (1990).
+
+74] H. N. Oguz, A. Prosperetti, and A. R. Kolaini, Air entrapment by a falling water mass, J.
+Fluid Mech. 294, 181 (1995).
+
+75] H. N. Oguz and A. Prosperetti, Dynamics of bubble-growth and detachment from a needle.,
+J. Fluid Mech. 257, 111 (1993).
+
+76] D. Lohse, R. Bergmann, R. Mikkelsen, C. Zeilstra, D. van der Meer, M. Versluis, K. van der
+Weele, M. van der Hoef, and H. Kuipers, Impact on soft sand: Void collapse and jet forma-
+tion, Phys. Rev. Lett. 93, 198003 (2004).
+
+77] J. C. Burton, R. Waldrep, and P. Taborek, Scaling and Instabilities in Bubble Pinch-Off,
+Phys. Rev. Lett. 94, 184502 (2005).
+
+78] J. M. Gordillo, A. Sevilla, J. Rodriguez-Rodriguez, and C. Martinez-Bazan, Axisymmetric
+bubble pinch-off at high Reynolds numbers, Phys. Rev. Lett. 95, 194501 (2005).
+
+79] R. Bergmann, M. Stijnman, M. Sandtke, D. van der Meer, A. Prosperetti, and D. Lohse,
+Giant bubble collapse, Phys. Rev. Lett. 96, 154505 (2006).
+
+180] S. T. Thoroddsen, T. G. Etoh, and K. Takehara, Experiments on bubble pinch-off, Phys.
+Fluids 19, 042101 (2007).
+
+81] N. C. Keim, P. Mgller, W. W. Zhang, and S. R. Nagel, Breakup of Air Bubbles in Water:
+Memory and Breakdown of Cylindrical Symmetry, Phys. Rev. Lett. 97, 144503 (2006).
+
+82] R. P. H. M. Bergmann, D. van der Meer, S. Gekle, J. van der Bos, and D. Lohse, Controlled
+impact of a disk on a water surface: cavity dynamics, J. Fluid Mech. 633, 381 (2009).
+
+83] J. M. Gordillo and M. Perez-Saborid, Axisymmetric breakup of bubbles at high Reynolds
+numbers, J. Fluid Mech. 562, 303 (20006).
+
+84] J. Eggers, M. A. Fontelos, D. Leppinen, and J. H. Snoeijer, Theory of the Collapsing Az-
+isymmetric Cavity, Phys. Rev. Lett. 98, 094502 (2007).
+
+185] S. Gekle, J. Manuel Gordillo, D. van der Meer, and D. Lohse, High-Speed Jet Formation after
+Solid Object Impact, Phys. Rev. Lett. 102, 034502 (2009).
+
+43 43

@@ -1,0 +1,60 @@
+eling and standing waves”. The present results seem to correctly reproduced by our simulations, provided that the
+enforce this interpretation: a traveling wave takes birth elastic deformations of the emitting transducer were ac-
+near the vibrating area, because of the strong attenuation counted for. Besides, the calculated stagnation point on
+by the bubbles located there, and launches the bubbles far the symmetry axis was found to be much farther than the
+from the plate. It ends up at a pressure antinode which cone tip, which would explain the long bubble tail visible
+
+attracts all the bubbles, either coming from the plate, or in experimental picture.
+taking birth in neighboring zones. The lateral enrichment In the cleaning bath configurations, the flexural vibra-
+of the main bubble path originates from a standing wave tions of the bottom plate were found to produce several
+in the direction perpendicular to the traveling wave. zones of large acoustic pressures, located near the plate dis-
+placement antinodes. These high acoustic pressures pro-
+(a) yi 9N J (b) duce locally a thin layer of strongly oscillating bubbles
+| AAT dissipating a lot of acoustic energy, which yields damped
+A » traveling waves and cone-like structures. In some cases,
+N . 7/ the bubbles reaching the cone tip carry on their motion
+ ¢ ~ = : along a unique line, ending into a distant pressure antin-
+is 4 W) N SN ode, and laterally enriched by bubbles originating from
+or liquid zones excited above the Blake threshold. The ob-
+(A HAN : tained structure is reminiscent of a flare-like structure de-
+1 NG scribed in the literature, and known to occur frequently in
+
+y 3 | Cor cleaning baths configurations.
+ge | The reasonable success of our model in predicting ab
+3 2 initio such structures is encouraging, and seem to show
+» ~~ re P= that strong energy dissipation by inertial bubbles is a key
+py? ARSE ZN mechanism ruling the structure of the acoustic field in a
+i i aw =, RN cavitating medium. It is interesting to note that the self-
+— | TITS 71 \ action of the acoustic field evidenced in the present pa-
+Figure 18: Comparison between: (a) a flare structure observed on the per differs from the mechanisms presented in the work of
+lateral side of a cleaning bath (reprinted from Ref. 1] with permission Kobelev & Ostrovski 40]. In the latter work, the self-
+of Research Signpost; the original image has been 90° rotated for action of the acoustic field is mediated by its slow influ-
+comparison purposes) (b) the structure predicted in the simulated ence on the bubble population, while here, the mechanism
+configuration (zoom of Fig.[17] with more L-streamers sketched). is only due to the bubbles radial motion, even for constant
+bubble density. The latter assumption constitutes how-
+ever a weak point of our model, and requires the arbitrary
+4. Summary and discussion choice of two free parameters: the ambient radius of the
+bubbles Ry, and the bubble density, both being assumed
+The model proposed in the companion paper [OL I] has spatially homogeneous in regions above the Blake thresh-
+been applied to classical 2D configurations, namely large old. A more realistic model would require at least the
+area transducer emitting in a liquid, and cleaning baths.  gpatial redistribution of the bubbles. This may be done
+The density of bubbles was assumed constant in zones for example by coupling the nonlinear Helmholtz equa-
+where the acoustic pressure is above the Blake threshold, tion used in this paper with a convection-like equation for
+and null everywhere else. The possible paths of the bub- the bubble number density, as done in the linear case in
+bles were assumed to originate either from the vibrating Ref. 40], which requires the correct estimation of the av-
+parts of the solid, or from the Blake threshold contour erage translational velocity of inertial bubbles. As already
+curves, and calculated by computing the primary Bjerk- mentioned in introduction, this translational motion is de-
+nes force field directly from nonlinear bubble dynamics scribed by a somewhat elaborate physics (26, 27], and the
+simulations. estimation of an average velocity raises the complicated is-
+In the case of large area transducer, cone bubble struc- sue of properly averaging the translation equation 19-21].
+tures observed experimentally can be easily reproduced, Along the same line of investigation, an extension of the
+with reasonable agreement in the cone shape. A strongly present work could consist in launching some bubbles in
+dissipative bubble layer was found to appear near the trans- the acoustic fields presented here, and to calculate their
+ducer, and the cone boundaries were shown to be made of ~~ paths within the latter by integrating in time the coupled
+bubbles following a focused traveling wave. The focusing equations of radial and translational motion described in
+was found to result from a radial acoustic pressure gra- Refs. 25, 27]. Apart from testing the validity of the cur-
+dient on the transducer area, which, following the result rent approximation, this would also provide a clear picture
+of the companion paper [OL I] produces a radial gradi- of the dynamics of bubble drift in the studied structures.
+ent of sound velocity. The streamers located on the lateral This may reveal some unexpected features, such as bubble
+boundary of the transducer, observed experimentally, were precession around some points in the liquid, as evidenced
+13

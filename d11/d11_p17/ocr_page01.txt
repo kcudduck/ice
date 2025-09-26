@@ -1,0 +1,56 @@
+Effect of ultrasonic irradiation power on sonochemical synthesis
+
+of gold nanoparticles
+
+J.A. Fuentes-Garcial?, J. Santoyo-Salzar3, E. Rangel-Cortes?, G.F. Goyal», V.
+
+Cardozo-Mata* and J.A. Pescador-Rojas**
+
+Instituto de Nanociencia de Aragon (INA), Universidad de Zaragoza, 50018
+
+Zaragoza, Spain.
+
+2 Unidad Profesional Interdisciplinaria en Ingenieria y Tecnologias Avanzadas del
+
+Instituto Politécnico Nacional, UPIITA-IPN, Av. IPN 2580, Ticoman 07340 Mexico.
+
+3 Departamento de Fisica, Centro de Investigacion y de Estudios Avanzados del
+
+Instituto Politecnico Nacional, CINVESTAV-IPN, Av. IPN 2508, Zacatenco 07360,
+
+México.
+
+* Universidad Autonoma del Estado de Hidalgo. Escuela Superior de Apan.
+
+Carretera Apan—Calpulalpan Km.8, Col. Chimalpa, 43920 Apan, Hgo., México.
+
+> Departamento de Fisica de la Materia Condensada, Facultad de Ciencias,
+
+Universidad de Zaragoza, 50009 Zaragoza, Spain.
+
+x*Corresponding author: nanopoli@gmail.com
+
+Abstract
+
+In this work, optimized size distribution and optical properties in colloidal synthesis
+
+of gold nanoparticles (GNPs) were obtained using a proposed ultrasonic irradiation
+
+assisted Tuerkevich-Frens method. The effect of three nominal ultrasound (20kHz)
+
+irradiation powers: 60, 150 and 210 W has been analyzed as size and shape
+
+control parameter. The GNPs colloidal solutions were obtained from chloroauric
+
+acid (HAuUClI4) and trisodium citrate (CsHsNaszO7 « 2H20) under continuous
+
+irradiation for 1 hour without any additional heat or stirring. The surface plasmon
+
+resonance (SPR) was monitored in the UV-Vis spectra every 10 minutes to found
+
+the optimal time for localized SPR wavelength (4; spr) and the 210 sample
+
+procedure reduces the A; spr localization to 20 minutes, while 150 and 60 samples
+
+show A; spr IN 60 minutes. The nucleation and growth of GNPs showed changes in
+1

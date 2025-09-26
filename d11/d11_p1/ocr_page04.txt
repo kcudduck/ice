@@ -1,0 +1,51 @@
+Hiddenl Hidden?2 Output
+Input w w w Output
+(J (J (J
+B00 90 | ohn
+ve . .
+15 15 1
+Figure 1: The architecture of the FFNN with two hidden layers having 15 neurons on each.
+machine learning community rectified linear units (Re- Architecture N,, in each layer
+LUs) are now recommended for large scale problems, a 1 3
+few tests using the ReLLUs for the hidden layers do not 2 20, 10
+show appreciable differences. 3 10, 20
+As for the numbers of the layers and neurons, it 1s 4 15, 15
+known that perfect regression can be obtained for any 5 5, 10,15
+dataset if there 1s no limit to the number of available 6 10, 10, 10
+neurons. However, the training may become too expen- 7 10, 10,5, 5
+sive and the model too 1neflicient if too many neurons are 8 10,5, 5, 5, 5
+used. Therefore it is desirable to use as few neurons as -
+possible. Empirical evidences show that, in some cases, Table 1: The number of neurons (N,) in each layer for each network
+the model performance can be improved by using more architecture.
+hidden layers [13]. However, there 1s not yet theoreti-
+cal justification or guidelines for the optimal choices. As
+a result, we have adopted the following trial-and-error used to optimize the weights and biases iteratively. In the
+strategy to decide these two hyperparameters, which 1s machine learning terminology, an iteration which scans
+explained briefly here while the numerical evidences is through all training data 1s called an epoch.
+presented later. We start with an FFNN with only one The training is stopped when a certain stopping condi-
+hidden layer, and train it with increasing number of neu- tion is satisfied. One of these conditions is that the mag-
+rons, until satisfactory performance 1s obtained. After a nitude of the gradient of the MSE should be sufficiently
+number of tests, it 1s found that consistently good results small. However, in our tests, the training is always ter-
+can be obtained with 30 neurons. The total number of ~~ minated due to detection of overfitting. Overfitting is a
+neurons 1s thus fixed at 30, and networks with different phenomenon where the model performs well 1n training,
+numbers of hidden layers are tested to explore how the but makes poor predictions for data outside of the train-
+performance can be further improved. As demonstrated ing dataset. It is a common problem to be avoided when
+below with numerical results, the best performance 1s training a neural network. In this investigation, cross-
+found with two hidden layers and 15 neurons on each. validation is used to tackle this problem [17]. Specifi-
+This architecture 1s thus chosen, which 1s illustrated in cally, 70% of the dataset for log, |fi2| is randomly cho-
+Fig.|1} More details are given in Section [4.1.3] sen to form the training set, while 15% 1s used for vali-
+dation, and the rest for testing. In each epoch, the current
+4.1.2. The training of the FFNN FFNN 1s used to make predictions on the validation data
+With the architecture chosen, the weights and the bi- set. The MSE of the predictions over the validation set
+ases in the neurons are then initialized randomly, but 1s monitored. If the MSE increases for N, = 6 consec-
+they have to be adjusted to improve the performance utive epochs (while the MSE for the training set 1s still
+of the model. This process is called training, in which ~~ decreasing), then overfitting is deemed to have happened
+the dataset for log, | fi2| mentioned in Section [3]is used. and the tr aining is stopped. The value 6 1s empirical. If
+For each predictor (i.e., a parameter combination), the different N, 1s used, One might need to adjust other pa-
+FFNN is used to make a prediction for log, |fi2], which rameters to obtain a model with similar performance.
+1s the response in this model. The prediction 1s com-
+pared with the true value obtained as explained in Section ~~ 4.1.3. Numerical results
+The mean squared error (MSE) between the true and The architectures of the FFNN models tested in this
+predicted values 1s used as the performance measure for investigation are summarized in Table|1] For each archi-
+the model. The Levenberg-Marquardt algorithm [14] 1s tecture, the training 1s run 32 times with random initial-
+4

@@ -1,0 +1,29 @@
+nm reached in 60 and 150 samples can be reduced to 12 nm using 210 sample
+procedure. The nucleation, growth, and saturation as irradiation power increase
+displayed exotic solid configuration of GNPs: tetrakis hexahedron, triakis
+icosahedron, and pentakis dodecahedron as HRTEM images reveal. The GNPs
+formation kinetics monitored by SRP In the UV-Vis spectra reveals the enhanced
+optical properties and LSRP at reduced time (20 min). The seed concentration Is
+optimized by ultrasound irradiation and lead to monodisperse and localized
+absorption GNPs manufacture. The disproportionation process of three complexes
+AuCl2~ form clusters via aurophilic interaction were suggested In order to explain
+chemical effects in the synthesis. A simple molecular-based scheme was
+proposed, from the formation and growth processing of GNPs under the reported
+reaction conditions. Electrons of AuClz~ are rapidly exchanged through the gold
+surface and after AuCls~ and Cl are desorbed and a complex tetrachloroaurate Is
+recycled for the two-electron reduction by citrate. This mechanism allows the
+deposition of new gold atoms on the surface and promotes the growth of seeds.
+The experiments were designed to explore experimental ultrasound irradiation
+power influence on the optimization of GNPs systems and the results show
+remarkable improvement of the obtained materials, positioning to the ultrasound
+assisted methods as an option for nanomaterials elaboration, modification and
+optimization in a simple and economic way.
+Acknowledgments
+Authors would like to acknowledge Rodrigo Fernandez Pacheco from Laboratorio
+de Microscopias Avanzadas (LMA) of INA for the facilities in TEM observations, the
+use of Servicio General de Apoyo a la Investigacion-SAl, Universidad de
+Zaragoza. J.A. Fuentes-Garcia thanks the Mexican council of science and
+technology (CONACYT) for financial support through a postdoctoral fellowship
+#711124.
+
+18

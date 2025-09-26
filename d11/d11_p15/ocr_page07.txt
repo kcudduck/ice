@@ -1,0 +1,46 @@
+the following theorem we show existence of H;—valued solutions given Hl; initial data which are small
+in H only. The proof, given in Section 5, relies on estimates derived via interpolation inequalities
+which allows to demonstrate certain “invariance” of a H-small ball under the nonlinear dynamics in
+Hi; .
+
+We start specifying the notion of solution for the semilinear problem (1.1) supplemented with
+
+(1.4) and (2.1). We denote the initial data here by ®q = (ug, u1, us)". Given T > 0, we say that
+O(t) = (u(t), u(t), un(t))
+
+is a mild solution for the system (1.1), (1.4) and (2.1) provided ® € C(|0,T],H;) and
+
+t
+
+dt) =T(t)Pg + / T(t —71)F(P)(r)dr, (2.11)
+0
+Before stating the theorem, we denote by HP” (for p > 0) the set
+HP == {® € Hy; ||P||m < p}.
+
+Theorem 2.3 (Global Solutions). Let Assumption 1 on I'y be in force. Then, there exists p > 0
+sufficiently small such that, given any ®q € HP the formula (2.11) defines a continuous Hy —valued mild
+solution for the system (1.1), (1.4) and (2.1). Moreover, for such p > 0, there exists R = R(||Po||m,)
+such that all trajectories starting in By (0, R)' remain in By. (0, Ry) for all t > 0, Ry > R.
+
+Once global solutions are shown to exist, we take on the issue of asymptotic (in time) stability.
+The final result is positive, as we expected, and holds uniformly (w.r.t +) as long as v € L*°({2) and
+v(x) = 0 a.e. in .
+
+Theorem 2.4 (Nonlinear Uniform Stability). Let Assumption 1 on I'g be in force and assume
+v € LQ) and v(x) = 0. Then, there exists p > 0 sufficiently small and M(p),w > 0 such that if
+db, € HP then
+
+2) lm, < M(p)e "(| Pollm,,  t=0 (2.12)
+where © 1s the mild solution given by Theorem 2.5.
+
+We notice that repeating the statement there exists p > 0 such that if og € H” in the Theorem
+above is not redundant. In fact, one might need to require even smaller initial data to yield expo-
+nential decay. This again highlights the advantage of requiring smallness only in H. For more details,
+see pection 0.
+
+2.3 Discussion
+The main novelty of this paper is that we study stabilizability of a nonlinear critical IMGT equation
+with Neumann—Robin undissipated portion of the boundary. Should the problem be subcritical (i.e.
+v(x) > v9 > 0 for x € Q, the difficulty created by the failure of Lopatinski condition would not enter
+The HP-ball centered at the origin and with radius R.
+7

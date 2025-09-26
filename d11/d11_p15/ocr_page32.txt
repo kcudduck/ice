@@ -1,0 +1,48 @@
+[11] C. Cattaneo. Sulla conduzione del calore. In A. Pignedoli, editor, Some
+Aspects of Diffusion Theory, pages 485-485. Springer Berlin Heidelberg, 2011.
+doi:10.1007/978-3-642-11051-1_5.
+
+[12] W. Chen and A. Palmieri. A blow-up result for the semilinear Moore-Gibson-Thompson equation
+with nonlinearity of derivative type in the conservative case. Fuvolution Equations €¢ Control
+Theory, 10(4), 2021.
+
+113] C. I. Christov and P. M. Jordan. Heat conduction paradox involving second
+sound propagation in moving media. Physical Review Letters, 94(15):154301, 2005.
+doi:10.1103/PhysRevlett.94.154301.
+
+[14] J. A. Conejero, C. Lizama, and F. Rodenas. Chaotic behaviour of the solutions of the Moore-
+Gibson—Thompson equation. Applied Mathematics € Information Sciences, 9(5):2233-2238, 2015.
+doi:10.12785/amis/ 090503.
+
+[15] F. Dell'Oro, 1. Lasiecka, and V. Pata. The Moore-Gibson—-Thompson equation with
+memory in the critical case. Journal of Differential Equations, 261(7):4188-4222, 2016.
+doi:10.1016/5.5de.2016.06.025.
+
+116] F. Dell’Oro and V. Pata. On a fourth-order equation of Moore—Gibson—Thompson type. Milan
+Journal of Mathematics, 85(2):215-234, 2017. doi:10.1007/s00032-017-0270-0.
+
+[17] F. Dell'Oro and V. Pata. On the Moore-Gibson-Thompson Equation and its relation to linear
+viscoelasticity. Applied Mathematics € Optimization, 76(3):641-655, 2017.
+
+[18] F. Dell’Oro, I. Lasiecka, and V. Pata. A note on the Moore-Gibson—Thompson equa-
+tion with memory of type II. Journal of FEwvolution FEquations, 20:1251-1268, 2020.
+doi:10.1007/s00028-019-00554-0.
+
+119] F. Ekoue, A. F. Halloy, D. Gigon, G. Plantamp, and E. Zajdman. Maxwell-Cattaneo Regular-
+ization of Heat Equation. World Academy of Science, Engineering and Technology, International
+Journal of Mathematical, Computational, Physical, Electrical and Computer Engineering, 7(5).
+
+120] B. Kaltenbacher. Mathematics of nonlinear acoustics. Evolution Equations and Control Theory,
+4(4):447-491, 2015.
+
+121] B. Kaltenbacher and C. Christian. Avoiding degeneracy in the Westervelt equation by state
+constrained optimal control. Fwvolution Equations and Control Theory, 2(2):281-300, 2013.
+
+122] B. Kaltenbacher, C. Christian, and V. Slobodan. Boundary optimal control of the westervalt
+and kuznetsov equations. JMAA, 356(2):738-751, 20009.
+
+123] B. Kaltenbacher and I. Lasiecka. Exponential decay for low and higher energies in the third
+order linear Moore—Gibson—Thompson equation with variable viscosity. Palestine Journal of
+Mathematics, 1(1):1-10, 2012.
+
+32

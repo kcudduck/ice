@@ -1,0 +1,35 @@
+References
+
+1. Franc J, Michel J. Introduction the Main Features of Cavitating Flows. Fundamentals of
+Cavitation. 2005:1-14.
+2. Tuulmets A, Piiskop S, Jarv J, Salmar S. Sonication effects on non-radical reactions. A
+sonochemistry beyond the cavitation? Ultrason Sonochem. 2014;21(3):997-1001.
+3. Yu D, Liu B, Wang B. The effect of ultrasonic waves on the nucleation of pure water and
+degassed water. Ultrason Sonochem. 2012;19(3):459-63.
+4. Pitt WG, Ross SA. Ultrasound increases the rate of bacterial cell growth. Biotechnol Prog.
+2003;19(3):1038-44.
+5. Yachmenev V, Condon B, Klasson T, Lambert A. Acceleration of the enzymatic hydrolysis
+of corn stover and sugar cane bagasse celluloses by low intensity uniform ultrasound.
+Journal of Biobased Materials and Bioenergy. 2009;3(1):25-31.
+6. Chisti Y. Sonobioreactors: using ultrasound for enhanced microbial productivity. Trends
+Biotechnol. 2003;21(2):89-93.
+7. Holland CK, Roy R, Apfel R, Crum L. In vitro detection of cavitation induced by a diagnostic
+ultrasound system. IEEE Trans Ultrason Ferroelectr Freq Control. 1992;39(1):95-101.
+8. Cravotto G, Cintas P. Power ultrasound in organic synthesis: moving cavitational
+chemistry from academia to innovative and large-scale applications. Chem Soc Rev.
+2006;35(2):180-96.
+9. Miller MW, Miller DL, Brayman AA. A review of in vitro bioeffects of inertial ultrasonic
+cavitation from a mechanistic perspective. Ultrasound Med Biol. 1996;22(9):1131-54.
+10. Mason TJ, Peters D. 1.4 Parameters that affect cavitation. In: Practical sonochemistry:
+Power ultrasound uses and applications. Woodhead Publishing; 2002. p. 8.
+11. Hodnett M, Choi MJ, Zeqiri B. Towards a reference ultrasonic cavitation vessel. Part 1:
+Preliminary investigation of the acoustic field distribution in a 25kHz cylindrical cell. Ultrason
+Sonochem. 2007;14(1):29-40.
+12. Wang L, Memoli G, Hodnett M, Butterworth |, Sarno D, Zeqiri B. Towards a reference
+cavitating vessel Part Ill? design and acoustic pressure characterization of a multi-frequency
+sonoreactor. Metrologia. 2015;52(4):575.
+13. Garcia-Atance Fatjo G. New Dimensionless Number To Predict Cavitation In Accelerated
+Fluid. International Journal of Computational Methods and Experimental Measurements.
+2016;4(4):484-92.
+
+11

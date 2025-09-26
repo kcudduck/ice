@@ -1,6 +1,0 @@
-Hydrothermal
-convection Dome
-| T
-Magma source
-chamber ‘
-with volatiles H

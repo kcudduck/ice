@@ -1,0 +1,30 @@
+4.1 Introduction
+
+The widespread applicability of ultrasound under environmentally benign conditions
+delivering industrial scale product quality enrichment and production is fascinating.
+The areas of application include: food science and its associated technology (processing,
+preservation and extraction) development [54]-[60], water remediation [61]-[66],
+biomedical field [67]-[69], and also the process intensification of variety of processes
+[59], [70]-[73], etc respectively. It is a demonstrated fact that ultrasound-assisted
+protocol is more effective than that its corresponding conventional (physical, chemical,
+and biological) approach [74], [75]. In this context, the use of ultrasound in process
+intensification to deliver organometallic complexes (e.g., organo-lithium, -magnesium,
+and —aluminum, etc.) can be traced back as early as the 1950s, demonstrating its utility
+[76]. A few well known specific cases of metals activation by ultrasound leading to
+substantially shortened reaction duration (sonic acceleration) demonstrations of
+synthetically significant protocols are; (1) Zinc-induced Reformatsky reaction [77], (2)
+Copper-induced Ullmann couplings [78], and (3) Lithium-induced Barbier reaction [79],
+respectively. In addition to the specific cases, the principles of ultrasound-induced
+activation of metals and its use in accelerating (process intensification) organic
+synthesis are reported in terms of book chapters [80]-[84]. The point being ultrasound-
+induced shortened-in-time synthetic protocol development is an ongoing aspect. It is
+worth noting here that the ultrasound-induced cavitation and its cavitation impulsive
+collapse generated mechanical effects (like liquid microjets, turbulent mixing, shock
+waves, and acoustic streaming) are the dominant phenomena responsible for these
+synthetic process sono acceleration [85].
+
+Since its invention in 1927, sonocrystallization is another significant physio-
+chemical process of ultrasonic sonochemistry [86]-[89]. Investigations on possible
+mechanistic reasoning of sonocrystallization are actively ongoing. The question whether
+
+6

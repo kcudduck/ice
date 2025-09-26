@@ -1,0 +1,52 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+
+the wafer than standard lithography in air. However, the development of immersion lithog-
+raphy machines has been hindered by two fundamental fluid dynamical problems, namely,
+the entrainment of bubbles into the water and the loss of water from the film, see fig. 15b.
+Both of these contact line instabilities have challenged the further development of immer-
+sion lithography, as obviously the entrainment of light-scattering bubbles into the film or
+the partial loss of the film is unacceptable for the lithography process. These hydrodynamic
+instabilities set in at a certain velocity with which the wafers under the lens are pulled away.
+It 1s thus this hydrodynamic instability which sets the production rate of the wafers and
+therefore the price of the lithographic system.
+
+In the context of this problem, together with ASML we looked at the entrainment of
+bubbles under droplets impacting on a solid substrate, following pioneering work of the
+Chicago, Harvard, Kaust and other groups [98-103] (for recent reviews, see refs. |104, 105]).
+By combining high-speed color interferometry [106], scaling arguments, and numerical sim-
+ulations with the boundary integral method for the droplet coupled to a viscous lubrication
+approximation for the gas flow in the thin and narrowing gap between impacting droplet and
+substrate, we found that there is an optimal velocity for maximal bubble entrainment [97]:
+For lower velocities the impacting droplet remains more spherical (capillary regime) and for
+higher velocity (inertial regime) the drop is smashed against the surface so much that not
+much air can be entrained, either, see fig. 15c. Obviously, this work is also of interest for
+the inkjet industry and the coating industry.
+
+VII. FROM SURFACE BUBBLES TO SONOCHEMISTRY & ULTRASONIC
+
+CLEANING
+
+As stated above, single bubble sonoluminescence can be seen as the hydrogen atom of
+bubble fluid dynamics. But atomic physics did not stop with the understanding of the
+hydrogen atom but moved ahead to more complicated and interacting atoms, molecules,
+and condensed matter. So it was also our desire to better understand interacting bubbles,
+but in the most controlled way, with fixed distance. To achieve this acoustically is difficult,
+as acoustically driven microbubbles either repel or attract each other through the so-called
+Bjerknes forces of the second kind [1, 109], depending on their size and the driving pressure.
+If trapped by the primary Bjerknes forces in different pressure antinodes of the acoustic
+field, they are too far away (7.5 cm corresponding to the acoustic wavelength for f = 20
+kHz in water) from each other to considerably interact. Therefore we came up with the
+idea to trap the bubbles through pinning forces to hydrophobic micro-machined micro-
+cavities which act as gas traps when the substrate is immersed in water [107, 110], see figure
+16a,b. The patterning of the substrate allows us to control the number of bubbles and the
+distance between them. Each hemispherical bubble experiences the effect of its mirror image.
+Correspondingly, an isolated hemispherical bubble together with its mirror image behaves
+like a free spherical bubble, i.e., its dynamics is well described by the Rayleigh-Plesset
+equation (1). By putting the micro-cavities close to each other, we could study interacting
+microbubbles, either in a row (i.e., in 1D) as in figure 16b, where we could compare the
+results with boundary integral simulations (i.e., under the potential flow approximation)
+with axial symmetry, or in 2D with bubbles arranged on a surface in any order.
+
+In fact, by varying the diameter of the microhole down to 100 nm and less, we could quan-
+titatively test [108] the crevice model of bubble nucleation [111-114]. Figure 16c¢ compares
+21 21

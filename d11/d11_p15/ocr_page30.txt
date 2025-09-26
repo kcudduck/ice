@@ -1,0 +1,43 @@
+Proof of Theorem 6.1. We use the same constants as in (5.6), that is, we use that
+TO) cy < Mie (6.5)
+for all t. Moreover, we know that the solution ® exists in some X” for #8 > 0 small and that the
+whole argument of the proof for the existence of global solution would still be true if one decreased
+3. Therefore, by possibly taking it smaller, we assume
+TW
+_ < 6.6
+5 = 6(r) < or 6.6
+where wy; = wq(7) is the rate of exponential decay of the semigroup T(t) in Hj; for a fixed 7 > 0. As
+in the proof of global wellposedness, we take p = pz. We then compute, via (6.5) and (5.2)
+t
+P(E) lm, < [1T°(8) Pom, + |T'(t — 0) F(®)(0)||m do
+t
+< Me ols, + [| Mie NF) do
+0
+M,C :
+< Mie ls, + et [ead
+0
+We then apply the Grownwall-Beesack inequality with
+—w MCB —w1 w1
+ut) = [|2@) [lm f(t) = Mie" Do|lm,, g(t) = — Lo h(t) =e
+to obtain
+MC B||® ' M,C
+|@(t) lz, < Me™] Poll, + | oF el - | 1
+0
+Cw M,C M,C
+= Mie Bll, + Mal, exp { (S07 wn) eh (1 exp { HEL)
+. M,C i»
+< Mye™M| Qo [|m, + Mi |[Pol|m, exp (= - on) 3 < 2Mie™ 2D |g, (6.7)
+and we observe that due to (6.6) we have
+M,C
+MCB wy < —2 2.
+T 2
+The proof is complete.
+[]
+Corollary 6.3. With reference to Section 5, let By be the largest number such that the map © has
+a fized point in XP which is, moreover, uniformly exponentially stable as in Theorem 2./. Let
+w : (0, 80] — Ry be the function that maps each B > 0 to the decay rate w(B). Then there exists
+another function w : (0, Bo] = Ry such that w(B) = w(B) for all feasible 5 and
+lim w(f) = wy, (6.8)
+B8—0
+where wy is the decay rate of the linear semigroup T(t).
+30

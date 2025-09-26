@@ -1,0 +1,85 @@
+17
+frequency.” Ultrasonics 29.4 (1991): 319-323. [71] Hilgenfeldt, Sascha, Detlef Lohse, and Michael Zomack.
+
+154] R. Esche, Investigations on oscillating cavities in liquids, ” Sound scattering and localized heat deposition of pulse-
+Acustica 2, 208218 1952. driven microbubbles.” The Journal of the Acoustical So-
+
+155] Eller, Anthony, and H. G. Flynn. ” Generation of sub- ciety of America 107.6 (2000): 3530-3539.
+harmonics of order onehalf by bubbles in a sound field.” 72] Radhakrishnan, K., Bader, K.B., Haworth, K.J.,
+The Journal of the Acoustical Society of America 46.3B Kopechek, J.A., Raymond, J.L., Huang, S.L., McPher-
+(1969): 722-727. son, D.D. and Holland, C.K., 2013. ”Relationship be-
+
+[56] Prosperetti, Andrea. ” Nonlinear oscillations of gas bub- tween cavitation and loss of echogenicity from ultrasound
+bles in liquids: steadystate solutions.” The Journal of the contrast agents.” Physics in Medicine & Biology, 58(18),
+Acoustical Society of America 56.3 (1974): 878-885. p.6541.
+
+[57] Prosperetti, Andrea. ” Application of the subharmonic [73] Philips, P., Gardner, E.: Contrast-agent detection and
+threshold to the measurement of the damping of oscillat- quantification. Eur. Radiol. Suppl. 14(8), 410 (2004)
+ing gas bubbles.” The Journal of the Acoustical Society [74] Brock-Fisher, A.G., Poland, M., Rafter, P.: Means for
+of America61.1 (1977): 11-16. increasing sensitivity in nonlinear imaging systems. US
+
+[58] Prosperetti, Andrea. ” Application of the subharmonic Patent 5577505 (1996)
+threshold to the measurement of the damping of oscillat- [75] Eckersley, R.J., Chin, C.T., Burns, P.N.: Optimizing
+ing gas bubbles.” The Journal of the Acoustical Society phase and amplitude modulation schemes for imaging
+of America61.1 (1977): 11-16. microbubble contrast agents at low acoustic power. Ul-
+
+[59] Prosperetti, Andrea. "A general derivation of the sub- trasound Med. Biol. 6(31), 213219 (2005)
+harmonic threshold for non-linear bubble oscillations.” [76] Marmottant, P., van der Meer, S., Emmer, M., Versluis,
+The Journal of the Acoustical Society of America 133.6 M., de Jong, N., Hilgenfeldt, S., & Lohse, D. (2005). A
+(2013): 3719-3726 model for large amplitude oscillations of coated bubbles
+
+[60] M. S. Plesset and A. Prosperetti, Bubble dynamics and accounting for buckling and rupture. The Journal of the
+cavitation, Annu. Rev. Fluid Mech. 9, 145185 1977. Acoustical Society of America, 118(6), 3499-3505.
+
+[61] Krishna, P. D., P. M. Shankar, and V. L. New- [77] Kleven, R.T., Karani, K.B., Salido, N.G., Shekhar, H.,
+house. ” Subharmonic generation from ultrasonic contrast Haworth, K.J., Mast, T.D., Tadesse, D.G. and Holland,
+agents.” Physics in Medicine & Biology 44.3 (1999): 681. C.K., 2019. The effect of 220 kHz insonation scheme on
+
+62] Shankar, P. M., P. D. Krishna, and V. L. Newhouse. rt-PA thrombolytic efficacy in vitro. Physics in Medicine
+”Subharmonic backscattering from ultrasound contrast & Biology in Press.
+agents.” The Journal of the Acoustical Society of Amer- [78] Frinking, Peter JA, Emmanuel Gaud, Jean Brochot, and
+ical06.4 (1999): 2104-2110. Marcel Arditi. ”Subharmonic scattering of phospholipid-
+
+63] Kimmel, Eitan, et al. ”Subharmonic response of encapsu- shell microbubbles at low acoustic pressure amplitudes.”
+lated microbubbles: Conditions for existence and ampli- IEEE transactions on ultrasonics, ferroelectrics, and fre-
+fication.” Ultrasound in medicine & biology 33.11 (2007): quency control 57, no. 8 (2010): 1762-1771.
+
+1767-1776. [79] Faez, Telli, Marcia Emmer, Margreet Docter, Jeroen Sijl,
+
+64] Katiyar, Amit, and Kausik Sarkar. "Effects of encap- Michel Versluis, and Nico de Jong. ” Characterizing the
+sulation damping on the excitation threshold for sub- subharmonic response of phospholipid-coated microbub-
+harmonic generation from contrast microbubbles.” The bles for carotid imaging.” Ultrasound in medicine & bi-
+Journal of the Acoustical Society of America 132.5 ology 37, no. 6 (2011): 958-970.
+
+(2012): 3576-3585. [80] Sijl, Jeroen, Marlies Overvelde, Benjamin Dollet, Valeria
+
+65] Katiyar, Amit, and Kausik Sarkar. ” Excitation threshold Garbin, Nico De Jong, Detlef Lohse, and Michel Ver-
+for subharmonic generation from contrast microbubbles.” sluis. ” Compression-only behavior: A second-order non-
+The Journal of the Acoustical Society of America 130.5 linear response of ultrasound contrast agent microbub-
+(2011): 3137-3147. bles.” The Journal of the Acoustical Society of America
+
+[66] A.J. Sojahrood, R.E. Earl, M.C. Kolios and R. Kar- 129, no. 4 (2011): 1729-1739.
+shafian. Notes on the two main routes of period doubling [81] Helfield, Brandon L., Emmanuel Cherin, F. Stuart Fos-
+and : order subharmonic oscillations in a bubble oscilla- ter, and David E. Goertz. "Investigating the subhar-
+tor, Arxiv (2019), arXiv:1909.02694 monic response of individual phospholipid encapsulated
+
+67] Flynn, H.G., Church, C.C.: Transient pulsations of small microbubbles at high frequencies: A comparative study
+gas bubbles in water. J. Acoust. Soc. Am. 84, 985998 of five agents.” Ultrasound in medicine & biology 38, no.
+(1988) 5 (2012): 846-863.
+
+68] Keller, Joseph B., and Michael Miksis. ” Bubble oscilla- [82] Sijl, Jeroen, Hendrik J. Vos, Timo Rozendal, Nico de
+tions of large amplitude.” The Journal of the Acoustical Jong, Detlef Lohse, and Michel Versluis. ” Combined op-
+Society of America 68.2 (1980): 628-633. tical and acoustical detection of single microbubble dy-
+
+69] Sojahrood, A. J., et al. "A comprehensive bifurca- namics.” The Journal of the Acoustical Society of Amer-
+tion method to analyze the super-harmonic and ultra- ica 130, no. 5 (2011): 3271-3281.
+harmonic behavior of the acoustically excited bubble os- [83] Jafari Sojahrood, Amin, Raffi Karshafian, and Michael
+cillator.” arXiv preprint arXiv:1810.01239 (2018). C. Kolios. ” Bifurcation structure of the ultrasonically ex-
+
+[70] A.J. Sojahrood, D. Wegierak, H. Haghi, R. Karshfian, cited microbubbles undergoing buckling and rupture.” In
+and M. C. Kolios. A simple method to analyze the super- Proceedings of Meetings on Acoustics ICA2013, vol. 19,
+harmonic and ultra-harmonic behavior of the acoustically no. 1, p. 075097. ASA, 2013.
+excited bubble oscillator. Ultrasonics sonochemistry, 54 [84] Sojahrood, Amin Jafari, Raffi Karshafian, and Michael
+(2019); 99-109. C. Kolios. "Detection and characterization of higher or-
+
+der nonlinearities in the oscillations of Definity at higher

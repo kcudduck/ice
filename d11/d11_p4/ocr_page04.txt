@@ -1,0 +1,52 @@
+2
+
+effect of cavitation in wastewater and biomass treatment. Lyons ef al. (2019) compared the
+low frequency sound signals from volcanic eruptions to that of bubble collapse and suspect
+the bubbles of the order of 100 m are created by the interaction of magma with water. Bubbles
+can generally appear from the nuclei sitting at walls (Crum 1979; Atchley & Prosperetti
+1989; Borkent ef al. 2009), making the interaction with the wall an essential aspect of
+bubble collapse dynamics. The wall modifies the symmetry of the pressure field near the
+bubble that causes unequal interface acceleration and thus high-speed liquid jets leading to
+a complex cavitation phenomena (Popinet & Zaleski 2002; Brenner ef al. 2002; Supponen
+2017). These jets are important to understand the destructive potential of the cavitation
+bubbles for several biomedical applications such as the disruption of biological membranes
+in High Intensity Focussed Ultrasound (HIFU), lithotripsy, histotripsy and sonoporation
+techniques (Prentice ef al. 2005; Ohl ef al. 20060; Maxwell ef al. 2011; Pishchalnikov ef al.
+2019). Other applications concerning erosion, surface cleaning, noise emission and
+manufacturing processes (e.g. shotpeening) are also closely linked to the phenomenon
+of jetting (Krefting ef al. 2004; Blake et al. 2015). The bottleneck in development and
+comprehension of these techniques as well as naturally occurring phenomenon remains
+the limited understanding of the interaction amongst cavitation bubble and its surrounding
+medium.
+
+It 1s well known that the jets formed during the collapse of bubbles in the presence of
+a nearby wall are directed towards the wall and that the characteristics of these jets can
+be described well using the scaling laws given by Popinet & Zaleski (2002) and Supponen
+(2017). However, the investigations on the collapse of a bubble initially attached to a wall are
+reported less often. Naudé & Ellis (1961) discuss the collapse of bubble initially in contact
+with wall by writing the higher order perturbation solutions to potential flow model. They
+also show the collapse dynamics of such bubbles experimentally by producing bubbles with
+electric spark in the liquid close to wall. Hupfeld ef al. (2020) present experimental results
+for laser induced bubbles using ultra-high speed photography in the high capillary number
+regimes. They study both expansion and collapse phase in several liquids to understand the
+effect of viscosity on the growth, collapse and bubble shapes including liquid microlayer
+and contact line evolution. Both Naudé & Ellis (1961) and Hupfeld ef al. (2020) show that
+during the collapse the jet 1s directed towards the solid whereas Li ef al. (2018) show that
+the jet can be directed in opposite direction when a collapsing bubble 1s 1n contact with a
+spherical solid particle. Similar problem 1s studied numerically by Lechner et al. (2020),
+who also include the effect of bubble expansion and the liquid microlayer that results in to
+different nature of bubble collapse and jetting. This problem has also been briefly discussed
+1n numerical studies of Lauer ef al. (2012) and Koukouvinis ef al. (2016) who observe the
+change 1n jetting behaviour as a function of bubble shape but they do not show jets opposite
+to the wall. Reuter ef al. (2017) speculate the appearance of a jet parallel to the wall during
+the secondary collapse and consequently the generation of vortex ring, although no direct
+experimental observation 1s reported.
+
+The initiation and consequences of this change of behaviour has not be understood and
+the hydrodynamic description of the same 1s not available. In this article we bridge this gap
+and describe the factors controlling the jetting direction using comprehensive theoretical,
+numerical and experimental evidences. We clarify that the change in the jetting direction 1s
+an implication of the singularity in the pressure gradient obtained from the potential flow
+model. This singularity only appears when the effective contact angle at the instant before
+the collapse 1s larger than 90 degrees. We show that at short instants after beginning of
+collapse phase and for sufliciently large Reynolds and Weber numbers, the potential flow

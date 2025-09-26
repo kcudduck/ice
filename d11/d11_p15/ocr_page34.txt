@@ -1,0 +1,33 @@
+136] R. Marchand, T. McDevitt, and R. Triggiani. An abstract semigroup approach to the third-
+order Moore—Gibson—Thompson partial differential equation arising in high-intensity ultrasound:
+structural decomposition, spectral analysis, exponential stability. Mathematical Methods in the
+Applied Sciences, 35(15):1896-1929, 2012. doi :10.1002/mma. 1576.
+
+137] A. Pazy. Semigroups of Linear Operators and Applications to Partial Differential Equations.
+Number 44 in Applied mathematical sciences. Springer, New York, NY, corr. 2. print edition,
+1992.
+
+38] M. Pellicer and J. Sola-Morales. Optimal scalar products in the Moore-Gibson-
+Thompson equation. Evolution Equations € Control Theory, 8(1):203-220, 2019.
+doi:10.3934/eect.2019011.
+
+139] R. Sakamoto. Hyperbolic Boundary Value Problems. Cambridge University Press, Cambridgeshire,
+New York, 1st english edition, 1982.
+
+140] R. Sakamoto. Hyperbolic Boundary Value problems. Cambridge University Press, Cambridge,
+2009.
+
+[41] J. Simon. Compact sets in the space LP(0,T; B). Annalt di Matematica Pura et Applicata,
+146(1):65-96, 1986. doi:10.1007/BF01762360.
+
+[42] R. Spigler. More around Cattaneo equation to describe heat transfer processes. Mathematical
+Methods in the Applied Sciences, 43(9):5953-5962, 2020. doi:10.1002/mma. 6336.
+
+143] D. Tataru. On the regularity of boundary traces for the wave equation. Annali della Scuola
+Normale Superiore di Pisa-Classe di Scienze, 26(1):185-206, 1998.
+
+144] R. Triggiani. Sharp interior and boundary regularity of the SMGTJ—equation with Dirichlet or
+Neumann boundary control. In Semigroups of Operators — Theory and Applications, volume 325,
+pages 379-426. Springer, 2020. doi:10.1007/978-3-030-46079-2_22.
+
+34

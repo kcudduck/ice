@@ -1,0 +1,85 @@
+The derivative of the liquid pressure at the bubble [6] D. Fuster, C. Dopazo, G. Hauke, Liquid compressibility ef-
+wall, pr,, defined in Eq. (22), is split into an explicitly fects during the collapse of a single cavitating bubble, The
+t : cs : Journal of the Acoustical Society of America 129 (2011)
+reated part and an implicitly treated part, given as 199131
+7] O. Le Métayer, J. Massoni, R. Saurel, Elaboration des
+PL = PL.,e T+ PL; (A.3) lois d’état d’un liquide et de sa vapeur pour les modeles
+d’écoulements diphasiques, International Journal of Ther-
+with the explicitly treated part defined as mal Sciences 43 (2004) 265-276.
+[8] O. Le Métayer, R. Saurel, The Noble-Abel Stiffened-Gas
+Vg . R2 equation of state, Physics of Fluids 28 (2016) 046102.
+PL.e = pa + CRA +4 He 55 (A.4) 9] M. I. Radulescu, Compressible flow in a Noble—Abel stiff-
+R R ened gas fluid, Physics of Fluids 32 (2020) 056101.
+
+: . : : 10] K. Yasui, T. Tuziuti, M. Sivakumar, Y. Iida, Theoreti-
+and the implicitly treated part is constituted by the 0 cal study of single-bubble sonochemistry, The Journal of
+term including R and defined as Chemical Physics 122 (2005) 224706.
+
+3 [11] S. Nalesso, M. J. Bussemaker, R. P. Sear, M. Hodnett,
+R J. Lee, A review on possible mechanisms of sonocrystalli-
+pL = —4 py BR (A.5) sation in solution, Ultrasonics Sonochemistry 57 (2019)
+125-138.
+Splitting the enthalpy derivative, see Eq. (27), into ex- 12] M. Wan, Y. Feng, G. ter Haar (Eds.), Cavitation in
+oo. oo. Co Biomedicine, Springer Netherlands, Dordrecht, 2015.
+plicitly and implicitly treated parts in a similar fash- 13] 7. Tzadifar, P. Babyn, D. Chapman, Mechanical and Bio-
+ion, follows as logical Effects of Ultrasound: A Review of Present Knowl-
+H — H, + H, (A.6) edge, Ultrasound in Medicine & Biology 43 (2017) 1085—
+1104.
+with [14] G. Hauke, D. Fuster, C. Dopazo, Dynamics of a single cav-
+PL.e Poo itating and reacting bubble, Physical Review E 75 (2007)
+He =—= — =— (AT) 066310.
+PL Poc [15] R. Nigmatulin, N. Khabeev, F. Nagiev, Dynamics, heat
+and ~ and mass transfer of vapour-gas bubbles in a liquid, In-
+DL. te R ternational Journal of Heat and Mass Transfer 24 (1981)
+Hi=-—=-4—"F". (A.8) 1033-1044.
+
+PL PL [16] A. Chiapolino, R. Saurel, Extended Noble—Abel stiffened-
+Inserting Eqs. ( A7 ) and ( A.8) into Eq. ( A.2) and re- gas equation of state for sub- and supercritical liquid-gas
+
+arranging for R yields systems far from the critical point, Fluids 3 (2018) 48.
+[17] G. Tammann, Uber Zustandsgleichungen im Gebiete
+: : kleiner Volumen, Annalen der Physik 342 (1912) 975-1013.
+14 R 7H _ 3 1 _ R 22 [18] F. Denner, F. Evrard, B. van Wachem, Modeling Acous-
+Cr. 2 3 Ch, iT tic Cavitation Using a Pressure-Based Algorithm for Poly-
+
+4 SS Rp tropic Fluids, Fluids 5 (2020) 69.
+
+R BB A Cy, [19] J. Dormand, P. Prince, A family of embedded Runge-
+oo BR Kutta formulae, Journal of Computational and Applied
+(A.9) Mathematics 6 (1980) 19-26.
+with 20] J. Chandran, A. Salih, A modified equation of state for
+117, water for a wide range of pressure and the concept of water
+B=1+4—7~. (A.10) shock tube, Fluid Phase Equilibria 483 (2019) 182-188.
+PL L 21] M. P. Brenner, S. Hilgenfeldt, D. Lohse, Single-bubble
+A system of two first-order ordinary differential equa- sonoluminescence, Reviews of Modern Physics 74 (2002)
+tions can then be readily defined based on Eq. (A.9) 425-484. Co
+22] G. ter Haar, Ultrasonic imaging: Safety considerations,
+as Interface Focus 1 (2011) 686-697.
+: 23] C. C. Coussios, R. A. Roy, Applications of Acoustics
+R=U (A. 1 1) and Cavitation to Noninvasive Therapy and Drug Delivery,
+[J 9 [J Annual Review of Fluid Mechanics 40 (2008) 395-420.
+1+ — | H—=-[1——|U? : 24] P. Longwell, J. Olin, B. Sage, Covolumes for a Number
+= 2 3 H, of Common Gases, Industrial & Engineering Chemistry
+: A ™ Cr Chemical & Engineering Data Series 3 (1958) 175-180.
+U = - 5 25] C. C. Church, A theoretical study of cavitation generated
+( A 12) by an extracorporeal shock wave lithotripter, The Journal
+of the Acoustical Society of America 86 (1989) 215-227.
+26] B. D. Storey, A. J. Szeri, Water vapour, sonoluminescence
+which may be solved with any common ODE solver. and sonochemistry, Proceedings of the Royal Society of
+London. Series A: Mathematical, Physical and Engineering
+Sciences 456 (2000) 1685-1709.
+References 27] N. Xu, R. E. Apfel, A. Khong, X. Hu, L. Wang, Water va-
+por diffusion effects on gas dynamics in a sonoluminescing
+[1] M. S. Plesset, The Dynamics of Cavitation Bubbles, Jour- bubble, Physical Review E 68 (2003) 0163009.
+nal of Applied Mechanics 16 (1949) 277-282. 128] Y. An, C. F. Ying, Model of single bubble sonolumines-
+2] W. Lauterborn, T. Kurz, Physics of bubble oscillations, cence, Physical Review E 71 (2005) 036308.
+Reports on Progress in Physics 73 (2010) 106501.
+[3] J. B. Keller, M. Miksis, Bubble oscillations of large am-
+plitude, The Journal of the Acoustical Society of America
+68 (1980) 628-633.
+[4] L. Trilling, The Collapse and Rebound of a Gas Bubble,
+Journal of Applied Physics 23 (1952) 14-17.
+[5] F.R. Gilmore, The Growth or Collapse of a Spherical Bub-
+ble in a Viscous Compressible Liquid, Technical Report
+No. 26-4, California Institute of Technology, 1952.
+§

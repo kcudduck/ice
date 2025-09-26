@@ -1,0 +1,34 @@
+shape and size distribution, which were associated with physical (cavitation,
+temperature) and chemical (radical generation, pH) conditions In the aqueous
+solution. The results showed guasi—spherical GNPs as pentakis dodecahedron
+(ALspr=560 nm), triakis icosahedron (ALspr=535 nm), and tetrakis hexahedron
+(ALspr= 525 nm) in a size range from 12-16 nm. Chemical effects of ultrasound
+irradiation were suggested in the disproportionation process, electrons of AuClz>-
+are rapidly exchanged through the gold surface. After AuCls~ and Clare desorbed
+and a complex tetrachloroaurate Is recycled for the two-electron reduction by
+citrate, aurophilic interaction between complexes AuClz~, electrons exchange and
+gold seeds, the deposition of new gold atoms on the surface promoting the growth
+of GNPs. These mechanisms are enhanced by the extraordinary effects of
+ultrasound such as the cavitation effects and transmitted energy into the solution.
+These results show the that the plasmonic response from our nanoparticles can be
+tuned using a simple methodology with minimum infrastructure requirements.
+Moreover, the production method could be easily scalable to meet industrial
+manufacture needs.
+Keywords: Sonochemistry, gold nanoparticles, irradiation power.
+Bathochromic shift I~
+@® Water molecules / 1 oes ~~ — Tetrakis Hexahedron
+ie molecules ’ | a og 5 18 \
+uions gis Zo |, Triakis
+0 CT a os* © |
+@ Au’ atoms Sm— b> 16 oN & Icosahedron
+| * — 0)
+La CCCs
+- fA 9 : 09 Q. “0 T z 4
+20-0 ‘9 @ 3. 59.9 5% 5 12 3 & Pentakis
+. QQ 89 oe) Ip KX Dodecahedron
+9900 T 50 vr
+8. © \ hdl” Th? Pa 10
+"AY ACRE FCC 0 60 120 180 240 300
+Ultrasonic NH o%e 0 Polyhedra Irradiation power (W)
+irradiation Que 9 structure ‘Complex polyhedra
+2

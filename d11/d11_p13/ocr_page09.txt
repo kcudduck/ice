@@ -1,0 +1,62 @@
+JULIAN: VOLCANIC TREMOR—NONLINEAR EXCITATION BY FLUID FLOW 11,867
+pL. 2 (120 i, A = 0. The mass per unit distance in the z direction, 2M,
+M+"—|h4+(A+— | —=—=—==11h is expected to be of the order of pL?, so I take M = 3 x 10°
+| 2d | 12h h? 2 | kg mL.
+D1 +Dpy pv Many of these values are highly uncertain. Most of them,
++ k(h—ho)=L Ee — | . (12) such as the dimensions L and h, probably vary from volcano
+to volcano and within a single channel. Quantities such as
+the effective mass M and damping A are based on simplified
+The equations of motion, (9) and (12) ’ control the representations of reality. Therefore, although the computed
+dynamics of this tremor model. They constitute a third Loonies provide insight into the qualitative phenomena at
+order system of ordinary differential equations, and they work, they are subject to quantitative uncertainty.
+are nonlinear; the effective mass (coefficient of h), the
+damping (coefficients of h and wv), and the stiffness 1 «+1 Conditions
+(coefficient of h) all depend on h or v (or both). Solving
+these equations analytically is impractical and probably Initially, the fluid in the channel is at rest at pressure
+impossible. Accordingly, I solve them numerically to Pi. This is the state that exists immediately after a crack
+understand their qualitative behavior, and I use analytic Propagating from the upstream reservoir has connected with
+methods to determine the conditions for the occurrence of the downstream reservoir but before the fluid has begun
+Aow-induced oscillation. flowing. The initial conditions are not critical; they affect
+the transient response only slightly and have no effect on
+Numerical Solutions the waveform of a limit-cycle oscillation.
+As a first step in investigating the behavior of this tremor Numerical Results
+model, I Integra te the equations of motion (9) and (12) Figure 9 shows the computed channel thickness kA and
+numerically, using the step-size extrapolation method of the fluid speed v as functions of time for p; = 10 MPa (100
+Bulirsch and Stoer [1966] (see also Press et al. [1988]). bars) and pg = 0.1 MPa (1 bar & atmospheric pressure). The
+fluid, initially at rest, immediately begins accelerating, and
+Parameter Values its speed begins to approach a value exceeding 100 ms—1. At
+For the sake of illustration, I intend to model the flow the same time, the pressure in the channel drops, causing its
+of basaltic magma through a large channel. A wide variety walls to close partially and the channel thickness to decrease.
+of other situations might have been chosen (such as flowing However, the system does not reach a state of steady flow
+water or gas, or a different channel geometry), which might and constant channel thickness. Instead, before h and v can
+correspond to very different parameter values. Many of reach steady state values, tremor oscillations begin to grow
+the needed values are poorly known. Therefore the results and finally approach a limit cycle. These oscillations restrict
+illustrate the qualitative kinds of behavior that are possible,
+but they are not the only ones that might be realistic. p)
+Consider a constricted channel of length L = 10 m,
+unpressurized thickness hg = 1 m, fluid density p = 2500 kg
+m3 (2.5¢g cm 3), and viscosity 17 = 500 Pa s (5000 poise), a
+value appropriate for basaltic melts [Murase and McBirney, e
+1973]. The stiffness k of the walls can be estimated using oo
+simple arguments from elasticity theory and the observed
+shapes of exhumed dikes. Let w be the dimension of the
+channel, measured in the z direction (Figure 8). This
+dimension is much larger than the channel thickness h, and 0
+in the model it is taken to be infinite. The aspect ratio w/h
+of a two-dimensional pressurized dike is u/(1 - v)p, where 150
+p is the fluid pressure in excess of the remotely applied
+compressive stress normal to the channel wall, yu is the - 100
+rigidity modulus of the country rock, and v is its Poisson’s 0
+ratio [Pollard et al., 1983]. A pressure change §p therefore £
+changes the channel thickness by 6h ~ wdp/i, and so the S go
+effective stiffness per unit distance in the z direction is
+pdefof Lop Lp (13) 0
+oh oh w 0 1 2 3 4 5
+Exhumed dikes typically have aspect ratios in the range from ts
+100 to 1000, so w can range from about 100 to 1000 m. Figure 9. Synthetic tremor computed by numerically
+The rigidity modulus px within volcanoes is highly variable. integrating the differential equations (9) and (12): (top)
+Measured values for Hawaiian basalts range from about 5 channel thickness versus time and (bottom) fluid speed
+to 40 GPa [Manghnani and Woollard, 1968]. Thus in our midway along channel versus time. Model parameters are
+example, k might range from about 0.05 to 4 GPa. Iusea k = 600 MPa, M = 3 x 10° kg m™!, p = 2500 kg m3,
+value k= 0.6 GPa. I first treat the walls as having inertia but 7 = 500 Pa s, p; = 10 MPa (100 bars), po = 0.1 MPa (1
+no damping (appropriate in the the low-frequency limit), so bar), hg = 1 m, and L = 10 m.

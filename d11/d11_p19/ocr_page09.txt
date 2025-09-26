@@ -1,0 +1,102 @@
+Flowers: Glacier hydromechanics — insights and legacy of lken’s works 1077
+
+Joughin, I. and 6 others. 2009. Basal conditions for Pine Island and Nye, J.F. 1969. A calculation on the sliding of ice over a wavy surface
+Thwaites Glaciers, West Antarctica, determined using satellite using a Newtonian viscous approximation. Proc. R. Soc. London,
+and airborne data. J. Glaciol., 55(190), 245-257. Ser. A, 311(1506), 445-467.
+
+Kamb, B. 1970. Sliding motion of glaciers: theory and observation. Nye, J.F. 1970. Glacier sliding without cavitation in a linear viscous
+Rev. Geophys. Space Phys., 8(4), 673-728. approximation. Proc. R. Soc. London, Ser. A, 315(1522),
+
+Kamb, B. and H. Engelhardt. 1987. Waves of accelerated motion in a 381-403.
+glacier approaching surge: the mini-surges of Variegated Glacier, Nye, J.F. 1976. Water flow in glaciers: j6kulhlaups, tunnels and veins.
+Alaska, U.S.A. J. Glaciol., 33(113), 27-46. J. Glaciol., 17(76), 181-207.
+
+Kamb, B. and 7 others. 1985. Glacier surge mechanism: 1982-1983 O’Neel, S., K.A. Echelmeyer and R.J. Motyka. 2001. Short-term flow
+surge of Variegated Glacier, Alaska. Science, 227(4686), dynamics of a retreating tidewater glacier: LeConte Glacier,
+469-479. Alaska, U.S.A. J. Glaciol., 47(159), 567-578.
+
+Kamb, B., H. Engelhardt, M.A. Fahnestock, N. Humphrey, M. Meier Pimentel, S., G.E. Flowers and C.G. Schoof. 2010. A hydrologically
+and D. Stone. 1994. Mechanical and hydrologic basis for the rapid coupled higher-order flow-band model of ice dynamics with a
+motion of a large tidewater glacier. 2. Interpretation. J. Geophys. Coulomb friction sliding law. J. Geophys. Res., 115(F4), FO4023.
+Res., 99(B8), 15,231-15,244. (10.1029/2009JF001621.)
+
+Kavanaugh, J.L. and G.K.C. Clarke. 2001. Abrupt glacier motion Piotrowski, J.A. and S. Tulaczyk. 1999. Subglacial conditions under
+and reorganization of basal shear stress following the establish- the last ice sheets in northwest Germany: ice-bed separation and
+ment of a connected drainage system. J. Glaciol., 47(158), enhanced basal sliding? Quat. Sci. Rev., 18(6), 737-751.
+472-480. Purdie, H.L., M.S. Brook and I.C. Fuller. 2008. Seasonal variation
+
+Kessler, M.A. and R.S. Anderson. 2004. Testing a numerical glacial in ablation and surface velocity on a temperate maritime glacier:
+hydrological model using spring speed-up events and outburst Fox Glacier, New Zealand. Arct. Antarct. Alp. Res., 40(1),
+floods. Geophys. Res. Lett., 31(18), L18503. (10.1029/ 140-147.
+2004GL020622.) Raymond, C.F. and W.D. Harrison. 1988. Evolution of Variegated
+
+Lliboutry, L. 1958. Contribution a la théorie du frottement du glacier Glacier, Alaska, U.S.A., prior to its surge. J. Glaciol., 34(117),
+sur son lit. C. R. Hebd. Séances Acad. Sci., 247(3), 318-320. 154-169.
+
+Lliboutry, L. 1968. General theory of subglacial cavitation and sliding Raymond, C.F. and S. Malone. 1986. Propagating strain anomalies
+of temperate glaciers. J. Glaciol., 7(49), 21-58. during mini-surges of Variegated Glacier, Alaska, USA. J. Glaciol.,
+
+Lliboutry, L. 1979. Local friction laws for glaciers: a critical review 32(111), 178-191.
+and new openings. J. Glaciol., 23(89), 67-95. Raymond, C.F., R.J. Benedict, W.D. Harrison, K.A. Echelmeyer
+
+Lithi, M., M. Funk, A. lken, S. Gogineni and M. Truffer. 2002. and M. Sturm. 1995. Hydrological discharges and motion of
+Mechanisms of fast flow in Jakobshavn Isbree, West Greenland. Fels and Black Rapids Glaciers, Alaska, U.S.A.: implications
+Part Ill. Measurements of ice deformation, temperature and cross- for the structure of their drainage systems. J. Glaciol., 41(138),
+borehole conductivity in boreholes to the bedrock. J. Glaciol. 290-304.
+
+48(162), 369-385. Raymond, M.J. and G.H. Gudmundsson. 2005. On the relationship
+
+MacGregor, K.R., C.A. Rithimaki and R.S. Anderson. 2005. Spatial between surface and basal properties on glaciers, ice sheets, and
+and temporal evolution of rapid basal sliding on Bench Glacier, ice streams. J. Geophys. Res., 110(B8), B08411. (10.1029/
+Alaska, USA. J. Glaciol., 51(172), 49-63. 2005JB003681.)
+
+MacGregor, K.R., R.S. Anderson and E.D. Waddington. 2009. Rippin, D.M., I.C. Willis, N.S. Arnold, A.J. Hodson and M. Brinkhaus.
+Numerical modeling of glacial erosion and headwall processes 2005. Spatial and temporal variations in surface velocity and
+in alpine valleys. Geomorphology, 103(2), 189-204. basal drag across the tongue of the polythermal glacier midre
+
+Mair, D., P. Nienow, I. Willis and M. Sharp. 2001. Spatial patterns of Lovénbreen, Svalbard. J. Glaciol., 51(175), 588-600.
+glacier motion during a high-velocity event: Haut Glacier Rothlisberger, H. 1972. Water pressure in intra- and subglacial
+d’Arolla, Switzerland. J. Glaciol., 47(156), 9-20. channels. J. Glaciol., 11(62), 177-203.
+
+Mair, D., I. Willis, U.H. Fischer, B. Hubbard, P. Nienow and Russell, A.J. and 6 others. 2006. Icelandic jokulhlaup impacts:
+A. Hubbard. 2003. Hydrological controls on patterns of surface, implications for ice-sheet hydrology, sediment transfer and
+internal and basal motion during three ‘spring events’: Haut geomorphology. Geomorphology, 75(1-2), 33-64.
+
+Glacier d’Arolla, Switzerland. J. Glaciol., 49(167), 555-567. Sayag, R. and E. Tziperman. 2009. Spatiotemporal dynamics of ice
+
+Mathews, W.H. 1964. Water pressure under a glacier. J. Glaciol., streams due to a triple-valued sliding law. J. Fluid Mech., 640,
+5(38), 235-240. 483-505.
+
+Meier, M. and 9 others. 1994. Mechanical and hydrologic basis for Schoof, C. 2005. The effect of cavitation on glacier sliding. Proc. R.
+the rapid motion of a large tidewater glacier. 1. Observations. Soc. London, Ser. A, 461(2055)g, 609-627.
+
+J. Geophys. Res., 99(B8), 15,219-15,229. Schoof, C. 2010. Ice-sheet acceleration driven by melt supply
+
+Meyssonnier, J. 1989. Ice flow over a bump: experiment and variability. Nature, 468(7325), 803-806.
+numerical simulations. J. Glaciol., 35(119), 85-97. Schuler, T., U.H. Fischer and G.H. Gudmundsson. 2004. Diurnal
+
+Morland, L.W. 1976a. Glacier sliding down an inclined wavy bed. variability of subglacial drainage conditions as revealed by tracer
+J. Glaciol., 17(77), 447-462. experiments. J. Geophys. Res., 109(F2), F02008. (10.1029/
+
+Morland, L.W. 1976b. Glacier sliding down an inclined wavy bed 2003JF000082.)
+with friction. J. Glaciol., 17(77), 463-477. Schweizer, J. and A. lken. 1992. The role of bed separation and
+
+Miller, F. and A. Iken. 1973. Velocity fluctuations and water regime friction in sliding over an undeformable bed. J. Glaciol., 38(128),
+of Arctic valley glaciers. IASH Publ. 95 (Symposium at Cambridge 77-92.
+
+1969 — Hydrology of Glaciers), 165-182. Shepherd, A., A. Hubbard, P. Nienow, M. McMillan and I. Joughin.
+
+Naruse, R., H. Fukami and M. Aniya. 1992. Short-term variations in 2009. Greenland ice sheet motion coupled with daily melting in
+flow velocity of Glaciar Soler, Patagonia, Chile. J. Glaciol. late summer. Geophys. Res. Lett, 36(1), LO1501. (10.1029/
+38(128), 152-156. 2008GL035758.)
+
+Nienow, P.W., M. Sharp and I.C. Willis. 1996. Sampling-rate effects Shreve, R.L. 1972. Movement of water in glaciers. J. Glaciol., 11(62),
+on the properties of dye breakthrough curves from glaciers. 205-214.
+
+J. Glaciol., 42(140), 184-189. Sugiyama, S. and G.H. Gudmundsson. 2004. Short-term variations in
+
+Nienow, PW. and 6 others. 2005. Hydrological controls on diurnal glacier flow controlled by subglacial water pressure at Lauter-
+ice flow variability in valley glaciers. J. Geophys. Res., 110(F4), aargletscher, Bernese Alps, Switzerland. J. Glaciol., 50(170),
+FO4002. (10.1029/2003JFO00112.) 353-362.
+
+https://doi.org/10.3189/002214311796406103 Published online by Cambridge University Press

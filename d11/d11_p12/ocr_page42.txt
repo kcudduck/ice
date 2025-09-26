@@ -1,0 +1,64 @@
+Quality Parameters,” Food Bioprocess Technol, vol. 12, no. 5, pp. 839-851, May 2019, doi:
+10.1007/s11947-019-02263-5.
+
+[327] A. Chakravorty, “Process intensification by pulsation and vibration in miscible and immiscible two
+component systems,” Chemical Engineering and Processing - Process Intensification, vol. 133, pp.
+90-105, Nov. 2018, doi: 10.1016/j.cep.2018.09.017.
+
+[328] Z. Wu, S. Tagliapietra, A. Giraudo, K. Martina, and G. Cravotto, “Harnessing cavitational effects for
+green process intensification,” Ultrasonics Sonochemistry, vol. 52, pp. 530-546, Apr. 2019, doi:
+10.1016/j.ultsonch.2018.12.032.
+
+[329] S. Bhoi, A. Das, J. Kumar, and D. Sarkar, “Sonofragmentation of two-dimensional plate-like
+crystals: Experiments and Monte Carlo simulations,” Chemical Engineering Science, vol. 203, pp.
+12-27, Aug. 2019, doi: 10.1016/j.ces.2019.03.070.
+
+[330] A. Klaue et al., “Ziegler—Natta catalyst sonofragmentation for controlling size and size distribution
+of the produced polymer particles,” AIChE J, vol. 65, no. 9, p. e16676, Sep. 2019, doi:
+10.1002/aic.16676.
+
+[331] N. Edwin and P. Wilson, “Investigations on sonofragmentation of hydroxyapatite crystals as a
+function of strontium incorporation,” Ultrasonics Sonochemistry, vol. 50, pp. 188-199, Jan. 2019,
+doi: 10.1016/j.ultsonch.2018.09.018.
+
+[332] X. Dong et al., “Enhanced high-voltage cycling stability of Ni-rich cathode materials via the self-
+assembly of Mn-rich shells,” J. Mater. Chem. A, vol. 7, no. 35, pp. 20262-20273, Sep. 2019, doi:
+10.1039/C9TA07147D.
+
+[333] H. N. Kim and K. S. Suslick, “The Effects of Ultrasound on Crystals: Sonocrystallization and
+Sonofragmentation,” Crystals, vol. 8, no. 7, p. 280, Jul. 2018, doi: 10.3390/cryst8070280.
+
+[334] H. N. Kim and K. S. Suslick, “Sonofragmentation of lonic Crystals,” Chemistry — A European
+Journal, vol. 23, no. 12, pp. 2778-2782, 2017, doi: 10.1002/chem.201605857.
+
+[335] R. Gao, I. Gupta, and E. S. Boyden, “Sonofragmentation of Ultrathin 1D Nanomaterials,” Particle &
+Particle Systems Characterization, vol. 34, no. 1, p. 1600339, 2017, doi: 10.1002/ppsc.201600339.
+
+[336] J.Jordens, T. Appermont, B. Gielen, T. Van Gerven, and L. Braeken, “Sonofragmentation: Effect of
+Ultrasound Frequency and Power on Particle Breakage,” Crystal Growth & Design, vol. 16, no. 11,
+pp. 6167-6177, Nov. 2016, doi: 10.1021/acs.cgd.6b00088.
+
+[337] Y. Xi et al., “Sonocrystallization of conjugated polymers with ultrasound fields,” Soft Matter, vol.
+14, no. 24, pp. 4963-4976, Jun. 2018, doi: 10.1039/C8SMO0O0905H.
+
+[338] S. Nalesso, M. J. Bussemaker, R. P. Sear, M. Hodnett, and J. Lee, “A review on possible
+mechanisms of sonocrystallisation in solution,” Ultrasonics Sonochemistry, vol. 57, pp. 125-138,
+Oct. 2019, doi: 10.1016/j.ultsonch.2019.04.020.
+
+[339] J. Jordens et al., “Sonocrystallisation: Observations, theories and guidelines,” Chemical
+Engineering and Processing - Process Intensification, vol. 139, pp. 130-154, May 2019, doi:
+10.1016/j.cep.2019.03.017.
+
+[340] J. Lee, K. Yasui, M. Ashokkumar, and S. E. Kentish, “Quantification of Cavitation Activity by
+Sonoluminescence To Study the Sonocrystallization Process under Different Ultrasound
+Parameters,” Crystal Growth & Design, vol. 18, no. 9, pp. 5108-5115, Sep. 2018, doi:
+10.1021/acs.cgd.8b00547.
+
+[341] C. Backes et al., “Guidelines for Exfoliation, Characterization and Processing of Layered Materials
+Produced by Liquid Exfoliation,” Chem. Mater., vol. 29, no. 1, pp. 243-255, Jan. 2017, doi:
+10.1021/acs.chemmater.6b03335.
+
+[342] C. Gibaja et al., “Few-Layer Antimonene by Liquid-Phase Exfoliation,” Angewandte Chemie
+International Edition, vol. 55, no. 46, pp. 14345-14349, 2016, doi: 10.1002/anie.201605298.
+
+42

@@ -1,0 +1,91 @@
+L07614 SHAPIRO AND CAMPILLO: CORRELATIONS OF THE SEISMIC NOISE L07614 g
+5
+
+a) son ST has been extracted by the correlation of records of seismic :
+
+Jl HH Ea A coda of regional earthquakes in Mexico by Campillo and 2
+CTL Xi Rei Paul [2003].
+
+40°N a I —- E
+
+RNC iy ls 3. Application to the Ambient Seismic Nol :
+
+Lf Ho . Application to the Ambient Seismic Noise :
+
+REA = =-1 MEARE H Its of application of the field :
+
+BEER NE Yaa 6] Here, we report results of application o t e Tiel -to- =
+
+——— - : field correlation technique to records of the ambient seismic =
+
+b) noise that 1s exited by shallow sources such as ocean p]
+0.005-0.015 Hz microseisms [e.g., Friedrich et al., 1998] and atmospheric g
+NIA f) pn perturbations [e.g., Lognonne et al., 1998; Tanimoto, 1999]. :
+
+When taken over long times, the distribution of the ambient =
+
+0.01-0.025 Hz sources randomizes and the seismic noise can be considered S
+AAAS ip as a random field satisfying equations (1) and (2). There- S
+
+fore, even if this randomizing mechanism 1s different from 2
+
+0.015-0.04 Hz the multiple scattering that randomizes the seismic coda, we e
+
+: can still expect that the deterministic Green functions can be g
+
+extracted from the ambient seismic noise. Moreover, using 5
+
+0.035-0.08 Hz the noise instead of the coda has the very significant 2
+I advantage that the noise does not depend on the earthquake z
+occurrence and can be recorded in any location almost =
+
+0 200 400 600 continuously. 5
+
+time (s) [7] To test if the Green functions can be extracted from :
+
+the ambient seismic noise, we selected a relatively quiescent C
+
+Figure 1. (a) Map showing the station location. (b) Cross- period (01/01/2002-02/08/2002) during which there was no 5
+correlations of vertical-component records bandpassed with large earthquake (M > 7) in the world and downloaded all =
+different filters as indicated in top left corners of each frame. available continuous vertical component records at stations S
+Gray dotted line emphasizes the dispersion of the emerging ANMO and CCM (Figure la) and used them to compute 5
+signal. cross-correlations in different period bands. Because the %
+amplitude of the ambient seismic noise can vary by a few :
+
+orders of magnitude, a simple cross-correlation between =
+
+noise records at two stations would strongly overweight the 2
+
+The expression equation (3) differs only by an amplitude most energetic parts of the noise. Therefore, we disregarded c
+factor F’' from an actual Green function between points x and the amplitude completely by considering only one-bit =
+y. This result reminds of the fluctuation-dissipation theorem signals [Campillo and Paul, 2003]. Figure 1b shows that Z
+[van Tiggelen, 2003]. Its very important implication 1s that coherent wavetrains emerge at all periods. Moreover, the 5
+the Green function between two locations (or at least, the emerging signal is dispersive as expected for Rayleigh :
+arrival times of the different wave-trains) can be extracted waves inside the Earth, 1.e., the long periods arrive before g
+from the diffuse field with a simple field-to-field correlation the short periods. To compare the dispersion characteristics :
+taken over sufficiently long time. of the emerging signal with those that can be measured for E
+[5] Extraction of the Green functions from the diffuse the same path from ballistic waves we computed a broad-
+wavefield has been successfully applied in helioseismol- band (0.008—0.07 Hz) cross-correlation and applied to it a $
+ogy [e.g., Duvall et al., 1993; Kosovichev et al., 2000; frequency-time analysis of Levshin et al. [1989] to measure §
+Rickett and Claerbaut, 2000], in ultrasonics [e.g., Weaver its group-velocity dispersion curve. The result of this :
+and Lobkis, 2001a, 2001b; Derode et al., 2003], and in analysis between stations ANMO and CCM 1s shown in :
+marine acoustics [Roux et al., 2003]. In seismology, much Figure 2b and 1s compared with the dispersion curve z
+attention has been payed to the seismic coda that 1s predicted by ray-tracing through the global group velocity °
+created as a result of multiple scattering on the small- maps of Ritzwoller et al. [2002] constructed from ballistic :
+scale heterogeneities within the Earth [e.g., Aki and waves. The agreement between results obtained with the g
+Chouet, 1975]. Traditionally, it has been used to extract cross-correlation of the noise records and from the ballistic 5
+average statistical properties of the Earth either by inter- waves 1s remarkable, especially at periods below 60 s. We =
+pretations of the envelopes of seismograms based on the applied the same analysis to two other pairs of stations =
+radiative transfer theory [e.g., Abubakirov and Gusev, located in US (Figures 2c—2d). For the path between S
+1990; Hoshiba, 1991; Ryzhik et al, 1996; Sato and stations CMB and TUC that crosses tectonically active 5
+Fehler, 1998; Margerin et al., 1999] or by the coda-wave provinces of the Western US we measure relatively slow 2
+interferometry [e.g., Cowan et al., 2002; Snieder et al., group velocities while for the path between CCM and HRV <
+2002]. The diffuse character of the seismic coda has been lying within the stable platform we obtain high group :
+explored by [Hennino et al., 2001] by investigating the velocities similar to predictions from the ballistic waves. g
+property of mode equipartition | Weaver, 1982] through the We also computed the cross-correlation at two stations 5
+observation of the stabilization of the ratio of S- and located in the North Western Pacific (Figures 2e—2f). Here, 5
+P-wave energies in the coda of Mexican earthquakes. we also make a comparison with group velocities measured :
+Recently, the deterministic surface-wave Green functions from a local earthquake occurred in vicinity of one of :
+2 of 4 >
+
+=»

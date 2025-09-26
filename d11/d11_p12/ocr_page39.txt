@@ -1,0 +1,68 @@
+[72] B. Naveena, P. Armshaw, and J. Tony Pembroke, “Ultrasonic intensification as a tool for enhanced
+microbial biofuel yields,” Biotechnology for Biofuels, vol. 8, no. 1, p. 140, Sep. 2015, doi:
+10.1186/s13068-015-0321-0.
+
+[73] S.R.Shirsath, S. H. Sonawane, and P. R. Gogate, “Intensification of extraction of natural products
+using ultrasonic irradiations—A review of current status,” Chemical Engineering and Processing:
+Process Intensification, vol. 53, pp. 10-23, Mar. 2012, doi: 10.1016/j.cep.2012.01.003.
+
+[74] A. |. Stankiewicz and J. A. Moulijn, “Process Intensification: Transforming Chemical Engineering,”
+p. 13.
+
+[75] D. F. Rivas, E. Castro-Hernandez, A. L. Villanueva Perales, and W. van der Meer, “Evaluation
+method for process intensification alternatives,” Chemical Engineering and Processing - Process
+Intensification, vol. 123, pp. 221-232, Jan. 2018, doi: 10.1016/j.cep.2017.08.013.
+
+[76] C. Einhorn, J. Einhorn, and J.-L. Luche, “Sonochemistry - The Use of Ultrasonic Waves in Synthetic
+Organic Chemistry,” Synthesis, vol. 1989, no. 11, pp. 787-813, 1989, doi: 10.1055/s-1989-27398.
+
+[77] B. H. Han and P. Boudjouk, “Organic sonochemistry. Sonic acceleration of the Reformatsky
+reaction,” J. Org. Chem., vol. 47, no. 25, pp. 5030-5032, Dec. 1982, doi: 10.1021/jo00146a044.
+
+[78] J. Lindley, T. J. Mason, and J. P. Lorimer, “Sonochemically enhanced Ullmann reactions,”
+Ultrasonics, vol. 25, no. 1, pp. 45-48, Jan. 1987, doi: 10.1016/0041-624X(87)90011-4.
+
+[79] J. C. De Souza-Barboza, C. Petrier, and J. L. Luche, “Ultrasound in organic synthesis. 13. Some
+fundamental aspects of the sonochemical Barbier reaction,” J. Org. Chem., vol. 53, no. 6, pp.
+1212-1218, Mar. 1988, doi: 10.1021/jo00241a017.
+
+[80] A. Furstner, Active Metals: Preparation, Characterization, Applications. John Wiley & Sons, 2008.
+
+[81] J.-L. Luche and P. Cintas, “Ultrasound-Induced Activation of Metals: Principles and Applications in
+Organic Synthesis,” in Active Metals, A. Frstner, Ed. Weinheim, Germany: Wiley-VCH Verlag
+GmbH, 1995, pp. 133-190.
+
+[82] A. Firstner, “Chemistry of and with Highly Reactive Metals,” Angew. Chem. Int. Ed. Engl., vol. 32,
+no. 2, pp. 164-189, Feb. 1993, doi: 10.1002/anie.199301641.
+
+[83] K.S. Suslick and R. E. Johnson, “Sonochemical activation of transition metals,” J. Am. Chem. Soc.,
+vol. 106, no. 22, pp. 6856-6858, Oct. 1984, doi: 10.1021/ja00334a073.
+
+[84] R. D. Rieke, “Preparation of highly reactive metal powders and their use in organic and
+organometallic synthesis,” Acc. Chem. Res., vol. 10, no. 8, pp. 301-306, Aug. 1977, doi:
+10.1021/ar50116a005.
+
+[85] J. H. Bang and K. S. Suslick, “Applications of Ultrasound to the Synthesis of Nanostructured
+Materials,” Advanced Materials, vol. 22, no. 10, pp. 1039-1059, 2010, doi:
+10.1002/adma.200904093.
+
+[86] P.W. Cains, P. D. Martin, and C. J. Price, “The Use of Ultrasound in Industrial Chemical Synthesis
+and Crystallization. 1. Applications to Synthetic Chemistry,” Org. Process Res. Dev., vol. 2, no. 1,
+pp. 34-48, Jan. 1998, doi: 10.1021/0p9700340.
+
+[87] G. Ruecroft, D. Hipkiss, T. Ly, N. Maxted, and P. W. Cains, “Sonocrystallization: The Use of
+Ultrasound for Improved Industrial Crystallization,” Org. Process Res. Dev., vol. 9, no. 6, pp. 923—
+932, Nov. 2005, doi: 10.1021/0p050109x.
+
+[88] J. Jordens et al., “Sonocrystallisation: Observations, theories and guidelines,” Chemical
+Engineering and Processing - Process Intensification, vol. 139, pp. 130-154, May 2019, doi:
+10.1016/j.cep.2019.03.017.
+
+[89] W.T. Richards and A. L. Loomis, “THE CHEMICAL EFFECTS OF HIGH FREQUENCY SOUND WAVES I.
+A PRELIMINARY SURVEY,” J. Am. Chem. Soc., vol. 49, no. 12, pp. 3086-3100, Dec. 1927, doi:
+10.1021/ja01411a015.
+
+[90] B. W. Zeiger and K. S. Suslick, “Sonofragmentation of Molecular Crystals,” J. Am. Chem. Soc., vol.
+133, no. 37, pp. 14530-14533, Sep. 2011, doi: 10.1021/ja205867f.
+
+39

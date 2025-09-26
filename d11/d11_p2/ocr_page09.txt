@@ -1,0 +1,78 @@
+The Journal of Organic Chemistry pubs.acs.org/joc
+mechanochemical unzipping of polyladderenes, for which force Scheme 13. Mechanochemical Stabilization and Hydrolytic
+causes an extensive rearrangement of the structure converting Acceleration of Maleimide—Thiol Adducts during
+the nonconjugated and, hence, insulating, polyladderene Sonication
+structure into a conjugated polyacetylene with semiconducting 0
+. 71,72
+properties. Due to the strained arrangement of fused four-
+: : : : _O S oO ~~
+membered rings, ladderenes undergo facile ring fragmentation. oJ N AS
+A terminal cyclobutene ring of the chloro-substituted [5]- 0
+ladderane monomer breaks through ring-opening metathesis
+polymerization (ROMP) with a Grubbs ruthenium carbene )))
+catalyst. Further dehydrohalogenation affords homopolymers (pulsed sonication)
+aqueous buffer
+loaded with ladderene mechanophores along the skeleton. (pH = 7.4)
+Sonication of the soluble mixture under argon causes extensive
+: : OH
+formation of a polyacetylene, which self-aggregates after 0
+prolonged irradiation resulting in an insoluble blue-colored AS
+polymer (Scheme 12). Nn Oo
+EE ———————— O H n
+Scheme 12. Formation of Polyladderene-Polyacetylene _—
+Copolymers under the Mechanical Action of Ultrasound
+centered mechanophore. Similar strategies have been tailored
+to drugs linked to polymers by covalent or noncovalent
+Hue =H n interactions. Thus, the aminoglycoside antibiotics neomycin B
+! 1) ROMP )))) THF, Ar
+— om, and paromomycin are released from RNA aptamers, as the
+Huw mH 2) Hydrohalogen 6-9 °C, 120 min carrier, by ultrasound-induced cleavage of both noncovalent
+H H elimination : : : : :
+interactions and labile covalent bonds with the phosphodiester
+Cl n up to ca. 600 RNA moiety. H-bonding interactions between a peptide and
+(soluble) the antibiotic vancomycin (yet bound to a polymer or gold
+2s
+nanoparticle) can easily be disrupted by sonication.
+Pr Complementary methods against infectious diseases combine
+. y X both antibiotics, not necessarily linked to carriers, and the
+sonobactericide effect of bubble cavitation that fragments the
+cell wall and degrades other biomolecules required for bacterial
+function.”® Furthermore, cell membrane permeabilization, a
+conductive nanowires d ib d . b . d d b bl
+(insoluble) process described as sonoporation, can be induced by stable
+cavitation at higher frequencies and enhances intracellular
+delivery of some drugs in tumor cells.”
+
+Application to bio-/physiological processes along with drug At this stage, most convergent sonochemical reactions have
+release represent extensions of sonolytically activated mecha- traditionally been gathered within the classification of false
+nophores. It is noteworthy a paradoxical example where mild sonochemistry, benefiting from mechanical action and enhanced
+sonication stabilizes through stretching, compounds that would be mass transfer. However, they can be divergent in nature, as the
+unstable in the absence of force, as reported recently for nonirradiated reaction does not occur at all or requires
+maleimide—thiol adducts.” Such derivatives are employed in conditions that can be circumvented by sonication. An
+bioconjugation, although they are susceptible to retro-Michael interesting example is the ultrasonic treatment of silanes
+reaction and, as a result, thiol exchange in vivo that diminishes opening the path to new silicon structures. Due to the inverse
+the therapeutic effect of bioconjugates. Pulsed sonication in polarization of the Si—H bond, small silicon hydrides are more
+aqueous buffer at pH 7.4 of a polyethylene glycol (PEG)— reactive and energetic than the corresponding alkanes, and
+maleimide reagent modified with trastuzumab, a clinically used ignite in air spontaneously. Heating of silanes leads to pyrolytic
+antibody, accelerates adduct hydrolysis, thereby stabilizing the disproportionation and oligomerization reactions producing
+resulting conjugates and cutting significantly the competing long-chain silanes, but elevated temperatures (~400 °C) and
+retro-Michael reaction (Scheme 13). In addition, sonication inert atmospheres are necessary. An alternative ultrasonic ring-
+does not change the binding of the antibody to its target opening polymerization of cyclopentasilane (SisH,,) for
+ligand. In fact, antibody—PEG conjugates prepared under instance, causes ultrafast decomposition leading to silicon
+ultrasonic irradiation showed ligand-binding activity similar to nanoparticles that can further be polymerized with ultrasound
+those of silent conditions in an enzyme-based assay. or UV light to Si-based materials for electronic or solar
+
+Likewise, mechanical scission of disulfides bearing cargo applications.” The initiation of polymerization, assumed to be
+molecules within the center of a water-soluble polymer enables homolytic pyrolysis, is sonocatalytic in nature and not thermic,
+the liberation of anticancer molecules, such as camptothecin owing to the low macroscopic temperature of the solution
+and gemcitabine, accompanied by fluorescent reporters.” (between 20 and 75 °C).
+
+Sonication (20 kHz probe, 15.84 W/cm”) causes the reductive Heterogeneous and aqueous biphasic reactions, for which
+cleavage of the disulfide bond, and the resulting thiols are then ultrasound often gives rise to remarkable improvements
+involved in a subsequent S-exo-trig cyclization that liberates the without altering the conventional mechanism, have become
+drug molecules (Scheme 14). As expected, terminally appealing in the context of a green chemistry agenda.”®””
+functionalized polymers failed to release the small molecules, Enabling technologies make it possible reactions hitherto
+thus confirming the stretching force of long chains on the unknown having pluses in terms of higher yields and
+13841 https://doi.org/10.1021/acs.joc.1c00805
+
+J. Org. Chem. 2021, 86, 13833-13856

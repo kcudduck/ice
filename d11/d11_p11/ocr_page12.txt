@@ -1,0 +1,115 @@
+plate, and is limited laterally by a cylindrical boundary, again takes a standing character in this region.
+
+which is assumed infinitely rigid, while the free surface is
+
+considered as infinitely soft. The plate is assumed elastic
+
+and its deformation follows the Hooke’s law, its vibrations
+
+. . . . . -- FF "FF "FF "F "F "F "«"” « ” «¥& «&”&"¥" ¥7=” ¥ ¥7”¥¥7¥¥7¥7/7¥7/ ¥7/ ¥7/V¥¥7/V ¥ ¥/ / / / / // 1
+being coupled to the acoustic field in the liquid by ade- |
+quate interface conditions 30]. |
+
+|
+Soft boundary ~~ |
+|
+0.14 |
+: PAVAVAVAVAVAVAVAVAVAVANAVAVAVEVAVAVAVAYY I
+BE AYAVAVAVAVAVAVAVAVAVAVAVAVAVAVAV VANS
+NOT AVAVAVAVAVAVAVAVAVAVAVAVAVAVAVA Ng Uh |
+i ES EAVAVAVAVAVAVAVAVAVAVAVAVAVA AIC Sb l
+$2 VAVAVAVAVAVAVAVAVAVAVAVAN 2 N 0.08
+012+ [bb xD |
+IS FAYAVAVAVAVAVAVAVAVAV NVA be be 4 mmm mmm mmm |
+RE Ep TA AVAVAVAVAVAVAVAVAvAY ke Tok I I
+ERR KREBS
+od gh z (m)
+0.1 Ka oR |
+bE Ap A a ws !
+Bp a SS VAVAYuva, SAVAY. AS ed 4 [ZN
+RR REG ROL OE A —_ © |
+BO A AVA AVIVAVAVAYAVAVATAVATLv.ravie Ug 0 RE |
+RIA FA AA ACR ACA AAA AAA AAR Lge) A] i
+0 08 Ax NS we A A AA A AR Re AR AT AF Z| = fb 1 |
+. BR rie ATAR, YEAR TATRA VARTA ANAT AV TANF SATA R TF ATATATATAAE ng 0 04 by
+se Ag : i A 5) :
+
+2 (m) EPR ERR RRR iE dr i> A) \ i |
+RC ea © rele Le ’
+EE I U5 - :
+
+0.06 SE eh Ci ei ey WA TD I
+EE AAPA PAPA PAPA PATA TATA PAPE SE 5 JA g (1d - [VA WV; oN I
+OE EE HR A | ae.
+
+BE SS Tn rela alam aerate SU J a, rl
+Ga Scum er me a A /
+Teel ant st tt AVA By Sf ry = I foi
+Sa em ts ARS — ) Th) ps
+
+EL LE NIN 1.2
+eS Er Ey A A
+
+0.02 + Eisen eol x or
+A Ee ACL
+BB nb
+
+SR. r (m)
+Vibrating area Steel plate Figure 17: Simulation of the cleaning bath configuration. The thick
+T (m) red lines materialize the Blake-threshold. The black lines are the S-
+streamers, paths of bubbles originating from the vibrating plate, and
+the blue lines are the L-streamers, path of bubbles originating from
+
+Figure 16: Geometry and meshing of the cleaning bath configuration. the Blake threshold. The green thick line represents the deformed
+
+The geometry has axial symmetry and only a half-plane cut is repre- shape of the plate at wt = 2nr.
+
+sented. The blue line is the symmetry axis. A uniform displacement
+
+Up is imposed on the red line. : : : :
+
+An interesting feature can also be seen in Fig. [17] and
+is magnified in Fig. [18b. It is seen that the S-streamers
+Fig. displays the result obtained with 5 pm air oi! 5
+(black lines) merging at the vertex of the cone then follow
+bubbles and a water height of 0.14 m. The green line
+a unique path up to a stagnation point located on the sym-
+represents the deformed shape of the bottom plate, and ;
+: metry axis. If we also launch bubbles from the Bjerknes
+shows that a flexural standing wave is excited in the lat-
+contour curves, the corresponding L-streamers (blue lines)
+ter. This flexural wave produces a spatially inhomoge- C7
+7 join the main S-streamers up to the stagnation point where
+neous acoustic pressure field on the plate area, ranging in
+numerous secondary streamers end up, forming a star-like
+this case between 0.5 and 2.8 bar (the red lines represent
+structure. The experimental occurrence of this behavior
+the Blake threshold contour curves). In the zones on the
+has been reported in a detailed presentation by Mettin 1],
+plate where the acoustic pressure is larger than the Blake .
+NY who termed this bubbles arrangement as “flare structure”,
+threshold, bubbles are produced, dissipating locally a large
+. and is represented in Fig.[18h). It is seen that, apart from
+energy and modifying the sound speed. The remaining )
+J the curvature of the structure observed in our simulation,
+mechanisms are similar to the cone bubble structure de-
+
+CL. the latter reproduces reasonably well the main features of
+
+scribed above. Dissipation produces traveling waves, and
+: the phenomenon, especially the cone structure attached
+and can even result into the production of a small cone ) Co,
+to the vibrating plate merging into a jet, fed laterally by
+
+bubble structure (near r = 0.04 m) attached on the plate, Je EE oo
+
+. bubbles originating in the bulk liquid. Mettin reported
+while other structures on the plate are more similar to the
+
+: : that this structure was universally found in cleaning bath
+above-mentioned streamers attached on the lateral side of Co Co
+Coq setups and proposed a qualitative explanation involving a
+sonotrodes. A few streamers are also visible in the middle )
+Co : complicated near field structure with shares of both trav-
+of the liquid, located on the antinodes of the wave, which
+12

@@ -1,0 +1,65 @@
+5 I 0
+—4— Training
+) —4— Validation
+Testing
+= -5 a
+_ f
+SHER 4
+2 Co] _ Z
+= 1 | = |
+SS “4
+FN — | 10 7
+1 1 — a 1 ol 2
+I T= ~ 7”
+0 i
+UCN TR A " 4
+$ ¢ © © © © © 7
+The network architecture “4 * Training
+Testing
+Figure 2: The median and range of the optimal MSE obtained with 20, 15 10 5 0
+different FENN models in 32 runs. lo | fi |
+810 112
+2g
+10 \ —e— Training Figure 4: The regression of the training (filled circles) and the testing
+. 10 LY TT Testing (empty circles) data.
+Z 10° IN
+p ge, 1800
+10 pa I Training
+(0? anes 1600 BE I Validation
+0 10 20 30 40 50 60 70 80 [Testing
+1400
+1200
+10°
+E oil . 1000
+9 A
+S100 fa A °00
+O 0 nln i | 600 LC Bl
+0 10 20 30 40 50 60 70 80 400
+Epochs 200 _ =
+0 I ——— an
+Figure 3: The changes of the MSE and the gradient with the epochs °° FP PP LEP EEL PP FPR
+for a model with the fourth architecture. ® ® ® ® © , > N N N
+logo (| f12]/1/15])
+1 . ft t — nmi] —
+ization. 32 models are thus produced, which are slightly ~~ F'€ure >: The bar chart for the error &, = logy |/,,] = logy I/}5] =
+] logo (f{,/f{5) for the training (bottom bars), validation (middle bars)
+different from each other even 1f they have the same ar- and testing (top bars) data. The height of a bar represents the number
+chitecture. The 32 optimal validation MSEs for these of samples Ny in the bin.
+models obtained from the training are calculated. The
+median values are plotted with the symbols in Fig. 2|for
+all 8 architectures, as well as the maximum and mini- The next a few results provide fuller description of the
+mum values, which are given by the error bars. The re- errors. Fig. |4|shows the regression of the training and
+sult for architecture 1 shows that, with 30 neurons, the the testing data, where superscripts ¢ and m are used to
+validation MSE can be kept under 5% in all runs. This denote the true and modelled values, respectively. Excel-
+observation has been the basis to choose 30 as the to- lent regression 1s obtained for both datasets. The coefli-
+tal number of the neurons. Fig. [2] shows clearly that cient of determination R 1s more than 99% 1n both cases.
+the MSE can be reduced by using multiple hidden lay- The bar chart in Fig. |5|shows the distribution of the
+ers. Architecture 4, which has two hidden layers with 15 absolute error for log, |fi2| defined by &, = log |f{,| —
+neurons in each, displays the best performance. Further ~~ logo |f{5|. Given that the values for log; |f12| approxi-
+increasing the number of hidden layers appears to some- ~~ mately range between —20 and —5 (c.f. Fig. [4), the error
+what degrade the performance. Based on these results, on a large majority data points 1s very small.
+architecture 4 has been chosen to obtain all the results to The error 1n log, |f12| 1s small enough that the mag-
+be presented below. As an illustration, Fig. 3|shows how nitude |fi,| itself 1s also accurately modelled. Plotted in
+the performance and the gradient of the model improves Fig. 6]is the relative error for | fi], which 1s defined as
+by the training. gE, = FL 1=1 5/15) and 1s related to g, by g, = |10%—1].
+5

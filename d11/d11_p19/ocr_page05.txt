@@ -1,0 +1,66 @@
+Flowers: Glacier hydromechanics — insights and legacy of lken’s works 1073
+The Arolla project and numerous papers from Unteraar- ~~ Kavanaugh and Clarke, 2001). Basal hydromechanical
+gletscher (e.g. Gudmundsson and others, 1999; Schuler and ~~ events can temporarily alter the force balance of the glacier
+others, 2004) contribute to the increase in citations to lken (e.g. Howat and others, 2008), highlighting the limitations of
+and others (1983) between the mid-1990s and 2005, along the standard sliding law where the driving stress is assumed
+with works from Trapridge Glacier (Yukon, Canada) and to be balanced locally by basal drag. In several cases Iken’s
+Bench Glacier (Alaska) among others. Citations to lken and (1981) modelling results have been used specifically to
+Bindschadler (1986) are more difficult to characterize, explain the occurrence of peak horizontal velocities during
+because they are broadly distributed across studies. How- rising water pressures (e.g. Nienow and others, 2005). For
+ever, Figure 4 illustrates clearly that the relevance of this example, Blake and others (1994) documented diurnal
+work has increased, rather than decreased, over time. Below peaks in sliding velocity, measured at the bed of Trapridge
+| highlight a few of the research areas impacted by the works ~~ Glacier during rising water pressures measured in a nearby
+profiled here. This review is far from comprehensive, borehole. Fischer and Clarke (1997) proposed a stick-slip
+drawing only upon a subset of works that cite one or more relaxation process to explain this, whereby elastic strain in
+of the three papers. the ice is released when rising basal water pressure causes
+episodic decoupling of the ice from the underlying till.
+Alpine glacier hydromechanics Velocity perturbations driven by basal hydrology are not
+Nowhere has the trio of works by lken and colleagues been ~~ confined to land-terminating glaciers (e.g. Meier and
+more influential than in the study of alpine glacier others, 1994). For example, ONeel and others (2001) found
+hydromechanics. These studies span a range of subjects flow speed near the terminus of LeConte Glacier, Alaska,
+from ‘spring events’ (e.g. Anderson and others, 1999; to respond to surface melt and precipitation, in addition to
+Kavanaugh and Clarke, 2001; Mair and others, 2001) to ocean tides. Both Columbia Glacier in Alaska (Kamb and
+jokulhlaups (e.g. Bjornsson, 1998; Russell and others, 2006; ~~ others, 1994) and Hansbreen in Spitsbergen (Vieli and
+Sugiyama and others, 2007) to glacier erosion (e.g. Hooke, others, 2004) exhibited velocity variations in response to
+1991; Iverson, 1991; Harbor, 1992: Jamieson and others, surface water input as documented for many land-terminat-
+2008; MacGregor and others, 2009). Short-term to seasonal ing glaciers; however, velocity correlated better with water
+variations in velocity as observed by lken and colleagues storage than pressure in both cases.
+have been documented around the world on both temperate Many glaciers such as Unteraargletscher in Switzerland
+(e.g. Naruse and others, 1992; Raymond and others, 1995; (Sugiyama and Gudmundsson, 2004), Storglacidren in
+Nienow and others, 2005; Purdie and others, 2008) and Sweden (e.g. Jansson, 1995) and Kennicott Glacier in
+polythermal glaciers (e.g. Hooke and others, 1985; Jansson, ~~ Alaska (Bartholomaus and others, 2008) exhibit behaviour
+1995; Copland and others, 2003; Rippin and others, 2005; similar to that documented by lken and others (1983) and
+Bingham and others, 2006). A review of this work through lken and Bindschadler (1986). Some studies, however, do
+the early 1990s is given by Willis (1995). not find a straightforward relationship between sliding
+Glacier surges furnish a dramatic example of flow speed and basal effective pressure and yet are not
+variations, and accordingly references to the work of lken inconsistent with the observations of lken and colleagues
+and colleagues can be found in the numerous papers related in other respects. For example, at Bench Glacier, Harper
+to the 1982-83 surge of Variegated Glacier (e.g. Kamb and others (2007) observed accelerated motion associated
+and others, 1985; Kamb and Engelhardt, 1987; Raymond either with enhanced ice-bed separation or elevated
+and Harrison, 1988). lken’s (1981) conceptualization of the hydraulic connectivity at the glacier bed, but unaccompa-
+sliding process is akin to Kamb’s (1987) linked cavity model ~~ nied by low effective pressures.
+used to explain the surge mechanism for Variegated Glacier. MacGregor and others (2005) noted that the onset of the
+Many features of the antecedent mini-surges of 1978-81 spring acceleration event at Bench Glacier coincided with a
+were likened to observations from Findelengletscher and ~~ maximum in global englacial storage and that the propa-
+Unteraargletscher: transient uplift and subsidence of the gation of the event was accompanied by a pattern of uplift
+clacier surface, propagating waves of high basal water and subsidence not unlike that observed by lken and others
+pressure and velocity and the correspondence of peak uplift ~~ (1983). Anderson and others (2004) used the ‘tilted staircase’
+rates with peak velocities (Kamb and others, 1985; Kamb ~~ model of lken (1981) to interpret a similar GPS dataset from
+and Engelhardt, 1987). A notable exception was the max- ~~ Bench Glacier, where the relationship between calculated
+imum in observed velocities and pressures, the latter bed separation and sliding speed was explained in terms of
+exceeding the limiting pressure calculated by lken (1981) cavity growth and collapse prior to the development of a
+at which sliding was predicted to become unstable. One channelized drainage system (see also Kessler and Ander-
+explanation given for this was limited hydraulic connectivity ~~ son, 2004). Using a sliding law of the general form proposed
+during mini-surges, such that high-pressure water was by lken and Truffer (1997), Anderson and others (2004)
+confined to patches of the bed (Kamb and others, 1985). inferred water pressures from their data that were naturally
+Hydromechanical events reminiscent of the observations ~~ averaged over the relevant spatial scale. There is clearly a
+on Unteraargletscher and Findelengletscher have been relationship between water and sliding at Bench Glacier, but
+documented on both temperate and polythermal glaciers ~~ one that does not lend itself easily to a functional description
+from Haut Glacier d’Arolla in Switzerland (e.g. Mair and in terms of measured borehole water pressure.
+others, 2003) to John Evans Glacier in the Canadian High It would be raising a false dichotomy to suggest that the
+Arctic (e.g. Bingham and others, 2006). In some cases these ~~ work of Iken and colleagues supports a relationship between
+events appear to be driven by basal water pressure as sliding and water pressure to the exclusion of storage
+interpreted by lken and Bindschadler (1986) (e.g. Copland ~~ volume. The results above only serve to reinforce the
+and others, 2003), while in others the water pressure significance of the connectedness of the drainage system
+responds to a predominantly mechanical forcing (e.g. (e.g. ken and Truffer, 1997; Hanson and others, 1998), the
+https://doi.org/10.3189/002214311796406103 Published online by Cambridge University Press

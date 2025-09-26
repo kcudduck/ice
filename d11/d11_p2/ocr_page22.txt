@@ -1,0 +1,109 @@
+The Journal of Organic Chemistry pubs.acs.org/joc
+stereoselectivities of organic reactions? In Advances in Sonochemistry; and hydroxystannation of C-C multiple bonds. J. Org. Chem. 1994, 59,
+Mason, T. J., Ed.; JAI Press, Ltd.: London, 1999; Vol. §, pp 147-174. 8178—8186.
+
+(50) Jayarajan, R.; Chandrashekar, H. B.; Dalvi, A. K.; Maiti, D. (70) Bowser, B. H.; Craig, S. L. Empowering mechanochemistry
+Ultrasound-facilitated direct meta-C-H functionalization of arenes: a with multi-mechanophore polymer architectures. Polym. Chem. 2018,
+time-economical strategy under ambient temperature with improved 9, 3583-3593.
+yield and selectivity. Chem. - Eur. J. 2020, 26, 11426—11430. (71) Chen, Z.; Mercer, J. A. M.; Zhu, X.; Romaniuk, J. A. H,;
+
+(51) Cintas, P.; Palmisano, G.; Cravotto, G. Power ultrasound in Pfattner, R.; Cegelski, L.; Martinez, T. J; Burns, N. Z.; Xia, Y.
+metal-assisted synthesis: from classical Barbier-like reactions to click Mechanochemical unzipping of insulating polyladderene to semi-
+chemistry. Ultrason. Sonochem. 2011, 18, 836—841. conducting polyacetylene. Science 2017, 357, 475—479.
+
+(52) Cintas, P.; Barge, A.; Tagliapietra, S.; Boffa, L.; Cravotto, G. (72) For recent studies of ladderane unzipping and polyladderene-
+Alkyne-azide click reaction catalyzed by metallic copper under polyacetylene copolymers, see: (a) Chen, Z; Zhu, X; Yang, J;
+ultrasound. Nat. Protoc. 2010, S, 607—611. Mercer, J. A. M,; Burns, N. Z.; Martinez, T. J.; Xia, Y. The cascade
+
+(53) May, P. A; Moore, J. S. Polymer mechanochemistry: unzipping of ladderane reveals dynamic effects in mechanochemistry.
+techniques to generate molecular force via elongational flows. Chem. Nat. Chem. 2020, 12, 302-309. (b) Boswell, B. R.; Mansson, C. M.
+Soc. Rev. 2013, 42, 7497-7506. E.; Cox, J. M,; Jin, Z.; Romaniuk, J. A. H.; Lindquist, K. P.; Cegelski,
+
+(54) Cravotto, G.; Gaudino, E. C.; Cintas, P. On the L.; Xia, Y.; Lopez, S. A.; Burns, N. Z. Mechanochemical synthesis of
+mechanochemical activation by ultrasound. Chem. Soc. Rev. 2013, an elusive fluorinated polyacetylene. Nat. Chem. 2021, 13, 41-46.
+42, 7521-7534. (73) Huang, W.; Wu, X,; Gao, X.; Yu, Y.; Lei, H.; Zhu, Z.; Shi, Y,;
+
+(55) Li, J.; Nagamani, C.; Moore, J. S. Polymer mechanochemistry: Chen, Y; Qin, M; Wang, W,; Cao, Y. Maleimide-thiol adducts
+from destructive to productive. Acc. Chem. Res. 2015, 48, 2181-2190. stabilized through stretching. Nat. Chem. 2019, 11, 310-319.
+
+(56) Cintas, P.; Cravotto, G.; Barge, A.; Martina, K. Interplay (74) Shi, Z.; Song, Q.; Gostl, R; Herrmann, A. Mechanochemical
+between mechanochemistry and sonochemistry. In Polymer Mecha- activation of disulfide-based multifunctional polymers for theranostic
+nochemistry-Topics in Current Chemistry, Vol. 369; Boulatov, R., Ed; drug release. Chem. Sci. 2021, 12, 1668-1674.
+Springer: Heidelberg, 2015; pp 239—284. (75) (a) Huo, S.; Zhao, P.; Shi, Z.; Zou, M.; Yang, xX; Warszawik, E;
+
+(57) Mason, T. J; Cobley, A. J.; Graves, J. E.; Morgan, D. New Loznik, M,; Gost, R.; Herrmann, A. Mechanochemical bond scission
+evidence for the inverse dependence of mechanical and chemical for the activation of drugs. Nat. Chem. 2021, 13, 131-139. (b) Fora
+effects on the frequency of ultrasound. Ultrason. Sonochem. 2011, 18, pi see: Boulator R. The liberating force of ultrasound. Nat.
+226-230. em ) 9 SET
+
+(58) Neuyen, T. T.; Asakura, Y.; Koda, S.; Yasuda, K. Dependence (76) Lattwein, K. R; Shekhar, H.; Kouijzer, J. J. P; Van Wamel, Ww.
+of cavitation, chemical effect and mechanical effect thresholds on J. B,; Holland, C. K; Kooiman, K. Sonobactericide: an CMEIgIng
+
+ltrasonic frequency. Ulf Sonochem. 2017. 39. 301—306. treatment strategy for bacterial infections. Ultrasound Med. Biol. 2020,
+u quency. Ultrason. Sonochem , 39,
+
+(59) Boldyrev, V. V. Mechanochemistry and sonochemistry. 46, 193-215.
+
+Ultrason. Sonochem. 1995, 2, S143—S145. (77) Chettab, K.; Mestas, JL. Lafond, M.; Saadna, D. E.; Lafon, C,;
+(60) Nguyen, T. Q; Liang O. Z; Kausch, H. H. Kinetics of Dumontet, C. Doxorubicin delivery into tumor cells by stable
+ltrasonic and transient eloneational flow deeradation: a comparative cavitation without contrast agents. Mol. Pharmaceutics 2017, 14, 441—
+
+ultrasonic a g g p 447
+
+study. Polymer 1997, 3%, 3783-3793. Cg (78) (a) Cadiz Bedini, A. P.; Muthmann, S.; Allgaier, J.; Bittkau, K;
+(61) For a good overview of theoretical interpretations of polymer ri F. Carius. R. Liquid hvdridosil df
+
+mechanochemistry in sonicated solutions, see: Akbulatov, S; oo 7 1 HS ATE y osTanE P PR rp ny oo
+
+Boulatov, R. Experimental polymer mechanochemistry and its A AN ve ar Co or co 203 “b) ¢ eron
+
+interpretational frameworks. ChemPhysChem 2017, 18, 1422—1450. or Heh reson onocren. SO o ord
+
+commentary, see: Hidding, B. Sonochemistry of silicon hydrides.
+
+(62) Hickenboth, C. R.; Moore, J. S.; White, S. R.; Sottos, N. R.; Science 2018. 360. 489—490
+Baudry, J.; Wilson, S. R. Biasing reaction pathways with mechanical (79) For cent perspectives on sonochemical methods towards
+ea) Ribas Avino 1. MoD. Covalent mechanochemistry: sustainable chemistry "ee a Cravotto, a Borretto, Es Oliverio,
+
+TE ; pio, A.; Penoni, A. Organic reactions in water or biphasic
+theoretical concepts and computational tools with applications to aqueous systems under sonochemical conditions. A review on
+
+molecular nanomechanics. Chem. Rev. 2012, 112, 5412-5487. catalytic effects. Catal. Commun. 2015, 63, 2—9. (b) Draye, M,;
+
+(64) Stauch, T.; Dreuw, A. Advances in quantum mechanochem- Kardos, N. Advances in green organic sonochemistry. Top. Curr.
+
+istry: electronic structure methods and force analysis. Chem. Rev. Chem. 2016, 374, 74. (c) Wu, Z.; Tagliapietra, S.; Giraudo, A;
+
+2016, 116, 14137-14180. Martina, K.; Cravotto, G. Harnessing cavitational effects for green
+(65) (a) Garcia-Manyes, S.; Beedle, A. E. M. Steering chemical process intensification. Ultrason. Sonochem. 2019, 52, 530-546.
+
+reactions with force. Nat. Rev. Chem. 2017, 1, 0083. (b) Li, H.; (80) Jiménez-Gonzdlez, C.; Constable, D. J. C; Ponder, C. S.
+
+Walker, G. C. Twist and shout: single-molecule mechanochemistry. Evaluating the greenness of chemical processes and products in the
+
+ACS Nano 2017, 11, 28-30. pharmaceutical industry-a green metrics primer. Chem. Soc. Rev. 2012,
+(66) Andersen, J. M.; Mack, J. Decoupling the Arrhenius equation 41, 1485—1498.
+
+"ls A ete : Chem Sci. OL v PHT (81) (a) Fegade, S. L.; Trembly, J. P. Misinterpretation of Green
+
+a) Gogate, P. R.; Prajapat, A. L. Depolymerization using chemistry. Ultrason. Sonochem. 2017, 37, 686—687. (b) Cintas, P.
+sonochemical reactors: a critical review. Ultrason. Sonochem. 20185, 27, Ultrasonnd and green chemistry-further —687. (b) Ultrason.
+
+480—494. (b) McKenzie, T. G.; Karimi, F.; Ashokkumar, M.; Qiao, G. Sonochem. 2016, 28, 257-258.
+
+G. Ultrasound and sonochemistry for radical polymerization: sound (82) There is some misuse and confusion about the terms “in-water”
+
+synthesis. Chem. - Eur. J. 2019, 25, 5372-5388. and “on-water”, especially without a clear-cut mechanistic analysis. It
+
+(68) (a) Berkowski, K. L.; Potisek, S. L.; Hickenboth, C. R.; Moore, is assumed that the first happens in the bulk aqueous medium and the
+J. S. Ultrasound-induced site-specific cleavage of azo-functionalized latter denotes a transition structure located at the organic side of the
+poly(ethylene glycol). Macromolecules 2008, 38, 8975-8978. (b) For organic—water interface: Li, C. J.; Chen, L. Organic chemistry in
+a brief retrospective, see: De Bo, G. Polymer mechanochemistry and water. Chem. Soc. Rev. 2006, 35, 68—82.
+the emergence of the mechanophore concept. Macromolecules 2020, (83) Ando, T.; Kimura, T. Ultrasonic organic synthesis involving
+53, 7615-7617. non-metal solids. In Advances in Sonochemistry; Mason, T. J., Ed.; JAI
+
+(69) See, for instance: Nakamura, E.; Imanishi, Y.; Machii, D. Press, Inc.: London, 1991; Vol. 2, pp 211-251 and references cited
+Sonochemical initiation of radical chain reactions. Hydrostannation therein.
+
+13854 https://doi.org/10.1021/acs.joc.1c00805
+J. Org. Chem. 2021, 86, 13833-13856

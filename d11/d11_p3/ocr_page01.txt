@@ -1,0 +1,57 @@
+Nonlinear dynamics of acoustic bubbles excited by their pressure dependent
+subharmonic resonance frequency: oversaturation and enhancement of the
+subharmonic signal
+AJ Sojahrood!2|*] R.E. Earl’, Q. Li*, T.M. Porter*, M. C. Kolios"?, and R. Karshafian'?
+'' Department of Physics,
+Ryerson Unversity, Toronto, Canada
+? Institute for Biomedical Engineering,
+Science and Technology (IBEST) a partnership between Ryerson University and St. Mike’s Hospital,
+AN Toronto, Ontario, Canada
+= > Department of Mechanical Engineering, McGill University, Montreal, Canada and
+- * Department of Biomedical Engineering, Boston University, Boston, MA, USA
+@\ (Dated: September 12, 2019)
+= The acoustic bubble is an example of a highly nonlinear system which is the building block
+op. of several applications and phenomena ranging from underwater acoustics to sonochemistry and
+medicine. Nonlinear behavior of bubbles, and most importantly : order subharmonics (SH), are
+@)\ used to increase the contrast to tissue ratio (CTR) in diagnostic ultrasound (US) and to monitor
+bubble mediated therapeutic US. It is shown experimentally and numerically that when bubbles are
+f=) sonicated with their SH resonance frequency (fsn = 2f, where f; is the linear resonance frequency),
+oN SHs are generated at the lowest excitation pressure. SHs then increase rapidly with pressure increase
+®' and reach an upper limit of the achievable SH signal strength. Numerous studies have investigated
+] the pressure threshold of SH oscillations; however, conditions to enhance the saturation level of
+- SHs has not been investigated. In this paper nonlinear dynamics of bubbles excited by frequencies
+Co in the range of f, < f < 2f, is studied for different sizes of bubbles (400nm-8 pum). We show
+oS that the SH resonance frequency is pressure dependent and decreases as pressure increases. When
+¢) a bubble is sonicated with its pressure dependent SH resonance frequency, oscillations undergo a
+* v= saddle node bifurcation from a P1 or P2 regime to a P2 oscillation regime with higher amplitude.
+2 The saddle node bifurcation is concomitant with over saturation of the SH and UH amplitude and
+le eventual enhancement of the upper limit of SH and UH strength (e.g. ~ 7 dB in UH amplitude).
+ay This can increase the CTR and signal to noise ratio in applications. Here, we show that the highest
+hed non-destructive SH amplitude occurs when f = 1.5 — 1.8f,
+S—
+> I. INTRODUCTION properties that makes them very useful in several ap-
+— plications. Ultrasound contrast agents (coated bubbles)
+= A bubble is a nonlinear oscillator that can exhibits are clinically used on a daily basis to image microvascular
+Va complex and chaotic dynamics [1-8]. Bubbles are the blood flow and quantify blood perfusion (e.g. in the liver,
+- building block of several applications and phenomena; kidney and the myocardium) 38-40. Due the absence
+oo they have applications in sonochemistry [9-15], ultrasonic ~~ ©f SHs and UHs in tissues response to diagnostic ultra-
+- cleaning [16,17] , sonoluminscence [14,15] and medical ul- ~~ sound 20,41-43); SH and UH emissions by bubbles allow
+ON trasound [18-23]. Pioneering works of [1-8] have shown the detection of blood flow with exceptional contrast en-
+v—l the nonlinear and chaotic properties of forced bubble os- hancement 20,41-43). Furthermore, SH CIIISSIONS have
+> cillations which are followed by recent extensive studies lower frequencies and are attenuated less by the tissue.
+o v= on the nonlinear behavior of bubbles in water [23-27], In therapeutic ultrasound SH emissions are used for mon-
+>< coated bubbles [24,26] , bubbles in highly viscous media ~~ 1t0ring therapeutic applications of ultrasound and as an
+= 28-33]; and bubbles sonicated with asymmetrical driv- ~~ indicator for stable cavitation 44-45]. SHs and UHs are
+ing acoustic forces [34-37]. Complexity of the bubble dy- ~~ employed to measure the efficacy of blood brain barrier
+namics makes it very difficult to effectively implement opening [46,47]. SHs are proposed for the NON-INVASIVE
+bubbles in applications; however, within this complexity measurement of the pressure inside vessels [48-50], tO 1m-
+there exists an opportunity for beneficial bubble behav- age the microvasculature [41,51-52] and can be utilized
+ior in applications. in bubble sizing [53], among other applications.
+Period doubling (PD) is an example of a beneficial non- ~~ Esche 54] was the first to characterize the SH bubble
+linear behavior. In the bubble oscillator PD results in behavior through experimental observations in 1952. Pi-
+generation of + order SHs and 2 order UHs. SH os- oneering theoretical works of Eller [55] and Prosperetti
+cillations of bubbles are highly desirable due to unique 56-59] showed through a weakly non-linear analysis of
+the Rayleigh-Plesset model [60] that the subharmonic be-
+SESE havior of bubbles can only exist if the driving pressure
+amplitude exceeds a threshold pressure; it has been pre-
+* amin.jafarisojahrood@ryerson.ca dicted theoretically that the pressure threshold is mini-

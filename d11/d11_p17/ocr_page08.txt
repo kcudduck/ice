@@ -1,0 +1,32 @@
+the UV-Vis bathochromic shifting observed in the spectra, as a function of time
+reaction for all synthesized samples. The GNPs sample at 60 W had a limited
+Intensity from absorption due to nucleation and growth, this effect is associated
+with large Au clusters formation, but does not contribute to the absorption band
+signal. The spectra revealed a broadband localized at 650 nm after 60 minutes of
+irradiation (Fig. 2d). The hypochromic shift at Aqgp= 520 nm was associated with
+small GNPs signal and the highest occupied molecular orbital (HOMO). The lowest
+unoccupied molecular orbital (LUMO) value of 2.21 eV probes the formation of
+large aggregates. The broad full width at half maximum (FWHM) (114 nm) of the
+SRP band was associated with the multiple twinned GNPs in FCC orientation and
+aggregate formation.
+The LSPR band obtained in the UV-Vis spectra of 150 and 210 samples probe
+optical properties modification in reduced time as ultrasound power increases. Fig.
+2b shows a narrow LSPR band (ALspr = 535 nm) formation in UV-Vis spectrum of
+150 sample, It takes 60 minutes of irradiation. Whereas, the 210 sample (Fig. 2c,
+ALsrp= 525 nm) occurs after 20 minutes (Figure 2f). The FWHM reduction from 82
+to 75 nm (Fig. 2e) and the increase in HOMO-LUMO energy values from 2.32 to
+2.36 eV (see Table 1) suggested quantum confinement effects related to reduced
+size and monodispersion of as obtained GNPs. Is possible to manufacture GNPs
+with high absorption interaction using ultrasonic irradiation as an only energy
+source, reducing laboratory requirements and controlling properties modifying
+simple parameters.
+According with literature [48], narrow SRP bands (reduced FWHM values)
+correspond to interactions of monodisperse particles with UV-Vis radiation and the
+bathochromic shifting was related to complex polyhedral arrangement of Au® atoms
+IN GNPs FCC structure predicted in theoretical simulations. The proposed
+ultrasound assisted Turkevich-Frens method allows to observe these spectral
+changes. During the experimental procedure, UV-Vis interactions reveals
+monodisperse and high LSPR GNPs in a few minutes (Fig. 2e). The results can be
+associated to an optical enhancement thanks to their accurate response In a
+
+8

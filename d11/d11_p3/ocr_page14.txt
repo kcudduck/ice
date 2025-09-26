@@ -1,0 +1,61 @@
+14
+Normalized maximum P2 P2 ; Normalized maximum P2 wall velocity
+: = —R=2um > SL
+~ ® —Rp=2em ) — ——R,=1p m
+= 08 |— Rpm S 0.8 R,=0.4p m
+c R,=0.41 m 3 ——R,=02u m
+£ 06 —R02um | 3 |
+= \ 3 0.6
+f: 0.4 = \ |
+£ NX : ve NT
+S 0.2 \ c
+pra
+0 —— 0.2
+1 1.2 14 1.6 1.8 2 1 1.2 1.4 1.6 1.8 2
+Frequency (f/f) Frequency (f/f)
+(a) (b)
+5 Maximum SH amplitude 10 Maximum UH amplitude
+10
+15
+15 ~
+—_— ~~ 20 a
+5 20 ——R,=2p m J ~
+% -25 ——R =1pm 5 25 If
+| ee R =2 1M
+R =0.4u m 0
+-30 0 —R =1pu m
+——R,=0.2um 30 0
+-35 R,=0.4, m
+-40 -35
+1 1.2 14 1.6 1.8 2 1 1.2 1.4 1.6 1.8 2
+Frequency (f/f) Frequency (f/f)
+(c) (d)
+FIG. 10. a) Normalized maximum non-destructive P2 PZ, b) Normalized maximum non-destructive P2 wall velocity, c)
+Maximum non-destructive SH amplitude, and d) Normalized maximum UH amplitude.
+chaos. pulses are sent to the target with one having twice the
+We have shown that exposure parameters (f = 2f,.) that amplitude of the other. The signals are scaled and sub-
+are used in conventional SH imaging do not result in the tracted upon return. Because of the linear response of
+maximum SH or UH strength. We conclude that soni- tissue to pressure increase the signal from the tissue can-
+cation with f = 1.6f, generates the highest achievable cels and the residual signal from the bubble enhances the
+non-destructive (# < 2) SH and UH amplitude (e.g. CTR. When bubble is sonicated with Pdf, sonication
+depending on pressure, for the bubble with Ry=1um the with pressures below and above the pressure threshold
+enhancement in SH and UH were respectively 3.5-4 dB for the SN can significantly enhance the residual signal;
+and 7-10 dB). furthermore, because of the higher frequencies of PDsth
+In this paper, we have derived the exposure parameters compared to conventional AM sonication at f,., higher
+that maximize the enhancement of the SHs, UHs, scat- resolution is expected.
+tered pressure and wall velocities. The fundamental find- In this paper, we have analyzed the nonlinear dynamics of
+ings of this study can be used to optimize the outcome the free bubble in the absence of coating (shell). Coated
+of ultrasound applications based on SH oscillations. Fur- ~~ bubbles and most importantly lipid shell bubbles [76] are
+thermore, in drug delivery applications, sonication pa- used in medical applications of ultrasound from SH imag-
+rameters that lead to non-destructive oscillations with ing [40] to blood brain barrier opening [46] and throm-
+elevated wall velocities can be used to increase the long  bolysis [77]. The nonlinear behavior of lipid coating (e.g.
+lasting shear stress on the nearby cells. buckling and rupture) makes the dynamics of the bubble
+SN bifurcation is concomitant with a fast increase in the system more complex. In other words, the nonlinear shell
+scattered pressure. For example when the bubble with dynamics are interwoven with the inherent nonlinear be-
+Ro=1pum was sonicated with f = 1.6f, scattered pres- havior of the bubble. This makes it very difficult to un-
+sure underwent a 9.4 times increase as soon as SN oc- derstand the behavior of the system and decouple effects
+curred (Fig. 6b). This has several advantages for am- due to the shell compared to nonlinear effects inherent
+plitude modulation imaging used in medical ultrasound in the forced bubble oscillator. It has been shown exper-
+73-75]. Amplitude modulation (AM) is a method that  imentally and numerically [40,52,78-84] that addition of
+takes advantage of the nonlinear response of the bub- the lipid shell reduces the pressure threshold for nonlinear
+ble to increase in acoustic pressure; in this method, two oscillations including SH oscillations [59,64-65]. Followed

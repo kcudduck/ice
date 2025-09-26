@@ -1,0 +1,40 @@
+In the deflection, or change from tilted to horizontal, of the contourline shown in the charts
+there is a small departure from G, = 1 of the simulations. This is easy to observe in Figure 6
+(40KHz) and Figure 7 (100 KHz) where the only two squares that are not actually touching
+G4, = 1 are in this region, above the line G4, = 1. The meaning of this is that at these
+diameters it is slightly more difficult to get cavitation and the amplitude has to be slightly
+bigger. This behaviour is attributed to the propagation of waves from the border of the
+probe. This waves are clearly visible in Figure 3 although for a case with higher frequency.
+The centre of these toroidal waves are the two lower corners, left and right, of the probe.
+Since Figure 3 depicts a cross section of the probe, these waves have a circular shape with
+centre on the left and right lower corners of the probe. These waves seem to couple with
+the main waves and reduce the pressure oscillations for these diameters where the
+wavelength is similar to the diameter size.
+In general, the contourline G4, = 1 defines with high degree of accuracy the threshold for
+cavitation. Given a frequency, the threshold is dependent on the amplitude for small
+diameters, however the threshold is not dependent on the amplitude for relatively big
+diameters. A further investigation of this phenomena using a simple calculation of the
+radiated power in each case is developed.
+The power radiated per unit of area is a parameter often used in ultrasonic cavitation to
+quantify the intensity of cavitation. Using a simple model to calculate power
+
+P=F-v (4)
+where P is the power, F is the force and v is the velocity. Applying this model to a small
+area in front of the probe tip we can have
+
+P
+
+— =p, V (5)
+
+A Po
+where first term is the power radiated per unit of area, p, is the gauge pressure and v is
+the velocity of the probe tip. As the gauge pressure is constant and equal to p — p,, for the
+condition of cavitation onset, it is concluded that the power radiated per unit of area is
+proportional to the tip velocity for the condition of cavitation onset.
+The maximum tip velocity is given by the equation
+
+v=d2mrf) (6)
+therefore the tip velocity is proportional to the amplitude d for a given frequency f.
+The consequence of equations 5 and 6 is that the power radiated per unit of area for the
+condition of cavitation onset is proportional to the amplitude. As it is shown in figures 4 to
+9S

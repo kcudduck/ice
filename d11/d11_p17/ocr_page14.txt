@@ -1,0 +1,25 @@
+extrapolating to time (t) = 0. In Table 2, calculated power in function of the nominal
+irradiation power. The transmitted energy in the system increases, then raised
+disruption caused by ultrasonic intensity reduces the lifetime of transient bubbles
+and cavitation effects are more evident. These effects allow tuning the energy
+supplied to the system during the synthesis in order to control GNPs properties.
+The obtained values of the primary sonochemical effects in the solution are similar
+and lower than the irradiation conditions used In food industry applications [54].
+Table 2. Values of nominal irradiation power and experimental irradiation power, ultrasonic
+Intensity, and acoustic energy density determined using calorimetric method.
+Nominal Experimental Ultrasonic Acoustic
+irradiation irradiation Intensity energy density
+power (W) power (W) (W/cm?) (W/mL)
+The chemical effects In the proposed GNPs ultrasound assisted synthesis can be
+explained as follows. During the reduction there will be at least four different anions
+present in the reaction medium: gold(lI1) chloride; (AuCls™); citrate; chloride; and
+hydroxide anions [55]. Following mechanism outlines, an important factor Is
+competitive and preferential adsorption of AuCls~ ions instead of citrate ions on the
+surface of formed seeds [56]. The AuCls~ cannot to be adsorbed as a charged ion:
+either counter-ion complexation occurs or one of the CI~ ligands Is displaced when
+adsorption takes place, effectively adsorbing as AuClz [57]. To the previous
+mechanism can be added that, effective absorption of ultrasonic energy can be
+achieved If GNPs are in resonance with the ultrasound. Furthermore surface
+potential of the pure gold surface [58], becomes more negative with increasing pH
+[55]. Then, is possible improve the control of the homogeneity, size and shape of
+14

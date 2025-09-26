@@ -1,0 +1,77 @@
+REVIEW ARTICLES
+signatures for sources sharing similar locations. Such an approach ~~ The crack stiffness, defined as*®*™
+was taken at Mount St Helens to emphasize the narrow bandwidth bl
+of LP events versus the broadband characteristics of VT events™. C=—
+A similar approach was used at Redoubt (Fig. 2), where the LP nd
+signatures were also contrasted to the records of a chemical affects the dispersion characteristics of the crack wave sustaining
+explosion detonated in the crater, which indicated conclusively the crack resonance and thereby fixes the resonant frequencies
+that the LP signatures were not due to path or site effects”. produced by the source. The phase velocity of the crack wave
+Another powerful tool is the comparison of the power spectra decreases with increasing values of the crack stiffness, so that a
+of LP events recorded at widely separated stations. This technique crack with large aspect ratio L/d or large contrast b/u may be
+can be used to show that LP spectra share many common peaks capable of producing long-period signals. The impedance contrast
+among sites for which the wavefields are uncorrelated, a finding ~~ between fluid and solid, defined as**’
+which provides a strong argument in favour of a source effect 0.
+rather than path or site effects. For shallow sources, resonances in Zz =—-
+near-surface layers often combine with source resonances to make pid
+the identification of spectral peaks in the source more difficult. affects both the frequency and duration of the radiated signal. The
+For repetitive sources, stacking the spectra from many individual presence of gas bubbles can drastically reduce the sound speed of
+events may help the identification task by improving the signal-to- the fluid*® so that resonance at a long period may be possible in a
+noise ratio, but in other cases there may be no alternative other short crack. The effect of these bubbles 1s also to increase the
+than to have observations at close range where path effects do not impedance contrast, which increases the duration of the signal.
+completely mask the distinctive characteristics of LP events. Once Fluid viscosity contributes another parameter to the description of
+common spectral peaks have been identified in the wavefield of a the source that describes viscous energy loss in addition to
+LP event, the next step is to test whether the distribution of such radiation loss. Besides its direct effect on signal duration, this
+peaks is compatible with the overtones of a resonator. A source viscous dissipation factor does not contribute much to source
+model that successfully produces the spectral peaks can then be ~~ complexity’®* and is not discussed further here.
+used to infer source parameters such as source geometry, fluid The spectrum radiated by the crack represents the interference
+properties and pressure—space—time history. pattern between the longitudinal and lateral modes of resonance,
+Although many geometries are possible resonators, including which depends on the ratio W/L and the two parameters C and Z.
+fluid-filled pipes’, spheres™ and cracks®**, I will focus here on ~~ Beyond these factors, which represent the coupling between the
+the crack model on the grounds of its ability to explain seismic data elastodynamics of the solid and acoustics of the fluid via the crack
+while at the same time satisfying mass transport conditions at geometry, source complexity is a direct result of the spatio-
+depth in a volcano. The resonance characteristics of a fluid-filled temporal characteristics of the pressure field associated with the
+crack depend on the crack geometry, the physical properties of the rich nonlinear dynamics of the fluid.
+fluid and solid, the spatio-temporal characteristics of the pressure Long-period events recorded at Galeras (Fig. 1) offer graphic
+fluctuations driving the crack, and the boundary conditions in examples of the effect of impedance contrast on the duration of
+effect at the crack perimeter. For a rectangular crack the geome- the signal. For example, Fig. 3 compares the Galeras data to
+trical parameters are expressed by the dimensionless ratios L/d synthetic seismograms calculated for a vertical fluid-filled crack of
+and W/L, where L, W and d represent the length, width and rectangular shape embedded in a homogeneous half-space. The
+aperture of the crack, respectively. Similarly, the properties ot the synthetics represent the ground response to the crack excitation
+fluid and solid are expressed by the dimensionless ratios «/a, p,/ ps owing to a sudden step in pressure applied over a small area of the
+and b/u, where « is the compressional wavespeed and pu 1s the crack wall near the centre of the crack. The good match between
+rigidity of the solid, a is the acoustic wavespeed and b is the bulk data and synthetics suggests that, to first order, the slot-like fluid-
+modulus of the fluid, and p, and p; are the densities of the solid filled crack model provides a simple geometry consistent with
+and fluid, respectively. Two parameters control the crack reso- observations. The fit requires an impedance contrast of 15, which
+nance, namely the crack stiffness C and impedance contrast Z. 1s strongly suggestive of a gas-filled cavity.
+The situation at Galeras may have been close to optimum in
+terms of the relative importance of source versus path effects. The
+source depth of 1(£0.2) km and epicentral distance of 1(£0.1) km
+FIG. 3 Comparison between a h that Itin] lect; thi fit ficial 1
+data and synthetics for an LP were such that multiple reflections in thin soft surficial layers
+event that preceded the 14 AAA AANA draping the volcano were apparently minimized. At the same time
+January 1993 eruption of the sustained resonance of the source associated with the strong
+Galeras volcano. a, Vertical 10 s impedance contrast sharpened the definition of the spectral peaks
+| | : _e : : RRA
+ground velocity recorded at a (Fig. 3c) making their identification easier. The situation is
+distance of 1km from the b considerably more complex when the source 1s embedded in soft
+crater. b, Vertical ground velo- i TT — shallow layers and the impedance contrast 1s weak.
+city calculated at the same To illustrate the effect of medium heterogeneity on the radia-
+location for the excitation of a tion from a low-impedance fluid-driven crack, I now consider the
+vertical fluid-filled crack buried y : :
+ata depth of Lkm beneath the ~~ & 1 ; case of a Hawaiian basaltic magma. Figure 4a compares synthetic
+vent of Galeras. ¢, Spectrum ~~ B seismograms of the vertical component of ground velocity calcu-
+for data (thin line) and syn-  & lated for a vertical crack embedded in a layered structure with
+thetics (dotted line). The 73 those calculated for the same source embedded in a homogeneous
+source model has the following ~~ 2 half-space. The fluid in the crack has a sound speed of 1.25 kms,
+parameters: crack length,  & which is compatible with a basaltic magma containing a void
+180m; crack width, 90m; 2 mn fraction of gas of about 0.05%, and the impedance contrast is
+crack aperture, 0.05m; crack 5 | | near 1. The layered structure is appropriate for the area of Pu’u
+stiffness, 100; sound speed of MN : O’o crater on the east rift of Kilauea’ (see Fig. 4 legend), and the
+fluid, ~O.3kms ~; compres: £ i | homogeneous half-space has parameters identical to those found
+sional wavespeed of solid, 5 7% FA N
+25kms 1; density ratio of 2 0 Lat A Polen ee in layer 3 of that structure.
+fluid to rock, ~ 0.5: and ratio 0 5 10 The low impedance contrast accounts for the poorly developed
+of bulk modulus of fluid to rigid- Frequency (Hz) source resonance, as demonstrated by the weak harmonic coda in
+ity of rock, 0.025. the synthetics calculated tor the homogeneous medium. Whereas
+312 NATURE - VOL 380 - 28 MARCH 1996
+© 1996 Nature Publishing Group

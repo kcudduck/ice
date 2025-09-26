@@ -1,0 +1,71 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+diffusively growing gas bubbles, J. Fluid Mech. 846, 143 (2018).
+
+1166] J. Magnaudet and I. Eames, The motion of high-Reynolds number bubbles in inhomogeneous
+flows, Annu. Rev. Fluid Mech. 32, 659 (2000).
+
+1167] J. M. Rensen, D. Bosman, J. Magnaudet, C. D. Ohl, A. Prosperetti, R. Togel, M. Versluis,
+and D. Lohse, Spiraling bubbles: How acoustic and hydrodynamic forces compete, Phys. Rev.
+Lett. 86, 4819 (2001).
+
+1168] D. Lohse and A. Prosperetti, Controlling bubbles, J. Phys.: Condens. Matter 15, S415 (2003).
+
+169] E. A. van Nierop, J. J. Bluemink, S. Luther, J. Magnaudet, A. Prosperetti, and D. Lohse,
+Drag and lift forces on bubbles in a rotating flow, J. Fluid Mech. 571, 439 (2007).
+
+170] J. Magnaudet and D. Legendre, The viscous drag force on a spherical bubble with a time-
+dependent radius, Phys. Fluids 10, 550 (1998).
+
+171] R. Toegel, S. Luther, and D. Lohse, Viscosity destabilizes sonoluminescing bubbles, Phys.
+Rev. Lett. 96, 114301 (2006).
+
+1172] Y. T. Didenko, W. B. McNamara, and K. S. Suslick, Molecular emission from single-bubble
+sonoluminescence, Nature 407, 877 (2000).
+
+1173] M. R. Maxey and J. J. Riley, Equation of motion for a small rigid sphere in a nonuniform
+flow, Phys. Fluids 26, 883 (1983).
+
+1174] E. Calzavarini, M. Kerscher, D. Lohse, and F. Toschi, Dimensionality and morphology of
+particle and bubble clusters in turbulent flow, J. Fluid Mech. 607, 13 (2008).
+
+1175] I. M. Magzzitelli, D. Lohse, and F. Toschi, The effect of microbubbles on developed turbulence,
+Phys. Fluids 15, L5 (2003).
+
+1176] I. M. Magzzitelli, D. Lohse, and F. Toschi, On the relevance of the lift force in bubbly turbu-
+lence, J. Fluid Mech. 488, 283 (2003).
+
+177] C. T. Crowe, T. R. Troutt, and J. N. Chung, Numerical models for two-phase turbulent flows,
+Annu. Rev. Fluid Mech. 28, 11 (1996).
+
+178] S. Balachandar and J. K. Eaton, Turbulent dispersed multiphase flow, Annu. Rev. Fluid
+Mech. 42, 111 (2010).
+
+1179] F. Toschi and E. Bodenschatz, Lagrangian Properties of Particles in Turbulence, Annu. Rev.
+Fluid Mech. 41, 375 (2009).
+
+1180] N. H. Thomas, T. R. Auton, K. J. Sene, and J. C. R. Hunt, in Gas transfer at water surfaces,
+edited by W. Brutsaert and G. H. Jurka (D. Reidel, Berlin, 1984), p. 255.
+
+1181] T. R. Auton, The lift force on a spherical body in a rotational flow, J. Fluid Mech. 183, 199
+(1987).
+
+1182] L. P. Wang and M. R. Maxey, The motion of microbubbles in a forced isotropic and homo-
+geneous turbulence, Applied Scientific Research 51, 291 (1993).
+
+1183] M. R. Maxey, E. J. Chang, and L. P. Wang, Simulation of interactions between microbubbles
+and turbulent flows, Appl. Mech. Rev. 46, S70 (1994).
+
+1184] J. Magnaudet, M. Rivero, and J. Fabre, Accelerated flows past a rigid sphere or a spherical
+bubble, J. Fluid Mech. 284, 97 (1995).
+
+1185] G. Sridhar and J. Katz, Drag and lift forces on microscopic bubbles entrained by a vorter,
+Phys. Fluids. 7, 389 (1995).
+
+1186] E. Climent, Ph.D. thesis, Inst. Nat. Polytech. Toulouse, 1996.
+
+1187] E. Climent and J. Magnaudet, Large-scale simulations of bubble-induced convection in a
+liquid layer, Phys. Rev. Lett. 82, 4827 (1999).
+
+1188] P. D. M. Spelt and A. Biesheuvel, On the motion of gas bubbles in homogeneous isotropic
+
+48 48

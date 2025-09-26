@@ -1,0 +1,42 @@
+= | XRD| —— RTSC/PVP-Al
+=| x ve _
+= FE fl = = BR:
+78 L% <Y _ Al Nucleation 2
+A - “hal oA <Q |<
+— ’ ey p / Bhan ae N Y
+> oy | a
+— . oe | l
+id BE | | B
+= | Lo | |
+21 ml B
+p= ) | |
+= | | me ' po
+— : | rl
+| CIF generated | | =
+|! | |
+| | sme Graphitic Carbon(GC)_genérated
+Vv 0 A |
+oe Ben TL bd \’
+g 2 i= SE
+r= i = S = |
+I I = hd — |
+£ S em A] generated
+EE Be EE a oo EE
+10 20 30 40 50 60
+200°)
+Fig.4 12 [Sonocrystallization of PVP at RT]: Obtained RTSC/3PVP-2Al1 composite
+XRD pattern plotted with crystal structure generated patterns below for
+developed peak phase identification.
+In the designed RTSC/3PVP-2Al composite product, the PVP crystallized GC fraction
+structural phase identification is made employing Match! - program [389]. The
+fabricated GC structural phase has a match (i.e, the identified file is of the highest
+figure of merit) with that of the reference ICDD PDF-2: 89-7213 file with expanded C-
+axis. To reaffirm this further, the crystallographic information file (CIF) generated XRD
+patterns are included in the plot as Graphitic Carbon (GC) _generated in fig. 4 12. A
+perfect match between GC_ generated with that of the GC phase of the fabricated
+RTSC/3PVP-2Al composite product is elucidated for observation. Also, in continuation
+of the earlier discussions, the reference ICDD PDE-2 file: 04-0787 identified in the
+previous sections, remains the perfect match for the metallic Al phase representing the
+other composite fraction. This metallic Al structural phase fraction can be seen as in the
+initial stage of nucleation, having very well intercalated into its surface stabilizing GC
+25

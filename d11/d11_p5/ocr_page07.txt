@@ -1,0 +1,39 @@
+For the purpose of studying the effect of phase difference the chaotic dynam-
+ics of a bubble with 4um of initial radius and 1M H z fundamental frequency,
+were studied in the range of 1—3M Pa of pressure. Figure 8a shows the result-
+ing bifurcation diagram. It shows that the bubble dynamics is first chaotic,
+then becomes of period four regular oscillations and each of them undergoes a
+period doubling bifurcation and again chaotic oscillations occur in the range
+of 1.6—3M Pa. A secondary frequency with the value of 1.5M H z was applied
+concomitant with the fundamental. The phase differences of pi/6, pi/2 and
+3pi/4 were applied. The resulting bifurcation diagrams are presented in fig-
+ures 8b — 8d respectively. As seen in figure 8b, by applying a phase difference
+of pi/6 a stable region appeared in the range of about 1.6 — 2M Pa which
+were chaotic before applying the secondary frequency. When we applied the
+phase difference of pi/2 (figureS8c) the bubble exhibited stable period four
+oscillations in the range of 1 — 1.6M Pa. As seen the oscillations are stable
+in the range of about 1 —1.3M Pa of pressure which they were chaotic before
+applying the technique. Figure 8d illustrates the case of applying the 3pi/4 of
+phase difference. When compared with figure 8a we see that a stable region
+is formed in the range of about 2 — 2.5M Pa. This domain was completely
+chaotic prior to applying the dual frequency method. Also it should be noted
+that the stable region in the bifurcation diagram of the bubble driven by a
+single frequency source may become chaotic after applying the secondary fre-
+quency. This is obvious in figures 8b and 8d.
+
+In summary it is seen that phase difference had a distinguishable impact on
+the dual frequency bubble dynamics. Different stable regions appeared cor-
+responding to typical phase differences. This suggests certain phase values
+can be applied to control chaotic regions of interest.
+
+3.4 Effects of the secondary frequency on the dynamics
+
+of a dual frequency driven bubble
+In order to study the impact of the value of the secondary frequency on the
+bubble dynamics, the chaotic oscillations of the bubble in the previous part
+(figure 8a) were chosen. The phase difference was held constant with the
+value of pi/3 while the secondary frequency was 500K Hz, 800K Hz, 2M H =
+and SM Hz. The resulting bifurcation diagrams are presented in figures
+9a — d, respectively. Comparing with figure 8a using a secondary frequency
+of 500K Hz (figure 9a) has stabilized the first chaotic region in the range
+7

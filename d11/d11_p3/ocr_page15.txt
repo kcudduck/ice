@@ -1,0 +1,74 @@
+15
+by experimental observations of the pressure threshold of ~~ understand the shell effects on the bubble system.
+SH oscillations |78| and numerical results [64-65], Pros- ~~ We have neglected the effects of thermal damping [85-
+peretti [59] theoretically investigated the SH threshold 88]. Thermal damping especially in bigger bubbles can
+of coated bubbles. He showed that consistent with ex- potentially have a strong effect on the dynamics of the
+perimental observations [78], the SH threshold can be system and changes the resonant behavior of the sys-
+considerably lowered with respect to that of an uncoated tem. At higher frequencies (above resonance), the effect
+free bubble. This happens when the mechanical response of thermal damping is weaker and neglecting the thermal
+of the coating varies rapidly in the neighbourhood of cer- effects in this paper may not change the general conclu-
+tain specific values of the bubble radius (e.g. changes in sions presented here. A more complete understanding of
+shell parameters due to buckling of the shell [76]). the thermal damping, however, is necessary for accurate
+In this paper, we have neglected the shell effects. To bet- prediction of the bubble behavior. Another important
+ter understand the dynamics of the more complex coated factor that should be considered is the interaction be-
+bubble, we first need to establish the nonlinear response tween bubbles [89-93]. In applications bubbles exist in
+of the less complex uncoated system. In this regard, un- poly-disperse clusters and their oscillations affect each
+derstanding the nonlinear dynamics of the bubble system ~~ other. We have recently shown that SH behavior of a
+in the absence of the shell is the first step in developing polydisperse interacting cluster of bubbles is dictated by
+a comprehensive framework for the understanding of the the SH response of the bigger bubbles in the cluster. Con-
+complex nonlinear behavior of bubbles. Future studies clusions of this study can be usetul in optimizing the SH
+will include the effect of coating and since we know the strength of a poly-disperse cluster by optimizing the ex-
+behavior of the free bubble system, it is much easier to posure parameters required to enhance the SH response
+
+of the clusters bigger bubbles.
+
+[1] Parlitz, U., et al. "Bifurcation structure of bubble oscilla- [13] Suslick, Kenneth S. ”Sonochemistry.” science 247.4949
+tors.” The Journal of the Acoustical Society of America (1990): 1439-1445.
+
+88.2 (1990): 1061-1077. [14] Storey, Brian D., and Andrew J. Szeri. ” Water vapour,
+
+2] Prosperetti, Andrea, Lawrence A. Crum, and Kerry W. sonoluminescence and sonochemistry.” Proceedings of
+Commander. "Nonlinear bubble dynamics.” The Journal the Royal Society of London A: Mathematical, Physical
+of the Acoustical Society of America 83.2 (1988): 502- and Engineering Sciences. Vol. 456. No. 1999. The Royal
+514. Society, 2000.
+
+[3] , Timothy. The acoustic bubble. Academic press, 2012. [15] Crum, Lawrence A., et al., eds. Sonochemistry and sono-
+
+[4] Lauterborn, Werner, and Thomas Kurz. ” Physics of bub- luminescence. Vol. 524. Springer Science & Business Me-
+ble oscillations.” Reports on progress in physics 73.10 dia, 2013.
+
+(2010): 106501. [16] Cd Ohl, M. Arora, R. Dijkink, V. Janve, and D. Lohse.
+
+[5] Lauterborn, W., and U. Parlitz. "Methods of chaos ”Surtace cleaning from laser-induced cavitation bubbles.”
+physics and their application to acoustics.” The Journal Applied physics letters 89, no. 7 (2006): 074102
+of the Acoustical Society of America 84.6 (1988): 1975- [17] E. Maisonhaute, C. Prado, P.C. White, and R.G. Comp-
+1993. ton. ” Surface acoustic cavitation understood via nanosec-
+
+6] Lauterborn, Werner, and Eckehart Cramer. ”Subhar- ond electrochemistry. Part III: Shear stress in ultrasonic
+monic route to chaos observed in acoustics.” Physical cleaning.” Ultrasonics sonochemistry 9, no. 6 (2002):
+Review Letters 47.20 (1981): 1445. 297-303.
+
+[7] Lauterborn, Werner, and Joachim Holzfuss. ” Acoustic [18] Roovers, S., Segers, T., Lajoinie, G., Deprez, J., Versluis,
+chaos.” International Journal of bifurcation and Chaos M., De Smedt, S.C. and Lentacker, I., 2019. The role of
+1.01 (1991): 13-26. ultrasound-driven microbubble dynamics in drug deliv-
+
+[8] Prosperetti, A., and A. Lezzi. "Bubble dynamics in a ery: from microbubble fundamentals to clinical transla-
+compressible liquid. Part 1. First-order theory.” Journal tion. Langmuir.
+of Fluid Mechanics 168 (1986): 457-478. [19] Ferrara, Katherine, Rachel Pollard, and Mark Borden.
+
+9] Suslick, Kenneth S. ”Sonochemistry.” science 247.4949 ” Ultrasound microbubble contrast agents: fundamentals
+(1990): 1439-1445. and application to gene and drug delivery.” Annu. Rev.
+
+[10] Storey, Brian D., and Andrew J. Szeri. ” Water vapour, Biomed. Eng. 9 (2007): 415-447.
+sonoluminescence and sonochemistry.” Proceedings of 120] Forsberg, Flemming, William T. Shi, and B. B. Goldberg.
+the Royal Society of London A: Mathematical, Physical ”Subharmonic imaging of contrast agents.” Ultrasonics
+and Engineering Sciences. Vol. 456. No. 1999. The Royal 38.1-8 (2000): 93-98.
+Society, 2000. 21] McDannold, N., N. Vykhodtseva, and K. Hynynen. ” Tar-
+
+[11] Crum, Lawrence A., et al., eds. Sonochemistry and sono- geted disruption of the bloodbrain barrier with focused
+luminescence. Vol. 524. Springer Science & Business Me- ultrasound: association with cavitation activity.” Physics
+dia, 2013. in Medicine & Biology 51.4 (2006): 793.
+
+[12] Yasui, Kyuichi, et al. ” Theoretical study of single-bubble 22] Holt, R. Glynn, and Ronald A. Roy. ” Measurements of
+sonochemistry.” The Journal of chemical physics 122.22 bubble-enhanced heating from focused, MHz-frequency
+(2005): 224706 ultrasound in a tissue-mimicking material.” Ultrasound

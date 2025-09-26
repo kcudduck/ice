@@ -1,0 +1,33 @@
+8, the cavitation onset for a given frequency could depend on the amplitude if the diameter
+of the probe is relatively small. For very high frequencies and diameters the cavitation onset
+happens at constant values of amplitude, therefore in that condition and only in that
+conditions the power radiated per unit of area is a good parameter to control the cavitation
+occurrence. However, in many normal conditions with frequencies of 20 to 30 KHz and
+diameters smaller than 80 and 50mm respectively, cavitation onset would happen at
+different values of amplitude and therefore with different powers per unit of area. For
+example at 20 KHz and with diameter 40 mm the amplitude needed for cavitation onset is
+approximately 0.3 um, with a 20 mm diameter, the amplitude changes to approximately 0.6
+um (Figure 4). Therefore the power radiated per unit of area approximately doubles.
+In order to increase the reproducibility when the sonication is close to the cavitation
+threshold the use of the power irradiated is not suitable for many common probes and
+frequencies. The dimensionless number G4 represents a better option in these cases.
+6. Conclusions.
+A dimensionless number that predicts cavitation in accelerated systems has been used to
+predict ultrasonic cavitation.
+The dimensionless number is
+P — Py
+Gp = —— 7
+
+A= aL (7)
+where G, is the dimensionless number, p is the pressure of the liquid at the depth of the
+probe tip, p, is the vapour pressure of the liquid, p is the density of the liquid, L is the
+shortest between the radius of the probe and half the wavelength, and a is the acceleration
+of the tip.
+For values of G4 < 1 cavitation is expected; and for values of G, >> 1 cavitation is not
+expected.
+The power irradiated per unit of area is not a good parameter to predict cavitation onset in
+many common applications, i.e. low ultrasonic frequency and medium diameters. G4
+represents a better parameter to predict cavitation and to increase reproducibility when the
+conditions are close to the cavitation threshold.
+
+10

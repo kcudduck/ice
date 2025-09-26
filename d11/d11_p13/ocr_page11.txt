@@ -1,0 +1,60 @@
+JULIAN: VOLCANIC TREMOR—NONLINEAR EXCITATION BY FLUID FLOW 11,869
+2 These parameters have simple physical interpretations.
+def ak 2pLvg ; hi
+Co = Mm) 1+ Th. | (21a) Parameter ry is the ratio of the kinetic energy of the fluid
+m(M +m) 8 in the channel to the work that must be done against the
+spring to change the channel thickness by the amount h;.
+C, def a(A+a)+ km (21b) Parameter rm» is a function of the relative contributions of
+m(M + m) the fluid to the total effective mass and damping of the
+walls; it is increased by the fluid’s relative contribution to
+def A+a a the mass, and it is decreased by the fluid’s contribution to
+Co = — 4 — , (21c¢) ‘ . . ‘
+M4+m m the damping. The product m3 is a dimensionless measure
+of the total damping.
+These coefficients are all positive, so all the roots of equation It can also be shown that at the onset of instability
+(20) are either negative or complex. Therefore the steady (when the two complex roots are on the imaginary axis)
+flow solution of the equations of motion (9) and (12) is the frequency of oscillations, w, is given by
+unstable if and only if there is a pair of complex conjugate
+roots in the right half plane. By using either the Routh— 2 _ CO; = k 1 24
+: w = 0L1 = (1473), (24)
+Hurwitz theorem [Saaty and Bram, 1981; Gantmacher, M+m
+1960], or more direct arguments [Den Hartog, 1985, section and is higher than the frequency for a simple undamped
+7.2], this instability condition can be shown to be equivalent spring system, [k/(M + m)|1/2. Notice that this
+to C1C;-Co < 0. This 15 the condition for tremor to occur ehavior differs from that of a classical linear oscillator,
+in our model, and by using equations (21), it can be written gop; damping lowers the natural frequency. Nonlinear
+oscillators are more complicated, because their frequency
+def 142m : LL.
+R = EER ETN >1, (22) depends on their amplitude. Equation (24) applies only at
+(1+ r2)(1 +173) the onset of instability and thus describes a situation in
+where we define the following dimensionless parameters: which m and/or m» vary simultaneously with 73 so that R =
+1. Notice also that in the absence of fluid flow (vs = 0, R <
+2 1), the linearized equations of motion (17) do correspond to
+def pLv: 11s : :
+ry = Th (23a) a classical linear oscillator, with
+8
+def (A+ a)m w? = Mm ‘ (1 —rar3) . (25)
+ry = (Mma (23b) Tm
+(M +m)a Figure 11 illustrates the instability condition of equation
+(22) graphically. Each curve gives, for a particular value of
+re def a(A + a) (23 c) rg, the relation between mr and ™ when R = 1, that is, at
+km a state of marginal instability (incipient tremor). If a point
+104 Ps J VV r.
+_aA+a) _
+10°
+102
+101
+a | oo
+~ E
+Q h
+I 10° V DECREASING
+~ STABLE 7
+10° 0.1 </
+102 |)
+102 ~~ INCREASING
+103 2 . . 1 0 1
+104 10° 102 10 10 10 102 108 104
+= (A+a)m
+2 M+m)a
+Figure 11. Conditions for occurrence of tremor, from equation (22). Each curve corresponds to a state
+of marginal instability (onset of tremor) for a fixed value of 3. The regions of instability (tremor) lie
+above the curves. The parameters r;, 72, and r3 are dimensionless numbers defined in equations (23).

@@ -1,0 +1,44 @@
+and since Aug € L*(Q) ($y € H,), it suffices to verify that
+to,
+/ ev I Az(0)do € L*(Q), Vt > 0.
+0
+To this end we recall that (2,2) € C([0,T); H*(Q) x L*(2)). Writing the linear solution of (1.1) (with
+k = 0) in the z—variable yields
+bo T [te
+/ ev IA (0)do = 5 e” 7) [24(0) + yuy(o)] do
+0 0
+T ty
+= = [2(t) + u(t) — eT 2(0) + yun]
+2 [te
++ . e” v2 (0) + yuu (o)]do € LQ), (3.10)
+0
+as needed. Now, in order to show that the boundary conditions are also invariant under the dynamics,
+we write (for continuous D(A)—valued solutions):
+c? ' 27-1
+O,u(t) + ku (t) = ev 0ug + / et 799 (odo
+0
+2 c? c2 t c2
++ Ki (<5 Fu +e" 52(0) + / Fz (o)do
+0
+c? ' 2p —1
+=e” 0 ug vf et =9)9 2(0)do
+0
+ct 2 2 c? bo
++ k1 Seu + eo! (1 + Tuo) vf 0 0) do]
+0
+% t —1
+=e" ov [Dug + Krug] + / eV 19 2 (0) + K12(0)] do = 0,
+0
+where the conclusion follows from the fact that the initial conditions for u satisfy the absorbing bound-
+ary conditions and the variable z satisfies the absorbing boundary conditions along the trajectory.
+This completes the proof of Theorem 2.1.
+4 Exponential decays — Proof of Theorem 2.2
+In this section we work with the linearized version of (1.1) — i.e., we take k = 0 — in the z—variable.
+Moreover, since 7 is fixed, we lose no generality by setting 7 = 1, therefore this is assumed for the
+rest of the paper. Recall that the change of variables z = u; + <u transforms (1.2) into
+zy + bA(zp + N(kiNTAz)) = —yuy + f. (4.1)
+We assume smooth initial conditions and a wu-independent forcing term f € CHR, L*(Q2)). This
+ensures the existence and uniqueness of classical solutions which are, in addition, continuously de-
+pendent on the initial data. We can eventually extend the results that follow to semigroup solutions
+by the virtue of density.
+12

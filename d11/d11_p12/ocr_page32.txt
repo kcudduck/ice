@@ -1,0 +1,30 @@
+nucleation, growth and grown features respectively, in the absence of any crystal
+growth mechanistics.
+
+In the present context, the feasible way to provide a mechanistic understanding
+of crystal growth is to employ an appropriate tool that facilitates crystallization. One is
+the utilization of the TEM electron beam (e-beam) irradiation. There are many reports of
+localized crystallization under TEM e-beam [402]-[406]. The progress of amorphous to
+crystalline phase transition under TEM e-beam is divided into two categories. These
+are; (1) (beam energy is large to overtake displacement energy) the crystallization is
+achieved by the creation/annihilation of point defects and inducing increased atomic
+mobility [404], [407]-[409], or (2) (for lower beam energy not sufficient for creating
+atomic displacements) crystallization gets initiated at the amorphous to crystalline
+interface with the breaking of incorrectly formed interfacial bonds and subsequently
+rearranges itself to regular crystalline order [403], [410]-[415]. The reason for athermal
+nature of this TEM e-beam induced crystallization and also why an amorphous (of high
+relative internal energy) material ends up into an ordered crystalline structure under
+continuous e-beam impetus can be found elsewhere [402], [416], [417]. Computed
+experimental data suggest to create point defects in crystalline Al displacement energy
+of 19 eV is required corresponding to 210 keV primary TEM e-beam [418]. But in the
+present case of amorphous material having differing local environment than its
+crystalline form, the displacement energy can be as low as 10 eV [419]. Therefore having
+200 keV TEM e-beam operating at step-4 emission mode with well above the predicted
+displacement threshold energy is expected to create the required effect. It suggests
+achieved amorphous to crystalline transition is dominantly controlled by point defects
+creation and annihilation, thereby falls in category 1, as stated. With this brief TEM e-
+beam irradiation, an athermal crystallization enhancement (DOC increase) tool
+appropriate to mimic the actual Al crystal growth observed by sonication generated SH
+can be simulated.
+
+32

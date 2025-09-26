@@ -1,0 +1,37 @@
+S_— I — = - ) = a-—
+IE H - Y Ss (a) <
+2 { | s Ya Yea 8 3 ~ ey
+— 1 1 it i i &
+El 4% If a=4.05253) A i ES
+149 I 8 Cry. size=15.95(85), x'=1.9 Hi I
+=r Ne— JNA
+2 a Ll fe EE
+=
+2.2 2.0 18d (A)16 1.4 1.2
+_ Lox10 =
+= . O data (b) S
+S LOXI0 TF ee linear fit (7,°=0.994) S
+(a | —
+S 9.6x10™ _ - 0
+—= o
+er a |= & —"_ tensile strain=8.7x10""
+9.2x10”° += )
+Ne ~ rystallite size=17.7 nm
+8.8x16-
+14 1.6 1.8 2.0 2.2 2.4 2.6
+4 sin(6  )
+Fig.4 11 [XRD structural analysis of nano-Al]: (a) whole pattern profile fit, (b) WH
+plot respectively.
+The lattice constant and phase purity of the embedded crystalline Al particles in the
+PVP matrix is estimated from the XRD data. The Al XRD data with profile fitting for
+lattice parameter extraction is plotted in fig. 4 11. The profile fitting refinement is
+terminated after reaching acceptable values of standard agreement triplets (weighted
+profile R factor (Rwp %), expected R factor (Rexp %), R-pattern (Rp %), and goodness of fit
+index (x?), with x*=1 representing an exact refinement. The agreement triplets reached
+are 6.22, 11.13, and 8.60, with x>=1.9, respectively. The obtained final profile fit and
+difference pattern are shown as Yc and Yditf = Yxrd — Yea in fig. 4 11 (a). The refined face-
+centered cubic (FCC) unit cell is tensile strained with a=4.052 A and is higher than 4.049
+A representing standard ICDD PDF: 04-0787 file. The Williamson-Hall (WH) plot
+(BCos(0) Vs. 45in(0)) taken from the (111), (200), (220), (311), and (222) miller indexed
+lattice planes is shown in fig. 4 11 (b). The slope of the fitted line is positive, providing a
+23

@@ -1,0 +1,38 @@
+Appeared in Phys. Rev. Fluids 3, 110504 (2018).
+
+(a) “Goopm (b) t=75us (C) t=150us (dd) t=225us (©) t=300p5
+
+t=0 ps
+(f) t=2375 us (9) t=450us (h) t=525us (1) t=600pus (J) t=6GTH us
+(k) t=750ps (|) t=000us (MM) t=1.050us (N)  t=1350us (O) 600 ;:m
+t=1,650 pus
+
+FIG. 23. Snapshots of the coalescence of two diffusively grown gas bubbles pinned to 50 um radius
+pits. When they touch and coalesce, both bubbles have a diameter of 600 um. Three main stages
+can be identified: neck formation between the two bubbles, images (a-d); propagation of the capillary
+waves along the upper and lower half-surface of the coalescing bubble and their final convergence
+at its side, images (e-l1); and final detachment, upwards jumping, rising and oscillation with the
+Minnaert frequency, images (m-o). Adopted from ref. [165].
+
+IX. EFFECTIVE BUBBLE FORCE MODELS, DISPERSED BUBBLY FLOW,
+
+AND BUBBLE DRAG REDUCTION
+
+I now come back from the predominantly diffusive bubble dynamics to further inertial
+bubble phenomena. As explained in section II, the acoustic forces (“Bjerknes forces”) are
+the reason why the bubble is pushed towards the pressure antinode where it can oscillate in
+the strongest way, possibly even leading to single bubble sonoluminescence [15]. In general,
+these acoustic forces will compete with inertial forces such as the added mass force, drag,
+and lift, and of course with buoyancy. In 2001, we aimed to understand this competition
+in more detail, in order to gain more insight into the hydrodynamic forces on bubbles such
+as drag and lift (which had very nicely been reviewed by Magnaudet and Eames [166])
+and in order to better control the motion of bubbles in a shear flow with the help of an
+external acoustic field. We thus built an experimental setup with an acoustic spherical
+glass resonator through which we pumped some liquid in a controlled way, thus generating
+controlled shear flow [167]. Remarkably, for certain parameters, the entrapped bubbles
+performed a spiralling motion, out of which we could extract various pieces of information
+on the drag and in particular on the lift. The work — and follow up work in similarly
+controlled geometries such as a rotating horizontal cylinder [168, 169] — also confirmed the
+usefulness of the concept of effective bubble forces, even for deformed or oscillating bubbles.
+In figure 24, for a bubble spiralling in the rotating horizontal cylinder [169], we show the
+31 31

@@ -1,0 +1,65 @@
+Flowers: Glacier hydromechanics — insights and legacy of lken’s works 1071
+pressurized water, pointing to the dominant influence of Varin) Ayia ra |
+water pressure on glacier sliding speed. They came to this ~~ 77°" "° Ea
+conclusion by systematically ruling out the following as oo #0 i es WI |
+leading explanations for the observed uplift: temporal 100 AN 3
+variations in longitudinal strain rate, increases in glacier ] a %
+volume due to crevasse formation, expansion of intra- wo | mre #3 He :
+granular veins and dilatation of subglacial sediments. This 20-4 i rE al | AN
+rigorous approach to attribution was characteristic of lken’s o BY oy ae pf oT | NC
+work throughout her career. In seeking to explain how a GB tim gan tH He
+minimum of 0.3 m of water could be stored in cavities at the velocity |
+bed without precipitating unstable sliding, Iken and others (mm/h) 207
+(1983) calculated that sinusoidal undulations of 0.56 m in al |
+amplitude covering most of the glacier bed could accom- |
+modate the water; however, they speculated that the cavities Ly
+were probably more compact than this and perhaps N ; |
+asymmetric in shape, with more steeply inclined stoss faces. |
+The data in Figure 2 have become the classical empirical 2 J |
+demonstration of ‘hard-bedded’ sliding. i |
+Observed water-pressure effect on sliding (Iken and al
+Bindschadler, 1986) J
+lken and Bindschadler (1986) put the theoretical under- wl C3 — — — — , in T |
+pinnings of basal sliding (e.g. Lliboutry, 1968, 1979; Kamb, fc ~ EUS
+1970; lken, 1981; Fowler, 1986) to the test with simul- Li |
+taneous measurements of borehole water level and surface “]
+velocity at Findelengletscher. This temperate valley glacier, 0 | 256 | 266 276 | 28.6 | 29.6 | 306 | I.7 |
+located in the Pennine Alps of Switzerland, was chosen
+because of its observed sensitivity to changes n water Input Fig. 2. Detailed theodolite measurements of glacier movement
+(e.g. lken, 1978). Ice-surface velocities were obtained from indicating an ‘uplift’. (a) Vertical displacement of three poles, C1 to
+sub-daily optical surveys of velocity stakes arranged in four 3: C1 is near the glacier margin, C3 on the medial moraine.
+rows transverse to ice flow. These measurements were not (b) Horizontal velocity of the same poles (lken and others, 1983).
+automated, hence their temporal resolution was propor- ~~ Data from Unteraargletscher, 1975.
+tional to surveyor effort. Twenty-five boreholes were drilled
+to the bed over a laterally confined ~1km section of the
+glacier, using hot-water drilling capability that lken was
+instrumental in developing (lken and others, 1977). Bore- This relationship becomes asymptotic where basal water
+hole water levels were monitored with membrane gauges pressure approaches the ice overburden pressure, and
+and Goerz ‘Miniscript’ recorders. These recorders employed ~~ appears to hold over a wide range of water levels and for
+pens and rolls of paper and had the advantage, according to ~~ data collected over different time periods and in two
+lken, of allowing one to easily verify their operation and different years.
+inspect the data. Checking the Miniscript was usually the lken and Bindschadler (1986) interpreted these data,
+first task of the morning and in at least one case, when along with the results of dye-tracing tests and electrical
+exceptionally high water levels were recorded, prompted a ~~ conductivity measurements, as evidence for drainage
+round of survey measurements before breakfast. through a system of interconnected cavities (e.g. Lliboutry,
+Hydraulic connections with the englacial/subglacial ~~ 1968, 1979) where cavity growth is a function of
+drainage system were observed in 11 of the 25 boreholes, subglacial water pressure (e.g. lken, 1981). To arrive at
+and water levels in the connected holes were found to be this interpretation, they ruled out decoupling of the glacier
+roughly parallel to the ice surface across the borehole array. ~~ sole from the bed by flotation, based on the measured
+Diurnal cycling of water levels commenced in early June, = water pressures being too low, and pervasive sediment
+with daily peaks generally being synchronous across the deformation, which would not explain the persistence of
+array and lagging the local peak in surface melt by 6- the functional relationship at low water pressures. The
+8 hours. Multi-day variations in horizontal velocity at the stability of the relationship in time required that the
+stake locations were strongly correlated to borehole water ~~ basal shear stress and the fraction of the bed subject to
+levels. lken and Bindschadler (1986) emphasized this ~~ water-pressure variations remained roughly constant. The
+correlation between flow speed and basal water pressure, rapid borehole response to several waves of high basal
+but commented little on the precise phasing between the water pressure was interpreted as reflecting the enlarge-
+two during transient events. The data they presented showed ~~ ment of cavities and, in cases of water pressure meeting
+velocity maxima generally occurring during rising water ~~ or exceeding overburden, rapid bed separation. The
+pressures, though this relationship was not a tidy one. low propagation speeds of these pressure waves
+When lken and Bindschadler (1986) plotted one of these (~50-180mh~") also pointed to a system capable of water
+velocity records from the central study area against water storage along a tortuous flow path. The behaviour described
+level averaged over four of the connected boreholes (Fig. 3; above contrasted with that documented by lken and others
+fis. 6 in lken and Bindschadler, 1986), a relationship ~~ (1996) for the central region of Gornergletscher, Valais,
+emerged that encapsulates the central result of this study. ~~ Switzerland, where the presence of a subglacial sediment
+https://doi.org/10.3189/002214311796406103 Published online by Cambridge University Press

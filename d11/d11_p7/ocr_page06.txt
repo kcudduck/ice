@@ -1,0 +1,70 @@
+developed cavitation threshold, the movement of a typical function of time. As the intensity of
+pulsing, not “collapsing. bubbles provokes a slight ultrasound, 7. increases. the counting speed curve
+prethreshold light emission by the liquid. gradually deviates from the value corresponding to the
+ultraharmonics in the cavitation noise and degassing. dark current of the photomultiplier (dashed line). At a
+| . . certain intensity of ultrasound and after sufficient
+At low. near-threshold acoustic mtensttics, the oo observation time, the counting speed rose sharply, by
+concentration of cavitation bubbles > low. and 1t 1s approximately one or two orders of magnitude®. This
+possible lo observe > number ol eatures pertaining to ultrasound intensity may be interpreted as a threshold
+the dynamics of cavitation region evolution as well as of developed cavitation. 7,y. At this instant 7.
+to the associated line physicochemical cl ects which conventional post-threshold sonoluminescence arises:
+become indistinguishable at high intensities. the observed slight light emission at 1 < 1. is
+At low intensities, of the order of 0.06 W cm 2, a delay prethreshold emission. The threshold tor this shight
+(up to 120 s) was observed 1n the start of hight emission light emission 1s less pronounced than that for the
+with respect to the instant when the ultrasound had sonoluminescence. The prethreshold light emission
+been switched on’. The flux of sonoluminescence increased with intensity of ultrasound. The origin of
+and the number of observed cavitation bubbles, at the prethreshold light may be understood as the light
+0.03-0.18 W ¢cm™? and 880 kHz, depend to a great c¢mittcd by pulsing "non-collapsing microbubbles, the
+extent on the height of the liquid column, and the size of which is near resonance’.
+Hiaximid of the light CISION corresponding to Fl. The monotonic increase in prethreshold light with /
+which 1s a multiple of halt a wave. The Light emission BRN oe RTE
+: : . Lo was occasionally accompanied by “splashes” of light
+of H,0 at low Intensities was five to six times stronger (Fig. 5). momentary (up to several seconds) sharp
+than that of D,0”". increases in hight emission. The amplitude and
+At moderate intensities. a hydrophone made it possible duration of these spontaneous “splashes increased with
+to discover a periodic increase and weakening of an increase in 1, the splashes becoming more and
+cavitation®®. This process, denoted a pulsing cavitation more frequent with increasing /, and longer
+by Makarov and Neverov, results from the apparatus observation time, as well as when the instant 7. was
+ctfect, leading to the following sequence of processes: approached. The “splashes” of light are probably caused
+initiation of developed cavitation and decrease in the by the “collapse” (splitting) of some pulsing sufficiently
+medium wave drag, detuning of the vibratory system, large bubbles. which leads to a chain process of bubble
+decrease in the oscillation rate, and the transition from multiplication. and a sharp increase in light emission.
+developed to prethreshold cavitation. If the wave drag The cessation of sonoluminescence and the return of N
+rises to its initial value, this relatively lengthy cycle to the level of the prethreshold hight indicate a
+repeats itself, and so on. noticeable role of the factors leading to the termination
+Let us examine some results obtained by Margulis and °! oe chain process of neredse 1 the number of
+Grundel” in studying the light emission of a liquid near ou oo > 4 PRUNE, h Soran N = lashes
+the developed cavitation threshold". Ultrasound of concentration '> not reac “Cate ort-term PPIARILES
+50 kHz was switched on after the power had been of light may also be observed at a low constant
+¢ pe intensity with prolonged observation.
+preset lower than the threshold power. Then the y P &
+intensity was increased in steps of 2-3 mW cm? The instant that developed cavitation begins, 7... should
+minimum at time intervals of 2-10 min. not be defined as the start of bubble “collapse”? (or.
+Figure 5 shows the counting speed of light pulses. N. as more precisely. bubble splitting), but rather as the
+mstant when an avalanche-type increase of bubble
+concentration takes place by a chain mechanism and
+| when conditions are created for the evolution of a
+chain process with a lengthy chain’.
+At intensities a little higher than /,, and tort >
+Margulis and Grundel®* observed large and frequent
+changes in the number of light pulses (by one or two
+| orders of magnitude) for ¢ ~ 0.1 s: occasionally. N fell
+_ An almost to the level of the prethreshold light (Fig 5).
+T, These time irregularities of the sonoflashes™® may be
+% 05 | | accounted for by pulsations of bubbles tor a long time
+x | at low I (of the order of I;,) and by the occurrence of
+2 | | | time intervals (of the order of many thousand cycles)
+| IR when practically no bubbles “collapse 1n the photo-
+| multiplier field of view. When this takes place. the
+| sonoflashes may be regarded as independent events
+within a small localized volume, and, according to the
+experimental data, the probability density of the
+appcarance of N pulses per second 1s described by the
+Poisson distribution
+“Nabe = Ww LRN
+PN) = =— exp (-N) (2)
+0 10 20 N!
+# CL min]
+Fig. 5 Dependence of the counting speed of light pulses, N, on time. * The jump in N(1) and w(t) at the beginning of developed cavitation was
+Ultrasonic intensity / is increased in steps of 0.3 mW cm? after 3 min first disclosed in Ref. 53
+162 ULTRASONICS . JULY 1985

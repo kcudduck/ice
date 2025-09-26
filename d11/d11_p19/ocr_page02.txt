@@ -1,0 +1,66 @@
+1070 Flowers: Glacier hydromechanics — insights and legacy of lken’s works
+[ more plug-like; flow speeds exceeded those modelled when
+the cavities reached steady state, where ice-bed separation
+was at its maximum (cf. figs 4b, 5b and 6a in lken, 1981). A
+. small decrease in water pressure precipitated a dramatic
+| o Bee change in the modelled flow field, including transient
+12 | ny. | reverse sliding above the stoss face of the downstream
+[ | Ly | obstacle. This intriguing latter prediction remains neither
+TR : Fe y confirmed nor refuted by observations, though some forms
+i = of reverse glacier motion have been documented (e.g.
+Harrison and others, 1986).
+a lken (1981) drew several important conclusions related to
+———e—————— — =——— the effect of bed geometry, cavity extent and water pressure
+on sliding velocity: (1) bed configurations with lower
+Fig. 1. Diagram illustrating the derivation of the limiting water separation pressures (e.g. obstacles with steep lee faces)
+pressure of stability. An ice slab of thickness d is resting on a ~~ produce a stronger sliding velocity response to water
+stepped bed with a mean slope « (lken, 1981). pressure; (2) sliding sensitivity to water-pressure increases
+with the area over which the water pressure acts and also
+depends on the orientation of the area; (3) if this area
+Co remains constant, sliding speed increases linearly with water
+Modelled water-pressure effect on sliding (ken, 1981) pressure for a Newtonian ice rheology; and (4) sliding is
+Motivated by observations of short-term velocity variations ~~ most sensitive to water pressure at the inception of cavity
+in glacier flow speed (lken, 1978) and the relationship ~~ formation, rather than when cavities reach their maximum
+between measured vertical and horizontal velocities (lken steady-state sizes. Thus, sliding speed is predicted to be
+and others, 1983), lken (1981) constructed an idealized highest during the early stages of cavity growth.
+model to investigate the relationship between subglacial lken (1981) concluded that ‘sliding velocity is neither
+water pressure and glacier sliding. Although water pressure ~~ simply a function of the subglacial water pressure nor of the
+had been linked to basal motion through several proposed size of cavities but depends on both variables’, and
+mechanisms (e.g. Lliboutry, 1968; Jones, 1979), the obser- speculated that observations of early season glacier accel-
+vations motivated the idealization of the glacier bed as an eration may be the manifestation of unstable sliding at water
+impermeable undulating surface. Building on the theoret- pressures below overburden. She suggested that the limited
+ical work of Lliboutry (1968, 1979) and Kamb (1970), duration of these events may be related to limited water
+lken (1981) aimed specifically to examine the effect of supply and imperfect hydraulic connectivity across the
+water pressure on sliding during the transient stages of glacier bed. Future observations, including those of lken
+cavity development. and Bindschadler (1986), would reveal stable sliding at
+Assuming a perfectly lubricated glacier bed, a linear ice pressures greater than the critical pressure, pointing to a role
+rheology and instantaneous water supply or drainage, lken ~~ for basal friction as suggested by lken (1981) and later
+(1981) employed a finite-element code for stress-strain ~~ modelled by Schweizer and lken (1992) and to global force-
+analysis developed originally at Eidgendssische Technische ~~ balance controls on the sliding process (e.g. Cuffey and
+Hochschule (ETH) for tunnel construction. Both sinusoidal Paterson, 2010).
+and quasi-sinusoidal bed shapes were considered (undula-
+tions of 20 m wavelength and 1.5m amplitude), with an ice ~~ Seasonal uplift and basal water storage (Iken and
+thickness (310m) and bed slope (4°) chosen to resemble others, 1983)
+those of Unteraargletscher, Switzerland. While the finite- ~~ Up to 0.6 m of surface elevation increase was observed at the
+element code was reasonably amenable to this problem, beginning of the melt season on Unteraargletscher by lken
+several manual interventions were required including: and others (1983) using a combination of optical survey data
+(1) an iteration to ensure consistency between a given and photographs from an automatic camera. The authors
+water pressure and the affected bed area; (2) careful speculated that a similar ‘uplift’ may have been observed on
+positioning of the nodes at the downstream end of the  Unteraargletscher as early as 1842/43 by Louis Agassiz
+cavity roof to insure bed-parallel ice motion at the point of ~~ (Agassiz, 1847). In 1975, theodolite measurements of poles
+contact; and (3) a trial-and-error approach to defining arranged in four transverse profiles were undertaken at
+correct steady-state cavity configurations for a given water intervals from 2 hours to 3 days. At the pole where the
+pressure. ken was among the first to employ finite-element ~~ highest-resolution measurements were made, errors were
+methods to solve glacier flow problems (e.g. ken, 1977), in ~~ controlled such that vertical positions were known to 2 mm.
+part because of the extraordinary patience required; The data showed stable downward stake movement over
+iterations were performed manually with punch cards until ~~ winter giving way to a prolonged period of summer uplift,
+convergence was reached. which was punctuated by several uplift events associated
+The results of this modelling effort clearly illustrated with periods of enhanced melt. Iken and others (1983) clearly
+sliding enhancement in response to an applied water = documented the coincidence of maxima in horizontal
+pressure between the ‘separation pressure’ ps (e.g. Lliboutry, velocities and maxima in vertical velocities, rather than
+1968; Nye, 1969; Kamb, 1970), defining the onset of ice— vertical displacements (Fig. 2; fig. 3 in ken and others, 1983).
+bed separation, and the ‘limiting’ or ‘critical’ water pressure ~~ That horizontal velocity maxima occurred during uplift
+p1 = pgd sin (8 — «)/sin 3 derived by lken (Fig. 1), beyond appeared to confirm the principal finding of lken (1981).
+which unstable sliding was predicted to occur. At the onset lken and others (1983) interpreted these observations as
+of cavity formation, simulated ice flow near the bed became the result of cavity growth at the glacier bed in response to
+https://doi.org/10.3189/002214311796406103 Published online by Cambridge University Press

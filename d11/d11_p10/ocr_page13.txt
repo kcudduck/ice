@@ -1,0 +1,77 @@
+13
+C. Liquid pressure models®? 7H 176:186 that can be established by successive
+simplifications of the Kirkwood-Bethe hypothesis.
+
+With an EoS for the liquid at hand, the pressure of the Assuming uv? < cj and constant fluid properties (p =
+liquid can be computed based on the specific enthalpy A. po, ¢ = cp), such that the Fob of the liquid becomes
+Using the modified Tait EoS, the pressure of the liquid obsolete, the potential = ¢/r is governed by the
+follows by inserting Eq. (44) into Eq. (43) to obtain wave equation
+
+1 1 0% 5
+1 1—=1/n ——=5 — VY =0, (85)
+n (po + B) the propagation speed along outgoing characteristics is
+or, using Eqs. (43) and (61), the pressure can be com- constant,
+puted based on the invariant g, dr
++B 1 2 # — (50
+Poo n— 9 u c
+p=p| PEE (0) Bo
+Poo n r and the specific enthalpy is defined by the first-order ap-
+as introduced for spherical symmetry (a = 2) by Ivany ** proximation h (61) /p 0- The pressure, consequently, fol-
+and, later, Ebeling®'. The pressure amplitude Ap = hd d-
+P — Poo is dominated by the term g/ r@/2 especially in q 22
+the far field where u — 0, thus recovering the well-known P = Doo T+ P0 (2; — >) ; (87)
+amplitude decay with 1/r in spherical symmetry (a = 2)
+and 1/4/r in cylindrical symmetry (a = 1).°" With the which neglects terms proportional to cg > and higher.
+NASG Eos, the liquid pressure follows from Eqs. (47) Considering Eq. (86), the explicit expression for the flow
+and (61) in a similar manner as velocity, Eq. (67), simplifies to
+n—1)ph — (1 —bp)nB Qo
+p= (n= ph —(—bp)nB (81) we _% 9 (88)
+n — bp 2 prlta/2 ra/2e
+Since p and p depend explicitly on each other, Eqs. (80) Based on Eqs. (87) and (88), the invariants g and ¢ are
+and (81) may require an iterative evaluation®, in order defined at the gas-liquid interface (r = R), such that the
+to reach a desired accuracy. boundary conditions are satisfied, as
+Alternatively, inserting Eq. (76) into Eq. (73), and re- -
+. . . . _ oo R
+arranging for the enthalpy derivative yields g = R“ /2 (= : p n ’) (89)
+0
+
+dh o! 5 9 g | Oho
+
+—| = — — ——. (82
+
+EY r(c — w) u C Vp) 2 (c+ u)c + ot ( ) & _ 2 (rere - RY) (90)
+
+81 Co
+
+By applying Eq. (10), the ODE for the pressure along
+outgoing characteristics follows as This presents, in fact, the quasi-acoustic model of
+Gilmore ®* and Trilling ®*, generalized with respect to
+dp| pa 2 92 9g OPoo the dimensionality coefficient a. Although this quasi-
+= rec —u) g © Arce/2 Ch u)c| + ot ’ (83) acoustic model incorporates a finite wave speed, it can-
+not describe the nonlinear distortion of acoustic waves
+which may be solved together with the ODEs for the and the formation of shock fronts, since all parts of a
+radial position, Eq. (33), and the velocity, Eq. (76). As- wave propagate with the same constant speed cy. Ap-
+suming spherical symmetry in conjunction with the mod- plying the same simplifications to the ODE for the radial
+ified Tait Eos, and neglecting ambient pressure changes, bubble dynamics, Eq. (54), and neglecting the term pro-
+Eq. (83) simplifies to portional to c, * yields a generalized form of the Keller-
+
+1 Miksis equation,”
+
+d B "
+
+ar _ Po (225) 20?” “Jet u)e | | |
+
+dt|. r(c—u) \po+B r R . 3 R =
+
+(84) l-—|RR+-a|l—— | R
+Co 4 3 Co
+which has been used frequently instead of Eq. (80). |
+R Moo ), — )oo
+_ . (1+2) PL= Peo pPL=" Pe (91)
+C C
+VIl. MODEL HIERARCHY : Po Poco
+The quasi-acoustic model and the Keller-Miksis equation
+
+KBH models for pressure-driven bubble dynamics are first-order accurate with respect to the Mach number
+
+and acoustics are part of a consistent hierarchy of and, thus, limited to small Mach numbers, (R/cg)? < 1.
