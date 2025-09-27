@@ -1,0 +1,29 @@
+Experimental and theoretical study on the sec... https://www.sciencedirect.com/science/article...
+Conclusions
+Condensation oscillation of steam jet is of high importance for industrial facility. In
+this paper, the generation mechanism and the propagation characteristic of the
+second dominant frequency is investigated experimentally and theoretically. The main
+results are summarized as follows:
+(1) The second dominant frequencies are found to occur under all the test
+condition. The second dominant frequency decreases with the rise of
+water temperature and steam mass flux. Then the second dominant
+frequency ...
+Acknowledgements
+This work was supported by the National Science Foundation of China (Nos. 51476128,
+and 51125027), the National Key Basic Research Development Plan (No.
+2015CB251504). ...
+Recommended articles
+References (36)
+K. Liang
+Experimental and analytical study of direct contact condensation of steam in
+water
+Nucl. Eng. Des. (1994)
+M. Chun et al.
+An Investigation of direct condensation of steam jet in subcooled water
+Int. Commun. Heat Mass Transf. (1996)
+Y. Kim et al.
+Investigation of the stem-water direct contact condensation heat transfer
+coefficients using interfacial transport models
+Int. Commun. Heat Mass Transf. (2004)
+X. Wu et al.
+6 of 9 27/09/2025, 17:48

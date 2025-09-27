@@ -1,0 +1,59 @@
+Tsunami generation 1891
+(a) 60 sec. (b) 80 sec.
+[m] 0.5 [m] 0.5
+0.0 0.0
+Sea surface
+[m] 0.5 [m] 0.5
+0.0 0.0
+Sea bottom
+0 -r +r +r rr 1 OO 0 nl EE A EE
+0 aaa 00 Sean 0 ST 0B
+10 Ground 10 S
+20 20 5
+Km Km o
+40 40 3
+-200 -100 O 100 200 300 -200 -100 O 100 200 300 3
+>
+5
+@
+(c) 100 sec. (d) 200 sec. 2
+[m] 0.5 [m] 0.5 5
+©)
+5
+0.0 0.0 o
+©)
+3
+=
+3
+[m] 0.5 Im] 0.5 5
+®
+N
+0.0 0.0 >
+So
+=
+I aaa aaa 00 0 0 0000000000 000 ©
+10 10 S
+20 20 LS
+Km Km —
+km] 2 ya km] 2 J E
+40 40 <
+-200 -100 O 100 200 300 -200 -100 O 100 200 300 =
+0
+™
+damm 400 P
+-0.050 -0.025 0.000 0.025 0.050 Ey
+3
+Velocity [m/s] ®
+Figure 4. Simulation results of the source duration is given by 7. = 40 s for the various elapsed times: (a) 60 s; (b) 80 s; (c) 100 s and (d) 200 s. Vertical- a
+displacement distributions at the sea surface (blue) and at the sea bottom (black) are plotted in the upper bin. Vertical-velocity distribution in the vertical cross >
+section 1s displayed with a colour map in the lower bin. The sea depth 1s 4 km (0 < z < 4 km). The black line in the crust indicates the earthquake fault.
+Fig. 5 shows the simulation results when a short-duration earth- These waves are ocean acoustic waves, which are also recognized
+quake (#. = 4 s) 1s assumed. The wave front of the seismic waves 1s in Fig. 5(d).
+clearly recognized on the sea bottom (black line in the upper panel) Figs 4 and 5 show that the excitation of the ocean acoustic
+atx = 130 km at an elapsed time of 100 s (Fig. 5b) and atx = 200 km waves strongly depends on the earthquake duration or source spec-
+at an elapsed time of 120 s (Fig. 5¢). The Rayleigh wave propagates tra (Fig. 3). When the source spectrum contains high-frequency
+with a speed of ~3.5 km s~!. The velocity distribution in Fig. 5(c) components, the ocean acoustic waves (the P waves trapped within
+indicates that the Rayleigh wave energy extends from the sea layer the sea layer) are efficiently excited. On the other hand, the perma-
+to the deep crust at x = ~100 to ~200 km. On the other hand, at nent sea-bottom deformation (or sea-surface deformation) caused
+x = ~—200 to ~100 km, the energy 1s concentrated in the sea layer. by the long- and short-duration earthquakes are identical. Fig. 6(a)
+This indicates that these later waves are trapped within the sea layer. confirms that the permanent sea-bottom deformations for long- and

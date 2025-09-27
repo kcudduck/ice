@@ -1,0 +1,40 @@
+Glimsdal, S., Levholt, F., Harbitz, C.B., Romano, F., Lorito, S., Orefice, S., Brizuela, B., Selva, J., Hoechner, A., Volpe, M., Babeyko, A.,
+Tonini, R., Wronna, M., and Omira, R.: A new approximate method for quantifying tsunami maximum inundation height probability, Pure
+Appl. Geophys., https://doi.org/10.1007/s00024-019-02091-w, 2019.
+Gosse, L.: Computing qualitatively correct approximations of balance laws: exponential-fit, well-balanced and asymptotic-preserving,
+Springer Milan, Italy, 2013.
+Hubbard, M.E., and Dodd, N.: A 2D numerical model of wave run-up and overtopping, Coastal Engineering, 47(1), 1-26,
+https://doi.org/10.1016/S0378-3839(02)00094-7, 2002.
+Kanoglu, U.: Nonlinear evolution and runup—rundown of long waves over a sloping beach, Journal of Fluid Mechanics, 513, 363-372,
+https://do1.org/10.1017/S002211200400970X, 2004.
+Kanoglu, U., and Synolakis, C.: Initial value problem solution of nonlinear shallow water-wave equations, Physical Review Letters,
+97(14), 148501, https://doi.org/10.1103/PhysRevLett.97.148501, 2006.
+Larsen, B.E., and Fuhrman, D.R.: Full-scale CFD simulation of tsunamis. Part 1: Model validation and run-up, Coastal engineering, 151,
+22-41, https://do1.org/10.1016/j.coastaleng.2019.04.012, 2019.
+Keller, J.B., and Keller, H.B.: Water wave run-up on a beach, Service Bureau Corp, New York, 1964.
+Li, Y., and Raichlen, F.: Non-breaking and breaking solitary wave run-up, Journal of Fluid Mechanics, 456, 295-318,
+https://do1.org/10.1017/S0022112001007625, 2002.
+Lin, P., Chang, K.A., and Liu, P.L.F.: Runup and rundown of solitary waves on sloping beaches, Journal of Waterway, Port, Coastal, and
+Ocean Engineering, 125(5), 247-2535, https://do1.org/10.1061/(ASCE)0733-950X(1999)125:5(247), 1999.
+Lavholt, F., Glimsdal, S., Harbitz, C. B., Zamora, N., Nadim, F., Peduzzi, P., Dao, H., Smebye, H.: Tsunami hazard and exposure on the
+global scale, Earth-Science Reviews, 110, 58-73, https://do1.org/10.1016/j.earscirev.2011.10.002, 2012.
+Madsen, P.A., and Fuhrman, D.R.: Run-up of tsunamis and long waves in terms of surf-similarity, Coastal Engineering, 55(3), 209-223,
+https://doi.org/10.1016/j.coastaleng.2007.09.007, 2008.
+Madsen, P.A., Fuhrman, D.R., and Schaffer, H.A.: On the solitary wave paradigm for tsunamis, Journal of Geophysical Research: Oceans,
+113 (C12), 1-22, https://do1.org/10.1029/2008JC004932, 2008.
+Madsen, P. A., and Schaeffer, H. A.: Analytical solutions for tsunami run-up on a plane beach: single waves, N-waves and transient
+waves, Journal of Fluid Mechanics, 645, 27-57, https://do1.org/10.1017/5S0022112009992483, 2010.
+Mazova, R.K., Osipenko, N.N., and Pelinovsky, E.N.: Solitary wave climbing a beach without breaking, Rozprawy Hydrotechniczne, 54,
+71-80, 1991.
+Mei, C.C. The applied dynamics of ocean surface waves, World Scientific, Singapore, 1989.
+McGovern, D.J., Robinson, T., Chandler, I.D., Allsop, W., and Rossetto, T.: Pneumatic long-wave generation of tsunami-length
+waveforms and their runup, Coastal Engineering, 138, 80-97, https://doi.org/10.1016/j.coastaleng.2018.04.006, 2018.
+Pedersen, G., and Gjevik, B.: Run-up of solitary waves, Journal of Fluid Mechanics, 135, 283-299,
+https://do1.org/10.1017/S002211208700329X, 1983.
+Pelinovsky, E.N., and Mazova, R.K.: Exact analytical solutions of nonlinear problems of tsunami wave run-up on slopes with different
+profiles, Natural Hazards, 6(3), 227-249, https://doi.org/10.1007/BF00129510, 1992.
+Raz, A., Nicolsky, D., Rybkin, A. and Pelinovsky E.: Long wave runup in asymmetric bays and in fjords with two separate heads, Journal
+of Geophysical Research: Oceans, 123(3), 2066-2080, https://do1.org/10.1002/2017JC013100, 2018.
+Shuto, N.: The Nihonkai-chuubu earthquake tsunami on the north Akita coast, Coastal Engineering Japan, JSCE 28, 255-264, 1985.
+
+16

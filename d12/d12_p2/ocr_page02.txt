@@ -1,0 +1,40 @@
+1 Introduction 2
+4 Energy of a tsunami 23
+5 Tsunami run-up 23
+6 Direction for future research 26
+1 Introduction
+
+(Given the broadness of the topic of tsunamis, our purpose here is to
+recall some of the basics of tsunami modeling and to emphasize some general
+aspects, which are sometimes overlooked. The life of a tsunami is usually
+divided into three phases: the generation (tsunami source), the propagation
+and the inundation. The third and most difficult phase of the dynamics of
+tsunami waves deals with their breaking as they approach the shore. This
+phase depends greatly on the bottom bathymetry and on the coastline type.
+The breaking can be progressive. Then the inundation process is relatively
+slow and can last for several minutes. Structural damages are mainly caused
+by inundation. The breaking can also be explosive and lead to the formation
+of a plunging jet. The impact on the coast is then very rapid. In very shallow
+water, the amplitude of tsunami waves grows to such an extent that typically
+an undulation appears on the long wave, which develops into a progressive
+bore Chanson [2005]. This turbulent front, similar to the wave that occurs
+when a dam breaks, can be quite high and travel onto the beach at great
+speed. Then the front and the turbulent current behind it move onto the
+shore, past buildings and vegetation until they are finally stopped by rising
+eround. The water level can rise rapidly, typically from 0 to 3 meters in 90
+seconds.
+
+The trajectory of these currents and their velocity are quite unpredictible,
+especially in the final stages because they are sensitive to small changes in the
+topography, and to the stochastic patterns of the collapse of buildings, and to
+the accumulation of debris such as trees, cars, logs, furniture. The dynamics
+of this final stage of tsunami waves is somewhat similar to the dynamics of
+flood waves caused by dam breaking, dyke breaking or overtopping of dykes
+(cf. the recent tragedy of hurricane Katrina in August 2005). Hence research
+on flooding events and measures to deal with them may be able to contribute
+to improved warning and damage reduction systems for tsunami waves in the
+areas of the world where these waves are likely to occur as shallow surge waves
+(cf. the recent tragedy of the Indian Ocean tsunami in December 2004).
+
+Civil engineers who visited the damage area following the Boxing day
+tsunami came up with several basic conclusions. Buildings that had been

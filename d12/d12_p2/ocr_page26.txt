@@ -1,0 +1,34 @@
+6 Direction for future research 26
+6 Direction for future research
+A usetul direction for future research in the dynamics of tsunami waves is
+the three-dimensional (3D) simulation of tsunami breaking along a coast. For
+this purpose, different validation steps are necessary. First more simulations
+of a two-dimensional (2D) tsunami interacting with a sloping beach ought
+to be performed. Then these simulations should be extended to the case of
+a 2D tsunami interacting with a sloping beach in the presence of obstacles.
+An important output of these computations will be the hydrodynamic load-
+ing on obstacles. The nonlinear inelastic behaviour of the obstacles may be
+accounted for using damage or plasticity models. The development of Boussi-
+nesq type models coupled with structure interactions is also a promising task.
+Finally there is a need for 3D numerical simulations of a tsunami interact-
+ing with a beach of complex bathymetry, with or without obstacles. These
+simulations will hopefully demonstrate the usefulness of numerical simula-
+tions for the definition of protecting devices or security zones. An important
+challenge in that respect is to make the numerical methods capable of han-
+dling interaction problems involving different scales: the fine scale needed for
+representing the damage of a flexible obstacle and a coarse scale needed to
+quantify the tsunami propagation.
+References
+A. Ben-Mehanem, S. J. Singh, and F. Solomon. Deformation of an homo-
+geneous earth model finite by dislocations. Rev. Geophys. Space Phys., 8:
+591-632, 1970. 4
+A. Ben-Menahem, S. J. Singh, and F. Solomon. Static deformation of a
+spherical earth model by internal dislocations. Bull. Seism. Soc. Am., 59:
+813-853, 1969. 4
+J. L. Bona, M. Chen, and J.-C. Saut. Boussinesq equations and other systems
+for small-amplitude long waves in nonlinear dispersive media. i: Derivation
+and linear theory. Journal of Nonlinear Science, 12:283-318, 2002. 20, 22
+G. F. Carrier and H. P. Greenspan. Water waves of finite amplitude on a
+sloping beach. Journal of Fluid Mechanics, 2:97-109, 1958. 23
+G. F. Carrier, T. T. Wu, and H. Yeh. Tsunami run-up and draw-down on a
+plane beach. Journal of Fluid Mechanics, 475:79-99, 2003. 25

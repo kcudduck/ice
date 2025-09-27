@@ -1,0 +1,27 @@
+X -10 YERMOLAEV ET AL.: GEOEFFECTIVENESS AND EFFICIENCY
+
+of solar wind plasma and IMF parameters including Bz and Ey. We found a consistency
+between time evolution of cause (Bz and Ey) and time evolution of effect (Dst, Dst*
+(pressure corrected Dst), Kp and AF indices) for the time interval of 70”—"6" as depen-
+dence of indices on integral value of sources, for example, Dsti.vs. Ey(Y)! = [& Ey(r)dr =
+StEYF i=0,..,6;k=0,..,1.
+
+Dependencies of Dst (or Dst*) on the integral of Bz (or Ey) over time are almost linear
+and parallel for different types of drivers. This fact can be considered as an indication
+that time evolution of main phase of storms depends not only on current values of Bz
+and Ey, but also on their prehistory. The differences between these lines are relatively
+small (| ADst |< 20 nT). Nevertheless we can make following comparisons. For various
+drivers we approximated data near central parts dependencies by linear functions and
+calculated values of Dst (or Dst*) at fixed values of integral of Bz and integral of Fy
+(fy Bz(t)dr = —30 h*nT and [; Ey(7r)dr = 12 h*mV/m) (see Table 3). It should be
+noted that used value of integral of Fy is located near threshold of generation of magnetic
+storms with Dst < —50 nT (i.e. used interval of integral of Fy contains data for almost all
+magnetic storms) | Nikolaeva et al., 2012]. Taking into account that difference in "efficiency
+coefficients” for various drivers are mathematically significant when they differ more than
+10% (i.e. 0.25 nT/(h*nT) for Bz and 0.5 nT/(h*mV /m) for Ey), it is possible to note
+that: (1) Dependencies of Dst (or Dst*) on the integral of Bz (or Ey) are higher in CIR,
+Sheath and Ejecta, than in MC, (i.e., efficiency of MC for process of magnetic storm
+generation is the lowest one); (2) Efficiency of CIR, Sheath and Ejecta are closed to each
+other. Dependencies of Kp (and AE) on integral of Bz (and Ey) are nonlinear (there
+is the saturation effect for AE index) and nonparallel. Nevertheless we made the same
+DRAFT October 23, 2018, 3:27am DRAFT

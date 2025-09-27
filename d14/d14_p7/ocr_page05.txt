@@ -1,0 +1,44 @@
+Chakraborty, S., et. al / ASR xx (2024) xxx-xxx 5
+
+geomagnetic as well as geographic coordinates; compositions such as O, O,, NO, N(4S), N(2D), O+, O,+, N+, NO+, N+, Ne.
+
+We have also obtained meridional wind variations from the NCAR Whole Atmosphere Community Climate Model with ther-
+mosphere and ionosphere extension (WACCM-X), a self-consistent general circulation model, that fully couples the chemistry and
+dynamics, and calculates the 3D temperature, ionospheric structures, composition, and wind, from the surface up to 500-700 km in
+altitude depending on geomagnetic and solar activities (Liu et al., 2010, 2018). The model inputs include solar spectral irradiance,
+and high-latitude ionospheric inputs, similar to the TIEGCM while the outputs are the 1on and electron densities and temperatures,
+neutral winds and 10n drifts (zonal, meridional and vertical), Pederson and Hall conductivities, and compositions (O, O,, NO, H).
+
+The high-resolution (11-minute) interplanetary and SYM-H data used in this work are obtained from the OMNI database
+(https://ommiweb.gstc.nasa.gov/) of SPDF, GSFC NASA, the K, and A, while the Equatorial Electrojet (EEJ) data are obtained
+from the Indian Institute of Geomagnetism, Mumbai. The strengths of EEJ are computed by taking the differences of the horizontal
+(H) component (AH) of the Earth’s magnetic field at Alibag (18.6°N, 72.9°E geographic, dip angle: 26.4°, an off-equatorial station),
+from that at Tirunelveli (8.7°N, 77.7°E geographic, dip angle: 1.7°, a dip equatorial station). The AH represents daytime instanta-
+neous H values corrected for the nighttime base values of H. The SuperMag Auroral Electrojet (SME) data are obtained from the
+SuperMag website (https://supermag.jhuapl.edu/) while the global thermospheric O/N, ratio maps are obtained from the Global Ul-
+traViolet Imager (GU VI) onboard the Thermosphere-lonosphere-Mesosphere-Energetics-Dynamics (TIMED) spacecraft hosted by
+the Johns Hopkins University Applied Physics Laboratory (JHUAPL) website (http://guvitimed.jhuapl.edu/guvi-galleryl3on2). We
+have also obtained International GNSS Service (IGS) GPS TEC data, available at http://garner.ucsd.edu/pub/rinex/, for the stations
+Hyderabad (17.41°N, 78.55°E, geographic; dip angle: 21.69°) and Bengaluru (13.02°N, 77.50°E, geographic; dip angle: 11.78%).
+3. Results
+3.1. Sources of the geomagnetic storms
+
+According to the Space Weather Prediction Center (SWPC) of the National Oceanic and Atmospheric Administration (NOAA)
+forecasts (https://www.swpc.noaa.gov/), an X1-class flare, from the Active Region (AR) 2887 at 15:35 UT on October 28, 2021,
+caused an R3 (strong) level radio blackout. This flare event, having a CME-related signature to it, was the cause of an S1 (minor)
+radiation storm that began at 17:40 UT on the same day. A minor level geomagnetic storm started around 22:00 UT on October 30,
+2021, as a result of this CME interacting with the geomagnetic field.
+
+Following this event that caused a weak geomagnetic storm on October 30-31, 2021, several CMESs erupted from the Sun, with
+a few of them being Earth-directed, during the period between November 01 and 02, 2021. The source region, of these CMEs,
+was the southwest area of the Sun which included a C4-class flare from the same AR 2887, erupting at 21:33 UT on November
+01, 2021. This event was followed by a full halo CME, from AR 2891 (near the center disk of the Sun) at 03:01 UT on November
+02, 2021, related to an M1-class flare that had caused an R1 (minor) level radio blackout. The anticipated Earth-directed CME
+was observed, by the NOAA Deep Space Climate Observatory (DSCOVR) satellite, as an interplanetary shock at 19:42 UT on
+November 03, 2021. The CME arrived at Earth in the form of an impulse observed by the GOES-16 satellite, and the ground-based
+magnetometers at 19:57 UT, thus causing a G3 (strong) level geomagnetic storm by 23:59 UT on the same day. This G3 level storm
+was preceded by a G1 (minor) level storm at 21:24 UT and a G2 (moderate) level storm at 21:46 UT on November 03, 2021. The
+geomagnetic storm persisted up to around 13:00 UT on November 04, 2021.
+
+It 1s important to note that the occurrence of interacting CMEs plays a crucial role in the geoffectivity. In the heliosphere,
+these interactions evolve in a non-linear manner. In general, if two CMESs get launched in the same direction, the spatiotemporal

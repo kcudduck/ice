@@ -1,0 +1,40 @@
+2.3 Dislocations in elastic half-space 8
+us — on (11 — &1) —& + or BRE ;
+Uy = gm (22 = &) (5 + rms)
+ud = (5+ 5+ 5h)
+
+In these formulas R* = (x7 — £1)? + (x2 — £2)? + £5.
+
+In order to obtain the displacements due to the dislocation we need to
+calculate the corresponding &,-derivatives of the point force solution (7) and
+to put it in Steketee-Volterra formula (5)
+
+1 ou? oul Out
+P= — Au; | Ai —— — + — ds.
+’ 3 E | og, (5 ’ 2) h
+3
+It is expressed as follows:
+ou’ ou’ ou?
+og, 1 72 3) — Be, (TL, —T3) — Be, (F172, 3s) T
+ou’ ou’
+te, (1 To, T3) + Tage, (1 T2,T3),
+with
+oul , F R; R01 + Ridin R;R; Ry,
+Tia _ = ((2= q)2Es,, — lik TIL %k |g TWiT
+DE; S71 ( pal — 0 pg 3a |
+Ouly,  F ( Ribj+ Riou — Rid RRR
+0&;, BN 471 R3 R>
+l — « | 031 R + Rs 035043 — 0;1043(1 — 0i3)
+t— |= 50— = +
+« LR(R + Rs)? R(R + Ry)
+03x R* + Ri (2R + R3)
+R;0,3 — R:0;3(1 — 043) —————————=
++( 73 J 3( i3)) R3(R + Rs)? +
+R;0;x + R;0i 203, R* + Ri(3R + R3)
+1 —0;3)(1 —0i3)(——F RR — ~~ 7 :
++ 8) (1 = 93s) R(R + R3)? 7 R3(R+ Ry)’ )
+oul, F 010i — Oinbis  3Ri(Ri0i5 — Riis)
+Tic — 2 1-95.) (2 — (SI ess ee a]
+Ge = ql 20a) mages SUE
+0;;i SR;R; R;0:1 + R05 + Ri0;; SR; R;R
+ad [3 — ZH] + sag [TRO ERO BRE)

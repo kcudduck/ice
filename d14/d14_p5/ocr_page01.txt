@@ -1,0 +1,55 @@
+www.nature.com/scientificreports
+scientific reports
+W) Check for updates
+OPEN Geoelectric fields an
+tric fields and
+eomagnetically induced currents
+g gnetically induced current
+during the April 23-24, 2023
+uring the Apri ,
+geomagnetic storm
+Anna Wawrzaszek'", Rajkumar Hajra?, Agnieszka Gil'3, Renata Modzelewska3,
+Bruce Tsatnam Tsurutani* & Roman Wawrzaszek?
+We present a study on the dynamical variations of geoelectric fields E during the intense geomagnetic
+storm of April 23-24, 2023. The storm is caused by the interplanetary counterpart of a coronal mass
+ejection erupted from the Sun in association with an M1.7 X-ray flare. The GeoElectric Dynamic
+Mapping (GEDMap) code is applied to develop spatial E maps using magnetometer data from 29
+observatories distributed across northern Europe. The code has been applied during local nighttime
+and morningtime intense substorms which occurred during the storm main phase. The maps show
+intensifications and strong variability of the E-fields during the substorm events. In particular, the
+morningtime event is associated with a significant variability in the E-field direction. Using the
+computed E-fields, we determined geomagnetically induced currents (GICs) at the sub-auroral
+station Mantsala. The modeled GIC values exhibit significant correlation (correlation coefficients
+r = 0.73 — 0.76) with the observed values. The performed E-field mapping provides a basis for the
+further determination of GICs in selected locations not covered by magnetometers and can be useful in
+understanding the GIC variability during magnetic storms and substorms.
+Keywords Geomagnetic storm, Geoelectric field, GICs
+The purpose of this work is to develop maps of the geoelectric field E of the north European region during the
+intense geomagnetic storm of April 23-24, 2023. Intense geomagnetic storms are caused by solar transients
+characterized by high-speed plasma and southward interplanetary magnetic field (IMF) component B,.
+Magnetic reconnection’ between B, and northward magnetopause geomagnetic fields leads to injection of solar
+wind kinetic energy into the magnetosphere. This in turn causes global-scale disturbances of the geomagnetic
+fields, known as geomagnetic storms™°. In particular, rapid changes in the geomagnetic fields induce local small-
+scale geoelectric fields. Close to the auroral zone (~ 65° to 70° magnetic latitude), E-fields have been shown
+to be related to the auroral electrojet movements/intensification, Pi5 pulsations and field-aligned precipitation
+events’~'", In some locations, E-fields can be dependent on the Earth's conductivity and its variations''~'*. One
+of the most important consequences of exceptional high levels of E-fields is the occurrences of geomagnetically
+induced currents (GICs)'>~'%, GICs are particularly dangerous for ground-based electrical infrastructures and
+the possibility of grid failures'”~*!.
+
+The April 23-24, 2023 storm with a peak SYM-H of —233 nT is the second strongest storm of the current
+solar cycle (starting during December 2019) prior to the more recent May 10-11, 2024 superstorm (SYM-H peak
+= —518 nT)?“ It is also comparable in strength with the strongest storm of previous solar cycle 24 (with SYM-H
+= —234 nT on March 17-18, 2015). Hajra et al.>’ presented a detailed study on the solar and interplanetary
+causes of the April 23-24, 2023 storm. A recent study by Despirak et al.** reported strong GICs in north-west
+Russian and south Finnish regions during both local morning and nighttime sectors during the storm. During
+the peak phase of this storm, GIC monitoring equipment installed at five transformer substations in Canada
+indicated GICs up to 117 A, as reported by Cordell et al.'*. They proposed the first DC-equivalent network
+model for the Alberta province electric system with modeled GIC values. The largest computed values of E-field,
+for that region, appeared between 02:30 UT and 07:20 UT of April, 24, being at the level of 300 mV km "4,
+1Space Research Centre, Polish Academy of Sciences (CBK PAN), Warsaw, Poland. 2?CAS Key Laboratory of Geospace
+Environment, School of Earth and Space Sciences, University of Science and Technology of China, Hefei, People’s
+Republic of China. 3University of Siedlce, Faculty of Exact and Natural Sciences, Institute of Mathematics, Siedlce,
+Poland. “Retired, Pasadena, CA, USA. "email: anna.wawrzaszek@cbk.waw.pl
+
+Scientific Reports | (2024) 14:25074 | https://doi.org/10.1038/s41598-024-76449-7 nature portfolio

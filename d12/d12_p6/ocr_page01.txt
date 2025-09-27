@@ -1,0 +1,30 @@
+Nonlinear deformation and run-up of single tsunami waves of
+positive polarity: numerical simulations and analytical predictions
+Ahmed A. Abdalazeez !, Ira Didenkulova 2, Denys Dutykh °
+I Department of Marine Systems, Tallinn University of Technology, Akadeemia tee 15A, Tallinn 12618, Estonia
+> Nizhny Novgorod State Technical University n.a. R.E. Alekseev, Minin str. 24, Nizhny Novgorod 603950, Russia
+> Univ. Grenoble Alpes, Univ. Savoie Mont Blanc, CNRS, LAMA, Chambéry, 73000, France
+Correspondence to: Ahmed A. Abdalazeez (ahabda@fttu.ee)
+Abstract. The estimate of individual wave run-up is especially important for tsunami warning and risk assessment as it
+allows to evaluate the inundation area. Here as a model of tsunami we use the long single wave of positive polarity. The
+period of such wave 1s rather long which makes it different from the famous Korteweg-de Vries soliton. This wave
+nonlinearly deforms during its propagation in the ocean, what results in a steep wave front formation. Situations, when
+waves approach the coast with a steep front are often observed during large tsunamis, e.g. 2004 Indian Ocean and 2011
+Tohoku tsunamis. Here we study the nonlinear deformation and run-up of long single waves of positive polarity in the
+conjoined water basin, which consists of the constant depth section and a plane beach. The work 1s performed numerically
+and analytically in the framework of the nonlinear shallow water theory. Analytically, wave propagation along the constant
+depth section and 1ts run-up on a beach are considered independently without taking into account wave interaction with the
+toe of the bottom slope. The propagation along the bottom of constant depth 1s described by Riemann wave, while the wave
+run-up on a plane beach is calculated using rigorous analytical solutions of the nonlinear shallow water theory following the
+Carrier-Greenspan approach. Numerically, we use the finite volume method with the second order UNO2 reconstruction in
+space and the third order Runge-Kutta scheme with locally adaptive time steps. During wave propagation along the constant
+depth section, the wave becomes asymmetric with a steep wave front. Shown, that the maximum run-up height depends on
+the front steepness of the incoming wave approaching the toe of the bottom slope. The corresponding formula for maximum
+run-up height, which takes into account the wave front steepness, 1s proposed.
+1. Introduction
+Evaluation of wave run-up characteristics 1s one of the most important tasks in coastal oceanography especially when
+estimating tsunami hazard. This knowledge 1s required as for planning coastal structures and protection works, as for short-
+term tsunami forecast and tsunami warning. Its importance 1s also confirmed by a number of scientific papers, e.g. see recent
+works (Tang et al. 2017; Touhami and Khellaf 2017; Zainali et al. 2017; Raz et al. 2018; Yao et al. 2018).
+
+1

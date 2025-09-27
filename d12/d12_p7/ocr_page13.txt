@@ -1,0 +1,49 @@
+Confidential manuscript submitted to Journal of Geophysical Research: Oceans
+(a)
+60 4640946414
+21815 46408 Riaic Depth (m)
+a 46403
+21419 46402 46404 6000
+40 21418 0s >
+E 46411 4000
+ke 21420
+2000
+DQ 20 59404 52401 St Nae
+— 51407 :
+ky 52402 3 0
+~~ 32411
+| g 52406 324131
+51425 \
+S L 1 -4000
+= 20 55023 =
+% G ¥ -6000
+J 2402
+1D) F %
+-8000
+40) 3 E 32404
+B
+55015 A -10000
+-60
+120 140 160 180 200 220 240 260 280 300
+y Latitude (degree)
+( ) 52406 (2708km (c) 0.05 32411 (9633km
+DART DART Corregted — DART —— DART Corrected
+= ~~ Ly = Dili
+Depth=1807 m
+-0.05 -0.05
+100 150 200 250 300 350 400 400 450 500 550 600 650 700
+Time (min) Time (min)
+(d) e
+0.05 46409 (8810km ( ) 02 NZL G (371km
+— DART — DART Corrected 0.15 — DART — DART Corrected
+01 h
+0.05 | | | 1,
+g 0 FF NN g Jim
+= < 0.05 | | | |
+-0.1 | | | |
+-0.15 | | |
+Depth=4230 m -0.2 | | Depth=5742 m
+-0.05 -0.25
+400 450 500 550 600 0 50 100 150 200 250 300
+Time (min) Time (min)
+13

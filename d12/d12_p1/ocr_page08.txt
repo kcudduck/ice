@@ -1,0 +1,23 @@
+where Fu is the sediment fraction of grain size 7 in layer k. > C Ig is total
+sediment thickness with the same grain size 7 in sediment layer £. Index
+7 1s used to mark the original location of sediment in the water column.
+SN (ZH C “9 is the total thickness of this sediment layer which contains
+all grain size classes. In TSUFLIND, the calculation of tsunami flow condition
+will use the same method as TsuSedMod model Jaffe and Gelfenbuam2003
+2.3. Result Evaluation
+We employ the second norm to quantify the error between model and
+observed results as a control of the iterative procedure. The second norm of
+error for layer k is given by:
+Ly) Zim (n= 1) 13)
+N
+#0 and #40 are the modeled and observed percentages for each grain size
+class 7. With the help of L;, we compute the average second norm value for
+a location with:
+_ 1 &
+L=— 2 Ly (14)
+We define L < 5% as a good simulation. For the tsunami sediment thickness
+simulation, we employ the same process. The second norm value of error for
+thickness between the model result and the field observation is given by:
+Ly, = i (“ae 100%) (15)
+| Q
+8

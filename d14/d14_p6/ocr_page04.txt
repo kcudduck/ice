@@ -1,0 +1,60 @@
+4
+8.7 + 10752], located at a magnetic latitude Ly; = 72°
+N so that we can model E fields globally with a single = - re ~
+function regardless of the choice of the MT site or even = CF Pre
+ensemble of sites. To this end, we incorporate an au- or A “
+roral boundary shift using an estimated auroral bound- 45 ¥ PEE Ny
+£5
+ary movement of 0.004 degrees threshold shift south per rar I
+nT| Dst as per the recommendation in the report from aa hs No i
+EPRI 38], with the Dst estimates taken from Oughton et : w- :
+al., 24]. Subsequently, we use the geomagnetic latitude TN
+distribution data from Ngwira et al., 49] to compute a B
+magnetic latitude adjustment Lv, and we establish the a —
+apparent conductivity adjustment as 64 = o4/ ot Field Level (V/km)
+Thus, we obtain a formula for the reference FE field:
+— a —_ _
+Eres] = Luoal Bl (4) “TP = E
+E hs oy
+We can now fit a log-normal function to all E field data _—— y « b
+(ST Fig. S2) and then use this model to estimate geoelec- Ny AT
+tric fields at an arbitrary point on Earth 45, 50]. wo
+This arbitrary location E field estimation is conducted
+with the help of Earth’s ground conductivity at a 15 arc-
+minute basis from Alekseev et al., 1]. It is a layered
+model, so we calculate the impedance recursively as pre-
+scribed in the NERC report 37]. Finally, we adjust the LC
+E field at the reference site back to the expected field
+levels for all points on Earth at 15 arc-minute resolution EEE
+10 10 10
+via: Field Level (V/km)
+|E| = ELE |Ererl- (5) FIG. 2. Peak 60-second geoelectric field magnitude for a 1-in-
+Lyoa 100 year storm in Europe (top) and North America (bottom).
+This concludes stage one, and in Fig.[2] we present our The colour indicates the field level [V'/km].
+prediction for the expected peak magnitude of a sixty-
+second F field in a 1-in-100 year storm for Europe and
+North America. line was used to estimate overall line resistance; however,
+the GEOMAGICA package only allows for straight line
+estimates of induced GIC. The resistance per kilometre,
+B. Stage II as well as HVT winding conductance, were estimated us-
+ing linear interpolation of line conductance as a function
+In this stage, we determine the GICs in power grids of AC voltage using values provided in a NERC report
+and, thus, the transformer failure due to overheating. We 36], with the ground resistance being set to 0.56].
+gathered the worldwide power distribution network data Final GIC per phase values for transformers were esti-
+from OpenGridMap [34]. It is an open-source initiative =~ mated as the expected GIC per phase flowing through the
+that utilises crowd-sourced data to automatically gener- ground grid divided by 1.3. This factor brings the final
+ate power grid models in a Common Information Model values closer to those obtained with more complex trans-
+(CIM) format, which is the power industry standard 51]. ~~ former circuit configurations and is discussed in further
+Since we focus in this paper on high voltage networks and detail in 24]. The absolute values of geoelectric fields
+high voltage transformers (HVT), we selected all lines ~~ were applied uniformly in the East-West direction, as
+above 100 [kV]. As pointed out in the introduction, we this is the primary field orientation 54, 55]. If the GIC
+will be restricting ourselves to only two continents, and ~~ duration is longer than a minute, we scale its magnitude
+the primary reason for this is data availability (or lack ~~ down to account for the decreasing statistical likelihood
+thereof) in the OpenGridMap. We present plots of the of an F field sustained for a longer duration (as explained
+selected networks in SI Fig. S3. in stage one, also see, SI Fig. S1), and the fact that GICs
+On these grids, the GICs were computed with the help are proportional to the electric field Ig; o< E.
+of the open-source package — GEOMAGICA 52|, which With GIC levels and their recurrence rates established,
+implements the Lehtinen-Pirjola method 53] for the Aus- we move on to determine whether they cause sufficient
+trian grid. We modified this code such that it can be ap- heat increase in transformers to result in transformer fail-
+plied to an arbitrary location on Earth. Each power line ~~ ure. We source the steady state temperature rise T* (Ir)
+length was preserved accurately, and the full length of the for 42 different types of transformers and two tie bar ge-

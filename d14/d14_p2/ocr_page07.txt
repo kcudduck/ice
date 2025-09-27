@@ -1,0 +1,63 @@
+Torsional Alfvén waves in rotating magnetars 883
+10° potential barrier due to rotating plasma does not make any signifi-
+~ cant influence on the wave transmission for small azimuthal number
+10° 7 m~ 1.
+0? 7 (ii) Highly azimuthal wavenumber: m = 10°. In this high m mode,
+BY we can find some surprising results. Fig. 6 shows that the transmis-
+ERLE PZ sion rate of L = 10° cm is drastically enhanced at some selected
+J frequencies. More importantly, such enhancements occur periodi-
+10° J cally at specific frequencies. At the top of the first wing (n = 1)w, =
+I 2.2 x 10° s7!, the rate reaches the maximum 7 ,,,, = 0.71, which
+107g corresponds to approximately 70 times larger than that of the first
+oe bottom wy, = 7.0 x 10° s7!. Compared with the L = 0 case at the
+107 10° 10° 10° 10° same frequency wy, this maximum 7',,x amounts to 230 times larger.
+o [57] In this way, the plasma effect 1s important at each top frequency, but -
+Figure 5. Transmission coefficients of the negative helicity wave with the unimp ortant at any bottom frequency. As shown in Fig. 6, the trans- s
+fundamental mode m = 1 as a function of frequency when B, = 10'S G and mission coefficient through the plasma layer 1s exactly equal to that -
+Q = 1s! Solid and dotted lines denote the results of L = 10° and L = 0 of the L = 0 case at arbitrary wing bottom. In general, the rotating o
+cm, respectively. plasma has an effect in helping the escape of the waves except for 2
+the bottom frequencies. This point 1s different from that of case (1). 5)
+The objective of this section 1s to explore the effects of azimuthal In order to understand the transmission enhancement, we have =
+wavenumber m and the size L of the corotating plasma medium also numerically computed the integral | T dw in some frequency a
+on the wave transmission. We here consider two kinds of specific bands for both I = 10° and L = 0 cm. We obtain some 13 times 3
+torsional waves whose azimuthal number 1s (1) the fundamental, enhancement in the narrow band 22 < @ < wy, and 1.4 times in the ol
+m = 1, and (1) much larger than one, m = Wma /§2 = 10°. In each broad band 22 < w < wna.x compared to the results of L = 0. Such 3
+case, we further consider two apparently different circumstances in enhancement and periodic variation slowly decrease with increas- o
+the exterior L = R ~ A_ ~ 10° cm and in the absence of plasma ing wave frequency. This property almost vanishes when the fre- S
+L=0cm. quency becomes comparable to the critical frequency (m + 2) 2 ~ S
+Figs 5 and 6 respectively demonstrate the transmission coef- 106 1. 3
+ficients for the negative helicity waves with two extreme cases Periodic enhancements in our numerical calculations can be in- =
+(i) m = 1 and (ii) m = 10° as a function of the wave frequency terpreted as a consequence of wave interference within the rotating =
+measured in the inertial frame when B, = 10" G, typical for mag- plasma cavity. In the following subsection, we investigate our results =
+netars. In both figures, the solid and dotted lines denote the results more quantitatively in a simplified analytical method. ©
+of L = 10° and L = 0 cm, respectively. The surrounding plasma is x
+here assumed to corotate with the same angular velocity as that of S
+the star, 2 = 1 s~!. In each case, we obtained the following results. 2
+4.2 Analytical Calculation <Q
+(1) Fundamental wavenumber: m = 1. As seen in Fig. 5, the trans- Co So —
+mission curve in the case of L = 10° cm slightly shows a wiggling Periodic enhancements on the wave transmission in our model can &
+behaviour. This curve intersects that of I. = 0 at aw ~ 10% s—!. How- be satisfactorily rationalized by comparing with the wave propaga- =
+ever, the difference between both cases becomes indistinguishable tion in homogeneous multimedia. Non-relativistic Alfvén resonance <
+in the high-frequency regime w > 10° s~!, since the wave fre- itself in the magnetosphere around the Earth and the Sun has been Q
+quency is much higher than the critical one (m + 2) © = 3 5, widely recognized and discussed theoretically and observationally a
+which appeared as the potential barrier in Section 3. As the wave (for recent reviews, see Leonovich & Mazur 1997; Waters 2000; 9
+frequency becomes higher, the transmission rate approaches unity Li & Wang 2001). Hollweg (1983) has theoretically studied WKB N
+asymptotically. Since the overall property does not depend on L, the wave propagation in three homogeneous layers labelled by (1), (2) P
+and (3) separated at z = 0 and z = L as shown in Fig. 7. In his work =
+Alfvén waves are simply assumed to have constant wavenumbers 3
+10° ; kD k@ and k® in each region. In this homogeneous model, the 3
+[JV transmission coefficient T° can be analytically calculated by taking S
+10” M0
+[7 | oik?z oik®z oik®z
+10 LT oik"z o ik?
+10° re (1) (2) (3)
+= 0 L ,
+ya (ii) m=10°
+10° : : - :
+10 10 10 10 10
+o [s]
+Figure 7. Three homogeneous models separated by two discontinuities
+Figure 6. Same as in Fig. 5, but for high azimuthal number m = 10°. In at z = 0 and z = L. If the periodic boundary condition XL = nmt(n = 1,
+this high m mode, the transmission rate is highly enhanced at some selected 2,...) holds, the intermediate layer acts as a resonant cavity and transmission
+frequencies due to the plasma envelope. 1s highly enhanced.
+© 2005 The Authors. Journal compilation © 2005 RAS, MNRAS 364, 879-890

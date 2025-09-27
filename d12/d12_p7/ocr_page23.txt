@@ -1,0 +1,65 @@
+Confidential manuscript submitted to Journal of Geophysical Research: Oceans
+(a) |
+~ DART Corrected (G 371 km ~ Modeled Magnitude
+5128 gy == 5128 mm — 0.03
+5 64 ~~~ 28 min 5 64 8 min
+i= 32 : i= 32 0.02
+g > 7 12 min a — £ > g
+S SK pe aa 2 sl 0.01
+5 af TP J adodan  «, RR 0
+~~ 0 2 4 6 8 10 ~~ 0 2 4 6 8 10
+(b) Time (h) Time (h)
+2128 - a 123] km 2128 Modeled — 0015
+5 64 p— = —_r 2 64 - oo
+Rn 4 CL 111 op El .
+En a — = 3 -
+gl == gy I — = 16 40 min 0.005
+BER | {Rc 4 BS 8
+is 4 : "8 Pe & Hy (Fat AE, - 3 is 4 9
+~~ 0 2 4 6 8 10 ~~ 0 2 4 6 8 10
+( c) Time (h) Time (h)
+~ 51407 (4909 k ~ Modeled
+5128 — = 5128 a  — 0.01
+E No IE E > -_
+= 32 / dil | = 32 / 2 | — =F —
+ES 16 BK 40 min ES 16 BK 40 min - 0.005
+/ /
+2 SI i > = SK
+. pu | [ . . pi | [
+5 4 I ! 8 mi - = 4 | N
+~ 0 2 4 6 8 10 ~ 0 2 4 6 8 10
+( d) Time (h) Time (h)
+7 —~ 107
+2 128 21420 (7648 km 2 128 Modeled X
+5 64 TT Tr — 5 64 = 6
+g EE m— — = —_—
+— 32 ee — 32 -—
+E oP Ar E 1s *
+ERR] © i Ell Te \ ERE 2
+Rw 4 7 dll 0 min \ de 4
+O : : O 0
+~ 5 10 15 20 ~ 5 10 15 20
+( e) Time (h) Time (h)
+Z 178 46407 (8495 km — Z 178 Modeled - 001
+EE = EE. ~~ pt
+E ee. = z —
+= 16 SO mi TX = 16 56 min N | |"
+g 8 8 mi A Yo. L 8 he! g 8 |
+5 4 : ! 5 4 ! 0
+~ 5 10 15 20 ~ 5 10 15 20
+(f) Time (h) Time (h)
+2 128 32401 (10385 km 2 128 Modeled — 0015
+= 64 : —_ 5 64 Cc — SS
+E 3 al 64 mi - =~ £ 39 60 mi Ee 0.01
+& I -_— & 1 J
+S 16. l= (PT = Ol BY | 0.005
+SQ 8 40 min = \ 2 8 ' 37 min \
+5 41K 8 min v) 5 4K 0
+~ 8 10 12 14 16 18 20 ~ 8 10 12 14 16 18 20
+Time (h) Time (h)
+
+Figure 9 Wavelet analysis of the time series of surface elevation using the corrected DART
+measurements (left column) and the numerical results (right column), arranged from the near field to
+the far-field. High energy components highlighted in red and lack of energy in blue.
+
+23

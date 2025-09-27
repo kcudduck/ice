@@ -1,0 +1,29 @@
+YERMOLAEV ET AL.: GEOEFFECTIVENESS AND EFFICIENCY X-9
+losses are higher in steady types of streams (Fast and Slow) than in disturbed types of
+streams. In following sections of the paper we will analyze how occurrence rate of different
+types of streams and mass, momentum, energy and magnetic field transferred by these
+streams influence generation of magnetic storms.
+
+3.2. Geoeflectiveness of interplanetary drivers
+
+For the entire period of time 1976-2000, 798 moderate and strong magnetic storms with
+the intensity Dst < —50 nT were observed on the Earth (see figure 3). But only for 464
+magnetic storms (i.e., for 58% of all magnetic storms) corresponding various events were
+found in the solar wind. The sources of other 334 magnetic storms (i.e., of 42% of 798
+storms, grey columns in figure 3) are undeterminate, and this fact is mainly connected
+with the lack of data on plasma and interplanetary magnetic field which makes impossible
+to identify the solar wind type for magnetic storm intervals. Figure 4 presents distribution
+of storms when we excluded IND storms from analyses.
+
+Analyses of data in Figures 1 and 4 allows us to compare number of each type of solar
+wind streams and number of magnetic storms induced by these types of streams and to
+calculate probability (geoeffectiveness) of generation of magnetic storms by each types
+of these interplanetary drivers (see Table 2). Though the statistics of annual numbers
+of solar wind streams is small, the available data speak in favour of suggestion that
+geoeffectiveness does not change essentially during solar cycle.
+
+3.3. Efficiency of interplanetary drivers
+
+One of important problems of connection between interplanetary conditions and mag-
+netospheric processes is the dependence of magnetospheric activity on temporal evolution
+DRAFT October 23, 2018, 3:27am DRAFT

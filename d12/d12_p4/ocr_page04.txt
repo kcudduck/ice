@@ -1,0 +1,93 @@
+.Xetl : :
+MI Journal of Geophysical Research: Oceans 10.1029/2020JC017011 2
+AND SPACE SCIENCE 2
+For brevity, we shall write U/(z) instead of Uy/k,, k,, z, ®) and so on. From the momentum equation (Equa- :
+
+tion 1) with Equation 9, we obtain the ordinal differential equations with respect to the independent vari- [4
+
+able z: $
+
+_ 8k” Kk -
+
+d U, (2) _ w* Py®° U, (2) E
+
+dT BN 2 2 2 || 7 (10) g
+
+<\ fz (2) _ Po n Po8ok  8ok Z (2) :
+
+k 0° 0° g
+
+By evaluating the eigenvalues and eigenvectors of the 2 xX 2 matrix in Equation 10, we can calculate the $
+
+propagator matrix A(z) (e.g., Aki & Richards, 2002; Gilbert & Backus, 1966): 3
+
+gk kK z
+
+cosh| kz | — £0 sinh| kz | ——sinh| kz | s
+
+An(z) Anz) 2 Po® 3
+
+A= (2) An(z)) | _poe?(, gk k BE
+
+2! 22 SEO 11-80% sinh[ kz] cosh[ kz | +22 sinh] kz] :
+
+k ® © pg
+
+This propagator matrix relates the U, and T, at different depths z and z, as :
+
+U.\z U,\z :
+
+I.() T:(20) :
+
+The vertical displacement is zero at the bottom (Equation 4) or U, (ho) = 0. Equation 12 gives 7
+
+U. (0) 0 °
+
+= Ah (13) =
+
+E 0 ( I in) c
+
+resulting in :
+
+T, (hy) = Lr (0). (14)
+
+Ag) (~o ) g
+
+Thus, we can represent Uy,z), T(z) at any depth with the surface pressure T,(0) as H
+
+(2)
+
+U.(z 0 3
+
+— A Z — hy . (15) §
+
+0) nin,
+
+that is, S
+
+<
+
+Appz = hy E
+
+U.(z) = Aneto) 1) (16)
+
+Ag (—o ) C
+
+and :
+
+Ay Z - hy :
+
+7 () = 22h) an;
+
+Ag) (=o ) o
+
+2.3. Sudden Pressure Change at the Sea Surface :
+
+We here consider a special case in which a pressure change p(x, y) suddenly occurs at the time + = 0. The :
+
+surface pressure change p_ (x. \2 ] is represented as :
+
+:
+
+-_— mm 0
+SAITO ET AL. 40f29

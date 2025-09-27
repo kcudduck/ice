@@ -1,0 +1,27 @@
+2007; Soulsby et al. 2007; Smith et al. 2007; Benner et al. 2010; Nandasena and Tanaka
+2013].
+
+Tsunami inversion models attempt to link the basic information of the
+tsunami deposits with the overland flow characteristics. There are three
+prominent inversion models: Moore’s advection model [Moore et al. 2007],
+Soulsby’s model |Soulsby et al. 2007| and TsuSedMod model |Jaffe and Gelfenbuam
+2007]. It should be noted that all these models are based on different basic as-
+sumptions and employ different information from the deposits. For example,
+Moore’s advection model estimates tsunami flow magnitude by determining
+the combination of flow velocity and depth to move the largest grain from
+the sediment source to the deposition area [Moore et al. 2007|. In this paper,
+we present a joint inversion framework (TSUFLIND), which combines these
+three models. TSUFLIND does not only couple all these three inversion
+models, but also contains a new method to calculate deposit characteristics
+Tang and Weiss 2014. It also uses the calculated flow depth from Soulsby’s
+model to estimate a representative offshore tsunami wave amplitude.
+
+2. Theoretical Background
+2.1. Inversion Models Employed
+
+As mentioned above, there are three prominent tsunami deposition in-
+version models that will be used: Moore's advection model, Soulsby’s model
+and TsuSedMod model.
+
+[Figure 1 about here]
+2

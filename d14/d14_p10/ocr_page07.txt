@@ -1,0 +1,33 @@
+The role of geomagnetic storm-induced energet... https://www.sciencedirect.com/science/article...
+polar cap indices. Many thanks also goes to Gopi Seemala who provided the TEC
+processing software (GPS GOPI_V2.9.5) used in this study. We will also like to
+appreciate Wole ...
+
+Recommended articles
+References (79)
+M.A. Abdu et al.
+The role of electric fields in sporadic E layer formation over low latitudes
+under quiet and magnetic storm conditions
+J. Atmos. Sol. Terr. Phys. (2014)
+JW. Dungey
+Convective diffusion in the equatorial F region
+J. Atmos. Terr. Phys. (1956)
+R. Friedel et al.
+Relativistic electron dynamics in the inner magnetosphere—A review
+J. Atmos. Sol. Terr. Phys. (2002)
+C.M. Ngwira et al.
+Simultaneous observation of ionospheric irregularities in the African low-
+latitude region
+J. Atmos. Terr. Phys. (2013)
+A.D. Richmond et al.
+Upper atmospheric effects of magnetic storms: a brief tutorial
+J. Atmos. Sol. Terr. Phys. (2000)
+A.V. Suvorova et al.
+On relation between mid-latitude ionospheric ionization and quasi-trapped
+energetic electrons during 15 December 2006 magnetic storm
+Planet. Space Sci. (2012)
+A.V. Suvorova et al.
+Long-duration positive ionospheric storm during the December 2006
+geomagnetic storm: ionizing effect of forbidden electrons
+Adv. Space Res. (2015)
+7 of 8 27/09/2025, 18:11

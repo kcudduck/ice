@@ -1,0 +1,54 @@
+92 I. Charvet et al./ Ocean Modelling 69 (2013) 79-92
+(continued) Klettner, C., Balasubramanian, S., Hunt, J.C.R,, Fernando, H.].S., Voropayev, S., Eames,
+I., 2012. Drawdown and run-up of tsunami waves on sloping beaches.
+Test a a h T/Tb Th Engineering and Computational Mechanics 165 (EM2), 119-1209.
+- Klettner, C., Eames, I., 2012. The laminar free surface boundary layer of a solitary
+36 0.057 0.024 0.61 0.77 11.20 wave. Journal of Fluid Mechanics 696 (423), 433.
+37 0.059 0022 061 0.62 11.20 Kobayashi, N., Cox, D., Wurjanto, A., 1990. Irregular wave reflection and run-up on
+) ) ) rough impermeable slopes. Journal of Waterway, Port, Coastal and Ocean
+38 0.056 0.023 0.61 0.63 11.20 Engineering 116 (6), 708-726.
+39 0.038 0.028 0.62 0.62 11.11 Kobayashi, N., Lawrence, R., 2004. Cross shore sediment transport under breaking
+solitary waves. Journal of Geophysical Research 109 (No. C03047).
+40 0.023 0.024 0.63 0.75 11.02 Li, Y., Raichlen, F., 2002. Non-breaking and breaking solitary wave run-up. Journal of
+41 0.014 0.036 0.64 0.71 10.94 Fluid Mechanics 456, 295-318.
+42 0.067 0.024 0.65 0.81 10.85 Li, Y., Raichlen, F., 2003. Energy Balance model for breaking solitary wave runup.
+43 0.070 0.023 0.65 0.64 10.85 Journal of Waterway, Port, Coastal and Ocean Engineering 129 (2).
+Lilliefors, HW., 1967. On the Kolmogorov-Smirnov test for normality with mean
+44 0.063 0.020 0.65 0.79 10.85 and variance unknown. Journal of the American Statistical Association 62 (138),
+45 0.045 0.028 0.66 0.64 10.77 399-402.
+46 0.026 0.025 0.68 0.62 10.61 Longuet-Higgins, M.S., 1974. On the mass, momentum, energy and circulation of a
+solitary wave. Proceedings of the Royal Society of London Series A,
+47 0.014 0.038 0.69 0.73 10.55 Mathematical and Physical Sciences 337, 1-13.
+438 0.028 0.338 0.61 9.52 11.25 Madsen, P.A., Fuhrman, D.R., Schaffer, H.A., 2008. On the solitary wave paradigm for
+49 0.022 0.257 0.53 827 12.04 tsunamis. Journal of Geophysical Research 113, 1-22, C12012.
+Madsen, P.A., Schaffer, H.A., 2010. Analytical solutions for tsunami runup on a plane
+20 0.024 0.255 0.53 14.26 12.04 beach: single waves, N-waves and transient waves. Journal of Fluid Mechanics
+645, 27-57.
+Moore, D.S., Mc Cabe, G.P., 2003. Introduction to the Practice of Statistics, 4th edn.
+Freeman, New York.
+Nassirpour, S., 2012. Analysing Post Tsunami Data. MSc Thesis, University College
+References London.
+NIST/SEMATECH, 2006. Engineering Statistics Handbook. <http://www.itl.nist.gov/
+Baldock, T.E., Holmes, P., 1999. Simulation and prediction of swash oscillations on a div898/handbook/> (Date accessed: 01-10-2011)
+steep beach. Coastal Engineering 36, 219-242. Plafker, G., 1965. Tectonic deformation associated with the 1964 Alaskan
+Borthwick, A.G.L., Ford, M., Weston, B.P., Taylor, P.H., Stansby, P.K., 2006. Solitary earthquake. Science 148 (3678), 1675-1687.
+wave transformation, breaking and runup at a beach. Maritime Engineering 159 Rossetto, T., Allsop, W., Charvet, I, Robinson, D., 2011. Physical modelling of
+(MA3), 97-105. tsunami using a new pneumatic wave generator. Coastal Engineering 58, 517-
+Carrier, G.F., Greenspan, H.P., 1958. Water waves of finite amplitude on a sloping 527.
+beach. Journal of Fluid Mechanics 17, 97-110. Shen, M.C., Meyer, R.E., 1963. Climb of a bore on a beach. Part 3 Run-up. Journal of
+Charvet, I., 2012. Experimental modelling of long elevated and depressed waves Fluid Mechanics 16, 113-125.
+using a new pneumatic wave generator. PhD thesis, University College London. Shuto, N., 1967. Runu-up of long waves on a sloping beach. Coastal Engineering in
+Chatterjee, S., Hadi, A.S., 2006. Regression Analysis by Example, 4th ed. Wiley & Japan 10, 23-38.
+Sons, Hoboken, New Jersey, USA. Synolakis, C.E., 1986. The Runup of Long Waves. PhD thesis, California Institute of
+Fuhrman, D.R., Madsen, P.A., 2008. Surf similarity and Solitary wave runup. Journal Technology.
+of Waterway, Port, Coastal and Ocean Engineering 134 (3), 195-198. Synolakis, C.E., 1987. The runup of solitary waves. Journal of Fluid Mechanics 185,
+Grilli, S.T., Subramanya, R., Svendsen, L.A., Veeramony, J., 1994. Shoaling of solitary 523-545.
+waves on plane beaches. Journal of Waterway, Port, Coastal and Ocean Tadepalli, S., Synolakis, C.E., 1994. The run-up of N-waves on sloping beaches.
+Engineering 120 (6), 609-628. Mathematical and Physical Sciences 445 (1923), 99-112.
+Hall, ].V., Watts, G.W., 1953. Laboratory investigation of the vertical rise of solitary Tadepalli, S., Synolakis, C.E., 1996, Model for the leading waves of Tsunamis,
+waves on impermeable slopes, Army Coastal Engineering Resarch Center, Physical Review Letters, vol. 77, no. 10.
+Washington DC, Tech. Memo 33. Togashi, H., 1981, Study on tsunami run-up and countermeasure. PhD thesis,
+Kaplan, K., 1955. Generalized laboratory study of tsunami run-up, US army corps of Tohoku University.
+engineers, Tech Memo, 60. Zelt, J.A., 1991. The run-up of nonbreaking and breaking solitary waves. Coastal
+Klettner, C., 2010. On the fundamentals principles of waves propagating over Engineering 15 (205), 246.
+complex geometry. PhD Thesis, University College London.

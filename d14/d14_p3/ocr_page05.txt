@@ -1,0 +1,55 @@
+Evaluating the relationship between strong ge... https://www.swsc-journal.org/articles/swsc/fu...
+ALA i en tBl ERR EE See Rea Store Web ho Tened Mam (re Rent E60kies and dn some pages, Yes No
+in the time domain (Boteler, 20{gq elds Sik Rettforis. his VRFENSLiSSHING Hhat gach step of the
+presented here procedure has been implemented in Matlab software and checked using the synthetic
+magnetic field variation considered in (Boteler, 2012; Boteler & Pirjola, 2019). What is more, to perform the
+annual data analysis, the numerical calculations were carried out in the 3-day moving window. However, only
+results for the mid-day have been finally saved and used in further studies.
+
+3.3 Superposed epoch analysis
+Superposed epoch analysis is a method manifesting links between studied time series (Chree, 1913). This
+method application allowed to prove the existence of a 27-day variation in geomagnetic storm appearance
+(Chree, 1913; Chree & Stagg, 1927), further showing that it is only the case of weaker geomagnetic storms
+and the intense storms occur sporadically (Greaves & Newton, 1929). Denton et al. (2005) analysing relations
+between the geomagnetic storm phase with temporal fluctuations of plasma found at geosynchronous orbit,
+presented that for the plasma sheet density, one of the key-factor is the solar cycle. Superposed epoch
+analysis was used in the Forbush decreases of galactic cosmic rays studies (Singh & Badruddin, 2006; Okike &
+Umahi, 2019). Liemohn et al. (2008) explored an occurrence time or magnetic storms strength as their
+features. Gil et al. (2019) showed an increase in the superposed averaged number of EGF appearing around
+one day after the fast halo coronal mass ejection (CME) occurrence, on the day of sudden storm
+commencement, as well as around zero-day or the day after when the daily maximal Kp geomagnetic index
+value was greater or equal to 5.
+Here we defined a pivot time based on the Table 1 as the day when there appeared the B>< -10 nT (case 1),
+Dst < =100 nT (case 2) and both, B»< -10 nT and Dst < —=100 nT (case 3) during more than 3 h. Next, we
+extracted subsets of daily sums of electrical network failures (of a particular type) during the whole week
+around the pivot events, i.e., 3 days before and after each event. Subsequently, we superposed all extracted
+subsets of failures, synchronizing all zero-days and normalising daily values to the average during the whole
+week being equal to 0. We use this normalisation to highlight the percentage increase in the number of
+failures.
+3.4 Self-organizing maps
+Self-organizing maps (SOM) are a type of artificial neural network trained with unsupervised learning. The
+goal is to display training data’s input space as a low-dimensional, usually one or two-dimensional discretized
+map (Kohonen, 1990). SOM networks have only two layers: input and output layers. The output layer is
+represented as a map showing the topological proximity of mapped data points in a given space as a function
+of the number of neurons (Somervuo & Kohonen, 1999). Similar inputs are grouped in close neurons. This
+allows finding links between input data. Each input layer neuron is connected to each output layer neuron.
+The connections between these neurons are assigned a certain weight. Unlike supervised learning, where the
+winning neuron “takes it all”, the winning neuron'’s neighborhood is also updated in self-organizing maps (Hu
+et al., 2019). The Kohonen rule is used for updating, as follows:
+wis (E+ 1) = wi; (0) + a (Oh (Dx) — wy 1) ],
+(2)
+where wjjis the weight j of neuron J, a(?) is the learning rate, h(t) is the neighborhood function (Caldas et al,
+2017) that determines the neighborhood of the winner. The neighborhood is estimated using a distance
+function between neighbors, which may be the Euclidean function, the Gauss function, the Manhattan
+distance function, etc.
+SOMs are mainly used for data clustering and classification problems because a trained SOM aggregates
+similar data elements into clusters (Lampinen & QOja, 1992; Caldas et al., 2017). In our case, the SOM has been
+used to group selected heliospheric and geomagnetic parameters (see Sect. 2.1) with transmission line
+failures (see Table 2). We focused on failures originating from the aging of the infrastructure elements (group
+D), linked to electronic devices (group E), and having unknown reasons (group F).
+4 Analysis results
+4.1 Statistical analysis results
+Firstly, we checked if there is an overall trend in the number of electrical grid failures, being (to some extent)
+of solar origin. Thus, we have concentrated on failures originating from the aging of the infrastructure
+elements (group D), linked to electronic devices (group E), and having unknown reasons (group F). Figure 1
+5 of 15 27/09/2025, 18:16

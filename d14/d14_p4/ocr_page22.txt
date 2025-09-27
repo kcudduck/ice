@@ -1,0 +1,35 @@
+X - 22 YERMOLAEV ET AL... GEOEFFECTIVENESS AND EFFICIENCY
+Table 1. Time observation of different types of solar wind streams during 1976-2000
+
+Types of solar wind Time observations, %
+
+Slow 31 £7
+
+Fast 21 + 8
+
+HCS 6 + 4
+
+CIR 10 £3
+
+Fijecta 20 £6
+
+MC 2 +1
+
+Sheath before Ejecta 8 + 4
+
+Sheath before MC 0.8 + 0.7
+Table 2. Probability of generation of magnetic storms with Dst < —50nT (geoeffectiveness)
+for different types of solar wind streams during 1976-2000
+Types of solar wind Number of observations Number of storms Part from Geoeflectiveness
+
+of interplanetary induced by this identified
+events type of events storms, %
+
+CIR 717 145 31.2 0.202
+Sheath before MC 79 12 2.6 0.142
+Sheath before Ejecta 543 84 18.1 0.155
+MC with Sheath 79 50 13.4 0.633
+MC without Sheath 22 12 2.6 0.545
+Ejecta with Sheath 543 115 24.8 0.212
+Ejecta without Sheath 585 46 9.9 0.078
+DRAFT October 23, 2018, 3:27am DRAFT

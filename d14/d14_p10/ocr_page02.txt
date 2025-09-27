@@ -1,0 +1,39 @@
+The role of geomagnetic storm-induced energet... https://www.sclencedirect.com/science/article...
+Abstract
+Geomagnetic storms are associated with changes in electron and proton fluxes in the
+radiation belts, leading to precipitation. However, most past studies have been done
+based on storms’ intensities. This study investigates the roles of eight geomagnetic
+storms, classified by their intensities using Dst threshold conditions, and
+interplanetary drivers, in the production of Energetic Particle Precipitation (EPP), and
+their subsequent modification of ionospheric irregularities and Total Electron Content
+(TEC). We used energetic particle fluxes, TEC, interplanetary magnetic field, and solar
+wind data. The rate of TEC index (ROTI) was used as a proxy for ionospheric
+irregularities. In this study, the ability of a storm to induce EPPs is predominant and
+significant during the recovery phases of storms. Consequently, the modifications of
+the ionosphere caused by EPPs were mostly pronounced during the recovery phase of
+a storm. At the recovery phases, enhanced EPPs induced by intense sheath (SH)- and
+Corotating Interaction Region (CIR)-driven storms caused corresponding
+enhancements in TEC and ionospheric irregularities, while that of intense magnetic
+cloud (MC)-driven storm showed no significant effect on TEC and irregularities.
+Furthermore, enhanced EPP induced by intense and moderate MC+SH-driven storms
+caused little or no change in TEC and ionospheric irregularities. In addition, an
+enhanced EPP induced by moderate sheath- and MC-driven storms caused depletion
+in TEC and irregularities. Irregularities were more prevalent at the low- and high-
+latitude, but less in occurrences at the mid-latitude in the African sector. Overall, from
+this study, the African sector responded more to the energetic particles than the
+American sector. Irregularities at the high-latitude stations were generally high and
+frequent regardless of the phase, magnitude, driver, or local times of occurrence of
+storms. The storm-induced EPP enhancements were more significant in the southern
+hemisphere than in the northern hemisphere, and the events of the equinoctial
+months showed more dependence on EPPs.
+Introduction
+The Earth's ionosphere 1s embedded in the magnetosphere; a cavity carved by the
+interaction of the high-speed solar wind and its frozen-in magnetic field with the
+terrestrial magnetic field. Variations in the solar wind and its magnetic field are
+known to be the major driver of changes in high-latitude ionospheric convection,
+optical auroral intensifications, and current systems (Sibeck et al., 1999; Jayachandran
+and MacDougall, 2000; Boudouridis et al., 2004). It 1s now well established that a
+geomagnetic storm is the consequence of a chain of causative events originating from
+the Sun and ultimately evolving into a geoeffective solar wind flow in the near-Earth
+
+2 of 8 27/09/2025, 18:11

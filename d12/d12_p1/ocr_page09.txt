@@ -1,0 +1,22 @@
+where th,, and th; are the modeled and observed thicknesses for each sample
+location, () is the number of sample locations. As there is only a limited
+number of tsunami deposit samples for the test case applied here, we use
+10% as the threshold value.
+2.4. Offshore Wave Characteristics and Flooding
+In order to estimate a representative offshore tsunami amplitude, we re-
+late the water volume calculated from Sousby’s model at maximum inun-
+dation with the volume calculated by numerically solving the shallow water
+equation. We carry out a parameter study by varying the slope (m) and the
+offshore wave amplitude (£). For more details about the parameter study
+and employed numerical model, we refer to Appendix II. The water depth
+computed from Soulsby’s model is used to calculate the volume of the in-
+undation water. With the help of numerical simulations (Appendix II), we
+derived the following formulation:
+E=M+ XN VAs m+d-VZFrs-m-V 4 Xg-m? y
++X VEX VE em Ag Vom? + Aig om? Ho)
+Where £ is offshore wave height, V' is the water volume that covers the land
+at maximum inundation, m is the slope of beach profile. These constants
+Ain Eq 16 are A; = 5.006, Ay = 2.93, \3 = —0.28, Ay, = 0.51, Ay = —3.04,
+Ag = 0.0014, A; = 0.027, Ag = —0.011, Ag = 0.051, Ap = 0.053.
+[Figure 2 about here.|
+9

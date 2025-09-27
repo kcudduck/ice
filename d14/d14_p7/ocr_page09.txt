@@ -1,0 +1,52 @@
+Chakraborty, S., et. al /ASR xx (2024) xxx-xxx 9
+- 29.10-2021 30-10-2021 31-10-2021 01-11-2021
+gL l@ | ol) | ol© al @ [5 hence of pint de
+Y a | L_| | gpl | ol os | sgl | . ‘Variation of the day
+Z 40} EY ah 40 | Ba ' 40 a Lan t oN
+SN aie NG ag} gt Ih E07
+0 20} -3 { 20p = = { 20 4£% = | 20f HE = |
+o 10 10 10 10%
+2 on Er SE Sr Er ES SE — 0 PE EE SE SE SR SE SE SE SR — | SS SS —— 0 . 4 1 + J 1 1 J 1 1 J |
+= 0 4 8 12 16 20 24 0 4 8 12 16 20 24 4 8 12 16 20 24 0 “ 8 12 16 20 24
+z TO | - - - - : : - - : - TO - = - - - - . . = : . iT _ ; ; . - - - . - - yw TO - - - . . . . - = . . - ’ _ 1-sigma level
+2 60 (€) { so} (D) | 60} (8) - go} (h) [2 inmon alia dee
+ZT 50; | 50} 50 | 50f JE
+= 40 | ~ Sag 40} == | 40 am | 40 *] 1
+=30} i Td {30} A B= 1-30 = TING 1-30} - rd 1 1
+2 SN oer TN 20} SPE a | oA TG
+= 1032 109 103 104
+ju nl ; PE ; ed a : 1 1 | 0 ; : A i : A i : A L ; 0 | A i : A i : A A i 0 — A A A ; a ; PEE j J
+= 0 4 8 12 16 20 24 0 dq 8 12 16 20 24 0 4 8 12 16 20 24 0 4 8 12 16 20 24
+G0 1 - - - - - - - - - - - - Gi - - - - - - - - - - - - Gi) - - - - - - - - - - - - G0 1 - - - - = - - - - - - F—F— 1-sigma level
+45 H(1) | asi (i) | as) (K) | asl (1) | ; Average of quiet days
+— Variation of the day
+= S30 {| 30¢ 30 | 4 1 30¢
+=~ 15F 7 i 15} | 15} / \ 15 Ti
+15 ET { 1s) { ast” i
+0 | 8 12 16 20 24 i] 4 8 12 16 20 24 0 3 8 12 16 20 24 1] i 8g © 12 16 20 2
+UT (h) UT (h) UT (kh) UT (kh)
+Fig. 3. Variations of NavIiC VTEC for PRN 3 (panels (a), (b), (¢), (d)), for PRN 6 (panels (e), (1), (g), (h)), along with the EEJ variations (panels (1), (3), (k), (1))
+during the period from October 29 to November 01, 2021. The red curves show the observed VTEC and EEJ variations while the
+blue curves show the variation of the average of the three quietest days. The black horizontal bars signify the 1-sigma level.
+Next, Panels (1), (3), (k), and (I) in Figures|3|and|4| show the corresponding EEJ variations from October 29- November 01, 2021,
+and November 02-05, 2021 respectively. On October 31, 2021, there was an observation of enhancement in the EEJ values over
+the quiet-time variation (panel (0) in Figure 13). However, on observing the same on November 04, 2021 (panel (0) of Figure 4),
+the occurrences of counter-electrojets (CEJ) can be observed which might have restricted the development of the plasma fountain
+over the crest region on that day, thereby, showing no significant TEC enhancement in comparison to the weaker events. This CEJ
+was caused as a result of sudden reversals in the IMF B, (see panel (a) of Figure (2) orientation from southward-to-northward during
+certain intervals of time as a result of the presence of ICME-sheath region. Also from Figure [2] we can observe the main phase
+of the weak storm on October 31, which started at 02:36 LT and ended at 10:00 LT. This is also the time when we observe the
+strengthening of the EEJ over this sector, which 1n turn strengthens the TEC over the crest regions at around 14:30 LT. In the case
+of the strong event on November 04, the main phase occurred from around 02:30 LT to 17:45 LT, covering the entire daytime of
+November 04. However, we can observe strong CEJ and hence not so-prominent strengthening of the plasma fountain over the
+crest region and subsequent lower values of TEC on that day. Therefore, it becomes important to note that although the magnitude
+of the southward IMF had caused a strong geomagnetic storm, evident from the intensification of the ring current (lower SYM-H
+values), it failed to be significantly geoeflective due to the absence of a long-duration southward IMF B, during this period.
+Next, Figure 5] shows the GPS TEC variations over the stations Hyderabad (HYDE, Top Panel) and Bengaluru (IISC, Bottom
+Panel) for the entire analysis period between October 29 and November 05, 2021. The red curves show the VTEC variations on
+the individual days while the blue curves show the variations of the average of the three quietest days. Looking into the top panel,
+for HYDE, we can observe the diurnal maximum of TEC (red curve) on October 31 (third bell curve) to be about 68 TECU which
+1s about 16 TECU above the quiet-time variation (blue curve). The variation on November 04 (second last bell curve), showed the
+same at around 65 TECU. Looking into the bottom panel, for IISC, we see that the diurnal maximum on October 31 and November
+04 1s around 62-63 TECU. From these panels, we can say that there 1s an increase in the diurnal maximum of TEC (from 62 TECU
+at IISC to about 68 TECU at HYDE) on October 31, as one approaches the EIA crest (Bengaluru to Hyderabad). This can be

@@ -1,0 +1,44 @@
+Chakraborty, S., et. al / ASR xx (2024) xxx-xxx 17
+GUVI O/N2 Oct 28, 2021 ON,
+: | i 1.4
+a  — = Mt. = Sw -— — :
+- SA RH, ” , LF.
+: “Po. J y : i’
+: : i ICE i Loy \ ; : ~) 1.0
+mesmessmssmaseses Rs" ¢ ge \ SR Aen
+-~ or . i il
+4 MO 0.8
+I rs E . a pe et TY CAPRI
+] ! oc PLY
+B ’ | 7 ; ON v 0.6
+| A
+EE SS A SN HU
+0.0
+10:53 10:55 10:56 10:58 10:54 11.01 11:02 LT
+19:21 16:07 12.54 02:40 06:26 03:13 23.549 LIT
+Fig. 11. Same depiction as Figure[9|but observed on October 28, 2021.
+IMF B, magnitude and fluctuations (+/-) 1s something very important for ionospheric responsivity forecasting.
+
+Further, in a study by (Borovsky & Shprits, 2017), they show that the Disturbance storm time (Dst) or SYM-H index may not
+be considered a good proxy to estimate the strength and subsequent geoeftectivity. They argued that the Dst index was unable
+to capture various physical processes in the MI system (particle precipitation, Joule heating, ionospheric outflow, thermospheric
+density variations, radiation belts’ state, etc.) under geomagnetically active conditions. Therefore, in agreement with their study, the
+SYM-H in the present case was not able to determine the geoeffectivity of the ICME events where IMF B, polarity had been stable
+inside the MC-like structure and fluctuating in the sheath region. Under such cases, the penetration electric field (related to the
+solar wind and the magnetic field dynamics as given in equation 3) perturbations become an important proxy for the geoeffectivity
+evaluation (see Rout et al. (2018) and references therein).
+
+E = View * Biyr x Sino (3)
+where, V,, 1s the solar wind velocity, Br 1s the magnetic field strength and 6 1s the angle between the IMF and the geomagnetic
+field.
+
+Furthermore, it 1s to be noted that magnetic sheaths are, in general, associated with Alfvenic fluctuations in the magnetic field and
+as a consequence, cause fluctuating PPEF, which can often be responsible for stronger ionospheric response. However, this is not
+the case in the present study. A few recent studies (Hui et al., 2017; Kumar et al., 2023) show that a combination of multiple drivers
+can also generate disproportionate ionospheric impact during geomagnetic storms. Therefore, factors including the background
+ionospheric condition, meridional wind, etc. can never be neglected and hence are already discussed in this study. It 1s from this
+deduction that the major inference drawn in the present work that the non-fluctuating Bz, for a sufficient interval of time, due
+to the presence of an ICME-driven MC-like region, 1s responsible for generating stable and consistent penetration effects for the
+strengthening of the low-latitude electrodynamics, despite the storm being weak, 1s important and merits attention.
+
+Lastly, identifying such types of events along with the corresponding responses of the ionosphere, as shown in the present study,

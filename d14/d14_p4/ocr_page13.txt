@@ -1,0 +1,31 @@
+YERMOLAEV ET AL.: GEOEFFECTIVENESS AND EFFICIENCY X-13
+generation process by Sheath than MC are discussed in several papers |Huttunen and
+Koskinen, 2004; Huttunen et al., 2006; Yermolaev et al., 2007a, b, c, 2010c; Pulkkinen et
+al., 2007a; Turner et al., 2009; Guo et al., 2011]. Our results confirm this conclusion.
+
+Thus obtained results show that despite low occurrence rate and low efficiency of mag-
+netic clouds they play an essential role in generation of magnetic storms due to high
+geoeffectiveness of storm generation (i.e high probability to contain large and long-term
+southward IMF Bz component). Geoeffectivenesses of CIR and Sheath are lower but they
+are compensated by higher occurrence rate and efficiency.
+
+Acknowledgments. The authors are grateful for the possibility of using the OMNI
+database. The OMNI data were obtained from the GSFC/SPDF OMNIWeb on the site
+http: //omniweb.gsfc.nasa.gov. This work was supported by the Russian Foundation for
+Basic Research, projects nos. 07-02—-00042 and 10-02-00277a, and by the Program 16 of
+Physics Department of Russian Academy of Sciences (OFN RAN).
+
+References
+
+Akasofu, S.-I. (1981), Energy coupling between the solar wind and the magnetosphere,
+Space Sci. Rev., 111, A07S08, doi:10.1029/2005JA011447.
+
+Alves, M. V., Echer, E., and Gonsalez, W. D., (2006) Geoeffectiveness of Corotating
+Interaction Regions as Measured by Dst Index, J. Geophys. Res., 2006, vol. 111, p.
+A07S05. doi: 10.1029/2005JA011379.
+
+Alves, M. V., E.Echer, W.D.Gonzalez, (2011), Geoeffectiveness of solar wind interplan-
+etary magnetic structures, Journal of Atmospheric and Solar-Terrestrial Physics, 73,
+1380-1384.
+
+DRAFT October 23, 2018, 3:27am DRAFT

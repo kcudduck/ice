@@ -1,0 +1,42 @@
+8 Chakraborty, S., et. al / ASR xx (2024) xxx-xxx
+
+conditions, significant variations from these general trends can be observed. For example, in the recent study by (Lissa et al., 2021),
+they highlighted that quiet-time seasonal trends are not observed during disturbed periods, especially under moderate solar activity
+conditions, a higher difference in TEC (from the quiet-time values) can be observed and there are also reductions in the correlation
+between the solar flux and the diurnal maximum TEC under storm-time conditions.
+
+Under quiet-time conditions, it 1s well known that increases in the upward plasma motion, and hence the plasma getting raised
+to higher altitudes, are caused by enhancements 1n the E X B vertical drifts. In this process, redistribution of plasma occurs from the
+equatorial regions to the regions in and around the EIA crest. However, under storm-time conditions, the PPEF produces changes
+in the low-latitude ionosphere by lifting the equatorial ionosphere to higher altitudes while decreasing the plasma density at the
+bottomside ionosphere. These F-region uplifts that are caused by the PPEFs, further increase the altitudes of these plasma. This
+process reduces the rate of recombination which in turn leads to high electron densities and intensification in the TEC over the EIA
+crest regions (Wei et al., 2015). In the current study, due to the presence of the MC region and subsequent stable IMF B,, we observe
+higher values of TEC during a weaker event as compared to the stronger one when the IMF B, had been strongly fluctuating due
+to the presence of the sheath region. The observations of such anomalous response of the low-latitude ionosphere (over quiet-time
+values) to MC-like and sheath-region-induced disturbances, are described next.
+
+Figures and [4] show the 1onospheric diurnal VTEC variations as observed by the NavIiC PRNs 3 and 6 along with the EEJ
+variation during the entire analysis period. The titles on top of the first panels in both the figures show the corresponding days in the
+format: DD-MM-YY YY. In all the panels of these two figures, to observe significant differences/enhancements from the day-to-day
+variability, the average of the three quietest days’ VTEC and EEJ values are plotted as blue curves. The three quietest days selected
+here are October 27, 28, and 29, 2021, based on the availability of both the TEC and the EEJ data around the analysis period. The
+observed VTEC variations on the individual days are plotted in red curves. The horizontal bars in these figures show the 1-sigma
+level to designate the VTEC and EEJ variations, beyond these limits, to be significant due to solar forcing and not due to the daily
+variabilities.
+
+Figure 3] panels (a) to (1) show these variations from October 29- November 01, 2021. The day of October 29, being one of the
+quietest days shows the VTEC variations to be well within the significance bars and close to the quiet-time variation as observed
+by PRNs 3 (panel (a)) and 6 (panel (e)). Coming to panels (¢) and (g) of the same figure, it can be noted that there have been
+significant rises in the VTEC values as observed by the NaviC PRNs, on October 31, 2021. This 1s the same day when there had
+been successive weak geomagnetic storm occurrences (see Figure [2| panel (d)). The diurnal maximum around 09:30 UT (14:30
+LT) showed enhancements of about 20 TECU over the quiet-time variation, as observed by PRN 3. Interestingly, PRN 6 showed a
+significant enhancement but with a lower value of about 15 TECU over the quiet-time values around the same time. This could be
+attributed to the fact that the IPP separation between these PRN 1s about 4.5° and hence the ionospheric plasma volumes intercepted
+by these PRNs would be different. For the day (November O01, 2021) after the event day (October 31, 2021), panels (d) and (h)
+for PRNs 3 and 6 respectively, show no significant enhancements in the VTEC. Coming to Figure 4] no significant enhancements
+outside the 1-sigma limits in the VTEC variations are observed in panels (¢) and (g) for PRN 3 and PRN 6 on November 04, 2021,
+respectively, despite the occurrence of the strong geomagnetic storm (see panel (d) of Figure|2). Additionally, the observation of a
+lesser geoeffectivity on November 04, can be attributed to the presence of Alfvenic wave fluctuations as a result of interacting CMEs
+(with the second CME having a higher velocity than the first and assuming no acceleration and/or deceleration in the interplanetary
+medium) that occurred during November 01-02, 2021.

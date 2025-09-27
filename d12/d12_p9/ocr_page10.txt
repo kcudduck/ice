@@ -1,0 +1,67 @@
+Tsunami generation 1897
+(a) (b)
+100 100
+—. 80 80
+LD,
+[)
+=
+© 60 60
+O
+a
+o
+© 40 40
+20 20
+-200 -100 0 100 -200 -100 0 100
+x [km] x [km]
+(C) aEam TT s
+100 -0.002 0.000 0.002 =
+Acceleration [m/s?] a
+8
+o 80 :
+2 =)
+o 60 @
+3 ~
+: 2
+:
+40 @
+=]
+0
+c
+20 ©
+-200 -100 0 100 2
+x [km] 3
+5)
+>
+-0.008 0.000 0.008 =
+®
+Pressure [MPa] N
+oO
+(d) S
+0.010 &
+wT x = =50 km, —— Pressure, — pg hp potion oS
+3 0.005 / — Incompressible theo S
+® 0.000 | LS
+a=
+& -0.005 \4 Q
+-0.010 2
+0 20 40 60 80 100 120 140 160 180 200 e
+Elapsed time [s] N
+Figure 11. Sea-bottom wavefields in the case of an earthquake duration of 7. = 40 s with a width of 100 km. (a) Spatial and temporal distributions of the &D
+vertical acceleration at the sea bottom. (b) A spatial filter of tanh kh / kh 1s applied to the acceleration distribution in (a). (¢) Spatial and temporal distributions =
+of the pressure at the sea bottom. (d) Waveforms at x = —50 km are extracted from (a)—(c), and plotted by blue, red and grey lines, respectively. 3
+®
+ND
+initial tsunami-height distribution from the sea-bottom deforma- in terms of permanent deformations between the solution using the
+tion, the analytical solution of the incompressible-fluid theory (e.g. incompressible-fluid theory and the numerical solution including
+Kajiura 1963) was usually used. Some studies confirmed the va- compressible sea and elastic crust. This suggests that the difference
+lidity of the analytical solution by the numerical simulations using found by Lotto & Dunham (2015) was due to the fault kinematics.
+an incompressible sea (e.g. Kervella ef al. 2007; Saito & Furumura
+2009). However, the validity of this incompressible-fluid theory
+for compressible fluid and elastic crust has not been fully imnvesti-
+gated. Lotto & Dunham (2015) compared the spatial and temporal
+height distributions of the incompressible-fluid theory to those cal- > CONCLUSIONS
+culated with compressible sea and elastic crust. They recognized Based on a theory, tsunami generation can be considered to be
+a slight but clear difference between the simulation results. They independent of gravity, whereas tsunami in itself propagates using
+interpreted this difference as due to the fault kinematic or compress- gravity as a restoring force. From this notion, we investigated the
+ibility of the sea water, but did not determine the specific cause. This validity and limitations of the following three conventional theories
+study, on the other hand, confirmed that there 1s good agreement used in tsunami studies.

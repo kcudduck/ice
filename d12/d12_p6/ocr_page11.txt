@@ -1,0 +1,31 @@
+It can be seen that the wave transformation described by the analytical model 1s in a good agreement with numerical
+simulations. Therefore, below we reference to the analytically defined wave front steepness having in mind that it well
+coincides with the numerical one. Having said this, we approach the main result of this paper, which 1s shown in Fig. 10. The
+red solid line gives the analytical prediction. It 1s universal for single waves of positive polarity for different amplitudes A/hg
+and kho and can be well approximated by the power fit (coefficient of determination R-squared = 0.99):
+Ro /Ry = (5/50) (16)
+where Rmax/A 1s the maximum run-up height in the conjoined basin (with a section of constant depth), R¢/A 1s the
+corresponding maximum run-up height on a plane beach (without a section of constant depth).
+4
+0
+n° 2
+oP PF 0 000 0
+35 LOOO000000 - kh = 0.38
+(m
+=< Op Opn _O oo"
+es 00 OOO000n, Ta © 0
+S 3 EPR oe © “kh = 0.25
+Fa kho = 0.19
+2.5% mm ==
+2
+2 4 6 8 10
+Xo/A
+Figure 8: Maximum run-up height, Rmax/A as a function of the distance to the slope, Xo/4 for different kh. Analytical
+solution described in Section 2 is shown by lines and numerical solution described in Section 3 is shown by symbols
+(triangles, squares and circles) with matching colours; A/ho = 0.03.
+The fit 1s shown in Fig. 10 by the black dashed line. For comparison, the dependence of the maximum run-up height on the
+wave front steepness obtained using the same method for a sine wave 1s stronger than for a single wave of positive polarity
+(Didenkulova et al. 2007) and 1s proportional to the square root of the wave front steepness. This 1s logical as sinusoidal
+wave has a sign-variable form and, therefore, excites a higher run-up. For possible mechanisms, see discussion on N-waves
+in (Tadepalli and Synolakis 1994).
+11

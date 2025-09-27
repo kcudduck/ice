@@ -1,0 +1,64 @@
+Remote Sens. 2024, 16, 3497 16 of 22
+quiet period is less than 1. Therefore, the nightside data prove to be more effective than the
+dayside data in monitoring magnetic storms.
+
+os uu EINE LEE SO HZ os pun SSE DE HZ vu 1, RL PY.  S——
+bi By A aE Rs Rs eto TL, fo sass
+
+Ee oli —— = === mera =F = =F -. 13
+
+MR AE oy Re (al Sc NER a [ARR TO
+—65 == Ee CER CC rc ta l= EN NE ee _65 Eater SE Eee "
+2 3 4 5 6 7 2 3 4 5 6 7 2 3 4 5 6 7
+65 [EEE Ra INEST 65 [EET Te IR TE 5 pra aE
+nn = E T= " ELE : EE 14 = = Fe :
+Hee — f= —= Fre == === == Ere. = <5 Ete Ea 15
+-65 =a 55 Sh - = _65 : === = eo 2 65 Es = EE ey = 0
+2 3 4 5 6 7 2 3 4 5 6 7 2 3 4 5 6 7
+November 2021 November 2021 November 2021
+Figure 15. Dayside and nightside single frequency PSD (the red rectangle is the main phase period).
+: - NT
+Ol
+i: nti
+2 100
+0 2021/11/03 2021/11/04 2021/11/05 2021/11/06 2021/11/07
+— “\ v - ATER aaa eV amma V rt ATT NAAT ng STINT
+Ee we
+= -2000
+(7p)
+2021/11/03 2021/11/04 2021/11/05 2021/11/06 2021/11/07 on
+20.0] a Ble = - —— wT 2 ES,
+Heim es f= t= Ral [ES a -— oH
+— io
+E00 ~— — — © E
+2021/11/03 2021/11/04 2021/11/05 2021/11/06 2021/11/07 ’ a
+£20 T— Se Be — al
+Sir ad = = = fee f= =" = — — oH
+@ = | 2
+= 0.0 = ~ &
+2021/11/03 2021/11/04 2021/11/05 2021/11/06 2021/11/07 ’ 8
+@ 5.0 — N 2
+= 0.0 0 E
+2021/11/03 2021/11/04 2021/11/05 2021/11/06 2021/11/07 8
+~20.0 - — - _ - a =F
+g 5.0 = — = = 0 8 z
+2021/11/03 2021/11/04 2021/11/05 2021/11/06 2021/11/07 a
+Figure 16. (a) Dst, (b) SML, ULF dayside D value: (c) 65°N-65°S, (d) 22°5-65°S, (e) 22°N-22°S,
+(f) 22°N-65°N.
+4.2. Strongly Disturbed Frequencies
+
+Among the four frequency bands—ULF, ELF, VLF, and HF—the ULF band exhibits
+the largest perturbation during a magnetic storm, while the HF band shows almost no
+perturbation. In the ULF band, magnetic storms have the greatest effect at 0-5 Hz, and a
+strong disturbance frequency of 3.9 + 1.0 Hz is observed within this range. Parkhomov [14]
+found that short pulses of geomagnetic pulsations in the 0.2 to 5 Hz range were observed
+during magnetic storms, with a global maximum frequency of 2.78 4 0.38 Hz. This obser-
+vation aligns with the conclusion of this paper, which suggests that the global maximum
+frequency due to magnetic storms may vary, but generally remains around 3 Hz.
+
+To verity the generality of the conclusion that the 3.9 £ 1.0 Hz frequency point
+represents the perturbation pole, four additional strong magnetic storms (Dst < —100 nT)
+observed by the CSES-1 satellite were selected for analysis (Table 2, Figure 17). The D values
+for the ULF band during these five magnetic storms were analyzed within the latitude
+range of 22°-65°. In the southern hemisphere, a rapid increase in D values was observed
+within the 0-3.9 Hz range, reaching an extreme value near 3.9 Hz (e.g., the 11 May 2024

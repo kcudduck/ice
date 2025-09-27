@@ -1,0 +1,54 @@
+Mon. Not. R. Astron. Soc. 364, 879-890 (2005) doi:10.1111/.1365-2966.2005.09618.x
+Behaviour of torsional Alfvén waves and field line resonance
+on rotating magnetars
+Taishi Okita* and Yasufumi Kojima*
+Department of Physics, Hiroshima University, Higashi-Hiroshima 739-8526, Japan
+Accepted 2005 September 14. Received 2005 September 14; in original form 2005 June 1
+5
+ABSTRACT 5
+Torsional Alfvén waves are likely excited with bursts in rotating magnetars. These waves S
+are probably propagated through corotating atmospheres toward a vacuum exterior. We have S
+studied the physical effects of the azimuthal wavenumber and the characteristic height of the S
+plasma medium on wave transmission. In this work, explicit calculations were carried out =
+based on the three-layered cylindrical model. We found that the coupling strength between the a
+internal shear and the external Alfvén modes 1s drastically enhanced, when resonance occurs in 2
+the corotating plasma cavity. The spatial structure of the electromagnetic fields in the resonance =
+cavity 1s also investigated when Alfvén waves exhibit resonance. =
+©)
+Key words: stars: magnetic fields — stars: neutron — gamma-rays: bursts. S
+S
+-
+etal. 1996; Gogus etal. 1999, 2000). The SGRs have spin periods in a 4
+INTRODUCTION small range of P = 5-8 s with rapid spin-down rate P ~~ 10710 ss~!, o
+Soft gamma-ray repeaters (SGRs) and anomalous X-ray pulsars which therefore give characteristic ages P/P ~ 10° yr (Mazets >
+(AXPs) are known as strongly magnetized neutron stars, ‘magne- et al. 1979a; Kouveliotou et al. 1998; Hurley et al. 1999a). x
+tars’. The hallmark of these objects is to repeat X-ray or gamma-ray On the other hand, the physical nature of AXPs 1s still uncertain <
+emissions irregularly. So far, four or five known active objects which due to poor observations, but there seem to be some similarities and %
+show frequent X-ray emission of tremendously energetic and shorter differences between SGRs and AXPs. AXPs are energetic sources of
+initial bursts (typically E < 10*! erg and Ar ~ 0.5 s) have been iden- pulsed X-ray emission, whose periods lie in a narrow range P = 6— &
+tified with SGRs (Thompson & Duncan 2001). Some of these oc- 12's, characteristic ages P/P = 3 x 10° ~ 4 x 10° yr and X-ray lu- oo
+casionally exhibit more energetic events. The giant flare 1900414, minosities L, =5 x 10°*~10°¢ erg s~! (Mereghetti 2002; Thompson S
+now associated with SGR 0525-66, was observed in 1979 (Mazets, & Duncan 2001). AXP sources likely have somewhat larger active =
+Golenetskii & Gur’yan 1979b) for the first time and became ac- ages and some of them have softer X-ray spectra compared with a
+tive again in 1992 (Kouveliotou et al. 1993) and also in 1998 SGRs. One of the primary differences between them will be that 5
+(Kouveliotou et al. 1998; Hurley et al. 1999a, 1999b). Recently, AXPs so far have shown only quiescent X-ray emission with no N
+the intense gamma-ray flare from SGR 1806—20, which occurred bright active bursts such as giant flares. The active ages of SGRs <p
+on 2004 December 2/7, was reported (Hurley et al. 2005; Mereghetti and AXPs are consistent with the observed evidence that these com- =
+et al. 20035; Palmer et al. 2005). Rea et al. (2005) have investigated pact objects often give their location close to the edge of shell-type =
+the pulse profile and flare spectrum of SGR 1806-20. Their study supernova remnants. Neither SGRs nor AXPs show the presence of .
+may potentially give information about the global field structure in conspicuous counterparts at other wavelengths (Mereghetti & Stella S
+the magnetosphere and may further promote theoretical magnetar 1995; Mereghetti et al. 2002). The origin of these enormous ener- 7
+models. Their extreme peak luminosity extends up to 10° L gqq esti- getics is likely to be their strong magnetic fields B = 10'*-10"> G
+mated at a distance of 10 kpc (Mazets et al. 1999; Feroci, Duncan estimated by their spin periods and spin-down rates. Only the mag-
+& Thompson 2001). Typical X-ray luminosities of SGRs have netar model has been able to account for the enigmatic properties
+been measured to be L, = 10**-10°¢ erg s=! (Hurley et al. 2000; of a rare class of SGRs or AXPs.
+Thompson et al. 2000), except with giant bursts SGRs 1900+14 and Shear and Alfvénic waves play an essential role on the energy
+1806—20. Shorter durations of initial flares of SGRs are compara- transfer to the exterior in the burst-like phenomena observed in SGRs
+ble to the Alfvén crossing time of the core. The energy distribution or giant flares. The Alfvén wave propagation in such a strongly mag-
+shows good agreement with the Gutenberg—Lichter law, which may netized star should be clarified theoretically. In our previous work,
+indicate statistical similarity to earthquakes or solar flares (Cheng the propagation and transmission of torsional Alfvén waves have
+been studied, focused only on the fundamental mode of azimuthal
+wavenumber m = 1 as a first step. In that work, the exterior of the
+*E-mail: okita@hirax7.hepl.hiroshima-u.ac.jp (TO); kojima@theo.phys. star 1s examined qualitatively only, assuming two extreme cases:
+sci.hiroshima-u.ac.jp (YK) (1) corotating together with the star and (11) static state independent
+© 2005 The Authors. Journal compilation © 2005 RAS

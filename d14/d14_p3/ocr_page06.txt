@@ -1,0 +1,53 @@
+Evaluating the relationship between strong ge... https://www.swsc-journal.org/articles/swsc/fu...
+Pr BRE 2h 2 SESH STM Se A RS cE me Pte SSRIS Bd Sn some pages ves No
+denote as DEF failures). Error bars are, calculated as RMSE from monthly values for each year (Table 2). One
+
+2ookies from social networks. More information and setlip
+can see that the percentage fraction of EGFs from groups DEF has a rising trend similar to the solar activity
+cycle in 2010-2014, represented by yearly changes of sunspot number (visualised by orange squares). DEF's
+percentage rate concerning all EGFs changes from (23 + 2)% near the solar minimum in 2010 up to (30 £ 5)%
+near solar maximum in 2014.
+Fig. 1
+| Linear regression of the annual percentage rate of EGFs from groups DEF in January 2010-
+July 2014 (circles, left axis) and yearly changes of sunspot number (orange squares, right
+axis).
+Next, to compare dBy/dt and failures of transmission line elements caused by selected reasons (groups D, E
+and F from Table 2) we applied the t-test (see Sect. 3.1). In our analysis we considered 3 h intervals of dBy/dt
+data and failures caused by aging, electronic devices breakdowns, or having an unidentified reasons. We have
+taken into account such the geomagnetic events from 2010 to 2014 that max(dBy/df) = 25 nT/min (e.g.
+Adebesin et al., 2016) and by the first group of our data, we have set these values of DEF failures, which
+observed in times directly after storm events. The second group of the data consisted of the aging, electronic
+breakdowns, and unidentified type of failures that occurred immediately before the geomagnetic storm, i.e.,
+before the dBy/dt max value was more or equal to 25 nT/min. In this way, we have got the sets of statistical
+parameters such as sums, means, medians, standard deviations, coefficient of variations, skewnesses,
+kurtosis, etc., in the intervals of time 24, 48, and 72 h. We have denoted them, for example, as mean 24 h- for
+a mean of the number of DEF failures that occurred during 24 h before max(dByx/dt) = 25 nT/min and mean
+24 h+ for the mean of the number of DEF failures occurred during 24 h after the whole time interval with
+max(dBy/dt) = 25 nT/min. Similarly, 48 h— and 48 h+, 72 h—- and 72 h+ work in the same manner and standard
+deviations are included alongside the mean. Using Statistica software, we compared the sets of DEF failures
+in both intervals of time 24 h— and 24 h+, 48 and 72 h. The summary of the obtained results is given in Tables
+3 and Table 4,
+Table 3 The analysis of the t-test for means of DEF failures in 2010-2014 for 24 h+, 24 h—, 48 h+, 48 h-,
+72 h+ and 72 h-, where Wis the value of Shapiro - Wilk test, Fthe value of Levene test".
+Table 4 The analysis of the t-test for standard deviations of DEF failures in 2010-2014 for 24 h+, 24 h-,
+48 h+, 48 h—, 72 h+ and 72 h-.
+In Tables 3 and 4, the values of: the Shapiro - Wilk test, W, the Levene test, Fand t-test were obtained for our
+data by using corresponding formulas. Their values are not as significant as the p-values which are
+responsible for accepting or rejecting the Hp hypothesis. In our calculations, we put a = 0.05, for a < p we
+accept Hp hypothesis, otherwise, when a > p we reject Hg and accept Hq which is the alternative hypothesis,
+moreover, when a < p <0.1 we can also reject Hy and accept Hq. From Tables 3 and 4, we can see that both
+assumptions for the t-test are fulfilled if we have 48 h or 72 h intervals. The comparison of means of DEF
+failures in 2010-2014 years for 48 h has shown that mean 48 h+ > mean 48 h- (see, mean 48 h+ = 9.17 and
+mean 48 h— = 5.91). It was confirmed by the t-test for means of DEF failures for 48 h (t= 2.21 with p = 0.034).
+Similarly, we considered the means of DEF failures denoted for 72 h, and we have obtained mean
+72 h+ > mean 72 h—- (see, mean 72 h+ = 7.23 and mean 72 h— = 4.31). The t-test gave t= 2.13 with p = 0.04.
+Analogically, for standard deviation we obtained SD 48 h+ > SD 48 h—, as well mean 72 h+ > mean 72 h— (see t
+= 1.88 with p=0.07 and t= 1.92 with p= 0.06, respectively).
+Figure 2 shows the geoelectric field components Ex and Ey calculated based on 5 years measurements of the
+geomagnetic field and by applying 1-D layered conductivity Earth model (see Sect. 3.2). One can see Exand Ey
+in mMV/km calculated for particular years of 2010-2014. Similar scales on Y-axis allow us to quickly compare
+the state of the geoelectric field between considered years. In particular, we see that year 2012 (fifth and
+sixth panels of Figure 2) was one of the most variable periods. This is in agreement with information from
+Table 1, where the geomagnetic storms have been listed mostly for the year 2012. The more detailed analysis
+of Figure 2 reveals the increase of Ex and Ey values in days 69, 114-115, 197-198, 275 of the year 2012.
+6 of 15 27/09/2025, 18:16

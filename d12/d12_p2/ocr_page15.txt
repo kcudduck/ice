@@ -1,0 +1,46 @@
+3 Propagation of tsunamis 15
+deformation is translated to the initial condition of the evolution problem
+described in the next section. A few authors have solved the linearized wa-
+ter wave equations in the presence of a moving bottom Hammack [1973],
+Todorovska and Trifunac [2001].
+
+3 Propagation of tsunamis
+
+The problem of tsunami propagation is a special case of the general water-
+wave problem. The study of water waves relies on several common assump-
+tions. Some are obvious while some others are questionable under certain
+circumstances. The water is assumed to be incompressible. Dissipation is
+not often included. However there are three main sources of dissipation for
+water waves: bottom friction, surface dissipation and body dissipation. For
+tsunamis, bottom friction is the most important one, especially in the later
+stages, and 1s sometimes included in the computations in an ad-hoc way. In
+most theoretical analyses, it 1s not included.
+
+A brief description of the common mathematical model used to study
+water waves follows. The horizontal coordinates are denoted by x and y, and
+the vertical coordinate by z. The horizontal gradient is denoted by
+
+0 0
+Vi=|— —].
+(5. >)
+The horizontal velocity is denoted by
+u(x, y, z,t) = (u,v)
+and the vertical velocity by w(x, y, z,t). The three-dimensional flow of an
+inviscid and incompressible fluid is governed by the conservation of mass
+ow
+0z (8)
+and by the conservation of momentum
+Du Dw Op
+— = — Vp, — = —pg — —. 9
+sy Pe Py = PIT 5 (9)
+In (9), pis the density of water (assumed to be constant throughout the fluid
+domain), g is the acceleration due to gravity and p(x, y, z,t) the pressure
+field.
+
+The assumption that the flow is irrotational is commonly made to analyze
+surface waves. Then there exists a scalar function ¢(z,y, z,t) (the velocity
+potential) such that
+
+0
+u=Vo, w= %.
+0z

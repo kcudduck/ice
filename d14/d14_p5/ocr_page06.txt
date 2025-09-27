@@ -1,0 +1,63 @@
+www.nature.com/scientificreports/
+Geoelectric Fields. April 23 2023 12:00 UT — April 24 2023 12:00 UT
+2000 : 8 °
+- a SOL (61.08 N, 4.84 E)
+=
+~ I
+~ 1000 ! |
+& |
+| | i
+n | J
+0 — cen NARA TNT Bon, ifn ras AF UR VIAN ial JET TPT VIR Warn ttn tng avin cong sortase mae
+_ 2000 2 °
+i) DOB (62.07 N, 9.11 E)
+&
+i." 2
+~ 1000
+E, |
+LL | TN
+0 —— pp — L JA (PITT "Va ot PAAR Afb A Ved ahd he Hui duds cillhadh dN TY Ppp
+1000
+i) Cc | UPS (59.9 N, 17.35 E)
+=
+"4
+~ 500 |
+E
+= 0 — Th AL oorvA ad JIN "rh WA A Anal LAs ia ad aul and Cd a ma aa YO ee,
+_ 1000
+d | NUR (60.5 N, 24.65 E)
+= |
+x
+~ 500
+=
+Lu 0 ' bode ARPT IAN Yous WAS Seuss MARIA an hal AE A pn Fk R Ea sy Anal :
+_ 1000
+"eo e TAR (58.26 N, 26.46 E)
+Ba
+=> 500 |
+E
+LL : Ar —— ON PEEP | w——_ WT TRO. e— Aa
+49 0
+I I
+I I
+— 20 —
+27 VT We Mi dag? E
+© 0 { | | | a -1500 _,
+= :
+20 f |
+I
+-40 -3000
+12:00 15:00 18:00 21:00 00:00 03:00 06:00 09:00 12:00
+Hours
+Figure 3. Computed geoelectric field E during the April 23-24, 2023 storm event for five selected stations:
+SOL (a), DOB (b), UPS (c¢), NUR (d), and TAR (e). For comparison, Méntsald GIC (black, legend on the left)
+and SML index (red, legend on the right) in panel f have been shown. Event I and II are marked by red vertical
+dashed lines.
+similar geographic latitudes, around 60°, and at varied longitudes, from 4.84° (SOL) to 24.46° (TAR) (see Table 1).
+Note that the y-axis ranges for panels (a) and (b) are twice those for panels (c)-(e). Higher E fluctuations start
+before 18:00 UT, while the strongest increases in E are observed around Event I (at 19:44:00 UT) and Event II (at
+03:54:20 UT), marked by red vertical dashed lines. The increases are highest at SOL (Fig. 3a) and DOB (Fig. 3b).
+In particular, at these two stations strong E peaks, significantly higher than 500 mV km", are observed before
+Event I (around 19:00 UT), while stronger E peaks of ~ 1800 mV km" (at SOL) and ~ 3000 mV km" (at DOB)
+coincide with the Event II timing.
+Scientific Reports | (2024) 14:25074 | https://doi.org/10.1038/s41598-024-76449-z nature portfolio

@@ -1,0 +1,60 @@
+Chakraborty, S., et. al / ASR xx (2024) xxx-xxx 21
+doi https://doi.org/10.1002/2014JA020934
+
+Richmond, A. D., Peymirat, C., & Roble, R. G. (2003). Long-lasting disturbances in the equatorial ionospheric electric field simulated with a coupled
+magnetosphere-ionosphere-thermosphere model. Journal of Geophysical Research: Space Physics, 108(A3). URL: https://agupubs.onlinelibrary.
+wiley.com/doi/abs/10.1029/2002JA009758 doi https://doi.org/10.1029/2002JA009758
+
+Rishbeth, H. (1997). The ionospheric e-layer and f-layer dynamos a€” a tutorial review. Journal of Atmospheric and Solar-Terrestrial Physics, 59(15), 1873—
+1880. URL: https://www.sciencedirect.com/science/article/pii/S1364682697000059 doi https://doi.org/10.1016/S1364-6826(97)
+00005-9
+
+Rodrigues, EF. S., Crowley, G., Heelis, R. A. et al. (2012). On tie-gcm simulation of the evening equatorial plasma vortex. Journal of Geophysical Research:
+Space Physics, 117(AS5). URL: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2011JA017369 doi https://doi.org/10.1029/
+2011JA017369
+
+Rodriguez-Zuluaga, J., Radicella, S. M., Nava, B. et al. (2016). Distinct responses of the low-latitude ionosphere to CME and HSSWS: The role of the IMF Bz
+oscillation frequency. Journal of Geophysical Research: Space Physics, 121.
+
+Rout, D., Chakrabarty, D., Sarkhel, S. et al. (2018). The Ionospheric Impact of an ICME-Driven Sheath Region Over Indian and American Sectors in the Absence
+of a Typical Geomagnetic Storm. Journal of Geophysical Research: Space Physics, 123(5), 4298-4308. URL: https://agupubs.onlinelibrary.wiley.
+com/doi/abs/10.1029/2018JA025334 doi https://doi.org/10.1029/2018JA025334
+
+Scherliess, L., & Fejer, B. G. (1997). Storm time dependence of equatorial disturbance dynamo zonal electric fields. Journal of Geophysical Research, 102(11),
+24-037.
+
+Scolini, C., Chane, E., Temmer, M. et al. (2020). Cme-cme interactions as sources of cme geoeffectiveness: The formation of the complex ejecta and intense
+geomagnetic storm in 2017 early september. The Astrophysical Journal Supplement Series, 247(1), 21. URL: https://dx.doi.org/10.3847/1538-4365/
+ab6216 doi 10.3847/1538-4365/ab6216
+
+Sharat, C. B., Anurag, V., Baljit, J. et al. (2017). Study of temporal variation of vertical TEC using NavIC data. International Conference on Emerging Trends in
+Computing and Communication Technologies (ICETCCT), (pp. 1-5). doi 10.1109/ICETCCT.2017.8280317
+
+Shen, C., Xu, M., Wang, Y. et al. (2018). Why the shock-icme complex structure 1s important: Learning from the early 2017 september cmes. The Astrophysical
+Journal, 861(1), 28. URL: https://dx.doi.org/10.3847/1538-4357/aac204 doi 10.3847/1538-4357/aac204
+
+Shim, J. S. (2009). Analysis of total electron content (tec) variations in the low- and middle-latitude ionosphere. All Graduate Theses and Dissertations, 403, 1-113.
+doi https://digitalcommons.usu.edu/etd/403
+
+Spiro, R. W., Wolf, R. A., & Fejer, B. G. (1988). Penetration of high latitude electric field effects to low latitudes during the SUNDIAL. Annales Geophysicae, 6,
+39-49.
+
+Tsurutani, B. T., Gonzalez, W. D., Tang, F. et al. (1988). Origin of interplanetary southward magnetic fields responsible for major magnetic storms near solar
+maximum (1978-1979). Journal of Geophysical Research: Space Physics, 93(A8), 8519-8531. URL: https://agupubs.onlinelibrary.wiley.com/
+doi/abs/10.1029/JA0931A08p08519 doi https://doi.org/10.1029/JA093iA08p08519
+
+Vasyliunas, V. M. (1970). Mathematical models of the magnetospheric convection and its coupling to the ionosphere. In McCormac (Ed.), Particles and Fields in
+the Magnetosphere. Springer, New-York (pp. 60-71).
+
+Vichare, G., & Richmond, A. D. (2005). Simulation study of the longitudinal variation of evening vertical ionospheric drifts at the magnetic equator during equinox.
+Journal of Geophysical Research: Space Physics, 110(AS5). URL: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2004JA010720
+doi https://doi.org/10.1029/2004JA010720
+
+Wei, Y., Zhao, B., Li, G. et al. (2015). Electric field penetration into earthi€™s ionosphere: a brief review for 2000a€“2013. Science Bulletin, 60(8), 748-761.
+URL: https://www.sciencedirect.com/science/article/pii/S2095927316304376 doi https://doi.org/10.1007/s11434-015-0749-4
+
+Zhang, J., & Wang, J. (2002). Are homologous flare-coronal mass ejection events triggered by moving magnetic features? The Astrophysical Journal, 566(2), L117.
+URL: https://dx.doi.org/10.1086/339660 doi 10.1086/339660
+
+Zurbuchen, T. H., & Richardson, I. G. (2006). In-situ solar wind and magnetic field signatures of interplanetary coronal mass ejections. Space Sciences Series of
+ISS, (pp. 31-43). URL: https://doi.org/10.1007/978-0-387-45088-9_3 doi 10.1007/978-0-387-45088-9_3

@@ -1,0 +1,63 @@
+Remote Sens. 2024, 16, 3497 11 of 22
+
+In conclusion, the frequency bands affected by magnetic storms are the ULF, ELF, and
+VLF bands. All three bands exhibit more pronounced perturbations at high latitudes, with
+only the ULF band showing significant enhancement of electric field perturbations near the
+Schumann wave frequency point at middle and low latitudes. Overall, the ULF band shows
+a greater response to magnetic storms compared to the ELF and VLF bands. However, the
+D value only indicates the absolute increment. To obtain a more accurate assessment, the
+growth rate of perturbations across different frequency bands needs to be calculated.
+
+3.6. Comparison of Ex, Ey and Ez
+
+Since the satellite electric field has three components, and the Ex component was
+used in the previous study, to ensure the reliability of the conclusions, the trends of all
+three components need to be consistent. This section discusses the consistency of the three
+components based on the disturbance maximal orbit. Since the electric field components Ex,
+Ey, and Ez, after background noise removal, exhibit more outliers, we employ the median
+absolute deviation (MAD) method to eliminate these anomaly outliers. Subsequently, the
+sliding averages method [31] is applied to smooth the signal, which reduces random noise
+while preserving the original trend. Figure 9 illustrates the three-component electric field
+plots for the 22°S to 65°S and 22°N to 65°N ranges across the four bands of the perturbed
+maximum orbit. The figure shows that the trends of the curves for the different electric
+field components Ex, Ey, and Ez are essentially consistent, with only slight variations in the
+magnitudes of the energy amplitudes.
+
+ULF ELF
+l(a) (b)
+vom 3 A
+2A ~Sn A pT
+: a /\ } A
+JER\NIFENETACA 3 AAA w/
+S150, V2 NON aN TSX SYN TIN T p | A
+= : 5 2 \ A AA
+2 = | ie
+| | 5 i
+0.54 | NE A Vv \ Vea Cem mens
+\ Ja
+0.0 5.3 10.3 15.6 20.0 0.0 0.6 1.2 1.8 2.5
+freq (Hz) freq (kHz)
+VLF HF
+1.2f —
+a(€) pA |(d) Ey-South
+\A/ / A Ez-South
+a ¥ ---- Ex-North
+$3 § AN “w Aun $081 Ey-North
+= \ / \ | AN = Ez-North
+gal\ os wT £™°
+N fa TNS WW Maat A & N 04
+: vad RNA) WR AAA |
+IR $= GER 0.2 | Pp
+MA VEEN . bh. | ail —
+0.0 6.2 12.5 18.7 25.0 0.0 1.2 25 37 5.0
+freq (kHz) freq (MHz)
+Figure 9. Three-component comparison of the disturbance maximal orbital quad band. (a) ULF,
+(b) ELF, (c) VLE, (d) HE.
+
+In the ULF band, the trend is consistent between the northern and southern hemi-
+spheres, characterized by an initial increase followed by a decrease, with an extreme value
+observed in the 0-5 Hz range. This value decreases after reaching its peak and subsequently
+stabilizes. In contrast, trends in the ELF and VLF bands are not consistent between the
+hemispheres. In the ELF band, the southern hemisphere shows a maximum near 2441 Hz,
+whereas the northern hemisphere does not exhibit any significant extreme values. In the
+VLF band, the southern hemisphere exhibits an extreme value at 5.40 kHz, while the north-

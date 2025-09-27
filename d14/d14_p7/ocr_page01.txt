@@ -1,0 +1,52 @@
+SANSA RY Available online at www.sciencedirect.com —_————
+Lo ADVANCES IN
+Sh ScienceDirect SPACE
+ce JH RESEARCH
+SeaSlles (a COSPAR publication)
+ELSEVIER ASR xx (2024) xxX-xXXX ——
+www.elsevier.com/locate/asr
+Influence of ICME-driven Magnetic Cloud-like and Sheath Region induced
+Geomagnetic Storms 1n causing anomalous responses of the Low-latitude
+<I
+RN Ionosphere: A Case Study
+-
+Sumanjit Chakraborty®®*, Dibyendu Chakrabarty?®, Anil K. Yadav?, Gopi K. Seemala®
+L “Space and Atmospheric Sciences Division, Physical Research Laboratory, Ahmedabad 380009, Gujarat, India
+a bIndian Institute of Geomagnetism, Navi Mumbai 410218, Maharashtra, India
+ON Received xx; Received in final form xx; Accepted xx;
+— Available online xx
+gu
+=
+©,
+Od Abstract
+2 This work shows an anomalously enhanced response of the low-latitude ionosphere over the Indian sector under weak geomagnetic condi-
+ay tions (October 31, 2021) in comparison to a stronger event (November 04, 2021) under the influence of an Interplanetary Coronal Mass Ejection
+on (ICME)-driven Magnetic Cloud (MC)-like and sheath regions respectively. The investigation is based on measurements of the Total Electron Con-
+A tent (TEC) from Ahmedabad (23.06°N, 72.54°E, geographic; dip angle: 35.20°), a location near the northern crest of the Equatorial Ionization
+¢) Anomaly (EIA) over the Indian region. During the weaker event, the observed TEC from the Geostationary Earth Orbit (GEO) satellites of Navi-
+’ A gation with Indian Constellation (NavIC), showed diurnal maximum enhancements of about 20 TECU over quiet-time variations, as compared to
+— the stronger event where no such enhancements are present. It 1s shown that storm intensity (SYM-H) or magnitude of the southward Interplan-
+Ne etary Magnetic Field (IMF) alone is unable to determine the ionospheric impacts of this space weather event. However, it 1s the non-fluctuating
+southward IMF and the corresponding penetration electric fields, for a sufficient interval of time, in tandem with the poleward neutral wind vari-
+QO p gp p
+i ations, that determines the strengthening of low-latitude electrodynamics of this anomalous event of October 31, 2021. Therefore, the present
+investigation highlights a case for further investigations of the important roles played by non-fluctuating penetration electric fields in determining
+Is a higher response of the low-latitude ionosphere even if the geomagnetic storm intensities are significantly low.
+Va © 2024 COSPAR. Published by Elsevier Ltd All rights reserved.
+\O
+<r
+== Keywords: ICMEs; MC and Sheath Region; Low-latitude Ionosphere; EEJ; TEC; Geomagnetic Storms
+QJ
+re
+a 1. Introduction
+- > Geomagnetic storms occur as a result of energy input from the solar wind into the Earth’s Magnetosphere-lonosphere (MI)
+>< system mostly following the Coronal Mass Ejection(s) (CMESs) from the Sun directed toward the Earth. These ICMEs have certain
+cS features (MacQueen, 1980; Klein & Burlaga, 1982; Burlaga et al., 1982) such as the sheath and the Magnetic Cloud (MC) regions.
+The sheath region, bounded by the shock front and formed ahead of the ICMEs, has the characteristic wherein the plasma 1s turbulent
+and highly compressed. The magnetic field, the proton temperature, proton density, dynamic flow pressure, and the velocity are all
+“Corresponding author.
+Email addresses: sumanjit11@gmail. com (Sumanjit Chakraborty), dipu@prl.res. in (Dibyendu Chakrabarty), anil@prl.res.in (Anil K. Yadav),
+gopi.seemala@gmail. com (Gopi K. Seemala)
+https://dx.doi.org/10.1016/j.jasr.xxXX.XX. XXX
+0273-1177/© 2024 COSPAR. Published by Elsevier Ltd All rights reserved.
+Preprint submitted to ASRDecember 20, 2024

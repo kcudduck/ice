@@ -1,0 +1,60 @@
+predictions. The electronic supplementary material, table S3, presents the performance metrics for
+model simulated tsunami heights at stations shown in figure 5. Overall, the simulations closely match
+the observations, particularly in predicting arrival times, with amplitudes that are nearly accurate but : ZS
+slightly overestimated in some instances. A better match between observed and simulated tsunami Z
+heights is reflected in positive regression coefficients, high significance percentages and low NRMSD, : =
+NMAD and acceptable NNSE values. However, there are few stations (dutc, xmas) where the model's =
+performance is weak, indicating a need for further refinement to improve the accuracy and reliability | =
+of the predictions at these locations. =
+E
+DQ
+5.2. Chile tsunami event 27 February 2010 ZS
+On 27 February 2010, at 06:34:23 UTC (local time 03:34:23am), an earthquake of magnitude 8.9 Mw =
+occurred approximately 325 km southwest of the Chilean capital of Santiago, off the coast of Chile's |
+Maule region [37]. The earthquake occurred under 37 km depth and was characterized by a thrust —
+forcing mechanism caused by the Nazca Plate subducting beneath the South American Plate. This force | «
+displaced large volumes of seawater above and triggered a tsunami. A tsunami warning was issued =
+first for Chile and Peru; Chile was significantly affected by a tsunami, with over 500 deaths, leaving : IS
+1000 s homeless and causing damage to properties and the economy [45]. The tsunami affected Chile's : &
+coastline and generated warnings and evacuations across the Pacific Ocean, including as far away as ~
+Japan, New Zealand and the west coast of the United States. Figure 7a shows the initial deformation yg
+generated due to Chile's 2010 earthquake. The focal fault parameters to generate initial deformation : &
+are shown in table 3. The distribution of peak tsunami wave height simulated using ADCIRC is shown .
+in figure 7b. Travel time contours of tsunami waves at every 1 h interval are displayed in figure 7c.
+The ADCIRC-simulated water levels at different global locations are compared against the IOC sea
+level observations in figure 8. All these observations are taken from the IOC sea level website and are
+plotted in alphabetic order based on the station ID. The observations are averaged to five min from
+one min and displayed in figure 8. The tide gauge ID, country and location name are given as titles
+on each subplot, which can be accessed from table 1 for further information. From figure 8, the blue
+curves representing the ADCIRC simulations match the red curves representing the observations. The
+model did a good job of capturing the timing and first-wave amplitude of the tsunami waves. It can be
+observed from figure 8 that at most of the stations, the first peak tsunami height is slightly overestima-
+ted, and the wave arrival is a few minutes earlier. Although the first wave arrived and was captured
+at some locations, acap, anto, aric, manz, etc., the model underestimated the secondary tsunami wave
+heights. This is because, after the earthquake, there were multiple aftershocks as mentioned in the
+previous case, which would lead to tsunami waves, and these shocks are not considered in the current
+simulations. The model results can be further improved by employing exact bathymetry information
+and bottom friction information at the locations.
+
+Figure 8 shows the widespread propagation of the 2010 Chile tsunami based on the different
+tsunami wave heights at different coastal countries in the Pacific Ocean. Chile faced the devastating
+blow, with waves greater than a metre high crashing into a few areas. Chile had waves ranging from
+0.4 to 1.3 m in different cities like Ancud (figure 8; ancu), Coquimbo (figure 8; coqu) and Valparaiso
+(figure 8; valp). Other countries closer to Chile, like Peru and Ecuador, faced waves less than a metre,
+with Callao (figure 7; call), Peru, at 0.5 m and San Telmo (figure 8; sant), Ecuador, at 0.78 m. In North
+America, places like Costa Rica, Mexico and the USA had smaller waves, ranging from 0.3 to 0.6 m.
+While waves were generally smaller, San Diego (figure 8; sanb, sand) felt the highest peak at 0.6 m.
+Costa Rica’s Quepos (figure 8; quepo) recorded a 0.4 m peak, while Mexican waves ranged from 0.3
+m in Acapulco (figure 8; acap) to 0.5 m in Manzanillo (figure 8; manz). The wave’s energy weakened
+but remained detectable further across the Pacific Ocean, away from North and South American
+continents and to other continents. In Oceania, Samoa and New Zealand experienced tsunami with
+waves between 0.2 and 0.5 m. Both Pago (figure 8; pago) and Upolu (figure 8; upol) in Samoa recorded
+peaks of 0.5 and 0.2 m, respectively. New Zealand's Waitomo (figure 8; wait) saw a 0.5 m peak. In Asia,
+Japan's coast saw a wave peak ranging from 0.4 to 0.7 m, with Hanasaki (figure 8; hana) experiencing
+the highest. Even far away in Europe, an island saw a wave of 0.6 m (figure 8; hiva).
+
+Figure 9 compares observed and simulated values for travel time and amplitude of the first
+tsunami peak at various stations (sorted by distance from the epicentre, with the closest station at
+the bottom) for the Chile tsunami event. Arrival times and amplitudes at multiple stations exhibit
+minimal differences between observed and simulated values with very good performance metrics. For
+most stations, the simulated tsunami wave arrived a few minutes earlier than observed (except for

@@ -1,0 +1,80 @@
+390  T. Okita and Y. Kojima
+
+(n=1,2,...), we obtain y = k2/k® and thus the boundary con- that the internal shear modes can be coupled on to the high-frequency
+
+dition works out to be d/dz[In£] = ik® [kP /k®]? > ik®. The Alfvén modes at the stellar surface, which drastically enhances their
+
+right-hand side of this expression turns out that the waves satis- transmission rate at certain wavenumbers or frequencies.
+
+fied with this condition are highly transmitted, as far as KY does not
+
+change much over one wavelength, say the validity of WKB approx-
+
+imation (1/ kD) dk /dz| K KY holds. This peculiar result means This paper has been typeset from a TeX/IATEX file prepared by the author.
+»,
+©)
+=
+i)
+=}
+Q
+(@X
+dD
+oO
+Oo
+3
+=A
+S
+«@
+0
+oO
+Q
+(@X
+dD
+=]
+0
+©)
+-
+©
+0
+©)
+S
+3
+-)
+©
+@
+Q
+=
+D
+ww
+(@))
+a
+~
+oo
+~
+©
+(@))
+<
+Ww
+oO
+<
+Q
+C
+MD
+28
+©)
+>
+NO
+~l
+7
+dD
+5
+dD
+3
+Oo
+@
+ND
+oO
+ND
+Ol
+
+© 2005 The Authors. Journal compilation © 2005 RAS, MNRAS 364, 879-890

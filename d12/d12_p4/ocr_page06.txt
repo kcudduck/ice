@@ -1,0 +1,77 @@
+Yell : :
+MI Journal of Geophysical Research: Oceans 10.1029/2020JC017011 -
+AND SPACE SCIENCE <
+(K( = 2) Bolksrk)
+
+_ 1 - i(kgx+k y) k* sinh k (ho 7) Do kes ky 1 i
+
+u(x, 3,21) = REA y Fy TAR iL — cos(ayt) | H(t)
+
+A : (25) 2
+
+0 k,,k h| k(hy — 5
+
+_ Lo Ii dt eet) Pollack) sno 2), ~ cos(ayt) | H (1). :
+
+(2 7) —o0 L080 sinh (kg ) BE
+
+where :
+
+@y = | gok tanh (kh). (26)
+
+Equation 26 represents the dispersion relation. Similarly, we obtain 2
+
+lf aap ethers) Lik cosh k(n 2) :
+
+U; (x, Ys Zs /) = (on ; II dk, dk e oe k sinh (kf, ) Po (.. k) on
+
+[1 cos(ayt) | H(t) (j = x.y) :
+
+©
+
+and :
+
+IE: {lex hy) cosh| kh, _ 2) | sinh| k (7, _ 2) | i 5
+
+= on) II dk, dk e Po (.. SE cos (ay) + ~n(khg) 1 cos opt) H (1) 03)
+
+EE (koxp). sinh k(hy —z)| ~~ 2sinhkz :
+
+= PR ; Il dk dk ,e Po (.. k, i + Sin (2K) cos wot |H (1).
+
+Particularly at the sea bottom, the pressure change is given by :
+
+1% i(kyx+k 1 R :
+
+p(x. y, ho») = oo Lk - spol Joos) (0), (29)
+
+We introduce tsunami height n(x, y, t). This is given by the vertically upward displacement at the sea surface :
+
+n(x 1) = —u, (x, y, 0,1) :
+
+-1 | ky x | EN :
+
+n(x. 1) _ —u, (x, y, 0,1) _ PEER ( jy (ko ey )[ 1 — cos(ayt) |H(1). (30)
+
+2.5. Green's Functions :
+
+Using the solutions 25-30, we then derive the solution with respect to the impulsive pressure change at the :
+
+sea surface given by :
+
+p(x. y, 0,1) = 5(x.y)8 (2) (31) S
+
+By differentiating the solutions 25-30 with respect to time and replacing p, (kooky as py (&.. k) =1, we :
+
+calculate the wavetield solutions in the case where the surface pressure source is given by Equation 31. For :
+
+example, the vertical displacement excited by the source of Equation 31 is calculated from Equation 25 as :
+
+_ 1 7 i(kpxtkyy) 1 sinh| k (hy ~ 2) | :
+
+u, (x. Vs Zy () = (2) dk, dk,e Es inh) wy sin(wyt) H (1). (32)
+
+S
+
+-
+SAITO ET AL. 6 of 29 :

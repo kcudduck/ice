@@ -1,0 +1,43 @@
+4 Chakraborty, S., et. al / ASR xx (2024) xxx-xxx
+
+Figure 1|shows the Ionospheric Pierce Point (IPP) latitude-longitude (geographic and geomagnetic) plot of the NavIC satellite
+footprints with respect to the receiver placed at Ahmedabad. Here the two satellites (or PRNs) 3 and 6 of NavIC are considered
+in the analysis as they are GEOs. PRN 2, also being a GEO, was excluded from the analysis as it contained data gaps during the
+analysis period. It 1s also to be noted that the IPP separation between PRNs 3 and 6 1s about 4.5° pointing to the fact that the
+ionospheric plasma volume intercepted by PRN 3 1s different from that observed by PRN 6.
+
+Mag Lon (deg)
+142.8 143.8 144.7 145.6 1406.6 147.6 1485 1494 1504 151.3 152.3 153.2 154.2
+24 15.5
+23 14.5
+22 0) 0 13.5
+> 21 12.5 =
+C Q
+= 115 §
+w 20 O PRN 2 DO
+a a
+a 19 PRN 4 105 @
+O PRNS5
+N Ni
+17 PRN 7 8 5
+16 7.6
+68 69 70 71 72 73 74 75 76 [a4 7/8 79 80
+IPP Lon (deg)
+Fig. 1. Plot showing IPP (geographic and geomagnetic) latitude (Lat) and longitude (Lon) footprints of NavIC satellite PRNs 2-7 over Ahmedabad. PRNs 2, 3, and
+6 are GEOs while PRNs 4 5, and 7 are GSOs. The GEO PRNs 3 and 6 used in this work are marked separately in ovals.
+
+Next, we obtained the simulation runs using the National Center for Atmospheric Research (NCAR) Thermosphere-Ionosphere-
+Electrodynamics General Circulation Model (TIEGCM) hosted by the Community Coordinated Modeling Center (CCMC). The
+TIEGCM 1s a non-linear, first-principles, and three-dimensional (3D) depiction of the terrestrial ionosphere and thermosphere
+coupled as a system. The model consists self-consistent solution of the mid-latitude as well as the low-latitude dynamo fields.
+TIEGCM solves basic physical equations: the continuity, the energy, and the momentum, using a fourth-order, semi-implicit
+finite difference method on individual pressure surfaces in a vertical grid, for the neutral and the 10on species at a typical time-
+step of 2 minutes. Several studies (Richmond et al., 2003; Vichare & Richmond, 2005; Rodrigues et al., 2012; Richmond et al.,
+2015; Richmond & Fang, 2015; Maute et al., 2021; Kumar et al., 2022; Chakraborty, 2022) show the capability of this model to
+understand the electrodynamic processes in the ionosphere, thus making it an ideal simulation platform closely reproducing the
+coupled 1onosphere-thermosphere system of Earth. The standard low-resolution grid parameters in the model are the latitudinal
+extent from -87.5° to +87.5° and longitudinal extent from -180° to +180°; pressure level (altitude-wise) from -7 to +7 1n steps of 4
+having the lower boundary at around 97 km and upper boundary around 500-700 km (variation as per solar activity condition). The
+model inputs are F10.7 (daily solar radio flux) along with either the K, index or the IMFs B,, B,, B, the solar wind velocity, and
+solar wind density. The outputs from this model, specified in all three spatial and temporal dimensions, are the height of pressure
+surfaces (cm); neutral, electron, and 10n temperatures (K); the zonal, meridional, and vertical neutral winds (m/s); potential in

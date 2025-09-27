@@ -1,0 +1,67 @@
+Torsional Alfvén waves in rotating magnetars 883
+A detailed treatment and the physical meaning of y are given in plasma physics (e.g. Wolfgang & Rudolf 1996) that waves are in
+Appendix A. general reflected at the cut-off points where N. — 0, and are ab-
+In order to solve wave equation (21), we consider the complex sorbed at the resonant absorption points where N, — 00. Since
+linear combination ¢ = | + 1, with specific solutions ¢ and ¢ the frequency o 4 1n the rotating frame 1s here confined within the
+to be satisfied with equation (35). At the ends, we can obtain the positive regime o4 > 0, k 1s always real, that 1s, neither cut-off
+explicit boundary condition at the stellar surface z = 0 nor resonant absorption points appear in the positive helicity. On the
+d | o N other hand, there are both absorption and cut-off points for the neg-
+i In (g; + c) = —ki" [£§1(0)Iy + H(0)Ny] ative mode. In the remainder of this section, our attention will thus
+z=0 be paid only to this mode for physical interests. The dispersion rela-
++1kY [61(0)%Ry — LO) ]. (38) tions with negative mode are schematically shown for the classical
+The logarithmic derivative of the asymptotic solution has to be equal iat mn Fig. 2 and for the relativistic limit in Fag. 3, 1 espectively. In
+to that of numerical solution in the deep interior z < 0, so that we both diagrams, the region v; /c = 0 stands for the non-propagation,
+request 1.e. the evanescent zone. The vertical dotted line denotes the cut-off -
+frequency of the wave. Q
+d asymp d =
+dz In (£5 ) — dz In © (39) (1) Classical limit. As seen in Fig. 2, the evanescent zone appears 9
+= = only in the low frequency and narrow-band width 0 < 0_/Q < 2)
+This yields 2. In this classical treatment, the cut-off of the wave appears at =
+B. [Blz]~" + i(dyry /d2)]C + (dg /dz) o_/S2 = 2, which can be physically interpreted as the fact that the 3
+Ay — [Bz]! + i(dys /d2)]C — (dC /dz) exp(—21yr1). (40) Coriolis force interrupts the wave propagation in the rotating frame. E:
+Co In a high-frequency region o_/€2 > 2, waves are almost capable ?
+Finally, the reflection Ry and transmission coefficients 7. of the of propagating except for o_ /Q = m, at which waves are strongly >
+waves with each helicity propagating trom the crust through the absorbed by resonance with a rotating background. This 1s because a
+plasma toward the vacuum exterior are respectively expressed as refractivity diverges in this particular frequency. It 1s noticed that 3
+oO
+Ry = [Bal (41) 2
+[At] ©
+o :
+k® EJ? ay 3
+ki [Ail Q
+4
+=
+1 o
+3 PROPAGATION EE NASR EERE Eh LEEE EEL >
+m/ (m—1) >
+3.1 Dispersion relation O 2 " 0 / 0 <3
+—m(m-2)-----;- - x
+In this section, the behaviour of the torsional Alfvén waves 1s dis- <Q
+cussed based on the dispersion relations. Eikonal equation (26) de- %
+pends on the depth through the functions 4 and v. For strong mag- ©
+netic fields B, > 10'* G considered in this paper, it can be shown ©
+that vr 1 1n equation (26) varies weakly with the depth except for the -
+inner region close to the star surface. The local dispersion relation Figure 2. Dispersion relation for negative helicity waves with m > 3 in a ®
+can be approximately written as classical limit, 4 — 1. The region below the horizontal axis corresponds to o
+1 the evanescent zone. The vertical dotted line denotes the cut-off frequency .
+ky ~ = \/ 0+ 10+ = [m(1 — h) + 2] 2}. (43) o_/Q = 2. The resonant absorption frequency is given by o_/Q = 2. 0
+@
+This relation can also be obtained by taking a short wavelength 2
+limit, namely, the high-frequency limit. The dimensionless function =
+h involved in equation (43) varies from 2 = 1 in the deep interior to a =
+h = 0 1n the surface and exterior. This function represents the ratio = S
+between the rest-mass energy density and the effective magnetic 7
+energy density. For 4 = 1, the rest-mass energy dominates over the {
+magnetic energy. This case corresponds to the classical limit. On the egos I SU
+other hand, strong magnetic energy B, > 10'* G easily overwhelms (ub) 2 meee ee
+the rest-mass energy of the electrons or ions in the low-density 0 m m+2 m(mt2) o /Q
+region, where 2 =~ 0. In this case, relativistic displacement current (m2) B
+should be included in the analysis.
+In order to investigate the propagation property of the wave, it 1s
+useful to define the phase velocity v, in a straightforward manner
+as
+vy /¢* =?) (ks) (44) e Co
+Figure 3. Same as Fig. 2 in arelativistic limit, 4 — 0. The cut-off frequency
+which 1s also related to the refraction index N. = c¢/v, for each is 0_/Q = m + 2. The resonant absorption occurs within an evanescent
+mode. Note that v2 1s not necessarily positive. It 1s well known 1n regime at o_ /Q2 = m.
+© 2005 The Authors. Journal compilation © 2005 RAS, MNRAS 364, 879-890

@@ -1,0 +1,39 @@
+18 Chakraborty, S., et. al / ASR xx (2024) xxx-xxx
+to perform fruitful statistical inferences, 1s non-trivial. However, identifying more such cases would be helpful for the space science
+community to perform a comprehensive and holistic study of the 1onospheric responses to varying severity of space weather events
+in the future. As a follow-up to this work, we will be performing statistical studies as well as investigating the periodicity of the
+IMF B, and penetration electric field fluctuations to be able to tell how slow/fast these sheath region fluctuations have to be, to be
+geoeflective.
+5. Summary
+This work was directed to reveal that a weaker geomagnetic storm occurring on October 31, 2021, had caused a greater 1ono-
+spheric response, over the low-latitude region in the Indian sector, compared to a much stronger geomagnetic event of November
+04, 2021. The presence of an ICME-driven sheath region, that had caused a fluctuating penetration electric field over the equa-
+torial electrodynamics, was shown to be responsible for the prevention of the development of strong and consistent levels of EEJ
+strength. This restricted the otherwise expected plasma enhancements over the low-latitude ionosphere during such periods. This
+investigation brought forward, that for this particular case study and under poleward neutral wind variations, it was neither the
+storm intensity (SYM-H) nor the IMF B, magnitude, but the occurrence of the non-fluctuating B, (for a sufficient interval of time),
+due to the presence of an ICME-driven MC-like region, responsible for generating stable and consistent penetration effects for the
+strengthening of the low-latitude electrodynamics, despite the storm being weak. This case study 1s a path forward for the devel-
+opment of state-of-the-art space weather forecast systems, for reliable predictions related to low- and equatorial electrodynamics
+under geomagnetically active conditions, by incorporating the time duration for which the IMF remains completely southward
+without any fluctuations.
+Acknowledgments
+The authors acknowledge the high-resolution IMF |B|, B,, B,, B;, IEF,, SYM-H, Proton Temperature, V,, Proton Density,
+Flow Pressure, and Plasma £ in addition to the daily F10.7 data used in this work. Acknowledgments go to the World Data Center
+of Kyoto University for the K,,, and A, indices. Acknowledgments are due to the Indian Institute of Geomagnetism, Navi Mumbai
+for providing the EEJ data. We acknowledge the IGS network for providing openly available GPS TEC data for our analysis of
+ionospheric conditions over Hyderabad and Bengaluru. Further acknowledgments go to the SAC, ISRO for providing a NavIC
+receiver to PRL, Ahmedabad. Simulation runs obtained using the NCAR-TIEGCM and WACCM-X, hosted by the CCMC, are
+duly acknowledged. Acknowledgments go to the SME data obtained from the SuperMag network website. The authors thank
+the PIs of the magnetic observatories and the National institutes that support these observatories. The global thermospheric O/N;
+maps obtained from the GUVI onboard the TIMED spacecraft hosted by the JHUAPL are acknowledged. We thank both reviewers
+for their valuable comments and suggestions that have enhanced the quality of the manuscript. This work 1s supported by the
+Department of Space, Government of India.
+References
+Abdu, M. A. (1997). Major phenomena of the equatorial 1onosphere-thermosphere system under disturbed conditions. Journal of Atmospheric and Solar-Terrestrial
+Physics, 59(13), 1505-1519.
+Abdu, M. A., Walker, G. O., Reddy, B. M. et al. (1990). Electric field versus neutral wind control of the equatorial anomaly under quiet and disturbed condition: A
+global perspective from SUNDIAL 86. Annales Geophysicae, 8, 419-430.
+Ahn, B. H., Akasofu, S. I., & Kamide, Y. (1983). The Joule heat production rate and the particle energy injection rate as a function of the geomagnetic indices AE
+and AL. Journal of Geophysical Research, 88(8), 6275-6287.
+Appleton, E. V. (1946). Two anomalies in the ionosphere. Nature, 157(3995), 691-691. doi 10.1038/157691a0

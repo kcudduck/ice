@@ -1,0 +1,39 @@
+Confidential manuscript submitted to Journal of Geophysical Research: Oceans
+
+storm surge due to the “inverse barometer” sea level response to pressure. However, since the
+atmospheric pressure fluctuations induced by the Tonga volcano eruption are significant and the
+leading wave 1s “locked” in phase with the atmospheric pressure wave, the DART reported data
+must be corrected to 1solate the actual tsunami waves. Based on the analysis of Liu and Higuera
+(2022), the formula to approximately correct the DART measurements can be expressed as
+
+n= 0, (8)
+in which F’ 1s the local Froude number at the DART buoy location, calculated as
+
+F=—- (9)
+
+Jgd
+
+where c 1s the speed of the atmospheric pressure wave, which 1s fixed, and d 1s the local water
+depth. It can be observed that the correction method 1s dependent on the local water depth, and
+results in a reduction of the DART reported data for F-> 1, which 1s the case for the Tonga event.
+Moreover, this reduction (Equation 8) 1s linearly proportional to the water depth, thus, the formula
+will produce a relatively larger correction in shallower waters.
+
+Figure 6 shows the location of the DART buoy stations across the Pacific Ocean (panel a) and
+corrected and un-corrected time series of free surface elevations at 4 selected DART buoy stations
+(panels b~¢). These stations have been selected because the water depths cover a wide range: 1,807
+m (DART52406), 3,273 m (DART32411), 4,230 m (DART46409) and 5,742 m (DART G),
+respectively. To correct the DART data, the atmospheric pressure at the DART buoy location 1s
+first estimated using the empirical atmospheric pressure model. The duration of the atmospheric
+pressure wave 1s extracted and used as a mask to correct the DART data only within the relevant
+window (shown 1n grey line), using Equation 8. The speeds of atmospheric pressure wave at each
+station are calculated, which 1n this case are almost a constant (~ 319 m/s), since these stations are
+farther than 1,000 km from Tonga. Therefore, the Froude number at these buoys ranges from 1.32
+(DART52406) to 2.4 (DART G), depending on the local water depths. The blue line 1s the
+originally reported DART data and the black line denotes the corrected time series, 1.e., the actual
+tsunami free surface elevation. It can be observed that, as mentioned before, the relative reduction
+1s larger for shallower water depths. Panels b~¢ in Figure 6 are arranged in terms of increasing
+water depths. Therefore, the most significant reduction occurs for DART 52406, from 3.8 cm of
+positive wave amplitude reported to 0.7 cm after the correction.
+
+12

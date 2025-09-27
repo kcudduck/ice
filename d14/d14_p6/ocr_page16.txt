@@ -1,0 +1,21 @@
+Temp limit [°C] | Age (years) | Transformer Population f(A)
+180 0-25 0.36
+160 25-40 0.25
+140 > 40) 0.39
+Table 2: Transformer structural temperature limits per age category 1;,,, and
+their respective prevalence as fraction of transformer population f(A). Values
+acquired from 4 .
+VelkV] | Approx. Number in US Grid | fgria(Ve) ¢ f(9)
+230 1388 0.39 Single | 0.25
+230 1388 0.39 Three | 0.75
+345 1572 0.44 Single | 0.15
+345 1572 0.44 Three | 0.85
+500 S87 0.16 Single | 0.66
+500 S87 0.16 Three | 0.34
+765 58 0.01 Single | 0.97 *
+765 58 0.01 Three | 0.03 *
+Table 3: Transformer population in US grid and fractional population by phase
+for each voltage class. Values marked with * were rounded to the nearest integer
+because no 765kV] transformers were present in the other data sets. Values
+acquired from 5.
+6

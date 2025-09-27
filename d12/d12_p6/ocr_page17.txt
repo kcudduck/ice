@@ -1,0 +1,25 @@
+Sriram, V., Didenkulova, I., Sergeeva, A., and Schimmels, S.: Tsunami evolution and run-up in a large scale experimental facility, Coastal
+Engineering, 111, 1-12, https://doi.org/10.1016/j.coastaleng.2015.11.006, 2016.
+Schimmels, S., Sriram, V., and Didenkulova, I.: Tsunami generation in a large scale experimental facility, Coastal Engineering, 110, 32-
+41, https://do1.org/10.1016/j.coastaleng.2015.12.005, 2016.
+Stoker, J.J.: Water waves, the mathematical theory with applications, Interscience Publishers Inc., New York, 1957.
+Synolakis, C. E.: The run-up of solitary waves, Journal of Fluid Mechanics, 1835, 523-545, https://do1.org/10.1017/S002211208700329X,
+1987.
+Synolakis, C.E., Deb, M.K., and Skjelbreia, J.E.: The anomalous behavior of the runup of cnoidal waves, Physics of Fluids, 31(1), 3-5,
+https://do1.org/10.1063/1.866575, 1988.
+Tadepalli, S., and Synolakis, C.E.: The run-up of N-waves, Proc. Roy. Soc, London A, 445, 99-112,
+https://do1.org/10.1098/rspa.1994.0050, 1994.
+Tang, J., Shen, Y., Causon, D.M., Qian, L. and Mingham, C.G.: Numerical study of periodic long wave run-up on a rigid vegetation
+sloping beach, Coastal Engineering, 121, 158-166, https://do1.org/10.1016/j.coastaleng.2016.12.004, 2017.
+Tint, S., and Tonini, R.: Analytical evolution of tsunamis induced by near-shore earthquakes on a constant-slope ocean, Journal of Fluid
+Mechanics, 535, 33-64, https://do1.org/10.1017/S0022112005004532, 2005.
+Touhami, H.E. and Khellaf, M.C.: Laboratory study on effects of submerged obstacles on tsunami wave and run-up, Natural Hazards,
+87(2), 757-771, https://doi.org/10.1007/s11069-017-2791-9, 2017.
+Yao, Y., He, F., Tang, Z. and Liu, Z.: A study of tsunami-like solitary wave transformation and run-up over fringing reefs, Ocean
+Engineering, 149, 142-1535, https://doi.org/10.1016/j.0ceaneng.2017.12.020, 2018.
+Zahibo, N., Didenkulova, I., Kurkin, A. and Pelinovsky E.: Steepness and spectrum of nonlinear deformed shallow water wave, Ocean
+Engineering, 35 (1), 47-52, https://do1.org/10.1016/j.0ceaneng.2007.07.001, 2008.
+Zainali, A., Marivela, R., Weiss, R., Yang, Y. and Irish, J.L.: Numerical simulation of nonlinear long waves in the presence of
+discontinuous coastal vegetation, Marine Geology, 396, 142-149, https://doi.org/10.1016/j.margeo.2017.08.001, 2017.
+
+17

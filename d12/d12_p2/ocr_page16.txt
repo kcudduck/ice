@@ -1,0 +1,43 @@
+3.1 Classical formulation 16
+The continuity equation (8) becomes
+0°
+Vgp+—=0. 10
+6+ 2 (10)
+The equation of momentum conservation (9) can be integrated into Bernoulli's
+equation
+09 1 L (96° Pp — Po
+— + Vo +- | =| +9z2+——=0, 11
+wr glVol +g (5) Host (11)
+which 1s valid everywhere in the fluid. The constant py is a pressure of ref-
+erence, for example the atmospheric pressure. The effects of surface tension
+are not important for tsunami propagation.
+3.1 Classical formulation
+
+The surface wave problem consists in solving Laplace’s equation (10) in a
+domain €2(t) bounded above by a moving free surface (the interface between
+air and water) and below by a fixed solid boundary (the bottom). The free
+surface is represented by F(x,y, z,t) := n(x, y,t) — 2 = 0. The shape of the
+bottom is given by z = —h(z,y). The main driving force is gravity.
+
+The free surface must be found as part of the solution. Two boundary
+conditions are required. The first one is the kinematic condition. It can be
+stated as DF/Dt = 0 (the material derivative of F' vanishes), which leads to
+
+m+ Veo -Vn—9¢.=0 at z=n(z,y,t). (12)
+The second boundary condition is the dynamic condition which states that
+the normal stresses must be in balance at the free surface. The normal stress
+at the free surface is given by the difference in pressure. Bernoulli's equation
+
+(11) evaluated on the free surface z = n gives
+Or + 5|IVOP +502 + gn =0 at z=n(z,y,t). (13)
+
+Finally, the boundary condition at the bottom is
+
+Vo -Vh+¢,=0 at z= —h(x,y). (14)
+
+To summarize, the goal is to solve the set of equations (10), (12), (13)
+and (14) for n(x,y,t) and ¢(x,y, z,t). When the initial value problem is
+
+The surface wave problem can be easily extended to the case of a moving bottom.
+This extension may be needed to model tsunami generation if the bottom deformation is
+relatively slow.

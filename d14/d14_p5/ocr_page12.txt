@@ -1,0 +1,68 @@
+www.nature.com/scientificreports/
+Geomagnetically Induced Currents
+60
+April 23,2023 | a
+40+ Mantsala |
+—— measured
+ool. —— modeled go
+< 1
+O iN (ff ‘ II [ " ] # 3 k 2 a
+AB 0 pa = AF | 4 Fi, i fi | i § H ol k Rg THX "iy L"4 31° hs =
+| ) ' "2
+| |
+20
+Corr=0.73
+-40 |
+16:00 17:00 18:00 19:00 20:00 21:00 22:00 23:00
+Hours
+60 ——a—a——
+April 24,2023
+40 Mantsala |
+—— measured | |
+—— modeled | |
+—. 20 |
+= Ce HE
+O YY 4 Hi JE ¥ d iil.
+ORY J #1 Ak i bg 1 || BE FR Land Tere % i 5
+: 110" ol 5! LAL ft diate Olle
+| | ¥ :
+I |
+-20 | |
+} | |
+Corr=0.76 |
+-40 TT FO
+00:00 01:00 02:00 03:00 04:00 05:00 06:00 07:00 08:00
+Hours
+60
+Cc
+40
+_ |
+< 20 "i
+@) ; \ ne | Nl i
+O : ar f 4 AT # A A i L J | oa KX Nig i Ni : ( y 2 A ALY
+0 Nb 0 | | | idl \ i AA y ly 1 § i y M |" P* ’ J 14 j i Ml Jl Hw hots i J rol”
+M [ | (* 3 0 : | $
+-20 | |
+| {I
+03:00 04:00 05:00
+Hours
+Figure 9. GICs measured (red) and modeled based on the E-field (black) along the Finnish natural gas
+pipeline at the Méntséla station. Event I and Event II are marked by red vertical dashed lines.
+
+Thus, Event II was related to the local substorm-like intensification with intense magnetic pulsations in the
+IMAGE magnetometers as well as at magnetometers located in the Siberia, the Urals and in the Karelia regions**.
+Despirak at al.** suggested that “such local substorm-like intensifications may be caused by solar wind pressure
+pulses such as interplanetary shocks>” and plasma parcels®*”.
+
+GIC estimation
+
+Estimating the E-field induced at the Earth's surface is essential for the analysis of GICs. There are various
+approaches to the GIC modeling, taking into account the non-uniform lateral conductivity distribution”. To
+properly estimate GICs, many factors must be taken into account, such as the strength of the geomagnetic
+field disturbance, surface impedance, and network topology'*. In this work, based on the determined E values
+over MAN, the GIC modeling with a 10-second resolution was performed using a simple formula for laterally
+uniform conductivity distribution: GIC = a - Ex + b - Ey, where Fx, and Ey are the local E-field components.
+Values of a and b are conditioned by the power grid parameters: the resistances or the network topology*". For
+Mintsild, we used a = —70.0 Akm Vand b = 88.0 A km V~'2°, The same values of of a and b were recently
+
+Scientific Reports | (2024) 14:25074 | https://doi.org/10.1038/s41598-024-76449-z nature portfolio

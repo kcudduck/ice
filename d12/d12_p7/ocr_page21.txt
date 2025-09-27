@@ -1,0 +1,36 @@
+Confidential manuscript submitted to Journal of Geophysical Research: Oceans
+Figure 9. Scatter plots showing the model-data comparisons of the arrival time (a), wave crest amplitude
+(b, d), and wave trough amplitude (c, e) of the leading tsunami waves. Top panels are the comparisons
+against corrected DART data and bottom panels against uncorrected DART data.
+
+3.2 Wavelet analysis
+
+Using the Morlet (Gaussian-windowed sinusoid) Continuous Wavelet Transformation (CWT)
+analysis, the time evolution of the dominant wave components of the free surface elevation at
+selected DART stations are presented in Figure 10. The stations (a-f), are arranged based on
+increasing distance to Tonga, from top to bottom. The wavelet results based on the corrected DART
+data are shown 1n the left column and the results based on the numerical simulations are given in
+the right column. The arrival time of the leading wave 1s marked with a white dashed line, while
+the white continuous line represents the estimated arrival time of the trailing wave. The arrival
+time of the trailing wave at DART buoy (G) is not shown because it 1s almost concurrent to the
+leading wave, as this location 1s very close to the volcano. At the DART buoy (G), the dominant
+wave periods range from 10 to 64 minutes mitially. Additional components with periods of 5
+minutes and shorter appear later, 1 hour from the explosion, as the energy contained in higher
+period waves reduces progressively, almost disappearing 2 hours after the event. From this point
+on, the “ringing” effect for high-frequency waves becomes intermittent and continues for several
+hours. The numerical results are only able to capture the low frequency waves, with a slightly
+smaller block (15 — 40 minutes) centered around the 28 minutes period, since additional wave
+generation mechanisms have not been considered in the present model. This situation can be
+observed 1n all subsequent numerical modelling results, which lack short period waves below ~15
+minutes. Moreover, the numerical results at DART G show an additional long period component
+at 70 minutes, with higher energy content, when compared to the field data. A common factor
+between the DART data and the numerical model data at DART G (the closest to the volcano) 1s
+that energy exists before the arrival of the leading wave. However, these points appear in both
+panels, and lie outside the cone of influence of the CWT (yellow curved dashed line). For those
+reasons, they should be considered as an energy “leakage” instead of actual long wave conditions
+at the site prior to the explosion.
+
+Based on the results, the numerical simulation based on the simple atmospheric model can
+successfully reproduce 1n a qualitative way the longer period waves (40 minutes at DART 51425,
+
+21

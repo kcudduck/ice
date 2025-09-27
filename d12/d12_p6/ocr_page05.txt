@@ -1,0 +1,35 @@
+where A 1s the input wave height and 7 1s the effective wave period at the location with the water depth ho. The wave
+described by Eq. (9) has an arbitrary height and period and, therefore, does not satisfy properties of the soliton, but just has a
+sech? shape. Substituting Eq. (9) into Eq. (8), we can calculate the complex spectrum B(w).
+Wave run-up oscillations at the coast r(#) and the velocity of the moving shoreline u(¢) can be found from (Didenkulova et al.
+2008):
+u u’
+rit)=R|t+— |——— 10
+(7) | rs 2g’ (19)
+ult
+(0-0 20 (11)
+gltano
++00 -
+R(t)=./27n7(L w|lH(w)expLi| wlt—7(L))+—s1en(w) |; do , 12
+(= 2D) | ToT (@)exp io -e(1)) + Zeno) | 1
+1 dR
+Ult)=————, (13)
+) tana dt
+where 7 =2L/./gh, is a travel time to the coast.
+This solution we also compare with the run-up of a single wave of positive polarity described by Eq. (9) (without nonlinear
+deformation). The maximum run-up height Rn.x of such wave (9) can be found from (Didenkulova et al. 2008; Sriram et al.
+2016):
+R (2m VY)
+—mx _ 2 .8312+/cotx [22] (14)
+A gh, \ \J3T
+If the initial wave 1s soliton, Eq. (14) coincides with the famous Synolakis formula (Synolakis, 1987).
+3. Numerical model
+Numerically, we solve the nonlinear shallow water equations Eqs. (1),(2) written in a conservative form for a total water
+depth. We include the effect of the varying bathymetry (in space) and neglect all friction effects. However, the resulting
+numerical model will take into account for some dissipation thanks to the numerical scheme dissipation, which 1s necessary
+for the stability of the scheme and should not influence much run-up characteristics. Namely, we employ the natural
+numerical method, which was developed especially for conservation laws - the finite volume schemes.
+The numerical scheme 1s based on the second order in space UNO2 reconstruction, which 1s briefly described in (Dutykh et
+al. 2011b). In time we employ the third order Runge-Kutta scheme with locally adaptive time steps in order to satisfy the
+CFL stability condition. The numerical technique to simulate the wave run-up was described previously in (Dutykh et al.
+5

@@ -1,0 +1,66 @@
+www.nature.com/scientificreports/
+— 800
+- ‘w» 600a PRAY oN Bm
+£400 a |
+— 200 —_— = =
+< 10 4b os RUE SO | fs arbi
+1 mmm mm —d4-—-EEEEE BEEE _ _ _ _ —
+=" 10 Coasnmmson oer Pa | " 5 0
+I Cl VD Si
+— 0° Bry 10"
+SERS riety whi SI WERE SIG
+10% asl a TO gs | "ted ru fi | ead pt 1072
+oh ™ — B, B B
+ez 2
+=< 3
+= EF -100 TV) a 1000 S =
+> = -200 | -2000 0) =
+0 S30 -3000
+oz 1  keewte—
+CEN PE a a EE
+23 24 295
+April 2023
+Figure 2. Solar wind plasma and interplanetary magnetic field (IMF) during the intense storm of April, 2023.
+From top to bottom, the panels show: (a) solar wind proton speed V/,, (b) Alfvén Mach number Mj, the
+horizontal dashed line indicating M4 = 1, (c) proton density NV, (black, legend on the left) and ram pressure
+Py (red, legend on the right), (d) proton temperature 7, (black, legend on the left) and plasma-5 (red, legend
+on the right), (e) IMF magnitude By, By, By and B, components, (f) the geomagnetic SYM-H index
+(black, legend on the left) and the auroral SML index (red, legend on the right), (g) geomagnetically induced
+current (GIC) at the Mantsila during April 23-25. The black vertical dashed line shows a fast-forward (FF)
+interplanetary shock. The red vertical dotted lines indicate selected GIC events. The red bar at the top indicates
+an interplanetary sheath. The green bar at the top and the vertical gray shading both indicate a magnetic cloud
+(MC). The light-cyan shading inside the MC shows a sub-Alfvénic solar wind interval with M, < 1. This
+figure is adapted from Hajra et al.>>.
+
+Inside the MC, low NN, lead to low Alfvén Mach number Mj of ~ 0.5 at ~12:48 UT on April 24 (Fig. 2b).
+The ~ 2.1-h long (from ~12:25 UT to ~14:33 UT on April 24, marked by a light-cyan shading) sub-Alfvénic
+(My < 1) solar wind corresponds to the recovery phase of the magnetic storm, and did not cause any
+significant geomagnetic storm ring current enhancement. However, the sub-Alfvénic interval is associated with
+disappearance of auroral substorms (Fig. 2f).
+
+The near-Earth solar wind data (Fig. 2a-e) described above represent the interplanetary counterpart of a
+coronal mass ejection (CME) or an interplanetary-CME (ICME). The fast CME ejected with a linear speed of
+~ 1284 km s~! from the Sun (source location: 22° S latitude, 11° W longitude) at ~18:12 UT on April 21. It was
+associated with an M1.7 X-ray flare erupted (at ~17:44 UT) from the solar active region AR3282.
+
+Figure 2g presents the GIC measurements at a gas pipeline near Mantsild, Finland (60.6° N geographic
+latitude, 25.2° E geographic longitude). It shows several strong GICs. In particular, there are several intervals on
+April 23, where the GIC peaks (|GIC|) were > 20 A, e.g., from 19:03:40 to 19:04:00 UT (27.32 A), from 19:04:40
+to 19:04:50 UT (25.75 A), from 19:31:40 to 19:32:40 UT (27.17 A), from 19:38:20 to 19:38:40 UT (22.72 A), from
+19:39:40 to 19:40:00 UT (22.25 A), from 19:45:20 to 19:45:50 UT (21.73 A), and at 20:04:20 UT (20.65 A). The
+maximum value of GIC on April 23 (27.32 A) was registered at 19:03:50 UT. On April 24, GIC peaks > 20 A were
+observed from 03:52:50 to 03:53:40 UT (20.82 A), from 03:56:00 to 03:57:00 UT (35.22 A), and from 03:57:30 to
+04:00:00 UT (34.18 A), with the strongest values (~ —35 A) at 03:56:40 and 03:58:40 UT. From these multiple
+GIC activities, we have selected two events for further systematic studies: GIC peak = 13.97 A at 19:44:00 UT
+on April 23 (Event I), and GIC peak = 18.25 A at 03:54:20 UT on April 24 (Event II). These are marked by red
+vertical dotted lines in Fig. 2. They correspond to an intense substorm (with the SML peak of —1570 nT at ~
+19:45 UT on April 23), and the SSS (with the SML peak of —2760 nT at ~03:54 UT on April 24), respectively.
+According to Despirak et al.%, Event I is a part of local nighttime GICs consistent with a poleward expansion
+of the substorm-related westward electrojet currents, while Event 2 occurring during local morning sector was
+suggested to be led by Ps6 magnetic pulsations caused by a high-density solar wind. Thus the events are suitable
+selections to understand the E-field dynamics dependence on varying local times and interplanetary conditions.
+Temporal and spatial variability of geoelectric field
+Figure 3 shows the magnitudes of the computed E-fields F' = \/E% + E% between 12:00 UT on April 23 and
+12:00 UT on April 24 for five selected stations: SOL, DOB, UPS, NUR, and TAR. These stations are located at
+
+Scientific Reports | (2024) 14:25074 | https://doi.org/10.1038/s41598-024-76449-7 nature portfolio

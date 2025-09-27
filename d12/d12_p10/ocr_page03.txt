@@ -1,0 +1,60 @@
+study utilized records from about 180 tide gauges globally. This is the first-ever study that proposes 3
+real-time tsunami simulations on a global scale using the ADCIRC model and is one of the few
+studies to validate model results using 180 tide gauge records. The fully parallel ADCIRC model : S
+enables real-time simulation of global tsunamis, allowing ITEWS to pinpoint coastal hot spots and Z
+issue prompt warnings, potentially saving lives. =
+3
+a
+3. Methodology 3
+a.
+The major steps involved in the numerical simulation of the tsunami are generation and propagation. =
+Generation includes generating initial disturbance of sea level due to underwater earthquakes using | 5
+the deformation model once the seismic fault parameters such as earthquake location (longitude, |
+latitude, depth), magnitude, fault geometry (strike, dip, rake, length and width) and slip, are obtained. | &
+The Okada deformation model [21] is used in the current study. Propagation is the flow of this —-
+displaced volume of sea surface water under gravity towards the coast. An SWE solver simulates |
+propagation [27] and demonstrates the ADCIRCv55 capability for global simulation of storm tides for =
+two intense storms, Hurricane Katrina and Super Typhoon Haiyan. This article compared ADCIRCv55 IS
+simulations with real-world data for astronomical and storm tides induced by hurricanes; the results : &
+demonstrated good agreement, validating the model's accuracy and reliability. Both tsunami and ~
+storm surges are shallow-water gravity waves, although their generation and forcing conditions yg
+differ [24]. The current article makes use of ADCIRCv55 to simulate the propagation of tsunamis. : &
+This current version of ADCIRC can be downloaded from https://github.com/adcirc. ADCIRC solves i
+the SWEs numerically by discretizing the continuous equations on an unstructured mesh with the
+Finite E method [25]. ADCIRCV55 is the apt choice for the current work compared to its previous
+versions. V55 utilizes an accurate modified form of the SWE in spherical coordinates, capturing the
+essential tide and wave dynamics in deep and shallow waters with varying scales in larger domains
+like the entire globe [27]. To accurately compute the governing equations on the entire globe, the
+model formulation and the code were enhanced [27]. This improvement includes rotating the Earth
+to eliminate pole singularities. V55 introduces new numerical techniques that remove gravity wave-
+based (Courant-Friedrichs-Lewy) stability constraints, which allows for larger computational time
+steps, significantly boosting simulation speed without compromising accuracy. The newly introduced
+semi-implicit time integration scheme is computationally effective and is 1-2 times faster than the
+previous versions of ADCIRC.
+
+The quality and design of the unstructured mesh play a crucial role in successfully solving the
+SWEs with ADCIRC. The global unstructured mesh in the current study is generated using an
+open-source toolbox OceanMesh2D 3.0.0 (Robert et al., 2019). OceanMesh2D is a specialized software
+based on MATLAB that generates ocean meshes compatible with various ocean models, including
+ADCIRC. The software has a user-friendly interface and comprehensive documentation with a
+script-driven automatic mesh generation approach. This automated approach ensures consistency and
+efficiency without manual editing, saving time and reducing potential errors while creating complex
+meshes. It integrates with various data sources, importing bathymetry and coastline information to
+guide the mesh generation process. It also accurately captures complex coastlines and bathymetry,
+leading to more realistic wave propagation and inundation simulations. OceanMesh2D supports
+adaptive mesh resolution by meshing with smaller triangles (fine resolution) in the coastal waters
+and employing larger triangles (coarse resolution) in deeper waters; this adaptive resolution optimizes
+computational resources, leading to faster simulations. The global mesh for global tsunami simulations
+in the current article is built in a stereographic projection centred at the North Pole. This projection
+preserves angles on the sphere, making it well-suited for accurately representing a realistic global
+ocean. The mesh seamlessly wraps around the entire Earth, including an element placed over the
+North Pole. This avoids artificial discontinuities at the poles, which can cause simulation issues. The
+unstructured triangular mesh on the spherical earth accurately conforms to the coastline and covers
+a spatial resolution range of 2-20 km. The OceanMesh2D inbuilt full-resolution Global Self-consistent
+Hierarchical High-resolution Shorelines (GSHHS) dataset [28] is used to define the shoreline boundary
+while generating the mesh. This toolbox can be downloaded from https://github.com/CHLNDDEV/
+OceanMesh2D.
+
+The accuracy and quality of bathymetric data are critical for generating unstructured meshes
+using OCEANMESH2D for ADCIRC simulations. The present study’s bathymetric data is sourced
+from the General Bathymetric Chart of the Oceans (GEBCO) [29] dataset. The GEBCO comprises

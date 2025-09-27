@@ -1,0 +1,134 @@
+I Yell :
+
+JV Space Weather 10.1029/2024SW004126 5
+ADVANCING EARTH
+
+AND SPACE SCIENCES g
+
+_ 100 5
+
+= 50 (a) : \ / 100 (c) OR S
+
+oo 0 hindi | Al f Lt! AT oR | Storm Onset -100 S
+
+: i PL anti 20
+
+2 1 = 100 \ CN 300 =
+
+= oe et W LA RAN TR A \ \ 200 5
+
+Q -200 Ay A W\ -500 B
+
+100 : c AN \: IY hy Es | A\\ N a =
+
+. q] 7 Cw 3 \ \ © -600 2
+
+(b) ——— Observation Q -300 ANE 3 N 5
+
+——— BATSRUS Model a \ Eh - | =4
+
+0 PF wnt 7) LN a
+
+QO -400 Flare Effect \\ 2
+
+-100 | =
+
+- po -500
+
+cE ALP S
+
+T 200 -600 >
+
+c EL a |
+
+ah 7 | ls | (9 26 S
+
+2, 22 a 2
+
+-400 | 2 18 | | :
+
+500 “5 14°\9 Geomagnetic Equatc | 3
+
+3 10 eb 4 B 1z 182 FT :
+
+4 8 12 16 20 0 4 8 12 16 20 © 64 8 12 16 0.11 May 2024 3
+
+UT on 10-11 May 2024 Sh Pp
+
+Figure 3. (a—b) UT variations of vertical and dawn-dusk components of interplanetary magnetic field (IMF B, and By, top panel), and Sym-H (bottom panel). =
+
+(¢) Latitudinal distribution of isturbance in geomagnetic H-component field observed from the Indian network of magnetometers. The latitudes of magnetometer 2
+
+stations are indicated as black dots in Figure 3c. 3
+
+stations and their geographic locations are shown (Figure S1 and Table S1 in Supporting Information S1). The =
+
+disturbance in the horizontal (H-) component at different stations is computed by subtracting the H-component ~~ =
+
+variation of a previously quiet day (9 May 2024) from the variations of storm days (10 and 11 May 2024) for =
+
+the respective stations. It can be noticed that the peak disturbance-H was nearly —600 nT at latitudes close to the
+
+geomagnetic equator and exhibits slightly lower values away from the equator. A sharp positive disturbance in H ]
+
+due to the onset of solar flare around ~0650 UT can also be seen in Figure 3c. This enhancement in H due to the 2
+
+solar flare 1s more prominent (~105 nT) close to the equator, while the amplitudes were reduced sharply at =
+
+latitudes northward of the equator. This equatorial enhancement in H during the solar flare is mainly due to the 2
+
+enhanced E-region conductivity by X-ray photoionization, which will be further amplified at the equator by the S
+
+Cowling effect (Rastogi et al., 1999, 2017; Sripathi et al., 2013). It may also be noted that the magnetometer  £
+
+stations are spread over 70.74°E-92.76°E longitudes (see Figure S1 and Table S1 in Supporting Information S1), :
+
+which may introduce minor local time-dependent variations in E-region conductivities. However, it would not p
+
+much effect the results presented in Figure 3c, as it shows the disturbance H (residual) after the removal of diurnal =
+
+variation, as mentioned above. Hence, the minor differences in the local times, and the resultant differences in E- {
+
+region conductivities (if any) due to longitudinal separation are ignored here.3.2 Key Factors and Possible 5
+
+Mechanisms. :
+
+The factors responsible for this super-intense storm are investigated in Figure 4. The top panel shows the UT =
+
+variation of solar wind dynamic pressure (SWDP), which exhibits several oscillations but has remained at high E
+
+levels (>15 nPa) for several hours since the arrival of the first ICME shock. Here, SWDP = m,N V? where N and d
+
+V are the solar wind density and velocity, respectively, and m,, 1s the proton mass. Figures 4b and 4c show the Bz E]
+
+and By components (black curves) measured from the GOES-18 (137°W longitude, 6.6 RE altitude). Before the -
+
+arrival of ICME, the GOES-18 was well within the Earth's magnetosphere, measuring Bz and By to be around 100 ¢
+
+and 30 nT, respectively. Sudden changes in the Bz and By can be observed with the arrival of ICME at 1705 UT, 8
+
+and within a few minutes, the Bz measured by GOES-18 turned southward. Bz and By measured by GOES-18 4
+
+exhibit rapid fluctuations (due to turbulence) in the magnetic field. The southward turning of Bz and the tur- 3
+
+bulence in Bz and By indicate that GOES-18 was indeed measuring the shocked IMF outside the magnetopause 5
+
+(in the magnetosheath region). The strong SWDP exerted by ICME pushed the magnetopause below the geo- :
+
+stationary orbit (6.6 Rg), exposing the GOES-18 to shocked and turbulent IMF in the magnetosheath region. Zz
+
+The red curves in Figures 4b and 4c are the IMF Bz and By measured by DSCOVR satellite at L1. Here, the Bz ~~ §
+
+and By from DSCOVR are multiplied by 4 for a better comparison with GOES-18 observations. It is interesting to 2
+
+see that the Bz and By from GOES-18 at 6.6 Rg followed similar variations to those from DSCOVR at L1. These = =
+
+Q
+
+:
+
+EEE EEE EEE EEE EEE EE EEE E—————————.
+
+=
+
+TULASI RAM ET AL. 5of 14  ¢

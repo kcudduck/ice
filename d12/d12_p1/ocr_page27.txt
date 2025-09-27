@@ -1,0 +1,24 @@
+Start
+Input Data
+Initial Flow
+Condition
+Sediment
+Source
+No
+y
+Tsunami No
+Inundation
+Yes
+Sediment
+. —————>
+Formation
+Yes
+Speed
+Calculation
+Wave
+Reconstruct
+Output
+Result
+Figure 2: Flowchart for TSUFLIND'’s iterative scheme to simulate tsunami de-
+posit and estimate tsunami flow condition.
+27

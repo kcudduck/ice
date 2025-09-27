@@ -1,0 +1,21 @@
+Remote Sens. 2024, 16, 3497 22 of 22
+
+36. De Abreu, A.J; Fagundes, P.R.; Sahai, Y.; De Jesus, R.; Bittencourt, J.A.; Brunini, C.; Gende, M.; Pillat, V.G.; Lima, W.L.C;
+Abalde, J.R.; et al. Hemispheric Asymmetries in the Ionospheric Response Observed in the American Sector during an Intense
+Geomagnetic Storm. |. Geophys. Res. 2010, 115, 2010JA015661. [CrossRef]
+
+37. Terete, D.A.; Nigussie, M. Spatio-Temporal Evolution of Global Ionospheric Storm Drivers and Hemispherical Asymmetry
+During 17-18 March 2015 Geomagnetic Storm. JGR Space Phys. 2021, 126, e2021JA029348. [CrossRef]
+
+38. Yu, T,; Cai, X,; Ren, Z.; Wang, Z.; Pedatella, N.M.; Jin, Y. Investigation of Interhemispheric Asymmetry of the Thermospheric
+Composition Observed by GOLD During the First Strong Geomagnetic Storm in Solar-Cycle 25, 1: IMF By, Effects. JGR Space Phys.
+2023, 128, €2023JA031429. [CrossRef]
+
+39. Wang, J.; Shi, Y.; Yang, C.; Feng, FE. A Review and Prospects of Operational Frequency Selecting Techniques for HF Radio
+Communication. Adv. Space Res. 2022, 69, 2989-2999. [CrossRef]
+
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+
+people or property resulting from any ideas, methods, instructions or products referred to in the content.

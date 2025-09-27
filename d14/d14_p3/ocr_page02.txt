@@ -1,0 +1,60 @@
+Evaluating the relationship between strong ge... https://www.swsc-journal.org/articles/swsc/fu...
+conduc FartDBoee ou agree that EDP Sciences may store web audience measurement cookies and, on some pasa etic storms in Yes | No
+cookies from social networks. More information and setup J space Weather Space tim. 2021, 11,
+Key words: solar activity / geomagnetic storms / computed geoelectric field in Poland / transmission lines/ 37
+network failures More
+Bookmarking
+© A. Gil et al., Published by EDP Sciences 2021 .
+f X in 3
+This is an Open Access article distributed under the terms of the Creative Commons Attribution
+EY License (https://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution,
+and reproduction in any medium, provided the original work is properly cited. & Reader's services
+A Email-alert
+1 Introduction
+Display equations as:
+Powerful solar phenomena are the drivers of large-scale time variations of currents flowing in the Earth's mage
+ionosphere and magnetosphere (e.g., Pulkkinen et al., 2012; Carter et al., 2015). Magnetic variations during
+geomagnetic storms tend to be larger at higher latitudes. However, very powerful space weather events have Top
+caused intensive geomagnetic disturbances also at the middle and low latitudes. As an example, we can Abstract
+mention the damages to some transformers, e.g., in the South African region as a result of the Halloween 1 Introduction
+storm (Gaunt & Coetzee, 2007) or in New Zealand during the November 2001 storm (Marshall et al., 2012). 2 Data
+Lotz & Danskin (2017) showed that for the middle-latitude stations, the Dst geomagnetic index can be used as 3 Methodology
+a proxy for the cumulative induced E field. 4 Analysis results
+5 Discussion
+Recently, the functioning of electrical power networks under the influence of space weather effects was 6 Conclusions
+extensively studied also in Europe: in the Czech Republic (Vybost'okova & Svanda, 2019; Svanda et al., 2020), Acknowledgments
+in Italy (Tozzi et al., 2018, 2019; Piersanti et al., 2020), in Greece (Zois, 2013), in Spain (Torta et al., 2012) and in References
+Austria (Bailey et al., 2018). Besides European studies, Schrijver et al. (2014) found an increase in the number List of tables
+of insurance claims in United States around time of space weather events. List of figures
+Svanda et al. (2020) and Vybost'okova & Svanda (2019) showed that the 5-10% increase of failures in the
+Czech power grid recorded in the 5-day period following the enhanced geomagnetic activity is possibly linked
+to geomagnetically induced current (GIC) effects. Svanda et al. (2020) presented that failures in power lines
+were growing immediately (within 1 day). Failures regarding transformers were generally delayed by 2-3
+days, still allowing the operation of power systems without registering problems until the cumulative damage
+reached a sufficient level (more details in Kappenman, 2013; Wang et al., 2015).
+Tozzi et al. (2018) reconstructed a latitudinal profile of maximum GIC indices for several geomagnetic storms
+for different locations. They showed that the latitudinal variability of GIC intensity is almost the same for all
+considered storms. Tozzi et al. (2019) studied the possible impact of space weather events on the Italian
+territory by computing the GIC index for the 2015 St. Patrick's Day storm. Detrimental GICs could flow
+through the power network, especially at the highest Italian latitudes characterized by a low conductivity
+lithosphere. Zois (2013) found the correlation between solar activity and the annual number of transformer
+failures in Greece for 1989-2010.
+The main impact of GIC is system instability. It appears due to high levels of VAR (volt-amp reactive) and
+significant current harmonics as a result of the transformer core part - cycle semi - saturation (Girgis &
+Vedante, 2012). GIC as a function of time can be coupled with transformer temperature models to follow the
+winding hot spot temperatures throughout the storm. It is reasonable to expect that most of the transformer
+failures during an extreme geomagnetic storm would come from the population that has exceeded a critical
+temperature threshold (Oughton et al., 2019). The hotspot temperature profile simulation for specific
+transformers impacted by GIC based on the fitted analytical function was proposed by Marti et al. (2013).
+Another critical issue is the loss of transformer life due to overheating during a storm. Even a transformer
+whose winding hotspot remained below the critical temperature threshold may sustain insulation damage,
+which reduces the transformer’s lifetime. This additional loss-of-life in years is essential as the reason for
+aging electrical equipment. Threats of aging electrical equipment and components reduce their efficiency,
+being potentially dangerous. Overheating in electrical enclosures can shorten the life of the equipment or
+worse, leading to costly downtime (Vybost'okova & Svanda, 2019).
+In our previous paper (Gil et al., 2020a), we computed the geoelectric field for Poland using the method by
+Viljanen & Pirjola (1989). Basing on the data of electrical network failures in Southern Poland in 2010 and the
+first seven months of 2014 and using various geomagnetic storm indicators (e.g., sudden storm
+commencement, Kp > 5 and fast halo coronal mass ejecta appearance) we showed a grow in the number of
+failures around that time. In this paper, we study the influence of intense geomagnetic storms on the
+2 of 15 27/09/2025, 18:16

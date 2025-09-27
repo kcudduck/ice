@@ -1,0 +1,52 @@
+Remote Sens. 2024, 16, 3497 13 of 22
+ULF ELF
+0.35 0.2
+03 (a) (b)
+0.25 | $0.15 |
+2 0.2 Segoe” Seow a eongon 2 Co | | mn |
+§ 015 | aN E o hatiieeress une
+S047) > 0.05 |
+0.05
+i
+0.0 5.3 10.3 15.6 20.0 0.0 0.6 1.2 1.8 2.5
+freq (Hz) freq (kHz)
+VLF HF
+0.04
+ors] | (c) (d)
+S | | | 0.03
+§ 0.1 a Phy | g |
+E | Ar pb, §°" |
+50.05 | | Nol, 5 |
+dg hi, ly | I rm TT
+0.0 6.2 12.5 18.7 25.0 0.0 1.2 2.5 3.7 5.0
+freq (kHz) freq (MHz)
+Figure 11. Maximum growth rate curve: (a) ULF, (b) ELF, (c) VLE, (d) HE.
+3.8. Wavelet Coherence (WTC) Analysis
+From the analysis above, it is clear that the ULF frequency band exhibits the strongest
+response to magnetic storms. To determine the correlation between different frequencies
+in the ULF band and magnetic storms, wavelet coherence analysis was performed on the
+Dst curves and D value curves at various frequencies. We obtained wavelet coherence
+spectrograms for the 22°5-65°5, 22°5-22°N, and 22°N-65°N regions. Spectrogram values
+approaching 1 indicate high-energy regions (yellow areas), which represent strong correlations.
+In the wavelet coherence spectrograms of Dst versus D value curves for the 22°5-65°S
+range (Figure 12), there are significantly more high-energy zones at 2.9 Hz, 3.9 Hz, and
+4.9 Hz compared to other frequencies. High-energy regions are clearly observed near
+periods 4 and 16. Small, high-energy regions are noted at 11.2 Hz and 13.2 Hz (Schumann
+wave frequency point) near periods 4 and 16, while 8.8 Hz shows almost no high-energy
+regions. The frequencies 2.9 Hz, 3.9 Hz, and 4.9 Hz exhibit the strongest correlations with
+magnetic storms and are significantly perturbed by their effects. In contrast, at 8.8 Hz, the
+correlation with magnetic storms is very weak, indicating minimal impact from the storms.
+In the 22°N-65°N range, high-energy regions remain more prominent at 2.9 Hz, 3.9 Hz,
+and 4.9 Hz compared to other frequencies (Figure 13). The periods of these high-energy
+regions are approximately 4 and 16. In contrast to 22°5-65°S, 7.8 Hz and 13.2 Hz also
+exhibit distinct and prolonged high-energy regions at period 16. Since these two frequencies
+correspond to Schumann wave frequencies, Schumann waves are more affected by magnetic
+storm perturbations in the northern hemisphere compared to the southern hemisphere.
+In the 22°5-22°N range, no high-energy regions are observed during the main phase
+of the magnetic storm, either at the 0-5 Hz frequency range or at the Schumann wave
+frequency (Figure 14). The D value curves in this latitude range show a weak correlation
+with the Dst curves. The correlation between electric field disturbances and magnetic
+storms at mid and low latitudes is not significant, indicating that magnetic storms do
+not directly or significantly induce electric field disturbances in the ionosphere at these
+latitudes. In contrast, electric field disturbances at high latitudes are strongly correlated
+with magnetic storm activity.

@@ -1,0 +1,39 @@
+2.2 Volterra’s theory of dislocations == 5
+We find
+A oF Lil j LL 9 Oki + Oki Ti — 03; Tk
+“(POO)=—-—|3——4 ————— ~~ |
+735 0) = ( ro LS rs
+The components of the force per unit area on a surface element are denoted
+as follows:
+IT; — oy ‘Vj,
+where the v;’s are the direction cosines of the normal to the surface element
+Sokolnikoff and Specht [1946]. A Volterra dislocation is defined as a surface
+>. in the elastic medium across which there is a discontinuity Aw; in the
+displacement fields of the type
+Au; = uf —u; =U; + Qin, (3)
+ij = —y (4)
+Equation (3) in which U; and §2;; are constants is the well-known Weingarten
+relation which states that the discontinuity Aw; should be of the type of a
+rigid body displacement, thereby maintaining continuity of the components
+of stress and strain across X..
+The displacement field in an infinite elastic medium due to a dislocation
+of type (1) is then determined by Volterra’s formula Volterra [1907]
+1 k
+ur (yt, Y2, ys) c= uk (yi) — I Au; T; ds. (5)
+3
+Once the surface XJ is given, the dislocation is essentially determined by
+the six constants U; and );;. Therefore we also write
+U, €);;
+ug (yr) — T // or (P, Q)v,;dS + a [[ taser Q) — x07 (P, Q) tv, dS, (6)
+3 3
+where ();; takes only the values (219, {2o3, {23;. Following Volterra Volterra
+1907] and Love Love [1944] we call each of the six integrals in (6) an ele-
+mentary dislocation.
+
+It is clear from (5) and (6) that the computation of the displacement field
+ur (Q) is performed as follows: A force Fle; is applied at (J, and the stresses
+03 (P, Q) that this force generates are computed at the points P(z;) on ¥. In
+particular the components of the force on > are computed. After multipli-
+cation with prescribed weights of magnitude Au; these forces are integrated
+over > to give the displacement component in ¢) due to the dislocation on
+>.

@@ -1,0 +1,59 @@
+Remote Sens. 2024, 16, 3497 17 of 22
+magnetic storm reached an extreme value at 4.4 Hz). After reaching the extreme value,
+the D values began to fluctuate and then decrease. In the northern hemisphere, the five
+magnetic storms generally reached an extreme value around 2.9 Hz (e.g., the 11 May 2024
+storm reached 4.8 Hz), after which the D values began to fluctuate and decrease. The
+magnetic storms of 27 February 2023 and 6 November 2023 exhibited extreme values at the
+Schumann resonance frequency of 13 Hz. Within the 0-5 Hz range, the magnitude of the D
+values of the five magnetic storms was generally negatively correlated with the magnitude
+of the Dst values, with the exception of the 24 April 2023 storm, which had a relatively small
+D value in the northern hemisphere. In the ULF band, the disturbance extreme frequencies
+of the magnetic storms were predominantly distributed around 3.9 = 1.0 Hz, with a few
+storms showing extremes near the Schumann resonance frequency of 13 Hz.
+
+Table 2. Date and Dst minimum.
+Number Date Dst Minimum (nT)
+1 2021.11.04 —105
+2 2023.02.27 —132
+3 2023.04.24 —209
+4 2023.11.05 —172
+5 2024.05.11 —409
+\ South ) North
+-- 2021-11-04
+a 2023-02-27
+MAA A A 3.5 rt - = 2023-04-24
+2.5 i 5 in EY d 1 ey / |
+i | EER Faun FER, =i : 2024-05-11
+r a ie : 1 | ] ; ‘ h
+& 2 H = h ys '” \
++ { ! | RN _ . 2.5 N i | v
+3 1 : 3 ai aN }
+! 10 RAT
+|
+05H | 3.9Hz | «29Hz
+1 0.51
+} i!
+| !
+0! o Lt |
+0.0 5.0 10.0 15.0 20.0 0.0 5.0 10.0 15.0 20.0
+freq (Hz) freq (Hz)
+Figure 17. Frequencies of significant disturbances in multiple magnetic storms.
+
+The ULF band exhibited significant perturbation enhancements near 8 Hz and 13 Hz,
+in addition to the strong perturbation observed in the 0-5 Hz range. These perturbations
+were also present during quiet periods. According to Sanfui [32], the maximum values of
+the Schumann resonance first-, second-, and third-order mode frequencies were 8.51 Hz,
+14.71 Hz, and 21.22 Hz, respectively, and constant perturbations from Schumann waves
+were clearly observed in this context as well. Therefore, the perturbations near 8 Hz
+and 13 Hz identified in the D value analysis of the ULF band were primarily due to
+Schumann waves. These Schumann waves were also enhanced by magnetic storms, with
+the enhancement at 13 Hz being greater than at 8 Hz. Additionally, there were hemispheric
+differences in Schumann waves: 8 Hz predominated from 22°S to 65°S, while 13 Hz
+predominated from 22°N to 65°N.
+
+4.3. Equatorial Ionospheric Anomaly
+
+Magnetic storms primarily atfect middle and high latitudes, but they also impact
+equatorial and low latitudes. In the PSD analysis presented in Section 3.1, the ULF band
+exhibits a notable disturbance enhancement at middle and low latitudes, though not as
+pronounced as in the ELF and VLF bands. The D value analyses covering the range of 22°S

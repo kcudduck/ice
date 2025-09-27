@@ -1,0 +1,25 @@
+1. Introduction
+Major disturbances of the magnetosphere, or geomagnetic storms, are a consequence of
+solar activity, and represent a serious hazard to our technology dependent society. On 2
+September 1859, the Colaba observatory measured the most extreme geomagnetic
+disturbance ever recorded at low and mid latitudes. Although at that time the magnetic
+observatories used to produce Dst were not 1n operation, the Dst minimum value for this
+event was first estimated by Siscoe [1979] about —2000 nT. More recently, Lakhina et
+al. [2005] and Cid et al. [2013] provided new estimations of —1760 nT and —685 nT,
+respectively. In any case, the so-called Carrington storm 1s ranked, according to the Dst
+index, as the most extreme geomagnetic storm ever recorded.
+A large amount of guesswork that has been done concerning the Carrington storm:
+inferring the estimation of the minimum Dst index just from one observatory [Akasofu
+and Kamide, 2005; Cid et al., 2013; Li et al., 2006; Siscoe et al., 2006; Siscoe, 1979;
+Tsurutani et al., 2003, 2005]; estimating the flare intensity from its ground effect
+[Cliver and Svalgaard, 2004; Clarke et al., 2010; Boteler, 2006]; identifying the
+interplanetary trigger (ICME, sheath, successive ejections) [Tsurutani et al., 2003,
+20035; Siscoe et al., 2006; Manchester et al., 2006]; discussing the relevance of
+ionospheric versus magnetospheric effects on the disturbance [Akasofu and Kamide,
+2005; Siscoe et al., 2006; Green and Boardsen, 2006; Tsurutani et al., 2005], etc.
+In October 2003, during the first Halloween storm, Tihany magnetic observatory (THY:
+MLat 45.87°, MLong 100.06°) in Hungary recorded a geomagnetic disturbance with an
+extraordinarily similar profile to that recorded at Colaba in 1839, but this time with a
+large dataset available from modern solar, interplanetary and terrestrial surface
+observatories. Although there 1s a large difference between the magnetic latitude of
+2

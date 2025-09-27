@@ -1,0 +1,29 @@
+struction results ranges from 0 to 6 in ¢ scale, so the portions of simulation
+results that are outside of this window are not plotted in Figure 3a. The
+number of vertical intervals separated decrease away from the shoreline as
+the sediment thickness decreases to zero. These simulation results show some
+features similar to the field observation, such as fining inland and upward.
+
+Based on the grain-size distribution for each vertical interval shown in
+Figure 3a, the sediment parameters used to describe the deposits can be
+calculated. Taking the sample from 120 meters inland as an example, we
+calculate the mean grain size, kurtosis, skewness and sorting factor for each
+interval. In the bottom several centimeters, the mean grain size does not
+change significantly and is about 1.2 in ¢ scale. Then the mean grain size
+decreases upward to 2.2 in ¢ scale. The change in kurtosis is about 0.8 to 1.1
+in this sample, which indicates the grain-size distribution has a wider grain
+size range than a normal distribution. Sediment simulation results in this
+example also show that tsunami sediment changes from moderate sorting at
+the bottom to well sorting at the top where fine grains become dominant.
+Also the grain-size distribution is positively skewed which indicates that the
+distribution is skewed to fine grains.
+
+3.3. Hydrodynamic Inversion Results
+[Figure 4 about here]
+
+After reconstructing grain-size distributions, TSUFLIND calculates the
+How speed and Froude number at the sample locations. In the test case, Fig-
+ure 4a and 4b show the flow speed and Froude number distribution along the
+slope. The average flow speed decreases from 4.7 ms™! at 150 meters inland
+
+13

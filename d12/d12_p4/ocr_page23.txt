@@ -1,0 +1,90 @@
+Yell : =
+MI Journal of Geophysical Research: Oceans 10.1029/2020JC017011 2
+AND SPACE SCIENCE 2
+Using Equation 6 and Equation BS, the pressure change at the sea bottom is :
+1 I _iot | . A, (%,) i(k x+k ») :
+
+p(x, y,hy,t)=——|dwe™ —— ||\dk dk, ———=U _|k_,k hyo )ke* 5
+
+( ° ) ys) (27) JJ ’ A, (hy) mo :
+
+B9)  ¢
+
+| (kort tanh(kh,) 1 7% ©’ ol)? =
+
+— — [[dk.dk,e (k. 9) pp PI) Lior 2 _ LE {La B]
+
+(27) 7 kh, 2m° 0-0, OO —0, g
+
+Using the residue theorem (see Appendix A), we calculate Equation B9. However, we should note that we 5
+cannot directly apply the residue theorem for the integral in Z
+27 —o > — wp =
+
+that appears in Equation B9 because integration along the semicircular path does not yield zero. Therefore, Z
+instead of Equation B9, we consider the following integral: >
+1 7 1 1 1 Z
+
+— | dwe™™” ———— = —(1 —cos(wyt)|H(1). g
+
+27 Ww — wo; 1) = ’ ) (BID >
+
+Note that we calculated this in Appendix A with the residue theorem. By differentiating the left-hand side g
+of Equation B11 twice with respect to time, we obtain the left-hand side as =
+1 | dowe LC B :
+
+27 —o w° — wp ( 12) :
+
+2
+
+:
+
+and the right-hand side as 5
+Q
+
+a | 1 d| 1 :
+
+—| — 1 —coslwyt)|H(t)| = —| —sin(wyt |H (|?) + — (1 — cost) |O(? =
+0c) | = | Lino) 0) + cnn)
+
+JT 1 | (B13) S
+
+= —| —sin(wyt |H(t) | = cos|wyt | H(t) + —sin{wyt)o (? J
+
+Lions) (1) = cos{ong) (0) + sien) 1)
+
+= cos (wot )H (1) BE
+
+Therefore, we obtain :
+1 5 iw :
+
+— | dwe™ ———— = cos(wyt | H (1 =
+
+— ar cole) () (B14)
+
+Again, we differentiate Equation B14 twice with respect to time and obtain E
+1 | doen TO” = 4 Toso ()H(t) = LA sin( t) H(t) + cos (w 1)5(¢)| ]
+
+mw aw del ark : ]
+
+d 4
+
+— ~~, sin(wyt) H (1) + 5(r)] :
+
+(B15)  o
+
+= —g cos (wot) H (1) — sin(wyt)5 (1) + 41) :
+
+0) ’
+
+dé (t ;
+
+2 5
+
+= —@ cos|myt H(t) + ———. Z
+
+3 cos(ant)H(1) +
+
+:
+
+RRR RRR EEEEEEEEERRRRREEREREEEEEES—SSSS—SNS—S—————————— :
+SAITO ET AL. 230f29  §

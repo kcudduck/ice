@@ -1,0 +1,68 @@
+2162 H.S. Kang, C.-H. Song / Nuclear Engineering and Design 240 (2010) 2160-2168
+(a) Axially Symmetric Turbulent Flow (b) Similarity Solution (dimensionless)
+3
+Radial NT
+4 oe 0.8
+v al he
+— LH — } . |
+—
+— 7 BN Es C
+== Axial 7 ~
+——
+~~ 0.2
+~~ » :
+~~ ie, Fs
+~ 0.0 a
+Sa pl NE J TO PE FE
+fd 00 05 10 15 20 25 30 35
+® (= y/ax)
+Fig. 1. Axi-symmetric turbulent source’ solution (Abramovich, 1963).
+Movable
+Measurement Spool
+Demi. Water Venluri Meter cv
+sv
+3 GIRLS Tank || unit: mm so
+| mnals= +
+Over _ CE gs UR bromine
+Flow d
+I ci
+Feed Fi
+Pump Steam alg
+Generator OB
+i ee Test Mo I Axial (x)
+) 4) Bs | Frot Tubs Si
+pa o” Window Bs ==
+DAS Drain _ Pexiglass Ty] - 5% 8 ;
+To 1 3
+1800
+Fig. 2. Schematic diagram of the GIRLS facility.
+Table 2
+Experimental matrix.
+Temp. of tank water (°C) Mass flux (kg/m? s) and temp. of steam (°C) Axial measuring location (cm) Radial measuring location (cm)
+Case-1 15.0-22.4 G=999.9+10.2, Ts=165.6 0.6 8,12,16 0-2.25(Ay=0.25)
+Case-2 27.4-35.2 G=997.9+11.5, Ts=165.8+0.6 8,12, 16 0-2.25 (Ay=0.25)
+Case-3 31.1-35.6 G=1008.1+24.9,T;=166.2 + 1.2 8,12, 16 0-1.75 (Ay =0.25)
+Case-4 36.4-40.6 G=1002.7 +29.8, Ts =166.0 + 1.4 8,12, 16 0-1.75 (Ay =0.25)
+Case-5 38.8-47.6 G=991.3+19.2, Ts=165.7+1.0 8,12, 16, 20 0-2.75 (Ay =0.25)
+3.3. Experimental results and discussion
+Fig. 3 shows the trend of the velocity decay at the jet centerline.
+This is because the width of the jet is increased as the turbulent jet
+propagates downstream along the axial direction. This flow pattern “E 10 —u— Case
+° ° ° ° ° ° ° [=]
+is very similar to that of a single phase jet. In Fig. 3, the velocity val- L Fh —e— Case2
+ues at the axial locations of 12, 16 and 20 cm, normalized by the —~- 0.9 A + Case3
+values measured at 8 cm, are shown and compared with the veloc- IC RO —v— Cased
+ity value predicted by the relation of Uy /U, in Table 1 based on = 08 EON + Cases
+Tollmien’s theory. During the normalization process, the depen- S EN
+dency of the coefficient of ‘a’, which is a measure of the mixing = 0.7 RON
+length in the turbulence model, disappear. The predicted values = iia Pa) SON N
+. , o OJ . This, BRON
+by Tollmien’s theory are less than about 10% of the test results. @ Tollmien's Theory ™.. - | ~
+@ 0.5 EN 3:
+Table 3 o Te
+Information on the instrumentations. Z 04 hi
+Measurement variable Number Uncertainty (%) 8 10 12 14 16 18 20
+[EMpPEraEue 2 Abe Axial Distance from Single-Hole (cm)
+Static pressure 2 +0.05
+Volumetric flow 1 £1.35 Fig. 3. Comparison of the measured velocity at the centerline with Tollmien’s the-
+Velocity (Pitot tube) 1 +2.0 ory

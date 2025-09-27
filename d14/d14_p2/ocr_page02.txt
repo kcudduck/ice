@@ -1,0 +1,64 @@
+880  T. Okita and Y. Kojima
+of the stellar rotation. The former will come true when the plasma 7
+gas 1s trapped by closed magnetic field lines, and the latter will be
+realized without any other force. In any case, it might be inadequate (3) B
+at least 1n the following two points to place such strong constraints
+on the wave mode and on ambient circumstances of the star in the Cm
+previous paper. First, under more realistic situations various modes
+with azimuthal wavenumber m >> 1 are probably triggered by star- 0) C DD
+quake. Secondly, it 1s natural to assume that a scaleheight of the
+plasma gas is neither L = 0 nor L — 00, but has a finite value of L.
+Huang, Dai & Lu (1998) pointed out that a relativistic fireball like |=
+those in classical GRBs may exist in SGRs. Recently, Thompson &
+Duncan (2001) have also suggested that after the initial hard spike 0) C S
+emission, some lumps of hot plasma gas involving electron—positron -
+pairs and high-energy photons, that 1s, a fireball, would be created |= 2
+on closed magnetic field lines. In fact, the fast decline and complete -
+evaporation on X-ray light curve observed in the August 27 burst >
+provides clear evidence of the trapped fireball. Motivated by this, 3
+we thus extend our study to include some plasma gas spreading over Figure 1. Three-layered cylindrical model. Region (1) corresponds to the 3
+the stellar surface. rotating neutron star crust with a constant angular velocity 2, region (2) =
+The main aim of this paper is to study the physical behaviour corresponds to the fireball as a resonant cavity filled with plasma corotating =
+of the torsional Alfvén waves with azimuthal wavenumber m in with £2, and region (3) denotes a static pure vacuum. £
+the presence of corotating plasma confined within a certain finite S
+distance L, and then to investigate the effects of these quantities 3
+m and L on the wave propagation and transmission. In Section 2, 1s filled with p ure vacuum only. Up to the present time, we have no =
+our model 1s self-consistently constructed and the relevant basic observational information of the p lasma S12€ L. In this work, L 1s 0
+equations are formulated. These equations are almost the same as regarded as a free parameter nh order to investigate its effect on the =
+those derived in Kojima & Okita (2004), but are summarized here for Wave prop agation and transmission. Co 3
+the paper to be self-contained. In Section 3, we derive the dispersion We now sve SOME comments on the validity of this mode] by 3
+relation in a Wentzel-Kramers—Brillouin (WKB) way to show that comparing the physical S12E5 @pe, q and L with the stellar radius R. 3
+the rotating plasma atmosphere plays a crucial role as a resonant In this model we have explicitly assumed that the local magnetic field 2
+cavity of the wave when a certain condition holds. In Section 4, has a ¢-comp onent only. Our model can be applied to the polar cap =
+transmission rates of the Alfvén waves are numerically calculated. teen, whose cylindrical radius @pe 18 given by wpe = R sin pe ~ >
+In Section 35, their electromagnetic field structure 1s also discussed 10°(1'/1 5) cm < R = 10° cm. Curvature of the stellar surface x
+with the numerical results. In Section 6, we give a brief summary of and the magnetic field lines may be neglected within the polar cap <
+our findings and their implications for the torsional Alfvén waves region. In 4 similar way, It may be valid to assume that the local =
+on rotating magnetars. magnetic field lines are uniform if the thickness of each layer 1s =
+smaller than the star radius, L, g << R. We can also extend our x
+model to the extreme case L ~ R. Even 1n this case, the validity of <
+2 ELECTROMAGNETICS ON ROTATING this model nevertheless holds good near the z-axis. In the remainder >
+MAGNETARS of this paper we restrict our explicit calculations only to the axially °
+symmetric small region within the polar cap radius, unless otherwise ®
+2.1 Model stated. o
+Both the magnetic field and the rotation of a star lead to a compli- N
+cated geometrical configuration. In this paper we assume some sim- 2.2 Linear perturbation a
+plified conditions to understand the physical processes of the wave T
+propagation. We here consider a three-layered cylindrical model In this section, we consider the propagation of torsional shear- =
+with radius ww. It 1s composed of the neutron star crust between Alfvén waves with various azimuthal modes on rotating magnetars. N
+z = —q and z = 0 (region 1), corotating plasma above the stellar Such waves are probably excited by the turbulent motion of the Q
+surface between z = 0 and z = L (region 2) and static pure vacuum starquake 1n the deep crust, but above the neutron drip (z > 7,9 7
+at z > L (region 3) as shown in Fig. 1. The plasma gas filled in the —10° cm). Many proposals for the starquake model have been put
+atmosphere corotates with the crust at the same angular velocity £2. forward (e.g. Pacini & Ruderman 1974), but all of them are generally
+Local magnetic fields permeate uniformly in each layer and point argued only for weakly magnetized neutron stars with 10''-10'* G.
+along the z-direction, B = B,e,, which represents open magnetic Therefore, their treatments are inadequate for magnetars, as they are.
+fields extending to infinity. However, an analogous mechanism may also occur in magnetars. In
+Alfvén waves excited at the bottom of the crust g &~ 10° cm, owing this paper, we do not discuss the triggering mechanism of the star-
+to some mechanisms, travel upward along the local magnetic field quake itself, but focus only on the process by which electromagnetic
+lines. They are partially reflected and transmitted at the boundaries shear waves, once generated, are propagated and transmitted from
+z = 0 and z = L, where the physical property of Alfvén waves sig- the deep crust, through a magnetized plasma, toward the vacuum
+nificantly changes because of the effect of the background rotation, exterior.
+as shown below. This model, by setting LL — 00, reduces to the case We assume that the horizontal Lagrange displacement § = (§ ,,
+in which the plasma gas extends infinitely to the exterior of the star, ¢ 4, 0) is suddenly shaken in the deep interior at depth ¢ ~ 10° cm;
+while setting LL — 0 reduces to the simple case in which the exterior nevertheless, the matter remains immobile 1n the vertical direction
+© 2005 The Authors. Journal compilation © 2005 RAS, MNRAS 364, 879-890

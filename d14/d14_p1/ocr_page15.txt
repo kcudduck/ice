@@ -1,0 +1,30 @@
+Tsurutani, B. T., and W. D. Gonzalez (1995), The future of geomagnetic storm
+predictions: Implications from recent solar and interplanetary observations, J.
+Atmosph. Sol. Terr. Phys., 57, 1369-1384.
+
+Tsurutani, B. T., W. D. Gonzalez, G. S. Lakhina, and S. Alex (2003), The extreme
+magnetic storm of 1-2 September 1859, J. Geophys. Res., 108 (AT), 1268,
+do1:10.1029/2002J A009504.
+
+Tsurutani, B. T., W. D. Gonzalez, G. S. Lakhina, and S. Alex (2005), Reply to comment
+by S.-I. Akasofu and Y. Kamide on ‘‘The extreme magnetic storm of 1-2
+September 1859,” J. Geophys. Res., 110, A09227, do1:10.1029/2005JA011121.
+
+Tsyganenko, N. A., and M. I. Sitnov (2005), Modeling the dynamics of the inner
+magnetosphere during strong geomagnetic storms, J. Geophys. Res., 110,
+A03208, do1:10.1029/2004JA010798.
+
+Tsyganenko, N. A. (2013), Data-based modeling of the Earth’s dynamic
+magnetosphere: a review, Ann. Geophys., 31, 1745-1772, do1:10.5194/angeo-31-
+1745-2013.
+
+Wang, H., Liihr, S. Y. Ma, J. Weygand, R. M. Skoug, and F. Yin (2006), Field-aligned
+currents observed by CHAMP during the intense 2003 geomagnetic storm
+events, Ann. Geophys., 24, 311-324.
+
+Yu, Y., A. J. Ridley, D. T. Welling, and G. Toth (2010), Including gap region
+field-aligned currents and magnetospheric currents in the MHD calculation of
+ground-based magnetic field perturbations, J. Geophys. Res., 115, A08207,
+do1:10.1029/2009JA014869.
+
+15

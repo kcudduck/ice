@@ -1,0 +1,90 @@
+I Vad B =
+MI Journal of Geophysical Research: Oceans 10.1029/2020JC017011 2
+AND SPACE SCIENCE E
+
+Dispersion a
+
+(a) :
+
+° 1/2 :
+
+£ of atom Verh) | gos 6008
+
+FA I ES :
+
+& iy) ~~ a =
+
+- I EE A
+
+= S
+
+ZS I ER EE A
+
+6 =
+
+50 0 50 100 150 =
+
+Distance [km] =
+
+(b) No Dispersion .
+
+6 =
+-a=10km, V;: (Goh)? /2 400s | /\ 600s Z
+
+'c 4 d= 10km, Vo (90h) 400s /\ 600s z
+
+= I Et A WR V/A
+
+c 2 /\ y :
+
+SY ER Ne WI N/A RE RE
+
+s rN" N/T ;
+
+Se 2
+
+A I EE I NR :
+
+5 _4 3
+
+EN EE EE EE A s
+
+6 4
+
+50 0 50 100 150 7
+
+Distance [km] 2
+
+:
+
+Figure 7. Tsunami height distributions for various elapsed times (+ = 200, 400, 600 s). (a) The source is given by E
+Equation 57 where the peak pressure change is P, = —1 mH,0 (~ —-9.8 kPa), the duration is 7" = 30 s, the spatial Ei
+scale is given by a = 10 km, and the velocity is given by V;, = 0.20 km/s (= 1.0,/g,h, and hy = 4 km). (b) Instead of z
+the dispersion relation @, = ,/gyk tanh (kz ) (Equation 26), we set @, = k4/gyh, in this simulation to remove wave 2
+dispersion. Other parameters are the same as those in Figure 7a. 5
+Z
+
+we recognized that dispersion appears when the wave propagates over long distances. Figure 7 compares g
+the tsunami height distributions at various elapsed times for dispersive and nondispersive simulations. We ]
+found that the maximum tsunami height is attenuated more due to dispersion. The attenuation effect due :
+to dispersion is recognized also in the case of Vj, = 1.1,/g,h, (Figures C2c and C3c in Appendix C). On the =
+other hand, in the case of Vj, = 0.9,/g,h, (Figure 8), the first negative wave becomes smaller, whereas the :
+maximum height of the second wave becomes higher due to dispersion. It is interesting that the dispersion :
+possibly enlarges the maximum tsunami height for the moving pressure change source, although it reduces g
+©
+
+the maximum sea-surface height of tsunamis arising from thrust fault earthquakes (e.g., Saito et al., 2014). =
+A dispersive-tsunami amplification was also reported for normal fault earthquakes (Baba et al. 2020) and &
+landslide tsunamis dominated by short-wavelength waves (Baba et al., 2019). 2
+Equations 67 and 68 show that pressure change is given by the sum of two contributions: sea-surface height :
+change and pressure change loaded at the sea surface. When the wavelength was long, we approximated z
+Oo
+
+Equation 67 as Equation 68. However, when the wavelength is short, we cannot use Equation 68. The >
+factor 1/ cosh (kh ) works as a low-wavelength-pass filter for the ocean-bottom pressure change. Tsunamis 5
+for which the wavelength is much shorter than the sea depth (kA, > 1) do not contribute to ocean-bottom
+pressure change. :
+4. Conclusions T
+We formulated 3-D tsunami generation by pressure changes on the sea surface in an incompressible sea. :
+We simulated the tsunami generation by a growing pressure change at a fixed location. We found that a :
+SAITO ET AL. 190f29  §

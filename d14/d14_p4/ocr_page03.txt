@@ -1,0 +1,24 @@
+YERMOLAEV ET AL.: GEOEFFECTIVENESS AND EFFICIENCY X-3
+1. Introduction
+One of key issues of the solar-terrestrial physics is investigation of mechanisms of energy
+transfer from the solar wind into the magnetosphere and of excitation of magnetospheric
+disturbances. As has been discovered by direct space experiments in the beginning of
+1970s, the basic parameter leading to magnetospheric disturbances is negative (southward)
+Bz component of interplanetary magnetic field (IMF) (or electric field Fy = Va x Bz)
+Dungey, 1961; Fairfield and Cahill, 1966; Rostoker and Falthammar, 1967; Russell et al.,
+1974; Burton et al., 1975; Akasofu, 1981]. Numerous investigations demonstrated that
+IMF in the undisturbed solar wind lies in the ecliptic plane (i.e., Bz is close to zero)
+and only disturbed types of the solar wind streams can have a considerable value of IMF
+Bz. The interplanetary CME (ICME) with a compression region Sheath before it and
+the compression region between slow and fast solar wind streams (Corotating Interaction
+Region, CIR) belong to such types of solar wind streams (see reviews and recent papers,
+for instance, by Tsurutani et al. [1988]; Tsurutani and Gonzalez [1997|; Gonzalez et al.
+11999]; Yermolaev and Yermolaev [2002]; Huttunen and Koskinen [2004]; Echer and Gon-
+zalez [2004]; Yermolaev and Yermolaev [2006]; Borovsky and Denton [2006]; Denton et al.
+2006]; Huttunen et al. [2006]; Yermolaev et al. [2007a, b, c|; Pulkkinen et al. |2007a, bl;
+Zhang et al. [2007]; Turner et al. [2009]; Yermolaev et al. |2010a, b, c, d, 2011}; Nikolaeva
+et al. [2011]; Alves et al. [2011]; Echer et al. [2011]; Gonzalez et al. [2011]; Guo et al.
+2011]; Mustajab and Badruddin [2011] and references therein).
+Experimental results showed that the magnetospheric activity induced by different types
+of interplanetary streams is different |Borovsky and Denton, 2006; Denton et al., 2006;
+DRAFT October 23, 2018, 3:27am DRAFT

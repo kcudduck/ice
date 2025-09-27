@@ -1,0 +1,96 @@
+I Xedl ;
+IS Space Weather 10.1029/2024SW004126 e
+Oo
+
+AND SPACE SCIENCES 2
+__80Fa) -
+
+© Z
+
+L 60 | 5
+
+% 20 :
+[Ee E
+
+409 | | | | ; :
+
+300 Db) —  GOES-18 Bz p
+
+200 — DSCOVR Bz x 4 =]
+
+= 100 | i 01 I i | :
+Fe Ne Citi i 4 h1, 4 i - ile : 1M | lake Hier — ie =
+SEL VW VW WW [RO
+-200 | AAR EW :
+-308 SEEN = EE. =
+
+| | TTT BET WT Ti E
+
+300-C) -~ ——— GOES-18 By Ba
+200 fl —— DSCOVR By x 4 Z
+— i =.
+100 i Rib z
+
+= 0 I At 1 li 17 il! i iA | Wi ue i) Li \ + i 5
+m | A Ww | | Ns T
+| ha WY A Wir 4
+100 IW), IN Al Tigao, Ve d
+-200 A =
+
+.. | | | 5
+
+%
+
+10 d) =
+
+= 2
+rr 8 E
+= IER PRPC - o>) 211 olqr- |nTH® 5 of) (NENUPNET WINK , MESERIISIEORIEIOSTRURpY) | MNUIRIIY SIND | 1 WN, i S
+a 4 | 3
+
+- &
+
+= S
+
+:
+
+5 2
+
+16 17 18 19 20 21 22 23 0 1 2 3 4 + 6 g
+
+UT on 10-11 May 2024 :
+
+Figure 4. UT variations of (a) SWDP (b)—(c) Bz and By from GOES-18 (black) and DSCOVR (red) satellites, 2
+(d) Magnetopause location (Lp) from BATSRUS model. The shaded region indicates the intervals when the magnetopause 2
+1s pushed below the geostationary orbit (6.6 RE), thereby exposing GOES-18 to shocked solar wind in the magnetosheath. :
+The pink box 1n panels (b) and (c¢) indicates the time period expanded and shown in Figure 5, wherein the bow-shock also ES
+pushed below the geostationary orbit for about 3 min. <
+observations reveal two important facts: (a) the magnetopause was pushed to below 6.6 RE continuously for ~6 hr H
+(1705-2252 UT), and (b) the IMF Bz and By were amplified ~4 times due to compression/accumulation of flux in :
+the magnetosheath. The decrease of SWDP around 2252 UT caused relaxation of magnetopause to above 6.6 RE, 4
+as seen from the clear deviation of Bz and By measured by GOES-18 from the DSCOVR measurements. :
+However, variations in the SWDP caused several geostationary orbit crossings (compressions and relaxations) of ~~ £
+magnetopause during the next 4 hours. The shaded area in light blue [Figures 4b and 4c] indicates the times when :
+the magnetopause was pushed below the GOES-18 orbit. Figure 4d shows the variation of magnetopause location, ~~ Z
+Lye (the minimum distance of magnetopause (boundary of closed field lines) from Earth within 30° longitudes Z
+(1.e., 1,000 to 1,400 MLT) from the Sun-Earth lineestimated by the BATSRUS MHD model. The model also 2
+predicted the magnetopause location below the geostationary orbit during ~1705—~2300 UT. which 1s consistent :
+with that inferred from the GOES-18 observations. The model results further indicate that the Lp was pushed to s
+as low as 3.31 Rg at 1852 UT and about 3.34 Rp at 2222 UT. Another interesting observation of severe  &
+compression of Earth's magnetosphere and magnetosheath is presented in Figure 5. The panels from top to bottom ~~ £
+display the variations of Bx, By and Bz components (black curves) measured by GOES-18 at 6.6 RE, respectively.  %
+The red curves represent the IMF Bx, By and Bz from the DSCOVR at L1-point. The GOES-18 observations of >
+Bx, By, and Bz exhibit rapid fluctuations, indicating turbulence in the shocked IMF in the magnetosheath region. J
+Interestingly, one can observe that the turbulence was absent for a brief period of ~3 min during ~2030-2033 UT.  ¢
+During this period, the magnetic field components measured by GOES-18 were nearly identical to those from :
+DSCOVR. This suggests that the GOES-18 was indeed going out of the bow-shock region and measuring the 5
+unshocked IMF. In other words, the strong compression conditions led even the bow-shock to be pushed below g
+the geostationary orbit (6.6 RE) during this brief period. Therefore, the results from Figures 4 and 5 indicate the 5
+strongly compressive conditions of the Earth's magnetosphere and the bow-shock prevailed during this storm 0
+:
+
+:
+EEE EEE EEE EEE EEE EE EEE E—————————.
+=
+
+TULASI RAM ET AL. 6of 14

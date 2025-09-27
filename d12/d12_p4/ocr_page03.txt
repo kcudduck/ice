@@ -1,0 +1,93 @@
+Yell : ;
+MI Journal of Geophysical Research: Oceans 10.1029/2020JC017011 2
+AND SPACE SCIENCE 2
+description is different from those like v(r,t) where the attention is not focused on each particle motion 5
+
+labeled by x but on each point fixed in space r (e.g., Gill, 1982; Pedlosky 2003). When neglecting the change Z
+
+of the gravity potential due to the motion and assuming small displacements, the 3-D linear momentum <
+
+equation is given by ]
+
+oul x, Vs Z, () :
+
+Por = Ve t(x,3,2,t) + pogo| Va, ~(V-u)e, | (1) g
+
+:
+
+(e.g., Equation 3.57 in Dahlen & Tromp, 1998; Equation 9.26 in Segall, 2010), where 7 is the stress change =
+
+caused by the motion, py is the density, and g, is the gravitational acceleration. There is no shear stress in the $
+
+fluid and the stress tensor is described as =
+
+T(x, y, 21) = ~p(x. y, 211 (2) z
+
+where p is the pressure change caused by the motion and I is the identity matrix. We assume no dilatation =
+
+of the water medium: :
+
+V.u=0. 3)
+
+At the sea bottom, we set no vertical displacement: 5
+
+u, (x. y, hy, /) =0 (4) g
+
+At the sea surface, we give the pressure change as 4
+
+—
+
+>
+
+p(x y,0,1) = Puartuce (% yo), (5) 3
+
+Q
+
+The Equations 1-5 describe the fluid motion. In particular, this study considers the sea-surface pressure =
+
+change Equation 5 as the source. We will find the solutions u(x, y, z, t) and p(x, y, z, t). Using u(x, y, z, t), we 2
+
+derive the tsunami height n(x. y, () = —u, (x. y, 0, f) Z
+
+2.2. Wavenumber Integration Method E
+
+To find the solutions u(x, y, z, t) and p(x, y, z, t) that satisfy Equations 1-5, we use the wavenumber integra- :
+
+tion method. The displacements and the pressure change are represented as integrals with respect to the £
+
+wavenumber and the angular frequency: S
+
+IA (kx e
+
+p(x. v.01) = = | doe ™ —— I dk dk KT, (kk, =. o)e' hy) ©
+
+27 0 (2 7) 0 g
+
+S
+
+rE ik; i(kyx+kyy) [| :
+
+uj (x,y,2.t) = — | doe ‘or [Idk dk. —LU (ky yz 0) (j= x) v 2
+
+J VT “oo A ( ) .
+
+(27) :
+
+| y | i kyx+k 9
+
+uw (x,y,2.t) = — | doe —— I dk, dk,U, (k,. k,. 2. o)e' hy) 8) &
+
+where k = ,/k? +k; :
+
+By substituting Equations 6, 7 and 8 with the condition of no dilatation (Equation 3), we obtain d
+
+dU. (z :
+
+kU, (2) + du. (z) ~ 0 9 3
+
+dz Z
+
+S
+
+EE —
+SAITO ET AL. 30f29  §

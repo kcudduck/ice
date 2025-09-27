@@ -1,0 +1,72 @@
+82 I. Charvet et al. / Ocean Modelling 69 (2013) 79-92
+Table 2
+Values of a and y obtained by different studies on wave runup. (*) for non-breaking waves (for the empirical result, the coefficients have been determined with a line of best fit),
+(**) for breaking waves, when runup is measured at the maximum position of the advancing shoreline. (***) The authors provided « and y obtained for the maximum value of R/h
+for different slopes. Methods: Empirical (E), analytical (A), numerical (N).
+Slope Range a/h o V Method
+
+Hall and Watts (1953) 1 0.05-0.43 3.1 1.15 E
+
+Synolakis (1987) 19.85 0.005-0.048 12.6 (4.1) 1.25 (1.01) A (E)
+
+Synolakis (1987)** 19.85 0.056-0.633 1.11 0.58 E
+
+Borthwick et al. (2006)*** 5, 10,30,50 0.15-0.3; 0.0750.15; 0.012-0.03; 0.005-0.012 3.02 0.91 N
+
+Present work 20 0.046-0.18 2.14 0.77 E
+2008). The dependence of runup on this parameter appears com- swash) as a function of the flow velocity, or the bore height (Hj).
+plex. For example, the results from Li and Raichlen (2002) show The coefficient C(3 < C <1) in (5) is a measure of the efficiency
+that non-breaking waves runup higher for milder slopes, while of converting kinetic to potential energy during runup.
+breaking waves exhibit the opposite trend. In the field, shallow A small number of studies provide additional information
+slopes bordering continental coasts are a common feature. The regarding other factors that may influence runup. Borthwick
+analysis of the 2011 Japan tsunami field-based data by Nassirpour et al. (2006) showed numerically that for a/h > 0.015, the runup
+(2012) indicates that local variations in slope along transects of the decreases as the friction coefficient increases, showing that bed
+continental shelf (East coast of Japan) do not seem to correlate with friction can influence runup. For a frictionless case, Borthwick
+high local variations in runup. Another interesting result from the et al. (2006) found there was no change in runup regime at
+numerical study of Borthwick et al. (2006) suggests that there is an a/h = 0.015. In this case (3) would apply to all waves. Moreover,
+upper value to the wave runup for beach slopes between 1:100 and their results indicated for a given value of the friction coefficient,
+1:5 — irrespective of the wave height, which corresponds to Eq. (2) there is an upper limit to the runup irrespective of the beach slope.
+with oo = 3.02 and y = 0.91. Table 2 summarizes the values for « and Synolakis (1986) suggested that breaking waves run up higher
+1 obtained in previous studies (Hall and Watts, 1953; Synolakis, than non-breaking waves, and by generating bores of different
+1987; Borthwick et al., 2006). Despite the range of slopes and vari- lengths, highlighted a dependence between the displacement and
+ety of experiments, there are only weak variations in the empirical duration of plate motion and the maximum runup, which would
+values of « and 7, with 7) close to the value of 1- result consistent suggest that the wavelength influences runup. However, for bores
+with a contribution of H of the same magnitude as the runup itself. with duration greater than 10.8 s, all runups tend to a common va-
+Without knowing the form of the functional relationships for « and lue, which Synolakis (1986) suggests is explained by the significant
+Vy, it is not possible to know from (2) how slope influences runup. reflected wave generated at the beach. Finally, Li and Raichlen
+Eq. (3) would indicate that the runup is larger on shallower bea- (2003) measured runup experimentally and applied an energy bal-
+ches for non-breaking waves, which agrees with the results from ance to obtain equation (6). The potential energy Ep, at the time of
+Li and Raichlen (2002). Indeed, the effects of shoaling are para- maximum runup was estimated from a simple energy conservation
+mount on shallower slopes. It is worth noting that the effects of model based on the total incident energy, E;, and the energy dissi-
+bed friction on shallow slopes are also important, and may lead pated during breaking, Ez. Values of = are empirically determined
+to some dissipation of wave energy. using a numerical scheme. Their results indicate that runup is di-
+
+The influence of wave shape on runup has been partially ad- rectly dependent on wave height, which is consistent with previ-
+dressed in the analytical and numerical studies of Tadepalli and ous studies.
+Synolakis (1994) and Tadepalli and Synolakis (1996), where waves To conclude this section, a detailed review of current runup
+with different profiles, namely solitary and N-waves, are treated models shows that existing runup equations are based either on
+separately. In particular, Tadepalli and Synolakis (1996) used a hy- analytical and numerical studies, or on few sources of experiments,
+brid KdV-shallow water numerical model to propagate an N-wave which mainly involved solitary waves and bores. Most runup equa-
+and develop a general runup equation (4) applicable to different tions are either empirical or based on energy dissipation but do not
+types of N-waves, numerically. The authors applied the methodol- account for the wavelength or wave shape. There is common
+ogy of Synolakis, 1987 to assess the influence of wave form on the agreement that wave amplitude needs to be considered in the pre-
+analytical expressions for runup of different types of non-breaking diction of runup. The influence of beach slope has been taken into
+N-waves. They found that the runup of a leading depressed N-wave account in most runup equations, with steeper slopes predicting a
+is greater than the runup of an equivalent (i.e., same amplitude) higher runup for breaking waves, the opposite trend being ob-
+leading elevation N-wave or solitary wave (runup law (3)). How- served for non-breaking waves. Runup as a function of the energy
+ever, there are still significant and fundamental gaps in the under- dissipated by the wave during breaking has been investigated;
+standing of the behaviour of trough-led waves, due to the difficulty however, breaking processes are complex, and the dissipated en-
+in generating these waves experimentally, and the scarcity of ergy varies with bed slope and wave profile. The influence of wave-
+available field observations. length or wave packet length is rarely considered. While potential
+
+Another wave type often assumed to represent tsunami is a and kinetic energy are used as the basis of a number of approxi-
+bore, a common form of long wave, approaching the shoreline. mate models, they are not assessed in the context of the wave
+The amplitude of long waves increases as they move into shallower form. Lastly, there are conflicting conclusions when runup is con-
+waters until the point of wave breaking. With this approach the sidered solely as a function of amplitude, especially when wave-
+bore height is the main parameter to be related to runup. Baldock form is analysed. As Klettner et al. (2012) demonstrated, runup
+and Holmes (1999) analytically derived a runup equation for bores depends critically on the shape of the wave with leading elevated
+in their study of swash oscillations, by using laws of motion for a waves running up further than leading depressed. Therefore, it is
+body with constant deceleration and the results of previous stud- important to know the contribution of wave shape to runup
+ies. These authors also took into account the type of energy trans- characteristics.
+fer around the shoreline, and derived equation (5), which describes In the following analysis the parameters to be considered are
+the unsaturated runup (i.e, runup corresponding to the first H,a,a ,L h, Ep, p and g. a corresponds to the positive amplitude

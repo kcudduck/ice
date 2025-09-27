@@ -1,0 +1,65 @@
+y acap: Mexico, Acapulco ) ancu: Chile, Ancud is anto: Chile, Antofagasta y aren: USA, Arena Cove
+02 i =" Hinson ip PANO VW o SY
+CUT cones kaUSA ANAK bolt Ecuador, BeltaGalapagos cabo: Mexico, Cabo San Lucas 3S
+0.2 |g my 0.2 | : ~~
+TOP er 7 THR BR OI £
+is PA o Ena dll el B —) JP Pt : 3
+CT iC Gate ciliPedeelagiafisis HE Rew Zasul Ouengs Chmlshunt | __ rqu GH Conliehs : @
+im AAA a ti ht Lr hh 4 | a pe AY : =
+05 i °° 5 : =
+12:00 PM 6:00 PM 12:00 AM 6:00 AM 12:00 PM 12:00 PM 6:00 PM 12:00 AM 6:00 AM 12:00 PM 12:00 PM 6:00 PM 12:00 AM 6:00 AM 12:00 PM 12:00 PM 6:00 PM 12:00 AM 6:00 AM 12:00 PM : wn
+corr: Chile, Corral 05 cres: USA, Crescent City fpnt: USA, Ft Point,San Fran : gist: New Zealand, Gisborne : —
+in RR 77 PP NYY TC YY Toe =
+o DAU ih tmp ores oi Mah ——'1 IT r=
+Ls Pray NOM Hii Baas 111) | A ifalit 2
+Te "hana: Japan, Hanasaki  hiva: France, Hiva Oa (Marquesas, French Polynesia) iqui: Chile lquique Kahu: USA, Kahului Maui Sg
+os | 1 o 05 rm : =
+: ee TAT 3
+"awe: USA, Kowainae, Howat gakcUSAKingCove kodi:USA Kodiklsind AK lajo:Usa ladon =
+LT Ted Tl © DL enh &
+pe A lye ©
+12:00 PM 6:00 PM 12:00 AM 6:00 AM 12:00 PM © 12:00 PM 6:00 PM 12:00 AM 6:00 AM 12:00 PM | 12:00 PM 6:00 PM 12:00 AM 6:00 AM 12:00 PM 12:00 PM 6:00 PM 12:00 AM 6:00 AM 12:00 PM : =o
+losa: USA, Los Angeles manz: Mexico, Manzanillo mont: USA, Montere ofun: Japan, Ofunato : <Q
+han : i ih Il Fa | lh a
+i Ld A ils 05 :
+h 12:00 PM 6:00 PM 12:00 AM 6:00 AM poor 12:00 PM ITE 12:00 PM 6:00 PM T 6:00 AM 12:00 PM 12:00 PM 6:00 PM 12:00 AM 6:00 AM 12:00 PM : IS
+. omae: Japan, Omaezaki aE pago: Samoa, Pago Pago y quepo: Costa Rica, Quepos Ny rfrt: New Zealand, Too Fishing Rock : CA
+i ar Ep TR mv B
+EE LLIN ey NAF & otmemeperee Sn til =
+b of | TH Ab | =
+12:00 PM 6:00 PM 12:00 AM 6:00 AM 12:00 PM 12:00 PM 6:00 PM 12:00 AM 6:00 AM 12:00 PM 12:00 PM 6:00 PM 12:00 AM 6:00 AM 12:00 PM 12:00 PM 6:00 PM 12:00 AM 6:00 AM 12:00 PM : NY
+sant: Ecuador, SantaCruz,Galapagos sewa: USA, Seward os sped: Chile, Isla San Pedro tosa: Japan, Tosashimizu : (ee)
+oo | oli ef | 2 : 0.5
+Wwe lf ly pA ily
+. upol: = i valp: Chile, Valparaiso , wait: New Zealand, Waitangi,Chatham 0 wake: i
+AA ee i
+Figure 8. Comparison of the computed tsunami wave heights against the tide gauge observations at various global locations for the
+Chile 2010 event. The red colour corresponds to tide gauge observations, and the blue colour represents a numerical simulation. The
+locations of the tide gauge stations shown as titles on each subplot are marked in figure 3 and shown in table 1. The x-axis represents
+the time stamp, and the y-axis represents the wave height amplitude in metres. The starting time in the abscissa in each subplot is
+27-Feb—2010 06:34:23 UTC. (See electronic supplementary material, table 54, for statistical performance metrics.)
+of the tsunami waves well, which is evident from stations like Mauritius (blueb), Sri Lanka (colo)
+and the Maldives (ganm, male). There are some discrepancies between the model and observations at
+some locations; the model underestimates the wave height at Chennai, India (chenn) and overestimates
+at Lamu, Kenya (lamu). The model does not capture the smaller waves that arrived after the main
+tsunami at some locations (figure 11; blueb, chenn, tuti), whereas the same are visible at stations like
+Richards Bay, South Africa (rich) and Salalah, Oman (sala). The tsunami also reached Antarctica (figure
+11; syow), which is captured in the current model and matches the observation well. Overall, the model
+provides a good representation of the 2004 tsunami. However, the results can be further improved by
+using the exact bathymetry and bottom friction coefficient. Figure 12 compares the ADCIRC computed
+wave heights against the satellite altimeters measured heights at different time stamps. The satellite
+altimetry data is downloaded from the link https://nctr.pmel.noaa.gov/indo_1204.html. The top plots
+in figure 12a—d illustrate the simulated propagation of the tsunami waves at 2.00 a.m., 2.05 a.m., 3.15
+a.m. and 7.10 a.m. post the earthquake. These plots also show the satellite-traced path as a black line.
+The bottom plots show the comparison of wave heights along the path against the satellite altimetry
+measurement. It can be seen from the plots that ADCIRC is able to simulate the heights of the tsunami
+waves accurately and is a good match with the satellite observations.
+Figure 13 provides information on the first peak arrival time and amplitude between observed
+and simulated values for the 26 December 2004 tsunami event across various stations. The stations
+are sorted in ascending order (bottom to top) by distance from the epicentre. For the station ‘blueb’,
+the first peak amplitude is missing from the observations, and it is not shown in figure 13. For all
+the stations, the arrival times match well with the observations, showing good statistical performance
+metrics. For stations 'chenn' and 'vish' the amplitudes are overestimated by a large value. A close
+alignment between observations and simulations is indicated by smaller differences in both amplitude
+and arrival time, which is also evident by the statistical performance metrics displayed in figure 13.
+The electronic supplementary material, table S5, provides a comprehensive analysis of the models

@@ -1,0 +1,31 @@
+the grain sizes in the sediment source is based on all field samples collected
+during the field survey. Flow depth in this model will take full use of both
+the field observations and the model results from Soulsby’s model.
+
+3.2. Sedimentary Simulation Results
+
+TSUFLIND first simulates tsunami deposit thickness (Figure 3c). In the
+test case, the largest observed thickness is about 0.22 meters at 120 meters
+inland. For the first 100 meters in this cross section, the simulated thickness
+from TSUFLIND is obviously larger than the field measurement. After 200
+meters inland, the simulated thicknesses decrease quickly and generally fit
+with the field measurement.
+
+TSUFLIND reconstructs sediment grain-size distributions for both the
+entire tsunami deposit and several vertical intervals at any given sample
+locations. The error of the entire tsunami sediment grain-size distribution
+in this test case is from 0.38% to 1.54%, which can be considered good
+simulation results. The error is less than 1.0% from 120 meters to 160 meters
+inland and then increases to 1.5% after 160 meters inland. We use four
+sediment samples to calculate grain-size distributions (Figure 3d I — IV,
+response to 120m, 160m, 177m and 207m from shoreline). Beyond 160 meters
+inland, there are fewer coarse grains and more fine grains in the simulated
+grain-size distribution than the field measurement (Figure 3d, I, II] and
+IV).
+
+In order to study how the grain-size distribution changes in the vertical
+direction, we employ the new sediment formation module to simulate tsunami
+deposit grading. Figure 3a shows grain-size distribution for several vertical
+intervals at four different study locations. The grain size for these recon-
+
+12

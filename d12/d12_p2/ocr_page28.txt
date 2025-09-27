@@ -1,0 +1,43 @@
+REFERENCES 28
+T. Maruyama. Statical elastic dislocations in an infinite and semi-infinite
+medium. Bull. Earthquake Res. Inst., Tokyo Univ., 42:289-368, 1964. 6
+T. Masterlark. Finite element model predictions of static deformation from
+dislocation sources in a subduction zone: Sensivities to homogeneous,
+isotropic, poisson-solid, and half-space assumptions. J. Geophys. Res.,
+108(B11):2540, 2003. 4
+
+J. R. McGinley. A comparison of observed permanent tilts and strains due to
+earthquakes with those calculated from displacement dislocations in elastic
+earth models. PhD thesis, California Institute of Technology, Pasadena,
+California, 1969. 4
+
+R. D. Mindlin. Force at a point in the interior of a semi-infinite medium.
+Physics, 7:195-202, 1936. 6, 7
+
+R. D. Mindlin and D. H. Cheng. Nuclei of strain in the semi-infinite solid.
+J. Appl. Phys., 21:926-930, 1950. 6
+
+J. J. Monaghan. Simulating free surface flows with sph. Physica D, 110:
+399-406, 1994. 25
+
+Y. Okada. Surface deformation due to shear and tensile faults in a half-space.
+Bull. Seism. Soc. Am., 75:1135-1154, 1985. 3, 7, 9, 19
+
+Y. Okada. Internal deformation due to shear and tensile faults in a half-space.
+Bull. Seism. Soc. Am., 82:1018-1040, 1992. 7, 9
+
+F'. Press. Displacements, strains and tilts at tele-seismic distances. J. Geo-
+phys. Res., 70:2395-2412, 1965. 6, 7
+
+R. Sato and M. Matsu’ura. Strains and tilts on the surface of a semi-infinite
+medium. J. Phys. Farth, 22:213-221, 1974. 9
+
+D. E. Smylie and L. Mansinha. The elasticity theory of dislocations in real
+earth models and changes in the rotation of the earth. Geophys. J. R. Astr.
+Soc., 23:329-354, 1971. 4
+
+[. 5S. Sokolnikofft and R. D. Specht. Mathematical theory of elasticity.
+McGraw-Hill, New York, 1946. 5
+
+J. A. Steketee. On volterra’s dislocation in a semi-infinite elastic medium.
+Can. J. Phys., 36:192-205, 1958. 3, 4

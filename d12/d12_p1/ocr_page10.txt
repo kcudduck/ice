@@ -1,0 +1,29 @@
+2.5. Inversion Framework and Coupling
+
+We use the information from all three models as different components in
+this joint inversion framework. The steady flow condition that is presented in
+all models, is also presented in TSUFLIND and represents the most simplity-
+ing assumption. The inputs to TOUFLIND are the sediment characteristics
+for different sampling locations along a slope. However, it should be noted
+that the inversion of the flow conditions is carried out for each sample loca-
+tion individually. TSUFLIND uses components from Moore model, Soulsby’s
+model and TsuSedMod model to adjust the sediment source grain-size dis-
+tribution, the sediment source concentration and the average flow velocity
+to simulate tsunami sediment thickness and grain-size distribution along the
+slope in the deposition zone. If needed, the representative offshore wave am-
+plitude can be computed. Figure 2 depicts the flowchart outlining how the
+joint inversion model works.
+
+The information needed for a successful inversion includes the grain-size
+distribution, sediment thickness as well as the information of the slope along
+which the tsunami sediments were sampled. In the inversion framework,
+Moore’s advection model is employed to calculate the initial low speed. Be-
+cause the Moore's model uses the actual data from the measured sediment
+distribution, it reduces the number of iterations significantly. The reservoir
+of sediments in the water column is calculated by following Madsen et al.
+11993], and it is assumed that all grain-size distributions can be described
+with log-normal distributions. The iteration begins with computing the in-
+undation with the help of Soulsby’s model, and the initial estimates of the
+flow conditions are from the Moore's advection model. The results of this
+
+10

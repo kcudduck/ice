@@ -1,0 +1,30 @@
+Confidential manuscript submitted to Journal of Geophysical Research: Oceans
+the pressure wave travelling speed (produced by differences of atmospheric air temperature, see
+Amores et al., 2022), which 1s not accounted for in the present model.
+
+— Measured — Modeled
+5 10 Nomuka (68 km Q 10 Nukalofa (69 km Q 10 Ono-1-Lau (348 km
+= < <
+2 0 2 0 2 0
+7 7 7
+5 -10 5 -10 5 0
+=~ 0 1 2 3 0 1 2 3&0 1 2 3
+Time (h) Time (h) Time (h)
+= Suva (701 km _ Seagada (730 km _ Nadi (814 km
+=¥ oY =¥
+< 3 < < 3
+L
+E 0 E 0 E 0
+% -5 % -5 % -5
+~ 0 1 2 390 1 2 3*=90 1 2 3
+Time (h) Time (h) Time (h)
+~ PagoPago (858 km — Look Island (1619 km) ~~ {a ¢ Reinga (1938 km)
+=¥ =¥ =¥
+<5 < <
+PD
+x : 0 0
+O O O
+Yt -5 Yt -5 Yt -5
+~~ 1 2 3% 1 2 3*=7 1 2 3
+Time (h) Time (h) Time (h)
+10

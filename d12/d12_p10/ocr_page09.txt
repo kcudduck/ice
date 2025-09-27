@@ -1,0 +1,52 @@
+Table 1. (Continued.) 9
+Womens Bay —152.406 57.7278 Womens Bay Womens Bay Z
+BT 1
+ET A
+john ~169.517 16.7722 USA Johnston =
+I TT A §-
+
+Maizuru 135.38 35.617 Maizuru Maizuru :
+
+a gy
+hako 140.6833 41.7944 Japan Hakodate  R
+BT. J... A.  .. 1
+Note: An interactive version of the above table can be viewed in the link: https://public.tableau.com/views/Tidegaugeobservations
+fromthelOC-sealevel/Dashboard1?:lanquage=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_ link NY
+Table 2. Statistical performance metrics. 2
+regression R [—1,1] 1 ot
+eet Af Op QED Bese
+Ea aL A 52 ot: SA
+normalized root mean square NRMSD [0, oo) 0 __ RMD
+
+deviation max (0) — min(o)
+
+mean absolute deviation MAD [0, oo) 0 bo) lo; — pj
+
+normalized mean absolute NMAD [0, oo) 0 MAD
+
+deviation max (0) — min(o)
+
+A
+i
+efficiency 2— Not
+Note: 0; and p; denote the observed and simulated wave heights respectively; and are the mean of observed and simulated wave
+heights; max and min are the maximum and minimum of the value.
+and water compressibility can slightly delay wave propagation, explaining why arrival times are
+sometimes predicted earlier than observed.
+
+(4) Exclusion of aftershocks and secondary waves: The current set-up does not incorporate aftershocks,
+which can generate additional waves following the main event. In several historical tsunamis,
+aftershocks contributed significantly to secondary wave heights, particularly in the near-field
+region. This omission could explain some underestimations of wave heights in certain locations,
+particularly after the initial wave.
+
+(5) Local coastal morphological features: Coastal morphology, such as the presence of bays, inlets and
+steep topography, can significantly influence wave amplification. While ADCIRC’s mesh resolves
+coastal features, there may still be some unresolved finer-scale morphological effects due to
+mesh resolution constraints that lead to discrepancies between predicted and observed wave
+heights. In regions with complex coastal geometries, these effects could cause the model to either
+overestimate or underestimate wave heights depending on local amplification factors.
+
+The observed discrepancies are likely due to a combination of uncertainties in seismic source data,
+limitations of the bathymetric resolution, simplifications in the SWE and the exclusion of aftershocks
+and certain local morphological effects.

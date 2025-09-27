@@ -1,0 +1,44 @@
+6 Chakraborty, S., et. al / ASR xx (2024) xxx-xxx
+
+windows of the different phases of interaction will depend on the ambient solar wind, the mass and initial speed of individual CMEs,
+magnetic structures and orientations, the time interval between the two individual CME eruptions, the relative speed between the
+two CMEs (Scolimi et al., 2020). Although most geomagnetic storms are driven by a single CME, about 27% events (Zhang &
+Wang, 2002) are observed to be caused by the passage of interacting CMEs as well as the Stream Interaction Regions (SIRs)
+which gets formed when the High-Speed Streams (HSS) (about 600-800 km/s and emanating from the coronal holes) catch up
+with the slower streams (about 300-400 km/s) that are ahead and compress them. Using in situ and remote-sensing observations,
+an investigation by (Shen et al., 2018) estimated geoeflectivity amplification (by an almost double factor) of individual CMEs due
+to CME-CME interactions at 1 AU. Furthermore, interacting CMEs lead to Alfvenic wave fluctuations which in turn may affect
+the solar wind electric field. Alfvenic oscillations are oscillations of both the motion of the plasma and the magnetic field, with
+the energy of the wave propagating along the magnetic field lines. Apart from the solar wind and the solar atmosphere, these
+oscillations are also found in the magnetosphere of our planet, arising from the disturbances within the magnetosphere itself or
+from the solar wind-magnetosphere interaction. Dhamane et al. (2023) suggested that the interaction or collision between the CME
+and HSS deforms the MC of the CME which in turn generates Alfven waves inside the MC.
+
+3.2. Interplanetary and Geomagnetic conditions
+
+Figure 2|shows the SYM-H and the interplanetary conditions between October 29 and November 05, 2021. Figure|2| panels (a)
+to (d) show the IMFs |B|, By, B,, B; (nT) variations respectively, panels: (e) and (f) show the Interplanetary Electric Field (IEF,
+mV/m) and the SYM-H (nT) variations respectively. In the same figure, panels: (g) to (1) respectively show the Proton Temperature
+(10* K), the Solar Wind Flow Speed (V,, km/s), the Proton Density (n/cc), the Flow Pressure (nPa), the Polar Cap (PC) index
+and the Plasma Beta (8). The periods of weak geomagnetic storm occurrences are shown as the violet-shaded region while the
+sheath region and the corresponding strong geomagnetic storm occurrence are shown as the peach-shaded region in this figure. The
+coverages (LT = UT + 5h) of the main phase of the weak geomagnetic storms are from 02:36 to 10:00 LT on October 31, 2021, and
+from 16:52 on October 31 to 01:59 LT on November 01, 2021, while the same for the stronger event is from 02:36 to 17:45 LT on
+November 04, 2021.
+
+The Storm Sudden Commencement (SSC) of the weak storm occurred at 20:05 UT (01:05 LT) on October 30 (31), 2021. The
+main phase of this relatively weaker (compared to the storm occurring on November 03-04, 2021) storm started at 21:36 UT (02:36
+LT) on October 30 (31), 2021. The corresponding values of IMFs |B|, By, B,, B;, IEF, Proton Temperature, Vj,,, Proton Density,
+Flow Pressure, PC index and 8 were 8.04 nT, 1.11 nT, -2.98 nT, -7.37 nT, 2.72 mV/m, 9.6317%10* K, 368.90 km/s, 14.64 n/cc, 3.98
+nPa, 1.29 and 2.12 respectively. The SYM-H dropped to a minimum with the value of -41 nT at 05:00 UT (10:00 LT) on October
+31, 2021. Next, a second weak storm occurred when the main phase started at 11:52 UT (16:52 LT) on October 31, 2021, with the
+corresponding IMFs |B|, By, By, B;, IEF, Proton Temperature, Vy,,, Proton Density, Flow Pressure, PC index and § values of 10.54
+nT, -4.68 nT, 5.76 nT, -7.46 nT, 3.24 mV/m, 13.8349*%10* K, 433.90 km/s, 19.85 n/cc, 7.47 nPa, 1.63 and 1.98 respectively. It 1s to
+be noted that during this period, the SYM-H had two minimum peaks with values of -36 nT and -37 nT at 13:24 UT (18:24 LT on
+October 31, 2021) and 20:59 UT (01:59 LT on November 01, 2021) respectively. The corresponding values of IMFs |B|, B,, By, B.,
+IEF, Proton Temperature, Vi, Proton Density, Flow Pressure, PC index, and § during these two SYM-H drops were (10.67 nT,
+7.65 nT, 7.22 nT, -1.73 nT, 0.75 mV/m, 12.2953*10* K, 432.40 km/s, 10.31 n/cc, 3.86 nPa, 4.69 and 0.95 respectively) and (7.93
+nT, -6.39 nT, -0.49 nT, -4.67 nT, 2.11 mV/m, 4.9839*10* K, 452.70 km/s, 6.16 n/cc, 2.52 nPa, 3.37 and 0.73 respectively).
+
+Further on observing the peach-shaded region depicting the strong geomagnetic storm, the SSC had occurred at 19:44 UT (00:44
+LT) on November 03 (04), 2021. The main phase of the strong storm started at 21:36 UT (02:36 LT) on November 03 (04), 2021,

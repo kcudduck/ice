@@ -1,0 +1,44 @@
+16 Chakraborty, S., et. al / ASR xx (2024) xxx-xxx
+4. Discussion
+
+Before proceeding with the discussion of the physical mechanism that had caused the observed anomalous enhancement of the
+low-latitude 1onosphere during the weaker events, it 1s important to rule out the effects of substorm-induced electric fields and
+compositional changes on the low-latitude electrodynamics and ionization.
+
+In Figure [4] one can observe the occurrence of a CEJ that restricts the development of the fountain on November 04, 2021,
+and hence no significant enhancements in the 1onization on that day. This could be attributed to the fact that the substorm-induced
+electric field (Kikuchi et al. (2003) and references therein) associated with the SME (Figure 9) showing much higher values of
+around 3250 nT, meant the possibility of much stronger substorm effects on that day. Substorms have the capability of creating
+reversed electric fields, thereby causing an overshielding condition over the low latitudes. This in turn prevents the increase or
+strengthening of the EEJ and the corresponding ionization over the northern crest of EIA. On the contrary, during the weaker event,
+we observed a comparatively lower SME (almost one-third of that observed on November 04, 2021) value which would not be
+capable of perturbing the low-latitude 1onospheric electrodynamics during October 31, 2021.
+
+Further, under storm-time conditions, Joule heating and ion drag forcing affect the morphology of the coupled 1onosphere-
+thermosphere system. Upwelling of species (molecules like N, and O,) 1s caused when the polar upper atmosphere gets heated
+up. These molecular-rich gases get extended towards the equator due to the ionospheric convection and forces due to the gradient
+in pressure. This heating effect at the poles induces global wind circulation, causing downwelling of the molecular-rich gases to
+the lower latitudes, thereby reducing the loss rate of O+ 1ons in the F-region ionosphere over the low latitudes. This causes a
+positive storm effect observed as enhancements in the F-region electron density. On the other hand, the negative ionospheric storm
+phenomenon 1s observed as reductions or depletions 1n the electron density (Fuller-Rowell et al. (1994, 1996); Burns et al. (1995);
+Field et al. (1998); Balan et al. (2009, 2010); Kil et al. (2011); Ngwira et al. (2012); Astafyeva et al. (2015) and references therein).
+However, any such effects on the 10nization over the observed station due to compositional changes can be ruled out from Figure
+The O/N, values over the whole Indian region showed no significant changes that could have affected in terms of enhancements
+(depletions) in the 10nization over the northern crest of EIA as a manifestation of positive (negative) storm effects during October
+31 (November 04), 2021. We further add Figure|11|showing the O/N, map on a quiet day (October 28, 2021) as a reference.
+
+Now in Figure|[2] one can observe the geomagnetic storm to be much stronger on November 04 in comparison to that on October
+31, 2021. Here we observe a fluctuating IMF B, between southward and northward orientations as a result of the presence of
+the sheath region. Although the IMF B, had been fluctuating during this period, the magnitude of the same had been higher and
+as a result, we observed growth in the ring current and a strong geomagnetic storm condition prevailed. However, this aspect
+of a stronger magnitude of the southward IMF component alone was not able to cause any geoeflectivity over the low-latitude
+ionosphere on that day.
+
+In contrast, for the much weaker event on October 31, when the magnitude of IMF B, had been almost half, due to a steady, non-
+fluctuating IMF B,, we observed significant changes over the low-latitude ionosphere. Hence, it becomes clear in the present study
+that 1t 1s the presence of a non-fluctuating southward B,, for a sufficient interval of time, that was able to create a non-fluctuating
+or a stable (or DC) prompt penetration electric field that in turn assisted in the strengthening of the low-latitude electrodynamics
+and hence a greater 10nospheric response during the weaker events. This aspect 1s observed in Figure 6) where during the interval
+of 08:00-16:00 LT, the residual EEJ had strong positive values that were able to assist in the development of stronger plasma
+distribution over the crest region. On the other hand, the AC penetration caused as a result of the sheath region and subsequent
+fluctuating IMF B, restricted the growth of EEJ strength over these LT hours. Therefore, it 1s evident that competition between the

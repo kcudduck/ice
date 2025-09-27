@@ -1,0 +1,88 @@
+alam: USA, Alameda aric: Chile, Arica call: Peru, Callao,La-Punta chuu: Micronesia, Chuuk
+[——— vial iblid = Ah |
+TT lil Hpbi RL dul W ikki ih J fly | ngs
+-0.5 | -0.5 -0.5 | | k 0.05 | J : S
+6:00 AM 12:00 PM 6:00 PM 12:00 AM 6:00 AM 6:00 AM 12:00 PM 6:00 PM 12:00 AM 6:00 AM 6:00AM 12:00 PM 6:00PM 12:00 AM 6:00 AM 6:00 AM 12:00 PM 6:00PM 12:00 AM 6:00 AM : Ss
+corr: Chile, Corral dutc: USA, Dutch Hbr Unalaska ense: Mexico, Ensenada fpnt: USA, Ft Point,San Fran : S
+| ly J { | Wid A | \ tf WA, / oY 7 A : ™
+05 1 0.2 | . =
+6:00 AM 12:00 PM 6:00 PM 12:00 AM 6:00 AM 6:00 AM 12:00 PM 6:00 PM 12:00 AM 6:00 AM 6:00 AM 12:00 PM 6:00 PM 12:00 AM 6:00 AM 6:00 AM 12:00 PM 6:00PM 12:00 AM 6:00 AM : =
+hono: USA, Honolulu,0ahu kahu: USA, Kahului, Maui os losa: USA, Los Angeles mata: Peru, Matarani,Arequipa : =-
+0.2 ER TR —— {i : 0.2 Li ki a
+0 Al I ol kw JAAR AAA ine MV wl A TT BT TT ll 1 I \/ I : =
+0 | | Ula | i | | i Liha Lad 0 f I Ii Il ILA: Jo | © Hi iil : =)
+0.4 i iE l | 0 : 2
+6:00 AM 12:00 PM 6:00 PM 12:00 AM 6:00 AM 6:00 AM 12:00 PM 6:00PM 12:00 AM 6:00 AM - 6:00AM 12:00 PM 6:00PM 12:00 AM 6:00 AM 6:00 AM 12:00 PM 6:00PM 12:00 AM 6:00 AM : rol
+midx: USA, Midway moku: USA, Mokuoloe,Oahu neah: USA, Neah Bay pslu: USA, Port San Luis : =
+Lleida md “Elbit, pps | E
+Ae I {A/a i ! ifthe © | Vi LU a I~
+5 — Lili ul | of Like 0 3
+6:00 AM 12:00 PM 6:00 PM 12:00 AM 6:00 AM 6:00 AM 12:00 PM 6:00 PM 12:00 AM 6:00 AM 6:00AM 12:00 PM 6:00 PM 12:00 AM 6:00 AM 6:00 AM 12:00 PM 6:00 PM 12:00 AM 6:00 AM :
+Rincon Island, California, USA sand: USA, San Diego sanm: USA, Santa Monica sitk: USA, Sitka :
+f Gy (a IT Tva——
+| 02 n | HR th ANTRAL MI p A :
+0 J | J I ly Tarn fh 0 | i | Hil I i AN © i i MY hl AT fh 0 [ls oN ATAAAL 18
+I oa os Jil : ©
+6:00 AM 12:00 PM 6:00 PM 12:00 AM 6:00 AM | 6:00 AM 12:00 PM 6:00 PM 12:00 AM 6:00 AM 6:00AM 12:00 PM 6:00PM 12:00 AM 6:00 AM B 6:00 AM 12:00 PM 6:00PM 12:00 AM 6:00 AM ; =
+tala: Peru, Talara talc: Chile, Talcahuano yaku: USA, Yakutat : =
+2 Ye
+CI a Fam F's Liianinte ®
+0.4 -0.5 =1 | ; N
+6:00 AM 12:00 PM 6:00 PM 12:00 AM 6:00 AM 6:00 AM 12:00 PM 6:00PM 12:00 AM 6:00 AM 6:00AM 12:00 PM 6:00 PM 12:00 AM 6:00 AM : NO
+: : : : : : NN
+Figure 15. Comparison of the computed tsunami wave heights against the tide gauge observations at various global locations forthe : =
+. . . . . CN
+Alaska 1964 event. The red colour corresponds to tide gauge observations, and the blue colour represents a numerical simulation. The : oo
+locations of the tide gauge stations shown as titles on each subplot are marked in figure 3 and shown in table 1. The x-axis represents
+the time stamp, and the y-axis represents the wave height amplitude in meters. The starting time in the abscissa in each subplot is
+28-Mar—1964 03:36:00 UTC. (See electronic supplementary material, table 56, for statistical performance metrics.)
+Arrival time (min) Amplitude (m)
+1200 1000 800 600 400 200 ©O O 05 1 15 2 25 3
+v v
+talc
+v v
+corr
+v v
+arc
+v v
+mata
+v ¥
+call
+v v
+tala
+v
+chuu
+v v
+sand
+v h J
+ense
+v v
+losa
+v v
+Sdanm
+v v
+rinc
+v h J
+moku
+v v
+hono
+v v
+midx
+v v
+kahu
+h J | v
+h J psi v
+R=0.9 v fpnt v R = 0.91
+NRMSD = 0.013 alam NRMSD = 0.096
+NMAD = 0.010 M neah M NMAD = 0.061
+NNSE = 0.998 v v NNSE = 0.848
+dutc
+v bd
+v yaku v
+sitk
+1200 1000 800 600 400 200 ©O O0O 05 1 15 2 25 3
+Figure 16. Comparison of observed and simulated first peak values for travel time and amplitude for the Alaska tsunami event of 28
+March 1964. The location of each station is indicated in figure 3, and the details are shown in table 1.
+The tsunami waves reached as far as Hawaii, Japan, the Philippines, New Zealand and even to the
+west coast of the United States. The destruction caused by this earthquake and tsunami significantly
+impacted scientific developments and understanding. The data provided by the earthquake was

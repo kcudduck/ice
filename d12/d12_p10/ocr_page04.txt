@@ -1,0 +1,58 @@
+an international group of experts in ocean mapping who aim to provide the most authoritative
+publicly available bathymetry of the world’s oceans. GEBCO provides a high-resolution global grid
+with 30 arc-second spacing, widely regarded as one of the most comprehensive and accurate global : ZS
+bathymetric datasets available. This 30 arc-sec data from GEBCO is used for the bathymetry for the Z
+global domain. Figure 1 illustrates the global model domain along with bathymetry on a Robinson : =
+projection generated using OceanMesh2D and the bathymetry employed in the current study. The =
+mesh consists of 3 458 668 nodes and 6 628 428 triangular elements. The global mesh resolution | =
+varies depending on the depth of the water. The mesh has a fine resolution of 2 km in shallow areas : =
+near coastline waters, where capturing accurate wave behaviour is crucial. In deeper waters further : 5
+away from land, the mesh coarsens to 20 km. This optimization balances accuracy with computational =
+efficiency, ensuring the model can simulate vast stretches of the ocean without exceeding pre- and | 5
+post-processing limitations. Figure 2 displays an unstructured mesh (on Mercator projection) over a : =
+few complex coastal regions of different oceans, depicting the fineness of the mesh. 3
+In the current study, we have utilized a global unstructured mesh with variable spatial —-
+resolution, with a finer resolution of 2 km in shallow waters and a coarser resolution of up | w
+to 20 km in deep ocean waters. This variable resolution is critical for capturing the different =
+characteristics of tsunami waves in deep water versus shallow water. The rationale for this : IS
+variable resolution is to capture detailed nearshore processes, where finer resolution is essential : &
+for accurately modelling wave propagation while maintaining computational efficiency in the deep ~
+ocean, where local bathymetric features has less influence on tsunami dynamics. Tsunami waves iy
+have very long wavelengths (often exceeding 100 km) in deep waters, where the ocean’s depth : &
+primarily influences the wave speed. In such regions, a coarser resolution (20 km) is sufficient .
+because the wave characteristics do not require fine-scale bathymetric detail to be accurately
+resolved. The long wavelength means large grid cells can capture the wave dynamics without
+compromising accuracy while ensuring computational efficiency. As tsunami waves approach the
+coastline, their wavelength shortens significantly due to the shallower depth, leading to a complex
+wave behaviour such as amplification. In these coastal regions, finer mesh resolution (2 km)
+is essential to accurately resolve the shorter wavelengths and the interaction of the wave with
+complex coastal topography. A finer resolution ensures that the steep gradients in bathymetry
+near the shore are well-represented, allowing the model to accurately capture the amplification
+and run-up processes. The resolution choices in the current work align with those discussed in
+[27], where a similar resolution range (~2-20 km) was used in global ocean models for storm tide
+simulations.
+The ADCIRCvV55 model was run on 480 Intel Sandy Bridge Processors on the HPC system, and
+its run time was about 10 min for 30 h of model simulation for propagation using 1296 processors.
+This article used a time step of 2 s and a quadratic bottom friction of value 0.028 to simulate tsunami
+propagation. The ADCIRC model solves the generalized wave continuity equation, which introduces a
+numerical parameter, TAUO, that weights the SWE. In the current simulations, a value of TAUO = 0.05,
+constant in space and time in line with [30] is taken to conserve the mass (electronic supplementary
+material, figure S3). The model outputs wave heights at every grid point at a specified time interval.
+The simulated wave heights for the entire grid are saved for every five min, and these wave heights are
+compared against available tide gauge observations. The computation time can be further optimized
+to five min if the output is requested only at the coastal focal points instead of all the grid points.
+The tide gauge observations are extracted from the website https://www.ioc-sealevelmonitoring.org/
+[31]. The Sea Level Station Monitoring Facility (SLSMF) is a website developed and maintained by the
+Flanders Marine Institute (VLIZ) for the Intergovernmental Oceanographic Commission (IOC) [32] of
+the United Nations Educational, Scientific and Cultural Organization (UNESCO). The SLSMF provides
+worldwide information about the data and the operational status of real-time sea level monitoring
+stations. It is an important tool for monitoring sea level changes, providing tsunami warnings and
+protecting coastal communities. The SLSMF is a valuable resource for scientists, policymakers and
+the public. The locations of various observations used in the current study are shown in figure 3
+(on Mercator projection), and the respective locations, along with their code and country names, are
+given in table 1. The tide gauge observations from the IOC sea level were collected from various
+locations where wave height was significant (=0.5 m) due to tsunami, and residuals were computed.
+Residuals were computed by removing astronomical tide components from the tide gauge records to
+obtain the water levels solely due to the tsunami wave. These residuals were computed using UTIDE
+[33] and compared with the model computed water levels due to tsunami at available tide gauge
+locations. Computed travel times were also validated using available observations. The use of UTIDE,

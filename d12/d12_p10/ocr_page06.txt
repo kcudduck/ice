@@ -1,0 +1,71 @@
+60'S aa - Sex ___ |
+_ Ss or L : n
+
+60°S CP © a 2, | oi SS
+
+© 3 " 2A ® -y
+
+40°S - CAANES rd 2
+
+O 5
+
+20°S | ¢ ® 2 Ne. | \ % o =
+
+. y 0 =
+
+0° © 0 & : Nive ’ =
+
+> ® © oe vs, he > £
+
+0 , a.
+-40°N [¢ ° & =
+-60°N Pa 3
+80°NL_= Jo
+
+-150°W -100°W -50°W 0° 50°E 100°E 150°E S
+Figure 3. Observation locations (obtained from |0C sea level monitoring facility) used to validate the model simulations. (The details S
+of the observations shown in table 1.) An interactive figure of the same can be viewed online at the link: https://public.tableau.com P=
+/views/TidegaugeobservationsfromthelOC-sealevel/Dashboard1?:language=enUS&publish=yes&:sid=_&:display_count=n&:origin= ~
+viz_share_link. Ny
+ar
+FOND
+the model and represented in a plot, and the model's performance on these aspects is discussed. >
+Second, several statistical metrics are employed to quantity the accuracy and reliability of the ADCIRC
+model simulations against the observations for the entire simulation length. Regression (R) analysis
+is conducted to explore the relationship between the observed heights and model wave heights. The
+statistical significance (SS) in percentage is also shown along with R. The normalized root mean
+square deviation (NRMSD) is used to assess the overall deviation of the simulated values from
+the observed values, providing a dimensionless measure that facilitates comparison across different
+scales of values. The normalized mean absolute deviation (NMAD) quantifies the average normal-
+ized absolute difference between predicted and observed values, which is crucial for understanding
+worst-case scenarios. The normalized Nash-Sutcliffe efficiency (NNSE) is also calculated to evaluate
+the model's performance relative to the mean observed data. The metrics used for model performance
+evaluation are detailed in table 2, along with the minimum, maximum and best possible values
+for each performance metric, along with the respective formulae. Though we have used the above
+statistical metrics, it should be noted that there will be mismatches between the simulated model
+results and observations, particularly in terms of arrival times. This discrepancy can negatively affect
+metrics like R, which may appear less favourable due to timing mismatches, even when the overall
+model performance is good.
+
+Discrepancies between ADCIRC model predictions and tide gauge data, particularly in wave
+heights and arrival times, arise from factors like bathymetric data limitations, fault parameters,
+numerical model assumptions and aftershocks. These factors are discussed below in brief.
+
+(1) Bathymetry: The resolution and accuracy of the bathymetry, particularly in coastal and shallow
+
+water regions, play a crucial role in wave propagation and amplification. The bathymetric data
+used (from the GEBCO dataset) is of high resolution but may contain inaccuracies in certain
+nearshore regions due to limited surveys. These inaccuracies, if any, can result in local errors in
+wave height prediction, either amplifying or reducing the model's estimates.
+
+(2) Initial seismic fault parameters: The accuracy of tsunami generation relies heavily on the initial
+fault parameters, such as slip, rupture length and depth. Minor uncertainties in these parame-
+ters, which are derived from seismic data, can affect the initial sea surface displacement and,
+consequently, the tsunami wave characteristics. For example, variations in the estimated slip
+distribution across the fault can lead to over- or underestimation of the wave heights, especially
+near the source.
+
+(3) Numerical model: The ADCIRC model solves the SWE, which, while effective for long-wave
+propagation, does not account for dispersive effects or water compressibility. In deep waters,
+these effects are negligible, but as tsunamis approach the coast, neglecting dispersive behaviour
+can lead to early wave arrival times. Studies like [35] have shown that frequency dispersion

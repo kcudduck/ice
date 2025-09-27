@@ -1,0 +1,76 @@
+Remote Sens. 2024, 16, 3497 10 of 22
+anomalous bands in the northern and southern hemispheres roughly overlap, with VLF
+band anomalies caused by strong magnetic storms predominantly occurring in the 3 to
+15 kHz range. Electric field disturbances in the VLF band above 18 kHz are relatively minor.
+
+= oh ——oo—  —_
+=
+-100 .
+; 2021/11/03 2021/11/04 2021/11/05 2021/11/06 2021/11/07
+-— Vg pT v - NT WA YT SN EN ATT Narn STINT
+£-1000 W V N y
+—
+= 2000
+n
+2021/11/03 2021/11/04 2021/11/05 2021/11/06 2021/11/07 o
+N20 mm = _ = — —— 2 5
+T 18. = E i onlL- —— | = 5
+= 125 8 = - “2 wl: B if a
+pi: IOI SS Cs | | | LP 84
+2021/11/03 2021/11/04 2021/11/05 2021/11/06 2021/11/07 a
+7 25.0 mmm am —= a — - — &
+N =— BB == a = Bess: FB = =8= = = = n=
+T1878 BW BE = B= EE = TP [Tw — = = 2p
+xd nf LE = SAMs FE CF EF... (JR
+2021/11/03 2021/11/04 2021/11/05 2021/11/06 2021/11/07 o
+< 25.0 — — = = zg
+XT 18.7 = — — = 2 iE
+x 12.5 = = BE 14 E
+o 6.2 = — = N 2
+E 0.0 = = = (A
+2021/11/03 2021/11/04 2021/11/05 2021/11/06 2021/11/07 0
+T 18.7 = Jy (8. — 25
+x 12.5 = == [= = — -  E
+xy] © = i wl _N — et "£35
++= 0.0 = am —— - — — oN &
+2021/11/03 2021/11/04 2021/11/05 2021/11/06 2021/11/07 2
+Figure 7. Same as Figure 4 but for the VLF band (the red rectangle is the most disturbed orbits, and
+strongly disturbed frequency bands are circled in white).
+3.5. HF Band’ D Value Analysis
+In the HF band, the impact of magnetic storms is nearly negligible compared to the
+electric field anomalies observed in the ULF, ELF, and VLF bands, with maximum D values
+in different regions being less than 1 (Figure 8). Consistent with the findings in the VLF
+band, the impact of magnetic storms diminishes above 18 kHz and is virtually negligible in
+the HF band.
+EY US
+=
+5 50
+-100 |
+; 2021/11/03 2021/11/04 2021/11/05 2021/11/06 2021/11/07
+-— Aa Vans v - AVE aman Ve Vannes V Ry Ean Wr co aan SPURL NY pee Va ™
+£1000 1" V i y
+—
+= -2000
+hn
+co 2021/11/03 2021/11/04 2021/11/05 2021/11/06 2021/11/07
+N 9 Zs
+I 37 oy
+= 2.5 055 F
+S 1.2 oo =
+= 0.0 0o © &
+= 2021/11/03 2021/11/04 2021/11/05 2021/11/06 2021/11/07 a
+. [Te] N
+= 2.5 0.5 E
+g 1-2 NE
+= 0.0 0 =
+= 2021/11/03 2021/11/04 2021/11/05 2021/11/06 2021/11/07 0
+. aN N
+S 1.2 aN >
+= 0.0 0 NE
+= 2021/11/03 2021/11/04 2021/11/05 2021/11/06 2021/11/07 o
+N 5.0 1 > a”
+3.7 zZ%,
+51.2 =
+= 0.0 0o ~E
+= 2021/11/03 2021/11/04 2021/11/05 2021/11/06 2021/11/07 2
+Figure 8. Same as Figure 4 but for the HF band.

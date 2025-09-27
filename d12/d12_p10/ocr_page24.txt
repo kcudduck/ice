@@ -1,0 +1,54 @@
+valuable and helped scientists understand plate tectonics, prompting advancements in seismological
+research and monitoring. Figure 174 shows the initial deformation generated due to the 1960 Valdivia
+earthquake. This deformation is obtained by employing a finite fault solution. The finite fault solution : ZS
+used to generate the initial deformation is taken from [38]. A finite fault solution is a multi-fault Z
+representation of the rupture with variable local slip, rake angle, depth, rise time and rupture velocity. : =
+The distribution of peak tsunami wave height simulated for this tsunami is shown in figure 17b. Travel =
+time contours of tsunami waves at every 1 h interval are displayed in figure 17c. Figure 17b,c is on | =
+Robinson's projection. It can be seen from figure 17b that the coastal countries of South America and | =
+a few parts of North America have experienced tsunami heights greater than 2 m. Tsunami waves : 5
+reached coastal parts of Japan 12 h after the earthquake, and even parts of Japan experienced wave =
+heights greater than 1 m. 5
+Figure 18 compares the simulated time series of water levels at different global locations against | &
+the sea level observations. The red and blue lines represent the observations and model simulations | &
+in figure 18. The observations for this tsunami event are downloaded from [38]. From figure 18, it —
+can be observed that the simulated results match the observations well. At most locations, the first : ©
+peak wave is captured close to the observation in amplitude and time. In the previous case events, =
+there was a slight mismatch in arrival times and an overestimated peak at a few locations. This could : IS
+be because of the generation mechanism of initial deformation [41]. In contrast to previous cases, :@ &
+the current simulation used a finite fault solution for the generation as the data are available; this ~
+incorporates variable slip across the fault plane, whereas in the previous simulations, a single fault yg
+parameter was used. The discrepancies due to the uncertainties in deformation values using uniform : &
+slip distribution can be avoided by using finite fault solution. Furthermore, tsunami waves arrived at a i
+few locations after the first peak (figure 18; acap, cald, cres, sanm, etc.), but the model underestimated
+this. This could be due to aftershocks not being considered in the current simulations. Also, this might
+be due to the time dependencies in dynamic rupture along the fault, which is not considered in the
+current simulations. The tsunami travelled great distances across the Pacific Ocean and affected several
+countries. The earthquake’s epicentre was off the coast of Chile, and the country experienced devastat-
+ing effects along the coastal regions (figure 18; talc, valp, coqu, anto, cald, aric). The tsunami had an
+impact in Peru (figure 18; mata, call, chimb, tala), USA (figure 18; cres, hono, john, losa, neah,sanm,
+sand, fpnt, sitk, dutc) and Mexico (figure 14; acap, ense, lpaz2, maza, sali). The tsunami reached far
+Japan (figure 18; Monbetsu, Urakawa, hako, Tsuziki, Maizuru, Moji, Sasebo), Taiwan (figure 18; thua)
+and the Philippines (figure 18; Hondagua, ega) causing destruction and few casualties.
+Figure 19 shows observed and simulated values of the first peak arrival time and the first peak
+amplitude along with statistical performance metrics across various stations for the Valdivia tsunami.
+The stations are arranged from bottom to top in ascending order w.r.t. distance from the epicentre.
+From figure 19, it can be conveyed that the model shows good performance at most of the stations,
+with arrival times close to the observations with minimal amplitude differences. For a few stations,
+VALPARAISO, UNALASKA and SASEBO, the amplitudes are close to the observations, but arrival
+time is delayed compared to the observations, indicating the model needs some refinement at these
+locations towards the arrival times. The electronic supplementary material, table S7, presents statistical
+metrics assessing the performance of a tsunami model at various stations, as shown in figure 18. The R
+and SS5% the model's reliability, with many stations achieving 100%, highlighting statistical significance
+between observed and modelled wave heights. From electronic supplementary material, table S7, the
+NRMSD and NMAD values show that the average discrepancies between observed and simulated
+values are lower, denoting better simulations. For many stations, the higher NNSE values indicate
+a better predictive performance of the model. Overall, the model demonstrates good performance at
+several stations, highlighting the model’s capability to capture tsunamis.
+6. Conclusion
+ADCIRC’s ability to solve SWE efficiently stems from its message passing interface-based parallel
+processing capabilities and its FE approach. This enables swift simulations, critical for operational
+tsunami warning centres (TWC) to quickly disseminate vital information to emergency responders,
+authorities and the public, facilitating timely evacuations and reducing potential casualties. ADCIRC’s
+real-time tsunami simulation capability, simulating tsunami propagation across global or regional
+scales within minutes, is invaluable for providing timely forecasts of coastal impacts.

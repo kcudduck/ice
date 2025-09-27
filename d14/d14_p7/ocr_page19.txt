@@ -1,0 +1,103 @@
+Chakraborty, S., et. al / ASR xx (2024) xxx-xxx 19
+
+Astafyeva, E., Zhakarenkova, I., & Forster, M. (2015). Ionospheric response to the 2015 St. Patrick’s Day Storm: A global multi-instrumental overview. Journal of
+Geophysical Research: Space Physics, 120, 9023-9037.
+
+Ayyagari, D., Chakraborty, S., Das, S. et al. (2020a). Performance of NavIC for studying the ionosphere at an EIA region in India. Advances in Space Research,
+65(6), 1544-1558. URL: https://www.sciencedirect.com/science/article/pii/S0273117719309044 doi https://doi.org/10.1016/j.asr.
+2019.12.019
+
+Ayyagari, D., Chakraborty, S., & Datta, A. (2019). Ionospheric observations over central part of India using comparative study of NavIC and GNSS. In 20/9 URSI
+Asia-Pacific Radio Science Conference (AP-RASC) (pp. 1-2). doi 10.23919/URSIAP-RASC.2019.8738244
+
+Ayyagari, D., Chakraborty, S., & Datta, A. (2020b). A short note on estimates of position coordinates of NavIC during an intense geomagnetic storm day at Indore.
+In AGU Fall Meeting Abstracts (pp. SM003—0008). volume 2020. URL: https://ui.adsabs.harvard.edu/abs/2020AGUFMSMO030008A
+
+Ayyagari, D., Chakraborty, S., Datta, A. et al. (2021). Impact of intense geomagnetic storm on navic signals over indore. In N. R. Das, & S. Sarkar (Eds.), Computers
+and Devices for Communication (pp. 157-162). Singapore: Springer Singapore.
+
+Ayyagari, D., Datta, A., & Chakraborty, S. (2022). Systematic study of ionospheric scintillation over the indian low-latitudes during low solar activity condi-
+tions. Advances in Space Research, . URL: https://www.sciencedirect.com/science/article/pii/S0273117722006275 doi https://doi.org/
+10.1016/j.asr.2022.07.026
+
+Bagiya, M. S., Joshi, H. P., Iyer, K. N. et al. (2009). Tec variations during low solar activity period (2005-2007) near the equatorial ionospheric anomaly
+crest region in india. Annales Geophysicae, 27(3), 1047-1057. URL: https://angeo.copernicus.org/articles/27/1047/2009/ doi 10.5194/
+angeo-27-1047-2009
+
+Balan, N., Alleyne, H., Otsuka, Y. et al. (2009). Relative effects of electric field and neutral wind on positive ionospheric storms. Earth, Planets and Space, 61(4),
+439-445. URL: https://doi.org/10.1186/BF03353160 doi 10.1186/BF03353160
+
+Balan, N., Shiokawa, K., Otsuka, Y. et al. (2010). A physical mechanism of positive ionospheric storms at low latitudes and midlatitudes. Journal of Geophysical
+Research, 115(2304).
+
+Balan, N., Souza, J., & Bailey, G. J. (2018). Recent developments in the understanding of equatorial ionization anomaly: A review. Journal of Atmospheric and
+Solar-Terrestrial Physics, 171, 3-11.
+
+Blagoveshchenskii, D. V. (2013). Effect of geomagnetic storms (substorms) on the ionosphere: 1. A review. Geomagnetism and Aeronomy, 53(3), 275-290. URL:
+https://doi.org/10.1134/S0016793213030031 do1 10.1134/S0016793213030031
+
+Blanc, M., & Richmond, A. (1980). The ionospheric disturbance dynamo. Journal of Geophysical Research: Space Physics, 85(A4), 1669-1686. URL: https:
+//agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/JA0851A04p01669 doi https://doi.org/10.1029/JA0851A04p01669
+
+Borovsky, J. E., & Shprits, Y. Y. (2017). Is the Dst Index Sufficient to Define All Geospace Storms? Journal of Geophysical Research: Space Physics,
+122(11), 11,543-11,547. URL: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017JA024679 doi https://doi.org/10.1002/
+2017JA024679
+
+Breed, A. M., Goodwin, G. L., Vandenberg, A.-M. et al. (1997). Ionospheric total electron content and slab thickness determined in australia. Radio Science, 32(4),
+1635-1643. URL: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/97RS00454 doi https://doi.org/10.1029/97RS00454
+
+Buresova, D., Lastovicka, J., Hejda, P. et al. (2014). Ionospheric disturbances under low solar activity conditions. Advances in Space Research, 54(2), 185-196.
+URL: https://www.sciencedirect.com/science/article/pii/S027311771400221X doi https://doi.org/10.1016/j.asr.2014.04.007
+
+Burlaga, L. F.,, Klein, L., Sheeley Jr., N. R. et al. (1982). A magnetic cloud and a coronal mass ejection. Geophysical Research Letters, 9(12), 1317-1320. URL:
+https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/GL009i012p01317 doi https://doi.org/10.1029/GL009i012p01317
+
+Burns, A. G., Killeen, T. L., Carignan, G. R. et al. (1995). Large enhancements in the O/N2 ratio in the evening sector of the winter hemisphere during geomagnetic
+storms. Journal of Geophysical Research, 100(14), 14-671.
+
+Chakrabarty, D., Sekar, R., Narayanan, R. et al. (2005). Evidence for the interplanetary electric field effect on the o1 630.0 nm airglow over low latitude. Journal of
+Geophysical Research: Space Physics, 110(A11). URL: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2005JA011221 doi https:
+//doi.org/10.1029/2005JA011221
+
+Chakraborty, S. (2022). Evidence of changes in the low-latitude plasma drift under IMF Bz coupling: a TIEGCM simulation approach. In 2022 3rd URSI Atlantic
+and Asia Pacific Radio Science Meeting (AT-AP-RASC) (pp. 1-4). doi 10.23919/AT-AP-RASC54737.2022.9814304
+
+Chakraborty, S., & Chakrabarty, D. (2023). Global Asymmetry in AX Variations During the 06 April 2000 Geomagnetic Storm: Relative Roles of IMF Bz and
+By. Journal of Geophysical Research: Space Physics, 128(2), €2022JA031047. URL: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/
+2022JA031047 doi https://doi.org/10.1029/2022JA031047
+
+Chakraborty, S., & Datta, A. (2020). Assessment of the Performance of Ionospheric Models with NavIC Observations during Geomagnetic Storms. In 2020 URSI
+Regional Conference on Radio Science (URSI-RCRS) (pp. 1-4). do1 10.23919/URSIRCRS49211.2020.9113547
+
+Chakraborty, S., & Datta, A. (2020). Geomagnetic Storm-time Ionospheric Response over Locations around the EIA and the Magnetic Equator. In AGU Fall
+Meeting Abstracts (pp. SA021-0020). volume 2020. URL: https: //ui.adsabs.harvard.edu/abs/2020AGUFMSA0210020C
+
+Chakraborty, S., & Datta, A. (2021). Study of Low-Ilatitude Ionospheric Scintillation using NavIC. In 2021 XXXIVth General Assembly and Scientific Symposium
+of the International Union of Radio Science (URSI GASS) (pp. 1-3). doi 10.23919/URSIGASS51995.2021.9560192
+
+Chakraborty, S., & Datta, A. (2024). On the low-latitude ionospheric irregularities under geomagnetically active and quiet conditions using NavIC observables:
+A spectral analysis approach. Journal of Atmospheric and Solar-Terrestrial Physics, 265, 106369. URL: https://www.sciencedirect.com/science/
+article/pii/S1364682624001974 doi https://doi.org/10.1016/j.jastp.2024.106369
+
+Chakraborty, S., Datta, A., Ray, S. et al. (2020b). Comparative studies of ionospheric models with GNSS and NavIC over the Indian longitudinal sec-
+tor during geomagnetic activities. Advances in Space Research, 66(4), 895-910. URL: https://www.sciencedirect.com/science/article/pii/
+S0273117720302994 doi https://doi.org/10.1016/j.asr.2020.04.047
+
+Chakraborty, S., Ray, S., Datta, A. et al. (2020c¢). Ionospheric Response to Strong Geomagnetic Storms During 2000-2005: An IMF Clock Angle Perspective. Radio
+Science, 55(9), €2020RS007061. URL: https: //agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020RS007061 doi https://doi.org/10.
+1029/2020RS007061
+
+Chakraborty, S., Ray, S., Sur, D. et al. (2020a). Effects of CME and CIR induced geomagnetic storms on low-latitude ionization over Indian longitudes in terms of
+neutral dynamics. Advances in Space Research, 65(1), 198-213. URL: https://www.sciencedirect.com/science/article/pii/S0273117719307252
+doi https://doi.org/10.1016/j.asr.2019.09.047
+
+Desai, M., & Shweta, N. (2018). The GIVE ionospheric delay correction approach to improve positional accuracy of NavIC/IRNSS single-frequency receiver.
+Current Science, 114, 1665-1676. do1 10.18520/cs/v114/i08/1665-1676
+
+Dhamane, O., Raghav, A., Shaikh, Z. et al. (2023). Observation of alfvén waves in an icme-hss interaction region. Solar Physics, 298(3), 34. URL: https:
+//doi.org/10.1007/s11207-023-02127-4 doi 10.1007/s11207-023-02127-4
+
+Dungey, J. W. (1961). Interplanetary magnetic field and the auroral zones. Physical Review Letters, 6, 47-48.
+
+Fejer, B., & Scherliess, L. (1997). Mid-and low-latitude prompt penetration ionospheric zonal plasma drifts. Geophysical Research Letters, 25(16), 3071-3074.
+URL: http: //dx.doi.org/10.1029/98GL02325

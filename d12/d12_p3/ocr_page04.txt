@@ -1,0 +1,57 @@
+4
+3 60 10
+(a) > (b) . (c)
+> 5 a
+> g 74 B 8 0
+2 > Poe 40 v4 Pr
+IB ~~ > pug ny
+: he ; 2 : JE
+= Z iS = > = 5 Ne
+: EE 3 iS s >To
+R J J Na < Dos
+1 20 7 <
+ne, -
+gr > 7
+Zi granular piston 1 Sa
+|
+0 0 0
+0 10 20 30 0 20 40 60 30 0 12 24
+Al [hg Alon (cm) Vv Al imho (cm)
+FIG. 4. (a) Relative maximum amplitude A, /ho of the wave as a function of the relative final extension of the granular front
+Also /ho, with (—) An /ho = 0.504/ Als /ho. (b) Comparison between the measurement of Af, and the model prediction
+Aloo th. (—) Als = 0.82A%o tn. (¢) Am as a function of /Al tnho, with (—) Eq. (4). Symbols designate (>) bore and
+([]) solitary waves. The shaded area in (a) correspond to the deep water waves region where A,, < 0.45 hy.
+interesting to focus also on the main features of the final granular deposit, characterized by its final height H., and
+runout distance AL. = Lo, — Lg. In the dry case, these two final parameters, rescaled by the initial width of the
+column, H.,/Ly and ALy/Lg, are known to be governed mainly by the initial aspect ratio a of the column, and
+slightly influenced by the material and frictional properties of the grains and the substrate 26, 27, 29, 31]. Figures
+3[a) and [3[b) show the evolution of H.,/Lo and AL, /Lg, respectively, as a function of a. In the present experiments,
+the initial granular column stands on a solid step of height hy, and one may expect that the final deposit may be
+different from the one that would occur without a solid step. The initial dataset is thus subdivided into two parts:
+(0) the experiments for which the solid step has no significant influence on the final deposit, i.e., where Hy/hg > 4
+and hg < Lg according to 49], and (x) those impacted by the presence of the step. For the first set (0), the relative
+final height H../Lg [figure[3[a)], and runout distance AL. /Lq [figure [3[b)] are then fitted by piecewise power laws
+of the initial aspect ratio, following Lajeunesse et al. (2005) 26]:
+H. i a for a < 0.93,
+— =a" =
+Lo 0.95 a'/3 for a > 0.93,
+(1)
+AL... 1.65 a for a S 3,
+— = — Ba™ =
+Ly 2.38 a?/3 for a > 3,
+where the prefactors a and 3 are slightly dependent on the material and frictional properties (except the trivial value
+a = 1 for low enough aspect ratios) 28, 31, 35|, and would also be impacted by the presence of cohesion 14, 50].
+Therefore, using different grain or substrate properties would require one to adjust these coeflicients accordingly. The
+exponents of Eqs. differ from 2D to 3D configurations 26, 27], and are a signature of the gravity-driven dynamics
+of the collapse 30]. It should be mentioned that although no experimental data are available here at low aspect
+ratio (a < 0.93), the scaling Ho, /Ly = a is represented, as this case corresponds to the trapezoidal final shape of the
+deposit already described by previous work 26, 27, 30, 34, 36|, where only a fraction of the initial granular column
+collapses, so that H,, = Hp. The second set (x) of experiments deviates significantly from the scalings of Eqs.
+for the final height as well as for the run-out distance. These data are either impacted by the presence of the solid
+step or depart from shallow water conditions (deep water waves), and are therefore not considered in the following.
+A predictive model for the wave amplitude. To understand the bell-shaped curves for A,, (hg) in shallow water,
+as illustrated in figure [2] the local Froude number Fry = v,,/+/ghg needs to be related to the initial parameters of
+the granular column as it is known that, at first order, A,,/ho ~ 1.2 Fry 42, 46]. The granular front velocity v,,
+is expected to scale as Aly, /7;, where Al, = fo — Lg is the front position of the final deposit and 7, the typical
+spreading time of the granular mass, both taken at z = hg. In a recent study, 7, was shown to be proportional to
+Vv Als /g 36]. Using this result, Fry may be estimated as

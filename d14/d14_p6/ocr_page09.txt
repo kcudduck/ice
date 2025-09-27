@@ -1,0 +1,84 @@
+9
+9] K. Schulz, What a Major Solar Storm Could Do to Our https: //onlinelibrary.wiley.com/doi/pdf/10.1111 /risa.13229.
+Planet, https://www.newyorker.com/magazine/2024/ 125] C. Gaunt and G. Coetzee, Transformer failures in re-
+03/04/what-a-major-solar-storm-could-do-to-our- gions incorrectly considered to have low GIC-risk, in 2007
+planet (2024), accessed: 2024-03-05. IEEE Lausanne power tech (IEEE, 2007) pp. 807-812.
+
+[10] L. Lofquist, Is there a universal human right to electric- 126] N. Moodley and C. Gaunt, Developing a power trans-
+ity?, The International Journal of Human Rights 24, 711 former low energy degradation assessment triangle, in
+(2020). IEEE Power and Energy Society Conference and Expost-
+
+[11] J. T. Gosling, The solar flare myth, Journal of Geophys- tion in Africa: Intelligent Grid Integration of Renewable
+ical Research: Space Physics 98, 18937 (1993). Energy Resources (PowerAfrica) (IEEE, 2012) pp. 1-6.
+
+[12] P. Chen, Coronal mass ejections: models and their ob- 127] C. Gaunt, Why space weather is relevant to electrical
+servational basis, Living Reviews in Solar Physics 8, 1 power systems, Space Weather 14, 2 (2016).
+
+(2011). 128] B. T. Tsurutani, W. D. Gonzalez, G. Lakhina, and
+
+[13] W. Gonzalez, J.-A. Joselyn, Y. Kamide, H. W. Kroehl, S. Alex, The extreme magnetic storm of 1-2 September
+G. Rostoker, B. T. T'surutani, and V. Vasyliunas, What is 1859, Journal of Geophysical Research: Space Physics
+a geomagnetic storm?, Journal of Geophysical Research: 108 (2003).
+
+Space Physics 99, 5771 (1994). 129] https://github.com/allfed /GeomagneticModel.
+
+[14] Geomagnetic Storms, https://www.swpc.noaa.gov/ 130] J. Gjerloev, A global ground-based magnetometer initia-
+phenomena/geomagnetic-storms (2014), accessed: tive, Eos, Transactions American Geophysical Union 90,
+2023-11-24. 230 (2009), https://supermag. jhuapl.edu/. Accessed:
+
+[15] A. Pulkkinen, E. Bernabeu, A. Thomson, A. Viljanen, 2023-12-11.
+
+R. Pirjola, D. Boteler, J. Eichner, P. Cilliers, D. Welling, 131] A. Kelbert, G. Egbert, and A. Schultz, IRIS DMC data
+N. Savani, et al., Geomagnetically induced currents: services products: EMTF, the magnetotelluric transfer
+Science, engineering, and applications readiness, Space functions, National Geoelectromagnetic Facility Techni-
+weather 15, 828 (2017). cal Report (2011).
+
+[16] D. Roodman, The risk of geomagnetic storms to the 132] A. Kelbert, Taking magnetotelluric data out of the
+orid: A preliminary review, Available at SSRN 3635861 drawer, in AGU Fall Meeting Abstracts, Vol. 2019 (2019)
+(2015). pp. IN21A-01, https://ds.iris.edu/spud/emtf Ac-
+
+[17] M. Svanda, A. Smickovd, and T. Vybost’okovd, Mod- cessed: 2023-12-11.
+elling of geomagnetically induced currents in the Czech 133] A. Kelbert, P. A. Bedrosian, and B. S. Murphy, The first
+transmission grid, Earth, Planets and Space 73, 1 (2021). 3D conductivity model of the contiguous United States:
+
+[18] R. Girgis and K. Vedante, Effects of GIC on power trans- Reflections on geologic structure and application to in-
+formers and power systems, in PES TéD 2012 (IEEE, duction hazards, Geomagnetically induced currents from
+2012) pp. 1-8. the Sun to the power grid , 127 (2019).
+
+[19] National Research Council, Severe space weather [34] J. Rivera, J. Leimhofer, and H.-A. Jacobsen, Open-
+events: understanding societal and economic impacts: a GridMap: towards automatic power grid simulation
+workshop report (The National Academies Press, Wash- model generation from crowdsourced data, Computer
+ington, DC, 2008) https://nap.nationalacademies. Science-Research and Development 32, 13 (2017),
+org/catalog/12507/severe-space-weather-events- https://github. com/0penGridMap/transnet-models.
+understanding-societal-and-economic-impacts-a. Accessed: 2023-12-11.
+
+20] C. Said, Everything I've learned about solar storm [35] OpenStreetMap contributors, Region extent data
+risk and EMP attacks, https://chris-said.io/2020/ retrieved from  https://download.geofabrik.de/,
+06/18/everything-ive-learned-about-solar-storm- https://www.openstreetmap.org (2017), accessed:
+risk-and-emp-attacks/ (2020), accessed: 2023-11-24. 2023-12-13.
+
+21] M. Weiss and M. Weiss, An assessment of threats to the [36] North American Electric Reliability Corporation
+American power grid, Energy, Sustainability and Society (NERC), Network applicability, project  2013-
+9,1 (2019). 03, EOP-010-1, https://www.nerc.com/pa/Stand/
+
+22] J. M. Torta, S. Marsal, and M. Quintana, Assessing the Project201303GeomagneticDisturbanceMitigation/
+hazard from geomagnetically induced currents to the en- ApplicableNetwork. pdf (2013), accessed: 2023-12-11.
+tire high-voltage power network in Spain, Earth, Planets [37] North American Electric Reliability Corporation
+and Space 66, 1 (2014). (NERC), Computing geomagnetically-induced cur-
+
+123] A. Gil, M. Berendt-Marchel, R. Modzelewska, rent in the bulk-power system, https://www.nerc.
+S. Moskwa, A. Siluszyk, M. Siluszyk, L. Tomasik, com/comm/PC/Geomagnetic/20Disturbance’20Task
+A. Wawrzaszek, and A. Wawrzynczak, Evaluating the %20Force’,20GMDTF%202013/GIC%20Application
+relationship between strong geomagnetic storms and %20Guide’%202013_approved.pdf (2013), accessed:
+electric grid failures in Poland using the geoelectric field 2023-12-12.
+as a GIC proxy, Journal of Space Weather and Space [38] Electric Power Research Institute (EPRI), Palo Alto,
+Climate 11, 30 (2021). CA: 2020. 3002017952., Magnetohydrodynamic (MHD)
+
+124] E. J. Oughton, M. Hapgood, G. S. Richardson, C. D. modeling for the further understanding of geoelectric field
+Beggan, A. W. P. Thomson, M. Gibbs, C. Burnett, enhancements and auroral behavior during geomagnetic
+C. T. Gaunt, M. Trichas, R. Dada, and R. B. Horne, disturbance events, https://www.epri.com/research/
+A Risk Assessment Framework for the Socioeconomic products/000000003002017952 (2020), accessed: 2023-
+Impacts of Electricity Transmission Infrastructure 12-12.
+
+Failure Due to Space Weather: An Application to 139] Electric Power Research Institute (EPRI), EPRI, Palo
+the United Kingdom, Risk Analysis 39, 1022 (2019), Alto, CA: 2017. 3002009001, Magnetohydrodynamic

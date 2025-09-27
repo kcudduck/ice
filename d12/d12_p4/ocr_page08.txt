@@ -1,0 +1,85 @@
+Yell : =
+MI Journal of Geophysical Research: Oceans 10.1029/2020JC017011 2
+AND SPACE SCIENCE 2
+The spatial distribution is assumed to be Gaussian, with a scale length a in the x direction and infinitely :
+long in the y direction: Z
+2 ]
+
+3 41) 2
+
+po(x.7) = Fe 4. (41) =
+
+&
+
+z
+
+The 2-D Fourier transform of Equation 41 is given by p
+2
+
+A _ pe —i( ky x+y) _ T 2 —iky x _ A (42) 3
+
+Polke k, | = 0 polx,y)e dxdy = 275k, ) J Pye ae" Fdx = 275 (ky ) py (,) S
+
+—0 —00 =
+
+where we set :
+Ee a’k> :
+
+p(k, ) = | Pe a gmt gy = JraPye 4 (43) E
+
+Using the impulse responses of Equations 32-37 and the pressure change as source 39-41 in the convolu- E
+tion (see, for example, Equation 38), we obtain the sea-surface height change S
+o A [ay — sin (ay) | O0<t<T :
+
+ix PK) [pT 3
+
+n(x y.1) == | dk e"x* — 1 1 (44) S
+
+di Po8o —| @T —sin wot ) + sin| ay (t —T |T<: 3
+
+[ar ~sin(anr) inf (1 -7)]
+
+the velocity fields £
+| :
+
+| i. sinh [k,| hq _ 2) | p(k.) =k - cosa) | 0<t<T :
+
+v(x y, 21) — py J dk ..e x Tinh) so | (45) =
+
+JT —o0 sinh(|k.| A, Po8o | _ — 2
+
+- | cos| ay (2 T) cos (a) | TI <t :
+
+sy [AD 0<i<T
+
+5 ge gt OnE = 2)] ik (k) [1 conten) | 05 :
+
+ve(xyzt) = = [dhe * ) n(jk r P | 1 (46) :
+
+TT —o0 sin (kK, Po8o |Kx| | _ _ =
+
+0 = cos| a (2 T) cos (ay) | I <t
+
+and the ocean-bottom pressure change =
+1 :
+
+o A —sin (wt) O0<t<T g
+
+1 ik x 151 (k,) Wo S
+
+p(x yz = ho») = | dk e™ cosh([k |) 0 47) =
+
+di COSI [Xx |" — | sin wot) —sin| a, (t —T |1<: =
+
+= [sin(ans) = sinf an (17) ;
+
+Using these solutions with the depth 4, = 4 km and setting Py = —1 mH,O (~ 9.8 kPa), a = 20 km, and :
+T = 30 s as a source (Equations 39-41), we numerically calculate and visualize the tsunami generation and &
+propagation for negative sea-surface pressure change in Figure 2. :
+Figures 2a and 2b show that the sea-surface pressure, which we set as a source, decreases with time until a
+t = T (= 30s). During this period, the sea-surface height and the velocity in the sea layer change slightly and g
+do not show significant variations (the second and third panels in Figures 2a and 2b). =
+As the time elapses (60-120 s, Figures 2c and 2d), the sea-surface height gradually increases. At the time &
+of 250 s (Figure 2e), the sea-surface uplift reached 1.0 m. While the sea-surface height is uplifted inside the :
+_—
+SAITO ET AL. 8of29  §

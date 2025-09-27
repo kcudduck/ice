@@ -1,0 +1,102 @@
+A721 | S
+MNJ» Space Weather 10.1029/2024SW004126 e
+SO
+
+AND SPACE SCIENCES 2
+400 :
+
+— Short Wave (0.5/- 4.0 A) | X3.9 [4
+
+— Long Wave (1 0l- 8.0A) <
+
+| | 3
+
+| | 5
+
+=
+
+300 | | S
+
+| | :
+
+em | | 5
+
+= | | :
+
+= | | =
+
+= | 2.2 | :
+
+: 3
+
+ht | | E
+
+x 200 3
+
+3 | 2
+
+LL | | E
+
+>, | | S
+
+© g
+
+Z | | 5
+
+X1.0 | X1.1 | 2
+
+100 X1.0 X1.0 | T
+
+| | 3
+
+| | =
+
+| | | z
+
+<
+
+=
+
+| C
+
+MA NAN IN [AN Je pn i.) i) A 5
+
+NIGER NUNC INC ROA N S R SEN NCI NIG IC INN ENN g
+
+UT on 8 - 10 May 2024 5
+
+Figure 1. X-ray flux measured from GOES satellite at geostationary orbit showing the occurrence of a series of solar flares g
+during 8—10 May 2024. Six X-class flares are indicated in the Figure. 5
+May 2024. CMEs followed all these six X-class flares after a few minutes (Hayakawa et al., 2024). The fast and 2
+dense solar wind structures from these CMEs interacted with one another, forming a composite Interplanetary :
+CME (ICME) with complex solar wind density and magnetic field structures embedded. Figure 2 depicts the i
+complex variations of solar wind velocity (V), density (N), temperature (T), and total scalar interplanetary =
+magnetic field (Bp) associated with this ICME measured by NASA's Deep Space Climate Observatory :
+(DSCOVR) satellite at the first Lagrangian (L1) point. The sudden and large excursions in all the solar wind z
+parameters (V, N, T, and By) at 1634 UT on 10 May 2024, mark the arrival of ICME forward shock. Another H
+distinct and simultaneous increase in all the solar wind parameters can be observed at 2136 UT, indicating the ]
+possible arrival of a second ICME. Assuming average speeds around ~950-1,100 km/s, one can roughly relate L
+the CMEs associated with (or after) the flares that occurred at 2140 UT on 8§ May 2024 and 0913 UT on 9 May 2
+2024 are likely the sources of the two ICME observed at 1,634 and 2136 UT at L1-point by DSCOVR, EH
+respectively. Subsequently, sharp increases in the geomagnetic field were observed globally in ground-based :
+magnetometers at 1705 UT and 2221 UT (not shown in the figure). This indicates the travel times of the first g
+and second ICMEs from L1-point to Earth's magnetosphere as 31 and 45 min, respectively. =
+C
+
+Figure 3a shows the variation of vertical (IMF Bz, black curve) and dawn-to-dusk (IMF By, red curve) com- g
+ponents of the interplanetary magnetic field and Figure 3b shows the variation of geomagnetic storm index, Sym- -
+H (Imajo et al., 2022). Note that IMF data 1s time-shifted by 31 min to account for the travel time of ICME from S,
+L1-point to Earth's bow-shock The storm sudden commencement (SSC) can be observed at 1705 UT with the 8
+arrival of first ICME shock. The Sym-H initially exhibited a brief enhancement (for ~10 min) and reached 88 nT 4
+due to increased magnetopause current (Araki, 1977). Subsequently, Sym-H decreased to a minimum of —518 nT 3
+at 0214 UT on 11 May 2024. The total decrease (range) of Sym-H 1s 606 nT. The arrival of second ICME can also 5
+be identified as a sharp enhancement in Sym-H at 2221 UT. The red curve in Figure 3b is the Dst-index computed :
+at 1-min time resolution (equivalent to Sym-H) by the Block-Adaptive-Tree-Solarwind-Roe-Upwind-Scheme Z
+(BATSRUS) MHD model coupled with RCM and RIM models. It can be seen from this figure that BATSRUS Z
+Dst also rapidly decreased, indeed more rapidly than the observed Sym-H, during the first few hours of the main :
+phase that is, up to ~2145 UT. Around 2221 UT, with the arrival of the second ICME, the BATSRUS Dst (and :
+:
+EEE EEE EEE EEE EEE EE EEE E—————————.
+=
+
+TULASI RAM ET AL. 3of 14  §

@@ -1,0 +1,41 @@
+3.5 Classical Boussinesq equations 21
+potential ¢ can be expressed in terms of ¢, and w, only. Finally, one obtains
+the velocity field in the whole water column (—h < z < 71) Madsen et al.
+2003]:
+u(z,y,z,t) = cos(zV)u, + sin(zV)w,, (42)
+w(x, y, zt) = cos(zV)w, —sin(z2V)u,. (43)
+Here the cosine and sine operators are infinite Taylor series operators defined
+by
+0 ~2n , 0 ~2n+1 _
+cos(zV) = —1)"——V",  sin(zV) = —1H)'—V,
+9) = 3 Go 9) = 3 Gr
+
+Then one can substitute the representation (42)-(43) into the kinematic
+bottom condition and use successive approximations to obtain an explicit
+recursive expression for w, in terms of u, to infinite order in AV.
+
+A wide variety of Boussinesq systems can been derived Madsen et al.
+2003]. One can generalize the expansions to an arbitrary z—level, instead of
+the z = 0 level. The Taylor series for the cosine and sine operators can be
+truncated, Padé approximants can be used in operators at z = —h and/or
+at z = 0.
+
+The classical Boussinesq equations are more transparent when written in
+the dimensionless variables used in the previous subsection. We further as-
+sume that h is constant, drop the tildes, and write the equations for one spa-
+tial dimension (x). Performing the expansion about z = 0 leads to the van-
+ishing of the odd terms in the velocity potential. Substituting the expression
+for ¢ into the free-surface boundary conditions evaluated at z = 1 + an(x, t)
+leads to two equations in n and ¢, with terms of various order in « and f[.
+The small parameters a and 5 are of the same order, while n and ¢, as well
+as their partial derivatives are of order one.
+
+3.5 Classical Boussinesq equations
+
+The classical Boussinesq equations are obtained by keeping all terms that
+are at most linear in « or (#3. In the derivation of the fundamental non-
+linear shallow-water equations (31)—(33), the terms in 3 were neglected. It
+is therefore implicitly assumed that the Stokes number is large. Since the
+cube of the water depth appears in the denominator of the Stokes number
+(S = a/f = al?/d?), it means that the Stokes number is 64 times larger in a
+1 km depth than in a 4 km depth! Based on these arguments, dispersion is

@@ -1,0 +1,59 @@
+www.nature.com/scientificreports/
+Geoelectric Fields, April 24, 2023
+— 1500
+1 | Oo oO
+E 1000 a | MAS (69.46 N, 23.7 E)
+> I
+- Ja lh PMs
+LL 0 PATA la" Sth rain vn AWN WY polvnn Thr ATTY
+— 1500 : :
+€ 1000 b IVA (68.56 N, 27.29 E)
+> I
+E500 W | J |
+0 Me AMA SND Se AT TY WY TATE VN
+— 1500 | - -
+€ 1000} © SOD (67.37 N 26.63 E)
+> | |
+£ 500 i |
+LL 0 FALWN VARY VAY. WA (PLY, VA v. Prati Inmet Aa
+— 1500
+1 I o oO
+E 1000 d | RAN (65.9 N, 26.41 E)
+> I
+£ 500 od / | |
+LL 0 wer Ame NSA Naar IA rid, el VAL Vt Cl A A YW
+— 1500
+OUJ (64.52'N, 27.23 E
+€ 1000 ( )
+>
+£ 500 | | |
+LL 0 Aen ep A WY A ig tel VAM bins Ss
+[ $500 f MEK (62.77 N, 30.97 E)
+=
+e 500 ) i
+LL 0 MAA AM rg ad! AAS NM ld A) bY Ws it pA ANA AA [WV pr
+~~ 1500
+' | oO oO
+€ 1000 9 i HAN (62.25 N, 26.6 E)
+>
+£ 500 |
+LL] 0 oo — p— Anaate! AL ali oA Lali gn ATLL pall AAR "HI hla ARAN Lot did atch pe ot
+40 0
+mo RAG 00
+— iW \ ay
+= ok VL (a Gro) 1500
+5 =>
+© 3000 ?
+00:00 01:00 02:00 03:00 04:00 05:00 06:00 07:00 08:00
+Hours
+Figure 5. Geoelectric field E during the April 24, 2023 storm event (from 00:00 to 08:00 UT) for seven selected
+stations: MAS (a), IVA (b), SOD (c), RAN (d), OU] (e), MEK (f) and HAN (g). For comparison, Mantsdla GIC
+(black, legend on the left) and SML index (red, legend on the right) in panel h have been shown. Event II is
+denoted by red dashed line.
+By at the same stations considered in Fig. 4. The FF shock is marked by a vertical black dashed line. The IMF
+B, component was southward prior to the shock, the shock intensified it and increased the energy input into
+the magnetosphere (see Fig. 2). This also started the magnetic storm main phase with a series of substorms.
+Although shocks typically cause large geomagnetic field increases at near equatorial and midlatitude locations,
+the effects at the high latitude stations is much weaker. In Fig. 6, stations MAS, IVA, SOD, RAN and OU]J show
+~ 200 nT deviations, and stations MEK and HAN show very little magnetic deviations.
+Scientific Reports | (2024) 14:25074 | https://doi.org/10.1038/s41598-024-76449-z nature portfolio

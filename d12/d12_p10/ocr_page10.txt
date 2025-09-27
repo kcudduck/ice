@@ -1,0 +1,55 @@
+5. Results and discussion 10
+In the current section, five major global tsunamis are simulated using the methodology discussed, and : S
+the results are compared with the tide gauge observations. The tsunamigenic seismic events considered Z
+are shown in table 3. To issue tsunami warnings against a generated earthquake, the maximum wave : =
+height and the arrival time of this peak wave height are paramount for issuing adequate warnings and =
+implementing evacuation measures. The maximum elevation and travel time plots are shown for each | =
+simulation, considering their importance in real-time warnings. The statistical performance metrics Ef
+obtained for each simulation are shown in electronic supplementary materials, tables. k=
+5.1. Japan tsunami event 11 March 2011 3
+XS
+On 11 March 2011, at 05:46 UTC (local time 14:46), a subduction megathrust earthquake with a moment S
+magnitude of 9 Mw occurred 30 km below the ocean floor off the northeastern coast of Honshu, —
+Tohoku, Japan [36]. This is Japan's strongest earthquake ever recorded and the fourth strongest : «wv
+globally since 1900. This earthquake is also called the 2011 Tohoku Earthquake or the Great East =
+Japan Earthquake. The earthquake caused widespread destruction on the land and triggered a giant IS
+tsunami that devasted many coastal regions of Japan [39]. This massive earthquake and subsequent <
+tsunami caused severe damage to the Fukushima Daiichi nuclear power plant, leading to meltdowns, —
+hydrogen—air explosions and the release of significant radiation leaks. Hundreds of thousands of
+people were evacuated due to the nuclear threat. It was the most severe nuclear disaster since the : 35
+Chernobyl disaster in 1986, which challenged the nuclear communities across the world to reassess : 2
+nuclear power safety measures [40]. Figure 4a shows the computed initial deformation for the 2011
+Japan earthquake. The focal fault parameters used for generating this initial deformation are taken
+from [36] and are shown in table 3. The maximum simulated tsunami wave height distribution over
+the entire simulation is displayed in figure 4b. Travel time contours of tsunami waves at every 1 h
+interval are shown in figure 4c. Figure 5 compares observations and model-simulated water levels at
+different locations over the globe. All these observations are taken from the IOC sea level website and
+are plotted in alphabetic order based on the station ID. The observations are averaged to five min
+from one min and displayed in figure 5. The tide gauge ID, country and location name are given
+as titles on each subplot, which can be accessed from table 1 for further information. From figure 5,
+the blue curves representing the ADCIRC simulations generally track the red curves representing the
+observations fairly close. This suggests that the model is doing a good job of capturing the timing
+and general shape of the tsunami waves for most of the stations. It can be observed from figure 5
+that at most of the stations, the peak tsunami wave is slightly overestimated, and the wave arrival
+is a few minutes (about 10 min) earlier. One can compromise with this kind of model behaviour
+from an operational perspective as this leads to early evacuation measures, and timings can be taken
+sooner. There are some exceptions where the blue curves diverge from the red curves. For example,
+at the core, dutc, cebu, lomb, sand, etc. stations, the model predicts a larger wave than the observed
+one. This suggests that the model may not be predicting the exact observed wave height, but it is
+still doing a good job of approximating reality in most cases. A possible reason for the mismatch
+could be because of the uncertainties involved in the generation mechanism of initial deformation [41].
+Discrepancies in bathymetry [42,43] and/or the bottom friction used at the location can also result in
+these mismatches, as the accuracy of the wave computations largely depends on the accuracy of these
+parameters. Similarly, the underestimation after the initial peaks can be noticed in some instances.
+A possible reason for this might be that the simulations do not include aftershocks from the actual
+earthquake. Japan experienced over 1000 aftershocks since the earthquake, with 80 registering over
+magnitude 6.0 Mw and several of which have been over magnitude 7.0 Mw. A magnitude 7.4 Mw at
+15:08 (JST), 7.9 Mw at 15:15 and a 7.7 Mw quake at 15:26 all occurred on 11 March. While modelling
+tsunamis, incorporating these aftershocks can lead to an accurate estimation of wave heights over the
+entire simulation period. As aforementioned, discrepancies in the bathymetry data may also contribute
+to the mismatch in these instances, too.
+The Japan Meteorological Agency (JMA) has issued the most severe tsunami warning, rating it as a
+major tsunami. A tsunami hit Japan's coast within an hour (figure 4c) of the earthquake. From figure
+4b, it can be seen that the northeastern part of Japan's coast (refer figure 5 at hana, omae locations)
+faced tsunami wave heights greater than 2 m, and southeastern part (refer figure 5, tosa location) had
+tsunami wave heights greater than 1 m. Figure 4b depicts that the tsunami wave heights on the west

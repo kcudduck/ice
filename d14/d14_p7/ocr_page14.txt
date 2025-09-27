@@ -1,0 +1,38 @@
+14 Chakraborty, S., et. al / ASR xx (2024) xxx-xxx
+80 October 31, 2021 60 November 04, 2021
+— Individual Quiet Day Variation — Individua Quiet Day Variation
+50 50
+40 40
+30 30
+2 = 20 20
+Ww <= 10 10
+0 prebeametop col. TTS - 0 Fa=———= Ep TTI TTT TTT rae
+10 NL -10
+-20 [(a) -20
+230 -30
+0 2 4 6 8 10 12 14 16 18 20 22 24 0 2 4 6 8 10 12 14 16 18 20 22 24
+40 ime Lag Corrected Bz “0 me Lag Corrected Bz
+30 30
+E 20 20 /
+oT LL 10 10 | LM
+xT IL : SET a i :
+ul (4+ -10 -10 A |
+- -20 -20
+-30 (b) -30 (d)
+“40 -40
+0 2 4 6 8 10 12 14 16 18 20 22 24 0 2 4 6 8 10 12 14 16 18 20 22 24
+LT (h) LT (h)
+Fig. 8. Individual day (red curve) along with quiet time variation (blue curve) of EEJ on (a) October 31, 2021, and (¢) November 04, 2021. Variations of
+residual EEJ (red curve) and time lag corrected IMF B, (blue curve) on (b) October 31, 2021, and (d) November 04, 2021. The
+grey-shaded regions show the duration from 08:00 to 16:00 LT for the days.
+29-10-2021 30-10-2021 31-10-2021 01-11-2021 02-11-2021 03-11-2021 04-11-2021 05-11-2021
+3500 ; ;
+3250
+= c 1750
+NN — : - : : : 3 ;
+1000
+250 | | | Ml
+Q ONIN PQ ONTO YQ ONO YQ ON OQ ONO QO OV ®Q 06h O QQ © WW O
+UT (h)
+Fig. 9. The SME (nT) variation from October 29 to November 05, 2021. The cyan-shaded region indicates the day of October 31, 2021, while the pink-shaded
+region indicates the day of November 04, 2021.

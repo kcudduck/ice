@@ -1,0 +1,45 @@
+7
+1.0
+0.8
+0.6
+Q
+fd
+043
+Q
+=
+0.2.F
+—
+>
+I
+0.0
+FIG. 4. North American substations at risk of electricity loss after a 1-in-10000 year storm. Colour indicates the fraction of
+HVTs we expect to fail within a given Voronoi tile.
+1e6
+1.0 region
+/ 50 Hl Europe
+T Hl North America
+— 0.8 26
+= 5 =
+" 8. 5 40
+0 0.6 2
+R= O04 — 30
+= = Fn
+.—— Oo
+50.4 S53 =
+a Ie $ 20
+®) > LL]
+a Q 2
+0.2 & 10
+1
+0.0 0 0
+1000 10000 1000 10000 1000 10000
+Storm recurrence [years] Storm recurrence [years] Storm recurrence [years]
+FIG. 5. Population volume experiencing CEL as a function of storm rarity in [%] (left), the number of people (centre), and
+electricity loss in gigawatts (right).
+metrics, but of course, this analysis can be expanded to While plenty of papers tackle this issue in a localised and
+include the expected loss of GDP, industry production, narrow manner, to our knowledge, no attempt at a global
+and so on. risk analysis has been conducted. We tackle the problem
+a lv induced of filling this knowledge gap and develop a general model
+; eomagnetica a Hl oT a alc a po cate that combines all adequate specific methods from ther-
+OL COLCELN, CONSIACTing How IC lant many © umantty 5 mal models of HVT tie bar hot spots through historical
+critical infrastructure systems are on electric power 58].

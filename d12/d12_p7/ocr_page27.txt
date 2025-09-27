@@ -1,0 +1,30 @@
+Confidential manuscript submitted to Journal of Geophysical Research: Oceans
+
+proportional to the pressure times the amplification factor —— (Vennell, 2007; Liu and Higuera,
+2022). Applying this expression considering the maximum positive amplitude of the pressure
+model as a function of the distance to Tonga (Equation 5) and the local depth at each point in space
+to calculate the amplification factor, a simple estimator of the leading wave positive amplitude can
+be constructed. The theoretical distribution of the maximum leading wave 1s shown in Figure 12.
+We remark that this 1s a crude approximation, since it assumes an immediate response of the water
+and there are additional physical processes such as wave scattering, shoaling, refraction,
+diffraction, etc., which are not captured. The processes, however, are correctly captured by the
+numerical simulation. Consequently, it interesting to compare Figure 12 with panel (b) in Figure
+11 to evaluate the main differences.
+
+To start with, a large amplification factor of approximately 25 1s obtained over Tonga’s Trench,
+leading to the largest theoretical amplitudes of the locked wave, exceeding 1 m. Other trenches,
+like Mariana, Japan and Kuril, located in the Pacific Nortwest, also show potential large wave
+heights due to the same mechanisms. However, pressure has decayed significantly by the time it
+reaches those locations, leading to lower wave heights overall. Despite, the shortcomings of the
+simplified analysis, the comparison with panel (b) in Figure 11 presents similarities. The main
+differences occur inside the dashed line circle, where the locked and free waves overlap, and where
+wave scattering 1s significant. Because of this, the wave heights in the vicinity of Tonga (black
+star) are much larger in the numerical model solution. At the east side of Tonga’s Trench, the degree
+of similarity increases, although the numerical model solutions present a larger wave over a wider
+geographical area, for the aforementioned reasons. Outside the circle, where the influence of the
+leading wave can be 1solated from the effects of the trailing waves, the degree of similarity 1s
+outstanding, matching not only in terms of the general patterns, but also in terms of the final
+amplitude. Therefore, 1t can be concluded that the analytical model of Liu and Higuera (2022) 1s
+applicable to real conditions, especially in areas with small bathymetry gradients.
+
+27

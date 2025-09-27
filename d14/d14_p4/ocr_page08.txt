@@ -1,0 +1,27 @@
+X - 8 YERMOLAEV ET AL.: GEOEFFECTIVENESS AND EFFICIENCY
+3.1. Occurrence rate of different types of solar wind streams
+
+In order to estimate geoeflectiveness of different types of solar wind streams it is nec-
+essary to have a total list of these types of streams during sufficiently large time interval
+and with sufficiently large statistics. Measured and normalized numbers per year, average
+durations, temporal parts in total times of observations as well as average values and their
+standard deviations of several plasma and magnetic field parameters for various solar wind
+types have been presented in our publication | Yermolaev et al., 2009, 2010a, b, c¢, d, 2011].
+It should be noted that both types of compressed regions (CIR and Sheath) have very
+close values of parameters while the parameters for 2 types of ICME (Ejecta and MC) are
+different. In figure 1 we present yearly average values of sunspots (top panel) and yearly
+average distributions of times of observations for different types of solar wind streams
+(bottom panel). Data for different types of streams are showed by various color columns
+(see designation on the right of the figure) with height proportional to percent of obser-
+vation time. On the average the quasi-steady types of solar wind streams (Fast, Slow
+and HCS) contain about 60% of all solar wind observations near the Earth but time of
+disturbed types of streams decreases down to 25% during solar minimum and increases
+up to 50% during solar maximum.
+
+Various types of solar wind streams transport different values of mass, momentum,
+energy and magnetic field from the Sun to the Earth. Figure 2 shows average distributions
+(percentage) of values (red columns) and total Suns losses (parameters integrated over
+time, blue columns) mass, momentum, energy and magnetic fluxes for different types of
+solar wind streams. High average values for mass, momentum, and energy fluxes are
+observed in compressed regions CIR and Sheath and magnetic flux in MC, but their total
+DRAFT October 23, 2018, 3:27am DRAFT

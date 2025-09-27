@@ -1,0 +1,40 @@
+Experimental and theoretical study on the sec... https://www.sciencedirect.com/science/article...
+Lighthill's acoustic analogy theory, sound propagation characteristic in the flow field
+was investigated by many scholars [27], [28], [29], [30], [31], [32]. Willians and
+Hawkings [30] proposed an equation to investigate the sound propagation
+characteristic with a motion sound source and the equation was solved by Farassat
+[31]. Goldstein [32] investigated the propagation characteristic in the motion flow
+field and proposed a generalized Lighthill equation.
+
+Due to the lack of investigation on the second dominant frequency, the characteristic
+and generating mechanism of the second dominant frequency will be investigated in
+the present study with help of high speed camera and dynamic pressure sensors.
+Furthermore, the propagation characteristic of the second dominant frequency would
+be explored by taking the theory of aerodynamic sound as reference. The
+understanding of the second dominant frequency and its propagation characteristics
+will be useful to the design of the direct contact condensation system and steam-
+driven jet injector. Also, the experimental results can be used to verify the calculation
+results.
+
+Section snippets
+
+Experimental apparatus
+
+The experimental system of submerged steam jet in quiescent water 1s showed in Fig.
+2. It 1s same to the experimental system of Qiu et al. [24]. It mainly constructs with a
+steam generator (the maximum steam mass output is 0.4th™1), a water tank
+(3000%x1200%x2000mm), an electric control valve and a mass flow meter (0.5% full
+span). The nozzle inlet pressure and temperature are measured with a pressure
+transducer (0.1% full span) and a T-type thermocouple (£0.5°C), respectively. The tank
+water ...
+
+The second dominant frequency
+
+When steam is jetted into the subcooled water, the condensation oscillation occurs.
+With the high frequency dynamic pressure sensors, the condensation oscillation
+pressure 1s obtained. However, the dynamic characteristic of condensation oscillation
+pressure 1s known to be extremely complex and strong randomness. Thus the FFT is
+adopted to deal with the random signal. Fig. 6 shows the frequency spectrograms
+transformed with FFT for different test condition. There are two obvious dominant ...
+
+5 of 9 27/09/2025, 17:48

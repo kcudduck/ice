@@ -1,0 +1,60 @@
+2
+The phenomenon known as the geomagnetic storms The framework can be applied to any geographical region
+has been studied for hundreds of years 7|, but only re- where the power grid is known with sufficient accuracy
+cently, due to advances in electrification, some are start- and completeness. The software implementation of our
+ing to worry about the potential risks they can pose to model is open-source 29|, written in Python, and can be
+our society 8, 9]. A society that is increasingly depen- run on a modern PC without the need for a computing
+dent on electricity and related technologies 8, 10]. Geo- cluster or a super-computer.
+magnetic storms result from an energy exchange from the In this article, we specifically tackle the issue of over-
+solar wind into Earth’s magnetosphere. They are trig- heating transformers in power grids due to GICs on an
+gered by sustained periods of high-speed solar wind, and international scale, utilising data from global magnetic
+the most significant storms involve solar coronal mass field observation (MT) stations [30], electromagnetic
+ejections (CMEs) 11]. CMEs are the largest-scale erup- transfer function (EMTF) repository [31-33], crowd-
+tive phenomenon in the solar system — the bulk of plasma sourced power distribution network 34] as well as Open-
+with a mass of 10'® kg is hauled up out to the inter-  StreetMap 35], North American Electric Reliability Cor-
+planetary space with a velocity of more than 1000 km/s ~~ poration (NERC) 36, 37], and Electric Power Research
+12]. These storms induce intense currents in Earth’s Institute (EPRI) 38-41]. In order to assess the effect
+magnetosphere, affecting the radiation belts, ionosphere, on population, we used data from the U.S. Energy Infor-
+and thermosphere. We typically measure them by in- mation Administration, and the Center for International
+dices such as the disturbance storm time — Dst — and a ~~ Earth Science Information Network, Columbia Univer-
+planetary geomagnetic disturbance index — Kp 13]. The sity 42-44].
+consequences include increased atmospheric density af- Our primary target is estimating the population num-
+fecting satellite orbits, disruptions to navigation systems bers experiencing a catastrophic electricity loss (CEL)
+like GPS, and the generation of harmful geomagnetic in- given a recurrence class of a geomagnetic storm (e.g., a
+duced currents (GICs) in power grids. These extreme 1 in 100 year event).
+events can also be visually stunning in the form of auro-
+rae, such as the commonly known northern lights, despite
+their potentially disruptive nature 14). | II METHODS
+GICs are what they sound like — electric currents that
+appear (are induced) in, e.g., power lines as a conse- oo
+quence of rapid changes in Earth’s magnetic field, and In Fig. lll we present a simplified flowchart of our
+those currents can be a cause of worry for the stability model (a full picture is available in the source code repos-
+and health of power distribution networks 15]. itory: https: / / github.com/ allfed/ GeomagneticModel).
+This worry about GICs mainly consists of two phenom. We partition the model into three distinct stages, de-
+v Y b scribed in detail as follows.
+ena: overheating components (predominantly transform-
+ers) and tripping safety switches causing cascade failures
+16]. The jury on whether these constitute a significant
+societal risk is still out. Scientific studies on this issue A. Stage l
+are mostly localised (i.e., consider one particular region
+instead of all of the Earth), and severity claims vary from This stage is based on the methodology developed by
+no risk at all 17, 18] to catastrophic, such as trillions of ~~ Tove et al., 45] and consists of estimating historical mag-
+dollars in damages and years of recovery 19-21], with netic field — B — levels, determining apparent conductiv-
+most ending somewhere in between 16, 22-26]. It is ity and resistivity at electromagnetic transfer function
+worth noting that while the global risk of GICs is still sites (EMTF or TF, for short), calculating electric field
+undetermined, there are documented cases of damage to — EF — levels at magnetotelluric (MT) stations and recur-
+power grids from GICs 25, 26], including severe cases rence rates for those levels, adjusting FE field levels to a
+like the Quebec power failure of 1989 27]. The problem reference location, and finally computing FE fields around
+with assessing the risk here is that strong enough events the globe from the adjusted E fields.
+to cause damage are exceedingly rare, and a replay of the MT stations have been measuring the B field regularly
+largest documented case from 1859, commonly referred fg; many decades. Through these data, we are able to de-
+to as the Carrington event 28], is yet to be seen. termine the statistics on the recurrence of E fields over
+For further reading on this topic, we refer the Reader a long period and thus forecast the repeat rates of the
+to 16, 24, 27] and references therein. less frequent, larger amplitude events. We obtained the
+Since there seems to be a gap in the body of literature data at the Fresno, California, USA MT site (FRN) from
+dealing with widespread events reaching global scales, we the global ground-based magnetometer initiative (Super-
+attempt to partially fill this gap in this paper. Even MAG) 30]. These data contain measurements of the
+though our analysis here shall be limited to Europe and magnetic field every minute for 37 years ending in 2019.
+North America due to limits in data availability, we de- It is worth noting that the results presented here depend
+velop a methodology to assess the consequences of var- on the choice of the site due to inaccuracies in the ap-
+ious strengths of geomagnetic storms on a global scale. parent conductivity model. The FRN dataset was picked

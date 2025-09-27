@@ -1,0 +1,40 @@
+2.3 Dislocations in elastic half-space 7
+elastic medium occupies the region z < 0 and the x—axis is taken to be paral-
+lel to the strike direction of the fault. In this coordinate system, wu; (x1, x2, x3; £1, &2, £3)
+is the ith component of the displacement at (x1, x2, x3) due to the jth direc-
+tion point force of magnitude F' at (£1, &9,&3). It can be expressed as follows
+Mindlin [1936], Okada [1985, 1992], Press [1965]:
+ul (x1, 29, x3) = ul (1, T2, —x3)—ul 4 (21, T2, v3) +ulg (21, T2, v3) +x3ulo (2, Ty, 13),
+(7)
+where
+I 5 RR.
+i i] itl
+j F SLL 04; n
+U:- — —_— — — _ | _-
+1B A714 R R3 0’ R + Rs
+R;0.3 — R;0;3(1 — 0; RR;
+| Riojs — Rjois(1 — 053) HT (gg) — djs) |
+R(R + Rs) R(R + Rs)?
+Ia Ribs — Rib: 5. RR.
+J _ (dV 7+ ) 144g
+In these expressions R, — X71 — £1, Rs — Xo — Eo, Rs — X33 — £3, R? —
+Ri + R5 + Rj. |
+The first term in equation (7), u] (x1, x2, x3), is the well-known Somigliana
+tensor, which represents the displacement field due to a single force placed
+at (&1,&2,&3) in an infinite medium Love [1944]. The second term also looks
+like a Somigliana tensor. This term corresponds to a contribution from an
+image source of the given point force placed at (£1,&2, —§3) in the infinite
+medium. The third term, u)5(x1, x2, x3), and u;,(x1, x2, x3) in the fourth
+term are naturally depth dependent. When x3 is set equal to zero in equa-
+tion (7), the first and the second terms cancel each other, and the fourth term
+vanishes. The remaining term, u;5(x1, x2,0) reduces to the formula for the
+surface displacement field due to a point force in a half-space Okada [1985]:
+1 F 1 (x1—E&1)? 1 (x1—&1)?
+U1 = Tn (# LE a vr = B fee |)
+Uy = on (71 —&1) (12 — &2) (4% — emer)
+_ FF S 1
+uh = (on — 6) (— 5 — re)
+ui = (11 — &) (72 — Eo) (7 — ewer)
+2 FF 1 (x2—E&32)? 1 (x2—E&2)?
+U2 = In (+ LE Ca wr = B fice) )
+U3 — (72 — &2) (—& er) ;

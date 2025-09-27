@@ -1,0 +1,28 @@
+X - 4 YERMOLAEV ET AL.: GEOEFFECTIVENESS AND EFFICIENCY
+
+Huttunen et al., 2006; Pulkkinen et al., 2007a; Plotnikov and Barkova, 2007; Longden
+et al., 2008; Turner et al., 2009; Despirak et al., 2009, 2011; Guo et al., 2011|. This fact
+indicates that it is necessary to take into account the influence of other (in addition to IMF
+Bz and electric field Fy) parameters of the solar wind, dynamics of parameter variation,
+and different mechanisms of generating the magnetospheric disturbances at different types
+of solar wind streams. Several recent papers analyzed separately CIR, Sheath and body
+of ICME and compared them with each other |Huttunen and Koskinen, 2004; Yermolaev
+and Yermolaev, 2000; Huttunen et al., 2006; Yermolaev et al., 2007a, b, c; Pulkkinen et
+al., 2007a; Yermolaev and Yermolaev, 2010; Yermolaev et al., 2010a, b, 2011; Alves et al.,
+2011; Despirak et al., 2011; Nikolaeva et al., 2011; Guo et al., 2011].
+
+Papers mentioned above are devoted studying of response of magnetosphere to inter-
+planetary drives and use word geoeffectiveness for a designation of this link. It should
+be noted that there is a double meaning of the term geoeffectiveness. In one case, geoef-
+fectiveness implies a probability with which selected phenomenon can cause a magnetic
+storm, i.e., the ratio between the number of events of a chosen type resulting in a magnetic
+storm and the total number of these events. In the other case, geoeffectiveness implies the
+efficiency of storm generation by unambiguously interrelated phenomena, i.e., the ratio
+between the output” and “input” of a physical process, for example, between the values
+of the Dst index and the southward IMF Bz component. Below we will use the term
+geoeffectiveness for a designation of probability of relation between the phenomena and
+the term efficiency for a designation of efficiency of process relating phenomena.
+
+A considerable quantity of papers is devoted investigations of geoeffectiveness in gen-
+eration of magnetic storm. The great bulk of works studies geoeftectiveness of magnetic
+DRAFT October 23, 2018, 3:27am DRAFT

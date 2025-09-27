@@ -1,0 +1,81 @@
+Yell : =
+MI Journal of Geophysical Research: Oceans 10.1029/2020JC017011 2
+AND SPACE SCIENCE 2
+Hence, we obtain :
+
+| © : iw ds (1) =
+
+— [ dwe™™ ————— = & cos(wyt H(t) —- —= B16 z
+
+Yr 0* — af 0 (et) (1) dt (B16) :
+
+Using Equation B11 and B16, we calculate Equation B9 as BE
+
+1 " i(k x+k ») PLU (k,.k ) :
+
+p(x, yh. t)=——= [[dk.dk,e"™" "| -——C"2"cos(ayt)H (1) 5
+
+(27) 5 (coshkh,) 3
+
+tanh (kh, ) . | :
+
+_ oh i (kok) (2) + pogotlo (kook, ) H (2) =
+
+(B17) 7
+
+1 A ilk. x+ u kk 5
+
+=—— [[dk dk e (fxs) uso (kok) an (0 &
+
+(27) 5 (cosh kh) 2
+
+tanh (kh, ) . | s
+
+_ pp 2H) (k,,k,)8 0) + pogotte (x, H (1) :
+
+0 o
+
+The first term represents the loading from the sea-surface height, the second term represents the dynamic :
+
+pressure change caused by the accelerating sea-bottom deformation, and the third term represents the hy- c
+
+drostatic pressure change due to the sea-bottom displacement. Similarly, using Equation B12, we obtain the 2
+
+sea-surface height S
+
+-1 = i(k x+k y) ig (&.. k) id
+
+x, y,t) = —u_(x,9,0,t)=—— [dk dk e'” 7 ——cos(wy)H|? B18 5
+
+dl Y A Y (27) Ze d cosh kh ( ’ ) ( ) (B18) :
+
+:
+
+Appendix C: Tsunami Generation Due to a Moving Surface Pressure Change :
+
+Figure C1 shows the tsunami height distributions for a sea depth of hy = 4 km and a moving pressure size of 5
+
+a = 20 km. The velocity of the surface pressure source is set as (a) V; = 0.18 km/s (= 0.9,/g,h, ), (b) V;, = 0.2 g
+
+km/s (= 1.04/goh ), and (c) 0.22 km/s (= 1.14/ go hg ). :
+
+Figure C2 shows the tsunami height distributions for a sea depth of hy = 4 km and a moving pressure size :
+
+of a = 10 km. The velocity of the surface pressure source is set as (a) V, = 0.18 km/s (= 0.9y/g,%, ), (b) :
+
+Vo = 0.2 km/s (= 1.04/goh, ), and (c) 0.22 km/s (= 1.14/gyhy ). 2
+
+In order to examine the effects of dispersion in Figures C2 and C3 plots the wavefields without dispersion by g
+
+setting @, = k+/gyh, in Equations 60-64 instead of setting the dispersion relation of Equation 26. All other :
+
+parameters are common between Figures C2 and C3. g
+
+&
+
+>
+
+:
+
+- :
+SAITO ET AL. 240f29  §

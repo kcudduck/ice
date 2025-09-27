@@ -1,0 +1,31 @@
+2.4 Finite rectangular source 9
+2.4 Finite rectangular source
+Now, let us consider a more practical problem. We define the elementary
+dislocations Uy, Us, and Us, corresponding to the strike-slip, dip-slip, and
+tensile components of an arbitrary dislocation. In Figure 1 each vector rep-
+resents the direction of the elementary faults. The vector D is the so-called
+Burger's vector, which shows how both sides of the fault are spread out:
+D=u"—u".
+A general dislocation can be determined by three angles: the dip angle
+0 of the fault, the slip angle 6, and the angle ¢ between the fault plane and
+Burger's vector D. This situation is schematically described in Figure 2.
+2
+Yy
+Free surface
+O x
+~~ /D
+| T W
+oe
+4
+od
+Fault plane A
+L
+Figure 2: Geometry of the source model and orientation of Burger's vector
+D
+For a finite rectangular fault with length L and width W occurring at
+depth d (Figure 2), the deformation field can be evaluated analytically by
+changing the variables and performing integration over the rectangle. This
+was done by several authors Chinnery [1963], Iwasaki and Sato [1979], Okada,
+11985, 1992|, Sato and Matsu’ura [1974]. Here we give the results of their
+computations. The final results represented in compact form are listed below
+using Chinnery’s notation || to represent the substitution

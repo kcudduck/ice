@@ -1,0 +1,41 @@
+Chakraborty, S., et. al / ASR xx (2024) xxx-xxx 13
+51
+20 — October 28, 2021
+19 ——— October 31, 2021
+J ———— November 04, 2021
+f
+Oo 14 / -
+fd _ 13
+= 01]
+O ul
+oO ~ 10
+w = 9
+= 8
+2
+6
+o
+4
+3
+2
+1
+0
+O 1 2 3 4 5 6 7 8 9 1011 12 13 14 15 16 17 18 19 20 21 22 23 24
+UT (h)
+Fig. 7. TIEGCM simulation results showing the TEC variations over Ahmedabad on a quiet day (October 28, 2021: green curve), on October 31, 2021 (blue curve),
+and on November 04, 2021 (red curve).
+mapping of the same with the residual EEJ variation. The procedure followed in this work for obtaining the time lag corrected IMF
+B, has been thoroughly explained in (see Chakrabarty et al. (2005) and references therein). Looking into panel (b), one can observe
+a fluctuating (or AC) penetration electric field, thereby causing a net positive effect on the EEJ and a corresponding low-latitude
+ionospheric response 1n terms of TEC enhancements. On the other hand, panel (d) clearly shows the effects of AC penetration fields
+and the subsequent inhibition effect in the development of the EEJ and negligible effects on the low-latitude TEC variations.
+
+Next, to rule out effects on the observations due to the substorm-induced electric fields and the compositional changes, Figures|9)
+and|10]are shown. In Figure|9| we show the variations of the SME (nT) index, for the entire analysis period. The value of SME can
+be observed to show a rise up to 750 nT around 23:30 UT on October 30, 2021, and a second rise, higher in magnitude (about 1200
+nT) around 13:30 UT on November 31, 2021, can be observed in the figure. The SME values start rising again and peak with a
+value around 3250 nT on November 04, 2021. This suggests that the substorm-induced electric field did not affect the low-latitude
+ionosphere on the weaker event day significantly.
+
+Furthermore, in Figure 10] we show the thermospheric O/N; ratio maps observed by the GUVI onboard TIMED spacecraft on
+October 31, and November 04, 2021. An overall value of around 0.75 throughout the Indian region, suggests no significant changes
+in the O/N, values over these regions on both event days. Further explanations of these results will be discussed later.

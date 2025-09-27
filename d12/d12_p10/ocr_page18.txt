@@ -1,0 +1,71 @@
+Arrival time (min) Amplitude (m) 18
+1400 1200 1000 800 600 400 200 O 0 0.5 1.5 2 2.5 3
+p= tosa TY C3
+y omae v -
+v ofun v TZ
+y hana [3 Po,
+v wake v ec)
+v kgak 3 =
+v ata v =
+SEWd P=
+— kodi v -
+v cres v =
+v Kahu v CS
+v kawa 3 qr=
+v aren v HR
+2 san [— 2
+0sa a
+Y fpnt v : 2
+v mont v CA
+v sanm = : 5
+v sand 3 :
+hd upol hd 0
+pago Do
+3 ao [— 3)
+Ist :
+v mm | , Ss
+. : ©
+v chit v ~~
+v wait v 0
+v cabo v po
+hiva :
+p= manz - : No
+v atap v FO
+quepo
+R=0.9 balt Ty R=0.9 =
+NRMSD = 0.014 = sant = NRMSD = 0.089 2
+NMAD = 0.011 v spec v NMAD = 0.063
+NNSE = 0.998 NT aric —" NNSE = 0.819
+- qui v
+y | anto v
+v dNCu v
+sanf
+jE cald v v
+¥ corr v
+coqu v
+valp
+1400 1200 1000 800 600 400 200 0 0 0.5 1.5 2 2.5 3
+Figure 9. Comparison of observed and simulated first peak values for travel time and amplitude for the Chile tsunami event of 27
+February 2010. The location of each station is indicated in figure 3, and the details are shown in table 1.
+performance in predicting tsunami wave heights at various stations in the order shown in figure
+11. Higher significance percentages across most of the stations indicate robust statistical reliability.
+Notably, most of the stations demonstrate excellent model performance with low error metrics and
+high efficiency. The stations jack, zanz show very poor regression but better NNSE, indicating the
+model can be improved at these stations. While the model performs well in many regions, certain
+stations with lower efficiency and higher deviation metrics highlight areas for further refinement and
+improvement.
+5.4. Alaska tsunami event 28 March 1964
+The 1964 Alaskan earthquake, also known as the Great Alaskan earthquake, Prince William Sound and
+Good Friday earthquake, occurred on 28 March 1960 at 03:36:00 UTC (Local time 27 [46] at 17:36:16).
+This massive earthquake is the most powerful earthquake recorded in North American history and
+the second-largest earthquake ever recorded globally. The earthquake was 9.2 Mw, and its epicentre
+was north of Alaska’s Prince William Sound region. The earthquake ruptured a large area beneath
+the continental margin of Alaska from Prince William Sound to Kodiak Island, triggering a tsunami.
+The tsunami devastated Alaska, and the earthquake also generated multiple local tsunamis due to
+submarine and subaerial landslides in coastal Alaska [47]. Figure 14a shows the initial deformation
+generated due to the 1964 Alaska earthquake. This deformation is obtained using a finite fault solution
+from [48]. A finite fault solution is a multi-fault representation of the rupture with variable local slip,
+rake angle, depth, rise time and rupture velocity. Figure 14b,c display the distribution of peak tsunami
+wave height simulated and travel time contours of tsunami waves at every 1 h interval for the current
+tsunami. Figure 14b,c is on Robinson's projection. The deformation pattern shown in figure 14a, with
+subsidence of 10 m and uplift of 5 m, is a typical megathrust earthquake in a subduction zone. Figure

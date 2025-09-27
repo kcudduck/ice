@@ -1,0 +1,43 @@
+The role of geomagnetic storm-induced energet... https://www.scliencedirect.com/science/article...
+It 1s widely accepted that at low- and mid-latitudes, ionospheric dynamics are
+controlled predominantly by mechanisms of plasma transport (Richmond and Lu,
+2000). However, Suvorova et al. (2012) found a prominent ionization effect produced
+by intense fluxes of energetic electrons in the equatorial and low-latitude ionosphere
+outside of the SAA region during a geomagnetic storm of 15 December 2006.
+Jayachandran et al. (2011) also provided clear evidence for a systematic and
+propagating temporary total electron content (TEC) enhancement produced by
+compression of the magnetosphere due to a sudden increase in solar wind dynamic
+pressure, which led to the precipitation of energetic particles. 1 TECU variation can
+cause range errors in the order of 0.163 m to GNSS signals at L1 channel (1.5754GHz)
+(Klobuchar, 1996). It has also been reported that high-energy precipitation associated
+with sub-storms produces small TEC enhancement, while lower-energy precipitation
+produces large TEC enhancement (Watson et al., 2011; Suvorova et al., 2014). EPP
+represents an important source of irregular plasma density structures in the high-
+latitude ionosphere (Sato et al., 2018). Such irregular ionospheric electron density
+structures scatter and diffract electromagnetic radio waves, creating unexpected
+fluctuations in the received satellite signal through a process known as radio
+scintillation. Scintillation effects on trans-ionospheric radio signals can lead to signal
+errors or outright signal loss (Akala et al., 2012).
+
+Proton fluxes are mostly intensified during the main phase of a magnetic storm
+(Galand and Richmond, 2001). It has also been shown that in regions where most of
+the energy is carried by protons, the influence of proton precipitation on ionospheric
+conductance can be large (Galand et al., 2001a); this is because energetic protons
+ionize more effectively than electrons do, as their energy loss per electron produced is
+less compared with that of electrons (Galand and Richmond, 2001). Furthermore, it
+has been shown that protons can represent the major source of ionization of the E-
+region in the dusk and midnight sectors of the auroral oval (e.g., Galand and
+Richmond, 2001; Smirnova et al., 2004).
+
+The responses of the upper atmosphere to energetic particles have been studied, but
+most of the previous studies did not capture the role of proton fluxes in ionospheric
+responses, particularly, on a latitudinal scale. Another major research gap of note is
+that studies on the influences of geomagnetic storm-induced EPPs on the African
+ionosphere are quite sparse. Moreover, although some studies have examined the
+modulation of the ionosphere by energetic particle precipitation during geomagnetic
+storms (Gussenhoven et al., 1987; Suvorova et al., 2012), the study of the effect of
+energetic particles on the ionosphere, particularly in line with the intensity and
+drivers of storms has not been well carried out. Additionally, the latitudinal conjugate
+and longitudinal effects of this storm-time energization of particle fluxes and their
+
+4 of 8 27/09/2025, 18:11

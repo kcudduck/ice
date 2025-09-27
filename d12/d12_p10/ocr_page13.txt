@@ -1,0 +1,57 @@
+lt fbn Ad =
+CT emvsa amc amciomeames aes ors, Aco, Arun Sl Narr id S
+ly AW i il 0 ge i I Ah 0 (—f il ; =)
+6:00 AM 12:00 PM 6:00 PM 12:00 AM 6:00 AM 6:00 AM 12:00 PM 6:00 PM 12:00 AM 6:00 AM 6:00 AM 12:00 PM 6:00 PM 12:00 AM 6:00 AM 6:00 AM 12:00 PM 6:00 PM 12:00 AM 6:00 AM . D
+cald: Chile, Caldera call: Peru, Callao,La-Punta char: USA, Charleston, OR chit: New Zealand, Owenga, Chatham Island . Pe
+J |" FY TY — fils 3B
+0 i — ‘i mann 0 pr —ih | : =
+! 1 Bp CETL | : =
+CT cons one ne ou che, Couimbo ia PU cor chit, coral ih CT ees francs -—
+a — | | We J TS hl : =
+om PAT g
+6:00 AM 12:00PM SA oot 12:00 AM me SoA 12:00 PM 6:00PM 12:00 AM G:00AM 6:00 AM ras dl I dua : SS
+MN : ’ q : ’ 057 : ’ oe : ’ ’ SS
+CT ono: Usa Honotuuwoah quiche luiaue Kors: Russia, Korsakov kaj: Marshal sands, Kalen LX
+A YO YT I RSL TN RTL 3
+6:00 AM 12:00PM 6:00PM 12:00 AM 6:00 AM 6:00 AM 12:00 PM 6:00PM 12:00 AM 6:00 AM 6:00 AM 12:00 PM 6:00PM 12:00 AM 6:00 AM 00 Av 12.00 PM 6:00 PM 12:00 AM 6:00 AM : 0
+lali: Ecuador, La Libertad lebu: Chile, Lebu lomb: Papua New Guinea, Lombrum Manus Is manz: Mexico, Manzanillo ; <>
+— om 4 fii E— — Henin — f i : S
+ye. 12:00PM 6:00 PM 12:00 AM 6:00 AM 50.701 12:00PM 6:00 PM 12:00 AM 6:00 AM ye. 12:00PM 6:00PM 12:00 AM 6:00 AM SE 6:00 AM : a
+midx: USA, Midway naha: Japan, Naha nawi: USA, Nawiliwili, Kauai nkfa2: Tonga Island, Nuku'Alofa Harbour wharf ; (G2
+1 05 t 05 ro QQ,
+uk France, Nuk Hica (aruesas, Franch Poynesis) oma: Japan, Omaessld pogo: Samos, PagoPugo © quoper Coun Ries Quupon Pes
+LT : Tl =
+6:00 AM 12:00 PM 6:00 PM 12:00 AM 6:00 AM 6:00 AM 12:00 PM 6:00 PM 12:00 AM 6:00 AM 6:00 AM 12:00 PM 6:00 PM 12:00 AM 6:00 AM 500 AM 12:00PM 6:00 PM 12:00 AM 6:00 AM . NY
+sanf: Chile, San Felix sant: Ecuador, SantaCruz,Galapagos sdpt: USA, Sand Point sumt: New Zealand, Christchurch : (@ eo)
+04 0.5 I h Ho.5
+" BEET I hs | . SE | Hy Ih 4 fi k yh a "
+‘ — i fa il Wt hk Aur Ce ee — fpr-si
+palpi Jpn
+Figure 5. Comparison of the computed tsunami wave heights against the tide gauge observations at various global locations for the
+Japan 2011 event. The red colour corresponds to tide gauge observations, and the blue colour represents a numerical simulation. The
+locations of the tide gauge stations shown as titles on each subplot are marked in figure 3 and shown in table 1. The x-axis represents
+the time stamp, and the y-axis represents the wave height amplitude in meters. The starting time in the abscissa in each subplot is
+11-Mar—2011 05:46:00 UTC. (See electronic supplementary material, table S3, for statistical performance metrics.)
+tsunami. Costa Rica (figure 5; gepo) observed a 0.5 m tsunami. In South America, Ecuador (figure 5;
+lali) faced a tsunami exceeding 1 m, while Peru (figure 5; atic, call) recorded heights surpassing 0.5 m.
+Chile experienced varying tsunami heights in different locations, with Antofagasta (figure 5; anto) at 1
+m, Arica (figure 5; aric) at 2 m and several other locations (figure 5; cald, const, coqu, corr, iqui, lebu,
+talc, valp) reporting heights ranging from 1 to 2 m. Russia's island of Kors (figure 5; kors) witnessed a
+0.5 m tsunami. Among the USA islands, Adak (figure 5; adak) experienced a 1 m tsunami, and several
+others (figure 5; dutc, hono, nawi, midx, sdpt) reported tsunamis of greater than or equal to 0.5 m.
+Additionally, the Chilean island of Sanf (figure 5; sanf) faced a 0.5 m tsunami, while Ecuador’s islands,
+including Balt (figure 5; balt) and Sant (figure 5; sant), reported heights exceeding 0.5 and 1 m, respec-
+tively.
+Figure 6 compares observed and simulated values for the amplitude of the first peak and its
+arrival time at various stations shown in figure 5 for the 2011 Japan tsunami event. The stations
+in figure 6 (bottom to top) are sorted by distance from the epicentre. The model predicted much
+larger amplitudes for nearby stations (hana, omae and losa), possibly because of the used tsunami’s
+initial deformation. From figure 6, it is evident that the differences in amplitude range from -1.37
+m at hana to 0.02 m at manz, with most values being negative, indicating that the model generally
+overestimates the peak amplitude compared to observations. However, the differences are small in
+many cases, such as kors (0.05 m) and hens (0.05 m), suggesting a good match between observed
+and simulated first peak amplitudes. From figure 6, the first peak arrival times are generally close
+to the observed times. Stations like kwaj (6.6598) and hens (6.6598) have minimal discrepancies,
+indicating high accuracy in timing predictions. The statistical parameters shown in figure 6 further
+support the model's reliability for arrival times, demonstrating an almost perfect match. The statistical
+metrics shown for amplitudes indicate a tendency for slight overestimation but generally accurate

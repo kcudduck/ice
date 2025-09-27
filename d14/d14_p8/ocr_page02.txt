@@ -1,0 +1,59 @@
+Remote Sens. 2024, 16, 3497 2 of 22
+The primary data used to study magnetic storms include interplanetary magnetic field
+and solar wind data, ionospheric and magnetospheric data, and geomagnetic disturbance
+indices. However, interplanetary signature data or geomagnetic disturbance indices do
+not identity specific frequencies and bands affected by magnetic storms. It is the use of
+electric and magnetic field data that allows for in-depth study of this topic. With advances
+in space technology, mankind began to utilize satellites and other space probes to observe
+solar activity and magnetic storms. Observation of the Earth's magnetic field from space
+began more than 60 years ago. However, continuous monitoring of the geomagnetic field
+using low-Earth-orbit (LEO) satellites did not begin until 1999 [10]. Since the launch of
+DEMETER in 2004, the satellite has provided technical support for direct observation of the
+ionospheric electric field [11]. In 2018, the CSES-1 satellite was launched and became the
+second LEO satellite capable of directly observing changes in the electric field in space in
+the F-region of the ionosphere [12].
+
+The use of satellite electric and magnetic field data to study frequencies with significant
+perturbations caused by anomalous space phenomena has been partially investigated by
+previous researchers. In 2002, Trautner [13] analyzed electric field data in the frequency
+range of 10 Hz to 300 Hz during magnetic storms, including the Schumann resonance
+frequency, and concluded that the peaks of the perturbation signals were concentrated in
+the range of 10 to 200 Hz. Parkhomov [14] observed short bursts of geomagnetic pulsations
+in the frequency range of 0.2 to 5 Hz during magnetic storms, with a global maximum at
+a frequency of 2.78 £ 0.38 Hz. Although a preliminary range of anomalous frequencies
+has been identified in the ULF band, the most significant specific frequencies affected by
+magnetic storms have not yet been determined.
+
+In the ULF band, the study of Pc waves constitutes a significant aspect of ULF wave
+research. As early as 1993, Fraser-Smith [15] conducted electromagnetic monitoring of ULF
+waves and found that ELF/VLF waves are much less affected than ULF waves when a
+magnetic storm is approaching. It has been demonstrated that the response of ULF waves
+during magnetic storms is closely related to geomagnetic activity and solar parameters [16].
+ULF wave power is linearly correlated with the absolute value of the SYM-H index during
+the main phase of the storm and exponentially correlated with the absolute value of the
+SYM-H index during the recovery phase [17]. The intensity of geomagnetic pulsations with
+a frequency of 27 mHz during the initial phase of the magnetic storm reaches a maximum
+in the morning and night segments at polar and auroral latitudes, respectively. Daytime
+Pc wave pulsations are strongest during the main phase of the magnetic storm, not during
+the recovery phase as previously thought [18,19]. Different interplanetary sources cause
+varying pulsation strengths. The higher latitude position of the Pcb pulsation intensity
+maximum in CIR storms suggests larger dimensions of the daytime magnetosphere during
+CIR storms compared to CME storms [20].
+
+In the ELF and VLF bands, Tatsuta [21] analyzed two years of nightly data from the
+VLF/LF observation network in Japan and found that high latitudes are more affected by
+geomagnetic activity compared to mid-latitude and low-mid-latitude paths. During the
+strong magnetic storm from 8 to 10 November 2004, intense electromagnetic harmonic
+emissions between 500 and 2000 Hz were detected at mid-latitudes. Similar emissions were
+also observed on 21-22 January 2005 and on 15 May 2005 during two magnetic storms of
+lower intensity [22]. Pinto and Gonzalez [23] suggest that the enhancement of these waves
+during geomagnetic storms and substorms is characterized by a peak at 550 Hz and that
+their intensity is highly dependent on magnetic activity. Zhima [24,25] found that very
+low-frequency waves below 3 kHz were significantly enhanced throughout the magnetic
+storm, whereas high-frequency waves above 3 kHz were significantly enhanced in the later
+part of the main phase and the earlier part of the recovery phase.
+
+In the study of the HF band, Blagoveshchenskii [26] analyzed the manifestation of the
+so-called main ionospheric effect on the propagation properties of ten-meter waves during
+geomagnetic storms. Specifically, these parameters increase before the active phase of the
+disturbance, decrease during the active phase, and increase again after this phase. Since the

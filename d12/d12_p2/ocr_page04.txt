@@ -1,0 +1,48 @@
+2.2 Volterra’s theory of dislocations 4
+
+Several studies showed that the effect of earth curvature is negligible
+for shallow events at distances of less than 20° Ben-Mehanem et al. [1970],
+Ben-Menahem et al. [1969], McGinley [1969], Smylie and Mansinha [1971].
+The sensitivity to earth topography, homogeneity, isotropy and half-space
+assumptions was studied and discussed recently Masterlark [2003]. The au-
+thor used a commercially available code, ABACUS, which is based on a finite
+element model (FEM). Six FEMs were constructed to test the sensitivity of
+deformation predictions to each assumption. The main conclusion is that the
+vertical layering of lateral inhomogeneity can sometimes cause considerable
+effects on the deformation fields.
+
+The usual boundary conditions for dealing with earth’s problems require
+that the surface S of the elastic medium (the earth) shall be free from
+forces. The resulting mixed boundary-value problem was solved a century
+ago Volterra [1907|. Later, Steketee proposed an alternative method to solve
+this problem using Green’s functions Steketee [1958].
+
+2.2 Volterra’s theory of dislocations
+
+In order to introduce the concept of dislocation and for simplicity’s sake,
+this section is devoted to the case of an entire elastic space. The second
+reason is that in his original paper Volterra solved the problem in this case
+Volterra [1907].
+
+Let O be the origin of a Cartesian coordinate system in an infinite elastic
+medium, xz; the Cartesian coordinates (1 = 1,2, 3), and e; a unit vector in
+the positive z;-direction. A force F = Fe, at O generates a displacement
+field u¥(P, 0) at point P, which is determined by the well-known Somigliana,
+tensor
+
+ur (P, 0) = Lar an — QT Gk), With a = Arp (1)
+
+STL A420
+In this relation 9,5; is the Kronecker delta, A and py are Lamé’s constants,
+and r is the distance from P to O. The coefficient a can be rewritten as
+a = 1/2(1 — v), where v is Poisson’s ratio. Later we will also use Young's
+modulus £, which 1s defined as
+HBA 2)
+A+
+
+The notation r ; means Or/0x; and the summation convention applies.
+
+The stresses due to the displacement field (1) are easily computed from
+Hooke’s law:
+
+0; = AO; Uk 1 + p(w; + Uj ;). (2)

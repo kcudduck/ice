@@ -1,0 +1,82 @@
+2168 H.S. Kang, C.-H. Song / Nuclear Engineering and Design 240 (2010) 2160-2168
+
+is not observed at the velocity profile of Case-6 (Fig. 10(b)), and also The results of the CFD sensitivity analysis show that the value of
+the calculated velocity profile in the radial direction shows a good the turbulent intensity at the inlet region is the most important fac-
+agreement with the test data within a 10% difference. This may tor because it determines the jet boundary through a momentum
+be because the inlet condition of Case-6 simulates the physics of diffusion process in the radial direction. The difference in the CFD
+turbulent jet much better than in the other cases. A high turbulent analysis results due to a variation of the mesh distribution, and the
+intensity value (30-40%) of the mean velocity around the turbulent selected convection term methods and the turbulent models was
+jet has been reported based on experimental results (Van Wissen found to be negligible because the flow structure at the region of
+et al, 2005). Additionally it is noted that a turbulent intensity at the interest was very simple.
+
+inlet region of the turbulent jet region may enlarge the jet width New efforts regarding an experiment and CFD analysis have
+by a momentum diffusion process along the radial direction. been made recently for characterizing the overall circulation phe-
+
+According to the comparison of the temperature (Fig. 9(b)) nomena due to a steam discharge in a subcooled water pool at
+between the analysis and tests, only the CFD results only for Case- KAERI in order to characterize a higher value of the turbulent
+6 can predict the test data reasonably well because the turbulent intensity in and around a turbulent jet in a quantitative way. And
+temperature field is calculated from the velocity results by using the finally our next steps toward a complete analysis of steam jet-
+turbulent Prandtl number in the CFD analysis (ANSYS Inc., 2007). induced thermal mixing in a pool will be given to the analysis of a
+However, further discussion on the comparison of the temperature condensing steam jet by both CFD analysis and the sophisticated
+between the CFD results and the test data is not achievable because experiments focusing on local thermo-fluid behavior inside and
+the average pool water temperature was varied during a steam jet near the boundary of a steam jet.
+discharge in the experiments, and the data of the CFD results and
+the test data for the present comparison was not obtained at the Acknowledgements
+same time. Furthermore, it should be emphasized that, in princi-
+wall region, not to the flow between two different shear layers. program of the Korea Science and Engineering Foundation (KOSEF)
+In the present CFD analysis of the temperature distributions such grant funded by the Korean government (MEST). (grant code:
+as the curve shape (Fig. 9(a) and (b)), the curve shape of the tem- M20702040003-08M0204-00310).
+perature distribution by the CFD analysis is almost similar to the
+velocity distribution results in the CFD analysis, whereas the tem- References
+perature shapes determined by Tollmien’s theory are different from
+that of the velocity due to the effect of the square root (Table 1). It is Abramovich, G.N., 1963. The Theory of Turbulent Jets. MIT Press, Boston, pp. 76-85.
+concluded that a careful investigation is necessary to find the rea- ANSYS Inc, 2007. CFX-11 Manual. ~~~
+“om Tore (The cFTerenes. The vase srl Eres che Ehnttene Bestion, D., et al., 2007. Best Practice Guidelines for the Use of CFD in Nuclear Reactor
+
+! — y p Safety Application, OECD/NEA, NEA/CSNI/R(2007)5.
+
+along the jet centerline in the CFD results are decayed slowly except Chung, M.K., 2005. Lecture Note of Computational Turbulence Modeling. Korea
+
+for Case-6 when compared with the test results. This may also be Advanced Institute of Science and Technology. | |
+
+caused by the reduced transfer of the momentum and energy due Del Tin, G., Lavagno, E., Malandrone, M., 1983. Thermal and fluid-dynamic features
+
+) ) of vapor condensing jets. Heat Tech. 1 (1), 13-35.
+to the over-predicted circulation flow (Case-1-Case-5) in the radial Kang, H.S., Song, C.-H., 2008. CFD analysis for thermal mixing in a subcooled water
+direction which may give rise to a slow decay of the momentum and tank under a high steam mass flux discharge condition. Nucl. Eng. Des. 238,
+C1 A; 492-501.
+
+CheLsy along the axial direction. Kim, H.Y., Bae, Y.Y., Song, C.-H., Park, J.K., Choi, S.M., 2001. Experimental study on
+stable steam condensation in a quenching tank. Int. J. Energy Res. 25, 239-252.
+
+5. Conclusions Kim, Y.S., Song, C.-H., Chun, H.G,, Yoon, Y.]., Park, C.K., Kang, H.S., 2005. Steam con-
+densation induced thermal mixing experimental using B&C facility. Tech. Report.
+
+Co Korea Atomic Energy Research Institute, KAERI/TR-2933/2005.
+
+When a condensing steam jet is discharged into a subcooled Kim, Y.S., Youn, Y.J., 2008. Experimental study of turbulent jet induced by steam jet
+water pool to form a turbulent jet, the local characteristics of that condensation through a hole in a water tank. Int. Commun. Heat Mass Transf.
+turbulent jet, such as its local velocity and temperature distri- £5, ZL) |
+
+ffect th 1 mix; behavi in that L In thi Park, C.K.,Song, C.-H., Jun, H.G., Yoon, Y.J., Kim, Y.S., March 2005. Steam Condensation
+butions, affec € Oveld mixing o> av1orl n 1d pool. In : IS Test Program and Analysis of Hydraulic Loads. Technical Report. Korea Atomic
+study, a CFD analysis of turbulent jet behaviors in a condensing Energy Research Institute, KAERI/TR-2946/2005 (in Korean).
+
+: : : : Co. densation phenomena due to a multi-hole sparger. J. Nucl. Sci. Technol. 44 (4),
+ing semi-analytical correlations to a condensing steam jet-induced 548-557
+turbulent jet and also to analyze the thermal-hydraulic behavior, Ra, I.S., February 1999. IRWST Thermal Hydraulic Load Analysis Report. Korea Power
+such as a global circulation and local hot spot, in a condensation Engineering Company, N-001-END461-201. |
+
+wall Foe seared] Fah waler meee. heae] an 8 @aremeaTEET Song, C.-H., Baek, W.-P., Park, ]J.-K., 2007. Thermal-hydraulic tests and analyses for
+p & ’ p ) the APR1400 development and licensing. Nucl. Eng. Technol. 39 (4), 299-312.
+with experimental data. Since the measured range of the velocity Song, C.-H., et al., 1998. Characterization of direct contact condensation of steam
+and temperature distribution was limited mainly for some practi- jets discharging into a subcooled water. In: IAEA Technical Committee Meeting,
+
+PSI, Villigen.
+
+cal reasons, a CFD analysis was used to generate the velocity and Su, T.M., November 1981. Suppression Pool Temperature Limits for BWR Contain-
+temperature data at the unmeasured regions. As for the first step ments. United States Nuclear Regulatory Commission, NUREG-0783.
+toward the prediction of the overall flow circulation behavior in Van Wissen, R.J.E., Schreel, K.R.A.M., Van Der Geld, CW.M.V., 2005. Particle image
+a condensing pool, the validation work using a commercial code, Sa ee a of a steam-driven cofined turbulent water jet. J. Fluid
+CFX-11, including a sensitivity analysis was performed against the Yoon, C., Park, ].H., 2007. Simulation of the internal flows of an inlet diffuser assembly
+test results. for the CANDU-6 moderator analysis. Nucl. Technol. 160 (3), 314-324.

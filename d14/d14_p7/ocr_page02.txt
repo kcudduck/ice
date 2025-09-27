@@ -1,0 +1,43 @@
+2 Chakraborty, S., et. al / ASR xx (2024) xxx-xxx
+enhanced in an ICME sheath region. On the other hand, the MC region 1s characterized by a slow rotation of the magnetic field and
+much lower values of proton temperature (Zurbuchen & Richardson, 2006; Rout et al., 2018).
+
+Geomagnetic disturbances begin when the north-south (B,) component of the frozen-in Interplanetary Magnetic Field (IMF),
+carried by the solar wind, turns and remains southward, causing strong reconnection with the geomagnetic field (Dungey, 1961;
+Gonzalez & Tsurutani, 1987; Tsurutani et al., 1988; Gonzalez et al., 1994). Following this phenomenon, the penetration of magne-
+tospheric convection electric fields from the high latitudes to the low- and equatorial latitudes occurs which 1s known as the Prompt
+Penetration of Electric Field (PPEF) (Vasyliunas, 1970). Studies have shown that the equivalent current system, associated with
+the PPEF, has a few minutes to about 3-4 hours of average lasting periods (Nishida, 1968a b). The PPEF has been shown to have
+significant effects on the low-to-equatorial latitude electrodynamics (Fejer et al., 1983; Spiro et al., 1988; Fejer & Scherliess, 1997).
+Furthermore, at the poles and the higher latitudes, the Auroral Electrojet (AE) currents transfer heat energy to the neutral gas by the
+Joule heating process (Ahn et al., 1983). These currents, via the process of momentum transfer, cause changes in the circulation
+of the neutral wind in and around the sub-auroral thermosphere. As a result, the Disturbance Dynamo Electric Field (DDEF) plays
+a role 1n the equatorward transportation of plasma from the higher to the lower latitudes (Blanc & Richmond, 1980; Scherliess &
+Fejer, 1997; Fuller-Rowell et al., 2002). This DDEF 1s opposite (westward during daytime and eastward during nighttime) in nature
+to the PPEF and 1s a long-lasting process that lasts for a few days after the storm onset. During such periods, the DDEF modulates
+low-latitude electrodynamics significantly in comparison to the quiet-time variations.
+
+The Equatorial Ionization Anomaly (EIA) characterizes the ionosphere over the low-latitude regions of the globe. The EIA gets
+developed at the northern and southern crests around +15 — 20° magnetic latitude mainly due to the removal of plasma from around
+the equator by the upward E X B drift and partly due to the diffusion of plasma along the field lines from higher altitudes (Appleton,
+1946; Balan et al., 2018). The daily variation of this EIA and hence the electron density or the Total Electron Content (TEC) over
+the low-latitude regions are due to the variations in the electric fields and the thermospheric winds (Abdu et al., 1990).
+
+Several researchers (Abdu (1997); Ngwira et al. (2012); Astafyeva et al. (2015); Nava et al. (2016); Rodriguez-Zuluaga et al.
+(2016); Chakraborty et al. (2020c); Chakraborty & Chakrabarty (2023) and references therein) have studied the response of the
+ionosphere to strong geomagnetic storms over different longitude sectors throughout the globe. However, there have been only
+a few studies that address the response of the ionosphere to weak-to-moderate geomagnetic storms, often ignored because of the
+expectation of negligible alterations 1n the ionospheric electrodynamics over daily variations. The study by (Buresova et al., 2014)
+showed that geomagnetic storms of moderate intensity are capable of causing greater effects on the mid-latitude ionosphere while
+the study by (Li et al., 2012) showed the observations of large ionospheric variations during a weak geomagnetic storm. A recent
+study by (Chakraborty et al., 2020a; Chakraborty & Datta, 2020) brought forward similar observations of anomalous enhancements
+in the TEC over the low-latitude regions of the Indian longitude sector. However, studies dedicated to low-latitude responses,
+around the EIA region, during geomagnetically weak as well as strong conditions, under the influence of an ICME-MC or sheath
+region, are sparse.
+
+The motivation for this work comes from the fact that whether a stronger IMF condition in terms of higher magnitude (due
+to different subsets of ICMEs) and subsequent enhancement in ring current (observed as Symmetric (SYM)-H decreases), would
+always necessarily mean a stronger response of the low-latitude ionosphere. This study shows the anomalous response of the
+ionosphere over a low-latitude region in the Indian sector under a weak geomagnetic storm (October 31, 2021) and compares the
+same under a stronger geomagnetic storm (November 04, 2021) due to MC-like and ICME-driven sheath regions. The present
+investigation brings forward an anomalous case where for an ICME to be geoeflective, especially up to the point of perturbing the

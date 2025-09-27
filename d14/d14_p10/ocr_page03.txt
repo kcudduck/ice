@@ -1,0 +1,40 @@
+The role of geomagnetic storm-induced energet... https://www.scliencedirect.com/science/article...
+environment (Brueckner et al., 1998; Webb et al., 2001; Berdichevsky et al., 2002;
+Zhang et al., 2003; dal Lago et al., 2004; Gopalswamy et al., 2005). Geomagnetic
+storms are harmful disturbances in the Earth's geo-space environment (Gonzalez et
+al., 1994; Tsurutani and Gonzalez, 1997).
+During and after geomagnetic storms, charged particles (electrons, protons, and ions)
+are injected into the Earth's magnetosphere (radiation belts) where they are
+accelerated with high velocities via wave-particle interactions (Friedel et al., 2002).
+Thus, very drastic changes in the radiation belt particles have been observed during
+magnetic storms (Mcllwain, 1966). The decrease that occurs during the main phase of
+a magnetic storm is followed by an increase during the storm's recovery phase, which
+sometimes exceeds the pre-storm level (Obara et al., 2000). Energetic Particle
+Precipitation (EPP) is an atmospheric phenomenon that occurs when previously
+trapped electrons and protons in the radiation belts enter the Earth's atmosphere,
+thus creating interferences and other disturbances to communication signals. Much
+attention has been paid to this phenomenon since a large enhancement of relativistic
+electrons caused fatal damage to satellite operations (Gussenhoven et al., 1987).
+Precipitations of energetic electrons is one of the main ionizing sources in the polar
+and high-latitude regions and probably in the region of the South Atlantic Anomaly
+(SAA) (Vampola and Gorney, 1983). This is because EPP has enough energy to knock
+out electrons from the neutrals at a higher rate than recombining with them in the
+upper atmosphere, thus increasing the number of 1ons. It is well known that EPP from
+the ring current and radiation belts causes chemical changes in the upper atmosphere,
+e.g., the creation of NOx and HOx molecules, which can catalytically destroy the ozone
+layer (Randall et al., 2005; Verronen et al., 2011; Sinnhuber et al., 2014) mostly during
+polar winter when there is little or no sunlight. This in turn is known to cause changes
+in atmospheric temperature profile, which leads to changes in atmospheric circulation
+that could propagate even to the ground (Langematz et al., 2003; Baumgaertner et al.,
+2011; Maliniemi et al., 2013). Essentially, all geomagnetic storms substantially alter
+the electron radiation belt populations (Reeves et al., 2003, Green et al., 2004).
+Anderson et al. (2015) showed that small geomagnetic storms affect the radiation belt
+acceleration and loss in much the same way as large storms.
+Energetic particles that precipitate into the atmosphere come from different sources:
+the Sun in large solar particle events (SPEs), the aurora and the radiation belts during
+geomagnetic storms and substorms, or outside the solar system. The particles from
+these various sources have different energy spectra and interact differently with the
+terrestrial magnetic field; therefore, they affect different altitudes and geographic
+regions (Sinnhuber et al., 2012).
+
+3 of 8 27/09/2025, 18:11

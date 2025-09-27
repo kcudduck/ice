@@ -1,0 +1,58 @@
+Tsunami Generation Procedure using Navier-Stokes solver and an Investigation into the Run-
+up
+Peiwei Xie, State Key Laboratory of Tropical Oceanography, South China Sea Institute of Oceanology, Chinese Academy of
+Sciences, pwxie@scsio.ac.cn
+Yan Du, State Key Laboratory of Tropical Oceanography, South China Sea Institute of Oceanology, Chinese Academy of
+Sciences, duyan@scsio.ac.cn
+ABASTRACT
+In the investigation of tsunami waves impacting on the coast Tohoku tsunamis. Comparisons of surface elevations of the
+and coastal structures, the generation of tsunami waves (c) 2004 Indian Ocean and (d) 2011 Tohoku tsunamis. Star
+with long wavelengths and leading troughs in both symbol: field-measured wave-height record; black curve:
+laboratory experiments and numerical simulations is fitted wave-height function; red solid curve: transient
+challenging. In this study, We propose a tsunami generation variation in the modeled surface elevation at the wave
+procedure for the free generation of tsunami waves using entrance; red dashed | curve. transient variation in the
+Navier--Stokes solver. The time series of the tsunami modeled surface elevation at a distance of 5 km from the
+surface elevation and derived wave velocity are interpolated wave entrance.
+In an open-source Navier-Stokes solver - interFoam -- for
+the generation of tsunami waves. The analytical function The run-up mechanism of the leading-depression tsunami
+form deriving the wave velocity is: waves is investigated. Spatial and temporal variations in the
+u(x,t) surface elevation, flow contour, and velocity field are
+= u(x,t — At) presented. The results indicate that a stronger leading
+x — trough may induce a longer wave recession distance before
++ (re 1) (res 1) Cen) ghCx, 0). (1) the elevated wave arrives and a higher wave run-up at a
+2 \h(x,t — At) hx, t — At) hx, t — At) later time. With the increase of the trough amplitude, the
+seaward and landward velocities of the wave are both
+The wave records of the 2004 Indian Ocean and 2011 intensified. The leading trough steepens the wave front of
+Tohoku tsunami events are reproduced by the Navier- the elevated wave and potentially triggers wave breaking
+Stokes solver for the first time. In addition, the credibility of during the run-up.
+the model for long-wave generation, propagation, and run-
+up is validated against laboratory measurements. The _¥_015 010 005 000 005 010 015 03 03 01 00 01 02 03 3B
+general results suggest that the tsunami generation Jap — | — — 0
+procedure is feasible and that /nterFoam is an excellent om pe -
+option for tsunami wave modeling. Without the linear vip BEE cc Epes
+shallow water approximation, the procedure can be used to ERY aa Es
+model leading-depression tsunami waves of high Ee cal
+nonlinearity. = Py yo 0.5 0
+(b) t= 4.04 (Elf = dd?
+2 | | 12 SE REE Baas
+Qn be ow peo [EEE a Lie Ee
+| NY | AO S— Pos Liz
+2 0 TIE a =
+0 400 800 1200 16000 400 800 1200 1600 g 0.5 0-1 05 0
+4 © Fa © = 4.15 (Ht =473
+3 ~ >) 1.0 EE... : i
+2 7 Re +0 EEE IIa d
+{3 : # a. To =H Fe -— =: _ = >
+= A PR Saga = ===
+B haa = i 05 0 -l 05 0
+0 200 400 600 800 1000 1200 1400 1600 a et
+6 -(d) Figure 2 - Panels (b) and (c) depict the flow contours and
+~ yi velocity fields when the wave front of the elevated wave
+ld) A occurs at half of the slope for 4,/4 = 0.5 and 1.0,
+1 Xv, Fay respectively. A; is the depth of the leading trough. A is the
+0 fmmempptiigasgoss os oop essen NO height of the wave crest. Panels (e) and (f) depict the flow
+0 200 400 600 S00 1000 1200 1400 1600 1800 contours and velocity fields when a maximum receding
+t (5) distance is reached. Panels (a) and (b) for A,/A = 0.0 are
+plotted for contrast. The plots are not to scale.
+Figure 1 - Derived wave velocities based on Equation 1 of
+the wave records in the (a) 2004 Indian Ocean and (b) 2011 Furthermore, our investigation delves into the wave run-up

@@ -1,0 +1,37 @@
+The next Fig. 8 supports all the conclusions drawn above. It also shows that difference between analytical and numerical
+results increases with an increase in wave period. As pointed out before for small wave periods the numerical solution may
+coincide with the analytical one or even become smaller as it happens for kho = 0.38 for Xo /4 > 8.
+kh
+0.18 0.2 0.22 0.24 0.26
+4.5
+~~ a — =
+= =F + . - -
+4 . ao EETEIO a .
+< 3.5 3
+SE 3c o (0 ae]
+= ©  ©%o
+SY - SO JT EL
+2.9 ema
+2
+0.9 1 1.1 1.2
+A Xo
+
+Figure 7: Maximum run-up height, Rmax/A as a function of initial effective wave length, //Xo (blue axes), and kho
+(black axes). Analytical solutions for tan a = 1:20 and tan a = 1:50 are shown by dotted and dashed lines respectively,
+while numerical simulations for tan a =1:20 and tan a =1:50 are shown by circles and crosses respectively,
+Alho = 0.03.
+Important, that both analytical and numerical results in Fig. 5 and Fig. 8 demonstrate an increase in maximum run-up height
+with an increase in the distance Xo /A. This result is in agreement with the conclusions of (Didenkulova et al 2007;
+Didenkulova, 2009) for sinusoidal waves. In order to be consistent with the results of (Didenkulova et al 2007; Didenkulova,
+2009), we connect the distance Xo /A with the incident wave front steepness in the beginning of the bottom slope. The wave
+front steepness s is defined as maximum of the time derivative of water displacement, d(n/ A)/d(t/T) , and is studied in
+relation with the initial wave front steepness, so, where:
+
+max (dn(x,t)/dt max (dn(x=a,t)/dt
+s(x) = max (dnCen/dr) j= max (d(x =a,n/dt) (15)
+
+AIT AIT
+In order to calculate the incident wave front steepness in the beginning of the bottom slope from results of numerical
+stimulations we should separate the incident wave and the wave reflected from the bottom slope. At the same time, the wave
+steepening along the basin of constant depth is very well described analytically as demonstrated in Fig. 9.
+10

@@ -1,0 +1,55 @@
+Remote Sens. 2024, 16, 3497 6 of 22
+oS CEL cv ay ea 47) ov os Fe "Ea Nr Som
+42 : a Se, E ry . =F 2B Fi ;
+
+“EE Be TRE FEEETEE BECE — = EEE = EE SE FEST EY | 2
+= | Fi {5d 11 BFR AE eS EERE PL Eile oe hls =
+651 = 1h BY LE" gy 3 iE ig Lik Teng os b EY HER i 180 ;E 0
+
+2 3 4 5 6 7 2 3 4 5 6 7 2 3 4 5 6 7
+65 HF: 1.5 MHz 65 HF:2.5 MHz 65 HF: 3.5 MHz .
+42 42 42
+_ 14 _ 14 IRI _ 14 2g
+~ 14 “1a [ i ) ~ 14 £
+Q
+-42 -42 -42
+-65 -65 -65 0
+2 3 4 5 6 7 2 3 4 5 6 7 2 3 4 5 6 7
+November 2021 November 2021 November 2021
+Figure 3. VLF, HF single-frequency PSD (the red rectangle is the main phase period).
+
+Three frequencies, 3.9 Hz, 9.3 Hz, and 14.2 Hz, were selected for the ULF band. These
+three frequencies showed significant disturbance enhancement on 4 November 2021 (blue
+indicates quiet, red indicates disturbance). The main disturbance area is above 22°, and
+the latitudinal extent of the disturbance varies over time. In the southern hemisphere,
+the latitudinal extent of the disturbance gradually widens. In the northern hemisphere,
+the latitudinal range of the disturbance first widens and then narrows. An electric field
+disturbance with a duration of about 1 h (two orbits have color anomalies and one orbit’s
+observation time is 0.5 h) occurs in the middle and low latitudes. The red anomalies at
+3.9 Hz and 9.3 Hz are darker than those at 14.2 Hz, indicating that the disturbance strength
+at these two frequencies is greater than that at 14.2 Hz.
+
+In the ELF band, significant electric field disturbances were observed in the northern
+hemisphere during the main phase of the magnetic storm. The disturbance pattern is similar
+to that of the ULF band, with the red anomalous region being smaller in color intensity and
+density. This indicates that the disturbance intensity and extent in the ELF band are smaller
+than those in the ULF band. In the southern hemisphere, there is a constant electric field
+disturbance in the range of 42°N to 65°N. A deepening of the red color during the main
+phase indicates a strengthening of the constant electric field perturbation, although the
+exact perturbation requires quantitative analysis later. Among the three frequencies in the
+ELF band, the electric field perturbation is stronger at 1825 Hz than at 625 Hz and 1225 Hz.
+
+There are significant differences in the perturbations at different frequencies in the VLF
+band. The 12 kHz frequency point shows obvious disturbances in the northern hemisphere,
+the 18 kHz frequency point shows slightly weaker disturbances, and the 6 kHz frequency
+point shows almost no disturbances. In the southern hemisphere, there is a constant
+disturbance in the VLF band in the range of 42°N to 65°N, which is weaker than that in
+the ELF band. No significant electric field perturbations are observed at any of the three
+frequencies in the HF band.
+
+Comparing the four frequency bands, the frequencies in the ULF, ELF, and VLF bands
+all show electric field perturbations during magnetic storms, whereas the frequencies in
+the HF band show almost no perturbations. From the several frequencies illustrated in
+the figure, the ULF band shows obvious electric field disturbances in both the northern
+and southern hemispheres, while the ELF and VLF bands show obvious electric field
+disturbances only in the northern hemisphere. The range of electric field disturbances

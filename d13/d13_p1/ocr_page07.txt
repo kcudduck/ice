@@ -1,0 +1,72 @@
+2166 H.S. Kang, C.-H. Song / Nuclear Engineering and Design 240 (2010) 2160-2168
+19.18 1.15
+18.07 11.36 i SE TEL oo ryt Ee TT Re
+i: E57 . Vie Wea vill, Bs SEEING 55
+se 5.78 <3 os { erga
+wn AR) pod 1 B 1 » FE
+12.59 I. = : :
+12.48 33.4 ‘ . BR ar
+11.36 m.n \ EH | : | ta JR
+10. (AEN pod eA = | SDE
+9.12 INT i : oN | 1 : 4 Ah 3
+B09 2% Fi le [EL : A
+6.89 a = int | -w" = 27] = 2
+5.71 ph 4 i " AE SY a
+46 01.69 sme fh 2 Ennki ‘i
+3.53 0.10 | JET ob Je Ly TP ae, |
+A % 2 % | Fo [2
+on IE 154.7) [Ed ol Ye i ball i [Fhe hi
+0.4 13) 4 SC Foros Fol - : - : Unf =
+3.0% 131. 1% rd : ve { a a." " IEEE Ls ¥
+7 sec. 8 sec. 9 sec. 10 sec. 7 sec. 8 sec. 9 sec. 10 sec.
+(a) Velocity Distribution Contour (b) Temperature Distribution Contour
+~ 1.00 Xx =12cm BT si + 1.004 ®= X = 16cm Bo : 2 Ee RN
+Ss 75 pried = 0.75 a f0ias oF ee,
+z = : S os 2 |
+C 0.50 3 0.50 2 0.7
+: 0.25 : 0.25 3 8 —— Hanis
+= 5 r= ~~ Bsec.
+Z 5.00 9G < 000 HPF E 0.4 ple wl
+= =
+co 05 10 15 20 25 30 35 DO 05 10 15 20 25 30 35 40 45 8 10 12 14 16 18
+Radial Distance from Jel Center (cm) Radial Dislance from Jel Center (cm) Axial Distance from Single-Hole (cm)
+(c) Normalized Velocity Distribution at the 12cm, 16cm and Jet Center Line
+Fig. 8. Velocity, temperature and velocity distributions of Case-1 at 7, 8,9 and 10s.
+discharged into a pool water. As for the pressure outlet boundary Aw Aw n J ok
+condition (ANSYS Inc., 2007), the Neumann condition was set for ~~ 3 + Vix, = aS" — fso + 3; V+ Owl 3;
+the upper free surface of the pool region, which only allows an out-
+flow of air. A symmetry condition was applied to the center of the +2(1- Fo 1 ak ow (8)
+sparger. Hat! Ox; 0X;
+Thermal mixing phenomenon in a subcooled water pool was
+treated as an incompressible flow, a free air surface over the pool
+water, a turbulent flow, and a buoyancy flow. Therefore, the govern- Vp = _ 4ik (9)
+ing equations used in this study are the Navier-Stokes and energy max(a, SF)
+equations with a homogenous multi-fluid model under a coupled dip = Pup + BVP - AT (10)
+algorithm (ANSYS Inc., 2007). The turbulent flow is simulated by
+the standard k-¢ turbulent model (Egs. (4)-(6)) and the shear stress 43 Discussion on the CED results
+transport (Eqs. (7)-(9)), and the buoyancy is modeled by the Boussi-
+nesq approximation. As for the numerical model for the convection ie the devamioney of ihe FD) results dell be dheded
+on , the Brst-order ra on (py and the high reso before comparing the CFD results of the transient state with the
+the inter-ohase mass and hea oe far I — ° 1 Each —— test results of the quasi-steady state. The velocity, temperature and
+phase 5 the normalized velocity distributions in the radial and axial direc-
+port quantity in the governing equations except for the volume tions for Case-1 at t=7, 8, 9 and 10's are shown in Fig. 8. From the
+fraction is summed over all the phases to provide a single transport TID) resi, fi fs baad) (het: fhe Towel pliemamame al {ie remler
+quantity. As for the calculation method, 10 iterations are performed AUP he Tere Ett ne dhe ee) wal] (lees met Asan] om (he
+wi a eo oP ° — > unl the , enthalpy, and velocity simulation time except for the average temperature of the pool
+hy JN AP 5 cde Ra P water. And the turbulent jet discharged from the nozzle exit prop-
+by agates until a half length of the radius of the pool and then slightly
+moves upwardly due to a buoyancy force and a re-circulation flow
+ok U ok p Rb) ve \ ok ; is developed at the bottom region.
+or TY KT Er a; YT on a; (4) The comparison of the normalized velocity distributions along
+the radial direction at different axial locations of x=12 and 16 cm
+also shows that the time dependency could be neglected. Therefore,
+de de g eg? 0 ve\ 0€ the CFD results at 10 s have been selected for their comparison with
+Xj k k 0X; Oc 0X; e test results.
+The CFD sensitivity results (Case-1-Case-5) show that the veloc-
+, ity difference in the radial direction (Fig. 9(a)) due to the mesh
+Vp = C k= (6) distribution, the numerical model for the convection term and the
+"ie turbulent model is less than 5%. This may come from the fact that
+the location for the comparison of the CFD results is a region away
+an Ik 3 IW from the tank wall, where the direction of the jet flow does not
+af + Uias =P, — fko + pe (» + iy) (7) change even due to its collision with the wall. However, a veloc-
+! . . ity difference of 30-40% has been found when comparing the CFD

@@ -1,0 +1,42 @@
+Chakraborty, S., et. al / ASR xx (2024) xxx-xxx 3
+low-latitude 10nosphere, it has to be the duration of the non-fluctuating or consistent southward IMF B,, in addition to poleward
+conditions of the neutral wind, to determine the ionospheric responses over these regions, irrespective of the intensity of the
+geomagnetic storm. This case study becomes important for understanding changes in the low-latitude ionosphere during such
+cases of weak space weather events which often get ignored due to the general expectation of weaker impacts on the ionosphere
+under such conditions. The present study also becomes vital for developing a reliable space weather forecast system, in terms of
+incorporation, of the time duration effect of the southward IMF, into the upcoming state-of-the-art machine learning modules, over
+the low-latitude regions.
+
+The manuscript 1s divided as follows: Section 2 describes the data and the methodologies used in the present study. Section 3
+describes the results, including the sources of geomagnetic storms, the interplanetary and SYM-H conditions, and the ionospheric
+conditions. Section 4 presents the discussions of the physical mechanisms to have produced such observations while Section 5
+summarizes the work.
+
+2. Data and Methodology
+
+The Indian Regional Navigation Satellite System (IRNSS), presently known as the Navigation with Indian Constellation (NavIC),
+1s a regional navigation satellite system developed by the Indian Space Research Organization (ISRO). Three Geostationary Earth
+Orbit satellites (GEOs) and three Geo-Synchronous Orbit satellites (GSOs) comprise the space segment of NavIC which have
+continuous visibility on the ionosphere over the Indian region. These satellites broadcast in the LS having a carrier frequency
+of 1176.45 MHz and in the S1 band having a carrier frequency of 2492.028 MHz. NavIC has been conceived primarily for the
+estimation of errors in positioning, mainly over the entire Indian region, that has the northern crest of EIA and the geomagnetic
+equator passing over it. Furthermore, the suitability of NavIC to study the upper atmosphere has been well-established by several
+researchers (Rethika et al., 2015; Sharat et al., 2017; Mehulkumar & Shweta, 2018; Desai & Shweta, 2018; Ayyagari et al., 2019,
+2020a b; Ravi Kumar et al., 2019; Chakraborty & Datta, 2020; Ayyagari et al., 2021; Chakraborty & Datta, 2021; Ayyagari et al.,
+2022; Chakraborty & Datta, 2024) as well as Kumar et al. (2022) where NavIC data are used to separate the spatial and temporal
+effects. It 1s important to note the consistency between the VTECs of NavIC and GPS, both under quiet and disturbed conditions and
+when compared with the various global ionospheric models over the Indian longitude sector (Ayyagari et al., 2020a; Chakraborty
+et al., 2020b), further solidifying its observational capabilities related to regional 10nospheric research.
+
+The Physical Research Laboratory (PRL), Ahmedabad has been operating an Accord-make NavIC receiver, since July 2017,
+capable of receiving GPS L1 (1575.42 MHz) along with NavIC LS and S1 signals. The Slant TEC (ST EC) 1s one of the outputs
+given by the receivers. The STEC 1s converted to the equivalent Vertical TEC (VTEC). This conversion (equation [2) uses a
+mapping function M (equation|1) assuming the ionosphere as a thin shell at an altitude (H) of 350 km (Klobuchar (1996); Breed
+et al. (1997); Jakowski et al. (2011) and references therein).
+
+My = \! - [Fees ox) (1)
+VTEC = M; + STEC (2)
+
+Here Rg = 6371 km 1s the radius of Earth and 6 are the elevation angles of the satellites. It 1s to be noted that to reduce the effects
+
+of multipath error on the NavIC signals, elevation angles > 30° have been chosen for the entire analysis.

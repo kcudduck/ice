@@ -1,0 +1,46 @@
+5 Tsunami run-up 25
+The elimination of x results in the linear second-order equation for ¢
+
+a (tx — too) — 3t, = 0. (49)
+Since u + ttanf = A/2, u must also satisfy (49). Introducing the potential
+¢(o, X) such that
+
+te
+o
+one obtains the equation
+(0h )o — TDA = 0
+
+after integrating once. Two major simplifications have been obtained. The
+nonlinear set of equations have been reduced to a linear equation for u or ¢
+and the free boundary is now the fixed line 0 = 0 in the (0, A\)—plane. The
+free boundary is the instantaneous shoreline ¢ = 0, which moves as a wave
+climbs a beach.
+
+The above formulation has been used by several authors to study the
+run-up of various types of waves on sloping beaches Carrier et al. [2003],
+Tadepalli and Synolakis [1994], Tinti and Tonini [2005]. For example, it has
+been shown that leading depression N-waves run-up higher than leading
+elevation N-waves, suggesting that perhaps the solitary wave model may
+not be adequate for predicting an upper limit for the run-up of near-shore
+generated tsunamis.
+
+There is a rule of thumb that says that the run-up does not usually exceed
+twice the fault slip. Since run-ups of 30 meters were observed in Sumatra
+during the Boxing Day tsunami, the slip might have been of 15 meters or
+even more.
+
+Analytical models are useful, especially to perform parametric studies.
+However, the breaking of tsunami waves as well as the subsequent floodings
+must be studied numerically. The most natural methods that can be used are
+the free surface capturing methods based on a finite volume discretisation,
+such as the Volume Of Fluid (VOF) or the Level Set methods, and the family
+of Smoothed Particle Hydrodynamics methods (SPH), applied to free-surface
+flow problems Gomez-Gesteira et al. [2005], Gomez-Gesteira and Dalrymple
+2004], Monaghan [1994]. Such methods allow a study of flood wave dynam-
+ics, of wave breaking on the land behind beaches, and of the flow over rising
+eround with and without the presence of obstacles. This task is an essential
+part of tsunami modelling, since it allows the determination of the level of
+risk due to major flooding, the prediction of the resulting water levels in the
+flooded areas, the determination of security zones. It also provides some help
+in the conception and validation of protection systems in the most exposed
+areas.

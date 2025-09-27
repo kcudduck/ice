@@ -1,0 +1,95 @@
+Aru) :
+FAP Space Weather 10.1029/2024SW004126 :
+
+AND SPACE SCIENCES 2
+Investigation: S. Tulasi Ram, disturbance in the geomagnetic H-component field at low to mid-latitudes, represented by Dst and Sym-H indices g
+B. Veenadhari, A. P. Dimi, J. Bulusu, (Imajo et al., 2022; Iyemori et al., 1992; Sugiura, 1991), are generally used to quantify the intensity of the storms. z
+M. Bagiya, S. Gurubaran, N. Parihar, CL =
+B. Remya, G. Seemala, Rajesh Singh, A significant decrease of Sym-H, say below —50 nT, qualifies to be called a geomagnetic storm. At the same time, :
+S. Sripathi, S. V. Singh, G. Vichare several categories with nomenclature such as weak (—100 to —50 nT), moderate (—200 to —100 nT), intense 4
+HC odoeY: S. Tulasi Ram, (—400 to —200 nT), and super-intense (—400 nT or less) storms can be found in the literature (although no strict J
+Project administration: A. P. Dimi definitions exist). The intensity of the ring current and its proximity to the Earth determine the magnitude of 2
+Resources: A. P. Dimri, S. Gurubaran disturbance observed 1n the surface magnetic field (Daglis et al., 1999; Vallat et al., 2005). At the same time, the g
+Supervision: A. P. Dimri, S. Gurubaran intensity and location of the ring current, in turn, depend on the incoming solar wind forcing and its magneto- :
+Validation: S. Tulasi Ram : : Co. : e:
+Visualization: S. Tulasi Ram spheric coupling efficiency (Daglis et al., 1999). =
+Waiting rs eit Ram The recent geomagnetic storm on 10-11 May 2024 engendered a great interest among enthusiastic civilians and :
+B. Veenadhari, A. P. Dimri, J. Bulusu, aurora watchers across the globe. Early reports show aurora sightings by the naked eye and/or by simple 2
+M. Bagiya, S. Gurubaran, N. Parihar, smartphone cameras (besides the conventional scientific instruments) extending down to latitudes as low as ~30° :
+B. Remya, G. Seemala, Rajesh Singh, : : : I : : 9)
+S. Sripathi, S. V. Singh, G. Vichare (Grandin et al., 2024; Hayakawa et al., 2024). This storm drew great attention from the scientific community by its Z
+magnitude surpassing the —500 nT mark in the Sym-H indexThe Sym-H surpassing the —500 nT also makes it the 2
+
+largest storm 1n the past three decades and the second largest in the history of the space age (after the 13 March E
+
+1989 storm). :
+
+In this study, we investigate the factors and possible mechanisms that led to this super-intense storm in com- E
+
+parison with other intense storms that occurred in the past, and the key findings are reported here. Additionally, :
+
+we detail the drastic reconfiguration of the magnetosphere-ionosphere system and the resultant effects on the »
+
+geomagnetic field and ionospheric electron content during this storm and a solar flare that occurred prior to this :
+
+storm. 8
+
+2. Data 7
+
+A wide set of space-borne and ground-based measurements alongside magnetohydrodynamic (MHD) simulations :
+
+are employed in this study. The X-ray flux measurements at short (0.5—4.0 A) and long (1.0-8.0 A) wavelengths ]
+
+from Extreme Ultraviolet and X-ray Irradiance Sensors (EXIS) on board the Geostationary Operational Envi- S
+
+ronmental Satellites (GOES) (Machol et al., 2020) are examined to detect the solar flare occurrences. The solar =
+
+wind particle and magnetic field measurements from the Deep Space Climate Observatory (DSCOVR) near the E
+
+first Lagrange (LL1) point were used to investigate the solar wind conditions that led to this intense storm. The 5
+
+calibrated Level-2 data from Faraday Cup and Magnetometer payloads available at 1-min resolution are :
+
+considered (Loto'aniu et al., 2022) 1n this study. A network of ground-based flux gate magnetometers spread :
+
+across the Indian equatorial and low-latitudes (IIG, 2024) have been used to investigate the geomagnetic field z
+
+disturbances that occurred during this storm. The VLF signal amplitude recorded by an NWC receiver (Lohrey & =
+
+Kaiser, 1979; Xia et al., 2020) and 1onograms from a Canadian Advanced Digital Ionosonde (CADI) (Mac- :
+
+Dougall et al., 1995) are used to examine the disturbances in the ionospheric D- and F-regions during a solar flare :
+
+that occurred prior to this storm. The list of stations hosting the magnetometers, VLF receiver, and Ionosonde over =
+
+the Indian region, along with their locations, are provided in Supporting Information S1. :
+
+Further, the BATSRUS (Block-Adaptive-Tree-Solarwind-Roe-Upwind-Scheme) global magnetospheric MHD :
+
+model (Harel et al., 1981; Powell et al., 1999) coupled with Rice Convection Model (RCM) (Toffoletto :
+
+et al., 2003) and Ridley Ionospheric Model (RIM) (Ridley et al., 2004) 1s used to examine the location of g
+
+magnetopause (L,p) and to investigate the ring current intensity. The BATSRUS had been run under the Space ~~ ¢€
+
+Weather ‘Modeling Framework (SWMF) at the Community Coordinate Modeling Center (CCMC) platform for 3
+
+the given solar wind inputs obtained from DSCOVR. :
+
+>
+
+3. Results and Discussion ;
+
+3.1. Sources of the Storm :
+
+During 8-10 May 2024, a series of solar flares and CMEs erupted from the sunspot group AR3664°. Figure 1 Zz
+
+shows the X-ray flux at short (0.5—4 A, red curve) and long (1.0-8.0 A, blue curve) wavelengths monitored by the 5
+
+GOES during this period. Several solar flares that occurred during this period are evident as sharp enhancements
+
+in the X-ray flux. Six X-class flares occurred during this period as shown in Figure 1. The peak X-ray flux timings 2
+
+of these flares were 0141, 0509, 2140 UT on 8 May 2024, 0913 UT, 1744 UT on 9 May 2024, and 0654 UT on 10 :
+
+TULASI RAM ET AL. 2of 14%

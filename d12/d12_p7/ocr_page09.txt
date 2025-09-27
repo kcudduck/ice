@@ -1,0 +1,37 @@
+Confidential manuscript submitted to Journal of Geophysical Research: Oceans
+
+either be defined integrating the instantaneous wave celerity, c(¢), or as a simple product using the
+more convenient average speed C, which has been previously defined. In the shape function, V”
+represents the wavenumber, defined as Y"= 2z/L, with L being the wavelength (in meters) of the
+N-wave. According to the measured data at the selected stations the wavelengths range from 800
+to 1,050 km (Amores et al., 2022; Lynett et al., 2022). For simplicity, in the present model, a
+constant average wavelength of 900 km 1s adopted. We have performed sensitivity analyses using
+larger and smaller wavelengths, which lead to insignificant variations and equally good fit in terms
+of the free surface elevation.
+
+As illustrated in Figure 3, the crests and troughs of atmospheric pressure waves decay at
+different rates. Accordingly, the amplitude functions, A(Xi(¢)), for the crest and the trough of the
+atmospheric pressure waves are determined separately by fitting curves through the measurements.
+These empirical functions can be expressed as:
+
+~0.6
+340 tanh? (52) (=) if N(r,t) > 0, for wave crest,
+’ = 300,000/ \1,000 (5)
+450 (0) if N(r,t) <0, for wave trough
+1,000 S11
+Note that the R? values for the fitted curves are 0.8606 and 0.8747 for wave crest and wave trough
+amplitudes, respectively. Equations (5) yield the pressure amplitudes in hPa, while the distance
+Xi(t) 1s in meters. The propagation distance X; 1s obtained from Equation (3) as a simple product
+using the average speed. As shown 1n Figure 4, the average atmospheric wave celerity can be
+obtained by curve-fitting too and represented by
+c(t) = 319 tanh(t/2200) (6)
+which yields a velocity in m/s when the time 1s 1n seconds.
+
+To illustrate the accuracy of the empirical atmospheric pressure model, we have selected
+measured time series data at 18 stations, ranging from the near field to the far-field, for comparison
+as shown 1n Figure 5. The comparisons for the rest of stations are presented in Figure S1 1n the
+supplementary materials. The modeled atmospheric pressure waves preserve the arrival time and
+the main wave shape very well. However, the model 1gnores the trailing oscillatory wave
+components. In the far field, larger differences in arrival time appear due to the inhomogeneity of
+
+9

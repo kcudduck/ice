@@ -1,0 +1,42 @@
+Confidential manuscript submitted to Journal of Geophysical Research: Oceans
+3.3 Tsunami wave amplitude distribution in the Pacific Ocean
+60 (a) TET es 5
+EP NL Tu 0.15
+= 01+ | Flo xy, pe rd
+= . a “NF Sig “Ry . 2 ”, :
+S201 wh Wee NLT |
+— \ 5 ) v gi ~ ot 0.05
+-40 3 STE. pv
+-60 , es
+100 120 140 160 180 200 220 240 260 280 300
+Longitude (degree)
+0 TT | (m) 0 === S| (m)
+(b) oe XX | BE | 0.15 (c) STREET h N BE | 0.15
+40 £y y 40 20 \ o
+8 20d Or 8 20 ND (=
+> J = 0.1 & JS = 0.1
+J | J |
+PON PS OR | 5 NBs TT
+E ER E Ay Pp
+gs 204 Li gs 204 AREY BN eat
+= 5 & 4 0.05 — BOA = 0.05
+-40 Sg eee 40 LR Bi
+-60 -60 ~N
+0 — 0
+100 120 140 160 180 200 220 240 260 280 300 100 120 140 160 180 200 220 240 260 280 300
+Longitude (degree) Longitude (degree)
+
+Figure 11 Distribution of the maximum tsunami amplitudes on the simulation. (a) Overall maximum
+amplitudes; (b) maximum amplitudes of the leading wave; (¢) maximum amplitudes of the trailing wave.
+Tonga’s volcano denoted by a black star. The dashed line marks the location after which the leading and
+
+trailing waves are fully separated.
+
+The spatial distribution of the maximum (positive) tsunami amplitude in the Pacific Ocean
+numerical simulation 1s presented in Figure 11. Panel (a) shows the global maximum throughout
+the numerical simulation, while panels (b) and (¢) present the maximum values associated with
+the leading and trailing waves, respectively. Therefore, panel (a) can be viewed as the maximum
+among panels (b) and (c). To separate the influence of the leading and trailing waves, panel (b)
+records the maxima at locations, which are within the influence of the pressure disturbance (r >
+
+24

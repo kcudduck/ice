@@ -1,0 +1,66 @@
+888  T. Okita and Y. Kojima
+10° 10°
+10° 10’
+10° 10°
+N 10° N 10°
+3 | cal
+o LTT : 10° LS
+(ii) m=10° : (it) m=10° Li
+10° 10?
+10° 10° 10° 10° 10° 10° 10° 10°
+z [em] z [em] S
+Figure 9. Same as in Fig. 8 for m = 10°. Field amplitudes are drastically Figure 11. Same as in Fig. 10 for m = 10°. =
+and periodically enhanced for large m. This enlargement 1s attributed to the a
+resonance transmission and the conservation of energy flux as a multiplier 8
+ffect. =
+Hee amplitude |&| (ocv™!/?) is enhanced in the rotating plasma region so =
+as to compensate for the slowing down of the wave propagation. =
+at the bottom frequency wy, the strength « has about 10% at z >~ 5 x O
+5 =
+10° cm. 3
+In the same way, the normalized amplitude of the perturbed elec- 6 SUMMARY AND DISCUSSION a
+tric field is expressed by We have studied the propagation and transmission of torsional =
+SE; 7 _ . Alfvén waves along the rotation axis on magnetars by using a three- =
+pz) = SE 2 layered cylindrical model. If the intermediate plasma layer rotates =
+l — . . . .
+F=0 , with angular velocity €2, the propagation property for largely twisted 3
+_ I: | 4 ms2 1 waves with m > w/€2 1s drastically modified. This middle zone can 3
+T; —o w ks: 2 be regarded as a kind of a potential barrier, whose height is explic- S
+, , itly specified by (m + 2)€2. Waves having an angular velocity of 22 o)
+« | 2] 2 _ wr | cos’ k? (z — L) + Z| (63) originate from the Coriolis force in the classical limit, while an addi- o
+m m ? . . Rr .
+c? c? tional quantity mS2 comes from the relativistic effect. This therefore >
+which is plotted in Figs 10 and 11. When m = 10°, the field am- means that the potential 1s lifted up higher in the large m modes x
+: , : : w
+plitude B of w, has almost the same magnitude 10° as « near the on the rotating background. It should be emphasized that this new ®
+stellar surface z < 10* cm. However, near the top of the plasma z ~ finding 1s purely attributed to having incorporated the displacement ©
+10° cm, in contrast to «, 8 has a maximum 5 x 10’, which corre- current into the model. oo =
+sponds to the loops of the standing wave. Approximately, 8 is much | We have numerically computed the transmission rates of the tor- 3
+greater than « because of the extra term (1 + m/w)? ~ 10° in sional waves with a large value m >> 1 driven in the crust, through w
+equation (63). the corotating plasma with a finite size L ~ R, into the exterior. We 3
+Co. ~ «Q
+Such a field amplification can also be explained by considering a found that the transmissions are strongly enhanced for large m ~ c
+conservation of energy flux F ~ pve |£|2. The phase velocity v of w/ $2 at selected wave frequencies satisfied with a periodic condition @
+) ~~ _ . ®)
+the mode m >> 1 in the plasma atmosphere is much smaller than that kL ~(2n — 1) m/2(n = I 2,...). Such a transmission enhancement >
+in the vacuum, as is confirmed in equations (43) and (44). Assuming arises because the rotating plasma forms a resonant cavity which ~
+the same value |&| at the stellar surface, which is irrelevant to L, the traps the wave energy by virtue of the strong reflections occurring a
+at the transition region at the bottom and at the top of the plasma T
+10 layer. Efficient transmissions due to resonance are also compatible =
+with the fact that the reflection of waves at the stellar surface can al- N
+most completely be extinguished. A magnetospheric waveguide or Q
+TT resonance cavity can thus actually generate a set of coherent eigen- 7
+modes for high m. Resonance may be a signature of fundamental
+processes by which high-order torsional oscillations of waves, if
+= these exist, can transfer much more energy out of the magnetars
+especially in the low-frequency regime.
+It 1s well known in quantum mechanics that when the potential
+width 1s comparable to (or integer times) the de Broglie wavelength
+(i) m=1 of electrons L ~ nh /m.v, incident wave flux 1s bounded by finely
+tuning a phase relation with inversely propagating waves (e.g. Schiff
+10° 10° 10° 10° 1968). Then resonance is excited in the potential zone and the wave
+z Lom] flux spends much of its time 1n the resonance cavity. Similar reso-
+Figure 10. Perturbed electric fields with m = 1 in the rotating plasma at nance may occur also in our macroscopic model, if the characteristic
+resonant frequencies in the first wing. The solid and dotted lines correspond scale of the evanescent zone is comparable to the wavelength of the
+tow; =2.2 x 10° s7! and wy, = 7.0 x 10° s7!, respectively. Alfvén wave.
+© 2005 The Authors. Journal compilation © 2005 RAS, MNRAS 364, 879-890

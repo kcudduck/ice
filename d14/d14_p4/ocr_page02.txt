@@ -1,0 +1,18 @@
+X - 2 YERMOLAEV ET AL.: GEOEFFECTIVENESS AND EFFICIENCY
+Abstract.
+
+We investigate relative role of various types of solar wind streams in gen-
+eration of magnetic storms. On the basis of the OMNI data of interplane-
+tary measurements for the period of 1976-2000 we analyze 798 geomagnetic
+storms with Dst < —-50 nT" and their interplanetary sources: corotating in-
+teraction regions (CIR), interplanetary CME (ICME) including magnetic clouds
+(MC) and Ejecta and compression regions Sheath before both types of ICME.
+For various types of solar wind we study following relative characteristics:
+occurrence rate; mass, momentum, energy and magnetic fluxes; probability
+of generation of magnetic storm (geoeffectiveness) and efficiency of process
+of this generation. Obtained results show that despite magnetic clouds have
+lower occurrence rate and lower efficiency than CIR and Sheath they play
+an essential role in generation of magnetic storms due to higher geoeffective-
+ness of storm generation (i.e higher probability to contain large and long-
+term southward IMF Bz component).
+DRAFT October 23, 2018, 3:27am DRAFT

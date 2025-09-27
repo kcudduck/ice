@@ -1,0 +1,28 @@
+step are the local low depth and the entire sediment thickness at each sam-
+ple location. Our sediment formation module calculates the characteristics of
+the deposited sediments. The iterations are controlled by the norm of error
+between the simulated and observed deposits and stop after the predefined
+threshold is met. As the model outputs, we can estimate the flow speed,
+depth and Froude number along the slope. If needed, a range of offshore
+reference wave amplitudes can also be computed.
+3. Application and Example
+[Figure 3 about here.
+
+3.1. Field Observation and Data
+
+We employ the field data |Bahlburg and Weiss 2007| from the 2004 Indian
+Ocean tsunami to demonstrate the capabilities of our framework (Figure 3).
+These samples come from the coastal area in the vicinity of Ranganatha-
+puram, India. Bahlburg and Weiss |2007| identify sediment layers formed
+by the tsunami in this cross section and described grain-size distributions for
+each layer. There are some grass runners on the top of the tsunami sediment,
+which indicate the return flow direction and the erosion caused by the return
+How. Most grain-size distributions of the sediment layers in the test case
+are unimodal (Figure 3b). Tsunami deposits in this cross section are usually
+well sorted, and the mean grain size is between 0.5 and 1.5 in ¢ scale, which
+corresponds to medium and coarse sand. Furthermore, Bahlburg and Weiss
+12007] observe that the mean grain size is upward and landward fining in this
+cross section. Several sedimentary data, such as the deposit thickness and
+the grain-size distribution, will be used as input to TSUFLIND. The range of
+
+11

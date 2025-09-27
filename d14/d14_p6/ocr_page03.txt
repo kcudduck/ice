@@ -1,0 +1,57 @@
+3
+Geoelectric Fields for Severe Storm
+eo Historical B field levels.
+eo Apparent conductivity and resistivity at TF sites.
+eo F field and rates of storm recurrence.
+eo Log-normal fit to adjusted FE field levels to an equivalent field at a reference location.
+eo Global FE field levels.
+GIC and Transformer Over-
+Co . Effects of Transformer
+heating in the High Voltage
+Cel. Failure on the Popula-
+Power Distribution Network LC.
+tion and Electricity Grid
+eo GICs and transformer
+roperties eo Regions supplied by
+b transformer nodes.
+eo Probability of trans- .
+w oe Electricity Loss for each
+former failure due to
+region.
+overheating.
+FIG. 1. Simplified flowchart of our proposed framework. The general model consists of three main stages and results in concrete
+estimates of regional power outages for arbitrary locations on Earth and how those outages affect the population. A detailed
+flowchart is available along with the model’s source code at https://github.com /allfed /GeomagneticModel.
+because of its proximity to an EMTF site (RET06), suf- Creek, California, USA site (RETO06) corresponding to
+ficient data size, and time span. For more precise results, the chosen MT site in Fresno. The apparent conductivity
+data from all existing MT and EMTF sites would need to ~~ can be expressed as: 45]
+be combined into one dataset or a better apparent con-
+ductivity model established, ideally both; however, this calf) = 2m f (2)
+falls out of the scope of this paper. Z(f)]?
+We then process this dataset as described in 45] Sec. |
+5: the time series of B is detrended by subtracting a where A | 15 the Frobenius norm 46, and the apparent
+second-order polynomial fitted to the entire duration of ~~ TeSIStIvity 1s given by: 46, 48]
+the time series, and any missing data are filled by lin- 702
+ear interpolation. Then, the series is put through a fast p(f) = 1Z(f)I5 (3)
+Fourier transform (FFT), multiplied by an appropriate yy
+transfer tensor for the survey site, and finally, a reverse
+: SI : where | - | represents an element-wise norm.
+FFT is performed, resulting in a geoelectric — F/ — series. ) )
+: : : : With FE fields established, we now consider an adjust-
+This procedure is rooted in the relationship between the ) ]
+: ment coefficient that describes the relationship between
+geomagnetic and geoelectric fields at the Earth’s surface:
+46, 47) fields’ strengths and durations (SI Fig. S1). The peak
+electric field levels that occur once every ten years change
+1 with the duration over which they are sustained; namely,
+E(f, x,y) = LA) -B(f, 7,9), (1) longer duration corresponds to lower peak field levels.
+Thus, we compare the mean field level lasting sixty sec-
+where f is the frequency of sinusoidal variation, x and y onds to longer-lasting fields. We shall use this adjustment
+are horizontal Cartesian components, pu is permeability, later to predict the strength of GICs in transformers to
+and Z is the impedance tensor specifying the amplitude, ensure we do not overestimate the current levels of long-
+polarisation and phase of the geoelectric field. The trans- duration GICs.
+fer tensor mentioned earlier is Z/ pu. Our ultimate goal of this stage is to compute FE fields
+In order to compute FE fields using Eq.(1) we need to (their strength and occurrence rates) at an arbitrary lo-
+determine the apparent conductivity and resistivity at cation on Earth, extrapolating from the measurement
+the corresponding TF site. We acquire the necessary data site. For this purpose, we adjust all measured fields to
+from the SPUD EMTF repository 31-33] at the Dog an arbitrarily chosen reference with conductivity o,cr =

@@ -1,0 +1,55 @@
+Evaluating the relationship between strong ge... https://www.swsc-journal.org/articles/swsc/fu...
+Ing 8S aL Re Fd ES fon be Rep oP Le Sf {teh lbs 32h bn some pages Yes No
+Information about failures in power Networks Is sensitive data. Jnerefore, we have access to a limited time
+span of data. We analyse here the relation of transmission line (network) failures with heliospheric and
+geomagnetic data. What is more, the temporal evolution of geoelectric field estimates are determined using a
+1-D layered conductivity model. It has to be underlined that the first computation of geoelectric field for
+Poland based on a 1-D layered conductivity model was performed by Viljanen et al. (2014), but for a different
+period, namely years 1996-2008 (solar cycle 23). Our results reveal growth in the number of transmission
+network failures during and right after considered classes of geomagnetic storms. This allows us to speculate
+about the sensitivity of electrical power grids in Poland to solar activity conditions and to underline the
+importance of further studies on this topic.
+2 Data
+We considered here data characterising the overall situation near and on the Earth in 2010-2014. Special
+attention was paid to data of Bz component of the heliospheric magnetic field (HMF) and Dst-index, with 1-
+hour resolution between January 2010 and July 2014. The Bz component of the HMF used in the study is in
+the Geocentric Solar Magnetospheric System (GSM), with X-axis pointed from the Earth to the Sun, the Y-axis
+being perpendicular to the Earth magnetic dipole (the XZ-plane contains the dipole axis), and the positive Z-
+axis is at the same meaning as the North magnetic pole.
+Following Gonzalez & Tsurutani (1987), we extracted from the whole set of data all intense geomagnetic
+storms, i.e., the cases when Bz< -10 nT and Dst < -100 nT for more than 3 h. During January 2010-July 2014
+were registered 16 events with Bz < -10 nT for longer than 3 h (it is designated as case 1), 8 events with
+Dst <—-100 nT for longer than 3 h (case 2), and 5 events fulfilling both conditions simultaneously, i.e., Bz<-10
+NT and Dst<-100 nT during more than 3 h (case 3). All events are listed in Table 1. When an event's duration
+was intermittent, we denote its duration as a sum (+) of hours. Some of these storms were discussed in the
+context of geomagnetic events with intensified GIC risk (Bailey & Leonhardt, 2016). Although the Dst-index is
+not the best indicator of GIC hazard (Cid et al., 2014), we use it here combined with the HMF Bz component
+for the severity of geomagnetic storm assessment (Gonzalez et al., 1994).
+
+Table 1 List of the intense geomagnetic storms in January 2010-July 2014,
+
+In this work frame, we also considered two components of the geomagnetic field By, By measured in Belsk,
+the Polish INTERMAGNET observatory. In summary, 5-years of measurements at 1-minute intervals have
+been considered. Additionally, the first derivative of the geomagnetic field horizontal (H = |B% + BZ)
+component By, dBy/dt has been considered as another indicator of strong magnetic storms (e.g., Adebesin et
+al., 2016; Love et al., 2016; Ngwira et al., 2018).
+Moreover, we analyse heliospheric parameters, a strength of HMF B [nT] and its B- [nT] component, solar
+wind speed SWs [km/s], and proton density SWd [N/cm3], as well geomagnetic indices: ap-index [nT], AE-
+index [nT], local K-index from Belsk. The maximal values of the above-mentioned parameters during the
+analysed geomagnetic storms are listed in Table 1.
+In 2019, electricity production in Poland was falling, with the most significant decrease seen in production
+from lignite and hard coal. The share of coal in electricity production in 2019 was 73.6%, 4.8 percentage
+points less than in 2018. In 2019, the import of electricity to Poland almost doubled, amounting to 10.6 TWh
+(e.g., Macuk, 2020). There are three largest producers in the Polish energy market (which are parts of the
+groups: PGE Polska Grupa Energetyczna S.A., TAURON Polska Energia S.A., ENEA S.A.) having in total almost
+2/3 of the installed capacity and being responsible for almost 70% of domestic electricity production.
+TAURON Capital Group (TCG) is the largest Polish electricity distributor, which data we are using here (Annual
+Report, 2019).
+We utilize around half of the million transmission line/network operator logs about electrical grid failures
+(EGFs), starting from January 2010 to July 2014. EGFs causes were aggregated into six general groups denoted
+by A-F (details in Gil et al., 2019). Comparable categorization was used by Zois (2013). The EGFs occurrence
+rate in years 2010-2013 and during the first seven months of 2014 is presented in Table 2. Table 2 shows the
+percentage of EGFs in each group from A to F in individual years, and collectively for the whole period of data
+availability, i.e., in 2010-2014.
+
+3 of 15 27/09/2025, 18:16

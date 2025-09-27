@@ -1,0 +1,57 @@
+Global transformer overheating from geomagnetic storms
+Morgan Rivers © and Lukasz G. Gajewski
+Alliance to Feed the Earth in Disasters (ALLFED
+603 S. Public Rd #57 Lafayette, CO 80026, vel
+David Denkenberger
+Alliance to Feed the Earth in Disasters (ALLFED),
+603 S. Public Rd #57 Lafayette, CO 80026, USAT and
+Department of Mechanical Engineering, University of Canterbury, Christchurch, Canterbury 8041, NZ
+iN Geomagnetic storms occurring due to sustained, high-speed solar winds are known to induce
+- currents in power distribution networks. These geomagnetically induced currents (GICs) can cause
+@\ high voltage transformers (HVT) to overheat, thus resulting in a catastrophic electricity loss (CEL).
+¢$) Since significant portions of infrastructures around the world rely heavily on access to electric
+D power, it is essential to estimate the risks associated with GICs on a global scale. We assemble
+a multiple methodologies across various scientific disciplines to develop a framework assessing the
+probability of a severe geomagnetic storm causing a long-term, widespread power outage. Our model
+ON incorporates thermal models of HVT tie bar hot spots, historical geoelectric field estimates, and a
+global conductivity model to estimate the risk of long-term power outage for regions between —70°
+— and 80° geomagnetic latitude due to transformer overheating failure. Assuming a uniform 33% HVT
+= spare capacity, our analysis indicates that a 1 in 10,000 year storm would result in approximately
+= 1% of the population in Europe and North America experiencing a long-term (months to years)
+@ electricity loss.
+Q Keywords: geomagnetic storms, power grid resilience, catastrophic electricity loss, critical infrastructure,
+interdisciplinary systems modelling, global catastrophic risk
+QQ
+o
+2 I. INTRODUCTION incorrect by orders of magnitude due to the lack of in-
+= formation about local variability in our approach. While
+ay We have submitted this work to a peer-reviewed jour- there are NOW newer datasets that we could utilise, they
+— nal and received insightful feedback on our modelling ap- ~~ are only available for the US and Australia; therefore,
+A proach. The assigned reviewers pointed out certain flaws ~~ to provide a global scale prediction, One would need to
+> and limitations in our model that ultimately prevented extrapolate from those, which could create its own prob-
+-) this paper from being published without a major revi- lems. on accitiona TN 1S toe ack of onsen He
+sion. magnetic data available to predict extreme statistics for
+= As an organisation with a constrained budget, we are time spans as long as 1-in-10000 years. While this is true,
+CO unfortunately forced to prioritise and focus on our mis- the reason we included such a large time window 1s that
+— sion to help build resilience to global catastrophic food a) it is largely absent in the contemporary literature on
+of system failure. Therefore, we cannot afford the further this topic, and b) in near-term predictions, there is little
+- investment to address the revisions. While the correc- to no risk of a global catastrophe, which is our prior-
+<I tions recommended by the reviewers would alter the re- ity concern. Little risk of a global catastrophe does not
+a sults (especially regionally), we do not believe that this mean, however, that there is no substantial regional risk
+> change would imply that a geomagnetic storm is a likely due to geomagnetic storms; thus, the aforementioned en-
+Ne cause of global catastrophic food failure. However, we do ~~ couragement for other researchers to pick up this mantle.
+encourage the scientific community to utilise this work, We would also like to point out that a small but signifi-
+= our open-source code repository, and the reviewers’ com- cant loss in electricity could lead to a much greater loss in
+ments to establish a better version of what we endeav- both region and global meustria on 2) oreover,
+oured to achieve here. we made certain oversimplifications that should eventu-
+We paraphrase the received feedback, focusing on the ally be addressed, such as assuming the dominant East-
+most critical issues: West direction of EM fields, uniform ground resistances,
+There is a significant concern with the quality of data GIC per phase values and similar power grid character-
+we used as the foundation for the electromagnetic fields ~~ 1Stics worldwide. Finally, and of equal importance, our
+and the use of the Alekseev et al., model 1], which both method is, in essence, a statistical analysis built upon a
+result in an overly smooth picture of the electromagnetic chain of approximations, and rigorous uncertainty anal-
+fields. Thus, our predictions for specific regions could be ysis is a challenge yet to be met.
+Additional references suggested by the reviewers: 3-
+— 6).
+The rest of the manuscript that follows is in its unal-
+* morgan@allfed.info tered state from what we submitted for review.

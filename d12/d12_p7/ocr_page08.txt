@@ -1,0 +1,33 @@
+Confidential manuscript submitted to Journal of Geophysical Research: Oceans
+Pressure Wave Speed Pressure Wave Speed
+400 ail
+£ 300 % & so PS =
+2200 200
+; 100 —— Fitted Curve ~~ ® Measured  R?=0.9019 : 100 — Fitted Curve ~~ ® Measured R2=0.9019
+>» Re
+0
+0 2000 4000 6000 8000 10000 12000 i 10000 50000 20000 40000
+Distance (km) Time (Sec)
+Figure 4 The evolution of the average speed of the atmospheric pressure wave as a function of
+the distance from the source of explosion (left panel) and the time from the explosion (right panel).
+Based on the available data, an empirical atmospheric pressure wave model in the spherical
+coordinate system 1s proposed as follows:
+pa(r, t) = A(X, (1) N(r, 1), (1)
+where
+N(rt) = ~V3 sech?[Y(r — X,(t))]tanh[Y(r — X;(t))], (2)
+t _
+X,(t) = [ c(t)dt = ¢ (t)t, (3)
+in which p, denotes the atmospheric pressure disturbance produced by the explosion, measured 1n
+[hPa] relative to normal conditions, at a given distance from the source (, measured in meters)
+and time from the event (7, in seconds). Using the spherical coordinate system in terms of longitude
+and latitude (v1, ¢1), the great-circle distance between the target location and the position of Hunga
+Tonga-Hunga Ha'apai Volcano (yo= 175.39°W, po= 20.546°S) 1s calculated as:
+r = 2R asin sin? (F579) + cos(p,) cos(¢,) sin? =0) (4)
+in which, R is the Earth radius (6.371x10° m).
+
+As indicated in Equation (1), the atmospheric pressure 1s modeled as the product of two
+functions. The shape function, N(7 ¢) in Equation (2), prescribes the N-wave shape (see Tadepalli
+and Synolakis, 1994). The amplitude function, A(X;(¢)), provides the variations for the peak and
+trough pressure values, as a function of the distance X;(#). As defined in Equation (3), X:(¢¥) can
+
+3

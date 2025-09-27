@@ -1,0 +1,34 @@
+10
+A/hy = 0.057
+8 panna
+ee
+g 6 ee nn (= ae
+a= il + COOoPCNECACENCCADOOCCEEEE
+A/hy = 0.029
+4 00 ee 000000000000000000000% 0-00,¢,
+2
+2 4 6 8 10
+Xo/\
+Figure 5: Maximum run-up height, Rmax/A, as a function of distance to the slope, Xo/4 for different amplitudes of the
+initial wave, A/ho. Analytical solution described in Section 2 is shown by lines and numerical solution described in
+Section 3 is shown by symbols (triangles, squares and circles) with matching colours, kho = 0.38.
+The dependence of maximum run-up height, Rn.x/A on kho 1s shown in Fig. 6 for A/ho = 0.03. It can be seen that the
+difference between numerical and analytical results decreases with an increase in kho. We relate this effect with the wave
+interaction with the slope, which 1s not properly accounted in our analytical approach. As one can see in Fig. 7, this
+difference for a milder beach slope tan a = 1:50 1s reduced.
+4 r—Eq. (14)
+—-- =X 0/ A = Lt o
+3.8 bowen Xp [A=5:1 2 a?
+— Xo /)\ = 6.8 A 8
+< gd £ o_o
+rs a Rg ©
+S J go ° <
+< pgd8° ==
+2
+0.2 0.25 0.3 0.35 0.4
+kh
+Figure 6: Maximum run-up height, Rm.x/A as a function of kho for different distances to the slope, Xo/l. Analytical
+solution described in Section 2 is shown by lines and numerical solution described in Section 3 is shown by symbols
+(diamonds, triangles, squares and circles) with matching colours. The thick black line corresponds to Eq. (14) for
+wave run-up on a beach without constant depth section, A/ho = 0.03.
+9

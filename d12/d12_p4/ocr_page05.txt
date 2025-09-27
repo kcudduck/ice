@@ -1,0 +1,87 @@
+Yell :
+MI Journal of Geophysical Research: Oceans 10.1029/2020JC017011 2
+AND SPACE SCIENCE 2
+(5.3.1) = po 9) E11) = == 1 doe LF adi, py (1, | ——e 7) :
+
+Psurface |X» VV» Po\ X,Y Vr on (27) el bY yPo x0 My io (18) :
+
+where H(t) is the step function H (7) =1when tr > +0 and H (7) = 0 when tr < —-0. A comparison of Equa- :
+
+tion 18 with Equation 6 gives the boundary condition at the surface 7, (.. k,,0, o) as :
+
+pol kk &
+
+.(0) = Alb) 1 19)
+
+‘ k 10) :
+
+With the propagator matrix (Equation 11) and the boundary condition (Equation 19), Equation 16 is cal- :
+
+culated as =
+
+Kk? 5
+
+——sinh| k( A, — A Z
+
+I (2) Ap (2 — hy ) r (0) Non | 0 2) Po (.. k) 1 S
+
+Z = Z = Lo 3
+
+Aga (ho) cosh[ khy | = “Bo sinh[ kr, ]  K ©@ :
+
+® (20) z
+
+sinh k(hy — 2) | k Bo (ks ky | | :
+
+- cosh (kh ) fo ®* — gok tanh (kh, ) iw FH
+
+Equations 20 and (9) give g
+Jw lm)
+
+’ k dz cosh kh ) Po oo gok tanh ( kh ) 10 g
+
+:
+
+The T, (2) is then given by 2
+
+Ax (2 = hy :
+
+7. (2) = 2252) g
+
+Ay (—ho ) d
+
+- 22) =
+
+[cosh] k(fy — 2) | 1 sk sinh| k (hy — 2) ; Poko k, ) (22) :
+
+i cosh (kh) io cosh (kh) ©° — goktanh(khy)  k :
+
+In particular, for the sea bottom (z = A), we obtain :
+
+1 1 Po (.. k, | @ 1 :
+T()=————r1(0)z——"————-—"-"+—— (23) 3
+
+: 0) oe) : ) cosh (kr) k iw — gk tanh ( kh, ) ¢
+
+E
+
+2.4. Integration with Respect to the Angular Frequency =
+
+With Equation 8, the vertical displacement is represented as :
+
+(i cop oo) sinh| k (By — 2) | kpo lk, k =
+
+(x, V, 2, /) _ 1 [[ dk dk e (Kx vty) sinh k (hy — 2) | ko (kK, ) c
+
+(2 7) 0 cosh (kh ) £0 (24) :
+
+1 | dewe™™ BB —— : ia ;
+
+27 0 @” — gok tanh (kh ) ie
+
+The integration with respect to the angular frequency w is conducted with the residue theorem (Appen- :
+
+dix A). We calculate Equation 24 as 5
+
+- :
+SAITO ET AL. 50f29  §

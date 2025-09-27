@@ -1,0 +1,26 @@
+Colaba (~10°) and Tihany (~46°), both observatories were located within 10° of the
+lowest limit of the aurora observing locations for the corresponding event [Green and
+Boardsen, 2006; Pallamraju and Chakrabarti, 2003].
+This paper 1s dedicated to the analysis of the geospace disturbances during the event on
+29 October 2003 for the interval when it can be compared to the Carrington storm, 1.e.,
+the first hours after the sudden commencement (SC) observed in Dst and SYM-H
+indices. After the analysis of the event with the large data sets available, we extrapolate
+the results to the Carrington storm, taking into account the limited data available for this
+event. Section 2 describes the discovery of a Carrington-like event in local magnetic
+records. In Section 3 we analyse the geospace disturbances during the event on 29
+October 2003. Finally, Section 4 1s dedicated to discussion and Section 5 to
+Conclusions.
+2. Discovering a Carrington-like profile in local magnetic records
+After a careful visual scrutiny of measurements recorded by INTERMAGNET
+geomagnetic observatories at mid-latitudes during extreme storms, we found that the
+profile of the horizontal magnetic field component intensity measured on 29 October
+2003 by some magnetic observatories in Europe was similar to that recorded at Colaba
+on 2 September 1859. Specifically Tihany observatory, in Hungary, recorded magnetic
+field variations which closely resemble the Carrington storm (Figure 1): the local timing
+of the large drop in H was similar (~ 9 - 10 MLT) -which 1s the onset of the terrestrial
+disturbance-, the short duration of the drop in H was comparable (< 1 hour), and the
+recovery to quiet time levels was extremely fast (< 1 hour) and also similar in shape.
+Nevertheless, the maximum disturbance 1s just half the intensity (almost 800 nT).
+3. Geospace disturbances during the event on 29 October 2003
+
+3

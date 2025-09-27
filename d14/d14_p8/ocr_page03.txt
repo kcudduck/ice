@@ -1,0 +1,57 @@
+Remote Sens. 2024, 16, 3497 3 of 22
+response of magnetic storms in the HF band is not as pronounced as in the ULF/ELF/VLF
+bands, fewer studies have been conducted on magnetic storms using the HF band.
+
+Although it is widely accepted that magnetic storms affect different frequencies and
+bands differently, detailed conclusions regarding specific frequencies and bands are lack-
+ing. In this paper, we utilize EFD spectrum data from CSES-1 to investigate the spectral
+characteristics of frequencies and bands exhibiting strong disturbances in different regions
+during the magnetic storm activity (Dst < —100 nT) on 4 November 2021. This paper fills
+a gap in the study of the frequency and band of strong ionospheric disturbances during
+magnetic storms.
+
+2. Materials and Methods
+
+The main scientific objective of the CSES-1 [12] is to monitor ionospheric perturbations
+associated with natural hazards in the quest for possible anomaly forecasting. The CSES-1
+completes 15.2 orbits around Earth per day, with an orbital period of ~94.6 min and a
+five-day recursive period over the same geographic area with the ascending /descending
+node local time of 02 a.m./02 p.m., respectively. Orbit altitude is 507 km. Eight payloads
+are assembled on CSES-1, that is, a high-precision magnetometer (HPPM), search coil magne-
+tometer (SCM), electric field detector (EFD), Langmuir probe (LA), plasma analyzer (PAP),
+high-energy particle detector (HEPD), GNSS occultation receiver (GOR), and tri-band
+beacon (IBB). The entire satellite is capable of acquiring 17.6 h of scientific exploration data
+per day and has the capability of continuous exploration within the latitude of 65° north
+and south at all hours of the day [27].
+
+The electric field is detected by an electric field detector (EFD). The EFD is an ad-
+vanced detector for space-based measurements of electric fields in a wide frequency band,
+specifically conceived for operation in the ionosphere-magnetosphere transition zone. The
+instrument, designed to be installed on the 3-axis stabilized CSES-1 satellite, includes:
+4 probes exposed to the ionospheric plasma, accommodated on the tips of 4 booms (each
+of them four meters long, deployed far from the spacecraft body in order to reduce the
+electromagnetic disturbances induced by the satellite equipment) and a data acquisition
+unit (for signal conditioning, sampling of input signals and spectral analysis). The electric
+field detector (EFD) data of the CSES-1 satellite has waveform data (mV /m) and PSD (Hz)
+data. The PSD data are obtained by Fourier transform of the waveform data. EFD retrieves
+the electric field components measured between pairs of probes in the following bands:
+ULF (Ultra-Low-Frequency, DC to 16 Hz), ELF (Extremely Low-Frequency, from 6 Hz to
+2.2 kHz), VLF (Very Low-Frequency, 1.8 to 20 kHz), and HF (High-Frequency, from 18 kHz
+to 3.5 MHz), with sampling rates of 128 Hz, 5 kHz, 50 kHz, and 10 MHz, respectively.
+
+In this paper, EFD power spectrum data (PSD) and Dst data are used to study the
+spatial and temporal characteristics of different magnetic storms, where the PSD data
+of the electric field are from CSES-1 (https://www.leos.ac.cn/), the SML index data are
+from the website (https: / /supermag.jhuapl.edu/), and the Dst data are from the website
+(https:/ /wdc.kugi.kyoto-u.ac.jp/index.html (accessed on 10 May 2024)).
+
+2.1. Satellite Data Process
+
+We use the average degree of difference between electric field data and the background
+field data during magnetic storms, which we call the D value, as a criterion for determining
+the magnitude of the effect of magnetic storms. The background field data are set to be a
+revisited orbit in a quiet period (with Dst values ranging from —30 to 30 nT) within one
+month before the current orbit. Since the revisit period of the CSES-1 satellite is 5 days, a
+date with an interval of multiple of 5 can be used as the background field. Because the Dst
+values from 28 October 2021 to 1 November 2021 are within the range above, it is a quiet
+period. Therefore, the electric field power spectrum data of these 5 days are selected as the

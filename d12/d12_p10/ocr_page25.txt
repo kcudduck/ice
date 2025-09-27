@@ -1,0 +1,58 @@
+(a) Initial deformation (m)
+EE 25
+EET 3 aa
+=
+CREE ths 4 | : FR
+eR oe : 3B
+fo SIA A GF
+ig a 5
+Ely iG oS
+27°S wis HS : —
+36°S Cg et EE : v=)
+os HR —
+5: =)
+g a a —
+of T=
+l D2
+° 4 Be : ~~
+45°S Viz : : A
+gr : OO
+hs 7 CS
+54°S ke N - ~ Doe
+90°W 75°W 60°W 45°W 30°W LS
+: ®
+LS
+(b) Wave Height (m) A
+0 02 04 06 08 1 12 14 16 18 >2 : Q,
+ENE aaa. SR
+IN
+80° _. 25" a ar
+Pair PE ria ERE IN
+40 N k- * x p= ~ x" 1 Le a 2% pos > 2 : =
+i or - ce ’ A Jd
+NON | N AY | p \ #5 TRO,
+40°S © : - - he p> /
+80°S™>=_ so. a a i
+180° 120°W 60°W 0° 60°E 120°E 180°
+(c) Time (hrs)
+- orgoveeres
+o | | be Was Salil
+“fi. ka i AY
+0° ET GL ee G hd No ©
+.. Cy = p
+180° 120°W 60°W 0° 60°E 120°E 180°
+Figure 17. (a) Initial deformation of sea level due to earthquake. (b) Simulated maximum wave amplitude distribution. (¢) Travel time
+contours of tsunami wave due to Valdivia tsunami event 22 May 1960. (The figure is on Robinson projection.)
+Regarding computational requirements, ADCIRC benefits greatly from HPC environments, where
+real-time applications typically use several hundred to a few thousand processing cores, depending
+on the scale and resolution needed. However, dependency on HPC infrastructure can pose challenges,
+especially for TWC in resource-limited regions. While ADCIRC excels in simulating deep water wave
+propagation, its computational demands increase in nearshore areas where higher resolution is needed
+to capture finer coastal details. Mesh refinement, essential for accurately modelling coastal impacts,
+can significantly increase computational time, particularly when very high resolution is required. To
+mitigate this, operational centres can apply finer mesh resolution only in critical coastal areas or
+regions of interest while maintaining coarser resolution in deeper waters. Additionally, pre-running
+scenarios for frequently occurring seismic sources can reduce real-time computational demands by
+allowing simulations to start from pre-calculated initial conditions, further enhancing operational
+efficiency. The accuracy of wave heights and arrival times largely depends on bathymetry and
+real-time estimates of the earthquake’s magnitude, geographic extent and the slip on the fault. Using

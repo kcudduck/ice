@@ -1,0 +1,29 @@
+there are two remarkable differences among the Carrington event (C59) and the
+“Carrington-like” event (C03): (1) the intensity of the disturbance in C59 1s double that
+in CO3, and (2) the latitude of the magnetic observatory where the measurements were
+collected, which was very low for C59 (10° MLat) and middle for CO3 (46° MLat).
+However, those latitudes have a common feature: both were about 10° equatorward
+from the lower latitude reported of aurora sightings for the corresponding event, which
+in both cases was tar from the typical edge of the auroral oval.
+
+Comparison between horizontal magnetic field component measurements at low-
+latitude observatories during C03 (Figure 2b) reveals that the size of the disturbance in
+the first two hours following the SC depends strongly on the local time of the magnetic
+records, being negative in the dayside and positive in the nightside. A small increase
+appeared 1n Dst or SYM-H, corresponding to the SC, and the largest disturbance (the H-
+spike) disappeared in these global indices due to the averaging involved in the
+computation procedure.
+
+The problem for Dst or SYM-H which missed the largest disturbance 1s not related in
+this case to the latitude of the magnetic observatories involved 1n the computation of the
+indices, as it usually occurs 1n high latitude events. Computing global indices at the time
+of the H-spikes from an average of H from mid-latitude observatories widely spread in
+longitude also results in values close to quiet time for those indices due to the large
+asymmetry in H records (extreme positive and negative disturbances are averaged out).
+Therefore, global indices, commonly used for space weather purposes, based on the
+mean value of the magnetic disturbance levels, as Dst and SYM-H, cannot be considered
+as good proxies to quantify the disturbance, as both might miss one of the most
+hazardous ground effects. This result agrees with Akasofu and Kamide [2005] that
+believed that it 1s not likely that the C59 storm reached a Dst decrease of as large as
+
+7

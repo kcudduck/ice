@@ -1,0 +1,63 @@
+www.nature.com/scientificreports/
+wo Kap (+e nh) 4 py (1 — enh) 1)
+TK (I — eal) 4, (1+ e Zulu)
+where K,, denotes the ratio of E to B at the top surface of layer n, while K,, ; at the top surface of the underlying
+layer n + 1, n, = tm, kn, = \/i27 f poo, and pg = 47107 "H 'm?.
+The initial value in Eq. (1) corresponds to the case when the layer n = N is a uniform half-space and
+12
+Ky = | =2L 2)
+HoO N
+The final value K (n = 1) is the transfer function relating E and B at the Earths surface*®"~,
+In this work, to perform analysis of data from 29 stations located at different latitudes and longitudes, we applied
+various 1D Earth resistivity models (EURHOM 1D) dedicated to the European region, as listed in Table 1 and
+described in details in Addm et al.*>. These models vary in the number of layers, values of thicknesses (I), and
+resistivities (1/0), and correspond to local conditions around the observatory stations.
+
+The Earth's internal structure can exhibit a complex 3D distribution of electrical resistivity. Various studies’
+have shown, however, that a 1D model remains a valuable first-order approximation for modeling the general
+resistivity structure and its impact on surface electric fields. Additionally, the 1D model is both fast and accurate
+at a specific location®, which is relevant for this study.
+
+The choice and application of a given Earth resistivity model influences the transfer function K between the
+B- and E-fields. In the primary step of the E-field estimation, the geomagnetic field { Bx, By} is decomposed into
+its frequency components { Bx(f), By(f)}. Then, they are multiplied by the corresponding transfer function
+values, that is
+
+Ex(f) = K(f)By(f) ”
+Ey(f) = —K(f)Bx(f),
+where Fx(f) and Ey(f) stand for the E-field frequency components. In the final step, the inverse Fourier
+transform is applied to determine the E-field values in the time domain [E(f)] for the northward [Ex] and
+eastward [Ey| components”.
+GeoElectric Dynamic Mapping
+
+GeoElectric Dynamic Mapping (GEDMap)® provides a robust construction of spatial maps of E-fields and
+allows determination of very rapid and strong variability of E-fields, and thus the extremely localized peak
+enhancements. More precisely, (i) the GEDMap procedure keeps the time resolution of input E-field time series;
+(ii) it applies 1D layered conductivity Earth models and determines E-fields at the positions of the magnetometers;
+(iii) it allows to select one of the four mathematical methods of 2D interpolation (the nearest neighbor, the linear
+interpolation, the cubic spline interpolation®® and the natural neighbor interpolation”); (iv) it constructs E
+maps with a grid of 0.05° (latitude) x0.2° (longitude) spatial scale resolution. The final output of the GEDMap
+procedure state maps, which presents the magnitude of the modeled E-field E = \/FE% + EZ or both local
+direction and the magnitude of E-field®. It should be noted that the selection of interpolation methods in the
+preparation of E-field maps is an important step, and should be validated each time when a new space weather
+
+1
+
+0.9 oY 8 5 - .
+90.8 \g/
+©
+QO \ © 4
+5 \/
+S 0.7
+
+0.6
+
+0.5
+
+MAS IVA ABK KIR SOD PEL JCK DON RAN RVK LYC OUJ HAN DOB NUR UPS TAR BRZ SUW
+Stations
+Figure 1. Correlation coefficients between E determined in measurement point and E obtained as a result of
+interpolation performed by using nearest neighbor (green line), linear (blue line), cubic spline (black line) and
+natural neighbor (red line) techniques. The 19 stations indicated on the x-axis were considered as verification
+points and ordered by decreasing geographic latitude (Table 1).
+Scientific Reports | (2024) 14:25074 | https://doi.org/10.1038/s41598-024-76449-z nature portfolio

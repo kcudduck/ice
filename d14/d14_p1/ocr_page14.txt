@@ -1,0 +1,33 @@
+Love, J. J., and J. L. Gannon (2010), Movie-maps of low-latitude magnetic storm
+disturbance, Space Weather, 8, SO6001, do1:10.1029/2009SWO000518.
+
+Manchester, W. B., Ridley, A. J.; Gombosi, T. I.; Dezeeuw, D. L. (2006), Modeling the
+Sun-to-Earth propagation of a very fast CME, Adv. Space Res., 38, 2, 253-262,
+do1:10.1016/;.asr.2005.09.044.
+
+Mannucci, A. J., B. T. Tsurutani, B. A. Iijima, A. Komjathy, A. Saito, W. D. Gonzalez,
+F. L. Guarnieri, J. U. Kozyra, and R. Skoug (2005), Dayside global ionospheric
+response to the major interplanetary events of October 29-30, 2003 Halloween
+Storms, Geophys. Res. Lett., 32, L12S02, do1:10.1029/2004GL021467.
+
+Pallamraju, D., and S. Chakrabarti (2005), First ground-based measurements of OI 6300
+A daytime aurora over Boston in response to the 30 October 2003 geomagnetic
+storm, Geophys. Res. Lett., 32, LO3S10, do1:10.1029/2004GL021417.
+
+Shi, Y., E. Zesta, and L. R. Lyons (2008), Modeling magnetospheric current response to
+solar wind dynamic pressure enhancements during magnetic storms: 1.
+Methodology and results of the 25 September 1998 peak main phase case, J.
+Geophys. Res., 113, A10218, do1:10.1029/2008JA013111.
+
+Siscoe, G., N. Cooker, and C. R. Clauer (2006), Dst of the Carrington storm of 1859,
+Adv. Space Res., 38, do1:10.1016/5.asr.2005.02.102, 173-179.
+
+Siscoe, G.L. (1979), A quasi-self-consistent axially symmetric model for the growth of
+a ring current through earthward motion from a prestorm configuration, Planet.
+Space Science 27, 285-295.
+
+Tsuji, Y., A. Shinbori, T. Kikuchi, and T. Nagatsuma (2012), Magnetic latitude and
+local time distributions of 10nospheric currents during a geomagnetic storm, J.
+Geophys. Res., 117, A07318, do1:10.1029/2012JA017566.
+
+14

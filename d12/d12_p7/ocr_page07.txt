@@ -1,0 +1,38 @@
+Confidential manuscript submitted to Journal of Geophysical Research: Oceans
+Figure 2 Similarity of atmospheric pressure data at different locations. The upper panel (a) plots
+the time histories of atmospheric pressure at three stations near Japan, and (b) shows the collapsed time
+histories when the arrival times are aligned . The lower panels (¢) and (d) show the same features for
+three stations near Chile. Time in panels (b) and (d) is relative to the arrival time.
+
+The atmospheric pressure data exhibits strong similarity in the far field. As shown in Figure 2,
+the time series of atmospheric pressure at three stations near Japan and Chile, present a distinctive
+N-wave shape when the arrival times are aligned, with the positive pressure at the crest being
+higher than the negative pressure at the trough. These stations are more than 6,000 km away from
+the source of explosion. The N-wave shape similarity 1s less obvious in the near field. Some of the
+near field data (e.g., Nomuka and Nukalofa, located less than 100 km from the source) do not show
+a clear crest, but are instead dominated by a deep trough, as shown in Figure 5 (black line). In the
+mid- and far-field the amplitudes of the atmospheric pressure wave crest and trough decay slowly
+with the distance to the source, as indicated in Figure 3. However, in the near-field, the pressure
+wave crest grows rapidly (see panel 3b). Moreover, the speed of the atmospheric pressure wave
+propagation at any atmospheric pressure sensor station can also be estimated. In this paper, the
+average speed, c(t), 1s calculated by dividing the distance from the source to the atmospheric
+pressure station by the travel time, which 1s the time when the atmospheric pressure signal first
+crosses the 0.001 hPa mark ahead of the arrival of the first pressure peak. The 1nitial time of the
+event 1s set at 04:15 on 15th of January 2022. The estimated average wave celerity of the pressure
+wave as a function of the distance from the volcano 1s plotted in the left panel of Figure 4, showing
+that the atmospheric pressure speeds up quickly in the near field and reaches a constant value of
+~319 m/s. The right panel of Figure 4 shows the same datapoints, but as a function of the time
+elapsed from the explosion, based on the arrival (1.e., travel) time definition.
+
+(a) (b)
+
+Pressure Wave Peak Pressure Wave Trough
+B : ® Measured =—Fitted Curve  R?=0.8606 _ ” ® Measured =——Fitted Curve R*=0.8747
+= 0 & 15
+> ® : 10
+0 © 0
+0 2000 4000 6000 8000 10000 12000 0 2000 4000 6000 8000 10000 12000
+Distance (km) Distance (km)
+Figure 3 The variations of the crest and trough values of the atmospheric pressure with distance
+from the source of explosion.
+7

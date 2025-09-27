@@ -1,0 +1,143 @@
+Arn : ;
+MI Journal of Geophysical Research: Oceans 10.1029/2020JC017011 L
+AND SPACE SCIENCE E
+:
+
+mH, o@ 4.0s mi,0 ©) 30.0s — (© 60.0s z
+
+4 Surface Pressure 4 4 Z
+
+2 2 2
+
+a)
+
+0 0 0 3
+
+-2 -2 -2 3)
+
+4 4 4 :
+
+(m) [m] [m} E
+
+2 2 2 2
+
+0 0 0 g
+
+2 2 2 :
+
+-4 -4 —4 =
+
+[km [km [km 3
+
+0 0 0 >
+
+Velocity S
+
+®
+
+1 1 1 =
+
+2 2 2 2
+
+2% =
+
+3 0.1 3 3 E
+
+ow
+
+4 2.0 4 4 2
+
+[MH0] [MH,0] [MmH,0] z
+
+4 4 4 z
+
+Bottom Pressure 9)
+
+0 0 0 =
+
+-2 -2 -2 =
+
+-4 -4 -4 E
+
+100 0 100 100 0 100 100 0 100 8
+
+Distance [km] Distance [km] Distance [km] &
+
+mH,0 (9) 120.0s mH, © 250.0s (MH,0] (f) 500.0s S
+
+4 4 4 &
+
+2 2 2 g
+
+0 0 0 &
+
+—
+
+-2 -2 -2 5
+
+_4 —4 -4 :
+
+[m] [m] [m] 0
+
+4 4 4 2
+
+2 2 2 S
+
+0 0 0 3
+
+-2 -2 -2 Z
+
+-4 4 4 S
+
+[km [km [km a,
+
+0 0 0 :
+
+1 1 1 g
+
+:
+
+2 2 2 a
+
+2
+
+3 3 3 :
+
+2.
+
+4 4 4 :
+
+ioe [mH,Q] [mH0] :
+
+2 2 2 =
+
+0 0 0 IE
+
+— -2 _2 =
+
+-4 4 —4 =
+
+100 0 100 100 0 100 100 _ 0 100 =<
+
+Distance [km] Distance [km] Distance [km] S
+
+Figure 6. Tsunami generation due to a moving surface pressure change. Instead of the dispersion relation =
+wy = +|8ok tanh (kz ) (Equation 27), we set w, = k./gyh, in this simulation to remove wave dispersion. Other >
+parameters are the same as those in Figure 4. 2
+we obtain 3
+1d 1 1 z
+
+n(x y.1) = ————ct—py (x —- Vyt)H (1) -—— p(x — Vyt)H (1) +——py (x + ct) H(t) (66) z
+
+20080 dx 4080 40080 3
+
+:
+
+.
+
+-_
+Z
+
+CC
+
+SAITO ET AL. 17 of 29 §

@@ -1,0 +1,53 @@
+Ae remote sensing MDPI|
+F
+Article
+Multiple-Band Electric Field Response to the Geomagnetic Storm
+on 4 November 2021
+Jie Zheng 2(", Jianping Huang %*, Zhong Li >"), Wenjing Li 2, Ying Han 3", Hengxin Lu ? and Zeren Zhima 2
+I University of Chinese Academy of Sciences, Beijing 101408, China; zhengjie22@mails.ucas.ac.cn
+2 National Institute of Natural Hazards, Ministry of Emergency Management of China, Beijing 100085, China;
+wenjingli@ninhm.ac.cn (W.L.); hengxinlu@ninhm.ac.cn (H.L.); zerenzhima@ninhm.ac.cn (Z.Z.)
+3 Institute of Disaster Prevention, Langfang 065201, China; lizhong@cidp.edu.cn (Z.L.);
+hanying@cidp.edu.cn (Y.H.)
+* Correspondence: jianpinghuang@ninhm.ac.cn
+Abstract: This paper investigates the impact characteristics of the 4 November 2021 magnetic storm
+across different frequency bands based on the electric field data (EFD) from the China Seismo-
+Electromagnetic Satellite (CSES), categorized into four frequency bands: ULF (Ultra-Low-Frequency,
+DC to 16 Hz), ELF (Extremely Low-Frequency, 6 Hz to 2.2 kHz), VLF (Very Low-Frequency, 1.8 to
+20 kHz), and HF (High-Frequency, 18 kHz to 3.5 MHz). The study reveals that in the ULF band,
+magnetic storm-induced electric field disturbances are primarily in the range of 0 to 5 Hz, with a
+significant disturbance frequency at 3.9 £ 1.0 Hz. Magnetic storms also enhance Schumann waves
+in the ULF band, with 8 Hz Schumann waves dominating in the southern hemisphere and 13 Hz
+Schumann waves dominating in the northern hemisphere. In the ELF band, the more pronounced
+anomalies occur at 300 Hz-900 Hz and above 1.8 kHz, with the 300 Hz-900 Hz band anomalies
+around 780 Hz being the most significant. In the VLF band, the electric field anomalies are mainly
+concentrated in the 3-15 kHz range. The ELF and VLF bands exhibit lower absolute and relative
+disturbance increments compared to the ULF band, with the relative perturbation growth rate
+in the ULF band being approximately 10% higher than in the ELF and VLF bands. Magnetic
+eaten storm-induced electric field disturbances predominantly occur in the ULF, ELF, and VLF bands,
+| with the most significant disturbances in the ULF band. The electric field perturbations in these
+Citation: Zheng, J.; Huang, J.; Li, Z.; . . . . )
+Li W. Han, Y: La. Hos Zhima, Z three frequency bands exhibit hemispheric asymmetry, with strong perturbations in the northern
+Multiple-Band Electric Field Response hemisphere occurring earlier than in the southern hemisphere, corresponding to different Dst minima.
+to the Geomagnetic Storm on No electric field disturbances were observed in the HF band (above 18 kHz). The conclusions of
+4 November 2021. Remote Sens. 2024, this paper are highly significant for future anti-jamming designs in spacecraft and communication
+16,3497. https://doi.org/10.3390/ equipment, as well as for the further study of magnetic storms.
+rs16183497
+oo Keywords: CSES; electric field disturbance; geomagnetic storms; ULF; ELF; VLF; HF
+Academic Editor: Stephan
+Havemann EE —————
+Received: 14 August 2024
+Revised: 19 September 2024 1. Introduction
+Accepted: 19 September 2024 Magnetic storms, also known as solar storms, are phenomena where energetic particles
+Published: 20 September 2024 and magnetic fields in the solar wind interact with the Earth’s magnetic field. These
+interactions can lead to violent disturbances in the Earth's magnetosphere, causing sharp
+changes in the Earth’s magnetic field [1,2]. Geomagnetic storms are typically caused by
+Copyright: © 2024 by the authors. disturbances in solar wind and are accompanied by a prolonged southward interplanetary
+Licensee MDPI Basel, Switzerland, Magnetic field. These events release substantial amounts of energy and charged particles,
+This article is an open access article ~~ Which are carried through space by the solar wind [3-5]. When these charged particles
+distributed under the terms and interact with the Earth’s magnetic field, they can trigger a complex array of phenomena.
+conditions of the Creative Commons IN extreme cases, magnetic storms can severely impact the Earth's communication and
+Attribution (CC BY) license (https:// ~~ navigation systems [6-9]. Identifying the specific frequencies affected by magnetic storms
+creativecommons.org/licenses/by/ will not only aid in the in-depth study of these phenomena, but also be crucial for the
+4.0/). anti-jamming design of spacecraft and communication equipment.
+Remote Sens. 2024, 16, 3497. https: / /doi.org/10.3390/rs16183497 https: / /www.mdpi.com/journal/remotesensing

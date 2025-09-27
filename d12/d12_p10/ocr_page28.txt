@@ -1,0 +1,85 @@
+3. Shenoi SSCet al. 2020 Are we Ready for a Major Tsunami in the Indian Ocean? Curr, Sci. 118, 1753. (doi: 10.18520/cs/v118/i11/1753-1759) 28
+
+4. Srinivasa Kumar T, Manneela S. 2021 A Review of the Progress, Challenges and Future Trends in Tsunami Early Warning Systems. J. Geol. Soc.
+India 97, 1533-1544. (doi:10.1007/512594-021-1910-0) S
+
+5. Shinbrot M. 1970 The shallow water equations. J. Eng. Math. 4, 293-304. (doi:10.1007/bf01534977) Z
+
+6. Yeh H, Liu P, Synolakis C. 1997 Review of tsunami simulation with a finite difference method. In Long-wave runup models. Hackensack: World =
+Scientific Publishing. (doi:10.1142/9789814530330) 5
+
+7. Goto C, Ogawa Y, Shuto N, Imamura F. 1997 Numerical method of tsunami simulation with the leap-frog scheme. In [UGG/ioc time project, ioc =
+manual and guides, pp. 1-126, vol. 35. Paris: UNESCO. =
+
+8. Liu PLF, Cho YS, Briggs MJ, Kanoglu U, Synolakis CE. 1995 Runup of solitary waves on a circular Island. J. Fluid Mech. 302, 259-285. (doi: 10. 5
+1017/50022112095004095) =
+
+9. Titov VV, Gonzalez Fl. 1997 Implementation and testing of the Method Of Splitting Tsunami (MOST) model. See https://repository.library.noaa. =
+gov/view/noaa/10979. =
+
+10.  Flouri ET, Kalligeris N, Alexandrakis G, Kampanis NA, Synolakis CE. 2013 Application of a finite difference computational model to the simulation S
+of earthquake generated tsunamis. Appl. Numer. Math. 67, 111-125. (doi: 10.1016/j.apnum.2011.06.003) -
+
+11. Wei G, Kirby JT. 1995 Time-Dependent Numerical Code for Extended Boussinesq Equations. J. Waterw. Port Coast. Ocean Eng. 121, 251-261. ©
+(doi:10.1061/(asce)0733-950x(1995)121:5(251)) =
+
+12. Kirby JT, Wei G, Chen Q, Kennedy AB, Dalrymple RA. 1998 FUNWAVE 1.0, Fully nonlinear Boussinesq wave model. Documentation and users IS
+manual’ Report CACR- 98-06, Center for Applied Coastal Research, University of Delaware. 3
+
+13. Lynett PJ, Liu PLF. 2004 Linear analysis of the multi-layer model. Coast. Eng. 51, 439-454. (doi:10.1016/j.coastaleng.2004.05.004) =
+
+14. (lain S, Reis C, Costa R, Figueiredo J, Baptista MA, Miranda JM. 2016 Second-order finite volume with hydrostatic reconstruction for tsunami: °°
+simulation. J. Adv. Model. Earth Syst. 8, 1691-1713. (doi:10.1002/2015ms000603) =
+
+15. Androsov A, Behrens J, Danilov S. 2011 Tsunami Modelling with Unstructured Grids. Interaction between Tides and Tsunami Waves. In .
+Computational science and high performance computing iv: the 4th russian-german advanced research workshop, freiburg, germany, pp. 191-206.
+Berlin, Heidelberg: Springer Berlin Heidelberg. (doi:10.1007/978-3-642-17770-5_15)
+
+16. Takase S, Moriguchi S, Terada K, Kato J, Kyoya T, Kashiyama K, Kotani T. 2016 2D—-3D hybrid stabilized finite element method for tsunami runup
+simulations. Comput. Mech. 58, 411-422. (doi:10.1007/s00466-016-1300-4)
+
+17. Cunningham LS, Rogers BD, Pringgana G. 2014 Tsunami wave and structure interaction: an investigation with smoothed-particle
+hydrodynamics. Proc. Inst. Civ. Eng. Eng. Comput. Mech. 167, 126-138. (doi:10.1680/eacm.13.00028)
+
+18. St-Germain P, Nistor |, Townsend R, Shibayama T. 2014 Smoothed-Particle Hydrodynamics Numerical Modeling of Structures Impacted by
+Tsunami Bores. J. Waterw. Port Coast. Ocean Eng. 140, 66—81. (doi: 10.1061/(asce)ww.1943-5460.0000225)
+
+19. Heller V, Bruggemann M, Spinneken J, Rogers BD. 2016 Composite modelling of subaerial landslide—tsunamis in different water body
+geometries and novel insight into slide and wave kinematics. Coast. Eng. 109, 20-41. (doi:10.1016/].coastaleng.2015.12.004)
+
+20. Pringgana G, Cunningham LS, Rogers BD. 2016 Modelling of tsunami-induced bore and structure interaction. Proc. Inst. Civ. Eng. Eng. Comput.
+Mech. 169, 109-125. (doi:10.1680/jencm.15.00020)
+
+21. Okada Y. 1985 Surface deformation due to shear and tensile faults in a half-space. Bull. Seismol. Soc. Am. 75, 1135-1154. (doi:10.1785/
+bssa0750041135)
+
+22. Koike N, Kawata Y, Imamura F. 2003 Far-Field Tsunami Potential and a Real-Time Forecast System for the Pacific Using the Inversion Method.
+Nat. Hazards (Dordr). 29, 425-436. (doi:10.1023/A:1024760026596)
+
+23. Titov VV, Gonzalez Fl, Bernard EN, Eble MC, Mofjeld HO, Newman JC, Venturato AJ. 2005 Real-Time Tsunami Forecasting: Challenges and
+Solutions. Nat. Hazards 35, 35-41. (doi:10.1007/511069-004-2403-3)
+
+24. Murty PLN, Kolukula SS, Ramarao EP, Kumar TS. 2022 Finite Element Modeling of Tsunami-induced Water Levels and Associated Inundation
+Extent: A Case Study of the 26th December 2004 Indian Ocean Tsunami. J. Geol. Soc. India 98, 1356-1364. (doi:10.1007/512594-022-2183-y)
+
+25. Luettich RA, Westerink JJ. 2004 Formulation and Numerical Implementation of the 2D/3D ADCIRC Finite Element Model Version 44. XX. Tech. rep.,
+University of North Carolina at Chapel Hill & University of Notre Dame.
+
+26. Robke BR, Vott A. 2017 The tsunami phenomenon. Prog. Oceanogr. 159, 296—322. (doi: 10.1016/j.pocean.2017.09.003)
+
+27. Pringle WJ, Wirasaet D, Roberts KJ, Westerink JJ. 2021 Global storm tide modeling with ADCIRC v55: unstructured mesh design and
+performance. Geosci. Model Dev. 14, 1125-1145. (doi:10.5194/gmd-14-1125-2021)
+
+28. Wessel P, Smith WHF. 1996 A global, self-consistent, hierarchical, high-resolution shoreline database. J. Geophys. Res. 101, 8741-8743. (doi: 10.
+1029/96jb00104)
+
+29. GEBCO. See https://www.gebco.net/data_and_products/gridded...data/gebco_30_second_ grid.
+
+30. Pringle W, Wiraset D, Westerink J, Roberts K. 2020 ADCIRC v55 Modeling the Earth, Mesh Resolution Effects and Removing Time Step
+Constraints (doi:10.17615/39bf-wa56)
+
+31. Flanders Marine Institute (VLIZ). 2024 Intergovernmental Oceanographic Commission (I0C) (2024): Sea level station monitoring facility. See
+https://www.ioc-sealevelmonitoring.org (accessed 22 January 2024).
+
+32. Intergovernmental Oceanographic Commission. 2019 Tsunami glossary, pp. 418-441, Fourth Edition. Paris: UNESCO.(I0C Technical Series). (doi:
+10.1007/978-94-009-8261-1_32)

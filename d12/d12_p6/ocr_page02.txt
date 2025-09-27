@@ -1,0 +1,35 @@
+The general solution of the nonlinear shallow water equations on a plane beach was found by Carrier and Greenspan (1958)
+using the hodograph transformation. Later on many other authors found specific solutions for different types of waves
+climbing the beach, see, for instance, (Pedersen and Gjevik 1983; Synolakis 1987; Synolakis et al. 1988; Mazova et al. 1991;
+Pelinovsky and Mazova 1992; Tadepalli and Synolakis 1994; Brocchini and Gentile 2001; Carrier et al. 2003; Kanoglu
+2004; Tint1i and Tonmini 2005; Kanoglu and Synolakis 2006; Madsen and Fuhrman 2008; Didenkulova et al. 2007;
+Didenkulova 2009; Madsen and Schaffer 2010).
+Many of these analytical formulas have been validated experimentally in laboratory tanks (Synolakis 1987, L.1 and Raichlen
+2002; Lin et al. 2009; Didenkulova et al. 2013). For most of them, the solitary waves have been used. The soliton is rather
+easy to generate in the flume, therefore, laboratory studies of run-up of solitons are the most popular. However, (Madsen et
+al. 2008) pointed out that the solitons are inappropriate to describe the real tsunami and proposed to use waves of longer
+duration than solitons and downscaled records of real tsunami. Schimmels et al. (2016) and Sriram et al. (2016) generated
+such long waves in the Large Wave Flume of Hannover (GWK FZK) using the piston type of wave maker while McGovern
+et al. (2018) did it using the pneumatic wave generator.
+It should be mentioned that the shape of tsunami varies a lot depending on its origin and the propagation path. One of the
+best examples of tsunami wave shape variability 1s given in Shuto (1985) for the 1983 Japan Sea tsunami, where the same
+tsunami event resulted in very different tsunami approaches in different locations along Japanese coast. These wave shapes
+included: single positive pulses, undergoing both surging and spilling breaking scenarios, breaking bores, periodic wave
+trains, surging and breaking as well, a sequence of two or three waves and undular bores. This 1s why there 1s no such term
+as “typical tsunami wave shape”, and therefore in the papers on wave run-up cited above many different wave shapes, such
+as single pulses, N-waves, periodic symmetric and asymmetric wave trains, are considered. In this paper, we focus on the
+nonlinear deformation and run-up of long single pulses of positive polarity on a plane beach.
+A similar study was performed for periodic sine waves (Didenkulova et al. 2007; Didenkulova 2009). It was shown that the
+run-up height increases with an increase in the wave asymmetry (wave front steepness) which 1s a result of nonlinear wave
+deformation during its propagation in a basin of constant depth. It was found analytically that the run-up height of this
+nonlinearly deformed sine wave 1s proportional to the square root of the wave front steepness. Later on, this result was also
+confirmed experimentally (Didenkulova et al. 2013).
+It should be noted that these analytical finding also match tsunami observations. Steep tsunami waves are often witnessed
+and reported during large tsunami events, such as 2004 Indian Ocean and 2011 Tohoku tsunamis. Sometimes the wave,
+which approaches the coast, represents a “wall of water” or a bore, which 1s demonstrated by numerous photos and videos of
+these events.
+The nonlinear steepening of the long single waves of positive polarity has also been observed experimentally in (Sriram et al.
+2016), but 1ts effect on wave run-up has not been studied yet. In this paper, we study this effect both analytically and
+numerically. Analytically, we apply the methodology developed in (Didenkulova 2009; Didenkulova et al. 2014), where we
+consider the processes of wave propagation in the basin of constant depth and the following wave run-up on a plane beach
+2

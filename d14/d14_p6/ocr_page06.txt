@@ -1,0 +1,71 @@
+6
+the power grid, and f(¢) is the fraction of transformers severe storms, 2) GICs and transformer overheating in
+with phase ¢. If F'(n) > 0.33, then we conclude that high voltage power distribution networks, and 3) effects
+node n fails longer term. This cutoff value is based on the of transformer failure on the electric grid and popula-
+report for Oak Ridge National Laboratory 56], in which tion’s access to electricity. This three-stage process is an
+we can find that “the standard approach to spares has agglomeration of multiple smaller models we assembled
+been to purchase an extra single phase transformer for a across various scientific fields and modified or expanded
+three phase bank”. Thus, we assume that if the failure where appropriate to suit our needs.
+rate is more than 33% in a given region, the region suffers We utilise magnetotelluric (MT) [30] and EMTF 31-
+an extended power outage. 33] site data to find geoelectric fields as described by Love
+
+et al., 45]. Then, an adjustment process is applied to all
+fields to a reference location, with an intermediary step
+C. Stage III incorporating auroral boundary movement. The refer-
+ence adjustment is done by using the geomagnetic lati-
+
+We conclude how transformer failures affect popula- tude data from Ngwira et al., 49]. To this data, we fit
+tion access to electricity. Our consideration here is based ~~ a log-normal function that serves as our model for the
+on the tessellation of the continents. It could also be recurrence of the geoelectric fields 45, 50]. Finally, an
+performed in countries and alike, but we focus on conti- impedance estimate is computed using Earth’s ground
+nents in the analysis. Unfortunately, the region served by ~~ conductivity model from Alekseev et al., 1]. With all
+each substation node is not publicly available, so we use ~~ those elements, we can compute E field levels at any lo-
+a proxy approach — a Voronoi diagram. Each power grid cation on Earth for any storm rarity and duration.
+node in the power distribution data serves as the centre This general model can be used for an arbitrary geo-
+for a Voronoi cell. This way, we have a good approx- graphical region, including the whole globe, as long as
+imation of real-world electric districts since each power power distribution network data are available. The soft-
+substation serves its nearest surroundings. Naturally, we ware implementation is written in Python and the source
+limit the Voronoi regions to the extent of the geographic code is open and available for anyone to use and mod-
+boundaries of the networks. We use the 15 arc-minute ify. It is also worth noting that our implementation is
+orid population density data to estimate the population additionally accessible to a wide audience as it does not
+in each cell 43]. Specifically, in each grid cell, the land require an expensive computer cluster, and can be run
+area was multiplied by the population density to obtain ~~ on a reasonably modern machine in less than an hour on
+the absolute population estimates. The total population the scale of a continent or smaller.
+in each Voronoi region was calculated as the total number In order to see how particular regions are affected
+of centres of 15 arc-minute population grid cells within by geomagnetic storms, we include the Voronoi diagram
+the Voronoi polygon represented by a power node. plots for both continents depicting a specific number of
+
+We assume the power outages to be long-term as the  gyubgstations at risk in a granular manner; see Fig. [3] for
+orid is often run at near-maximum capacity, and it is esti- Europe, and Fig. [4] for North America in a 1-in-10000
+mated that a region with insufficient transformers would year scenario. The colour indicates the ratio of HVTs
+be unable to serve electricity for many months until those within a given Voronoi cell that are expected to fail. We
+transformers were replaced, which is a slow and expen- acknowledge that Sweden has in fact hardened their grid
+sive process. This is a lower bound estimate, however, to address the risks discussed here [57]; however, for sim-
+and could well take much longer 56]. plicity’s sake, we include it in our results.
+
+In addition to the number of people being cut off from We determine a region to be expected to suffer a power
+DOWEL, WC provide estimates on the total electric power qq by considering the transformer failures exceeding
+loss in [GW]: available spare parts 56]. Thus, we assume that if the
+
+p failure rate is more than 33% in a given region, the region
+
+Poss = —— > C(n)[F(n) > 0.33]. (9) suffers an extended power outage. In Fig. [5] we present
+
+N n the estimates of the population numbers experiencing a
+
+CEL as a result of a geomagnetic storm, and total elec-
+
+Floss 1s power lost, Peons 1s total power consumption (for tricity loss in gigawatts. This plot illustrates how many
+continent /country, etc.) 44], N is total population 42], people will lose power for months or perhaps even years
+C(n) is the population in a given Voronoi region n, F'(n) when an extreme storm arrives. This extreme event's
+is from Eq. (8), and [...] is the Iverson bracket notation. strength is the highest expected to occur once per certain
+amount of years. For instance, for an event of a strength
+
+that 1s expected to happen once in 10000 years, in Eu-
+
+III. RESULTS AND DISCUSSION rope, we expect 0.99% (over 7.4 million people) of the
+population to experience CEL, whereas in North Amer-
+
+To recap, In Fig.[1] we presented a simplified flowchart ica, it would be 0.86% (over 4.1 million people). The
+of our model. The data-driven framework we propose total expected loss is 49.71 [GW] and 56.12 [GW], re-
+runs in three stages estimating: 1) geoelectric fields for spectively. We limited ourselves here to these particular

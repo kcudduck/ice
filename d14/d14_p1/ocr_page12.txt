@@ -1,0 +1,36 @@
+References
+
+Akasofu, S.-I., and Y. Kamide (2005), Comment on ‘‘The extreme magnetic storm of
+1-2 September 1859” by B. T. Tsurutani, W. D. Gonzalez, G. S. Lakhina, and
+S. Alex, J. Geophys. Res., 110, A09226, do1:10.1029/2005JA011005.
+
+Boteler, D. H. (2006), The super storms of August/September 1859 and their effects on
+the telegraph system, Adv. in Space Res., 38, 159-172.
+
+Burton, R. K., R. L. McPherron, and C. T. Russell (1975), An empirical relationship
+
+Cid, C., J. Palacios, E. Saiz, Y. Cerrato, J. Aguado, and A. Guerrero (2013), Modeling
+the recovery phase of extreme geomagnetic storms, J. Geophys. Res., 118,
+do1:10.1002/3gra.50409.
+
+Cid, C., J. Palacios, E. Saiz, A. Guerrero, Y. Cerrato (2014), On extreme geomagnetic
+storms, J. Space Weather Space Clim., 4, A28, do1: 10.1051/swsc/2014026.
+
+Clarke, E., C. Rodger, M. Clilverd, T. Humphries, O. Baillie, and A. Thomson (2010),
+An estimation of the Carrington flare magnitude from solar flare effects (ste) in
+the geomagnetic records, Royal Astron. Soc. National Astron. Meeting, 12-16
+April, 2010, University of Glasgow, UK (available at
+http://nora.nerc.ac.uk/19904/).
+
+Cliver, E. W., and W. F. Dietrich (2013), The 1859 space weather event revisited: limits
+of extreme activity, J. Space Weather Space Clim., 3 A31l, dor:
+10.1051/swsc/2013053.
+
+Cliver, EEW., and L. Svalgaard (2004), The 1859 solar-terrestrial disturbance and the
+current limits of extreme space weather activity, Solar Phys., 224, 407-422.
+
+Emery, B. A., V. Coumans, D. S. Evans, G. A. Germany, M. S. Greer, E. Holeman, K.
+Kadinsky-Cade, F. J. Rich, and W. Xu (2008), Seasonal, Kp, solar wind, and
+solar flux variations in long-term single-pass satellite estimates of electron and
+
+12

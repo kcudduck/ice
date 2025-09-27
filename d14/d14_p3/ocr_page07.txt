@@ -1,0 +1,50 @@
+Evaluating the relationship between strong ge... https://www.swsc-journal.org/articles/swsc/fu...
+Selected dat d to th ti tic st Dst<=100 nT and HMF B>< =10 nT).
+CB SiNgG this Webi, You agree that EDP SC as fray Store web audience meadurement cookies antl, on some pages, Yes No
+
+cookies from social networks. More information and setup
+——— Fig. 2
+Som Geoelectric field components Ex and Ey for years 2010-2014 calculated using a 1-D
+= layered-Earth model (Adam et al., 2012).
+We are aware that the induced E field can vary widely even during a given event (Ngwira et al., 2015;
+Pulkkinen et al., 2015). Therefore, a quantitative and more detailed analysis of computed geoelectric field £
+for selected geomagnetic storms has been performed in the next section.
+Here we defined a pivot time based on the Table 1 as the days when there appeared the HMF southward
+component By < —=10 nT (case 1), Dst < =100 nT (case 2) and both, B>< -10 nT and Dst < =100 nT (case 3)
+during more than 3 h. Next, we extracted subsets of daily data of electrical network failures (of a particular
+type) during a whole week around the pivot events, i.e., 3 days before and after each event. Subsequently, we
+superposed all extracted subsets of failures synchronizing all zero-days and normalising values to the
+average during the whole week being equal to 0. Figures 3-5, panels (a) show that around a pivot event, huge
+growth in the EGF in all three groups is observed. To visualise the overall situation during the considered
+geomagnetic storms in Figures 3-5, panels (b) we display the temporal behaviour of superposed daily mean
+of Dst-index (averaged over the number of events, details in Table 1), panel (c) presents superposed daily
+mean of B HMF component changes (averaged over the number of events) and panel (d) depicts superposed
+daily mean of computed geoelectric field E = VE% + EZ [mV/km] (details in the Sect. 3.2).
+Fig. 3
+% above normalised sum of daily electrical grid failures (a), averaged over the number of events
+(b) Dst-index [nT], (c) BZ [nT] component of HMF and (d) computed geoelectric field £ [mV/km],
+during the geomagnetic storms with B><-10 nT (case 1), for years 2010-2014.
+Figure 3 displays case 1 circumstances when B>< -10 nT for more than 3 h. Figure 3, panel (a) presents that
+on the zero-day EGF caused by the aging of infrastructure elements (group D) increased to 52% above the
+average value during the whole week and rose to 44% above this average on the second day after the pivot
+time. The EGF growth connected to the unreliability of electronic devices (group E) on the 0 day was 263%
+above the average, on the day after reaching 434% and 193% above the average on the second day. EGF
+having unknown reasons (group F) grew from the mean value by 148% on the 0 day.
+Figure 4 presents the conditions for the case 2, when Dst < -100 nT remained for more than 3 h. Figure 4,
+panel (a) presents that EGF caused by the aging of infrastructure elements (group D) increased to 247%
+above the average value during the whole week on the second day after the pivot time. The EGF growth
+connected to the unreliability of electronic devices (group E) was 86% on the day after the 0 day and still
+growing on the second day after the pivot time to 235% above the average. EGF having unknown reasons
+(group F) grew from the mean value by 104% on the 0 day and still being 50% above the average on the day
+after.
+Fig. 4
+% above normalised sum of daily electrical grid failures (a), averaged over the number of events
+(b) Dst-index [nT], (c) BZ [nT] component of HMF and (d) computed geoelectric field £ [mV/km],
+during the geomagnetic storms with Dst<-100 nT (case 2), for years 2010-2014.
+Figure 5 depicts the situation for the case 3, when B><-10 nT and Dst<-100 nT lasted more than 3 h. Figure
+5, panel (a) presents that EGF caused by the aging of infrastructure elements (group D) increased to 152%
+above the average value during the whole week on the second day after the pivot time. The EGF growth
+connected to the unreliability of electronic devices (group E) also appeared on the second day after the pivot
+time, reaching 520% above the average. EGF having unknown reasons (group F) grew from the mean value by
+111% on the 0 day.
+7 of 15 27/09/2025, 18:16

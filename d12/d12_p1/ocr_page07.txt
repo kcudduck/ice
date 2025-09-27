@@ -1,0 +1,25 @@
+The tsunami deposit characteristics are reconstructed by matching sedi-
+ment thickness and grain-size distribution with field data. In order to recon-
+struct deposit details, the sediment concentration cannot be depth averaged
+and is described as a Rouse-type suspended sediment concentration profile.
+In this framework, we use the method from Jaffe and Gelfenbuam/ [2007] to
+calculate the suspended sediment concentration profile. It is efficient to re-
+construct the deposit by calculating times of deposition. The deposition time
+of suspended sediment is calculated by:
+
+1) — 5 (10)
+in which t\" 1s the deposition time for grain size i sediment at elevation z,.
+The amount of sediment settling in each grain size class for a given elevation
+is tracked as sediment thickness increment:
+i Cy
+6 = (11)
+oY is from the suspended sediment profile |Jaffe and Gelfenbuam [2007], cf?
+is the thickness of the sediment increment of the same grain size 7 at elevation
+z; and deposited at time t" The deposition time and corresponding sedi-
+ment thickness increment are ordered from shortest to longest. If there are
+multiple layers in the tsunami sediment, we can compute the grain-size dis-
+tribution for each layer separately based on the depositional temporal order
+of the sediment thickness increments by:
+JD LP TY (12)
+> (Zid)
+7

@@ -1,0 +1,74 @@
+I. Charvet et al. / Ocean Modelling 69 (2013) 79-92 87
+10° 10°
+a b
+I, 10° >
+10° " > i LN
+< 3 J > pb
+_ > p i_ 10 Db
+=! =!
+> P > P
+10° > > R > i
+I 10 5 &
+10° 10°
+10°” 10" 10° 10° 10° 10” 10"
+[1,=(pgLa’/E) [1,=(pgL*/E,)
+10° 10"
+3
+Cc % d es
+> 0” > or
+>
+> b> Ry > >>
+< > > = >
+& 10° g x 40° sn P
+r ~ ~
+= E =!
+> >» bP oh. ”
+> HE 10 b>
+> >
+>
+10° 10°
+10° 10" 10° 10" 10° 10° 10"
+[1,=(pgLh*/E,) [1,=(pga’/E,)
+Fig. 9. Example correlations between the dimensionless products of equation (15) for different variables L*. for all the data. These indicate a power law relates the two
+dimensionless products, where for (a) L* = L'3a?/3; (b) L* =L; (c)L* =L'?h*>; (d)L* = a.
+Table 4 The characteristic length scale L* may be the flume width (w), wave
+Subpopulations of wave data for regression analysis, where I, is the length of the amplitude (a or a~), height (H), wavelength (L), or water depth (h).
+beach, and T, is the travel time of a linear wave along the length of the beach. As the present experiments were carried out in two dimensions, w
+Notation Description Sample size (1) can be taken as a unit width so the following equation applies here
+ET to a number of combinations of three possible variables for L*. The
+— <1 Long elevated waves (+ < 1) 21
+b b functional relationship between the two groups can be expressed
+F< Very long elevated waves ({- <1) 8 3s
+E All elevated waves 29
+Ni <1 Long N-waves (f- <1) 18 R [* 0g
+NE <1 Very long N-waves (£ <1) 3 = bg — | (15)
+N All N-waves 21
+By plotting IT; against Il, for a sample of simple combinations of L*,
+is also introduced. Une omneEiEl relationship between the inde- we can see that the data is best described by a power law (Fig. 9). All
+pendent variables L, E*, §, p, and g, can be expressed as: the data was used in these graphs. The cases where the correlation
+R=f(L"E, p,8). (13) was poor were discarded. Therefore, we infer the functional rela-
+tionship to be of the form:
+The beach slope parameter is a dimensionless quantity (and an
+invariant in the present experiments), therefore not included in R I 0g K
+(13). The Buckingham Pi theorem (Hughes, 1993) was applied to = K | (16)
+(13) and out of this analysis (see Charvet, 2012) two dimensionless
+roups, Il; and II,, were formed: : .
+SToups, 1h 2 where K and k are coefficients empirically determined from the
+R (LL) pg dataset. Regression analysis is necessary to identify the forms of
+I; = [* I; = EE (14a, b) (16) that can give a satisfactory fit to the data by optimizing values
+of K and k. Moreover, the scatter plots in Fig. 9 show that a signifi-
+Table 5
+Elevated waves: wave group, response variable, combinations of k and logK giving a minimal value for equation (B2), coefficient of determination, mean of residuals and
+distribution of residuals for plots displaying a degree of linearity. The value in brackets next to the coefficient of determination indicates the number of outliers removed, if no
+value is shown, there were no outliers. The corresponding table for N-waves can be found in Charvet (2012).
+R [3 k logK R? e {e1,e,,...,e,} Uncorrelated, 6° = constant {eq,es,...,e,} Normally distributed
+Ef <1 R/h a3 0.89 2.32 0.94(2) 53x10" Yes; yes Yes
+EL <1 R/h Lh? —0.45 1.97 0.87 6.7 x 101° Yes; yes No
+EL <1 R/h h? —0.33 0.04 0.89 —63 x 10° Yes; no Yes
+EL <1 R/h ah? —0.58 —0.49 0.87 —63 x 10° Yes; yes Yes
+EL <1 R/h aLh —0.56 1.71 0.96 2.8 x10°1° Yes; yes Yes
+EL <1 R/h Lh? —0.33 1.33 0.96 —4 x 10°1° Yes; yes No
+EL <1 R/L a’ 1.1 —0.88 0.91 —7 x 10°1° Yes; yes Yes
+E R/h Lh? —0.37 1.47 0.84 49 x 10°1° Yes; yes Yes
+E R/L aL? —0.59 0.15 0.92 (3) 2.7 x 10°1° Yes; no No
+E R/L L> —0.44 1.53 0.95 6.7 x 1071° Yes; no Yes

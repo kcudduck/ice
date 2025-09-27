@@ -1,0 +1,29 @@
+1760 nT. Our results also agree with Li [2009] and Cid et al. [2014] on the relevance of
+local magnetic field disturbances against a global activity level for technological
+systems. Moreover, considering the very local signatures of the H-spike and the lack of
+magnetic observatories covering all MLT sectors in past epochs, our outcomes also
+imply that a Carrington-like event can occur more often than expected, as suggested by
+Kataoka [2013].
+
+As previously shown for low-latitude magnetic observatories, longitudinal analysis of
+magnetic field measurements at mid-latitude observatories during C03 (Figure 2a)
+shows negative or positive depressions depending on the local time. These depressions
+happened simultaneously with auroral effects. The longitudinal variation at mid-
+latitudes of the geomagnetic disturbance during CO3 H-spike can be summarized as a
+day-night asymmetry peaking at dawn-noon sector and almost unnoticed in the noon-
+dusk sector, although the peak disturbance due to an asymmetric ring current effect 1s
+expected 1n the dusk sector [Li, 2009]. This result does not agree with Tsurutani et al.
+[2003] or Li et al. [2006] which pointed out that the H—spike at Colaba was related to
+the plasma injection into the nightside magnetosphere, which enhances the ring current.
+However, the spike happened from ~ 9 to 10 MLT, where other currents have a major
+contribution (Shi et al., 2008). Akasofu and Kamide [2005] pointed out that some
+intense storms tend to have a sharp forenoon decrease of the H component, which
+accompanies a greater disturbance at auroral latitudes. These signatures were previously
+related to FACs by Tsuji et al. [2012] for the geomagnetic storm on 7-8 September 2002
+and by Yu et al. [2010] using MHD simulations.
+
+Love and Gannon [2010] also reported a large dawn-dusk asymmetry in low-latitude
+disturbances during the November 2003 storm and during the October 2003 storm. They
+proposed that these observations were the result of the superposition of magnetopause
+
+3

@@ -1,0 +1,63 @@
+1896 1. Saito
+(a) x = =50 km tion filtered by pohotanhkh,/ kh, (red) shows very good agreement
+0.4 BRL with the ocean-bottom pressure (grey). This evidently indicates that
+0.2 — PoCo Vz the incompressible-fluid theory of eq. (8) accurately predicts the
+w 00 / A Pn A AAA. AD relation between the sea-bottom pressure change and sea-bottom
+s f \ NV Wj V VN \J motion, although the simple relation p, = pohoa’" could not.
+-0.2
+-0.4
+50 60 70 80 90 100 110 120 130 140 150 + DISCUSSION
+Time [s] 4.1 Seismic waves and tsunami forecasting
+(b) x = 100 km Some studies have already reported that the ocean-bottom pres-
+sure gauges detect the sea-depth change caused by both sea-surface
+0.05 height change and sea-bottom deformation, but not detect the sea-
+© 000 /) (oN \) | surface height change only (e.g. Tsushima ef al. 2012). On the other
+= 0 \\ Ni \ Nn I hand, GNSS Buoys can detect only sea-surface height change (e.g. J
+Inazu et al. 2016b). Hence, we might expect that high-precision s
+-0.05 measurement of the displacement at the sea surface by using GNSS S
+50 60 70 80 90 100 110 120 130 140 150 Buoys would be more suitable for tsunami measurement than ocean- ®
+Time [s] bottom pressure gauges. However, it should be noted that the dis- =
+placement at the sea-surface height does not correspond to tsunami 3
+Figure 10. A simulation including a sediment layer (Vp = 2.4 km s~!, height. Our simulation results (Fig. 5) indicated that the ocean =
+Vs =1.0km s~' and p = 2.15 gem). See Fig. 8 for the details. acoustic waves significantly contribute to the displacement at the a
+sea surface, in addition to the tsunami. This was not a serious prob- 3
+filter tanhkho/kho to Fig. 11(a), we obtained Fig. 11(b). Although lem when we observed tsunami at coastal stations located far from a
+filter should have excluded the short-wavelength component, there the source. In such cases, the tsunami arrives at the coasts much 3
+are no significant differences between Figs 11(a) and (b). This 1s later than the seismic waves due to the large difference in their 5
+poceuse the snoriwaye cnet or oe was ongina y oe In oe propagation velocities. However, in the focal area soon after an 5
+sea-bottom deformation in Fig. 11(a). Fig. 11(c) shows the spatia ne : STE Q
+on temporal distributions of the sea-botom pressure, Figs 1a). <-rohIUIkE OS, it 8 necessary to consider the contribution of §
+(c) show almost the same distributions in spatial and temporal space. seismic and tsunami observations in the focal area should be avail- 5
+we also compare the waveforms of the ocean-bottom PTESSUTC and able 1n the near future, and rapid tsunami prediction 1s crucial for o
+the vertical acceleration atx = —50 km in Fig. | L(d). The grey line our society, studying the temporal change in the displacement field >
+Shows the oecan-boiom pressure change. The Lue ine corresponds near the focal area considering the sea water compressibility and o
+o the waveform of the acceleration at the sea bottom, but we con- Sn : : ®
+verted the acceleration to a pressure by using the simple relation seismic waves Is extremely important. =
+De = pohoa. The red line corresponds to the waveform of the >
+acceleration at the sea bottom in Fig. 11(b), where we converted the 4.2 Ocean-bottom pressure change x
+acceleration to pressure using the long-wavelength pass filter that 03
+is represented in the wavenumber domain as pohotanhkh,/ kh, as Simple theoretical relations between the sea-bottom pressure =
+in the second equation in eq. (8). The three curves show very good change and sea-bottom motions (pe = pocov; and Pe = pohoaz”) 3
+agreement with each other. This means the analytical solution of the were often used mn past studies. However, the simple relation <
+incompressible-fluid theory is able to predict the dynamic pressure Pe =P oh 0a; * fails when a steep sea-bottom deformation OCCULS. ~
+change due to sea-bottom acceleration. Also, the simple solution of This study introduced a better solution based on the incompressible- =
+De = polo ab works well. fluid theory (eq. 8). We expect that an inelastic wedge near the ™
+We then examined the case when the sea-bottom and height trench can cause a steep sea-bottom deformation (e.g. Tanioka & @B
+distributions are steep, which is characterized by dominant short- Seno 2001; Ma & Hirakawa 2013; Xu ef al. 2015). Such steep defor- 3
+wavelength components. We set a small earthquake with a width mation was actually reported at the 2011 Tohoku earthquake by the =
+of 5 km where the top of the fault was located 1 km from the offshore sensors (e.g. Ito ef al. 2011; Maeda ef al. 2011). After the N
+sea bottom, to generate much short-wavelength component in the Tohoku tsunami, a new dense tsunami observation network inside Q
+sea-bottom deformation. Fig. 12(a) shows the numerical simula- the source area was planned. To fully develop the potential of this 1
+tion results of the spatial and temporal distributions of the low- new dense tsunami observation, and to reveal the mechanisms of
+frequency vertical acceleration a at the sea bottom. The sea- steep deformations caused by huge earthquakes, it 1s important to
+bottom acceleration occurs within a narrow range in the x-axis recognize that the relation Pe = pohoa is a simplified equation
+(x = — 10 to 0 km). Applying a spatial long-wavelength pass fil- using a smoothing approximation on sea-bottom deformation. In
+ter tanhkh, / kh to Fig. 12(a), we obtained Fig. 12(b). Because the future, it will also be important to theoretically evaluate the contri-
+filter of tanhkh,/kh, substantially reduced the short-wavelength bution of the non-linearity (e.g. Nosov ef al. 2008) and the realistic
+components, there 1s a significant difference between Figs 12(a) bathymetry (e.g. Tanioka & Satake 1996).
+and (b). Fig. 12(c) shows the spatial and temporal distributions
+of the ocean-bottom pressure. The ocean-bottom pressure change — : : :
+(Fig. 12¢) 1s more similar to that of the acceleration after the spatial oo Sermans o Teolacomene Die theory
+filtering 1s applied (Fig. 12b). Fig. 12(d) compares the waveform at
+x = 0 km. There 1s a large difference between the ocean-bottom pres- Most tsunami studies have assumed an incompressible sea in-
+sure (grey) and the value of pyhoa’" (blue). However, the accelera- stead of a compressible sea (e.g. Saito ef al. 2014). In setting an

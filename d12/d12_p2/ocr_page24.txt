@@ -1,0 +1,38 @@
+5 Tsunami run-up 24
+¢ is a characteristic length’:
+v=0%, n=1L»0, u=/glu, t=+/l/gt, c= (h+n)/l
+After dropping the tildes, the dimensionless system of equations (34)-(36)
+becomes
+uy + uu, +1, = 0,
+ny + |lu(—x tan + n)|, = 0.
+In terms of the variable c, these equations become
+us + uu, + 2cc, + tan = 0,
+2c; + cu, + 2uc, = 0.
+The equations written in characteristic form are
+0 ut) (ut 20 +t 0) 0
+— + (u+c)— | (u+ 2c an =
+ot ox
+0 0
+— 4+ (u—c)— | (u—2c+ttanf) = 0.
+ERR |
+The characteristic curves CT and C~ as well as the Riemann invariants are
+d
+CT — —u+c, u+2c+ttand =r,
+BN dx
+C™ : —=u—c¢, u—2c+ttanf =s.
+dt
+Next one can rewrite the hyperbolic equations in terms of the new variables
+A and o defined as follows:
+A 1
+— = —(r+s)=u+ttanb,
+5 5 (7 +5)
+oO 1
+— = —(r—s)=c
+1 7 (7 = 8)
+One obtains
+1
+Ty — IC Ss) — trans) ts = 0,
+1
+LT, — 0 + 3s) — tans) t., = 0.
+3In fact there is no obvious characteristic length in this idealized problem. Some authors
+simply say at this point that ¢ is specific to the problem under consideration.

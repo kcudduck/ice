@@ -1,0 +1,22 @@
+REFERENCES 29
+
+S. Tadepalli and C. E. Synolakis. The run-up of n-waves on sloping beaches.
+Proc. R. Soc. Lond. A, 445:99-112, 1994. 25
+
+S. Tinti and R. Tonini. Analytical evolution of tsunamis induced by near-
+shore earthquakes on a constant-slope ocean. Journal of Fluid Mechanics,
+535:33—-64, 2005. 25
+
+V. V. Titov and C. E. Synolakis. Numerical modeling of tidal wave runup.
+J. Waterway, Port, Coastal, and Ocean Engineering, 124:157-171, 1998.
+19
+
+M. I. Todorovska and M. D. Trifunac. Generation of tsunamis by a slowly
+spreading uplift of the seafloor. Soil Dynamics and Earthquake Engineer-
+ing, 21:151-167, 2001. 15
+
+V. Volterra. Sur ’équilibre des corps élastiques multiplement connexes. An-
+nales Scientifiques de [’Ecole Normale Supérieure, 24(3):401-517, 1907. 4,
+5
+
+H. M. Westergaard. Bull. Amer. Math. Soc., 41:695, 1935. 6

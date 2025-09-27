@@ -1,0 +1,28 @@
+[2006] solar wind conditions have recently been seen in space plasma data [Kozyra et
+al., 2013] and intense short-duration southern fields (~50 nT) were also recorded during
+29 October 2003. However, extreme density values as those proposed by Li ef al. [2006]
+have never been recorded before (as an example of extreme density event, we can cite
+the March 2001 ICME [Farrugia et al., 2006] which had densities just after the shock in
+excess of 100 cm™). This extreme density value is a key-point in the simulation process
+as that 1s the only way to match the fast recovery of Colaba record assuming that the
+drop in H was due to the ring current. Li et al. [2006] modelled Dst as a sum of several
+terms, each one varying in time depending on a “source” term (which represents the
+external driving) and a “loss” term (which represents the decay rate of the field source).
+In the simulation, the term representing the contribution of the main ring current
+dominates the decrease of Dst and a pressure dependent term dominates the fast
+recovery of Dst. This simulation can be considered as a “dynamically driven” approach
+[see Tsyganenko, 2013 and references therein]. In every dynamically driven approach
+the loss term depends on which current system 1s being considered. The TSO05
+magnetosphere model [Tsyganenko and Sitnov, 2005] provides interesting information
+regarding the dynamics and peak values of the total current corresponding to individual
+sources. Their relaxation/response timescales were found to differ significantly from
+each other, from as large as ~30 hours for the symmetric ring current to only ~50 min
+for the FACs. In C03 the time between the minimum value of H and the end of the spike
+was 45 min and in C59 was ~50 min. Moreover, FACs peak at prenoon sector (~9
+MLT), which was the location of Colaba for C59 and THY for C03. All these results
+point to FACs as the main current involved in the large H-spikes of the “Carrington-
+like” events.
+
+5. Conclusions
+
+10

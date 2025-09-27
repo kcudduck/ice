@@ -1,0 +1,26 @@
+YERMOLAEV ET AL... GEOEFFECTIVENESS AND EFFICIENCY X-7
+according to the results of analysis of 64 intense (Dst < —85 nT) magnetic storms in
+the period 1997-2002, the average time delay between Dst peak and southward IME Bz
+component is equal to ~ 2 h [Gonzalez and Echer, 2005|. Similar results were obtained
+in papers by Yermolaev et al. |2007a, c|. Thus, two hours correspond to the average time
+delay between the Dst peak of an intense magnetic storm and the associated peak in the
+southward IMF Bz component.
+
+In order to investigate the dynamic relation between development of parameters in
+interplanetary sources and in the magnetospheric indices we apply the method of double
+superposed epoch analysis (DSEA) | Yermolaev et al., 2010c, d|. Two reference times are
+used in this method: we put together the time of storm onset (time ”0”) and time of
+Dst index minimum (time 76”), the data between them we compress or expand in such
+a way that durations of the main phases of all magnetic storms is equal to each other.
+This DSEA method allows us to simultaneously study interplanetary conditions resulting
+in the beginning and end of magnetic storms as well as dynamics (temporal variations) of
+parameters during main phase for storms with different durations.
+
+3. Results
+
+Obtained results are presented in 3 subsections devoted to ( 1) observational statistics
+of various types of solar wind streams, (2) probability of magnetic storm generation by
+these interplanetary drivers, and (3) efficiency of magnetic storm generation by various
+drivers.
+
+DRAFT October 23, 2018, 3:27am DRAFT

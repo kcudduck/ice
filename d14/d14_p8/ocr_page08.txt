@@ -1,0 +1,54 @@
+Remote Sens. 2024, 16, 3497 8 of 22
+in the range of 22°S to 65°S (d) is 1.81, corresponding to a frequency point of 4.4 Hz. The
+maximum D value in the range of 22°N to 65°N (f) is 2.30, corresponding to a frequency
+point of 2.9 Hz. In the different regions, the orbits with large disturbances are generally
+two orbits (each with an observation time of about 0.5 h), indicating that the time from
+strong disturbance to recovery is about 1 h.
+
+Se NT
++ -50
+2 100
+_. 2021/1 2021/11/04 2021/1105 202111006 2021/11/07
+= -2000 (|)
+200 2021/11/03 2021/11/04 — 2021/11/05 2021/11/06 ROH Lor LE
+S100 Soe eC i = |i == = oH
+= 2021/11/03 2021/11/04 2021/11/05 2021/11/06 20211107 © 5
+= 20.0 = = - ot
+Fre Lage -Td — JM
+£ §0MS — ma —— CEL NRE
+2021/11/03 2021/11/04 2021/11/05 2021/11/06 2021/11/07 a
+—20.0 = = BA = 408
+T 150 H—- === E=_ HN: = 1h  —— - —gu =— BE sit
+£ 30 - - > 0 NE
+2021/11/03 2021/11/04 2021/11/05 2021/11/06 2021/11/07 0
+2021/11/03 2021/11/04 2021/11/05 2021/11/06 2021/11/07 a
+Figure 4. (a) Dst, (b) SML, and (c¢) ULF D value in 65°N-65°S; (d) ULF D value in 22°5-65°S; (e) ULF
+D value in 22°N-22°S; (f) ULF D value in 22°N-65°N (the red rectangle is the most disturbed orbits,
+and strongly disturbed frequency bands are circled in white).
+3.3. ELF Band" D Value Analysis
+
+In the ELF band, disturbance is intensified by a change in the full-band D value from
+0-1 to 1-2 at the second Dst minimum across the range of 65°S to 65°N. As analyzed in
+Section 3.1, there is a constant electric field perturbation in the ELF band in the southern
+hemisphere, making it impossible to directly observe the electric field perturbation induced
+by magnetic storms in this region. According to Figure 5, there is a disturbance correspond-
+ing to the second minimum value of Dst in the range of 65°S to 65°N (c), with a disturbance
+strength of approximately 1. However, the D values in the ranges of 22°N to 22°S (e) and
+22°N to 65°N (f) are generally less than 1. Therefore, the disturbance of D values in the
+range of 65°S to 65°N (c) originates from the range of 22°S to 65°S (d). There is a perturbed
+response to magnetic storms in the range of 22°S to 65°S (d) with a perturbation intensity
+greater than 1. The maximum D value in the range of 22°5 to 65°S (d) is 3.25 (Table 1), cor-
+responding to a frequency point of 2441 Hz. Due to the presence of a constant perturbation,
+the value of 3.25 cannot be considered as the magnitude of the perturbation caused by the
+magnetic storm. Besides the frequency 2500 Hz, there is also a strong disturbance band
+between 300 Hz and 900 Hz. Zhang et al. (2022) used satellite electric field data at 225,
+725, 1125, 5000, 7500, and 13,500 Hz in their study of electric field disturbances induced by
+magnetic storms. Their results show that the electric field anomalies are most pronounced
+at 725 Hz, which agrees with the conclusions of our analysis.
+
+The maximum D value in the range of 22°N to 65°N (f) does not exceed 2, and no
+distinct strong perturbation frequency point or band is observed. In the range of 22°S to
+22°N (e), there is a strong perturbation band below 300 Hz. Due to the broad range of
+the ELF band, specific strong perturbation frequency bands cannot be directly identified.
+Consequently, we analyze the frequency range from 0 to 300 Hz by segmenting the ELF
+band (Figure 6). It can be observed that electric field disturbances in the range of 22°S to

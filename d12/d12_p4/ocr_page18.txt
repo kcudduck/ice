@@ -1,0 +1,95 @@
+A 7 ) S
+MI Journal of Geophysical Research: Oceans 10.1029/2020JC017011 2
+AND SPACE SCIENCE 2
+The first and the second terms indicate the waves propagating along the positive x direction. In particu- 5
+lar, the first term increases with increasing time or with the travel distance ct. As a result, the first term Z
+becomes dominant over the second term for long travel distances. The waveform is given by the spatial <
+derivative of the pressure change distribution. This feature is confirmed in Figure 3. The spatial deriva- ]
+tive increases the short-wavelength components. An increase in the short-wavelength component is also :
+observed in the waves propagating in the same direction as a moving source in kinematic source models 2
+(e.g., Ben-Menahem, 1961). g
+|
+
+Similarly, the pressure change at the sea bottom (Equation 62) is calculated as 3
+plz = hy) :
+
+| ~ ik, | x— =
+
+1 coo 1 —— Re| ji (k.)e a] )) =
+
+— —| 0k, Vo s
+
+TT cosh (kh ) 1-—- =
+
+1 1 } :
+
+ss ~ i( ky x+at) 3
+
+2. V, Re| 7, (k,)e 5
+
+1-0 =
+
+c 2
+
+11 (kyon) :
+
+Re] p(k) een) :
+
+2 1 + Yo ) ¢ :
+
+67)
+
+l (oo 1 . ik (x—Vi 4 3
+
++ — dk, ————Re| k Je 0 H(t 3
+
+T Jo cosh (kh ) Al ) ) E
+
+Na [ sal, —crRel ik jy (k,)e 0) | 1) 7
+
+77%" 2 cosh( kh) z
+
+1 00 | A ik x— >
+
+Jk, Re] py (k)e Uh (1 :
+
+4 4 cosh kh ) 5
+
+l (oo 1 A ik er] =
+
++ — dk Re| k. Je H|t 2
+
+TT Jo 4 cosh (kh ) Pi ( ) ( ) g
+
+La re] yk) a(n)
+
+20 7 cosh (kh ) i 2
+
+For the long-wavelength tsunamis kh, < 1, we obtain H
+1 d 3 1
+
+xX, RR x-Vt)H(t)+ =p (x —-Vit\H(t)+—p (x +ct)H(t 2
+
+plesr) = ~gaton (ew a()+ Ins =v) + false)
+
+= pogo ( 1) + Puartace (* yt), =
+
+The pressure change is given by the sum of two contributions: sea-surface height change p, got (x. y, / and g
+©
+
+pressure change loaded at the sea surface p_ .... (x, \2 f) This indicates that it is not easy to measure the :
+tsunami height n(x, y, t) correctly from the ocean-bottom pressure change p(x. y, hy, f) We need to know |
+the sea-surface pressure change p_ .. . (x. y, / to correctly estimate 7(x, y, t). For example, in the case where :
+the time is 60 s (Figure 3c), the ocean-bottom pressure change is negative —0.5 mH,O. However, the actual Z
+tsunami height is positive (0.5 m). >
+3.3.2. Dispersive Tsunamis :
+We then simulate the case of a shorter wavelength (¢ = 10 km in Equation 57) pressure change source, 2
+where the wavelength of the pressure change is not much longer than the sea depth. Figure 5 shows the E
+temporal changes of the wavefields in the case of V,, = 1.0,/g,%, . In Figure 6, in order to compare dispersive &
+and nondispersive tsunamis, we also plot the wavefields without dispersion by setting a, = k./g,h, in Equa- :
+tions 59-62 instead of setting the dispersion relation of Equation 26. Comparing Figure 5f with Figure 6f, =
+:
+
+2
+
+SAITO ET AL. 180f29  §

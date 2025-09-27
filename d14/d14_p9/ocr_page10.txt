@@ -1,0 +1,118 @@
+I Yedl 2
+MMI Space Weather 10.1029/2024SWO004126 5
+ADVANCING EARTH
+AND SPACE SCIENCES S
+
+“ 2200 UT i» 2300 UT or “ 2400 UT |
+
+A £52 » ore . - TA y - g my ) Po APTA Ri Py ZT - E
+
+43° I " H 4 & ado og 3 ad § oe 1 NG he S
+
+30 + a. f a 30 | <a og nN 0le & ¥ oY 03
+
+® > oe, w N ) bY", Pg o 3 \ NN , Eos SEEPS. E
+E Ne. 3 A. Lf - 2 G ¥ . Tok nc Q. =. | ad Ko 2 3 kod Sg Ry 2, X 2
+: o IRI Ce fo— RSV Fy ES WEY CRE Tie |
+: 7 AK BY 5 Eo EW AE LES LEAR Sa =
+O i. © a R © 18 ~ ta. ° : as OO 4 Sx - »$ o 3
+-30 . ’ ; y 4 °o* : Xo y 3 5 ° <
+
+¢ ? - §- ad 3 . =
+
+an 2 gL = 4 ’ ok 4 2
+
+60 09 May 20 BPs . ‘22, o@. £0. RE . ? A . *e 60! : hy 2% fea’? 5. o VU ]
+EY —— I , CORY TR © S——— :
+WR WE PER
+
+{ , 5 J > : Pp * | y o— \y S
+
+0 30 “oe « 9 Ne TE o WI qa, a TRE oo | Rd \ (LA A RA EE ~
+= Wo tes 2 %' Ny 2b © o = e ( \ y Ny Sp T Od = | © x : a J \ / 258 Ro *$: | S
+3 0° V3 HB a NN ~ 4 = 0¢ Ne & 2 - ¥— Port - La | s 0 ) | “ ’ AT FAR: ~ Z
+> i % A ne a 5 CA - i 23 eM < od SNE & | 5 : 4 . RO S
+S & | } : gy h RE 3S C Xe y' A © ™ + Al % X 3 cee =
+" [9 ?% Shr 5 3 3 | Lak, A py | b: i » Aas
+
+-60 '10 May 202 r x Tee i Nyy 7, | SE— } AE ce. o—=y-9 2 9 60 A WR i 22s PP * ZY
+-180 -120 -60 0 60 120 180 -180 -120 -60 0 60 120 180 -180 -120 -60 0 60 120 180 3
+Geog. Longitude Geog. Longitude Geog. Longitude =
+
+180 : 180 180 ' 3
+150. 75°W longitude Pz a : p: : 160) | Z
+Ay - - 40 | $ : g
+
+140 » zl 140 8 Pack: 9 cis :
+120 2 EF 120 : # "ag | __ 120] we 4) 1 =
+3 dt 4 Naa Sf 2 i | 3100 - - 8, > =
+&D 100 | : - CL w 100 eg 1) . ¢ w 100 a 0: 2% A *0 =
+= ‘ Ry Bad [ = ¥ ot | or! = Lo EPS Fat 2
+O 80! & . :! x 3 O 80: ‘3 + $e ' OO 80} 1 i Bath x & S
+p Fh Wt Ta El Fhe SF = |B] 48 % aN'e 5
+60 | Ves - a . hy ; . Som [= a ' | x wt ag ® ~ * S
+is dy bo HET : = de fp ce 40 ¥3 3 a YL : S
+
+’ > o : 2 1 | % . wy . cs 1 | . - os So fo, 3D ’ 1 S
+a inlA De il > wage TE -
+20 hat 4 | 20 + | : o : 20 : ‘ he ] &
+ad | REA wr | | EK ae Sr Ear” 3 | rt :
+
+%60 -40 -20 0 20 40 60 -60 -40 -20 0 20 40 60 -60 -40 -20 0 20 40 60 ol
+
+Dip latitude Dip latitude Dip latitude 3
+
+5
+
+Figure 8. Global ionospheric TEC maps on 09th (top panels) and 10th May 2024 (bottom panels) showing the TEC enhancements with more than 100% on dayside :
+ionosphere. Bottom panels show the latitudinal distribution of TEC along the American (75°W) longitudinal indicating the intensified Equatorial Ionization =
+Anomaly (EIA). EZ
+panel). From the top panel, it 1s evident that conditions of IEF, > 2.5 mV/m alone cannot explain the variation of :
+
+Sym-H ranges. For example, the condition IEF, > 2.5 mV/m was sustained for nearly similar durations on 6 April 2
+
+2000 (441 min) and 10-11 May 2024 (444 min) storms. However, weaker SWDP conditions on 6 April 2000 (see g
+
+Figure 6a) limited the Sym-H range only to —339 nT. On the other hand, stronger SWDP conditions caused a large :
+
+Sym-H range of —606 nT in the present storm. It may also be noted here that although the IEFy, > 2.5 mV/m was :
+
+sustained for nearly 441, the magnitude of IEF, was slightly due to smaller solar wind velocity (not shown in ~~ &
+
+figure) during the 6 April 2000 storm compared to that of the 10-11 May 2024 storm. The smaller levels of IEFY =
+
+would also be partly responsible for the reduced Sym-H range during the 6 April 2000 storm besides the weaker 3
+
+SWDP conditions. =
+
+®,
+
+From the bottom panel of Figure 7, it can be clearly seen that the combination of SWDP > 15 nPa and 5
+
+IEFy > 2.5 mV/m better explains the variation in Sym-H ranges. The Sym-H range increases systematically with =
+
+the longer durations of SWDP > 15 nPa and IEFy > 2.5 mV/m. Therefore, from the results presented in =
+
+Figures 4-7 and Table 1, we conclude that the sustenance of high SWDP simultaneously with eastward IEF, :
+
+(>2.5 mV/m) for nearly 409 min was the key factor responsible for this super-intense storm with a total Sym-H :
+
+range of —606 nT. As discussed above, the potent combination of high SWDP and intense eastward IEF, would  ¥
+
+cause a strong ring current guided to flow at much closer distances to Earth, leading to strong magnetic field :
+
+disturbances on the ground. G
+
+3.2. Impacts Observed in the Ionosphere g
+
+Strong electrodynamical disturbances triggered via enhanced solar wind—magnetosphere - ionosphere in- =
+
+teractions during this geomagnetic storm led to severe ionospheric total electron content (TEC) disturbances and a =
+
+strong positive storm lasted for several hours on the dayside ionosphere. Figure 8 shows the global TEC maps 2
+
+during the main phase of the storm (middle panels) compared with the previous day (9 May 2024, top panels). It 1s :
+EES.
+=
+
+TULASI RAM ET AL. 10 of 14 ¢

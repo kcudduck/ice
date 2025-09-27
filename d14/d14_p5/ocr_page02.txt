@@ -1,0 +1,39 @@
+www.nature.com/scientificreports/
+
+In the present work, we will use a large number of high time resolution magnetometer data from the
+International Monitor for Auroral Geomagnetic Effects (IMAGE; http://space.fmi.fi/image/) network to compute
+E-field maps for northern Europe to study the stormtime dynamics. The prepared maps will allow systematic
+studies of the spatio-temporal evolution of E-fields (their magnitudes and directions) and their relationships to
+the interplanetary conditions. The deduced E-fields will then be used for the reconstruction of GICs at Mantsala
+(Geomagnetic latitude: 57.29° N, longitude: 102.05° E; Geographic latitude: 60.6° N, longitude: 25.2° E*>~%7),
+situated in the sub-auroral region. Constructions of the E-field maps in northern Europe could support the
+determination of GICs in selected locations not covered by magnetometers and provide a basis for comparison
+with similar events®. This study will be helpful to understand the GIC variability during the superstorms and to
+assess the impacts of the superstorms.
+
+Data and methods
+
+Estimation of geoelectric fields
+
+The E-fields are computed from the geomagnetic fields B measured by 29 magnetometers distributed over
+northern Europe (from 47.14° to 66.64° geomagnetic latitudes; from 51.45° to 69.76° geographic latitudes), which
+are parts of the IMAGE network. We considered data from the stations with suitable conductivity/resistivity
+models and data resolution of 10 seconds. Table 1 lists details of the stations, their geographic latitudes and
+longitudes, their Corrected Geomagnetic Coordinates (CGM), and the conductivity/resistivity model numbers.
+The method is briefly described below.
+
+The perturbed B-field is assumed to be a vertically incident plane wave at the Earth's surface (plane wave
+method) and simplified models are applied for the Earths resistivity/conductivity *®*°. While the Earth's
+conductivity o varies in all directions, the most-significant variation is assumed to be with the depth’.
+
+The Earth is represented by a 1D layered model*””’, in the frame of which N layers are specified, each defined
+by its own conductivity o,, and thickness [,, (n = 1, ..., IV). Then, layered case of the transfer function K (in the
+frequency domain f) is expressed by the following recursive formula”:
+
+[EE A I I TO 1 HO I TO I
+Belews mw ew [ee
+EL EE RN LA TT CR
+Table 1. The summary of magnetometer stations with 10 sec resolution data used to calculate the geoelectric
+field.
+
+Scientific Reports | (2024) 14:25074 | https://doi.org/10.1038/s41598-024-76449-7 nature portfolio

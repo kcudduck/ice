@@ -1,0 +1,47 @@
+REFERENCES 27
+
+H. Chanson. Le tsunami du 26 décembre 2004: un phénomene hydraulique
+d’ampleur internationale. premiers constats. La Houille Blanche, 2:25-32,
+2005. 2
+
+M. A. Chinnery. The stress changes that accompany strike-slip faulting. Bull.
+Seism. Soc. Am., 53:921-932, 1963. 9
+
+R. A. Dalrymple, S. T. Grilli, and J. T. Kirby. Tsunamis and challenges for
+accurate modeling. Oceanography, 19:142-151, 2006. 19
+
+M. Gomez-Gesteira, D. Cerqueiro, C. Crespo, and R. A. Dalrymple. Green
+water overtopping analyzed with a sph model. Ocean Engineering, 32:
+223-238, 2005. 25
+
+M. Gomez-Gesteira and R. A. Dalrymple. Using sph for wave impact on a tall
+structure. Journal of Waterways, Port, Coastal, and Ocean Engineering,
+130:63-69, 2004. 25
+
+J. Hammack. A note on tsunamis: their generation and propagation in an
+ocean of uniform depth. Journal of Fluid Mechanics, 60:769-799, 1973. 15
+
+J. Hunt and J. M. Burgers. Tsunami waves and coastal flooding. Mathematics
+TODAY, pages 144-146, October 2005. 3
+
+T. Iwasaki and R. Sato. Strain field in a semi-infinite medium due to an
+inclined rectangular fault. J. Phys. Earth, 27:285-314, 1979. 9
+
+J. T. Kirby, G. Wei, (Q. Chen, A. B. Kennedy, and R. A. Dalrymple. Fun-
+wave 1.0, fully nonlinear boussinesq wave model documentation and user’s
+manual. Research Report No. CACR-98-06, 1998. 19
+
+T. Lay, H. Kanamori, C. J. Ammon, M. Nettles, S. N. Ward, R. C. Aster, S. L.
+Beck, 5. L. Bilek, M. R. Brudzinski, R. Butler, H. R. DeShon, GG. Ekstrom,
+K. Satake, and S. Sipkin. The great sumatra-andaman earthquake of 26
+december 2004. Science, 308:1127-1133, 2005. 17, 23
+
+M. 5. Longuet-Higgins. On the mass, momentum, energy and circulation of
+a solitary wave. Proc. R. Soc. Lond. A, 337:1-13, 1974. 23
+
+A. E. H. Love. A treatise on the mathematical theory of elasticity. Dover
+Publications, New York, 1944. 5, 7
+
+P. A. Madsen, H. B. Bingham, and H. A. Schaffer. Boussinesqg-type formula-
+tions for fully nonlinear and extremely dispersive water waves: derivation
+and analysis. Proc. R. Soc. Lond. A, 459:1075-1104, 2003. 21

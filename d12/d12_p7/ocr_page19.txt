@@ -1,0 +1,61 @@
+Confidential manuscript submitted to Journal of Geophysical Research: Oceans
+(a) — DART Corrected ——— Modeled
+G (371 km F (1019 km 51425 (1231 km K (1608 km
+0.2 0.2 0.1
+0.1
+0.1 0.1 0.05 |
+e 0 | h | 1K] LA) ls ah =) 0 A\ 0 dl A WA AW E 0 i AJ I MA) a E 0 Wi) \ v1 LILA ANN,
+= || I ITY yf A Ha = FN WT = VI
+0.1 0.1 -0.05 0.1
+-0.2 -0.2 -0.1
+0 100 200 300 0 100 200 300 0 100 200 300 0 100 200 300 400
+Time (min) Time (min) Time (min) Time (min)
+D (1827 km L (1868 km 0.05 A (2533 km 0.05 52406 (2708 km
+) ENTITY ) Co te |
+— / ) pe 1 l ~~ ( \ Al 4 = { \ |
+oan MM 2 onlin 2 4 Jz A Ji
+= on /IAMWM 2 ovat 2 EWAN EU
+-0.1 -0.1
+-0.05 -0.05
+0 100 200 300 400 0 100 200 300 400 0 100 200 300 400 0 100 200 300 400
+Time (min) Time (min) Time (min) Time (min)
+21420 (7648 k 21418 (7584 k
+(b) 55015 (3664 km 51407 (4909 km (c) 0.05 = 0.05 =
+0.05 0.05
+~~ : ~~ | | | E [I E 0 _—y I II kl | Wh J. 7
+g [ENYA : ny } I | IK Ir
+~~ ~~ | tl = 1 IS
+ke i ial
+-0.05 -0.05
+Ra 500 300 £00 00 300 200 S00 500 200 400 600 800 200 400 600 800
+Time (min) Time (min) Time (min) Time (min)
+52403 (5056 km 52401 (5432 km 0.05 ——=-H106 (1021 km 0.05 ——=21413 (7960 km
+0.05 0.05
+~~ nu ~— | i
+- y am - ath Lu wl | E [NT Boh
+< 0 An Oe AVERY £ 0) — M | i pL — BL = iL | IN
+-0.03 -0.03 O00 400 600 800 90 400 600 800
+200 300 400 500 600 200 300 400 500 600 : . :
+Time (min) Time (min) Time (min) Time (min)
+(d), os 46408 (7826 km 0.05 46414 (8546 km (©). 43412 (8499 km 0.05 32411 (9633 km
+~~ \ | | \ ~~
+E me CH EY El ETI El Nyy
+— AT | | — BE = 0 J PNP [uk a = 0 y Ve NH ANS
+400 600 ~~ 800 400 600 800 400 600 800 1000 1200 400 600 800 1000 1200
+Time (min) Time (min) Time (min) Time (min)
+0.05 46416 (8811 km 0.05 46407 (8495 km 0.05 32404 (9834 km 0.05 32401 (10385 km
+~~ A ~~ | | | | |
+E [Rn Egle AAS il WI. =) Rm il (0 EC) | AW | ih |
+gk) um il Fhe
+-0.05 -0.05 -0.05 -0.03
+400 600 800 400 600 800 400 600 800 1000 1200 400 600 800 1000 1200
+Time (min) Time (min) Time (min) Time (min)
+Figure 8 Comparisons of the measured and the numerically simulated time series of free surface
+elevations. The black line represents the corrected DART data and the red line denotes the numerical
+results. The arrival time of the leading wave is marked by the grey arrow and the blue vertical dash line
+indicates the expected arrival time of the trailing waves. Panel a) contains the results in the near-field (<
+3,000 km); b) in the mid-range field (3,000~6,000 km); c), d) and e) in the far-field, for the northwest,
+northeast and southeast Pacific Ocean, respectively.
+To quantify the accuracy of the numerical results for the leading tsunami waves, we compare
+the arrival time, wave crest and wave trough elevations of the tsunami with the corrected DART
+19

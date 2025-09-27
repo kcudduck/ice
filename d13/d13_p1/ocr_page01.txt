@@ -1,0 +1,54 @@
+Nuclear Engineering and Design 240 (2010) 2160-2168
+SARTRE RN Contents lists available at ScienceDirect
+Sora Nuclear Engineering and Design
+.; i$ AGN 5 a
+journal homepage: www.elsevier.com/locate/nucengdes
+________________________________________________________________________________________________________________________________________________________________________________________________________________________
+CED analysis of a turbulent jet behavior induced by a steam jet discharge through
+a single hole in a subcooled water tank
+Hyung Seok Kang, Chul-Hwa Song*
+Korea Atomic Energy Research Institute, Daedeok-daero 1045, Yuseong, Daejeon 305-353, Republic of Korea
+ARTICLE INFO ABSTRACT
+Article history: A computational fluid dynamics (CFD) analysis for a turbulent jet flow induced by a steam jet discharged
+Received 28 January 2009 into a subcooled water pool was performed for 10s of transients to investigate whether the currently
+Received in revised form 25 June 2009 available CFD codes can be suitably used as a tool to investigate the applicability of the existing semi-
+LCCERES RII analytical correlations to a condensing jet-induced turbulent jet and to analyze the thermal-hydraulic
+behavior, such as global circulation and local hot spot, in a condensation pool for advanced light water
+reactors. As for the numerical experiment, a series of sensitivity calculations was conducted system-
+atically to elucidate the major factors which can cause different analysis results by varying the mesh
+distributions, numerical models for a convection term and an eddy viscosity term. The effect of a differ-
+ence in the velocity and the temperature distribution in a region between the sparger and the pool wall
+has not been observed in the afore-mentioned sensitivity calculations. The comparison of the CFD results
+with the test data shows that the CFD analysis does not accurately simulate the local phenomenon of a
+turbulent jet existing downstream of a steam jet. It was found that the value of the turbulent intensity at
+the inlet of the turbulent jet region is the most important factor because it can determine the boundary
+of a turbulent jet through a momentum diffusion process in a radial direction. The comparison of the CFD
+results with the test data shows that the CFD analysis can accurately simulate the local phenomenon of
+a turbulent jet existing downstream of a steam jet only when the CFD analysis reflects the physics of a
+turbulent jet.
+© 2009 Elsevier B.V. All rights reserved.
+1. Introduction assessment of the IRWST (Kang and Song, 2008). This analysis
+shows that a commercial CFD code with this condensation region
+The experimental and CFD research for a direct contact con- model can be used to analyze the overall pool behavior if a suffi-
+densation (DCC) of an unstable steam jet which may happen ciently fine mesh distribution and a proper numerical model are
+in the IRWST (In-containment Refuelling Water Storage Tank) adopted.
+of APR1400 (Advanced Power Reactor 1400 MWe) were per- The thermal-hydraulic load onto the IRWST wall was also eval-
+formed to understand the phenomenon of a DCC (Song et al, uated for each phase of a water, air and steam discharge through a
+1998, 2007). One of the main reasons for an unstable condensa- sparger (Park et al., 2005; Ra, 1999). In the dynamic load analysis
+tion was found to be the increased temperature of a turbulent of the steam discharge phase, the maximum velocity, temperature
+water jet entraining on a steam jet region (Su, 1981). Thus, a and the width of the turbulent water jet induced by the condens-
+thermal mixing test to discharge steam through a sparger into ing steam jet were used as the input data (Ra, 1999). It seems
+a subcooled water was performed recently to investigate the to be very useful for the evaluation of a thermal-hydraulic load
+local temperature of the pool water around a sparger (Park et if an empirical correlation to accurately predict the velocity and
+al., 2005, 2007). The CFD analysis using the so-called conden- temperature of a turbulent water jet is developed. Recently, there-
+sation region model for the thermal mixing test was conducted fore, a fundamental test to measure the velocity and temperature
+to develop a methodology which can be applied to a safety distribution of a turbulent jet during a steam discharge through
+a single-hole sparger into a subcooled water pool was performed
+to develop these correlations (Kim and Youn, 2008). However, the
+EE velocity and temperature was not measured at the upstream region
+* Corresponding author at: KAERI, Thermal Hydraulics Safety Research Division, of a turbulent jet existing downstream of a steam jet because the
+Daedeok-daero 1045, Yuseong, Daejeon 305-353, Republic of Korea. used measurement device might disturb the turbulent jet behav-
+Tel.: +82 42 868 8876; fax: +82 42 868 8362. ) )
+E-mail address: chsong@Kkaeri.re.kr (C.-H. Song). ior. Also, a far-field region away from the turbulent jet was also not
+0029-5493/$ - see front matter © 2009 Elsevier B.V. All rights reserved.
+doi:10.1016/j.nucengdes.2009.11.026

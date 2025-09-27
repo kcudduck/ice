@@ -1,0 +1,75 @@
+Yell : =
+MI Journal of Geophysical Research: Oceans 10.1029/2020JC017011 2
+AND SPACE SCIENCE E
+:
+
+Im ® F:
+
+Path (i) :
+
+z
+
+Re ® 5
+
+. 3
+
+Path (ii) :
+
+Figure Al. Integration paths of the complex integration for Equation A3. :
+
+where :
+
+@ = 1|gok tanh (kh, (A2) 5
+
+Here, we introduce an artificial damping into Equation A1 using very small parameters ¢ and € and consid- :
+
+er a closed complex integral on the complex w plane 2
+
+| | 1 =
+
+g(t) =—9%dwe™” ——— ————— 2
+
+) 27 w* + 1260 — os ie + ic; ) (A3) :
+
+Figure Al shows the complex w plane for Equation A3, where the poles are located at :
+
+a = ay — le, — Wy — le, — 16. (A4) 5
+
+For t < 0, we take the closed integration path (i) in the region Im @ > 0. There are no poles inside the path :
+
+(i). The integration along the semicircular path in the upper omega plane, Im ® > 0, becomes zero in Equa- -
+
+tion A3. We then obtain f (7) = 0 for t < 0. For t > 0, we take the path (ii) for the integration and have =
+
+f(t) = ~277i| Res(—a) + Res (a) + Res(0)| fort > 0 (A5) =
+
+E
+
+where Res (a) means the residue at = @,. Calculating the residue values and considering that integration 5
+
+along the semicircular path in the lower omega plane, Im ow < 0, yields zero, we obtain E
+
+1 4
+
+f (2) = — (1 — cost) fort > 0 (A6) g
+
+ay 0
+
+>
+
+Combining the results of r < 0 and ¢ > 0, we get ’
+
+1% we 11 1 :
+
+t) = — | dwe” ———— = —(1 —cos(awyt) | H(t 2
+
+I ) 27 —o 0” — of 10, al ( )) ( ) (A7) =
+
+where H(t) is a step function H (7) = 1whent > +0 and H (7) = O when r < -0. Using Equation A7, we cal- :
+
+culate the vertical displacement as g
+
+.
+
+-_
+SAITO ET AL. 210f29  §

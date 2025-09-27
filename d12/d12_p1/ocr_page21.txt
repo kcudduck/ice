@@ -1,0 +1,24 @@
+Initial velocity in shallow water equation code is set as:
+vo(z,t) = V 9/ hon (z.=0) (21)
+
+We calculate the water volume when tsunami wave got the maximum run-
+up based on water distribution function h(x). Water depth function h(x)
+comes from a shallow water equations code. The shallow water equations
+code used here originally is designed for studying the propagation and runup
+of solitary wave by using a high-resolution finite volume method to solve
+following onation|Deis ot alboogt
+
+oun) + 2 (he + ah?) = gh” (23)
+where h(x,t) is the flow depth, u(x,t) is the horizontal velocity, ¢ is the
+gravitational constant, B(x) is the bed topography function.
+
+In this code, a conservative form of the nonlinear shallow water equations
+with source term is solved by using a high-resolution Godunov-type explicit
+scheme with Roe’s approximate Riemamn solver In order
+to get the mathematical relationship between the maximum water volume
+(V'), slope (m) and initial wave amplitude (£), we design a parameter study
+by varying slope and wave amplitude to calculate the water volume. Finally,
+we use curve fitting methods to get the mathematical relationship based on
+parameter study data set.
+
+21

@@ -1,0 +1,46 @@
+Confidential manuscript submitted to Journal of Geophysical Research: Oceans
+measurements 1n Figure 9. The perfect fit line and the £20% error lines are shown. The distance
+between the DART station and the source of the explosion 1s color-coded according to the color
+scale shown on the first panel. The results indicate that the numerical model produced accurate
+solutions for the arrival time, with a coefficient of determination of R?= 0.9994. This result is not
+surprising, since the leading wave 1s “locked” to the atmospheric pressure wave, for which the
+propagation speed has been derived from observations (see Figure 4). The amplitudes of the
+leading wave crest and trough at most DART buoys are less than 0.04 m, and they decrease from
+the near-field to the far-field. The R? values are 0.75 and 0.78 for the wave crest and trough
+amplitudes, respectively, when compared with the corrected DART data, indicating that the
+numerical results are acceptable in terms of the correlation. Comparisons with the uncorrected data
+yield a slightly higher correlation in terms of R? (8% and 3% higher), but also significantly larger
+root mean square errors (RMSE, 98% and 47% higher than for the corrected results, respectively),
+indicating that the numerical simulation and the simple correction method proposed in Liu and
+Higuera (2022) provide reasonable results.
+(a) 600 a 7 7 (b) R’= 0.7549 pa (c) 0.14 Se A Si
+RMSE=5.72 min an 0081 RMSE=0.0096 m Se Rati So
+500 SO oo Pp 0.12 i ;
+400 pd pr 7 0.06 id rl 0.10 J pe re
+g A isan on E SL ee E J Lo Le
+3 300 a — = ST = J
+5 a 2 0.04 ER 9 RAI
+= J oo oh 8000 = / 0 rd =. 0.06 par oe
+a 6000 pvr 0.04 A J
+I oid 4000 0.02 Mt pe i
+100 ¥. od 0 A
+& 2000 Jat 0.02 ha
+od of gk
+¢ 0.000 pa 2° 4
+0 0.00 + 0.00 +
+0 100 200 300 400 S00 600 0.00 0.02 0.04 0.06 0.08 0.00 0.02 0.04 0.06 008 0.10 0.12 0.14
+DART Corrected (min) DART Corrected (m) DART Corrected (m)
+(d) 7 x (€) 0.25 : 4 A
+0.124 R’=0.8132 EAR R=0:7987 x ps
+RMSE=0.019 m Ea RMSE=0.022 m So
+0.10 J iid Lo 0.20 SS SH pee
+7 008 ar ee o Eos yd pee Lo |
+3 0.06 pa ° 3 py pe
+= SL Lo = 0.10 pe ps LL
+0.04 ae ars
+Ly . 00s SE
+0.02 ad el
+0.00 += 0.00 4@°
+0.00 0.02 0.04 0.06 0.08 0.10 0.12 0.00 0.05 0.10 0.15 0.20 0.25
+DART Uncorrected (m) DART Uncorrected (m)
+20

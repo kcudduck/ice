@@ -1,0 +1,65 @@
+Remote Sens. 2024, 16, 3497 9 of 22
+22°N (e) are primarily below 100 Hz. During this magnetic storm event, the frequency
+band of equatorial ionospheric anomalies, induced by penetrating electric fields from high
+to low latitudes, ranges from 0 to 100 Hz.
+
+= 0 NT
+c
+] >
+Qo
+-100 :
+; 2021/11/03 2021/11/04 2021/11/05 2021/11/06 2021/11/07
+~~ Tg pv Wi EE— Ta ma WP a VV umn V ame EAs Eases YP Lo aa WSS NPY tN pase Va
+= we.
+= 2000
+(7p)
+a. 2021/11/03 ~ 2021M1/04 2021/11/05 202111106 2021/11/07
+fis FEL HE =A L' . Bir
+gos Asm == = W = BE = ECE B - = Bn = J Be "es
+$= 0. — == - 0° =
+2021/11/03 2021/11/04 2021/11/05 2021/11/06 2021/11/07 a
+—~ 3 = — S— EEE —— —— — — a
+CIVELITHL. SHS LCi WE 1
+x 128 == == I= —  -— a= B = CE
+ACE REYES EN OF Es = = i ME:
+To 2021/11/03 2021/11/04 2021/11/05 2021/11/06 2021/11/07 0
+= 3 - — : . - = &
+T 1.8 — — 2% N
+= 12 = - » - _m = B 16 E
+$ 06 = — = == = T NZ
+To 2021/11/03 2021/11/04 2021/11/05 2021/11/06 2021/11/07 o
+—~ 3 - a
+HE 1 i WTC Bee nl ce
+=1. = ml = = 1z
+808 — meen [= = = i. — 0 & E
+2021/11/03 2021/11/04 2021/11/05 2021/11/06 2021/11/07 2
+Figure 5. Same as Figure 4 but for the ELF band (the red rectangle is the most disturbed orbits, and
+strongly disturbed frequency bands are circled in white).
+300 — —= — 2.5
+= ~ 2
+— —
+5 20° § 15% 5%
+= EE:
+S = — 1 8 2
+| I ; 0.5
+0.0 — i — C e—— Ee -— | Ee, -__== — [— er 0
+| 2021/11/03 2021/11/04 2021/11/05 2021/11/06 2021/11/07
+Figure 6. The latitude range is 22°5-22°N and the frequency range is 0-300 Hz (the red rectangle is
+the most disturbed orbits).
+3.4. VLF Band" D Value Analysis
+In the VLF band, magnetic storm-induced electric field anomalies are concentrated in
+the frequency range of 2.5 to 10 kHz across the latitude range of 65°S to 65°N (Figure 7).
+A constant electric field disturbance is observed around 4-5 kHz, primarily originating
+from the southern hemisphere. Magnetic storm-induced anomalies at high latitudes in
+the southern hemisphere are primarily concentrated between 3 and 10 kHz, with the
+strongest anomaly occurring at 5396 Hz, corresponding to a D value of 3.82. Since this
+frequency falls within the range of constant disturbances, the D value cannot be used to
+quantify the strength of magnetic storm disturbances. However, aside from the constant
+interference band, the 3-10 kHz range shows significant enhancement, with D values
+exceeding 2. Electric field disturbances in the 22°N to 22°S (d) range are also slightly
+enhanced. However, disturbances at middle and low latitudes are weak and insignificant
+compared to those at high latitudes in both hemispheres. In the northern hemisphere,
+electric field anomalies are concentrated between 6 and 15 kHz, with a peak anomaly
+frequency around 8887 Hz and a maximum D value of 1.93. As there is no constant
+electric field perturbation in the northern hemisphere, the D value of 1.93 can be considered
+indicative of the strength of magnetic storm-induced electric field perturbations. The

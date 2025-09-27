@@ -1,0 +1,108 @@
+I Yedl 2
+IS Space Weather 10.1029/2024SW004126 e
+
+AND SPACE SCIENCES g
+Tirunelveli. This figure shows that the ionogram traces were completely absent from 0,640 to 0700 UT and
+
+became very faint from 0,700 to 0720 UT. This indicates that the radiowaves were absorbed by intense ionization — §
+
+in the D- and E-regions, caused by this solar flare, resulting in a radio blackout in the 2-12 MHz frequency band. ~~ &
+
+4. Summary and Conclusions :
+
+A series of Solar flares and Coronal Mass Ejections (CMEs) occurred from 8 to 9 May 2024, interacted with one ~~ %
+
+another on their voyage toward Earth, and formed a composite ICME that impacted Earth's magnetosphere around H
+
+1705 UT on tenth May 2024. At least two distinct ICMESs can be identified within this ICME, which reached the  £
+
+L1-point at 1634 UT and 2136 UT. The corresponding shock signatures in ground-based magnetometers were Z
+
+observed at 1705 UT and 2221 UT. The globally averaged surface geomagnetic field (Sym-H index) was S
+
+depressed by 518 nT, making it the most intense geomagnetic storm of the past three decades and the second- Z
+
+largest in the space era (in terms of Sym-H index). The strong SWDP associated with this composite ICME ~~ £
+
+caused Earth's dayside magnetopause to be pushed below the geostationary orbit (6.6 Rg) for continuously ~6 hr. Z
+
+Furthermore, the Earth's magnetospheric bow shock was also found to compress below the geostationary orbit for ~~ 2
+
+about 3 min. The BATSRUS model simulations suggest that the magnetopause location could have been as low as ~~ ©
+
+3.3 Rg during the peak phase of the storm. Our study further reveals that a potent combination of high SWDP 3
+
+E g peak p y p g =
+
+(>15 nPa) with intense eastward IEF, (>2.5 mV/m) that lasted for 409 min is the key factor responsible for the E
+
+development of a strong ring current at much closer to the Earth, making this storm uniquely intense. Severe ©
+
+electrodynamic disturbances caused strong eastward PPEFs, significantly intensified EIA, and large SED d
+
+(>100%) in the dayside ionosphere, which can severely affect the positioning/navigation based on single- g
+
+frequency GPS receivers. The enhanced D- and E-region ionization due to an X3.9 solar flare at ~0654 UT ES
+
+caused the absorption of radio waves in the range 2-12 MHz, resulting in an HF radio blackout over the Indian S
+
+sector. 5
+
+Data Availability Statement .
+
+E
+
+The DSCOVR solar wind and IMF data are available at https://www.ngdc.noaa.gov/dscovr/portal/index.html#/ 2
+
+download/. The Sym-H index data 1s obtained from the World Data Center for Geomagnetism, Kyoto University :
+
+(Imajo et al., 2022). The magnetic field (Bz and By) data from the GOES-18 satellite at 10 Hz resolution are Ei
+
+downloaded from https://cdaweb.gsfc.nasa.gov/pub/data/goes/goes18/. The TEC map data from the worldwide — %
+
+GNSS receiver network are downloaded from the Madrigal database at Millstone Hill (http://millstonehill.hay- =
+stack.mit.edu/listExperiments?isGlobal=on&categories=17&instruments=8000&showDefault=on&start_ ~~ §
+
+date 0=1950-01-01&start_date_ 1=00%3A00%3A00&end date 0=2024-12-31&end_date 1=23%3A59% z
+
+3A59). The SWDP, IMF Bz and Sym-H data of past geomagnetic storms are obtained from Omni web interface of H
+
+NASA's Space Physics Data Facility (https://omniweb.gsfc.nasa.gov/form/omni_min_def.html). All the data  §
+
+from magnetometers, VLF receivers, and Ionosonde operated by IIG are made available at the public data re- L
+
+pository (IIG, 2024). The 1-min Dst (equivalent to Sym-H index) and the closest magnetopause location (Lyp) :
+
+data from the BATSRUS model run are available at the Community Coordinate Modeling Center (CCMC).  §
+https://ccmc.gsfc.nasa.gov/results/viewrun.php?runnumber=Nilam_Bhosale_071124_1. :
+
+E
+
+Acknowledgments References d
+The authors acknowledge the open data =}
+policy of NASA's DSCOVR and GOES-18 Akasofu, S. I. (1980). The solar wind-magnetosphere energy coupling and magnetospheric disturbances. Planetary and Space Science, 28(5), =
+data products. We also acknowledge 495-509. https://doi.org/10.1016/0032-0633(80)90031-8 =
+NASA's SPDF for the solar wind and the Akasofu, S. I., Chapman, S., & Venkatesan, D. (1963). The main phase of great magnetic storms. Journal of Geophysical Research, 68(11), 3345— A
+Madrigal database at Millstone Hill for 3350. https://doi.org/10.1029/J20681011p03345 =
+worldwide GNSS-TEC data products. The Araki, T. (1977). Global structure of geomagnetic sudden commencements. Planetary and Space Science, 25(4), 373-384. https://doi.org/10. °
+WDC, Kyoto University is acknowledged 1016/003 2-063 3(77)90053-8 =}
+for Sym-H index data. We acknowledge Balan, N., Liu, J. Y., Otsuka, Y., Tulasi Ram, S., & Liihr, H. (2012). Ionospheric and thermospheric storms at equatorial latitudes observed by a
+CCMC for facilitating MHD model CHAMP, ROCSAT, and DMSP. Journal of Geophysical Research, 117(Al), A01313. https://do1.org/10.1029/2011JA016903 3
+simulations and Dr. B. Nilam for her help Balan, N., Shiokawa, K., Otsuka, Y., Watanabe, S., & Bailey, G. J. (2009). Super plasma fountain and equatorial ionization anomaly during 2
+in running the BATSRUS model on penetration electric field. Journal of Geophysical Research, 114, A03310. https://do1.org/10.1029/2008JA013768 2
+CCMC. We also thank Ms. M. Ankita for Burlaga, L. F., Fitzenreiter, R., Lepping, R., Ogilvie, K., Szabo, A., Lazarus, A., et al. (1998). A magnetic cloud containing prominence material: Z
+her help in analyzing and plotting the January 1997. Journal of Geophysical Research, 103(A1l), 277-285. https://doi.org/10.1029/977a02768 g
+figures. We also thank Mr. Siba Kiran Burlaga, L. F., Klein, L., Sheeley, N. R., Michels, D. J., Howard, R. A., Koomen, M. J., et al. (1982). A magnetic cloud and a coronal mass EB
+Guru for his help in plotting ionograms. ejection. Geophysical Research Letters, 9(12), 1317-1320. https://do1.org/10.1029/gl0091012p01317 S
+Burton, R. K., McPherron, R. L., & Russell, C. T. (1975). An empirical relationship between interplanetary conditions and Dst. Journal of Q
+
+Geophysical Research, 8031), 4204-4214. https://do1.org/10.1029/JA080103 1p04204 =
+
+Q
+
+:
+
+EEE EEE EEE EEE EEE EE EEE E—————————.
+=
+
+TULASI RAM ET AL. 12 of 14 :

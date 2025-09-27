@@ -1,0 +1,61 @@
+1890  T. Saito
+Free surface 3 RESULTS
+Sea VV, =1.5kmls,V_=0.0 km/s, p = 1.0 g/cm? [4 km
+3.1 Slow and rapid dislocation
+£ An earthquake fault was set with a width of 100 km and a dip of
+S 15°. The top of the fault was located 5 km deep from the sea bottom.
+Although the actual earthquake rupture was characterized by a wide
+range of frequencies from the DC to high-frequency components (at
+least ~10 Hz, e.g. Aki & Richards 2002), this study employed an
+earthquake rupture characterized by a simple source-time function
+800 km in order to clarify the mechanisms of wave excitation depending on
+Figure 2. An elastic medium constituting of a water layer and homogeneous the time-scale. The rupture starts simultaneously on the earthquake
+crust. The finite size of the earthquake fault is set in the crust. fault. We use a Gaussian function f(¢) :
+1 4 (t — 1) .
+f= rep | == CHE
+>
+linear/non-linear long-wave equations (e.g. Satake 2007). This study to give the slip rate of the dislocation. The parameter #. controls the 3
+also investigates tsunami by treating the generation and propagd- duration of the earthquake. The functions with 7. = 4 and 40 s in 2
+tion processes separately. However, unlike most past tsunami studies eq. (4) are plotted in Fig. 3(a). The spectral amplitude is given by, =
+that assumed incompressible sea water, we describe the generation 3
+process based on elastic equation of motion, including the com- 1/42 =
+pressibility of the sea and the elasticity of the crust. The equation | f (w)| = exp E (%) | (5) a
+of motion in an elastic medium is given by, 3
+QQ
+52. (x. 1) Fig. 3(b) compares the spectral amplitudes of #. = 4 s (dashed line) @
+Pay =O + fi, (2) and 40 s (solid line). The short duration of #z. = 4 s has a broader 5
+spectral content than that of 7. = 40s. 2
+where p is the density of the medium, u; is the particle displacement Fig. 4 shows the temporal and spatial distributions of the sea- 5
+in the medium, Oi; 1s the stress tensor and fi 1s the body force surface height, sea-bottom vertical displacement and vertical ve- 3
+equivalent to fault motion. We represent a finite earthquake fault as locity in the sea when a long-duration earthquake (7. = 40 s) 1s =
+a set of point dislocation sources represented by an equivalent body assumed. At the elapsed times of 60 s (Fig. 4a), the vertical velocity 1
+force. The constitutive relation of the elastic medium: (or vertical flow) exists above the earthquake fault, which uplifts the =
+sea bottom and surface. Sea-bottom and sea-surface displacement NS
+01 = Aju + 21 (us, itu ii) : (3) gradually increase with time. At the elapsed time of 80 and 100 s S
+(Figs 4b and c, respectively), the slip on the fault ends and the ver- =
+1s used where A and pu are the Lameé’s coefficient. tical flow excited by the fault slip disappears. If we look carefully at 3
+We consider a 2-D elastic medium consisting of the sea layer the temporal change of the velocity distribution, we recognize that Q
+(Vp =15kms!, Vg=0kms! and p = 1.0 x10° kg m™) a long-wavelength wave propagates horizontally. The wave front 1s NS
+and the uniform crust (Vp = 6.92 km s™!, V's = 4.0 km s™! and located at 80 and 150 km at the elapsed times of 80 and 100 s, A
+po = 2.8 x10° kg m2) containing the earthquake fault (Fig. 2). The respectively (Figs 4b and c). The propagation velocity 1s ~3.5 km g
+traction 1s free (o;, = 0) at the sea surface. We numerically solved s~!, corresponding to a Rayleigh wave. At the elapsed time of 200 s e
+eqs (2) and (3) to satisfy the boundary conditions by the finite- (Fig. 4d), the seismic wave leaves the simulation region. The sea- &
+difference method with the second order in space and time (e.g. Saito bottom displacement remains above the earthquake fault, which 9
+& Tsushima 2016). It 1s difficult to represent rigorously the fluid- is considered to be the permanent sea-bottom deformation. Since ™
+solid boundary by the fourth-order or higher order approximations this simulation neglected gravity, sea-surface displacement does not &D
+in space (e.g. Nakamura ef al. 2012). collapse, but remains as a permanent deformation. =
+:
+3
+No
+(a) (b)
+0.8 10
+0.6 L=4s 1 a
+Nt=4s
+0.4 I 0.1 t = 40 s \
+0.2 | 0.01 \
+ri t =40s \
+0.0 —— 0.001
+20 40 60 80 100 0.001 0.01 0.1 1 10
+Time [s] Frequency [Hz]
+Figure 3. (a) Function of f(¢) (eq. 4) gives the slip rate or moment rate. The parameter 7. that characterizes the duration 1s set as 4 s (dashed line) and 40 s
+(solid line). The parameter tj 1s set as 60 s. (b) The spectral amplitude of the slip-rate function of 4 s (dashed line) and 40 s (solid line).

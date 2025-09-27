@@ -1,0 +1,34 @@
+Confidential manuscript submitted to Journal of Geophysical Research: Oceans
+mechanism for tsunami generation. Two separate tsunami waves, travelling at different speeds, can
+be distinguished. Additional tsunami waves are also generated when the pressure wave travels over
+steep deep ocean features such as the Tonga Trench, leading to significantly larger waves 1n the
+Southeast part of the Pacific Ocean.
+1 Introduction
+
+On January 15, 2022 at approximately 04:15 (UTC), the submarine volcano Hunga Tonga—
+Hunga Ha‘apai, located on the Tongan archipelago, exploded violently. The eruption produced a
+plume that elevated 58 km into the troposphere and an atmospheric pressure shock wave,
+propagating at a speed close to the sound speed, ~306-320 m/s (Amores et al., 2022; Burt, 2022;
+Matoza et al., 2022; Yuen et al., 2022). These atmospheric pressure waves were captured at weather
+stations around the world and were found circling the Earth at least 5 times over several days
+following the explosion (Amores et al., 2022). In addition, sea level oscillations were also observed
+all around the world. In the Pacific Ocean, DART buoys recorded tsunami waves with amplitudes
+ranging from a few centimeters to twenty centimeters (https://nctr.pmel.noaa.gov/Dart/). The
+coastal (tidal) gauges also recorded tsunami waves (http:// www.10c-sealevelmonitoring.org/). In
+the region far away from Tonga, the tsunami amplitudes were found to exceed 1 m (e.g., Chile,
+Japan, and USA). Tsunami waves were also captured in the Atlantic Ocean and Mediterranean Sea,
+even though they are not directly connected to the Pacific Ocean. Despite the complexity of the
+problem, theoretical studies (e.g., Liu and Higuera, 2022) have illustrated the basic physical
+mechanisms by which under the moving atmospheric pressure forcing the leading (locked) and
+trailing (free) waves can be simultaneously produced. While the locked waves propagate with the
+speed of the atmospheric pressure waves (~ 1,100 km/hr), the trailing free waves propagate with
+long gravity ocean wave (~ 750 km/hr) (e.g., Omira et al. 2022). Moreover, additional free waves
+are generated when the locked waves propagate over large bathymetric variations, such as trenches
+and seamounts (Vennell 2007). Lynett et al. (2022) argued that the trailing waves may also be
+associated with other generation mechanisms directly linked with the volcanic explosion, such as
+the collapse of the caldera.
+
+Historically, there have been several tsunami events associated with volcanic eruptions. The
+most recent event 1s the 2018 Anak Krakatau eruption. During the eruption, the cone collapsed,
+
+3

@@ -1,0 +1,77 @@
+H.S. Kang, C.-H. Song / Nuclear Engineering and Design 240 (2010) 2160-2168 2167
+(a) Velocity Comparison of the CFD Results with the Test Results at 12 and 16 cm
+~_ 1.00 sm Casel 1.00 » = Casel
+= s. Cabed _E » Case?
+= EN A Cased S 0 + Case3
+= 0.75 ( CFD v Cased ~ 0.75 CFD v Cased
+= >i Case 6 + Cased 2 A — Case 6 + CaseS
+4 Caseb 4 seb |
+9 3p Test_Case3 Test S 3 ’ Toot
+[ es 1)
+> 0.50 § e— Sips) > 0.50 8 F Test_Case3 | _._ Theory |
+@ * 4 [7
+Bo $a Tollmien's Theo Ns EL. Tollmien's Theory
+E } : 14 (a =0.082) F H ; ; (a=0.082)
+o d O
+“ 0.00 site0s “0.00 ilies
+00 05 10 15 20 25 30 35 00 05 1.0 1.5 2.0 25 3.0 3.5 40 4.5 50
+Radial Distance from Jet Center (cm) Radial Distance from Jet Center (cm)
+(b) Comparison of Temperature between CFD and Test Results at 12 and 16 cm
+2iwl wp, % wo] are,
+~ <1 4 4
+5 PT" +s Test Case 3 > * aq» p— Test Cased
+o 0.75 ’ 4 ~ a» 0.75 ¥ al Tolimlen's Theory
+5 PE » Tollmien's Theory 2 : ST" a=0.082)
+5 a < (a=0.082) © vy N » CFD Case 6
+a 0.504] = Case 7 a4 CFD Case 6 2 050 n 4 RY Er
+E » Diverge " 1 E = Casel [VY , « 0
+[= A Casel3 V4 14 ECT 2 a Ys 4 Ne
+o v Cased © A Case 8 N,
+2 0.25 Casal AITIT 6% 9 0.254 y cases "viRegge 3484.
+£ + Case8 re E 3 Cabos $333%
+» Test bd
+S 0004 To g 0004 » Test
+05 00 05 10 15 20 25 30 35 0.5 00 05 1.0 1.5 2.0 25 30 3.5 40 45 50
+Radial Distance from Jet Center (cm) Radial Distance from Jet Center (cm)
+(¢) Comparison of Velocity between the CFD and Test Results at Jet Center Line
+~ 1.05
+: 1.0 LA £
+= NS —— hii
+= RN RR r aS
+n = —— Ea
+> 089 —a—Caset Ws a 0.95 A —
+i -e-- Case? I \ Test_Case3 a a > er
+$ 0.74 + Case3 \ ih CED £ —a—Caseq| Test Case3 CFD
+2 — = Cased 9. Re Sa Case 6 2 0.90 il Cassel 2 Case 6
+qr CE eae 7 Son N ® + Cased
+a | —«— Case6 Re Ng MN gg5d—v— Cases
+€ 05] Test Tollmien's Theory go eg + - Caseb
+a, Fos Theory 5 4 Test
+8 10 12 14 16 “1 Ap
+8 10 12 14 16
+Axial Distance from Single-Hole (cm) Axial Distance from Single-Hole (cm)
+Fig. 9. Comparison of the CFD analysis results with the test results.
+results (Case-1-Case-5) with the test results at the same location the lower velocity region existing at the upper (“B” in Fig. 10(a)) and
+(Fig. 9(a)). This may be caused by the circulation flow that forms the lower (“C” in Fig. 10(a)) -regions near the nozzle exit region are
+around the turbulent jet region (“A” in Fig. 10(a)) which reduces the entrained by a higher velocity region at the central jet region (“D”
+momentum diffusion in the radial direction in this region, and also in Fig. 10(a)). This over-predicted circulation flow (Case-1-Case-5)
+(a) Velocity Profile of Case-5 (b) Velocity Profile of Case-6
+FERRET ' ! FHA EA J Ae u ARR
+Abbe big of Held i i AF PL pagel \ N
+WAT ao PHEEPE i Water. Veloy { Hii : Hil
+. {HE HERE EEE HH | EEA
+Ea fH m0 Hii HH
+15.05 il hi 1 15.05 ih {
+ao |B {LL EERE Ko | fs HHS ==
+NTE AlREs LER ! bs ee ——— 0.95 k SE
+Inlet f———D—— Turbulent-Jet » —
+- B.GO — L ee 8.60 Toy r—————————
+Ki Hmm Te [ Ta Er
+| HEHE ARR 5% HEEL TL
+3% IE HERE La HANH
+5 YE fire ARMM 2.15 HEARING RRR
+AEE LTR HE
+ey HERA or i HE
+Im sa-1) pA mgt PRALALMM MANNY \
+HEN Fa HERR HNN
+Fig. 10. Velocity profile around the turbulent jet.

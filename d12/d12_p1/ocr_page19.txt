@@ -1,0 +1,33 @@
+Table [1] Continued: Symbols List
+
+J, 1 Porosity
+¢() m Sediment thickness for grain size 7
+RY m Distance between sediment extend and the shoreline for grain size 7
+An) m Sediment thickness increment for grain size 7
+CW(z) m?/m? Sediment concentration profile for grain size 7
+Zo m Bottom roughness
+K(z) kgm~!s™! Eddy viscosity profile
+ct) m?> / m?> Reference sediment concentration
+Bo 1 Resuspension coefficient
+jal YZ Percentage of the sediment of grain size ¢
+S (0) 1 Normalized excess shear stress
+Th kem~!s™? Bed shear stress
+iY kem 1's Critical shear stress of the initial sediment movement for grain size i
+N 1 Number of grain size classes
+2 m Sediment original elevation
+t? S Deposition time for grain size ¢ sediment at elevation z;
+Ly. 1 Second norm of error for layer k’s grain-size distribution
+£10 YZ Modeled percentages for grain size class 7
+£50 70 Observed percentages for grain size class ¢
+L 1 Average second norm value of grain-size distribution for a location
+Ly, 1 Second Norm value of thickness between the model result and the field observation
+th,, m Modeled thicknesses
+ths m Observed thicknesses
+@, 1 Number of sample locations
+£ m Offshore wave amplitude
+V m? Water volume that covers the land at maximum inundation
+R,, m Distance of water run-up to shoreline
+n(x,t) m Solitary wave form
+C ms! Wave celerity
+
+19

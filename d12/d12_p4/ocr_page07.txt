@@ -1,0 +1,90 @@
+Yell : =
+MI Journal of Geophysical Research: Oceans 10.1029/2020JC017011 2
+AND SPACE SCIENCE 2
+Here, we attach a bar on the left-hand side variables as u, rather than u, because this impulse response or :
+the Green's function has a dimension that is different from u,. The corresponding tsunami height is given by 2
+_ _ 1 % i(kyx+k | :
+
+7x, v1) = ir, (x. y, 0,1) =—— I dk dk ¢" i wo, sin(wyt) H (1). (33) =
+
+(27) — Po8o =
+
+s
+
+By differentiating Equation 32 with respect to time, we obtain the vertical velocity as &
+2
+
+_ 1 © i ky x+k 1 sinh k(hy —z =
+
+v(x Y, Z, ] = —— I dk dk ¢' ’ p) 1 sinb| (ho ~2)| cos (at) H (1). (34) S
+
+(27) —o0 L080 sinh ( kh ) =
+
+Similarly, we obtain the horizontal velocity components: 2
+E
+
+_ 1% i(kyx+kyy) —ik; cosh k|hy —z t
+
+V; (x. ys 21) =— I dk die" i ») — cosh| k(fp —z) | wp cos (apt) H (1) g
+
+—o0 k sinh ( kA Q
+
+(27) Po8o 0) (35) =
+
+(J = x, y) ’
+
+The pressure change in the fluid is i]
+c
+
+_ | i(kyx+k 2 sinh kz E
+
+p(x, Ys Zs /) = —— I] dk, dk e (kathy) 2sinh(ke) sin(wyt) H (1) 5
+
+(27) —o0 sinh (kh) =
+
+: (36) 5
+
+sinh k (ho — z) 2 sinh kz %
+
++t —————— + —— |0 (7) 4
+
+sinh (kg ) sinh (2h, ) 5
+
+:
+
+z
+
+In particular, for the sea bottom, :
+— | - i(k x+l y) 1 . g
+
+x,y, hot) = —— I dkdiye™" ———— 5(1) — wy sin(ayt)H (7) 7
+
+7 Y> Mo (27) Zo y cosh (kh, ) ( ) ’ ( ’ ) (37) :
+
+Equations 32-37 are the most important and fundamental solutions in our formulation because we can BE
+obtain any responses with respect to any surface pressure change p  . (&. Ey r) with convolution opera- H
+tions. For example, the vertical displacement response is given for an arbitrary sea-surface pressure change ]
+SOUICE Py face (&. Sys r) as ]
+(x. Y, 21) — Ir ds,dg, J dri, x Cys Y oo Sys Z,1 = 7) Pautuce (0 £7) (38) z
+
+—00 —00 E
+
+3. Visualization and Interpretations J
+3.1. Surface Pressure Change at a Fixed Location 2
+As the simplest case, we consider the surface pressure change as not moving. The pressure change starts at :
+t = 0 and increases linearly with duration T. The sea-surface pressure source is represented as z
+Oo
+
+>
+
+p(x.7.0.1) = po(x.¥) (2) (39) %
+
+The temporal change is assigned to be a ramp function of duration T, starting att = 0: i
+Lh (7) fort <T 3
+
+f(t) =4T (40)  ¢
+
+1 forT <t q
+
+-_
+SAITO ET AL. 70f29  §

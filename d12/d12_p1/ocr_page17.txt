@@ -1,0 +1,30 @@
+load and suspended load. In order to reduce the effect of bed load, only
+the suspension-grading part can be considered to estimate the flow speed.
+Suspension-grading in sediment is difficult to identify only based on the grain-
+size distribution. The simulated suspended-grading part has some difference
+with field observations, which also introduces uncertainties to the flow speed
+calculation.
+
+TSUFLIND has two aspects that require improvement: the applicable
+flow condition and the accuracy of final outputs including sediment simu-
+lation and flow speed calculation. The improvement of the applicable area
+can be made by employing other tsunami propagation models instead of
+Sousby’s model, which can deal with non-uniform and unsteady flows. At
+the same time, the new model needs to consider both the suspension load
+and bed load. Also a new method for combining forward and inverse mod-
+eling will hold great promise for deciphering quantitative information from
+tsunami deposits and decreasing the uncertainties in tsunami sediment trans-
+port simulation and inversion results [Sugawara et al. 2014].
+
+5. Conclusion
+
+Modeling the tsunami sediment deposition processes and estimating tsunami
+How parameters will greatly improve not only the understanding of deposition
+from tsunami but also the risk assessment for extreme high-energy events.
+We presented a joint inversion model for tsunami deposit simulation and flow
+condition estimations in this paper.
+
+The combination of different inversion models allows the computation of a
+wide range of tsunami wave impacts or characteristics, ranging from sediment
+
+17

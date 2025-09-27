@@ -1,0 +1,23 @@
+Table captions
+Table 1. Location of INTERMAGNET ground observatories used in this work.
+Geomagnetic coordinates are given by using the IGRF geomagnetic field model year
+2000.
+Observator IAGA Geodetic Geodetic Magnetic Magnetic
+
+Vary code latitude (deg) longitude (deg) latitude (deg) longitude (deg)
+Narsarsuaq NAQ 61.16 314.56 69.90 38.41
+Fort Churchill FCC 58.76 265.91 67.93 327.91
+Abisko ABK 68.36 18.82 65.89 114.8
+Tihany THY 46.90 17.54 45.87 100.06
+Fresno FRN 37.09 240.28 43.42 304.93
+San Pablo Toledo SPT 39.55 355.65 42.69 75.88
+Surlari SUA 44.68 26.25 42.38 107.50
+Irkutsk IRT 52.27 104.45 41.68 176.8
+Stennis S. Center BSL 30.35 270.36 40.06 339.49
+San Juan SIG 18.11 293.85 28.2 6.02
+Kakioka KAK 36.23 140.18 26.99 208.50
+Honolulu HON 21.32 202.0 21.5 269.48
+Alibag ABG 18.62 72.87 9.91 145.96
+Hermanus HER -34.43 19.23 -33.75 83.73
+
+16

@@ -1,0 +1,96 @@
+A 7 ) S
+MI Journal of Geophysical Research: Oceans 10.1029/2020JC017011 2
+AND SPACE SCIENCE 2
+The pressure change is given by :
+1 © a 2 sinh | kz 1 y 1 1 y 3
+
+p(x VY, 21) - —— | dk. e Kx by (1) mh (ks) 5.5, ¢ kx Vo! —_———————€ “0! =
+
+27 sinh (2k ) kV 2, _kY 2
+
+wp @ :
+
+I 61) =
+
+EAA
+
+1 += S
+
+1% eu sinh| k(hy —z)|  2sinh(kz S
+
+bo dU (k,) sinh k{J —<)| | 2sinh{ks) Hr). =
+
+27 —0 sinh (kh ) sinh (2h, ) =
+
+<
+
+and g
+<
+
+=n
+
+p(x V,Z = ho») &
+
+=
+
+~ 1 ik Vor 1 1 impr 1 1 iw! g
+
+| = _ k) | ———e to —__pieot 2
+
+BL pi ) KV? 2, _ kV 2, kW H(t) 2
+
+27 cosh (kh ) 1 -——= on + Con 62 =
+
+ON 0 0 ( ) g
+
+1 t l X— p k, 5
+
++— dk .e &] wi) Prk) ) H (1). 2
+
+27 —oo cosh (kh, ) S
+
+3.3.1. Long-Wavelength Tsunamis ¢
+Using Equations 58-62, we visualize the wavefields caused by a moving negative pressure change in Fig- aq
+ure 3. The pressure change source is characterized by F, = -1 mH,0 (= ~ —9.8 kPa) and ¢ = 20 km in 3
+Q
+
+Equation 57. The pressure change source appears at + = 0 s and moves in the positive x-direction with the :
+velocity V, = 0.2 km/s (= 1.04/goh ). At early times (Figures 3a and 3b), the tsunami height is small, less :
+than 0.1 m. As the time increases, the tsunami height increases. At the time 500 s, the maximum height is 3
+about 2.5 m, which is considerably larger than the maximum height of 1 m that was observed in the case 2
+of a fixed source. This tsunami amplification is due to a moving source, which is often referred to as the 5
+Proudman effect (Proudman, 1929). Figure 4 shows the tsunami height distributions for various elapsed BE
+times. Appendix C describes the cases for different velocities of Vj; = 0.18 km/s (= 0.9,/gyh, ), and 0.22 km/s :
+(= 1.14/gohy ). The overall features of the tsunami heights were common between the cases of V, = 0.9./g,A,, ]
+Jgoho» and 1.1 goh :
+We further calculate the sea-surface height of Equation 58 using approximations to obtain interpretations :
+of Figure 3. Since p, (x) is real, p, (=k. ) =p, (k, where the asterisk denotes complex conjugation. We cal- :
+culate Equation 58: 2
+171 1 Ns I SE RE DUR 3
+
+n(x 0.1) = —— dk, —— — Rel jy (ke! 0) | J Re (ke | 5
+
+oO Podol Vo 2,_h :
+
+¢? ¢ z
+
+g
+
+(63)  &
+
+1 | A i(k ve) c
+
+——— Re k Je‘ H\(t 2
+
+TT (1)
+
++ z
+
+¢ :
+
+where Re - | indicates the real part of the complex value and set the phase velocityasc =w/k = wo / k, . 5
+We then assume that the pressure change propagation velocity Vj, is almost the same as the tsunami phase :
+velocity c, or V;, ~ ¢, where setting c = V; + AV and AV <« V|,. We calculate Equation 63: :
+:
+
+SAITO ET AL. 130f29  §

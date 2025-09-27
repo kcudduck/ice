@@ -1,0 +1,67 @@
+I. Charvet et al. / Ocean Modelling 69 (2013) 79-92 89
+Table 6 This suggests that a linear relationship describes well the evolu-
+Power laws of the form of (23), with associated confidence intervals (C.I.), for the tion of runup as a function of parameters of the wave form. The
+regression parameters k and K. : : : :
+residual and normality plot associated with the regression are dis-
+Wave group Equation & — K (2) k Cl. k CLK played in Fig. 10, and the 95% confidence intervals associated with
+A — the regression curve are also constructed (methodology described
+FL<1 R_ 10.18(22)"” ney (G27 LY) (6.51; 15.84) in Appendix E), and plotted together with the regression results in
+ET > 1 R_ 5.53 (La) 0) (068-045) (3.15; 9.80) Fig. 11. | |
+pgalh The same procedure is applied to all the other groups of waves.
+E R _ 4.35 (25) oY (21) (0.43; -0.31) (2.84; 6.68) Laws of the form of Eq. (16) are summarized in Table 6, with con-
+NI 1 Sp ( rs \° oo (—0.44: —0.37) (4.44: 7.39) fidence intervals for k and K, for each group of waves. The results
+ho 777 pgaLh?® from this table are discussed in the next section.
+NT R_027(-b) (23) (~1.89;-0.44) (0.19; 0.40)
+N R _ 107(- 5)" (24) (—0.48; —0.43) (9.78; 11.59) 5 Discussion
+The literature review has shown that a number of previous
+cant proportion of the data tends to be clustered for large values of s¢djes on runup of solitary/elevated waves have determined that
+the predictor variable, which confirms the need for it to be parti- the runup approximately scales as the amplitude of the incoming
+tioned into different wave categories. ATE.
+Posing E, ~ pgla®, Eq. (19) indicates that: 2 oc £. Moreover,
+4.2.2. Regression analysis 0.18 < K < 0.53 for all waves tested, suggesting that the runup
+The uncertainty associated with (16) is quantified using a of most of the present long elevated waves scales as the amplitude.
+regression analysis. Linear regression can be performed using the Waves that are at the limit of the very long wave regime corre-
+variables in (16) by writing it as: spond to the smallest values of ; and we expect reflections from
+R Le pg the beach to be significant, thus explaining why the amplitude
+log (7) = logK + klog TF Tr © (17) scaling would appear weaker for some tests. The same reasoning
+can be applied to Eq. (22), showing that for long N-waves, R « a.
+It is necessary to find the best estimates (i.e., unbiaised) for the However, given the confidence intervals for K the factor of propor-
+regression coefficients of the model, thus minimize the uncertainty tionality would range from 4 to 7, indicating that for the same po-
+associated with the prediction. To do so, the total error between the sitive amplitude long N-waves would run up higher than long
+response data and the predicted response is reduced (as described elevated waves (thus confirming the theoretical results from Tade-
+in Appendix B) and the non-violation of the relevant statistical palli and Synolakis (1994)). A similar scaling R « a can be obtained
+assumptions is checked. More details on regression analysis meth- for all N-waves, which is expected, given that the very long N-
+ods can be found in Chatterjee and Hadi (2006). To capture poten- waves group only contained 3 data points and therefore do not
+tial differences in runup regime between long waves, very long have a large influence.
+waves, elevated waves and N-waves, the wave data is divided into For very long elevated waves (20), the best fit indicates a contri-
+different populations. Each wave group is identified with a letter, as bution of the wavelength that is of the same order as the ampli-
+listed in Table 4, and is used to find candidate runup equations, tude. A simple explanation for this result would consist in
+which are then compared. The following section details the proce- considering the potential energy Ep, of a mass of water m as it
+dure above for the first group of waves (Long elevated waves). climbs up a beach with slope g which is:
+The same procedure applies to every other group, therefore only
+the final runup equations are presented in this paper. Detailed Ep, ~ pRmg. (23)
+information on the regression analysis for individual wave groups In two dimensions, m can be approximated by m ~ pal. Moreover,
+can be found in Charvet (2012). with B being constant and assuming Ep, ~ Ep , we obtain:
+The first subset of data to be used in the regression is long ele-
+vated waves (group Err, 1). Only those combinations of k, K, L, h, R N Ep (26)
+and a that result in a high value of R%, a zero mean error, and which h alLhpg’
+satisfy all the linearity assumptions, are kept. Table 5 presents the Co Lo
+regression coefficients, characteristic lengths variables and uncer- which 15 consistent with (20) in terms of the relative contributions
+tainties associated with the combinations displaying a significant of the different DENEUIEES elt play.
+degree of linearity between x and y (R? > 0.80). Simplifying EQ. (20) we obtain R ~ +/a. The present results sug-
+In the present analysis, outliers are defined as data for which gest that there Is a stronger dependence on wavelength for very
+associated residuals are located more than 2.5 standard deviations long Waves than for long waves, indicating the presence of two dif-
+away from their mean e and they are removed. The methodology ferent regimes. The weaker dependence on amplitude for long
+applied to verify the statistical assumptions presented in Table 5 Wdves dy be due to the large amount of wave energy reflected
+is described in Appendix C. back during the runup process. |
+The results of Table 5 indicate that for long elevated waves, As expected, the simplification of the runtp Squier for all ele-
+there is a unique combination of the parameters a, h, L and Ep that vated WdVES (21) does not point to any evident scaling of the runtp
+gives a strong linear relationship (R* = 0.94) with unbiased esti- with amplitude (or other wave parameter): the wave regimes hav-
+mates logK = 2.32 and k = 0.89. These regression coefficients are Ing been shown to be different for the two sToups.
+close to 2 and 1 and are tested against the two null hypotheses: Charvet (2012) did not find a strong correlation between runup
+Ho :logK — 2 and Ho, : k = 1 (t-test). The t-test used for this pur- and rundown, for long N-waves. For very long N-waves, not en-
+pose is described in Appendix D, and the results show that the run- ough data was collected to give conclusive results. However, draw-
+up relationship can be expressed as: ing lines of best fit through the long and very long N-wave data,
+p , respectively, would indicate a decrease in runup with an increase
+log (3) — 2 + log (2%) (18) in rundown. This would be consistent with the trends in
+h Ep Fig. 8(d)). It has to be noted that the range of troughs that could

@@ -1,0 +1,67 @@
+84 I. Charvet et al./ Ocean Modelling 69 (2013) 79-92
+was estimated from the measured runup length R; and converted T and wavelength L are calculated using the first half of the positive
+to a vertical distance using: wave, assuming symmetry (a schematic graph within Fig. 1 illus-
+R = R tan f. (7) trates the method used to estimate the wave period):
+Wave period and wavelength were retrieved from the wave eleva- T=2(t,  —to), (8)
+tion time series. In many cases the second half of the positive part
+of the wave does not strictly correspond to the direct signal, due [—c T (9)
+to the reflected waves travelling back from the beach. The period Pep
+Table 3 In (8), t,__ 1s the time of occurrence of the wave peak, and t, corre-
+Pooled standard deviations (equation (A.2)) of positive and negative amplitudes, sponds to the time when the value of the wave elevation is 1% of the
+et me ote et ev tn mt spe MEH WE BIZ (ty, > fo a0 We SCE T1 by, o) rior
+the second number is the total number of waves N(x). onan [n (9), CPexp 15 the wave speed, determined from the CXperl-
+0000000000000 ments, by calculating the temporal correlation between adjacent
+Wave type Spa) (mM) Sp; (8) Spe (mM) wave probes. For N-waves, the trough does not trigger any reflec-
+Elevated waves 210° (4,9) 0.48 (4,9) 3.410% (6,25) tions from the slope, so the parameters corresponding to the nega-
+N-waves 1.2.10 (3,8) 29.102 (34) 1.9.10°3 (6,18) tive part of the wave are calculated on the full negative profile. The
+_—m  o ———- objective is to find a measure representative of the full wave shape,
+so integral measures of the wave as defined by Eq. (1) are used. Be-
+cause excess mass can be positive, negative or equal to zero for N-
+2 Elevated waves waves, wave energy Is the preferred integral parameter to be inves-
+a i tigated, since it is always positive. The total potential energy Ep (per
+ig unit area width) wave is expressed at an instant time and is:
+25 Fig
+Lf 71 2
+| £/. Ep / ~8poN(X)"dX. (10)
+Region ll 3S
+4
+. q &S To evaluate (10) requires knowledge of the wave profile in the en-
+Ss 15 tire flume at an instant in time. An estimate of (10) can be made by
+i assuming that the wave slowly changes as it propagates over the
+PY 44 I length of the flume (this assumption has been checked by verifying
+wave elevation changes over the constant depth region - see Fig. 2
+Region | >) as an example). Approximately, X = ¢, t so the potential energy of
+Pexp
+05 gq h the wave in the constant depth region of the flume can be expressed
+Region Ill ds.
+0° 10° 10° 10" 10” 1 ,
+ath Ep = / 58Po1(L) Cpe AE (11)
+15 ye where the integral is taken over a period of t,. In these experiments,
+b 4 1» is measured at generation, in the constant depth region of the
+flume (see probe position in Fig. 1). Due to sloshing and some reflec-
+tions from the beach, multiple interacting waves are present in the
+whole time series. Predominantly, the initial wave for a given time
+10 series having a shorter period compared to the sloshing, the eleva-
+Region II q / tion data were truncated in order to remove the low frequency
+. q | Sd sloshing (see Charvet, 2012), and any potential reflection travelling
+S & lr / in the opposite direction —- indeed, all waveforms other than the ini-
+N/ 4 / / tial wave can be dismissed without hindering the quality of the
+" ~/V Jr > analysis. Moreover, the cumulative potential energy is calculated
+7 A in order to identify the relative energy contribution of each wave
+Aig packet. An example of the cumulative potential energy of a typical
+Le” elevated wave time series is shown in (Fig. 3). The first energy pla-
+gr —= Came (Seo } teau reached by the wave (at t = t,,) corresponds to the initial wave
+PES EFL ESKE IK of the time series, the launched wave (the other plateaus corre-
+p= 0° 10° 0" 1° spond to subsequent waves), so the potential energy is calculated
+a/h using the initial wave of the time series only.
+The kinetic energy Ex of the wave was not evaluated. However,
+Fig. 4. Location of experimental elevated waves (a) and N-waves (b) within the for long waves propagating without change of form over a uniform
+regions defined using the non-linear shallow water theory following the method- Lo. :
+ology of Madsen and Schaffer, 2010. Region I corresponds to relatively short waves depth, it is easily demonstrated that Ep = Ex. As the wave propa-
+(T/Ty < 5/4 for single elevated waves, T/T, < 25/16 for isosceles N-waves. these gates up the beach, there is an exchange between kinetic and po-
+limits are shown in blue straight lines), Region II longer waves which are non- tential energy. This is the basis of many of the models described
+breaking, and Region [II corresponds to the breaking region. Note: for N-waves (b), previously for run up, such as Shen and Meyer (1963) and Li and
+the breaking criterion depends on the trough-to-peak ratio, therefore the range of : : :
+theoretical breaking criteria corresponding to the present N-waves have all been Raichlen (2003 ) For this redson, the integral measure of the wave
+represented. (For interpretation of the references to colour in this figure caption, the potential energy (10), (11) is used as an independent measure of
+reader is referred to the web version of this article.) the capability of the wave to move up the beach.

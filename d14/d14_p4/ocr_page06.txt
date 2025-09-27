@@ -1,0 +1,28 @@
+X-6 YERMOLAEV ET AL.: GEOEFFECTIVENESS AND EFFICIENCY
+
+lower temperature, lower ratio of thermal to magnetic pressure (S-parameter) and higher,
+smooth and rotating magnetic field |Burlaga, 1991]. In addition, we have included into
+our catalog such events (rare enough) as direct and reverse shocks, and the rarefaction
+region (region with low density) Rare but these types of events are not analyzed in this
+paper.
+
+In order to calculate yearly averaged values, we have taken into consideration that the
+OMNI database contains gaps of the data from 0 to 50% time of year. This procedure
+has been made in the assumption that occurrence rate of given type of solar wind streams
+is similar both in intervals of data presence and in intervals of data gap. If during chosen
+year the number of events of selected solar wind type Ne has been registered in interval of
+data presence t; the normalized number of the given solar wind type Ne* in this year was
+defined by multiplication of occurrence rate of the given solar wind type Ne/t; to total
+duration of year t,, i.e. Ne* = (Ne/t;) *t,. Normalized number of solar wind events is
+used only for studying the time variations in occurrence rate of various types of streams
+and measured number of events is used to calculate geoeffectiveness of types of events.
+When we analyzed durations of different types of solar wind streams, we selected intervals
+of types of streams which have not data gaps at both edges of the intervals.
+
+Definite types of the solar wind streams were put in correspondence to all magnetic
+storms for which measurements of the parameters of plasma and magnetic field in the
+interplanetary medium were available. This was done using the following algorithm. If
+the moment of minimum in the Dst index from the list of magnetic storms falls within
+the time interval of a solar wind event or is apart from it by no more than 2 h interval,
+the corresponding solar wind type is ascribed to this storm. It should be noted that,
+DRAFT October 23, 2018, 3:27am DRAFT

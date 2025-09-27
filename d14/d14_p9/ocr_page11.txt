@@ -1,0 +1,72 @@
+I Yell ;
+FC 19 Space Weather 10.1029/2024SW004126 5
+ADVANCING EARTH
+
+AND SPACE SCIENCES 5
+4 10% 800 SNR (dB) :
+— |) d) 0630 UT e) 0640 UT 5 g
+= 3 600 ¢ z
+= & 20 E
+5 2 ¢ 2
+ic 400 & S
+T 4 15 5
+v =
+o 200 E
+35 800 0 :
+=" |b) 10 May 2024 f) 0650 UT g) 0700 UT p
+230 ———09May2024 | — =
+3 > =
+2% 5 400 S
+20 < =
+- TTT 200 Z
+
+>
+15 =
+150 800 E
+0) 10 May 2024 h) 0710 UT i) 0720 UT 5
+— 09 May 2024 Z
+100 oo & :
+ol Sy 400 2
+1 5 =
+200 E
+0 z
+5 55 6 65 7 75 8 85 9 95 10 2 4 6 8 10 12 2 4 6 8 10 12 5
+UT on 10 May 2024 Frequency (MHz) Frequency (MHz) Q
+Figure 9. (a—c) UT vanations of X-Ray flux (top), VLF amplitude (middle) and Equatorial Electrojet (EEJ, bottom) during 2
+the X3.9 solar flare around 0654 UT (d—1) Ionograms observed from the Indian equatorial station, Tirunelveli from 0630 to E
+0720 UT. The absence of ionogram traces from 0640 to 0710 UT indicates the radio blackout due to the absorption of radio 8
+waves from 2 to 12 MHz. S
+clearly observed that the TEC on 10 May 2024 was dramatically enhanced over American longitudes (dayside) 4
+with more than a 100% increase compared to the previous quiet day. In the bottom panels are shown the latitudinal
+variations of TEC over the American (75°W) sector. Strong enhancements in TEC can be seen from low to mid- ]
+latitudes (up to £45°) in both hemispheres due to enhanced Equatorial Ionization Anomaly (EIA). Further, the S
+crests of the EIA appear to have shifted significantly poleward on 10 May 2024 compared to those on 09 May :
+2024. This suggests that strong eastward penetration electric fields (PPEF) prevailed over the equatorial latitudes, ~~ 2
+leading to the strong equatorial fountain effect and an intensified EIA during this period (Tsurutani et al., 2004; S
+Mannucci et al., 2005; Tulasi Ram et al., 2008, 2019; Venkatesh et al., 2017). In addition to the eastward PPEF, :
+the enhanced equatorward neutral wind driven by Joule and particle heating at high latitudes also causes the 3
+uplifting of F-layer via inclined magnetic field lines at mid-latitudes (Fuller-Rowell et al., 1994; Balan et al.,
+2009, 2012). The combined effects of the intensified equatorial fountain effect via PPEF and the enhanced =
+equatorward neutral wind uplift the F-region to the altitudes of reduced recombination, leading to such a strong :
+positive ionospheric storm as seen in Figure 8. It may be recalled that one unit of TEC variation can cause an error :
+of upto 0.16 m in positioning by single-frequency GPS receiver (for example, Qvstedal, 2002], which are most ~~ £
+commonly used for navigation by the majority of civilians. Therefore, the strong enhancements in TEC canleadto ~~ g
+severe errors in positioning/navigation based on single-frequency GPS receivers. Significant degradations in ~~
+GPS-based positional accuracy were also reported during this storm, affecting agricultural and drone users 2
+(Koebler, 2024; Davis, 2024).
+The strong X-class solar flare (X3.9 in Figure 1), which peaked at 0654 UT on 10 May 2024 (before the storm), )
+was also found to have severely affected HF radio waves over the Indian sector. Figures 9a—9c¢ depict the var- 3
+iations of X-ray solar flux from the GOES satellite, VLF signal amplitude measured at 19.8 kHz using an NWC 2
+receiver, and the Equatorial Electrojet (EEJ) strength. Here, EEJ 1s computed using the two-station method from >
+the H-component observations measured at an equatorial (Tirunelveli) and off-equatorial (Alibag) pair of §
+magnetometers (Rastogi, 1977; Reddy, 1989; Tulasi Ram et al., 2024) from the Indian sector. The blue curves ;
+represent the variation on 10 May 2024 and the black curves represent the variation on a previous quiet day (9 :
+May 2024). It can be seen from these figures that both the VLF signal amplitude (a proxy to the D-region 5
+ionization) and the EEJ strength (a proxy to the E-region ionization) increased in tandem with the increase in =
+the X-ray flux. This suggests that the enhanced X-ray flux due to this solar flare led to a significantly increased :
+photoionization in the D- and E-regions of the ionosphere over the Indian sector. The right-hand side panels 0
+(Figures 9d-91) present the i1onograms obtained from a digital 1onosonde at the Indian equatorial station, 5
+Q
+EE.
+=
+TULASI RAM ET AL. 11 of 14  §

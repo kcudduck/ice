@@ -1,0 +1,24 @@
+[(R, — H [
+ap= A) 2)
+where m 1s the slope and R, represents the vertical inundation limit. The
+thickness of the deposit for grain size ¢ at the shoreline:
+(2), (2)
+Gy) = EEE) — = (14 ay) (3)
+where a¥ = wa Ty w'” denotes the settling velocity for grain size i, Ty = (1—
+v)T is the deposition time. CY is the depth averaged sediment concentration
+for grain size © and p is the porosity. The sediment thickness for grain size 1
+linearly decreases with distance from the shoreline:
+(Ow) = wind een (4)
+0 z>RW
+where R\” is the distance between sediment extend and the shoreline for
+grain size © |[Soulsby et al. [2007].
+(c) TsuSedMod:. |Jaffe and Gelfenbuam| [2007] developed an inversion model
+based on sediment deposited from suspension. There are several basic as-
+sumptions in TsuSedMod: (1) sediment is transported in suspension and
+deposited when steady and uniform tsunami flow slows down; (2) suspended
+sediment concentration is distributed in an equilibrium profile; (3) there is
+no erosion caused by return flow. The model iteratively adjusts the sediment
+source and the shear velocity to match the sediment grain-size distributions
+and thickness of suspension-grading sediment layers |Jaffe et al.[2011), 12012].
+For the grain size i, the sediment thickness An is given by:
+4

@@ -1,0 +1,13 @@
+YERMOLAEV ET AL.: GEOEFFECTIVENESS AND EFFICIENCY X -23
+Table 3. Ratio of magnetospheric indices to integrated IMF Bz and Evy fields
+(at fixed values of [; Bz(7)dr = —30 h*nT and [; Ey(7)dr = 12 h*mV/m) ?
+SW type Dst/Bz Dst*/Bz Kp/Bz AE/Bz|Dst/Fy Dst*/Ey Kp/Ey AE/Ey
+CIR 2.4 2.8 0.18 22.7 5.0 6.3 0.45 50.3
+FE gecta 2.0 2.0 0.17 22.0 6.1 6.3 0.43 53.3
+MC 1.9 2.1 0.17 22.9 4.3 4.9 0.42 54.2
+Ejecta + MC| 2.3 2.6 0.17 218 | 5.3 6.0 0.42 53.3
+Sheath 2.4 3.0 0.20 24.3 4.9 6.3 0.46 57.9
+IND 2.9 2.6 0.18 24.0 0.0 6.1 0.44 418.9
+* Dimensions of coefficients: |Dst/Bz, Dst*/Bz, AE/Bz] =nT/(h*nT), |[Kp/Bz] =1/(h*nT),
+Dst/Ey, Dst*/Ey, AE /FEy] = nT/(h*mV/m), and |[Kp/FEy| = 1/(h*mV/m)
+DRAFT October 23, 2018, 3:27am DRAFT

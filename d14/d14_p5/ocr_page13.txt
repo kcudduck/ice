@@ -1,0 +1,82 @@
+www.nature.com/scientificreports/
+used in the GIC computations®'>* showing that the modelled values of the largest GICs amplitudes, as well as
+their timing match well with the GICs measured in Méntsala.
+
+Figure 9 shows the measured (red) and reproduced (black) GIC values in Méntsala. The correlation coefficient
+between these two quantities, determined for period from 16:00 UT to 23:00 UT on April 23 (Fig. 9a) is ~ 0.73
+. As can be seen from Fig. 9a, the modeled GIC values present two strong peaks before Event I (marked by
+a vertical red dashed line). More precisely, the first peak reflects the intensification in the E-field, right after
+19:03 UT, as seen in Figs. 3 and 4 and discussed above. However, the value of modeled GIC is much higher
+(~ 50 A) than the measured GIC (~ 27 A). In the light of the discussion by Oliveira et al.””, it worth underlying
+that the moment of appearance of this GIC > 20 A is ~ 1.5 h after the interplanetary shock (Fig. 2, dashed
+vertical line). The second peak observed in the modeled GIC (~ —30 A) around 19:32 UT, is not consistent with
+the measured value.
+
+For time interval from 00:00 UT to 08:00 UT on April 24 (Fig. 9b), which contains strong Event II, the
+correlation between the measured and reproduced GICs is ~ 0.76, and in general presents better agreement than
+for Event I. Moreover, beside a strong change before 4:00 UT, GIC values are variable but without significant
+separate peaks presented in Fig. 9a. This observation seems to be in the agreement with the E analysis performed
+in previous sections.
+
+Figure 9c, which is an enlarged part of Fig. 9b, shows, however, that the modeled GIC values (with a
+maximum value of ~ 60 A) are significantly higher than the measured GICs just before Event II between ~
+3:50 and ~3:54 UT on April 24. For comparison, Despirack et al.** reported very strong GICs at VKH (~ 45 A)
+at ~3:30-3:50 UT. Cordell et al."* showed even higher GICs between ~2:00 and ~3:00 UT on April 24, ~ 118
+A at Ellerslie substation (53.43° N, —113.46° W) and 63.0 A at Keephills (53.45° N, —114.45° W), located in
+Canada. A systematic analysis of subsequent moments of the GIC time series in Fig. 9b does not indicate similar
+discrepancies.
+
+It is worth noting that by applying the same GEDMap procedure, we reproduced the GICs in Méntsala during
+the geomagnetic storm of September 7-8, 2017, with a much better accuracy®. This raises a question about the
+reasons for the observed discrepancy for the present storm. Strong and rapid variations in the direction of the
+E-fields, as well as the influence of network parameters a and b on the level of the GICs, could lead to potential
+GIC overestimation. Additionally, the slow degradation of the measurement system in Mantsala, as recently
+suggested by Kruglyakov et al.”®, could be another explanation. Finally, various studies have confirmed the
+usefulness of the 1-D conductivity model in GICs modeling from geomagnetic data*”®". In particular, Dimmock
+et al.”’ showed the lack of significant lateral ground conductivity gradients at Mantsila, thus justifying the use
+of 1-D models at that location. Moreover, Dimmock et al.*’ carried out 3-D geoelctric field and GIC modeling
+in the Fennoscandian region for the September 7-8, 2017 geomagnetic storm. The authors, based on the E-field
+values simulated in the SMAP and by using the network parameters a and b taken from Pulkkinen et al.*°
+and considered in this work, performed GIC modeling at Mantséla. Their results showed that the modeled
+GIC values needed be scaled by a factor of 4 to correspond to the GIC measured at Miéntsala (see Fig. 12c¢
+in Dimmock et al.*). Marshalko et al.®! performed 3-D ground E-field modeling in Fennoscandia for three
+days of the Halloween geomagnetic storm (October 29-31, 2003) using a 3-D conductivity model of the region
+and three three different approaches to source approximation. Their calculations of GIC, based on the E-field
+simulated at Mantsila, overestimated the measured values by a factor of 4-6 for all modeling techniques and
+finally the scaling procedure of modeled GICs by a factor of 4.51 has been applied (see Fig. 10a—c in Marshalko
+et al.°"). One can speculate that the application of a similar 3-D conductivity model for the April 23-24 storm
+may lead to comparable overestimation effects in E-field modeling. However, a comprehensive and independent
+analysis is needed. On the other hand, applying an appropriate scaling factor or using other rapidly developing
+approaches in 3-D geoelectric field modeling seems to be a promising way to address the discrepancies observed
+between measured and modeled GIC during the April 23-24 storm?
+
+Summary and discussion
+
+In the present study, we focused on the analysis of the geoelectric field E over the European region during the
+severe geomagnetic storm on April 23-24, 2023. By applying various 1-D Earth resistivity models (EURHOM
+1D) and using geomagnetic data from 29 stations located across a wide range of latitudes and longitudes, we
+calculated the E-field, which is crucial for analyzing GICs. The E-field mapping was prepared using GEDMap
+procedure/code. Two separate events (Event I at 19:44:00 UT on April 23 and Event II at 03:54:20 UT on April
+24) were examined. Our results showed that:
+
+o The very high modeled values of E-field for the European region were identified on April 24, at stations SOL,
+
+DOB with the E peaks of ~ 1800 mV km! (at SOL) and ~ 3000 mV km (at DOB).
+
+The E-field exhibited strong longitudinal and magnetic latitudinal variability during the geomagnetic storm.
+
+« The model results indicate that significant E-field disturbances may also occur at lower magnetic latitudes,
+well below the auroral zone (e.g. the computed |E| for Oulujirvi was 1425.14 mV km" at 19:30 UT, while for
+the more northern magnetometer in Masi it was much lower value, namely 915.7 mV km").
+
+« The E-field direction changed from east to westward in Event II. At the same time the GIC values at Mantsala
+also reversed, with the positive values before the Event II and negative at the recovery phase.
+
+« Event II was associated with the local substorm-like intensification with intense magnetic pulsations in the
+
+IMAGE magnetometers as well as at magnetometers located in Siberia, the Urals and in the Karelia region“.
+Moreover, in the light of the thorough analysis of specific events (Event I and Event II), a few noteworthy
+additional observations can be made. During the Event I the highest values of E-field were observed near the
+Arctic Circle at the moment when the extreme value of SML index was reached. Event II showed more significant
+
+Scientific Reports | (2024) 14:25074 | https://doi.org/10.1038/s41598-024-76449-7 nature portfolio

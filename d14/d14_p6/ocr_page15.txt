@@ -1,0 +1,80 @@
+name | voltage | V,. ¢ f(V)
+Tiel 526 500 | single | 1/7
+Tie2 525 500 | single | 1/7
+Tied 525 500 | single | 1/7
+Tied 525 500 | three | 1/4
+Tieb 525 500 | three | 1/4
+Tie6 500 500 | single | 1/7
+Tie7 500 500 | single | 1/7
+Tie8 525 500 | single | 1/7
+Tie9 500 500 | three | 1/4
+
+TielO 525 500 | three | 1/4
+
+Tiell 735 765 | single | 1/3
+
+Tiel2 765 765 | single | 1/3
+
+Tiel3 746 765 | single | 1/3
+
+Tield 400 345 | single | 1/7
+
+Tiel5 | 420 | 345 | single | 1/7
+
+Tiel6 433 500 | single | 1/7
+
+Tiel? | 410 | 345 | single | 1/7
+
+Tiel8 420 345 | three | 1/9
+
+Tiel9 400 345 | three | 1/9
+
+Tie20 | 405 | 345 | single | 1/7
+
+Tie21 | 405 | 345 | three | 1/9
+
+Tie22 | 400 | 345 | three | 1/9
+
+Tie23 420 345 | three 1/9
+
+Tie24 335 345 | single | 1/7
+
+Tie25 345 345 | single | 1/7
+
+Tie26 275 230 | three | 1/7
+
+Tie27 275 230 | three | 1/7
+
+Tie28 | 330 | 345 | three | 1/9
+
+T1e29 345 345 | single | 1/7
+
+Tie30 345 345 | three 1/9
+
+Tie31 345 345 | three | 1/9
+
+Tie32 345 345 | three | 1/9
+
+Tie33 230 230 | single | 1/5
+
+Tie34 231 230 | single | 1/5
+
+Tie35 230 230 | single | 1/5
+
+Tie36 230 230 | three | 1/7
+
+Tie37 230 230 | three | 1/7
+
+Tie38 230 230 | three | 1/7
+
+Tie39 242 230 | single | 1/5
+
+Tie40 240 230 | single | 1/5
+
+Tie41 225 230 | three | 1/7
+
+Tied2 230 230 | three | 1/7
+
+Table 1: Transformer categories. V, is the voltage class from the main text, ¢ is
+phase, f(V.) is the fraction for the transformer type. Values acquired from 3.
+D

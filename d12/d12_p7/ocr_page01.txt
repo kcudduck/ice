@@ -1,0 +1,19 @@
+Confidential manuscript submitted to Journal of Geophysical Research: Oceans
+On Tsunami Waves induced by Atmospheric Pressure Shock Waves after the
+2022 Hunga Tonga-Hunga Ha'apai Volcano Eruption
+Zhiyuan Ren!, Pablo Higuera'-, Philip Li-Fan Liu!-**>
+"Department of Civil and Environmental Engineering, National University of Singapore,
+Singapore
+‘Department of Civil and Environmental Engineering, The University of Auckland, New Zealand
+3School of Civil and Environmental Engineering, Cornell University, Ithaca, USA
+Hnstitute of Hydrological and Oceanic Sciences, National Central University, Taiwan
+"Department of Hydraulic and Ocean Engineering, National Cheng Kung University, Taiwan
+Corresponding author: phigueracoastal(@gmail.com
+Key Points
+1. Using the measured data, an N-wave shaped atmospheric pressure model 1s constructed for the
+2022 Tonga event.
+2. The atmospheric pressures generate both locked waves, propagating at the speed of pressure,
+and trailing free waves with a long wave speed.
+3. The trailing free tsunami waves can be as significant as the leading locked tsunami waves, which
+are amplified by the Proudman resonance.
+1

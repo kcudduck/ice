@@ -1,0 +1,33 @@
+The role of geomagnetic storm-induced energet... https://www.sclencedirect.com/science/article...
+day of the...
+Discussion
+In the present study, we analyzed the production of EPPs by eight geomagnetic storms
+based on their intensities and drivers during solar cycle 24. We also investigated the
+role of these particles in the ionization of the ionosphere and irregularities generation
+in the ionosphere. The EPP interacts with neutrals in the upper atmosphere through
+secondary emission, a process where more energetic particles knock out electrons,
+producing more electrons and ions. The rate at which this occurs varies ...
+Conclusion
+Eight geomagnetic storms, classified according to their intensities and drivers, and
+their capabilities to generate EPPs were investigated. Furthermore, the responses of
+the American and African ionospheric TEC and irregularities to the EPPs were also
+investigated. The enhanced electron flux induced by the intense sheath-driven storm
+caused enhancement in TEC and 1onospheric irregularities in the African low-latitude
+and the American high-latitude. Conversely, the enhanced EPP induced by the ...
+CRediT authorship contribution statement
+B.A. Ojapinwa: Writing - original draft, Software, Resources, Methodology,
+Investigation, Data curation, Conceptualization. E.O. Oyeyemi: Visualization,
+Validation, Supervision, Investigation, Formal analysis. A.O. Akala: Writing - review &
+editing, Visualization, Validation, Supervision, Project administration, Formal analysis,
+Conceptualization. ...
+Declaration of competing interest
+The authors declare that they have no known competing financial interests or
+personal relationships that could have appeared to influence the work reported in this
+paper. ...
+Acknowledgements
+The authors would like to thank the ACE Science Centre, the Kyoto World Data centre,
+and the NOAA personnel who developed, maintain, and operate the NOAA/POES
+spacecraft. We also thank the personnel of Omniweb as well as UNAVCO for making
+their data readily available. We also acknowledge http://pcindex.org x, for providing
+
+6 of 8 27/09/2025, 18:11

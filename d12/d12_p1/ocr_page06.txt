@@ -1,0 +1,25 @@
+turbulent mixing cannot be ignored. Therefore resuspension has to be taken
+into account. The generation of each individual portion of the tsunami sedi-
+ment based on flow condition is the fundamental part to reconstruct tsunami
+deposits. For the entire deposit, the basic process is to calculate sediment
+thickness (9 (z) for each grain size at each point along the slope by using
+Eq and (4) from Soulsby’s model. We assume that the depth averaged
+sediment concentration Cy in Eq is the reference sediment concentration
+C. here. The reference concentration is calculated for a given flow condition
+with [Madsen et al. [1993]:
+O(4) — bo(1 =p) FSH (7)
+" 1 + [pS
+where (3, is the resuspension coefficient, f%) is a fraction of the sediment of
+grain size i. S is the normalized excess shear stress given by
+56) _ EE n> (8)
+0 7 <7
+where 73 1s the bed shear stress and iY is the critical shear stress of the
+initial sediment movement for grain size 7 [Madsen et al|[1993|.
+For a given location x, the grain-size distribution for the entire tsunami
+deposit is given by:
+Fi = _ Mm) i=1,2,3,...,N (9)
+> _i—o CW (2)
+where f() is the percentage of grain size i in the entire sediment, (V(x) is
+sediment thickness of grain size ¢ and SN (% (x) is total deposit thickness
+for all grain sizes. NN is the number of grain size classes.
+6

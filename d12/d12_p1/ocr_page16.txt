@@ -1,0 +1,29 @@
+the flow condition. Tsunami wave amplitudes calculated by TSUFLIND are
+usually larger than real amplitudes, because the mathematical relationship
+(Eq 16) is from frictionless shallow water equations that ignore the effect of
+friction.
+4.2. Model limitation and improvement
+
+In this study, we combine three tsunami inversion models to simulate
+tsunami deposit and estimate tsunami flow parameters. All three of these
+models are based on some model-specified basic assumptions. A significant
+assumption of TSUFLIND is that the sediment transport and the deposition
+process during a tsunami are considered uniform in space and time. Conse-
+quently, the deposit comes from both horizontal convergence and suspension
+settling. TSUFLIND combines Sousby’s model and TsuSedMod to simulate
+these two processes. This combination greatly improves the grain-size dis-
+tribution simulation results. However, when the tsunami flow decelerates
+rapidly because of bathymetry changes or any other reasons, some part of
+the sediment deposited before will be eroded again. If the flow is strong
+enough, a significant part of tsunami deposit may be eroded, just like the
+result shown in Figure 3c from shoreline to 100 meters in land. As a result,
+the tsunami speed calculated by TSUFLIND will be underestimated.
+
+Another significant assumption of TSUFLIND is that most of tsunami
+deposits 1s transported by the suspension load and ignores the contribu-
+tion of the bed load. This assumption will overestimate the tsunami How
+speed and increase the percentage of coarse grains in the grain-size distribu-
+tion. TSUFLIND is not applicable where bed load is the dominant sediment
+transport type. In most tsunami cases, tsunami deposits include both bed
+
+16

@@ -1,0 +1,29 @@
+Confidential manuscript submitted to Journal of Geophysical Research: Oceans
+Moreover, because they have been generated some time after the explosion and some distance
+away from Tonga, their expected arrival time 1s still prior to the expected (original) trailing wave
+arrival. Therefore, wave scattering 1s most likely the reason why 1n Figure 8 some of the stations
+present significant waves arriving after the leading wave, but before the expected arrival time of
+the trailing wave. Moreover, 1t can also be observed that in the Northwest Pacific, which 1s free
+from the effects of Tonga Trench, the highest amplitude overall 1s produced by the leading wave.
+In addition to the larger wave heights in the Southeast Pacific, panel (a) presents interesting
+finger-like features in which the maximum wave amplitude 1s larger. Upon closer inspection, these
+may have been produced by wave concentration due to the bathymetry features. For example, the
+south-most feature appears to correlate with the location of the Louiseville Ridge, east of New
+Zealand. The fingers channeling wave energy east are likely enhanced by the Manihiki Plateau
+(2,500 m water depth 1n an area that 1s almost 5,000 m deep), the Tuamotu Archipelago, before
+following the Sala y Gomez and Nazca ridges towards the coasts of Peru, where two people
+drowned and an o1l-spill occurred due to the 2 m high tsunami waves.
+3 20{ N NS 7 = cu
+0 A A go | Ne 0.1
+o ONE ge oy ete *
+® -20 AT NG Te TE
+~ YR 5 sf 0.05
+-40) NE resi -
+60 >
+100 120 140 160 180 200 220 240 260 280 300
+Longitude (degree)
+Figure 12 Distribution of the maximum tsunami amplitudes of the leading wave based on the
+formulation in Liu and Higuera (2022). See Figure 11 caption for further context.
+It 1s well known that under simple conditions (1.e., constant water depth, shallow water wave
+regime) the ocean locked wave has the same shape as the pressure wave, and 1ts amplitude 1s
+26

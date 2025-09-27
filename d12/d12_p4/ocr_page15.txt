@@ -1,0 +1,126 @@
+Arg ;
+MI Journal of Geophysical Research: Oceans 10.1029/2020JC017011 2
+AND SPACE SCIENCE >
+£ a= 20km, V,=(gghy) 2 400s 600s Z
+
+E ~ JN ;
+
+Oo) 2
+
+IT 0 — — << __— pr 2:
+
+C g
+
+t= 2 5
+
+Tm 5
+
+3 oT
+
+4 >
+
+-50 0 50 100 150 =
+
+Distance [km] =
+
+S
+
+Figure 4. Tsunami height distributions for various elapsed times (t = 200, 400, 600 s). The source is given by 2
+Equation 57 where the peak pressure change is Py = —1 mH,0 (~ -9.8 kPa), the spatial scale is given by a = 20 km, and 7
+the velocity is given by V, = 0.2 km/s (= \/g hy, and hy = 4 km). 2
+7x1) :
+
+E
+
+1 00 | 1 1 A ik (x— 3
+
+— —— Jy dk, Rel ju (ke! | =
+
+7 Poo 1 _ VY 1+ VY 5
+
+c C g
+
+1 E ik 0) S
+
+——Re k.)e™ H(t S
+
+re] (k2)e' :
+
+1 00 1 1 1 A I xX+c g
+
+# fod, ———Re| p(k)" | (1) 4
+
+r 2 pogo 1, Yo 2
+
+E
+
+’ :
+
+1 a.
+
+l too 1 1 1 AV . ik (x— s
+
+— —— [dk ———— — ] — —— Re| ji (ke! | 2
+
+TT Po8o AV | 2 2 c S
+
+1 A ik (x-Vor) _ik wr] :
+
+——Re k_ le” e H(t S
+
+Re 7k) 1
+
+~1 =
+
+1 00 1 1 1 1 A ~ I xX+c 3
+
+re (EC Re| p(k. Je" ’ | (1) P)
+
+TT 2 po8o 2 2 c g
+
+| 1 1 . ik (x— —i =
+
+~ —— | dk, Le] 1 (ke (1 —e av) :
+
+T Pogo AV 2 (64) :
+
+1 AV ik (x-Vpt) 5
+
++———p lk, Je H(t s
+
+4 A ‘) | ) 5
+
+lw, 1 1 1, 1A A ie (xc :
+
+LL fray —2) +BY Jee] 1) “me
+
+T 2 p80 2 2 c 2
+
+l co 1 A ky x— =
+
+~ [dk —ctRe| ik, (ke! ) |H 1) a
+
+g 2080 5
+
+l co 1 N ik, | x— =z
+
+-— Jpdko Re p(k) ho :
+
+T 40080 5
+
+| J | N iky|x+c =
+
++ fod, —Re| p(k)" i )|Ho). z
+
+7T 4008 >
+
+In particular, when the wavelength is much longer than the sea depth, kh, < 1, the phase velocity c is inde- :
+pendent of the wavenumber. Also, using the relation :
+2 (x) _L | dk" p(k.) = Lf ak Ref ee, (k, )| (65) :
+
+27 —o 7T 0 E
+
+:
+
+_—
+SAITO ET AL. 15029  §

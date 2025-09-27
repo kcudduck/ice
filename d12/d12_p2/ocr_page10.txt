@@ -1,0 +1,35 @@
+2.4 Finite rectangular source 10
+Let us introduce the following notation:
+p=1ycosd+dsing, ¢g=ysino— dcoso,
+J =n coso + qsin 9, d = Nsind — q cos 0,
+Rin =432 +d X2 = 24 2
+The quantities U;, Us and Us are linked to Burger's vector through the
+identities
+Uy = |D|cos¢pcosf, Us; =|D|cos¢sing, Us= |D|sin¢.
+For a strike-slip dislocation, one has
+Us £q En
+= — | ——— tan — + [ 0
+U1 5 (ts +a WRT 1 Sn
+U, Uq q COS 0 | )
+= — | —=— + —— + Lind ||,
+= om (7 R+n °°
+Uj dq g sin 0
+= — | ——+Z— + I;sind ||.
+i om (is R+n °°
+For a dip-slip dislocation, one has
+U.
+up = — ( — Is sind cos 0) |
+7 .
+Uy = —o (mt + cos 0 arctan hy — [sin 0 cos ) |
+U d
+U3 = —o (os + sin 0 arctan Jy — Is ins) |
+For a tensile fault dislocation, one has
+Us q° . 9
+= —|——-1 0
+tT on (7+ © )| |
+Us —dgq £q 2 . 9
+Ug = — | ———— — sind |——— —arctan—| — [;sin“0 |||,
+’ 27 (7s Ea qR :
+Us 74 | §q a 4 ) |
+Us = — | ——— 4+ cos0 |———— —arctan—| — I5sin“9 |||.
+’ 27 (Fe R(R +n) qR ’

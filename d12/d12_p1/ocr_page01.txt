@@ -1,0 +1,33 @@
+A Model tor TSUnami FLow INversion trom Deposits
+(TSUFLIND)
+Vg
+—
+= Hui Tang®*, Robert Weiss?
+2d) Department of Geoscience, Virginia Polytechnic State University, United States
+=)
+NE— -
+— Abstract
+=
+T
+Q Co
+0 Keywords: Tsunami, Tsunami sediment, Sediment transport, Flow depth,
+75 Flow speed, Inversion model
+= EE —————
+AN
+z= 1. Introduction
+Q,
+md
+~ The tsunami events that occurred over the last decades have caused an
+2 increase In public awareness and resulted in more research on the tsunami
+© wave. Tsunami deposits play an important role not only in tsunami hazard
+= assessments, but also in interpreting tsunami hydraulics [Hutchinson et al.
+= 1997; Moore et al. 2007; Jaffe and Gelfenbuam 2007|. To draw any useful
+nl quantitative conclusions from tsunami deposits, the information from de-
+> posits about the causative tsunami needs to be extracted either by com-
+>< paring parameters from the deposits with results from forward models [see
+aw
+Bourgeois et al.|1988; Martin et al.|2008| or by inversion models directly [see
+Nott 1997; Noormets et al. 2004; Jafle and Geltenbuam 2007; Moore et al.
+*Corresponding author
+Email address: tanghui@vt.edu (Hui Tang)
+Preprint submitted to Marine Geology April 13, 2018

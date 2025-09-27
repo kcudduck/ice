@@ -1,0 +1,77 @@
+Torsional Alfvén waves in rotating magnetars 889
+We have investigated the spatial structure of the perturbed electro- Feroci M., Duncan R. C., Thompson C., 2001, ApJ, 549, 1021
+magnetic fields propagating in the rotating plasma, when standing Gogus E., Woods P. M., Kouveliotou C., van Paradijs J., Briggs M. S.,
+Alfvén waves are formed. Resonance in the plasma cavity for high Duncan R. C., Thompson C., 1999, Ap], 526, L93 |
+m modes has another spectacular aspect. At some points magnetic Gogus E., Woods P. M., Kouveliotou C., van Paradyjs J., Briggs M. S.,
+fields of the Alfvén waves are drastically amplified even up to a few Duncan R. C., Thompson C., 2000, ApJ, 532, L121
+5. : Hollweg J. V., 1983, Solar Phys., 91, 269
+10° times as large as those in the absence of plasma or in the static
+Th lifent; b Chef dl lained b Huang Y. F., Dai Z. G., Lu T., 1998, Chin. Phys. Lett., 15, 775
+exterior. This ampli cation can be straightforwardly explained by Hurley K. et al., 1999a, ApJ, 510, L111
+both the transmission enhancement due to resonance and the con- Hurley K. et al., 1999b, Nat, 397, 41
+servation of WKB energy flux. Hurley K. et al., 2000, ApJ, 528, L21
+In this way, once the Alfvén waves are resonantly excited and Hurley K. et al., 2005, Nat, 434, 1098
+transmissions are greatly enhanced, a substantial part of the wave Kojima Y., Okita T., 2004, ApJ, 614, 922
+energy will probably be transferred into the ambient charged par- Kouveliotou C. et al., 1993, Nat, 362, 728
+ticles such as electrons or positrons confined within the fireballs Kouveliotou C. et al., 1998, Nat, 393, 235 -
+associated with the bursts on magnetars. The charged particles en- Leonovich A. 5., Mazur V. A., 1997, Ann. Geophys., 16, 500 2
+twined around magnetic field lines will then be violently swayed. LiB., Wang 5., 2001, A&A, 25, 446 =}
+Mazets E. P., Golentskii S. V., Ilinski1 V. N., Aptekar R. L., Guryan Iu. A., Oo
+These disturbances may eventually produce high-energy gamma- 19794. Nat. 289. 587 >
+«. . . ’ ’ ’ (¢)]
+ray or X-ray emissions from the magnetars. More importantly, if Mazets E. P., Golenetskii S. V., Gur'yan Yu. A., 1979b, SVAL, 5(6), 343 =
+magnetic field lines at some altitudes are strongly distorted from Mazets E. P., Cline T. L., Aptekar’ R. L., Butterworth P. S., Frederiks =
+equilibrium state by resonance and plasma fluid contracts into the D. D., Golenetskii S. V., I'Inskii V. N., Pal’Shin V. D., 1999, Astron. -
+surface, the field lines with antiparallel components will approach Lett., 25(10), 635 5
+each other. Such geometry of field lines will give rise to possible Mereghetti S., 2002, in Kouveliotou C., Ventura J., van den Heuvel E. P. J., 5
+magnetic reconnection type events as Thompson & Duncan (2001) eds, The Neutron Star—-Black Hole Connection. Reidel, Dordrecht Q
+have suggested. Mereghetti S., Stella L., 1995, ApJ, 4472, L17 =
+The behaviour of resonant magnetohydrodynamics waves within Mereghetti S., Chiarlone L., Israel G. L., Stella L., 2002, in Becker W., Lesch 3
+. : oO
+the corona or spicules erupted from the solar surface has been stud- H., Triimper J., eds, Proc. 270th WE-Heraeus Seminar on Neutron Stars, 0
+: Pulsars, and Supernova Remnants, MPE Report 278. MPI, Garching, 5
+ied so far. In fact, field line resonance has been found to occur on pu
+ic shells in th here of the Earth. H hei p- 29 :
+magnetic SHES 1m U € magnetosp cre of the Earth. However, their Mereghetti S., Gotz D., von Kienlin A., Rau A., Lichti G., Weidenspointner =]
+physical treatment 1s inevitably restricted to the very weak mag- G., Jean P., 2005, ApJ, 624, 1.105 3
+netic fields. The resonant property found in our magnetar model 1s Pacini F., Ruderman M., 1974, Nat, 251, 399 0
+very similar to that in solar astrophysics or planetary physics. We Palmer D. M. et al., 2005, Nat, 434, 1107 oy
+can expect that the same mechanism works also on the relativistic Rea N., Tiengo A., Mereghetti S., Israel G. L., Zane S., TurollaR., Stella L., o
+Alfvén waves even in a different environment, that is, in an extreme 2005, ApJ, 627, L133 >
+circumstance accompanied by very strong magnetic fields such as Shiff L. I., 1968, Quantum Mechanics, 3rd edn. McGraw-Hill, New York x
+magnetars. Sterling A. C., Hollweg J. V., 1984, ApJ, 285, 843 <
+As a final remark, we address the angular velocity 2 of the star Thompson C., Duncan R. C., 2001, ApJ, 561, 980 | OS
+: Thompson C., Duncan R. C., Woods P. M., Kouveliotou C., Finger M. H., ry
+and the azimuthal wavenumber m. In our model, the rotating back- . —~
+dis th h dtoh locity O — van Paradijs J., 2000, ApJ, 543, 340 Q
+groun 1s t roug out assumed to ave a slow angular ve ocity 2 = Waters C. L.. 2000, Adv. Space Res. 25(7/8). 1541 2
+I's™", which is actually observed in SGRs and AXPs. We concen- Wolfgang B., Rudolf A. T., 1996, Basic Space Plasma Physics. Imperial ©
+trate our treatment on the torsional waves with a specific value m = College Press, London S
+10° as a possible limit of high m. As shown in our work, the striking <
+behaviour of the resonance necessarily requires high-order torsional 2]
+modes, m > 1s71) ~ 10-109. It is not clear whether or not such S
+m > o/(1s) oo | APPENDIX A: RESONANCE MECHANISM >
+modes with high wavenumber m realistically exist on the magne- ~
+tars. However, one should keep it in mind that the local dispersion The physical effects of y can be clarified by taking some explicit PD
+relation of the Alfvén waves 1s almost determined by the coupled limits. Specifically, if we 1gnore the substantial thickness of the 2
+quantity m€2 except for the high-frequency regime. This means that plasma layer L — 0, then the wavenumber of region (2) should be =
+the physical behaviour of the wave with high m = 10°-10° on the replaced with that of region (3), KY — k®. This yields that 3c, — N
+slowly rotating background © = 1 s™! is essentially equivalent to 2k® 3c. — 0 and y — 1. In this limit, the boundary condition Q
+that of small m = 1-10’ and fast rotation 2 = 10° s~!. Neutron reduces to d/dz[In&] = ik®, which clearly corresponds to the 7
+stars are often expected to have been a rapid rotator with 2 ~ simple case that the exterior of the star 1s filled with pure vacuum
+10° s~! at a star-born period. Our results would thus become much or static plasma gas. While, if we imagine the very huge plasma gas
+more effective especially on young magnetars. corotating in the exterior and take the limit formally LL — oo, then
+the wavenumber of region (3) should be equal to that of region (2),
+ACKNOWLEDGMENTS k® — kk). We thus have that sc, — 2k, 22. — Oand y — 1,
+| | | Co Co which yield the boundary condition d/dz[In £?'] = ikP.
+This work 1s supported in part by Grants-in-Aid for Scientific Re- ..
+We can draw some important facts from the boundary condition
+search (14047215, 16029207 and 16540256) from the Japanese CL
+Ministry of Education. Cult Sports. Sci 4 Technol (35). Especially when the wavenumber satisfies the periodic condi-
+HHISILY OF BOUCALION, LATIUIE, SPOILS, SCIENCE, aid 1Chnoogy: tion x. L =nnt(n=1,2,...), this yields y = k® /k? and thereby
+the boundary condition for pure vacuum is recovered d/dz[In £1 =
+REFERENCES 1.3) ,
+1k’. The background rotation has no influence only on the Alfvén
+Blaes O., Blandford R., Goldreich P., Madau P., 1989, ApJ, 343, 839 waves satisfied with this condition. Whereas, when the wavenum-
+Cheng B., Epstein R. I., Guyer R. A., Young C., 1996, Nat, 382, 518 ber satisfies the another periodic condition sz. L = (2n — 1)7t/2
+© 2005 The Authors. Journal compilation © 2005 RAS, MNRAS 364, 879-890

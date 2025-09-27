@@ -1,0 +1,125 @@
+www.nature.com/scientificreports/
+
+22. Hajra, R., Tsurutani, B. T., Lakhina, G. S., Lu, Q. & Du, A. Interplanetary causes and impacts of the 2024 May superstorm on the
+geosphere: An overview. Astrophys. J. 974, 264. https://doi.org/10.3847/1538-4357/ad7462 (2024).
+
+23. Hajra, R. et al. The April 2023 SYM-H = -233 nT geomagnetic storm: A classical event. J. Geophys. Res. Space Phys. 129,
+€2024]JA032986. https://doi.org/10.1029/2024]JA032986 (2024).
+
+24. Despirak, I. et al. Geomagnetically induced currents (GICs) during strong geomagnetic activity (storms, substorms, and magnetic
+pulsations) on 23-24 April 2023. J. Atmos. Solar Terr. Phys. 261, 106293. https://doi.org/10.1016/j.jastp.2024.106293 (2024).
+
+25. Pirjola, R. & Lehtinen, M. Currents produced in the Finnish 400 kV power transmission grid and in the Finnish natural gas
+pipeline by geomagnetically induced electric fields. Ann. Geophys. 3, 485-491 (1985).
+
+26. Pulkkinen, A., Viljanen, A., Pajunpai, K. & Pirjola, R. Recordings and occurrence of geomagnetically induced currents in the
+finnish natural gas pipeline network. J. Appl. Geophys. 48, 219-231. https://doi.org/10.1016/50926-9851(01)00108-2 (2001).
+
+27. Viljanen, A. et al. Recordings of geomagnetically induced currents and a nowcasting service of the finnish natural gas pipeline
+system. Space Weather 4, S10004. https://doi.org/10.1029/2006SW 000234 (2006).
+
+28. Boteler, D. H., Pirjola, R. J. & Marti, L. Analytic calculation of geoelectric fields due to geomagnetic disturbances: A test case. IEEE
+Access 7, 147029-147037. https://doi.org/10.1109/ACCESS.2019.2945530 (2019).
+
+29. Boteler, D. H. & Pirjola, R. J. Numerical calculation of geoelectric fields that affect critical infrastructure. Int. J. Geosci. 10, 930-949.
+https://doi.org/10.4236/ijg.2019.1010053 (2019).
+
+30. Abda,Z. M. K., Aziz, N. FE A., Kadir, M. Z. A. A. & Rhazalij, Z. A. A review of geomagnetically induced current effects on electrical
+power system: Principles and theory. IEEE Access 8, 200237-200258. https://doi.org/10.1109/ACCESS.2020.3034347 (2020).
+
+31. Weaver, J. T. Mathematical methods for geo-electromagnetic induction, vol. 7 (Taunton, Somerset, England: Research Studies Press;
+New York: Wiley, 1994).
+
+32. Trichtchenko, L. & Boteler, D. H. Modelling of geomagnetic induction in pipelines. Ann. Geophys. 20, 1063-1072. https://doi.
+org/10.5194/angeo-20-1063-2002 (2002).
+
+33. Adam, A., Pracser, E. & Wesztergom, V. Estimation of the electric resistivity distribution (EURHOM) in the european lithosphere
+in the frame of the eurisgic WP2 project. Acta Geodaetica et Geophysica Hungarica 47, 377-387. https://doi.org/10.1556/
+ageod.47.2012.4.1 (2012).
+
+34. Viljanen, A., Pirjola, R., Pracser, E., Katkalov, J. & Wik, M. Geomagnetically induced currents in Europe - modelled occurrence in
+a continent-wide power grid. J. Sp. Weather Sp. Clim. 4, A09. https://doi.org/10.1051/swsc/2014006 (2014).
+
+35. Gil, A. etal. Evaluating the relationship between strong geomagnetic storms and electric grid failures in poland using the geoelectric
+field as a gic proxy. J. Space Weather Space Clim. 11, 30. https://doi.org/10.1051/swsc/2021013 (2021).
+
+36. Beggan, C. D., Richardson, G. S., Baillie, O., Hiibert, J. & Thomson, A. W. P. Geolectric field measurement, modelling and validation
+during geomagnetic storms in the UK. J. Space Weather Space Clim. 11, 37. https://doi.org/10.1051/swsc/2021022 (2021).
+
+37. Boteler, D. On choosing fourier transforms for practical geoscience applications. Int. J. Geosci. 3, 952-959. https://doi.org/10.4236/
+1j2.2012.325096 (2012).
+
+38. de Boor, C. A Practical Guide to Spline, vol. 27 (New York: Springer, 1978, 1978).
+
+39. Sibson, R. A brief description of natural neighbour interpolation (John Wiley & Sons, 1981).
+
+40. Dimmock, A. P. et al. The GIC and geomagnetic response over Fennoscandia to the 7-8 September 2017 geomagnetic storm. Space
+Weather 17, 989-1010. https://doi.org/10.1029/2018SW002132 (2019).
+
+41. Clilverd, M. A. et al. Geomagnetically induced currents during the 07-08 September 2017 disturbed period: a global perspective.
+J. Space Weather Space Clim. 11, 33. https://doi.org/10.1051/swsc/2021014 (2021).
+
+42. Sambridge, M., Braun, J. & McQueen, H. Geophysical parametrization and interpolation of irregular data using natural neighbours.
+Geophys. J. Int. 122, 837-857. https://doi.org/10.1111/j.1365-246X.1995.tb06841.x (1995).
+
+43. Gjerloev, J. W. The SuperMAG data processing technique. J. Geophys. Res. (Space Physics) 117, A09213. https://doi.
+org/10.1029/2012JA017683 (2012).
+
+44. Newell, P. T. & Gijerloev, J. W. Evaluation of SuperMAG auroral electrojet indices as indicators of substorms and auroral power. J.
+Geophys. Res. (Space Phys.) 116, A12211. https://doi.org/10.1029/2011JA016779 (2011).
+
+45. Kennel, C. E, Edmiston, J. P. & Hada, T. A Quarter Century of Collisionless Shock Research, 1-36 (American Geophysical Union
+(AGU), 1985).
+
+46. Tsurutani, B. T., Gonzalez, W. D., Tang, FE, Akasofu, S. I. & Smith, E. J. Origin of interplanetary southward magnetic fields
+responsible for major magnetic storms near solar maximum (1978-1979). J. Geophys. Res. Space Phys. 93, 8519-8531. https://doi.
+org/10.1029/JA093iA08p08519 (1988).
+
+47. Abraham-Shrauner, B. Determination of magnetohydrodynamic shock normals. J. Geophys. Res. 77, 736-739. https://doi.
+org/10.1029/JA077i004p00736 (1972).
+
+48. Rankine, W. J. M. XV. on the thermodynamic theory of waves of finite longitudinal disturbance. Philos. Trans. R. Soc. Lond. 160,
+277-288. https://doi.org/10.1098/rstl.1870.0015 (1870).
+
+49. Hugoniot, H. Memoire sur la propagation des mouvements dans les corps et specialement dans les gaz parfaits (premiere partie).
+J. de I Ecole Polytechnique 57, 3-97 (1887).
+
+50. Hugoniot, H. Memoire sur la propagation des mouvements dans les corps et specialement dans les gaz parfaits (deuxieme partie).
+J. de I Ecole Polytechnique 58, 1-125 (1889).
+
+51. Burlaga, L., Sittler, E., Mariani, E & Schwenn, R. Magnetic loop behind an interplanetary shock: Voyager, Helios, and IMP 8
+observations. J. Geophys. Res. Space Physics 86, 6673-6684. https://doi.org/10.1029/JA086iA08p06673 (1981).
+
+52. Gonzalez, W. D. & Tsurutani, B. T. Criteria of interplanetary parameters causing intense magnetic storms (dst << -100nt). Planet.
+Space Sci. 35, 1101-1109. https://doi.org/10.1016/0032-0633(87)90015-8 (1987).
+
+53. Marubashi, K. & Lepping, R. P. Long-duration magnetic clouds: a comparison of analyses using torus- and cylinder-shaped flux
+rope models. Ann. Geophys. 25, 2453-2477. https://doi.org/10.5194/angeo-25-2453-2007 (2007).
+
+54. Tsurutani, B. T., Hajra, R., Echer, E. & Gjerloev, J. W. Extremely intense (SML < —2500 nT) substorms: isolated events that are
+externally triggered?. Ann. Geophys. 33, 519-524. https://doi.org/10.5194/angeo-33-519-2015 (2015).
+
+55. Hajra, R., Tsurutani, B. T., Echer, E., Gonzalez, W. D. & Gjerloeyv, J. W. Supersubstorms (SML<-2500 nT): Magnetic storm and solar
+cycle dependences. J. Geophys. Res. Space Physics 121, 7805-7816. https://doi.org/10.1002/2015JA021835 (2016).
+
+56. Tsurutani, B. T. & Meng, C.-1. Interplanetary magnetic-field variations and substorm activity. J. Geophys. Res. 77, 2964-2970.
+https://doi.org/10.1029/JA077i016p02964 (1972).
+
+57. Tsurutani, B. T. & Hajra, R. Energetics of shock-triggered supersubstorms (SML< -2500 nT). Astrophys. J. 946, 17. https://doi.
+org/10.3847/1538-4357/acb143 (2023).
+
+58. Kruglyakov, M., Marshalko, E., Kuvshinov, A., Smirnov, M. & Viljanen, A. Multi-site transfer function approach for real-time
+modeling of the ground electric field induced by laterally-nonuniform ionospheric source. Space Weather 21, €2023SW003621.
+https://doi.org/10.1029/2023SW003621 (2023).
+
+59. Oliveira, D. M., Zesta, E. & Vidal-Luengo, S. First direct observations of interplanetary shock impact angle effects on actual
+geomagnetically induced currents: The case of the finnish natural gas pipeline system. Front. Astron. Space Sci. 11. https://doi.
+org/10.3389/fspas.2024.1392697 (2024).
+
+60. Wik, M. et al. Calculation of geomagnetically induced currents in the 400 kV power grid in southern Sweden. Space Weather 6,
+S07005. https://doi.org/10.1029/2007SW000343 (2008).
+
+61. Marshalko, E., Kruglyakov, M., Kuvshinov, A. & Viljanen, A. Three-dimensional modeling of the ground electric field in Fennoscandia
+during the Halloween geomagnetic storm. Space Weather 21, €2022SW003370. https://doi.org/10.1029/2022SW 003370 (2023).
+
+Scientific Reports | (2024) 14:25074 | https://doi.org/10.1038/541598-024-76449-7 nature portfolio

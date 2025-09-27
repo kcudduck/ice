@@ -1,0 +1,52 @@
+88 I. Charvet et al. / Ocean Modelling 69 (2013) 79-92
+a 3
+2
+- *
+S * * *
+2 * ®
+2
+30 SEP SE
+N * * *
+< * * * * *
+5° *
+ow
+2
+-3
+-4.6 -4.4 -4.2 -4 -3.8 -36 -3.4 -3.2
+log(pga”/E)
+b Normal Probability Plot
+—F
+= : : + : :
+£
+0.15 0.1 0.05 0 0.05 0.1
+Data
+Fig. 10. (a) Residual plot corresponding to the best fit for wave group E in < 1, This plot shows that the data is evenly distributed around the mean, within 2.5 standard
+deviations (i.e., good fit of the regression curve to the data). (b) Normal probability plot of the residuals: the normal distribution is represented by the red line, the
+corresponding distribution of the data is represented by the blue crosses. (For interpretation of the references to colour in this figure caption, the reader is referred to the web
+version of this article.)
+05
+d
+0
+05 mi
+$ eer
+15 heise a
+=" 4
+2
+25
+4.4 4.2 -4 -38 -36 34 3.2 -3
+logK+klog (ge)
+14
+1.2 b
+1
+g
+y es SSS SE
+02 pemmmme ETT
+0
+0.01 0.015 0.02 0.025 0.03 0.03% 0.04
+Kpoe'Ef
+Fig. 11. Results of the regression analysis for wave group E T < 1. (a) Equation (18) is represented in red, the 95% confidence intervals for the predicted variable are
+represented in blue dashes, and the 95% confidence intervals for the regression parameters are represented in green dashes (i.e., the maximum and minimum regression fit at
+this level of confidence is contained within the green asymptotes). The outliers (not taken into account in the regression) are represented in red. (b) Power law (19) and
+corresponding 95% confidence intervals for the predicted variable (in blue dashes),as well as 95% confidence intervals for the regression parameters k and K (in green dashes).
+The coordinates of the outliers (waves 6 and 7) are respectively (0.28; 0.21) and (0.27; 0.18). (For interpretation of the references to colour in this figure caption, the reader is
+referred to the web version of this article.)

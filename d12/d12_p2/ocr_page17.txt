@@ -1,0 +1,54 @@
+3.2 Dimensionless formulation 17
+integrated, the fields n(x, y,0) and ¢(x,y, z,0) must be specified at t = 0.
+The conservation of momentum equation (9) is not required in the solution
+procedure; it is used a posterior: to find the pressure p once n and ¢ have
+been found.
+
+In the following subsections, we will consider various approximations of
+the full water-wave equations. One is the system of Boussinesq equations,
+that retains nonlinearity and dispersion up to a certain order. Another one
+is the system of nonlinear shallow-water equations that retains nonlinearity
+but no dispersion. The simplest one is the system of linear shallow-water
+equations. The concept of shallow water is based on the smallness of the ratio
+between water depth and wave length. In the case of tsunamis propagating
+on the surface of deep oceans, one can consider that shallow-water theory is
+appropriate because the water depth (typically several kilometers) is much
+smaller than the wave length (typically several hundred kilometers).
+
+3.2 Dimensionless formulation
+The derivation of shallow-water type equations is a classical topic. Two
+dimensionless numbers, which are supposed to be small, are introduced:
+a d?
+a=—- <1, = — 1, 15
+
+‘<1 p=5 (15)
+
+where d 1s a typical water depth, a a typical wave amplitude and ¢ a typical
+
+wavelength. The assumptions on the smallness of these two numbers are
+
+satisfied for the Indian Ocean tsunami. Indeed the satellite altimetry obser-
+
+vations of the tsunami waves obtained by two satellites that passed over the
+
+Indian Ocean a couple of hours after the rupture occurred give an amplitude
+
+a of roughly 60 cm in the open ocean. The typical wavelength estimated
+
+from the width of the segments that experienced slip is between 160 and 240
+
+km Lay et al. [2005]. The water depth ranges from 4 km towards the west of
+
+the rupture to 1 km towards the east. These values give the following ranges
+for the two dimensionless numbers:
+
+15x10 <a<6x107* 1.7x107°<f<625x107% (16)
+
+The equations are more transparent when written in dimensionless variables.
+The new independent variables are
+
+v=0T, y=1Ly, =z=dz, t=1I0t/cy, (17)
+
+where cy = +/gd, the famous speed of propagation of tsunamis in the open
+
+ocean ranging from 356 km/h for a 1 km water depth to 712 km/h for a 4

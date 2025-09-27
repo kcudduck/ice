@@ -1,0 +1,28 @@
+For distances from the coastline larger than 120 meters, the deposit thickness
+simulation results matched well with the observations. However, the obser-
+vations are slightly larger due to the presence of topography change that may
+slow down the flow (Fig 3c and d). The finer grain-sizes contain the largest
+error between observation and model results is likely that the topography
+change is the main source of the error. However, the difference could also be
+a part of the model uncertainty.
+
+The calculated mean speed decreases from 4.7 ms™' to 3.3 ms! along
+the studied section. The speed decreases continuously shown as Fig 4a, the
+Froude number increases and then decreases (Figure 4b). The mean Froude
+number is around 0.9 for this test case. As the change rate of water depth is
+a constant based on Sousby’s model, the mean Froude number changes only
+depends on the velocity changes. At first, the flow speed decreases slower
+than the water depth, so the mean Froude number increases in this area (150
+m to 300m). After some point around 300 meters, the flow decelerates quickly
+and causes the Froude number to decrease. The flow speed and Froude num-
+ber results from TSUFLIND are shown as ranges of possible values with
+uncertainties (Figure 4a and 4b). In Figure 4, the gray area with solid line
+boundaries is the estimated flow speed or Froude number with maximum
+and minimum possible values. The dashed line is the mean value of the esti-
+mated flow speed or Froude number. The ranges of the speed and the Froude
+number decrease from 150m to 350m, which indicates the uncertainties de-
+crease towards the sample location close to the landward sediment pinch-out.
+It 1s possible that the tsunami deposits near the maximum run-up position
+become thin, well-sorted and fine-grained containing less information about
+
+15

@@ -1,0 +1,68 @@
+Confidential manuscript submitted to Journal of Geophysical Research: Oceans
+3 Results and Discussions
+3.1 Model/data comparisons
+(a) Air Pressure 0.5 h Pressure (hPa) 1h Pressure (hPa) 2h Pressure (hPa)
+2 a TEE The 2X TT nc TTT RRS TT ae RRS SX
+40 i i 3 40 ng ~~ 3 40 rl ra 3
+: 20 ¢& q y . Ce TN a, : 20 4 ; 3 Ce WN 1 4 20 #3 py . Ce TN a,
+° 0 NT c N A } E <A 0 T 0 Ni Fe N . N . . 0 o 0 Nf . N . N R - ;
+= . \ oi “Ee - = } - % “Ee } = i) & Ee i
+-40 25 7 ; 3 -40 N) Pe ) -3 -40 k>; a -3
+-60 hy 4 -60 oo oe -4 -60 oo - 4
+: . a 5 : a 5 : . 7 5
+100 150 200 250 300 100 150 200 250 300 100 150 200 250 300
+Longitude (degree) Longitude (degree) Longitude (degree)
+6h Pressure (hPa) 8h Pressure (hPa) 10 h Pressure (hPa)
+RR AS ¥-X — eR = SR at Xs
+60 y Fe i 4 60 ps, S\N A 60 / “ Fo Ea ] a .
+R 40 F 3 ¥ 3 40 ol) % CY 3 40 F 3
+S 20 0" Ce A 3 20 0" ER NN Cra, 23 20 g- So AN 2, 2
+5 x ; | ) TE 1 s xg “> TST LL = ; : >
+248 mE AR sl
+° A ' 74 N i . U T° \ . Ny : L ° Ay ¢ nN L i Bh
+S ° NL FINAN : CL . $ : ES A . ne i g i a= ? = om y Le \ ;
+5 -20 NE SEAR A £ 20 EC EE TE 20 ote The
+9 rig Co | 2 8 CL 2 CN Co -2
+-40 3 Py 3 -40 5 3 -40 ~ Py 3
+60 a = “4 60 4 60 = 4
+Ena. : J 5 : . ul 5 : x 5
+100 150 200 250 300 100 150 200 250 300 100 150 200 250 300
+Longitude (degree) Longitude (degree) Longitude (degree)
+(b) Tsunami 05h yo 1h nm 2h nm
+: = - Ba a AC yy . p= = a Rad => : > B TEE ee oR
+60 A FRET & A 0.04 o0 a iN PX 00a ; ee? ~~ 0:04
+40 1 g | > 0.03 4p OF | ag 0.03 40 Ne 5 ee 0.03
+F] 20 J" S AN <5, : 002 20 J." : a. AN 0.02 [] ol 3" | oo A 0.02
+ok ca Tec Yq Ny
+NL. JAA Tes TE : © 4 Gb EE : : ks N.. ASE Tee :
+s Nm © 3 NE ER NP
+2 SUN am -0.01 2 0 Uy 5) el -0.01 2 Lo oT (7% oa -0.01
+© co | 0.02 © oo | 0.02 © G2) h | -0.02
+-40 # i -0.03 -40 7 A i -0.03 -40 SV - -0.03
+-60 oo © -0.04 60 a > -0.04 60 . hing -0.04
+[—— . oF) 0.05 [——— : oF) 0.05 [re ; oF) -0.05
+100 150 200 250 300 100 150 200 250 300 100 150 200 250 300
+Longitude (degree) Longitude (degree) Longitude (degree)
+| 6h oo n (m) os | 8h ] rs 0 (M0 0s 10h S—— n (m)
+60 c FT Cs \ -~ ~ vos 60 = “_ = 3 00s 60 pas oh aN ga i \ 0.04
+40 5 : Mo 0.03 40 A aes N | g 003 40 Xo J ans == EWN { he 0.03
+F] YT pS Ndifie Xs 0.02 § Ym to SNR 5 0.02 ZI Xt ES TRIREN CN o 0.02
+5 20 3 Ye SN eX les 0.01 = 20 M4 sth Hr IE 23 A Ley 0.01 = 20 A 3 / gi 46 <2 i WN Lay 0.01
+S Va TEN . 0 2 oft ER NN oS oNielly Bh 0
+9 Na See 73 SRS N\A\ \\ 3 Peed RW i A Viton £i : Rh 3 SEL I) WA 5 RH no "3 \
+o RESCUE SVR [AT ¢ ee -0.01 = f : ava gee Wie } \ -0.01 b= NEY A GE Wf 1: -0.01
+S -20 GA hl ged Trailing wave = -20|% N= NNR SNA) Ve = -20 TEE FR) STREET. 0
+8 RSENS) Dai 0.02 3 Ss Ere | 002 3 SUT Zi oo
+-40 we Re \ | 0.03 -40 Wi E27 = = f -0.03 -40 | E | EN RR i -0.03
+60 \ BN 4 y 0.04 go} J ~ — : 0% 60 : == =) 0.04
+Sha HA Pe 0.05 Eat. - : Ff) -0.05 Ee a +7 0.05
+100 150 200 250 300 100 150 200 250 300 100 150 200 250 300 |
+Longitude (degree) Longitude (degree) Longitude (degree)
+Figure 7 Snapshots of (a) the atmospheric pressure waves and (b) the tsunami waves in the Pacific
+Ocean
+Figure 7 shows snapshots of modeled atmospheric pressure waves and the corresponding
+simulated tsunami waves in the Pacific Ocean, illustrating the similarities of the general pattern
+between two wave fields. The top panel (a) shows a sequence of the circular atmospheric pressure
+waves, being prescribed by the empirical N-wave model in Equation 1, which propagate across
+the Pacific Ocean at a speed of ~319 m/s. The amplitude of the atmospheric pressure decreases
+15

@@ -1,0 +1,33 @@
+3.3 Shallow-water equations 18
+km water depth. The new dependent variables are
+T= an, h = dh, ¢ — gale co. (18)
+In dimensionless form, and after dropping the tildes, the equations become
+BV + ¢.. = 0, (19)
+BVo-Vh+¢, = 0 at z= —h(x,y), (20)
+One +abVe-Vn = ¢, at z=an(x,y,t), (21)
+Bon + 3aB|Vel* + 300; + Bn = 0 at z= an(z,y,1). (22)
+So far, no approximation has been made. In particular, we have not used
+the fact that the numbers a and 3 are small.
+3.3 Shallow-water equations
+When 5 is small, the water is considered to be shallow. The linearized
+theory of water waves is recovered by letting a go to zero. For the shallow
+water-wave theory, one assumes that 5 is small and expand ¢ in terms of 3:
+6 = 0+ Bor + Fn +--+
+This expansion is substituted into the governing equation and the boundary
+conditions. The lowest-order term in Laplace’s equation is
+0p, = 0. (23)
+The boundary conditions imply that ¢y = ¢¢(z,y,t). Thus the vertical
+velocity component is zero and the horizontal velocity components are inde-
+pendent of the vertical coordinate z at lowest order. Let ¢o, = u(x, y,t) and
+boy = v(x, 9,1). Assume now for simplicity that the water depth is constant
+(h = 1). Solving Laplace’s equation and taking into account the bottom
+kinematic condition yields the following expressions for ¢; and ¢s:
+d1(x,y, 2,1) — —2(1 + 2)* (ug + vy), (24)
+do(z,y, 2,1) = (1+ 2) (Vu), + (VZ0),). (25)
+The next step consists in retaining terms of requested order in the free-
+surface boundary conditions. Powers of a will appear when expanding in
+Taylor series the free-surface conditions around z = 0. For example, if one
+keeps terms of order af and 3° in the dynamic boundary condition (22) and
+in the kinematic boundary condition (21), one obtains
+Bor — 50° (ew + vig) + Bn + zaB(u’ +07) = 0, (26)
+Ble + auns + vn) + (1+ an)(us +vy)] = 67 (Vi), + (V7), [27)

@@ -1,0 +1,55 @@
+5
+Vn, Al Al
+
+Fri=—o ——= ox /—F/—, 2
+7 Vaho  ma/gho ho (2)
+and therefore A,,/hg is also expected to scale as \/Al./hg, due to the aforementioned approximate linear relation
+between A,,/ho and Fry. Figure[4{a) presents the rescaled wave amplitude A,,/ho as a function of Al, /hg for (>)
+bore and ([ 1) solitary waves. All experimental data corresponding to shallow water waves collapse onto a master curve
+of equation A,,/ho ~ 0.54/Al~ /hg. Therefore, in this case the moving granular front acts like a piston pushing the
+
+water, whose velocity would be coupled to its stroke [as highlighted by Eq. (2)].
+
+An estimate of the typical horizontal extension Af ¢n can be obtained by assuming a triangular shape for the final
+deposit: Aly th = AL — hoLoo/ Hs. Using Egs. the final runout distance at z = hg is thus expected to be
+given by the relation
+
+1 ™m
+Aloo th — Ba™ 1H, — Lt pam, (3)
+aa”
+In figure [4(b), the measured front position Al. of the final deposit is compared with the prediction of Eq. (3). The
+relation Al, = 0.82 Al tn captures all the experiments, with a prefactor revealing a systematic overestimate of
+Als, by the model, as the final deposit is not perfectly triangular, but presents some curvature instead 26, 27, 30, 36].
+From the two fits of figures|4[a) and [4]b), the wave amplitude should be given by
+Ap = 0.45/ Al tn ho. (4)
+The prediction given by Eq. fits well the data, as presented in figure [4[c), which reveals that the model captures
+the physics behind the wave generation in shallow water. By inserting Eq. in Eq. (4), the wave amplitude can be
+expressed as a function of the initial parameters Hy, Lg, and hg to obtain
+Ho\" "Hy 1+ 8(Hy/Lo)™
+A, —045ho 1] 5 (2) Ho 1+ P(Ho/Lo)™ (5)
+Lg ho a(Hy/ Lg)"
+where the coefficients a, 8, n and m are given in Eqs. (1).
+
+To highlight the influence of the initial parameters on the wave amplitude, figures [5[a)-(b) report the prediction
+of A,, given by Eq. (5) as a function of hg for a = 3 and different values of Hy from 20 to 60 cm [figure [5(a)], and
+for Hy = 40 cm and different values of a from 1 to 10 [figure [5[b)]. In all cases, we observe that A,, ~ ho'/? for the
+shallowest depths, then reaches a maximum value before decreasing. Note that this maximum, as well as the critical
+depth at which it occurs, both increase linearly with Hy when a is constant [see Appendix for more details]. The
+present model reproduces thus well the bell-shaped part of the curves obtained in figure [2] which were also observed
+in previous experimental studies 16, 42].
+
+Let us now explore the prediction of the model for the wave generation as a function of two dimensionless numbers,
+reflecting either the initial state or the final deposit of the collapse: the global Froude number Fro = /Hy/hg 40-
+42, 45] and the relative volume AV, /(Who?) of the immersed deposit 43]. Using Eq. straightforwardly leads
+to
+
+An 1 m
+— = 0.454 / Ba™ Fr” — 1+ pam (6)
+ho aam
+In addition, within the present model the final immersed deposit would have a trapezoidal shape, of volume AV 11, =
+(ALoo + Aloo th) Who /2. As a result, Eq. leads to
+An AV AL
+TM — 0.45 [22 TO (7)
+ho Who ho
+The relative wave amplitude predicted by Eqs. (6) and is presented in figures [5[c) and [5[d), respectively, for
+different initial aspect ratios from 1 to 10 and Hy = 40 cm. In both cases, A,,/hg increases monotonically with a

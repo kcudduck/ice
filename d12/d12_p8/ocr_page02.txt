@@ -1,0 +1,40 @@
+height of tsunami waves, specifically considering the
+influence of varying wave non-linearity H /D , where
+H represents the initial wave height, and D stands for the
+initial water depth. The outcomes of our study reveal a
+crucial dependency on the precise on-site measurements of
+both wave height and period for accurate predictions.
+Employing this specific data, we can successfully employ
+the analytical solution developed by Madsen & Schaffer
+(2010) to forecast wave run-up height.
+La ee ~~ — — — — — — — —
+Dos
+
+? 3 09 08 -07 06 05 -04 -03 -02 01 0 01 02 7
+
+2
+Ds :
+
+d -1 09 -08 -0.7 -06 -05 -04 -03 -02 -01 0 O01 02 I=
+
+2 (c) -3
+Dos
+
+0
+
+-1 09 -08 -0.7 06 05 -04 03 -02 01 OO O01 02
+53
+
+Figure 3 - The wave shapes and velocity contours during
+the run-up of tsunami waves on a constant slope. The wave
+non-linearities are H/D =(a) 0.1, (b) 0.5 and (c) 1.0.
+Bibliography
+Madsen, P. A., Schaeffer, H. A. (2010). Analytical
+solutions for tsunami runup on a plane beach: single
+waves, N-waves and transient waves. Journal of Fluid
+Mechanics, 645, 27-57.
+REFERENCES
+Peiwei Xie, Yan Du (2023): Tsunami Wave Generation in
+Navier-Stokes Solver and Investigation of Runup of
+Leading-depression Wave, Coastal Engineering,
+ELSEVIER, 182-104293

@@ -1,0 +1,102 @@
+H.S. Kang, C.-H. Song / Nuclear Engineering and Design 240 (2010) 2160-2168 2161
+Table 1
+
+Nomenclature Similarity method for Tollmien’s theory (Abramovich, 1963).
+
+a expansion coefficient of a turbulent jet width BE — eT CRE
+
+C constant of the mixing length model i =f (¥) =f) A =0(%) =m)
+
+d diameter of steam discharging hole on the sparger Uu=1=o SL V="01 Fn) _ 2 | AT = ATn0(n) = X60(n)
+
+[cm] oo | | wv +34 [7 UPydy +x (2) =0 ATV + [* ATudy +22 8 8 — 0
+
+L race! characteristic length from the jet centerline F (@) a Fo) 2 25m) 0 } a | LF)
+
+o the location of 0.5U, [cm] , , : i. N — -
+
+k turbulent kinetic energy [m?/s?] P= a=VE, P= atm = 0) =1/ =" = Vis
+
+AT vector from the upwind node to the integration
+
+AT Pmperature difference between jet region and widely applied to a submerged turbulent flow which seems to be
+
+average pool temperature at arbitrary location (=T(x, similar to the turbulent flow induced by a condensing steam jetin
+V)—T..) a subcooled water pool. This theory assumes that the turbulent jet
+ATq temperature difference between jet region and flow starts from the point source and some of the axial flow moves
+average pool temperature at the centerline upward due to the turbulent shear Stress while the turbulent jet
+(=To — Tso) propagates axially. The method of a similarity (Table 1) was intro-
+
+To temperature of pool water [°C] duced to solve the Tollmien’s model, and the obtained solutions for
+
+Ur, maximum velocity at the jet centerline [m/s] the flow field and heat transfer can be presented In dimensionless
+
+Us, steam velocity at the exit of steam discharging noz- forms, as shown in Fig. 1, depending on the coefficient of ‘a’ related
+
+zle [m/s] to a mixing length model (Abramovich, 1963; Chung, 2005).
+
+X distance from the exit of a discharging hole along
+
+the axial direction [cm] 3. Experiments for a turbulent jet
+y distance from the jet center in radial direction [cm]
+3.1. Experimental facility
+
+Greek symbols
+
+B blending factor The GIRLS facility with a single-hole sparger (Fig. 2) submerged
+
+€ turbulent eddy dissipation [m?/s3] in a subcooled water tank was used for the experiment of a turbu-
+
+n similitude variable lent jet induced by a condensing steam jet (Song et al., 2007). The
+
+0 density [kg/m3] diameter of the single hole on the tip of the sparger is 1 cm. Steam
+
+VY kinematic viscosity [m?/s] produced in the steam boiler is provided from the boiler to a single-
+
+Vt turbulent viscosity [m?/s] hole sparger. During this discharge, the temperature, pressure and
+
+", physical variable at a computational node mass flow rates of the steam are measured, and the measured tem-
+
+w turbulent eddy frequency [1/s] perature and pressure inside the sparger provide the information
+
+on the discharged steam. The pool water temperature is estimated
+
+Subscript by averaging the temperature signals from the 6 Thermocouples
+
+ip integration point (TCs) located near the wall, inside the pool. In order to measure
+
+1 fluid the velocity and temperature distribution of a turbulent jet with-
+
+t turbulent out disturbing the shape of the jet flow, a movable spool of a Pitot
+
+\ steam tube and a TC combination was introduced to provide information
+
+up upwind node on the velocity and temperature simultaneously along the axial and
+
+00 ambient state in a subcooled water radial directions. The geometric information on the measurement
+
+spool is shown in detail in Fig. 2.
+measured since we could not ensure a quasi-steady state behavior 3.2. Experimental matrix
+of the pool during a steam discharge.
+
+A commercial code, the CFX-11 (ANSYS Inc., 2007) was intro- The experiment for a turbulent jet was performed to character-
+duced in this study to assist in the development of the correlations ize the stable condensation region under a quasi-steady state by
+to accurately predict the velocity and temperature of a turbulent discharging a steam jet of about 1000 kg/m? s into a lower temper-
+water jet based on the validation work of the CFX-11 against the ature water in a tank (Kimetal., 2005). In order to observe the effect
+measured data near a steam jet region. It would also be very help- of the pool water temperature on the turbulent jet, five cases were
+ful for understanding the effect of a steam jet condensation on a selected as shown in Table 2. The measurement spool is continually
+turbulent jet by comparing the measurements of the velocity and moved to measure the velocity and temperature of the turbulent jet
+temperature distribution with those data predicted by a theory for in the radial direction at the same axial location. The axial measure-
+the single phase turbulent jet (Abramovich, 1963). ment location is defined as the horizontal distance from the exit of
+
+a single discharging hole to the measurement location. The radial
+2. The turbulent jet solution by a theory measurement location is defined as the vertical distance at the same
+axial location, and the radial measurement location is increased by
+
+The solution from a turbulent jet theory regarding the velocity 0.25 cm from the center of the turbulent jet. The total number of
+and temperature distribution can be used meaningfully as refer- locations is 122 points, and the duration of a measurement at one
+ence data to define the hydrodynamic values at the inlet boundary ~~ location is about 4s. While manually moving the measurements
+of a turbulent jet region when a CFD analysis is applied to pre- Spool, the temperature of the pool water is increased up to 10-20%
+dict a whole mixing flow region, except for the steam jet region, of the initial temperature due to the energy of the discharged steam
+and its results are compared with the measurements. The theory (Table 2). The uncertainty of each measurement device is shown in
+of Tollmien’s axi-symmetric source (Abramovich, 1963) has been Table 3.

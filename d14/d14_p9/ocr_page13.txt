@@ -1,0 +1,93 @@
+Z
+
+=
+
+I Yell :
+IS Space Weather 10.1029/2024SW004126 e
+AND SPACE SCIENCES g
+=
+
+3
+
+Daglis, I. A., Thorne, R. M., Baumjohann, W., & Orsini, S. (1999). The terrestrial ring current: Origin, formation, and decay. Review of :
+Geophysics, 37(4), 407-438. https://doi.org/10.1029/1999RG900009 g
+Davis, W. (2024). Solar Storms are disrupting farmer GPS systems during critical planting time. Verge. https://www.theverge.com/2024/5/12/ 5
+24154°779/solar-storms-farmer-gps-john-deer E
+Dungey, J. W. (1961). Interplanetary magnetic field and the auroral zones. Physical Review Letters, 6(2), 47-48. https://doi.org/10.1103/ 4
+PhysRevLett.6.47 5
+Fuller-Rowell, T. J., Codrescu, M. V., Moffett, R. J., & Quegan, S. (1994). Response of the thermosphere and ionosphere to geomagnetic storms. s
+Journal of Geophysical Research, 99(A3), 3893-3914. https://doi.org/10.1029/937a02015 B
+Gonzalez, W., & B. Tsurutani, B. (1987). Criteria of interplanetary parameters causing intense magnetic storms (Dst< —100 nT). Planetary and g
+Space Science, 35(9), 1101-1109. https://doi.org/10.1016/0032-0633(87)90015-8 ]
+Gonzalez, W. D., Echer, E., Gonzalez, A., Tsurutani, B. T., & Dal Lago, A. (2011). Interplanetary origin of intense, superintense and extreme 3
+geomagnetic storms. Space Science Reviews, 158(1), 69-89. https://doi.org/10.1007/s11214-010-9715-2 S
+Gopalswamy, N. (2006). Properties of interplanetary coronal mass ejections. Space Science Reviews, 124(1-4), 145-168. https://doi.org/10.1007/ =
+$11214-006-9102-1 3
+Grandin, M., Bruus, E., Ledvina, V. E., Partamies, N., Barthelemy, M., Martinis, C., et al. (2024). The geomagnetic superstorm of 10 May 2024. Z
+Citizen science observations, EGUsphere [preprint]. https://doi.org/10.5194/egusphere-2024-2174 =
+Harel, M., Wolf, R. A., Reiff, P. H., Spiro, R. W., Burke, W. J., Rich, F. J., & Smiddy, M. (1981). Quantitative simulation of a magnetospheric 3
+substorm 1, Model logic and overview. Journal of Geophysical Research, 86(A4), 2217-2241. https://doi.org/10.1029/ja0861a04p02217 pt
+Hayakawa, H., Ebihara, Y., Mishev, A., Koldobskiy, S., Kusano, K., Bechet, S., et al. (2024). The solar and geomagnetic storms in may 2024: A =
+flash data report. arXiv preprint. https://doi.org/10.48550/arXi1v.2407.07665 ps
+Holzer, R. E., & Slavin, J. A. (1978). Magnetic flux transfer associated with expansions and contractions of the dayside magnetosphere. Journal of =
+Geophysical Research, 83(A8), 3831-3839. https://doi.org/10.1029/JA0831A08p03831 E
+IIG. (2024). Magnetometer and ionospheric observations from Indian sector during 10-11 may 2024 storm [Dataset]. Zenodo. https://doi.org/10. z
+5281/zenodo.12623351 2
+Imajo, S., Matsuoka, A., Toh, H., & Iyemori, T. (2022). Mid-latitude geomagnetic indices ASY and SYM (ASY/SYM indices). World Data =
+Center for Geomagnetism. https://doi.org/10.14989/267216
+Iyemori, T., Araki, T., Kamei, T., & Takeda, M. (1992). Mid-latitude geomagnetic indices ASY and SYM (provisional). Data Analysis Center for E
+Geomagnetism and Space Magnetism, Faculty of Science, Kyoto University. S
+Kilpua, E., Koskinen, H. E., & Pulkkinen, T. I. (2017). Coronal mass ejections and their sheath regions in interplanetary space. Living Reviews in 8
+Solar Physics, 14, 1-83. https://doi.org/10.1007/s41116-017-0009-6 S
+Koebler, J. (2024). Solar storm knocks out farmers’ tractor GPS systems during peak planting season. https://www.404media.co/solar-storm- 3;
+knocks-out-tractor-gps-systems-during-peak-planting-season/ &
+Lepping, R. P., Burlaga, L. F., Szabo, A., Ogilvie, K. W., Mish, W. H., Vassiliadis, D., et al. (1997). The Wind magnetic cloud and events of 5
+October 18-20, 1995: Interplanetary properties and as triggers for geomagnetic activity. Journal of Geophysical Research, 102(A’7), 14049—
+14064. https://doi.org/10.1029/977a00272 .
+Liemohn, M., Ganushkina, N. Y., De Zeeuw, D. L., Rastaetter, L., Kuznetsova, M., Welling, D. T., et al. (2018). Real-time SWMF at CCMC: o
+Assessing the Dst output from continuous operational simulations. Space Weather, 16(10), 1583-1603. https://doi.org/10.1029/ E.
+2018SW001953 S
+Liu, Y. D., Chen, C., & Zhao, X. (2020). Characteristics and importance of “ICME in-sheath” phenomenon and upper limit for geomagnetic storm Z
+activity. The Astrophysical Journal Letters, 897(1), L11. https://do1.org/10.3847/2041-8213/ab9d25 S
+Lohrey, B., & Kaiser, A. B. (1979). Whistler-induced anomalies in VLF propagation. Journal of Geophysical Research, 84(A9), 5121-5130. =
+https://doi.org/10.1029/ja0841a09p05122 =
+Loto'aniu, P. T. M., Romich, K., Rowland, W., Codrescu, S., Biesecker, D., Johnson, J., et al. (2022). Validation of the DSCOVR spacecraft g
+mission space weather solar wind products. Space Weather, 20(10), €2022SW003085. https://doi.org/10.1029/2022SW003085 E
+Macdougall, J., Grant, I., & Shen, X. (1995). The Canadian advanced digital ionosonde: Design and results. [S.1.], report UAG-14: Ionospheric g
+networks and stations. World Data Center A for Solar-Terrestrial Physics, 21-27. =
+Machol, J. L., Eparvier, F. G., Viereck, R. A., Woodraska, D. L., Snow, M., Thiemann, E., et al. (2020). GOES-R series solar X-ray and ultraviolet 2
+irradiance. In The GOES-R series (pp. 233-242). Elsevier. 2
+Maezawa, K. (1974). Dependence of the magnetopause position on the southward interplanetary magnetic field. Planetary and Space Science, gq
+22(10), 1443-1453. https://doi.org/10.1016/0032-0633(74)90040-3 :
+Mannucci, A. J., Tsurutani, B. T., Iijima, B. A., Komjathy, A., Saito, Gonzalez, A., Gonzalez, W. D., et al. (2005). Dayside global ionospheric H
+response to the major interplanetary events of October 29-30, 2003 “Halloween Storms”. Geophysical Research Letters, 32(12). https://doi. =
+org/10.1029/2004GL021467 g
+Newell, S., Liou, M., Liou, K., Meng, C., & Rich, F. J. (2007). A nearly universal solar wind-magnetosphere coupling function inferred from 10 =
+magnetospheric state variables. Journal of Geophysical Research, 112(1), 1-16. https://doi.org/10.1029/2006JA012015 -
+Ober, D. M., Thomsen, M. F., & Maynard, N. C. (2002). Observations of bow shock and magnetopause crossings from geosynchronous orbit on g
+31 March 2001. Journal of Geophysical Research, 107(A8), SMP-27/. https://doi.org/10.1029/2001JA000284 g
+O'Brien, T., & McPherron, R. L. (2000). Forecasting the ring current index Dst in real time. Journal of Atmospheric and Solar-Terrestrial Physics, £.
+62(14), 1295-1299. https://doi.org/10.1016/s1364-6826(00)00072-9 S,
+Avstedal, O. (2002). Absolute positioning with single-frequency GPS receivers. GPS Solutions, 5(4), 33-44. https://doi.org/10.1007/PL00012910 §
+Powell, K., Roe, P., Linde, T., Gombosi, T., & De Zeeuw, D. L. (1999). A solution-adaptive upwind scheme for ideal magnetohydrodynamics. S
+Journal of Computational Physics, 154(2), 284-309. https://doi.org/10.1006/jcph.1999.6299 =}
+Rastogi, R. G. (1977). Geomagnetic storms and electric fields in the equatorial ionosphere. Nature, 268(5619), 422-424. https://doi.org/10.1038/ 3
+26842220 °
+Rastogi, R. G., Janardhan, P., Chandra, H., Trivedi, N. B., & Erick, V. (2017). Effect of solar flare on the equatorial electrojet in eastern Brazil :
+region. Journal of Earth System Science, 126(4), 51. https://doi.org/10.1007/s12040-017-0837-8 :
+Rastogi, R. G., Pathan, B. M., Rao, D. R. K., Sastry, T. S., & Sastri, J. H. (1999). Solar flare effects on the geomagnetic elements during normal and =
+counter electrojet periods. Earth Planets and Space, 51(9), 947-957. https://doi.org/10.1186/bf03351565 5
+Reddy, C. A. (1989). The equatorial electrojet. Pure and Applied Geophysics, 131(3), 485-508. https://doi.org/10.1007/bf0087684 1 3
+Ridley, A. J., Gombosi, T. I., & De Zeeuw, D. L. (2004). Ionospheric control of themagnetosphere: Conductance. Annales Geophysicae, 22(2), >
+567-584. https://doi.org/10.5194/angeo-22-567-2004 2
+
+5
+
+.
+
+CL
+S
+
+ct
+
+TULASI RAM ET AL. 13 of 14 :

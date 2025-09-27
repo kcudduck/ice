@@ -1,0 +1,45 @@
+12 Chakraborty, S., et. al /ASR xx (2024) xxx-xxx
+200
+180 —— October 31, 2021
+160 — November 04, 2021
+140
+120 |
+= 100 |
+= 80 p
+2 —~ 60
+cE 2 40 »
+o £ ™
+zg 2 Moen /\ PAVERS.
+a 0 VA ARV Ne
+= -20
+-40
+60 |
+-80
+-100
+-120
+oO 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+UT (h)
+Fig. 6. Meridional wind (m/s) variations (positive signifying poleward-directed wind) from WACCM-X during October 31 (blue) and November 04 (red), 2021.
+Table 1. Diurnal maximum TEC variations from observations and model outputs for October 28, October 31, and November 04, 2021.
+Days of 2021 | PRN 3 | PRN 6 | TIEGCM
+October 28 43.73 | 42.55 16.68
+October 31 64.51 | 58.25 | 14.14
+November 04 | 50.75 | 46.42 | 20.09
+of the low-latitude ionosphere on October 31, 2021. Despite TIEGCM’s consistency in reproducing ionospheric-thermospheric
+conditions, the discrepancies observed between the model outputs and the observed data for these three cases could be attributed
+as follows. The TIEGCM has dependencies on the solar radio flux (F10.7, s.f.u) with either the K, index or the combination of the
+three IMF components, the solar wind velocity, and density. For the case of October 28, the F10.7 was comparatively higher (110.3)
+than that on October 31 (101.2), while the other parameters were comparable. As a result, we observed a slightly higher variation
+of TEC on October 28 than on October 31, 2021. Further, the model 1s expected to show the highest variations on November 04,
+2021, as the solar wind parameters as well as the K, values are higher compared to the other two days. Hence we see an overall rise
+in the TEC variation on that day. As our observations show an anomalous (strong ionospheric responses under weak conditions)
+case, therefore, incorporation of such types of anomalous cases and the corresponding ionospheric responses, in the model, could be
+beneficial and valuable to the space sciences community in terms of the improvements of the model’s performance and enhancing
+its predictive capabilities.
+
+Figure 8|has been plotted to understand the effects of the ICME-driven MC and the sheath structures on the low latitude 1ono-
+sphere on October 31 and November 04, 2021. In this figure, panels (a) and (c¢) are the same as the ones plotted in Figures |3|and[4]
+the only difference here being variation has been shown with respect to LT. The shaded region in grey designates the LT hours from
+08:00 to 16:00. Panels (b) and (d) show the variations of the residual EEJ and the time lag corrected IMF B,. The residual EEJ 1s
+a simple subtraction of quiet-time variation (blue) from the individual day variation (red). The IMF B, variation, which 1s shifted
+to the bow-shock nose, from the spacecraft at the Lagrangian point-LL1 has been further shifted to the ionosphere for a one-to-one

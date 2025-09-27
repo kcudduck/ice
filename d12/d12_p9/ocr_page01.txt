@@ -1,0 +1,57 @@
+LA
+Geophys. J. Int. (2017) 210, 1888-1900 doi: 10.1093/gji/ggx275
+Advance Access publication 2017 June 26
+GJI Seismology
+Tsunami generation: validity and limitations of conventional theories
+Tatsuhiko Saito
+National Research Institute for Earth Science and Disaster Resilience, 3-1 Tennodai, Tsukuba, Ibaraki 305-0006, Japan. E-mail: saito-ta@bosai.go.jp
+Accepted 2017 June 24. Received 2017 June 19; in original form 2017 January 12
+SUMMARY 5
+Most tools and theories for analysing tsunami records were originally developed for coastal 2
+sites located far from the tsunami source. As a result, we must take care in using these for 5
+records observed inside the focal area where seismic waves can exist together with tsunami. a
+This study investigates the validity and limitations of theories used in past studies. We use 2-D =
+elastic equation of motion as a reference, while most tsunami studies employed incompressible- 3
+fluid theory. We first examine a two-step method commonly used for setting the initial con- =
+ditions in tsunami simulations. The method employs the two analytical solutions for the a
+sea-bottom and sea-surface deformations. We found excellent agreement between the initial 2
+heights calculated by the two-step method and by the simulation including elastic crust and S
+compressible sea water. We further investigated the change in the ocean-bottom pressure dur- =!
+ing tsunami generation. For high-frequency pressure records, although the pressure change e
+was sometimes assumed to be proportional to sea-bottom velocity, this did not hold in general, a
+but worked for the first motion. For low-frequency records, ocean-bottom pressure change was 3
+usually assumed to be proportional to sea-bottom acceleration. This works nicely when the E:
+deformation 1s smooth, but fails when the sea bottom deforms steeply. We found that a new =
+analytical solution could reproduce the relation more precisely. The validity and limitations of Q
+the conventional theories need to be taken into account when analysing tsunami records inside o
+the focal area. 2
+oo
+Key words: Tsunamis; Theoretical seismology; Wave propagation. =
+oo
+5
+=
+<
+y Q
+{ INTRODUCTION | In addition to propagation, the generation of tsunami has been @
+investigated based on fluid dynamics theory using compressible ny
+Investigations of tsunami propagation have usually been based on or incompressible assumptions (e.g. Takahashi 1942; Yamamoto 2
+fluid dynamics where sea water 1s assumed to be an incompressible 1982; Levin & Nosov 2009; Stiassnie 2010). In evaluating initial 0
+fluid. For example, tsunami propagation has been simulated with lin- tsunami-height distribution as a generation process, most tsunami Qo
+ear long-wave equations, non-linear long-wave equations and linear studies have employed a two-step method for tsunami propagation 9)
+dispersive equations (Boussinesq equations). These tsunami equa- stimulation. First, sea-bottom displacement distribution caused by g
+tions are derived from the equation of motion under the assumptions an earthquake fault dislocation is calculated. The code of Okada No
+for an incompressible fluid. Using numerical simulations based on (1985) 1s often used for this calculation. Then, the sea-surface dis-
+one of these tsunami equations, many studies have analysed and in- placement caused by sea-bottom displacement is calculated. We
+terpreted tsunami records observed by tide gauges or ocean-bottom have frequently employed the equation, often referred to as Ka-
+pressure gauges (e.g. Satake 2007; Saito et al. 2014; Tsushima & jiura’s equation (Kajiura 1963). In this procedure, we assumed that
+Ohta 2014). On the other hand, elastic and gravity theory and recent sea water medium 1s incompressible.
+development of observation showed that the elasticity of the solid Comer (1984) showed the validity of this two-step method
+earth medium 1s a partial contributor to tsunami propagation when by comparing the waveforms synthesized with it to those cre-
+a long-wavelength tsunami propagates over long distances across ated by the normal-mode technique. The two-step method does
+the ocean (e.g. Ward 1980; Okal 1982; Inazu & Saito 2013; Tsai not consider the coupling between the sea and elastic solid,
+et al. 2013; Allgeyer & Cummins 2014; Watada et al. 2014). In whereas the normal-mode technique can account for this cou-
+fact, elastic crustal deformation due to tsunami loading was clearly pling. However, note that he assumed incompressible fluid for
+observed by a high-sensitivity seismograph network over a broad the sea layer in the use of the normal-mode technique. Recently,
+inland area facing the Pacific Ocean coast in Japan (Kimura ef al. Lotto & Dunham (2015) compared sea-surface height distribu-
+2013). tions calculated using compressible sea and incompressible sea
+1888 © The Author 2017. Published by Oxford University Press on behalf of The Royal Astronomical Society.

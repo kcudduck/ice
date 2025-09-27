@@ -1,0 +1,25 @@
+magnetic observatories analysed at low- and mid-latitude. Therefore, Dst and SYM-H
+indices are good indicators of the disturbance for this time.
+Measurements by the DMSP satellite (F13) at 17:45 local time, reported by Mannucci et
+al. [2005], showed that the drift velocity at DMSP altitude (840 km) was predominantly
+negative (downward) during the days 25-30 October 2003, except for three distinct
+periods when the drift velocity becomes significantly upward (>70 m s™): 29 October at
+06:16 UT and at 19:51-23:13 UT; and 30 October at 19:41-21:18 UT. Large FACs
+were observed by CHAMP 1n the dayside in both hemispheres between ~6-8 UT [Wang
+et al., 20006].
+Enhancements in estimated hemispheric power index [Fuller-Rowell and Evans, 1987;
+Emery et al., 2008] from POES 1n Northern hemisphere were observed from ~6 UT on
+29 October until ~5 UT on 30 October, reaching up to 554.5 GW on 29 October at
+07:19 UT. The hemispheric power index was enhanced again on the late hours on 30
+October. These data reveal enhancement and prolonged auroral activity which was
+already observed using OI 6300 A emission from Boston (48.3° MLat), which is
+approximately at 30°-40° equatorward in latitude of the normal auroral precipitation
+regions [Pallamraju and Chakrabarti, 2005]. NOAA Technical Memorandum OAR
+SEC-88 on Halloween storms reported that aurora sightings occurred from California to
+Houston to Florida. Tremendous aurora viewing was also reported from mid-Europe
+and even as far south as the Mediterranean countries (~40° MLat).
+4. Discussion
+We report 1n this paper a geomagnetic disturbance case recorded on 29 October 2003 at
+THY magnetic observatory (hereafter, C03), whose temporal profile during two days 1s
+extraordinarily similar to the one recorded at Colaba in 1859 (hereafter, C59). Of course
+6

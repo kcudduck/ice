@@ -1,0 +1,62 @@
+Ocean Modelling 69 (2013) 79-92
+SHAWN Sb Contents lists available at SciVerse ScienceDirect a
+TUR Ce TT
+ao Ocean Modellin
+3 EA) Gs.
+journal homepage: www.elsevier.com/locate/ocemod
+
+|
+New tsunami runup relationships based on long wave experiments (_) oath
+Ingrid Charvet ®*, lan Eames”, Tiziana Rossetto ®
+Civil, Environmental and Geomatic Engineering, UCL, Gower Street, London WCIE 6BT, UK
+b Mechanical Engineering, UCL, Torrington Place, London WCIE 7JE, UK
+ARTICLE INFO ABSTRACT
+Article history: Tsunami are propagating waves characterized by long wavelengths and large amplitudes close to the
+Received 10 September 2012 shore. They may also have a profile characterised by a large trough preceding the positive wave. These
+Received in revised form 21 May 2013 waves are destructive, causing severe damage to structures and human casualties when they reach
+Accepted 24 May 2013 coastal areas (e.g., Indian Ocean, 2004; Japan, 2011). Runup is a local characteristic of a wave flow inland
+Available online 7 June 2013 oo : : cq. .
+
+and this measure, easily identifiable in the field, is extensively used as an indicator of tsunami inundation
+— and impact on the coast.
+oo words In this paper, an innovative large scale experimental programme is applied to develop runup equations
+Ri for long propagating waves. A pneumatic generator with a controlled valve system, capable of exchanging
+Experimental modelling large volumes of water with the propagation flume is used. This novel generation system allows waves to
+Long waves be generated that have much larger wavelengths than those experimentally reproduced to date. More-
+Regression analysis over, it enables leading depressed waves to be stably generated and analysed for the first time.
+
+To analyse the influence of wavelength and wave shape on runup, the experimental data was parti-
+tioned into groups classified by wave period T/T, (where Tj is the travel time of a linear wave along
+the length of the beach) and wave shape (elevated or N-waves). In this paper, elevated waves refer to
+waves of translation having a single positive elevation above mean water level, and N-waves refer to
+waves of translation comprising both a negative elevation (below mean water level) and a positive ele-
+vation. Dimensional analysis (using experimentally determined wavelength, potential energy and wave
+amplitudes) was applied to identify correlated measures. A statistical analysis was used to determine a
+power law relationship between runup and measures of the waveform, and to test the significance of
+the power law hypothesis. The experimental results show how both the wavelength and wave shape
+influence the runup distance. For i < 1, the runup is seen to scale as R ~ a, while for i > 1, it scales
+as R ~ v/a.
+
+© 2013 Elsevier Ltd. Open access under CC BY license.
+1. Introduction change significantly as they propagate across oceans, with ampli-
+tudes of a few centimetres offshore and wavelengths tending to
+Tsunami are commonly caused by undersea earthquakes that be much longer than the water depth (e.g.,, 200 km). When they
+displace the seafloor, resulting in a disturbance at the ocean sur- move into the coastal region, the wavelength decreases signifi-
+face. The volume of water displaced now has potential energy to cantly (e.g., 20 km) and the wave height increases, sometimes
+be transferred away from the source. Because the vertical seafloor reaching 10-15 m. The energy of a tsunami is conserved as they
+displacement results in the deformation of the overlying water sur- move towards the coast because the dissipation caused by drag
+face, large earthquakes (with moment magnitude M,, > 7) have on the ocean floor is negligible. In most inhabited coastal regions
+the potential for generating tsunami. the slope of the land is small, and 15 m of height corresponds to
+Surface waves in the ocean are characterised by periods of sec- a large distance inland (e.g., 1.5 km for 1:100). The potential for in-
+onds and wavelengths of about 10-100 m. Tidal movement is char- gress into land and damage to infrastructure is significant. A vari-
+acterized by a time scale of 12 h and a wavelength set by the size of ety of wave forms and wave trains have been observed in the past,
+the local basin (e.g., 100 km). In comparison, the typical period and with either leading elevated waves or leading depressed waves.
+wavelength of a tsunami are intermediate, between ocean waves A measure of the potential for an incident wave to ingress in-
+and tides (e.g., 2400 s). Moreover, the characteristics of tsunami land is the runup height R (Fig. 1). Runup is defined as the maxi-
+mum inundation point above sea level of a wave incident to a
+— beach. It is extensively used, compared to other wave characteris-
++ (COmrSRmeingg Stier, Wels 2. (0) SAEs Fes xs (0) 2078s. tics, as an indicator of a wave’s potential coastal impact. Given the
+E-mail addresses: i.charvet@ucl.ac.uk (I. Charvet), i.eames@ucl.ac.uk (I. Eames), difficulty of incorporating complex bathymetry and coastal fea-
+t.rossetto@ucl.ac.uk (T. Rossetto).
+1463-5003 © 2013 Elsevier Ltd. Open access under CC BY license.
+http://dx.doi.org/10.1016/j.0cemod.2013.05.009

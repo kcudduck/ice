@@ -1,0 +1,59 @@
+Remote Sens. 2024, 16, 3497 18 of 22
+to 22°N in Sections 3.2-3.4 reveal a significant enhancement of disturbances in the ULF
+band, whereas disturbances in the ELF and VLF bands are comparatively weaker. The ELF
+and VLF bands experience less pronounced perturbations than the ULF band.
+
+The electric field perturbations observed in the equatorial ionosphere primarily result
+from the penetration of electric fields from middle and high latitudes [33,34]. The iono-
+sphere at middle and low latitudes largely shields the effects of high-latitude electric fields.
+A sudden increase in magnetospheric convection causes the lower and middle latitude
+ionosphere to be influenced by the enhanced dusk-to-dawn convective electric field from
+the high-latitude ionosphere, until the magnetospheric structure realigns and a new shield-
+ing state is established. Conversely, a rapid decrease in magnetospheric convection leads to
+a temporary excess of dusk-to-dawn shielding electric fields, which affects lower latitudes
+until shielding is re-established. The time scale for this shielding process is typically less
+than one hour [35]. In this study, strong perturbation orbits in the 22°S to 22°N region are
+typically 1-2 orbits, with each orbit observed for about 0.5 h, and the duration of strong
+perturbations is less than 1 h. The D value of the ULF band in this region is generally
+greater than 2, while the D values of the ELF and VLF bands do not exceed 2. Analysis in
+Section 3.3 shows that the anomalous frequency bands of the equatorial ionospheric electric
+field are concentrated in the 0-100 Hz range, with frequency bands above 100 Hz being
+less affected by the high-latitude penetrating electric field.
+
+To validate the hypothesis that equatorial ionospheric anomalies primarily occur
+below 100 Hz, we plotted D value analyses for latitudes below 22° during the main phases
+of five magnetic storms (Table 2) within the 0-300 Hz range (Figure 18). The horizontal
+axis represents the time of the orbital observations. The equatorial ionospheric anomaly on
+4 November 2021 was observed to be the strongest, with D values in the 0-100 Hz band
+reaching nearly 2. The anomaly on 24 April 2023 was slightly weaker than that of 4 November
+2021, exhibiting significant perturbations in the 0-50 Hz band. In contrast, the anomalies on
+27 February 2023, 5 November 2023, and 11 May 2024 showed prominent perturbations below
+50 Hz. Notably, the Dst minimum of the 11 May 2024 magnetic storm reached —409 nT, yet
+it caused fewer equatorial ionospheric anomalies compared to the 4 November 2021 storm.
+Thus, perturbations in the equatorial ionosphere induced by magnetic storms are not directly
+correlated with the magnitude of the storms. Additionally, the frequency band of ionospheric
+anomalies in the equatorial region is concentrated below 100 Hz.
+
+"a0 2021-11-04 Dst =—105 nT T+
+T 200 — ‘38
+= oo NEEL EE 0 =
+
+300 2023 — 02 — 27 Dst=—-132 nT a
+100 — SR ss 10 £
++= 0.0 0
+300 2023 — 04 — 24 Dst = — 209 nT .
+N 2% N
+£ il
+£ 0.0 0 =
+31 _ 2023 — 11-05 Dst=-172 nT +
+C100 fn = 10 E
+E 0.0 — EERE  — 0 © =
+a0 2024-05-11 Dst=-409 nT x
+S100 — — INE
+yy EE. 0 8 £
+
+00:30 05:30 12:00 18:00 23:00
+
+01:00 06:00 12:30 18:30 23:30
+Figure 18. D value below 22° in the 0-300 Hz band during the main phases of different mag-
+netic storms.

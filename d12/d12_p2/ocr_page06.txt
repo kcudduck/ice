@@ -1,0 +1,38 @@
+2.3 Dislocations in elastic half-space 6
+2.3 Dislocations in elastic half-space
+
+When the case of an elastic half-space is considered, equation (5) remains
+valid, but we have to replace oy; by another tensor Wi This can be explained
+by the fact that the elementary solutions for a half-space are different from
+Somigliana solution (1).
+
+The wy; can be obtained from the displacements corresponding to nuclei
+of strain in a half-space through relation (2). Steketee showed a method of
+obtaining the six Ww fields by using a Green's function and derived w?,, which
+is relevant to a vertical strike-slip fault. Maruyama derived the remaining
+five functions Maruyama [1964].
+
+It is interesting to mention here that historically these solutions were first
+derived in a straightforward manner by Mindlin Mindlin [1936], Mindlin and Cheng
+11950], who gave explicit expressions of the displacement and stress fields for
+half-space nuclei of strain consisting of single forces with and without mo-
+ment. It is only necessary to write the single force results since the other
+forms can be obtained by taking appropriate derivatives. Their method con-
+sists in finding the displacement field in Westergaard’s form of the Galerkin
+vector Westergaard [1935]. This vector is then determined by taking a linear
+combination of some biharmonic elementary solutions. The coeflicients are
+chosen to satisty boundary and equilibrium conditions. These solutions were
+also derived by Press in a slightly different manner Press [1965].
+
+43
+L2
+O
+Free surface
+Ne
+Us N&
+Xr3 — —d
+U; 14 5
+L
+Figure 1: Coordinate system adopted in this study and geometry of the
+source model
+Here, we take the Cartesian coordinate system shown in Figure 1. The

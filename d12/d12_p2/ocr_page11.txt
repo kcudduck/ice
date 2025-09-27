@@ -1,0 +1,42 @@
+2.4 Finite rectangular source 11
+parameter value
+Dip angle 0 13°
+Fault depth d, km 25
+Fault length L, km 220
+Fault width W, km 90
+Us, Im 30
+Young modulus E, GPa 9.5
+Poisson’s ratio v 0.23
+Table 1: Parameter set used in Figures 3, 4, and 5.
+The terms I, ...,I5 are given by
+I; = I — tan o/s,
+A+ (R+d)cosd
+Lt
+I, = ———log(R — I
+2 \ 4 1 og T n) 39
+H Ly
+I; = —|—————— —log(R tan ol
+3 nar Pe og ( fa) + all 014,
+oes (os(R+d) = )
+Iy, = ————(log(R+d)—sinolog(R
+4 oC  Ncosd 0g(R +d) —sinolog(R +n).
+nwo2 n(X + qcosd) + X(R+ X)sind
+ly, = ———arcctan——mMmMmMmM8M8XM™MMm———F———,
+A+ ph cosd E(R4+ X) cos d
+and if coso = 0,
+ro H £q
+1 = TaN Noo wa
+2(A + 1) (R + d)?
+H Ui Yq
+Ji —- | = + — = — lo R + | ;
+: or (R + d)? B+
+YB
+At uR+d
+to £sino
+Is = ———>—.
+AU R+d
+Figures 3, 4, and 5 show the free-surface deformation after three elemen-
+tary dislocations. The values of the parameters are given in Table 1.
+The traditional approach for hydrodynamic modelers is indeed to use
+elastic models similar to the model just described with the seismic param-
+eters as input to evaluate details of the seafloor deformation. Then this

@@ -1,0 +1,61 @@
+Evaluating the relationship between strong ge... https://www.swsc-journal.org/articles/swsc/fu...
+lower impact. . : : :
+Ey lsihg this website, you agree that EDP Sciences may store web audience measurement cookies and, on some pages, Yes No
+cookies from social networks. More information and setup
+5 Discussion
+The timeline of the yearly EGFs from groups DEF, which might have the solar origin, in 2010-2014 presents
+the rising linear trend connected with the more frequent intense geomagnetic storms in the rising phase of
+solar activity cycle 24.
+Superposed epoch analysis results show that on the day of and just after the intense geomagnetic storms,
+there is observed a significant growth in the number of electrical grid failures in South Poland. The growth is
+visible in the groups of failures that might be connected with space weather effects, i.e., EGFs triggered by the
+aging of infrastructure elements, associated with electronic devices’ unreliability and having unknown causes.
+What is more, group F's failures (of unknown reasons) seem to occur almost immediately (days + 0), while the
+others have an apparent delay of 1-2 days.
+Moreover, SOM analysis shows that proton density SWd had the most decisive impact on the number of
+transmission line failures. Moreover, the strength of HMF B and ap-index had a strong influence on the
+number of failures, mainly those from groups D and E. The most significant impact of the remaining
+heliospheric and geomagnetic parameters was observed for data without delay.
+The GIC related disturbances have an additional effect in the power network related to the response of
+protection devices such as differential relays. The GIC flows in the electrical grid are not only connected to the
+transformers overheating, but the spiked-narrow pulse of extra energy can also produce higher harmonics in
+a transformer. As a result, transient states and resonance in the power grid may occur, differential relays may
+enable protection, and the grid stability may be compromised (Girgis & Vedante, 2012; Power System
+Relaying and Control Committee, 2019). Harmonics from GIC may affect the operation of power generators
+(Meliopoulos et al., 2018) and propagate into other generators and transformers. The power grid response to
+the transients and surges is unpredictable. There is a possibility of uncontrolled propagation of GIC origin
+transients effects into other segments of the power network - therefore, more investigations are needed to
+determine the effects of GIC in technical infrastructure.
+6 Conclusions
+In this work, we performed a systematic study of the influence of the most intense geomagnetic storms on
+the functioning of electrical power grids in Poland in 2010-2014, which is around a half of the solar cycle.
+The main findings of this work can be summarized as follows:
+
+— yearly average number of transmission line failures in South Poland between January 2010 (near the
+solar minimum) and July 2014 (around the solar maximum) show a rising trend, which can be the
+indication of solar cycle phase dependency;
+
+— during and right after the intense geomagnetic storms, there is observed a massive increase in the
+number of electrical grid failures in South Poland, in the groups of failures which might be connected
+with space weather effects, namely transmission line failures caused by the aging of infrastructure
+elements, connected to the unreliability of electronic devices and having unknown reasons (groups
+DEF);
+
+— t-test was used to study the difference between means and standard deviations of two groups of DEF
+failures (which might be related with space weather): the first for periods when max(dBy/dt) > 25 nT/min
+and the second for max(dBy/dt) < 25 nT/min, in 2010-2014, with a delay of two (48 h) and three days
+(72 h), showed that there exists the growth of the number of aging, electronic breakdowns and
+unidentified type of failures for the group with max(dBy/dt) > 25 nT/min;
+
+— increases of geoelectric field, computed for Poland region by using 1-D layered Earth model, correspond
+to the intense geomagnetic storms occurrence;
+
+— proton density SWd seems to have the most significant impact on the number of power grid failures in
+the case without delay concerning the intense geomagnetic storms;
+
+— other analyzed heliospheric and geomagnetic data (ap, AE, K indices, as well as solar wind speed and
+HMF strength) also show a varying degree of impact on the number of power grid failures.
+
+Summarizing, we see that during and right after intense geomagnetic storms, an increase in the number of
+transmission line/network failures, which might be of solar origin, occurs.
+9 of 15 27/09/2025, 18:16

@@ -1,0 +1,69 @@
+10 Chakraborty, S., et. al /ASR xx (2024) xxx-xxx
+
+- 02-11-2021 03-11-2021 04-11-2021 05-11-2021
+
+ZN Wg 1 I) rrr rrp ee {3A bE
+: 60 (a) { 60} (b) 1 60 (€) | (ad) | . Nteiaos of ade days
+s 50 | : | snl | 50} { spl | : Variation of the day
+= 407 AN | 40} Ba | 40} TNT 1 4nl I ==].
+
+= 30 | Fi is 98 { 30} yi 1 1 30} Fr: = { apl | oll),
+
+a 20 > - 1 20} ET 3 | 20} or AMS 1 20l <3 NON |
+
+= 10% an — BR [V2 _ es 10 Ne 10 : Nee]
+
+0% 4 8 12 1 20 240 4 8 12 16 20 24% 4 8 12 16 20 2% 1 8 1 6 0
+zr  W—— W—— ———————————————————————————— {ar Le
+& 60 (€) { BOF (f) 1 60° (2) 1 | (h) | . hrmncn of qui days
+= 501 | 80 | Bn} { gpl | = Variation of the day
+Z 40 Be NT | 40} s = | 40} Ve { aol ET]
+
+= 30 | i i. { 30} pre LY | 30] [ . : 1 aol 5 Whe i
+
+B20F HFT { 20) FT BR. | 20) SF Nw | 20p FE Ta
+
+o 10x 10 10 10 |
+
+= ih a a . A A a . ; a . . 0 - : : - : : : - : : : | 0 a a . A i a A A i a A ol 1 l | ] ] ! | 1 ]
+
+= 0 4 8 12 16 20 24 0 4 8 12 16 20 24 0 4 8 12 16 20 24 4 8 12 16 0 24
+
+o———————————— ry —————————————————— 1 T:sigma level
+
+ss (0 tO as @ ost @ BE rs
+= 30 i | dor JH sor RE. { aot J |
+= 15 {15} {15} HTS Mx ¢ | 15F 9
+ud 5 A | 0 . NL TPN i A
+
+x i | 1 ; {
+15 | 15] 151 i 8 1-15] :
+30 a 2 " i ; 1 M i i i 1 Ti i E i 1 i i i M " " i 2 dant E ; a AN i " ; i a i ki 1 a0 M M i L i i M 5 i i a |
+0 4 8 12 16 20 24 0 4 a] 12 16 20 24 0 a a 12 16 20 24 0 4 8 12 16 20 24
+UT (h) UT (h) UT (h) UT (h)
+Fig. 4. Same depiction as Figure[3|but observed during November 02-05, 2021.
+attributed to the presence of the effects of the neutral winds that could have played a role, in tandem with the non-fluctuating PPEF,
+in causing a higher variation in TEC over this location and Ahmedabad on October 31, 2021. The following paragraph discusses
+this aspect in detail.
+
+Now, the neutral dynamics such as the thermospheric winds play a role in the modulation of the responses of the ionosphere dur-
+ing storm-time conditions. These winds contribute to the equatorial E X B plasma drift causing variations in the 1on-recombination
+rate and alterations of the TEC (Rishbeth, 1997; Heelis, 2004). In general, the poleward winds move the plasma down to the lower
+altitudes where the recombination rate 1s comparatively large. This in turn results in the reduction in the peak height (hmF2) and
+hence a decrease in the peak electron density (Shim, 2009). Studies by (see Buresova et al. (2014) and references therein) have
+shown that the disturbances in the ionosphere are a combination of several processes or mechanisms, where the dominating mech-
+anism and its significance might vary from one event to the other. Therefore, to show any possible effects of the neutral dynamics
+on TEC, in addition to the effects of the PPEF, during October 31 and November 04, 2021, the variations from the WACCM-X
+simulated 350 km meridional wind velocities (m/s) over the observation site 1s shown in Figure|6| In this Figure, one can observe a
+higher magnitude of the poleward wind on November 04 compared to October 31 between 9 and 10 UT (which is the period around
+the observed diurnal maximum of TEC). Specifically, on October 31, at 9:30 UT, wind velocities are about 16 m/s whereas at the
+same time, on November 04, 2021, wind velocities are close to 32 m/s. We believe that this difference might have played some role,
+in tandem with the PPEF, that had caused the anomalous variations in TEC on October 31 and November 04, 2021.
+
+While using the wind estimates from the WACCM-X model, one may wonder how well correlated the model outputs are com-
+pared to actual observations. In a study by (Liu et al., 2019), they compare WACCM-X simulations with the WINDII observations
+of high-latitude wind under different solar radio flux levels and varying geomagnetic conditions. They conclude that the WINDII
+observations are in good agreement with the WACCM-X estimates. However, the magnitude of the wind estimate from the model 1s
+lower than that of observations, although the wind variation 1s quite similar. This underestimation of the model could be attributed
+to the fact that WACCM-X 1s a climatological model and the abrupt changes in the wind velocity under different geomagnetic dis-
+turbances, may not always be captured. However, since WACCM-X 1s a self-consistent general circulation model that couples the

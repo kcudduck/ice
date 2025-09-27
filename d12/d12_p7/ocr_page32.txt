@@ -1,0 +1,51 @@
+Confidential manuscript submitted to Journal of Geophysical Research: Oceans
+in our case. However, Lynett et al.’s (2022) data includes only 18 points, so any outlier will have
+more relative weight, whereas in this work we have compared data from 41 DART stations.
+600 0.15 — 0.20 , —
+(a) R= 0.9985 . (b) R= 0.7409 EY (c) R= 0.8765 7
+soo] RMSE=67min oo RMSE=0.023m Pa RMSE=0.019m 7
+Sl 7 01s a i pr
+400 0.10 i ut” 7 pe Pe
+= = ° | PA 0) 7 Pia
+E Distance (km) E ® So Lo” ~ o a ne rd
+® 300 a TE EE a 0000 3 pd pd 7 3 0.10 dere ee
+Ss 8000 = a Ls yd 7 re
+200 J. 0.05 ara VA
+| So 0.054 ra een} SUR —
+- 4000 ps 7 . ga 4
+2000 oa ° | 07. 9"
+oe A
+0 | 0.000 0.00 £7 0.00 7 :
+0 100 200 300 400 500 600 0.00 0.05 0.10 0.15 0.00 0.05 0.10 0.15 0.20
+DART Corrected (min) DART Corrected (m) DART Corrected (m)
+R’=0.6216 SS R*=0.8536 A
+RMSE=0.029 m Se RMS§=0.028 a
+SS 0.20 Ce
+0.10 a pa re pi ye i
+E °/ pd o 7 £0.15 Ea
+pd 005 LL
+pod ° ° Zin
+a * a
+0.00 + 0.00 = | 1 |
+0.00 0.05 0.10 0.15 0.00 0.05 0.10 0.15 0.20 0.25
+DART Uncorrected (m) DART Corrected (m)
+
+Figure 14. Scatter plots showing the comparison of results of Lynett et al. (2022) in terms of arrival time
+(a), wave crest amplitude (b,d) and wave trough amplitude (c,e) of the leading tsunami. Top panels show
+comparisons against corrected DART data and bottom panels against uncorrected DART data. This
+figure can be directly compared with Figure 9.
+
+0.25 G (371 km 0.1 51407 (4909 km
+02 — Daron CT Dyneneal 02)
+0.15 is study 0.05 —— This study
+. 4 /X il il Ld |
+E 0.05 f \ } E IM iM A i | ) I | (I oY Jo N Mi | (Vg | py" A A Af My ll NA
+EY SV | Ii " i ly All NSW YES jaa BUNT avi ie = ° WG of A A [Hh I OF WAT Ll i hid Soper
+0.05 \| RRL | |
+“ I.
+0.1 | 20.05
+-0.15 \
+-0.2 -0.1
+0 50 100 150 200 250 300 350 400 200 300 400 500 600 700 800 900
+Time (min) Time (min)
+32

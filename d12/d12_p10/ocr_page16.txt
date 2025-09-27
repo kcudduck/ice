@@ -1,0 +1,60 @@
+(a) Initial deformation (m) 16
+0 1 2 3 4 5
+=
+0° 3 7 il PANS
+9.74 ~ a.
+He | | S&S
+ERAS EPS
+i oy
+10° Hi aE : | =
+SE TS
+Tso Ad —
+CE e © Al
+Coal | =.
+20°S TRE =
+= Li QQ
+A 27 # ae CO
+Aen | pr =
+30°S an | ide 4 : =
++ A ; =
+of : 2
+5 DX
+5 ILE : OO
+ew 2
+40's -
+> :
+e RY
+50°S — : S
+90°W 75°W 60°W 45°W 30°W CW
+(b) Wave Height (m) : =
+0 02 04 06 08 1 12 14 16 1.8 >2 i ee
+EES = aaa. EN
+HE
+* —
+80° > i ve NE
+40°N ary CWE a,
+— ) i 5 4
+he 7 ”: : §: df} A “4
+40°S T | wi
+80°
+180° 120°W 60°W 0°  60°E 120°E 180°
+(¢) Time (hrs)
+FNOTOONDO er rere eR ER PRANNIARNRRR
+80°D i — —— AE = a == = - — >
+or grat Da ae £ n Ea
+40° Loa = $ ) SHEE YAY Ag ig Ssh
+v 1 AE RE *
+0° Fee Cy bey wd Ke 3
+40°S | Ww V
+80°
+180° 120°W 60°W 0°  60°E 120°E 180°
+Figure 7. (a) Initial deformation of sea level. (b) Simulated maximum wave amplitude distribution. (¢) Travel time contours of tsunami
+wave due to Chile tsunami event 27 February 2010. (The figure is on Robinson projection.)
+shown in table 3. The distribution of peak tsunami wave height simulated using current methodology
+is shown in figure 10b. Travel time contours of tsunami waves at every 1 h interval are displayed in
+figure 10c. Figure 10b,c is on Robinson's projection. Figure 100 depicts that the countries India, Sri
+Lanka, Maldives, Indonesia and Thailand experience tsunami heights greater than 2 m. The tsunami
+wave took 2-3 h after the earthquake to reach Indian coasts.
+The simulated time series of water levels at different global locations are compared against the IOC
+sea level observations in figure 11. Red lines represent the observations, while blue lines show the
+model simulation in figure 11. Figure 11 conveys that the model is capturing the timing and amplitude

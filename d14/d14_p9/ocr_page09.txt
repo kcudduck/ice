@@ -1,0 +1,110 @@
+I Xedd ;
+IS Space Weather 10.1029/2024SW004126 e
+AND SPACE SCIENCES g
+
+Table 1 =
+Comparison of Most Intense Storms That Occurred in Solar Cycles 23-25 Hd
+Dates SYM-H peak SYM-H range Main phase duration Duration with IEFy > 2.5 (mV/M) Duration with SWDP > 15 (nPa) and IEFy > 2.5 (mV/M) EH
+10 May 2024 ~~ —518 —606 539 444 409 =
+31 Mar 2001 ~~ —437 ~512 235 228 132 g
+z,
+
+20 Nov 2003 —490 —498 612 496 79 &
+7 Nov 2004 —394 —489 635 512 78 =
+15 May 2005 ~~ —305 —377 125 125 68 =
+6 Apr 2000 ~320 —339 445 441 54 S
+:
+
+combination of SWDP > 15 nPa and IEF > 2.5 mV/m for all six storms depicted in Figure 6. The storms are 5
+
+listed in the order of Sym-H range (total decrease in Sym-H during the main phase). It is clear that the longer high ~~ =
+
+SWDP (>15 nPa) and IEFy (2.5 mV/m) conditions, the larger Sym-H range, which was —606 nT during the 2
+
+present storm, and the Sym-H ranges systematically decrease with the reduction in the durations of these con- 2
+
+ditions. On the other hand, the duration of IEFy, > 2.5 mV/m alone does not show any systematic variation with ~~ =
+
+the Sym-H range. E
+
+©
+
+Figure 7 displays a bar diagram of Sym-H ranges as a function of duration (in minutes) that satisfies the conditions :
+
+of IEFy > 2.5 mV/m alone (top panel) and the combination of SWDP > 15 nPa and IEFy > 2.5 mV/m (bottom  £
+
+-300 :
+
+6-Apr-2000 id
+
+2
+
+= 15-May-2005 :
+
+£ -400 -
+
+© :
+
+o >
+
+= z
+
+< =
+
+g
+
+L 7-Nov-2004 S
+
+r -500 20-Nov-2003 =
+
+— 31-Mar-2001 c
+
+> :
+
+n :
+
+-600 10-May-2024 :
+
+300 |
+
+6-Apr-2000 =
+
+— =
+
+- 15-May-2005 g
+
+£ -400 =
+
+Q 9)
+
+2 ]
+
+= z
+
+© -
+
+| S. =A
+
+T 7-Nov-2004 A
+
+r 500 20-Nov-2003 2
+
+S 31-Mar-2001 &
+
+> :
+
+Z :
+
+-600 10-May-2024 :
+
+0 100 200 300 400 500 600 :
+
+Duration (min) 2
+
+2
+
+Figure 7. Sym-H ranges as a function of durations (in minutes) under the conditions of IEF, > 2.5 mV/m alone (top panel) g
+
+and the combination of SWDP > 15 nPa and IEF, > 2.5 mV/m (bottom panel). 8
+a
+TULASI RAM ET AL. 9of 14  ¢

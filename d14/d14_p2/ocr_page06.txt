@@ -1,0 +1,64 @@
+384  T. Okita and Y. Kojima
+such a resonant absorption frequency o_ = m2 in our model 1s curve in region (1) somewhat exaggeratedly. The potential varies
+formally analogous to the electron—cyclotron resonant frequency in with the position through the function /# and the background rota-
+the standard plasma physics (Wolfgang & Rudolf 1996). tion 2. The potential height 1s determined by the coupled quantity
+(11) Relativistic limit. It 1s important to understand the new effect (m + 2) 2 and its width 1s given by the size L of the corotating
+that appears 1n the relativistic case. Fig. 3 demonstrates that the zone. This result means that the large wavenumber lifts up the po-
+evanescent zone prevails in the frequency regime 0 < o_/Q2 < tential barrier, only 1f the background stellar medium rotates. In
+m + 2, whose band width is therefore broadened by large m modes. other words, 1f the surrounding matter 1s not dragged by the star,
+The cut-off frequency 1s given by o_ /€2 =m + 2. It 1s only a high- say, being 1n static state £2 = 0, then the potential never rises, even
+frequency wave with o_/Q2 > m + 2 that can always propagate though some high azimuthal waves exist.
+in a WKB sense. By contrast with the classical limit, the resonant Whether or not the wave can propagate and transmit out depends
+absorption o_ /€2 = m does not appear in this propagation regime, on the wave energy, that 1s, wave frequency o_. Our argument
+but in the evanescent regime. deserves to be specially emphasized in two explicit regimes: the
+evanescent frequency mode 22 < o_ < (m + 2)<2 and the propa-
+3.2 Structure of the potential barrier gation mode o_ > (m + 2)S2. S
+As 1s obvious from Fig. 3, evanescency cannot be neglected in large 9
+m mode. In this subsection, we turn to the investigation of the spatial 3.2.1 Evanescent mode: 2S < o < (m + 2) &
+structure in the evanescent zone for large m. We now introduce a new —
+dependent variable W_ defined by W_ = u'/?£_ for the amplitude As is apparent in Fig. 4, such low-frequency waves excited in the =
+of the negative mode with 7 = ,/o_z. Exploiting some arithmetic interior cannot help striking the potential barrier. Since refractivity =
+algebra, wave equation (21) 1s now rewritten into a Sturm—Liouville- is zero on the critical curve o_/Q2 = m(1 — h) + 2, outgoing waves @
+type differential equation with m(1 — h) +2 < 0_/Q < m + 2 are generally reflected, when >
+ND » they reach the potential wall. 2
+d>w_ 1 du 1 d°w 1 7 vw —o 0
+z Tage\w) me tet mr-=o 2
+(45) 3.2.2 Propagation mode: o_ > (m + 2)S2 £
+where In this case, perturbation of the electromagnetic fields can propa- S
+EF — o_. (46) gate as a wave. The present context in our model 1s almost con- 3
+cerned with the WKB frequency range. The propagation sometimes 5
+A — (m1 —h)+2]. (47) exhibits a remarkable property, if certain conditions are satisfied. 5
+N As long as the wave frequency is much greater than the poten- =
+The first two terms concerning (i in square brackets in equa- tial strength o_ > (m + 2)Q2, the potential itself does not have Q
+tion (45) become very small for strong magnetic fields B, > 10 G, much influence on the wave behaviour. However, if the frequency
+since i can be almost regarded as a constant. We can compare becomes commensurable to the potential height o_ > (m + 2)S2, Q
+equation (45) with the one-dimensional Schrodinger equation for the existence of a potential barrier cannot be ignored. Especially if >
+the box-type potential in a stationary state. Physical quantities E the wavelength is comparable to the potential width, i.e. k_L ~ 1, =
+and V,,, respectively, correspond to ‘wave energy’ and ‘potential’ then the waves will interfere with the potential barrier and their be- &
+in a formal sense. Strictly, the potential V;, depends on the wave haviour will be strongly altered. This inherent property is expected =
+energy E through the frequency o_. However, o_ 1s here treated as to be more evident near the threshold frequency o_ ~ (m + 2)<2. g
+a constant value irrespective of the position, so that the following Motivated by this general consideration, we explicitly calculate the Q
+discussion 1s valid without loss of generality. iN transmission rate in the next section. The numerical parameters are 5
+A schematic profile of the effective potential V,, and the wave adopted to satisfy the above condition, L ~ 1 /k_ ~ 10° cm and m = 9
+energy E 1s given in Fig. 4 as a function of distance z. We draw the max / 2 ~ 10°. Using these parameters, we examine how and to what N
+v extent the propagation and transmission are affected by the potential 0
+m barrier. j=
+dD
+=
+(0)
+Siti He 4 TRANSMISSION x
+(m+2)Q A=
+4.1 Numerical calculation
+We numerically calculate the transmission rates (42) of the wave
+E propagating from the deep crust, through the corotating plasma en-
+velope, toward the vacuum exterior subject to matching conditions
+at each boundaries. As already mentioned above, only the nega-
+er 2 tive helicity wave 1s intriguing for physical interests. Evanescent
+modes in a low-frequency regime 0 < o_ < [m(1 — h) + 2] 2 are
+(1) (2) 3) excluded from this calculation. This constraint on wave frequency
+0 L thereby guarantees that all waves are capable of propagating in a
+5 WKB sense. We can roughly estimate a typical wave frequency
+Figure 4. Spatial structure of the potential barrier for the negative mode as w measured in the inertial frame by approximating as w ~ v/q.
+a function of distance. The horizontal dotted line denotes rotation frequency An appropriate frequency thus lies in a finite range 10° < ow <
+o_ of the wave propagating above the potential. 10° s71,
+© 2005 The Authors. Journal compilation © 2005 RAS, MNRAS 364, 879-890

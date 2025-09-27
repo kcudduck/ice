@@ -1,0 +1,21 @@
+The analysis of local magnetic records and magnetic indices during the event on 29
+October 2003, when they are extrapolated to the Carrington event, led us to interesting
+implications. These are the following:
+1) The Dst or SYM-H indices (commonly used to assess the severity of a storm) if
+calculated with multiple observatories as done today might have missed the large H-
+spike recorded at Colaba during C59.
+2) The very local signatures of the H-spike imply that a Carrington-like event can occur
+more often than expected.
+3) FACs played a major role in the H-spike in C03 and C59.
+Acknowledgements. Geomagnetic field data have been obtained from
+INTERMAGNET magnetic observatories. The authors thank the Institutes that operate
+the observatories which provided data for this study; they also acknowledge the WDC
+for Geomagnetism for the magnetic field data and the SYM-H index.
+This research was supported by the contract “Estudio de la influencia de fendmenos
+relacionados con la Meteorologia Espacial en las infraestructuras de REE” between
+Red Eléctrica de Espana and the Universidad de Alcala and by grants PPII10-0183-7802
+from the Junta de Comunidades de Castilla-La Mancha of Spain and AYA2013-47735-
+P from MINECO. The editor thanks two anonymous referees for their assistance in
+evaluating this paper.
+
+11

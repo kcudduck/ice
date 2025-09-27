@@ -1,0 +1,55 @@
+80 I. Charvet et al. / Ocean Modelling 69 (2013) 79-92
+Notation
+Ep total wave potential energy f friction coefficient
+Ep potential energy of the positive wave component g acceleration due to gravity
+E, potential energy of the negative wave component h water depth in the constant depth region of the flume
+Ex total wave kinetic energy lp horizontal length of the sloping beach
+E* a characteristic energy 52 variance of parameter x for a sample
+H wave height (trough-to-peak) Sp, pooled standard deviation for a combination of samples
+K,k regression coefficients for the same variable x
+L wavelength to time when #(t) = 0.01#,,,, prior to occurrence of the
+L a characteristic length parameter wave peak
+R wave runup ty, tig Value of the t statistic for k, log K
+R horizontal runup or inundation length tive/2) critical value from t distribution for N degrees of free-
+R? statistical coefficient of determination dom and a level of significance c
+SE, SEjog ty time of occurrence of the wave peak
+standard errors associated with the prediction of X chosen wave parameter or input variable (i.e.
+k,logK x=a,T,R)
+SSE sum of squared residuals y response variable
+SST total sum of squares Z; standardized residuals
+T wave period oY empirical factors relating characteristic wave parame-
+T1 time taken for the still water level (# =~ 0) to reach 7, ters to runup
+during generation of the positive wave component f angle of the sloping beach
+T2 duration of the negative wave component & error term (regression)
+T, travel time of a linear wave along the beach length n water surface elevation with respect to still water level
+X a measure of horizontal distance 0 density of water (in experiments p,1000kg/m?)
+a positive wave amplitude g,0?, respectively estimated standard deviation, variance for the
+a negative wave amplitude population for the parameter considered
+Chex, wave speed (measured experimentally)/ phase celerity
+e; residuals
+tures in numerical models, simplified runup expressions are used displacement of the sea floor. However, most past studies have cor-
+for example within the insurance and risk assessment community related runup with the wave amplitude; the latter parameter being
+to estimate the coastal impact of tsunami. determined mainly through experiments or in a few cases from
+A critical review of the runup relationships shows that several historical data. It appears obvious that there are other important
+approaches have been used to develop runup equations. Some wave characteristics that may have a bearing on runup. Further-
+existing studies (e.g., Plafker, 1965) have tried to relate runup to more, whilst most past experimental studies have adopted rela-
+the initial disturbance that creates a tsunami, such as the vertical tively long waves, characterised by wavelengths that are larger
+Bg
+J CV : Control Valve Lint eLte
+SV : Security Valve
+——
+T=2T1+T2
+_T2 J \
+> T
+T1
+- -
+sv cv]
+oe | ~
+| FR EET
+¥ He AML a |.
+a No an
+his TT h J
+4.8 15.2
+Fig. 1. Wave generator, general flume dimensions, wave probe and bathymetry. The numeric values are in meters. The runup height R is indicated, as the vertical distance
+above mean water level corresponding to the point of maximum wave inundation on the beach. The upper right corner schematic illustrates the method used to estimate the
+experimental wave period.

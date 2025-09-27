@@ -1,0 +1,32 @@
+Confidential manuscript submitted to Journal of Geophysical Research: Oceans
+56 minutes at DART 46407 and 40-69 minutes at DART 32401), leading or trailing. This
+conclusion 1s consistent with the observations already made for Figure 8. Generally, the agreement
+1s higher 1n terms of the starting times (relative location within the figure) than in the magnitude
+(color scale). However, in some instances, such as close to Tonga (DART G, 51425) and 1n the
+Northwest Pacific Ocean (DART 21420), the differences are significant, especially when
+comparing the components with a higher energy content. In fact, the field observations of DART
+51425 highlight the extreme complexity of this event in the near field, since model fails to capture
+most of the higher energy components at this location, especially after the trailing waves arrive.
+This 1s not a surprise, since as already mentioned, higher frequency waves are not included in the
+source model. As we move farther away from the source, the leading and trailing waves are further
+separated in time, and it 1s easier to observe the differences between them. The amplitude of the
+leading wave decreases with distance, which 1s reflected in the CWT results. Moreover, the leading
+wave tends to produce long waves only, and little or no shorter wave components. In some
+instances (e.g., DART 21420) lower period components arrive before the trailing wave arrival time,
+which means that these must have been produced locally or closer to the DART buoy location
+rather than at the volcano, due to their slower celerity. These are likely to have have been produced
+by wave scattering (1.e., free wave creation) as the locked wave propagates over the changing
+bathymetry, by the mechanisms explained in Vennell (2007). Given that the model solution does
+not capture these short-wave components (€.g., compare both panels in row d), the main hypothesis
+is that they may require a finer mesh to be reproduced. However, the finer mesh tested led to
+numerical instabilities, so this point could not be verified. On top of this, components with shorter
+wavelengths are more susceptible to dispersive effects. Therefore, LSWE may not suffice to
+represent them accurately, in which case more sophisticated types of equations, as for example
+Boussinesq equations, would be required. An analysis on the dispersion effects for the present
+model will be presented in appendix A. Finally, after the trailing wave arrival time, long and short
+waves seem to be equally important. This 1s because the free wave produced by the atmospheric
+pressure travels at the same celerity as long waves produced by additional mechanisms. Generally,
+the longer period components arrive slightly earlier. However, this perception may be slightly
+exacerbated by the characteristics inherent to the CWT, which spreads energy over a longer time
+for longer periods, due to the longer length of the wavelet used in the analysis of longer periods.
+22

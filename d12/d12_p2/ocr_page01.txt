@@ -1,0 +1,69 @@
+0 Dynamics of tsunami waves
+
+-
+
+Frédéric Dias® Denys Dutykh™
+
+>
+
+cM
+
+v— Abstract
+
+= The life of a tsunami is usually divided into three phases: the gen-
+
+ay eration (tsunami source), the propagation and the inundation. Each
+
+© phase is complex and often described separately. A brief description
+
+ae! of each phase is given. Model problems are identified. Their formula-
+
+I tion is given. While some of these problems can be solved analytically,
+
+9 most require numerical techniques. The inundation phase is less doc-
+
+2 umented than the other phases. It is shown that methods based on
+
+Ne Smoothed Particle Hydrodynamics (SPH) are particularly well-suited
+
+far for the inundation phase. Directions for future research are outlined.
+
+yo
+
+ey Contents
+
+a
+
+— 1 Introduction 2
+
+yo
+
+yo
+
+\O 2 Tsunami induced by near-shore earthquake 3
+
+S 2.1 Introduction . ........................... 3
+
+2 2.2 Volterra’s theory of dislocations . . . .............. 4
+
+Q
+
+om 2.3 Dislocations in elastic halt-space . . . . . ............ 6
+
+> 2.4 Finite rectangular source . . . . . . .. ............. 9
+
+<=
+
+= 3 Propagation of tsunamis 15
+
+2 3.1 (Classical formulation . . ..................... 16
+
+le 3.2 Dimensionless formulation . . . . . . .............. 17
+
+= 3.3 Shallow-water equations . . . . ................. 18
+3.4 Boussinesq equations . . . . ................... 20
+3.5 Classical Boussinesq equations . . . . . .. ........... 21
+3.6 Korteweg-de Vries equation . . . ................ 22
+*Centre de Mathématiques et de Leurs Applications, Ecole Normale Supérieure de
+
+Cachan, 61, avenue du Président Wilson, 94235 Cachan cedex, France

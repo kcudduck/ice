@@ -1,0 +1,36 @@
+Evaluating the relationship between strong ge... https://www.swsc-journal.org/articles/swsc/fu...
+By bisBt® kbisaWeBsirdpdyl. 2062. StatiEilfaSareiysis ofa stare gleticnuditnes maasuralinve im toekizscand, on some pages, Yes No
+electric power grid and geomagnetiresdtioity sSumianidtEuohies. Mot208£d 2hdtioutpsd setup
+doi.org/10.1029/2019SW002181. [CrossRef] [Google Scholar]
+
+Wang K-R, Liu L-G, Li Y. 2015. Preliminary analysis on the interplanetary cause of geomagnetically
+induced current and its effect on power systems. Chinese Astron Astrophys 39: 78-88. https://
+doi.org/10.1016/j.chinastron.2015.01.003. [CrossRef] [Google Scholar]
+Weaver JT. 1994. Mathematical methods for geo-electromagnetic induction. Wiley, New York. ISBN
+978-0863801655. [Google Scholar]
+Zois JP. 2013. Solar activity and transformer failures in the Greek national electric grid. / Space Weather
+Space Clim 3: A32. https://doi.org/10.1051/swsc/2013055. [CrossRef] [Google Scholar]
+Cite this article as: Gil A, Berendt-Marchel M, Modzelewska R, Moskwa S, Siluszyk A, et al. 2021.
+Evaluating the relationship between strong geomagnetic storms and electric grid failures in
+Poland using the geoelectric field as a GIC proxy. J. Space Weather Space Clim. 11, 30. https://
+doi.org/10.1051/swsc/2021013.
+All Tables
+Table 1 List of the intense geomagnetic storms in January 2010-July 2014.
+A In the text
+Table 2 The percentage of electrical grid failure (EGF) reasons for electrical transmission network in
+southern Poland in particular years 2010, 2011, 2012, 2013, 2014 and for the whole period January 2010-
+July 2014.
+A Inthe text
+Table 3 The analysis of the t-test for means of DEF failures in 2010-2014 for 24 h+, 24 h—, 48 h+, 48 h-,
+72 h+ and 72 h—, where Wis the value of Shapiro - Wilk test, Fthe value of Levene test".
+A Inthe text
+Table 4 The analysis of the t-test for standard deviations of DEF failures in 2010-2014 for 24 h+, 24 h-,
+48 h+,48 h—-, 72 h+ and 72 h-.
+A In the text
+All Figures
+Fig. 1
+7= = Linear regression of the annual percentage rate of EGFs from groups DEF in January 2010-
+cc July 2014 (circles, left axis) and yearly changes of sunspot number (orange squares, right
+axis).
+A In the text
+14 of 15 27/09/2025, 18:16

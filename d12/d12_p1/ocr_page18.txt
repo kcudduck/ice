@@ -1,0 +1,42 @@
+thickness, grain size distribution to flow speed and wave amplitude. However,
+these results are restricted by the low condition. For instance the flow speed
+of non-uniform or unsteady flow cannot be inversed yet. Also if there were
+strong return flows or subsequent waves, the results from TSUFLIND will
+contain some uncertainties. From a general point of view, with a simple
+bathymetry, the tsunami and paleotsunami as well as other extreme events
+can be understood with the help of this joint inversion framework. More
+research needs to be done to improve this joint inversion framework presented
+to quantify and reduce the uncertainties in the inversion results and expand
+applicable conditions.
+6. Appendix I
+Table 1: Symbols List
+
+Symbol Unit Description
+
+h m Water depth
+
+Ws ms! Settling velocity of the sediment grain
+
+[ m Horizontal distance a grain travels to be deposited
+
+y 1 Run-up time constant
+
+T S Inundation time
+
+H m Maximum flow depth at a given location during tsunami inundation
+
+Ah m Water depth increment due to tsunami
+
+m 1 Slope
+
+R. m Vertical water inundation limit
+
+Hy m Maximum water depth at the shoreline
+
+¢Y m Thickness of the deposit for grain size ¢ at the shoreline
+
+Ty S Deposition time
+
+ci m° /m? Depth averaged sediment concentration for grain size ¢
+
+18

@@ -1,0 +1,67 @@
+MW) Check for updates
+A 1 . ADVANCING
+EARTH AND
+a \\J WP SPACE SCIENCES
+Space Weather
+RESEARCH ARTICLE ~~ Super-Intense Geomagnetic Storm on 10-11 May 2024:
+10.1029/2024SW004126 : :
+Possible Mechanisms and Impacts
+Special Collection: S. Tulasi Ram’ , B. Veenadhari', A. P. Dimri’ , J. Bulusu' ,» M. Bagiya' » S. Gurubaran' ,
+Space Weather Events of 2024 N. Parihar” , B. Remya" , G. Seemala” " , Rajesh Singh” * , S. Sripathi” * , S. V. Singh” " , and
+May 9-15 G. Vichare!
+K Co ndian Institute of Geomagnetism, Mumbai, India
+ey Points:
+® Strong SWDP caused a highly |
+d tosph ith : : : :
+magnetopause pushed below Abstract One of the most intense geomagnetic storms of recent times occurred on 10-11 May 2024. With a
+geostationary orbit (6.6 RE) peak negative excursion of Sym-H below —500 nT, this storm 1s the second largest of the space era. Solar wind
+continuously for 6 hr energy transferred through radiation and mass coupling affected the entire Geospace. Our study revealed that the
+The highl d tosph : . :
+* le Lan © current at much oe dayside magnetopause was compressed below the geostationary orbit (6.6 RE) for continuously ~6 hr due to
+closer distance to the Earth strong Solar Wind Dynamic Pressure (SWDP). Tremendous compression pushed the bow-shock also to below
+* Asuper-dense ICME with high SWDP the geostationary orbit for a few minutes. Magnetohydrodynamic models suggest that the magnetopause
+15 nPa) and IEFY (>2.5 mV/ : : LL : :
+> nine i. 400 hig . ey om location could be as low as 3.3RE. We show that a unique combination of high SWDP (>15 nPa) with an intense
+responsible for this intense storm eastward interplanetary electric field (IEF > 2.5 mV/m) within a super-dense Interplanetary Coronal Mass
+Ejection lasted for 409 min—is the key factor that led to the strong ring current at much closer to the Earth
+Supporting Information: causing such an intense storm. Severe electrodynamic disturbances led to a strong positive ionospheric storm
+Supporting Information may be found in with more than 100% increase in dayside ionospheric Total Electron Content (TEC), affecting GPS positioning/
+the online version of this article. navigation. Further, an HF radio blackout was found to occur in the 2—12 MHz frequency band due to strong D-
+and E-region 1onization resulting from a solar flare prior to this storm.
+Correspondence to:
+S. T. Ram and A. P. Dimi, Plain Language Summary Life and a habitable atmosphere are sustained on Earth thanks to the
+tulasiram.s @1iigm.res.in; protective and far-stretched magnetic shield around the Earth, known as the Magnetosphere, which protecting
+apdimri@hotmail.com the humanosphere from the hazardous solar wind particles that are continuously emanated from the Sun.
+p p y
+However, massive solar wind ejections from the Sun often disturb the Earth's magnetosphere and affect
+oo J g p
+Citation: mankind and critical space- and ground-based technological infrastructure. When higher amounts of the solar
+Hy a Baa Ce mk wind traveling with supersonic speeds impact, the Earth's magnetosphere compresses significantly, and the
+of al (2024). Super-intense ceomagnetic crucial satellites in space become directly exposed to hazardous solar wind. Further, strong and rapid
+storm on 10-11 May 2024: Possible disturbances in the geomagnetic field and ionosphere could significantly affect the operations of various
+AS00126 ho J : “> technical systems on ground, like electrical power grids, GNSS-based precise navigation, etc. The strongest
+1029/2004SW004126 | geomagnetic storm of the past three decades has recently occurred on 10-11 May 2024. This study investigates
+the solar sources and the possible mechanisms responsible for the occurrence of such an intense geomagnetic
+Received 16 AUG 2024 storm and also details the drastic reconfiguration of Earth's magnetosphere and significant ionospheric
+Accepted 20 NOV 2024 disturbances observed during this storm.
+Author Contributions:
+Conceptualization: S. Tulasi Ram,
+A. P. Dimri, S. Gurubaran 1. Introduction
+Formal analysis: S. Tulasi Ram,
+B. Veenadhari, J. Bulusu, M. Bagiya, The Earth's magnetosphere 1s constantly exposed to a continuum of charged particles emitted from the Solar
+iy Caer > Loo he pa ) corona, known as Solar Wind. The transfer of solar wind energy and momentum to the Earth's environment
+ajesh Singh, S. Sripathi, S. V. Singh, : :
+G. Vichare triggers large-scale plasma flows (and currents) in the magnetosphere and ionosphere. These magnetospheric and
+Funding acquisition: B. Remya ionospheric currents produce additional magnetic fields that are additive/suppressive to the Earth's main field,
+thereby contributing to the short-term, but highly dynamic changes in the geomagnetic field. Solar storms often
+release enormous bursts of electromagnetic energy (solar flares) followed by massive ejections of coronal mass
+© 2024. The Author(s). (CMESs). The elevated doses of solar wind particles during CMEs exert additional pressure on the Earth's
+This 1s J neces artic under the magnetosphere and cause significant compression of the magnetopause (Sibeck et al., 1991). Furthermore,
+terms of the Creative Commons . . « . . . .
+Attribution-NonCommercial-NoDerivs enhanced solar wind particle injection into the magnetosphere drives a strong toroidal current around Earth,
+License, which permits use and known as ring current, at distances of 4-7 Earth radii (RE) (Akasofu et al., 1963; Daglis et al., 1999). The
+apbution an medium. provided the additional magnetic field produced by this ring current is directed southward (opposite to Earth's magnetic field),
+original work 18 properly cited, the use 1S ] ] ] ; ] ] ;
+oe commercial - v So difications or thereby causing a depression in the net magnetic field measured on the ground. The magnitude of the geomagnetic
+adaptations are made. field decrease on the ground varies with the measurement location and local time. The longitudinally averaged
+TULASI RAM ET AL. 1 of 14

@@ -1,0 +1,135 @@
+I Yedl 2
+IS Space Weather 10.1029/2024SW004126 e
+AND SPACE SCIENCES g
+
+_ a) 6 April 2000 In b) 31 March 2001 i. c) 20 November 2003 Hf
+
+© C Lv) =
+
+T 50 E 50 T 50 2
+
+5 5 5 £
+
+S ae Ry = 4 = CT A Jam PA 2
+» 0 » 0 _ Ll shi Tad ? 0 a, || 2
+
+ET 50 T 50 E 50 s,
+
+S S | S — =
+
+E 0 E 0 \ E, 0 wT 5
+
+Ww -50 Ww -50 i -50 z
+—~ 200 —~ 200 —~ 200 2
+
+Eo £0 CA 1 lg ]
+
+T 200 1 T 200 T 200 Te g
+
+S 400 S 400 ~ S -400 BY =
+
+? .600 ? 600 ? 600 FE — 3
+
+15 16 17 18 19 20 21 22 23 00 O01 03 04 05 06 07 08 09 07 08 09 10 11 12 13 14 15 16 17 18 19 E
+
+— d) 7-8 November 2004 - e) 15 May 2005 - f) 10-11 May 2024 x
+
+x g g 2
+
+£50 £50 £50 S
+
+| il NH | S S I 5
+
+Q Qo Q >
+
+= ALAN pg] So ef a o= E
+
+E 50 E 50 E 50 -
+
+> > py) T
+LL LL LL 1)
+
+LL -50 LL -50 i -50 =
+—~ 200 — 200 —~ 200
+
+So i 2 0 Sof re §
+
+T .200 \ T .200 T 200 1 | S
+
+= 400 > -400 = -400 I Wilh :
+
+» 600 “ 600 ? 600 =
+18 19 20 21 22 23 00 01 02 03 04 05 06 05 06 07 08 09 16 17 18 19 20 21 22 23 00 01 02 03 2
+
+uT uT ut 3
+
+Figure 6. Comparison of most intense storms with peak negative Sym-H less than —300 nT occurred during solar cycles 23-25 along with the present storm. Shaded S
+
+region indicates the periods with SWDP > 15 nPa simultaneously with IEFY > 2.5 mV/m [refer text and Table-1 for more details]. 5
+
+storm's main phase develops with the arrival of a low-density (low SWDP) magnetic cloud with sustained g
+
+southward Bz (Temmer & Bothmer, 2022; Burlaga et al., 1982; Lepping et al., 1997; Gonzalez & B. Tsur- :
+
+utani, 1987; Gonzalez et al., 2011; Kilpua et al., 2017; Liu et al., 2020). However, in the present storm case, a o
+
+series of CME:s interacted with each other and formed a composite ICME on their journey to Earth. At least two =
+
+distinct ICMEs can be identified around 1634 UT and 2136 UT within this composite ICME from the solar wind =
+
+observations at L1-point. This composite ICME structure consisted of a rare and unique combination of elevated E
+
+SWDP (high-density) and sustained southward IMF Bz for several hours. :
+
+To highlight the uniqueness of this ICME structure and the resultant storm, a comparison of the most intense :
+
+geomagnetic storms with peak negative Sym-H less than —300 nT occurred in the solar cycles 23 and 24 1s made p
+
+in Figure 6. Figures 6a—61 show the variations of SWDP and interplanetary electric field, IEF, (-V x IMF Bz), and =
+
+: : E
+
+Sym-H index during 7 April 2000, 31 March 2001, 20 November 2003, 7-8 November 2004, 15 May 2005, and {
+
+10-11 May 2024 (present storm), respectively. The Halloween storms that occurred during 29-31 October 2003 5
+
+and 5 Novovember 2,001 storms could not be examined here due to the unavailability of corresponding solar wind ~~ §
+
+data. Here, the IEFy 1s presented (instead of IMF Bz), which 1s a more commonly used parameter (directly or :
+
+indirectly) to represent the solar wind-magnetosphere coupling efficiency (Akasofu, 1980; Burton et al., 1975;  &
+
+O'Brien & McPherron, 2000; Newell et al., 2007). By examining Figures 6a—6f, one distinct feature that can be 2
+
+observed 1s the high SWDP conditions sustained for long hours (throughout the main phase) during 10-11 May =
+
+2024 compared to other storms. As discussed above, a potent combination of high SWDP and eastward IEFy can =~ 32
+
+cause a strong ring current to flow at much closer distances to the Earth, leading to a large decrease in the 2
+
+geomagnetic field. For example, a combination of SWDP > 15 nPa and IEFy > 2.5 mV/m is considered as a ~~
+
+criterion for comparison among the storms presented in Figures 6a—61f. The shaded region with a light blue color °
+
+represents the periods that satisfy the above criterion. From Figure 6f, one can observe that such a potent 2
+
+combination of SWDP > 15 nPa and IEFy, > 2.5 mV/m lasted for a total of 409 min out of the total main phase of =
+
+539 min during the present storm. On the other hand, such a combination of SWDP > 15 nPa and IEFy, > 2.5 mV/
+
+m occurred for only 54, 132,79, 78, and 68 min during the 6 April 2000, 31 March 2001, 20 November 2003, 7-8 d
+
+November 2004, and 15 May 2005 storms (Figures 6a—6¢), respectively. This difference in the SWDP and IEF, =
+
+conditions makes the present storm distinctly different from the other intense storms that occurred in the past. EB
+
+Table-1 presents a comparison of peak negative Sym-H (Sym-H peak), the total decrease of Sym-H during the .
+
+main phase (Sym-H range), main phase duration, duration with IEF, > 2.5 mV/m, and duration with a :
+
+:
+EEE EEE EEE EEE EEE EE EEE E—————————.
+
+=
+
+TULASI RAM ET AL. 8of 14  §

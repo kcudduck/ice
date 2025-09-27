@@ -1,0 +1,55 @@
+Remote Sens. 2024, 16, 3497 12 of 22
+ern hemisphere shows an extreme value at 8.89 kHz. The three-component perturbations
+in the HF band remain below 0.2.
+3.7. Analysis of Variation Growth Rate
+
+The analysis of D values in Sections 3.2-3.5 only reflects the absolute changes in
+disturbances. To verify conclusions such as the ULF band being the most affected by
+magnetic storms, this section will calculate the growth rate of perturbations, or the relative
+change, across different frequency bands.
+
+Figure 10 illustrates the perturbation growth rates across the four frequency bands for
+the period of magnetic storms in November 2021. In the ULF band, the most significant
+relative changes occur at frequencies below 5 Hz, with notable relative changes also
+observed around 8 Hz and 13 Hz. The relative changes in the ELF and VLF bands are
+considerably weaker compared to those in the ULF band. The high-frequency band exhibits
+the smallest relative change, which is not discernible as a color difference in the figure.
+Therefore, magnetic storms have the most significant effect on the ULF band and a negligible
+impact on the HF band.
+
+: =
+=
+“2 100 :
+; 2021/11/03 2021/11/04 2021/11/05 2021/11/06 2021/11/07
+— gg pT v - am =" aman 0 "man V EN A/T Narn TINT
+me Co tWe
+= 2000
+7p
+2021/11/03 2021/11/04 2021/11/05 2021/11/06 2021/11/07 <
+§ 20.0 — p—- 0.4 ry
+| 2021/11/03 2021/11/04 2021/11/05 2021/11/06 2021/11/07 i
+ppg FB WN fF, NE 82 = - . Be
+=1.2 = = = = —= = — = il =
+= 0:0 lhe EU © Eo  =as FC Ea B ig
+=00 2021/11/03 2021/11/04 2021/11/05 2021/11/06 202111007 © ®
+25.0 pm — — — 0:2 &
+= 10 1 © = - 01 E
+ION h | | ey Se "Es
+To 2021/11/03 2021/11/04 2021/11/05 2021/11/06 202111007 5
+N 5.0 01 ££
+I 37 2
+25 0.05 ¥ =
+fr a TE i :
+= 2021/11/03 2021/11/04 2021/11/05 2021/11/06 2021/11/07 >
+Figure 10. (a) Dst, (b) SML, growth rate of ULF D value: (c) ULF, (d) ELF, (e) VLF, (f) HE
+
+In order to quantitatively analyze the disturbance growth rate in the four frequency
+bands, we draw the curve of the maximum orbit of the disturbance growth rate (Figure 11).
+The figure shows that the disturbance growth rate in the ULF band tends to decrease. It
+decays sharply at 0-5 Hz and gradually stabilizes after 5 Hz. In the 0-5 Hz band, the
+disturbance growth rate is greater than 20%. Above 5 Hz, the disturbance growth rate
+remains around 20% and gradually decreases. Around 8 Hz and 13 Hz, there is a slight
+increase in the perturbation growth rate. The disturbance growth rate in the ELF band
+remains around 8%. The disturbance growth rate in the VLF band reaches an extreme value
+(greater than 10%) near 5 KHz, and then gradually decreases, basically not exceeding 10%.
+The disturbance growth rate in the HF band is in the neighborhood of 2%.

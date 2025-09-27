@@ -1,0 +1,31 @@
+References
+
+Bahlburg, H. and Weiss, R. (2007). Sedimentology of the december 26,
+2004, sumatra tsunami deposits in eastern india (tamil nadu) and kenya.
+International Journal of Earth Sciences, 96(6).
+
+Benner, R., Browne, T., Briickner, H., Kelletat, D., and Scheffers, A. (2010).
+Boulder transport by waves: Progress in physical modelling. Zeitschrift
+fiir Geomorphologie, Supplementbinde, 54(3):127—-146.
+
+Bourgeois, J., Hansen, T. A., Wiberg, P. L., and Kauffman, E. G. (1988).
+A tsunami deposit at the cretaceous-tertiary boundary in texas. Science,
+241(4865):pp. 567-570.
+
+Delis, A. I., Kazolea, M., and Kampanis, N. A. (2008). A robust high-
+resolution finite volume scheme for the simulation of long waves over com-
+plex domains. International Journal for Numerical Methods in Fluids,
+56(4):419-452.
+
+Gelfenbaum, G. and Smith, J. D. (1986). Experimental evaluation of a gen-
+eralized suspended-sediment transport theory.
+
+Hutchinson, I., Clague, J. J., and Mathewes, R. W. (1997). Reconstructing
+the tsunami record on an emerging coast: A case study of kanim lake,
+vancouver island, british columbia, canada. Journal of Coastal Research,
+13(2):pp. 545-553.
+
+Jaffe, B., Buckley, M., Richmond, B., Strotz, L., Etienne, S., Clark, K., Watt,
+S., Gelfenbaum, G., and Goff, J. (2011). Flow speed estimated by inverse
+
+22

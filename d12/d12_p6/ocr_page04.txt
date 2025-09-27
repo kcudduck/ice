@@ -1,0 +1,30 @@
+Following the methodology developed in Didenkulova (2008), we let this nonlinearly deformed wave described by Eq. (5)
+run-up on a plane beach, characterized by the water depth h(x) = — x tana. This approach does not take into account the
+merging point of the two bathymetries and, therefore, does not account for reflection from the toe of the slope and wave
+interaction with the reflected wave.
+Ya
+
+n(z,t)
+
+| \ 1% xX
+
+H =n+ ho hy /
+qa ~~
+
+Xo L
+Figure 1: Bathymetry sketch. The wavy curve at the toe of the slope regards analytical solution, which does not take
+into account merging between the constant depth and sloping beach sections.
+To do this we represent the input wave 77,, as a Fourier integral:
+Myo = | B(@)exp (ior) de (6)
+Its complex spectrum B(w) can be found 1n an explicit form in terms of the inverse Fourier transform:
+1 :
+B(w)= 37 Jo (t)exp(—iwt)dt. (7)
+Eq. (7) can be re-written in terms of the water displacement, produced by the wave maker at the left boundary (Zahibo et al.
+2008):
+1 fd +X, +L +X, +L
+B(w)=—— [ “Lexp —1® pl Bl dz , =p 0TH (8)
+27iw J dz v(m) v(m)
+In this study we consider long single pulses of positive polarity:
+1, (1) = Asech’ 8 (9)
+T
+4

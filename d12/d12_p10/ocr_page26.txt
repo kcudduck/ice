@@ -1,0 +1,74 @@
+i acap: Mexico, Acapulco os n | anto: Chile, Antofagasta ~ aric: Chile, Arica i. buve: Colombia, Buenaventura .
+) BITTEN Hil THT Sha ar {0 I Alon $26
+A I :
+C7 caldcnlecatderacnimbipor, himboteAncash ~~ mas:Kibat,Ohistmas ~~ coqu.hlle,onuimbo. : 3
+05f | 05 A 02 | ; : =
+hobo fof pp hp fi or a in ls 3
+p : > -1 ul : 3
+12:00 AM 6:00 AM 12:00 PM ial 12:00 AM 12.00 AM 6:00 AM 12:00 PM 6:00 PM 12:00 AM 12:00 AM 6:00 AM Radi 6:00 PM 12:00 AM 12.00 AM 6:00 AM 12:00 PM 6:00 PM 12:00 AM : D
+cres: USA, Crescent City y ENIWETOK ense: Mexico, Frepnace , GUAYMAS : =
+ELL a Ea. FE E
+12:00AM 6:00 AM 12:00 PM 6:00 PM 12:00 AM 12:00AM 6:00 AM 12:00 PM 6:00 PM 12:00 AM 12:00AM 6:00 AM 12:00 PM 6:00 PM 12:00 AM 12:00AM 6:00AM 12:00 PM 6:00 PM 12:00 AM : A
+hako: Japan, Hakodate HONDAGUA hono: USA, Honolulu,Oahu thua: Taiwan, Hualien . —
+) I 0 { ” =1
+Ml ll 2
+| — nl TR 5
+12.00 AM 6:00 AM 12:00 PM 6:00 PM 12:00 AM 12.00 AM 6:00 AM 12:00 PM 6:00 PM 12:00 AM 12.00 AM 6:00 AM 12:00 PM 6:00 PM 12:00 AM 12.00 AM 6:00 AM 12:00 PM 6:00 PM 12:00 AM : 00
+john: USA, Johnston lali: Ecuador, La Libertad Ipaz2: Mexico, La Paz2 call: Peru, Callao,La-Punta : —
+h — ipedalsaeely 5 Ii it il i a J Jl Hh iM - | I fh hi =
+ee Pilsgioes, Loma 12:00 AM cash, Lis Argialsn. PM 12:00 AM 12:00 AM OO AZURD 6:00 PM 12:00 AM 12:00 AM ASSACRE ay PM 12:00 AM ; =
+1 1 0.05 1 V2]
+y " SN 8
+Wid, uF — EE -
+Al Th E
+12:00AM 6:00 AM 12:00 PM 6:00 PM 12:00 AM 12:00AM 6:00 AM 12:00 PM 6:00 PM 12:00 AM 12:00AM 6:00 AM 12:00 PM 6:00 PM 12:00 AM 12:00AM 6:00AM 12:00 PM 6:00 PM 12:00 AM : I~
+ta: Perti, Matarani,Arequipa maza: Mexico, Mazatlan MOJI MONBETSU : “A
+LA Ariba ——— Lie - i a
+ole 1 i i bi | dl i | 0 <ifll i hi ib 5 Al 5 | il : (-)
+MR lial 9 | NE Ail 3S
+5 Ul 05 :
+12:00 AM AGS ISL AND 6:00 PM 12:00 AM 12:00 AM SA Neat a? PM 12:00 AM 12:00 AM OO ONTARENAS 6:00 PM 12:00 AM ee oat aon os To PM 12:00 AM : -
+os : : y sali: Mexico, Salina Cruz, Oax. : (ON
+0-2 0.2 05 cM
+wa/A Mp . ANY vi (YP SE TV AVR Do
+ER J My ! . fe — ls K J wl on 5 | gl (A a
+12:00AM 6:00 AM 12:00 PM 6:00 PM 1200 AM 12:00 AM 6:00 AM 12:00 PM 6:00 PM 12:00 AM 12:00AM 6:00 AM 12:00 PM 6:00 PM 12:00 AM 12:00AM 6:00AM 12:00 PM 6:00 PM 12:00 AM : N)
+: | he ’ ETT : Hb TE. ke RR
+’ " or BLOM ble w | os 2
+Sh ss Ps Bl 12:00 AM 12:00 AM Aen 6:00 PM 12:00 AM 12:00 AM eA same PM 12:00 AM 12:00 AM Oe USA. Sit 6:00 PM 12:00 AM : =
+Mon © Wl |
+LL a fr SR—, Afr Ji
+Ea Liss i oe pom Ul
+mi. BL Li Wet | JO |
+) ih {ERE 1 E Hibs ir , lh J
+Figure 18. Comparison of the computed tsunami wave heights against the tide gauge observations at various global locations for the
+Valdivia 1960 event. The red colour corresponds to tide gauge observations, and the blue colour represents a numerical simulation. The
+locations of the tide gauge stations shown as titles on each subplot are marked in figure 3 and shown in table 1. The x-axis represents
+the time stamp, and the y-axis represents the wave height amplitude in meters. The starting time in the abscissa in each subplot is 22
+May 1960 19:11:20 UTC. (See electronic supplementary material, table S7, for statistical performance metrics.)
+high-resolution bathymetry and accurate seismic fault parameters can significantly improve model
+accuracy.
+
+The current study demonstrates the successful application of the FE-based ADCIRC model for
+global tsunami simulations, mainly focusing on distant tsunamis and assessing their threat to Indian
+coasts. Through simulations of major historical tsunamis, such as the 2011 Japan, 2010 Chile, 2004
+Indian Ocean, 1964 Alaska and 1960 Valdivia events, the research establishes ADCIRC’s reliability in
+predicting tsunami wave heights and arrival times. Comparisons with tide gauge observations from
+various global locations show a close alignment between model predictions and observed data, with
+favourable statistical performance metrics confirming the model's accuracy. While slight overestima-
+tions of peak wave heights and early arrival times were observed, this can be advantageous for
+operational purposes, as it allows for earlier evacuations. The global unstructured mesh, with spatial
+resolutions ranging from 2 km in shallow waters to 20 km in deeper regions, effectively balances
+computational efficiency and simulation accuracy. The real-time simulation capabilities of ADCIRC
+open avenues for enhanced global tsunami hazard modelling and risk mapping, offering critical
+insights for TWC in identifying coastal hot spots and issuing timely warnings to mitigate potential
+damages and save lives.
+
+However, based on the findings in the study and the observed discrepancies between the model
+and tide gauge data, there is scope for further improvement, which will be addressed in future work.
+
+One area of focus will be the inclusion of astronomical tides in the computations, as local tides can
+significantly influence tsunami wave behaviour. Additionally, aftershocks will be incorporated into the
+model, enhancing its ability to account for secondary seismic events. Another important aspect is the
+inclusion of local wind waves, particularly for regions like the Indian coasts, where high waves during
+monsoons may contribute to the amplification of tsunami waves. Furthermore, the use of spatially

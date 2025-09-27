@@ -1,0 +1,38 @@
+4 Energy of a tsunami 23
+For the Indian Ocean tsunami, it gives roughly ¢ = 377 km. It is of the order
+of magnitude of the wavelength estimated from the width of the segments
+that experienced slip.
+4 Energy of a tsunami
+
+The energy of the earthquake is measured via the strain energy released
+by the faulting. The part of the energy transmitted to the tsunami wave is
+less than one percent Lay et al. [2005]. They estimate the tsunami energy to
+be 4.2 x 10! J. They do not give details on how they obtained this estimate.
+However, a simple calculation based on considering the tsunami as a soliton
+
+x x
+n(x) = asech” (7) u(x) = acysech” (7)
+oives for the energy
+1 oO
+E=—o*?pd*(c2 + gd) / sech*z dz + O(a?).
+V3 oc
+
+The value for the integral is 4/3. The numerical estimate for FE is close to
+that of Lay et al. (2005). Incidently, at this level of approximation, there
+1s equipartition between kinetic and potential energy. It is also important
+to point out that a tsunami being a shallow water wave, the whole water
+column 1s moving as the wave propagates. For the parameter values used so
+far, the maximum horizontal current is 3 cm/s. However, as the water depth
+decreases, the current increases and becomes important when the depth be-
+comes less than 500 m. Additional properties of solitary waves can be found
+for example in Longuet-Higgins [1974].
+5 Tsunami run-up
+
+The last phase of a tsunami is its run-up and inundation. Although in
+some cases it may be important to consider the coupling between fluid and
+structures, we restrict ourselves to the description of the fluid flow. The
+problem of waves climbing a beach is a classical one Carrier and Greenspan
+1958]. The transformations used by Carrier and Greenspan are still used
+nowadays. The basis of their analysis is the one-dimensional counterpart of
+the system (34)—(36). In addition, they assume the depth to be of uniform
+slope: h = —x tan. Introduce the following dimensionless quantities, where

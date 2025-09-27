@@ -1,0 +1,36 @@
+Chakraborty, S., et. al /ASR xx (2024) xxx-xxx 7
+20 29-10-2021 30-10-2021 31-10-2021 01-11-2021 02-11-2021 03-11-2021 04-11-2021 05-11-2021 29-10-2021 30-10-2021 31-10-2021 01-11-2021 02-11-2021 03-11-2021 04-11-2021 05-11-2021
+B = (a) | Wi S z 10° (9) a Ua
+== 22% LL WANA
+eA VT ON Mh = 5 ~ wn ply AT vv wo mL
+stb) | JE ES SY. © ar
+fe 1 nT BE Eh SN i TV I. WE LT
+108 (d) : : : a — il | Mp A: ! I :
+i i i i i i i of CS Nadle d : =» fH Wy, ren iho, : nl A
+ig Eee psf JEST TYRE.
+RR ve ro RR 1 oO
+Fig. 2. Figure panels (a) to (f) show the IMFs |B|, By, By, B, the IEF, and the SYM-H (nT) variations respectively. In the same figure, panels (g) to (I) show the
+Proton Temperature, the Vj, the Proton Density, the Flow Pressure, the PC index, and the § respectively between October 29 and November 05, 2021. The period
+of the weak and the strong geomagnetic storm occurrences are shown as violet- and peach-shaded regions respectively.
+while the SYM-H reached its minimum value of -118 nT at 12:45 UT (17:45 LT) on November 04, 2021. The corresponding values
+of IMFs |B|, By, By, B;, IEF, Proton Temperature, V,, Proton Density, Flow Pressure, PC index, and 8 during the main phase
+onset and the SYM-H minimum were (23.33 nT, 6.79 nT, 15.81 nT, -15.68 nT, 11.23 mV/m, 41.0965%10* K, 716.10 km/s, 7.66
+n/cc, 7.86 nPa, 10.34 and 0.32 respectively) and (14.00 nT, -7.60 nT, 11.73 nT, 0.71 nT, -0.49 mV/m, 1.7323*10* K, 686.10 km/s,
+4.83 n/cc, 4.55 nPa, 4.32 and 0.15 respectively).
+
+Comparing the two shaded regions, one can observe enhanced IMF, Proton Temperature, Density, and Pressure variations in
+addition to enhanced values of solar wind velocities, for the peach-shaded stronger event (November 04, 2021). These observations
+suggest a highly compressed and turbulent plasma and clearly show the presence of a sheath region during this period. Since these
+sheath regions are highly turbulent as a result of plasma instabilities, they are capable of triggering substorms, which in turn affects
+the auroral and high-latitude as well as low/equatorial ionosphere (see Blagoveshchenski (2013); Hui et al. (2017); Rout et al.
+(2018); Fejer et al. (2021) and references therein).
+
+3.3. lonospheric conditions
+
+The 10onospheric TEC 1s known to vary on a daily basis, with time, over different seasons and locations (latitude and longitude)
+as well as with varying solar activity levels. Over the Indian longitude sector and under quiet-time conditions, the daytime values
+of TEC are observed to be higher during equinoctial months (Vernal: March and April; Autumnal: September and October)
+followed by the winter (November to February) and the summer (May to August) months. These seasonal trends are controlled
+by the thermospheric neutral wind that changes the neutral composition as well as increases the O/N, ratio over the low/equatorial
+latitudes, attaining peak values over the equinoctial periods. This increase in the O/N, ratio causes increases in the electron density
+and corresponding higher TEC values are observed during the equinoctial months (Bagiya et al., 2009). However, under disturbed

@@ -1,0 +1,27 @@
+(a) Moore’s model:. Moore et al. |2007| assumes that some grains in the sed-
+iment source do not move because the tsunami flow is not strong enough.
+Furthermore, it is assumed that most grains are transported in suspension.
+Based on these assumptions, the shear velocity is determined for the largest
+orain in the tsunami deposits. The law of the wall can be employed to find
+the shear stress, which is necessary to move the largest grain to get a flow
+velocity U. The following equation is used to determine deposition.
+h [
+wo. b=% (1)
+
+in which wy 1s the settling velocity of the sediment grain. A is the water depth,
+[ represents the horizontal distance a grain travels to be deposited. Because
+of the horizontal transport, this model is also referred as an advection model.
+
+This model was applied to deposits formed by the 1929 Grand Banks
+tsunami, Newfoundland, Canada [Moore et al. 2007]. In this application, it
+was estimated that the average flow depth was 2.5 to 2.8 m, and the flow
+speed was 1.9 to 2.2 ms™', which are the minima|Moore et al. 2007].
+(b) Soulsby’s model:. Soulsby’s model assumes that the water depth increases
+linearly between 0 and v1" and decreases from «1 to 1" for any given locations.
+1" is the inundation time and 7 is a constant related to run-up time, which
+is between 0 and 1. H = Hy + Ah is the maximum flow depth at a given
+location during tsunami inundation and decreases toward the inundation
+limit, Hy denotes the maximum water depth at the shoreline, Ah denotes
+the depth increment due to tsunami:
+
+3

@@ -1,0 +1,74 @@
+Arrival time (min) Amplitude (m) 15
+1400 1200 1000 800 600 400 200 0 © 2 3 4 5
+v .
+corr p=
+5 talc v Y 2
+v lebu v CO
+v const v PQ
+v valp v 2
+coqu :
+- anto % : =
+v cald v =
+v qu v : g
+v aric p=.
+v sant a
+- alle v HP
+ca DS
+— ali =
+a quepo v =
+v sant v —
+v balt v a -v]
+v sum! v CT
+wal :
+y acya [g 3
+dCd :
+p= chit v =
+v manz v 3
+= hiva v XR
+nuKku :
+Y _ nkfa2 —, 7 S
+v pago v 3
+v cres = 3S
+v char v oT
+dren :
+~ vanu i : ~
+R=1.0 v wint v R=0.9 -
+NRMSD = 0.014 v xmas Ty NRMSD = 0.125 EN
+NMAD = 0.012 4 hono LY NMAD = 0.093 =
+NNSE = 0.998 h: nawi — NNSE = 0.659 FR
+v sdpt v
+v lomb v
+v dutc v
+v kway v
+MIGX
+= adak =
+v Kors v
+- nan v
+05d
+y omae M v
+hana
+1400 1200 1000 800 600 400 200 0 © 2 3 4 5
+Figure 6. Comparison of observed and simulated first peak values for travel time and amplitude for the Japan tsunami event of 11
+March 2011. The location of each station is indicated in figure 3, and the details are shown in table 1.
+station fpnt). Additionally, the simulated amplitudes are consistently closer to or match the observa-
+tions. Furthermore, statistical parameters displayed in figure 9 support the model's reliability for both
+arrival times and amplitudes. These parameters demonstrate a good agreement between modelled and
+observed values (electronic supplementary material, table S54), providing a more detailed evaluation of
+the model's performance at various stations (shown in figure 8) using statistical metrics for tsunami
+wave heights. Many stations show strong correlations and high significance levels. Additionally, high
+NNSE values with lower NRMSD and NMAD indicate accurate simulations. Overall, the model
+effectively captured the tsunami behaviour at all stations, demonstrating good performance across
+the domain with high significance and acceptable error metrics.
+5.3. Indian ocean event 26 December 2004
+The 2004 Indian Ocean tsunami, or the Boxing Day tsunami, is one of the deadliest natural disasters
+in recorded history. The tsunami was triggered by a massive undersea megathrust earthquake of
+9.1-9.3 magnitude struck off the west coast of northern Sumatra, Indonesia and generated widespread
+destruction across countries bordering the Indian Ocean. Around 230000 people died, thousands
+of people went missing, and millions of people were displaced from the coast [24]. In addition to
+human casualties, the impact was also felt in terms of economic losses and damage to infrastructure.
+Indonesia, Sri Lanka, India, Thailand and the Maldives were the most severely affected nations. The
+2004 Indian Ocean tsunami highlighted the importance of disaster preparedness and international
+cooperation, leading to the development of new tsunami warning centres and enhanced tsunami early
+detection systems in the region, emphasizing the need for improved global collaboration to mitigate
+the impact of future catastrophic events [4]. Figure 10a shows the initial deformation generated due
+to the 26 December 2004 earthquake. The focal fault parameters are taken from Grilli ef al. and are

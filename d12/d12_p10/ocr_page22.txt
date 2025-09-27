@@ -1,0 +1,53 @@
+(a) Initial deformation (m)
+-10 -5 0 5 22
+EET = aa.
+fle LIRA al ; 17 Th : t/ ; S
+| 7 Li 5 Tal] 7 nail f : N=
+62°N WAR A SA 1 a =
+iS LA VA = IAA INE ay  o
+F’ = Po AN " a B prayp A A 9. ne writs a i” :
+We ee ig i 3
+7) a > Jig ; 5 i ple Td pres : S
+ir Ls RS TE A rr P=
+60°N- 7 Ferry ane TITY / BR de : S-
+7 7s . is: bar > 4 > J 2 i rd = . : =:
+rd {oY | A
+7) a.
+- | | - =
+58°N 7:7" Lg | oF £
+: JRA | a
+5 a QQ)
+go 7 J / E
+wv, | ©»
+56°N 447 eee pr ——— :
+: =
+3
+54°N Ss
+160°W 156°W 152°W 148°W 144°W 140°W : a
+(b) Wave Height (m) : <
+0 02 04 06 08 1 12 14 16 1.8 >2 Pot
+ES aa. N~
+NY
+80° 2" a :
+40°S | | i ¥ A
+80° |e? mm
+180° 120°W 60°W 0° 60°E 120°E 180°
+(c) Time (hrs)
+TANMOTOOMNODTT rrr rrr rr ANANNNNNNNNNO
+Psi x Pr 55 :
+0 SN | \ 2
+40°S > : o o oo »
+80°
+180° 120°W 60°W 0° 60°E 120°E 180°
+Figure 14. (a) Initial deformation of sea level. (b) Simulated maximum wave amplitude distribution. (c) Travel time contours of the
+tsunami wave due to the Alaska tsunami event 28 March 1964. (The figure is on Robinson projection.)
+and NMAD values are relatively low, implying a decent match between observed and simulated
+wave heights. The NNSE values are mostly above 0.3 (except at stations call, mata), with several
+stations exceeding 0.4, reflecting good predictive accuracy and model performance. Overall, the model
+demonstrates competent performance in predicting tsunami wave heights but shows variability in
+accuracy across different stations.
+5.5. Valdivia tsunami event 22 May 1960
+The 1960 Valdivia earthquake, also known as the Great Chilean Earthquake, occurred on 22 May 2006
+at 19:11:20 UTC (local time 22 May 1960 15:11:14) near Valdivia in Southern Chile. The earthquake
+had a magnitude of 9.5, making it the most powerful earthquake ever recorded. This megathrust
+earthquake triggered a massive tsunami that affected the coastal countries across the Pacific Ocean.

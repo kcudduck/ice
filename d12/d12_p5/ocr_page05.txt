@@ -1,0 +1,64 @@
+I. Charvet et al. / Ocean Modelling 69 (2013) 79-92 83
+of any wave, a corresponds to the negative amplitude of an N- 700
+wave; and |a| + |a~| = H (for an elevated wave, a = H). Ep is the to-
+tal potential energy of a given wave. For N-waves, this can be split 600
+into the potential energy of the trough, E,, and the potential energy
+of the peak, E,, (for elevated waves, E, = Ep). p is the water density, £00
+and g is the acceleration due to gravity. =
+S 400
+3. Experimental methodology —
+£300
+3.1. Setup 2
+200
+The wave generator used in this study is described in Rossetto
+et al. (2011). The novel element of the generator is that it generates 100
+waves pneumatically by raising and lowering the water free-sur-
+face within an enclosed tank, placed at one end of the wave flume. q |
+This mechanism allows the generation of stable leading depressed 0 2 40 rr 80 100 120
+waves. The tests were carried out at HR Wallingford, where the
+generator was placed at one end of a 45 m long and 1.2 m wide Fig. 3. Cumulative potential energy for the whole signal in a typical long elevated
+flume. At the other end of the flume a bathymetry was built with wave test. The first plateau reached corresponds to the input wave, the other
+a sump next to the end wall. The sump prevented reflections from plateaus to each other wave of the time series (reflections and sloshing).
+the highest waves reaching the end of the flume. Due to the dimen: tween the flume walls, in order to avoid edge effects. For the runup
+SI0NS Of the wave generator L cc a engt along whic oe tests presented in this paper, the surface elevation nearest the
+wave bropagated ow approxima’ y Zo (see Fig. 1). I wave generator was used to determine the wave parameters (see
+A 1/20 sloping beach was constructed from concrete. This slope gis 1) "3nd the ratios of a/h ranged between 0.02 and 0.18, for both
+angle is consistent with previous studies where mild slopes have elevated and N-waves
+varied from 1/ o (Li and Raichlen, 200% 0g N 20 (Synolakis, The advantage of the adopted pneumatic generator is that long
+1987) to 1/24 (K ettner, 2010), to 1/ 35 (Grilli Et al, 1994). and leading depressed waves could be generated and were stable
+~The water height was measured using 12 resistance probes dis- yar the flume length. The wavelengths reproduced were much long-
+tributed along the length of the flume and a probe monitor (man- er than the ones previously studied. The disadvantage was that some
+wlactured in-house oy HR Wallinglord) The resistance probes WEIE  wavereflection occurred at the beach when elevated and leading ele-
+Cd Ibrated prior 0 CdCl SETES 0 SYPETITENE due to their sensitiv- vated N-waves were created, due to the relative length of the waves.
+ity to the conductivity of water. The sampling frequency was 50 Hz
+(so a temporal resolution of £0.02 s), and the accuracy of wave ele-
+vation measurements was +0.005 m. Runup was measured directly 3.2. Diagnostics
+using a horizontal tape measure along the flume wall and record-
+ing the maximum penetration point of the first swash (accuracy The measurement of runup is important for comparing the
++0.01 m), along the centre line of the channel i.e., mid-distance be- characteristics of the present waves with existing studies. Runup
+J - J —
+0.7 - ER Sat apt sem —
+— 0.6 - — — es a — ==
+o / \ A=
+a TE ee SP —_ a an I ann, au
+o we Offshore 1
+A allie
+= Bi » . _— nt . | : = we QOffshore 5
++
+I we Offshore 6
+o 0.3 —twnmens we Offshore 7
+oO
+wv we QOffshore 8
+T |
+no / a a _ Offshore 9
+dD 2 rm I _ I ———e— en a ——
+- o — Offshore 10
+Q
+0
+= Gi UN ~~
+0 EY AN \— :
+0 10 20 30 40 50 70 80 90
+B.S ————
+Time (s)
+Fig. 2. Example of an experimental long elevated wave propagating along the length of the flume (constant depth region). Significant changes in the wave shape are not
+present, this result is typical of N-waves also (see Rossetto et al., 2011).

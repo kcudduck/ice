@@ -1,0 +1,50 @@
+Evaluating the relationship between strong ge... https://www.swsc-journal.org/articles/swsc/fu...
+TB lasing bei p arebsitag & of elgred dinagridDf aren EGF may sto se ovaliertidiah ta nseaiss iemestivaodkires and, on some pages, Yes No
+southern Poland in particular yeaeREE0fr20m 5a0d 20 20481 29) 14 aredi fide thea tiho lene sietd january 2010-
+July 2014.
+
+3 Methodology
+Among statistical methods that can be used to compare two sets of data, there are, for example, statistical
+tests that verify the hypothesis of the equality of means or variances of these sets. Here, we applied the t-test
+(see also the t-Student test) (Shao, 2003), as the most common and easy method to evaluate the differences
+in means between two groups of data. The first group of our data determines the number of DEF failures that
+occurred in time after such geomagnetic events from 2010 to 2014, in which the maximal value of time
+derivative of By is not less than 25 nT/min, i.e. max(dBy/dt) = 25 nT/min. The second group determines the
+number of DEF failures which occurred in times before max(dBy/dt) = 25 nT/min (so in the second group we
+observe the failures of the type DEF that max(dBy/dt) < 25 nT/min). Let us assume that there are no
+significant differences between their values in the two groups of data. Therefore, Hy: mq = my, where mq and
+my express the means of the number of DEF failures of the first and second group, respectively, whereas Hy:
+my # my is the alternative hypothesis. From the t-test distribution table, one takes a critical value t; , for a
+given level of significance a and n degrees of freedom. The critical set for the t-test is (=, =tg nl U [tgp *). If
+t< |tqgn| we do not reject hypothesis Hp, otherwise we accept Hq. The value of p, given in the t-test expresses
+the probability of error involved in accepting hypothesis Hq about the existence of a difference.
+Theoretically, the t-test can be applied even if the samples contain only a few observations, as long as the two
+assumptions are satisfied, i.e., the variables have normal distributions within each group, and the variance of
+scores in both groups is not substantially different. The first assumption on the “normality” of the data can be
+estimated by looking at the data distribution histograms or performing a normality test. Here we have
+applied the Shapiro - Wilk test (for small statistical samples). The second one can be verified by using the F
+test (see also the test of F- Fischer) or by using the Levene test, as well as the Brown-Forsythe test (which is a
+modification of the Levene test) (Shao, 2003).
+In the next step of the analysis to determine geoelectric field {Ex, Ey} a layered conductivity Earth model has
+been applied (see, e.g., Boteler et al., 2019; Boteler & Pirjola, 2019, and references therein). This 1-D model
+considers the change of conductivity with depth in the Earth, representing it by N horizontal layers with
+specified conductivities g, and thicknesses /, (n= 1, ..., N). The recursive relation expresses the layered case
+of transfer function K (in frequency domain 7) (Weaver, 1994; Boteler & Pirjola, 2019):
+Kni1(1+e 2knin) +p (1-e72Knin)
+(1)
+where K, denotes the ratio of £ to B at the top surface of layer n, while K+ at the top surface of the
+underlying layer n + 1, ne , ky, = Ji2nfpugo, and Lig = 4mm x 1077 H/m (Boteler et al., 2019). The
+kn
+initial value in equation (1) is the case when the layer n= Nis a uniform half-space and K py = Vaal, while
+the final value Kj is the transfer function relating £ and B at the Earth's surface (Trichtchenko & Boteler, 2002;
+Boteler et al., 2019).
+To perform analysis of data of geomagnetic horizontal field from Belsk station (see Sect. 2.1) we used a Earth
+model number 45 of Adam et al. (2012), dedicated for Poland and consisted of 4 layers with, from the top
+down, thicknesses and resistivities (1/0): 6 km, 5 Qm; 105 km, 1000 Qm; 300 km, 100 Qm; above a half space
+of 10 Om. This Earth-layered model for the European regions has already been used in a number of studies
+(e.g., Viljanen et al., 2013, 2014). Differences concerning various methods were emphasized by (e.g., Viljanen
+et al., 2012; Kelbert & Lucas, 2020).
+In the next step, by taking the Fourier transform we decomposed the 1-minute geomagnetic field {By, By}
+data into its frequency components {Bx(/), Bf}. Then, each of these components has been multiplied by the
+corresponding transfer function values giving the geoelectric field frequency components, namely, Ex(f) =
+4 of 15 27/09/2025, 18:16

@@ -1,0 +1,35 @@
+| High Voltage network in europe above 100kV |
+70 - — 200 kV network
+. . y, » — 220 kV network
+== 4 ha — 225 kV hetwork
+>a FINES || 300k network
+A he, = a i =~ 1 SE ye
+55 = ht RZ a SIR dd ERE
+50° EE ENE) Oo 7X || 380K network
+45 RE RL ay “0 || 420 kV network
+A / { ri. J— hy —— 450 kV network
+40 4 a) - PB Doan A eam
+nL - ¥ a ~ “ 00 kV network
+ =20 100 0 10 20 30 40
+High Voltage Network In nortn-america above LUUKV  [— 100 kV network
+so4 — 113 kV network
+| o> — 120 kV network
+—— “3 - —— 125 kV network
+” Pa, Salle TNE S| — skier
+Fy T= RE a O\ Lid Fr — 161 kV network
+a0 Ci hpi Eg — 220 kV network
+: 74S Spr EE Wd — 230 kV network
+Ns TRS PY — 240k network
+i. B < =~ ER ¢ Nr — 315 kV network
+x : B \ — 345 kV network
+7 — 400 kv network
+i 5 A — 450 kV network
+207 4% “ga — 500 kV network
+— 735 kV network
+— — - 7 — —— 765 kV network
+—140 =T20N 170 —RN —ATY
+Figure 3: Power distribution networks for Europe (top) and
+North ~~ America (bottom) as acquired from  OpenGridMap
+https://github.com/0OpenGridMap/transnet-models/tree/master/europe
+Only lines above 100[kV| are shown.
+4

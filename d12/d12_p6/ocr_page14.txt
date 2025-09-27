@@ -1,0 +1,35 @@
+reconstruction in space and the third order Runge-Kutta scheme with locally adaptive time steps. The model 1s validated
+against experimental data.
+The main conclusions of the paper are the following.
+
+e Found analytically, that maximum tsunami run-up height on a beach depends on the wave front steepness at the toe
+of the bottom slope. This dependence 1s general for single waves of different amplitudes and periods and can be
+approximated by the power fit: R__/R, = (s ls, ) :
+
+e This dependence is slightly weaker than the corresponding dependence for a sine wave, proportional to the square
+root of the wave front steepness (Didenkulova et al. 2007). The stronger dependence of a sine wave run-up on the
+wave front steepness 1s consistent with the philosophy of N-waves (Tadepalli and Synolakis 1994).
+
+e Numerical simulations in general support this analytical finding. For smaller face front wave steepness (s/so < 1.5)
+numerical curves of maximum tsunami run-up height are parallel to the analytical one, while for larger face front
+wave steepness (s/so > 1.5), this dependence 1s milder. The latter may be a result of numerical dissipation (error),
+which 1s larger for a longer wave propagation and, consequently, larger wave steepness. The suggested formula,
+which gives the best fit with the data of numerical simulations in general is R_ /R, =1.17(4/ L)" (s/s, ) :
+
+e These results can also be used 1n tsunami forecast. Sometimes, in order to save time for tsunami forecast, especially
+for long distance wave propagation, the tsunami run-up height 1s not simulated directly, but estimated using
+analytical or empirical formulas (Glimsdal et al. 2019; Levholt et al. 2012). In these cases we recommend using
+formulas, which take into account the face front wave steepness. The face front steepness of the approaching
+tsunami wave can be estimated from the data of the virtual (computed) or real tide-gauge stations and then be used
+to estimate tsunami maximum run-up height on a beach.
+
+The nonlinear shallow water equations which are used in this study and commonly utilized for tsunami modelling, are also
+known as to neglect dispersive effects. In this context, it 1s important to mention the recent work of Larsen and Fuhrman
+(2019). They used RANS equations and k-w model for turbulence closure to simulate propagation and run-up of positive
+single waves, including full resolution of dispersive short waves (and their breaking) that can develop near a positive
+tsunami front. They similarly showed that this effect depends on the propagation distance prior to the slope, if a simple toe
+with a slope type of bathymetry 1s utilized. This work shows that these short waves have little effect on the overall run-up,
+and hence give additional credence to the use of shallow water equations. These results largely confirm what was previously
+hypothesized by Madsen et al. (2008), that these short waves would have little effect on the overall run-up and inundation of
+tsunamis (though they found that they could significantly increase the maximum flow velocities).
+14

@@ -1,0 +1,56 @@
+Chakraborty, S., et. al /ASR xx (2024) xxx-xxx 11
++ HYDE - Average of quiet days
+70
+60 | ) |
+i | nN
+JI | | \ % k
+50 - 4 1 |
+) / i : Fl | (
+1 n 4 ol
+O S540 j | | u
+oo |] IY | 1.
+20 Bn 3 | \ | »
+= | ¢
+| u " \ i | |
+10 | | LT | q \
+\
+. : L :
+; v V/ u U J
+29 30 31 1 2 3 4 5 6
+- NISC + Average of quiet days
+70
+60
+N 1
+\ J
+50 J. 8 'y A hy ! | |
+5 "\ a : a | t (
+{; & 2s y H , I
+0 540 Lo L |
+- i ] | | ] {
+> - 30 . d | d i J s d
+| :
+| 1}
+20 - | a | i
+: \ |
+| | ~ : -
+\ : \ u |
+10 | yg . . Lo Rg CN
+A | : 9 hb : XU y
+\ ) :
+0
+29 30 31 1 2 3 4 5 6
+Days of October and November 2021
+Fig. 5. IGS GPS TEC variation over Hyderabad (HYDE, Top) and Bengaluru (IISC, Bottom) observed from October 29 to November 05, 2021. The red curves
+show the observed VTEC while the blue curves show the variation of the average of the three quietest days.
+chemistry and the dynamics from the surface to about 700 km altitude, and 1s capable of reproducing the 1onosphere-thermosphere
+state, as well as the variabilities, of the whole atmosphere, on an hourly to daily time scales due to both geomagnetic and lower
+atmosphere forcing, the general trends are expected to be similar to observations (Liu et al., 2010, 2018).
+
+Next, Figure 7] has been shown to check whether the observed anomalous behavior is captured by a global circulation model.
+The TIEGCM 1s used to obtain TEC variations on a quiet day (October 28, 2021: green curve), the day (October 31, 2021: blue
+curve) when successive weak storms had occurred, and the day (November 04, 2021: red curve) when a strong geomagnetic storm
+had occurred. The inputs given to the model are the F10.7 and the K, index. The TIEGCM 1s known to produce consistent results
+in the coupled 10nosphere-thermosphere system, however, in the present case, it produces just the opposite behavior. Table|I|shows
+the observed diurnal maximum TEC as well as the model output on each of these three days. When we compare the variation of
+TEC on October 31 and November 04 with October 28 (quiet day), we note that lower TEC 1s observed on October 31 and higher
+TEC 1s observed on 04 November. The overall observations show that the TIEGCM 1s unable to capture the enhanced response

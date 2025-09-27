@@ -1,0 +1,25 @@
+decrease appears at the time of the SC leading to negative depression development
+similar to the Carrington event and to that shown in Figure 1 for THY, herein after H-
+spike.
+The intensity of the disturbance decreases rapidly when moving in longitude from dawn
+(where THY 1s located at the peak of the H-spike) (~25 %, 5 degrees away from THY at
+SUA, and ~40 %, 20° further away at SPT). These observations reveal that the extreme
+drop 1n H recorded at some observatories on 29 October 2003 was actually a very local
+drop in the dawn sector.
+At low latitudes, we have checked the magnetic traces for this event at the four
+observatories involved in computing the Dst index (HER, KAK, HON and SJG). The
+SC appears at HON, KAK and SJG but 1s not noticeable at HER (in the dawn sector).
+Then, the disturbance during the first two hours after the SC depends strongly on the
+sector at low latitudes as previously shown for mid-latitudes. The horizontal component
+shows a negative depression at HER reaching a minimum value of -330 nT, while the
+disturbance goes to positive values at SJG (in the after mid-night sector), reaching a
+maximum value of 210 nT at the time of the maximum disturbance at HER. KAK and
+HON show smaller disturbances, but also opposite (positive in HON and negative in
+KAK). The result of an average of all these measurements in the computation of the Dst
+index 1s the almost complete disappearance of the disturbance during these two hours
+after the SC. The higher temporal resolution of SYM-H index does not prevent from
+missing the disturbance of these first two hours after the SC, as this index 1s also
+computed by averaging disturbances at different longitudes.
+From the third hour to the minimum value of the disturbance at 00:33 UT on 30
+October, a slower decrease of the horizontal component 1s a common signature at all
+5

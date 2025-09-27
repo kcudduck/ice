@@ -1,0 +1,84 @@
+H.S. Kang, C.-H. Song / Nuclear Engineering and Design 240 (2010) 2160-2168 2165
+Table 4
+CFD sensitivity calculation conditions.
+Cell dimension in region A Total number of cells Convection term discretization Turbulent model Entrainment model (Kang and Song, 2008)
+Case-1 Ax=Ay=2.5mm/cell 59,392 High resolution SST No
+Case-2 Ax=Ay=5.0mm)/cell 29,216 High resolution SST No
+Case-3 Ax=Ay=2.5mm/cell 59,392 Upwind SST No
+Case-4 Ax=Ay=2.5mm/cell 59,392 High resolution k-¢€ No
+Case-5 Ax=Ay=2.5mm)/cell 59,392 High resolution SST Yes (intensity 10%)
+Case-6 Ax=Ay=2.5mm)/cell 59,392 High resolution SST Yes (intensity 40%)
+Standard wall function was used for all cases. Except region A, other region is Ax=Ay=10.0mm/cell or Ax=10.0, Ay=2.5 (5.0) mm/cell. Inlet intensity of Case-1-Case-5:
+10%.
+analysis method was used instead to facilitate the validation of this calculation of 10s with a time step of 0.001 s has been performed
+approach to extend the applicable range of the correlations for a in the present analysis. A denser cells distribution inside the jet
+turbulent jet. boundary is usually recommended to obtain a well-converged solu-
+tion of a jet flow in a CFD analysis (Kang and Song, 2008; Yoon and
+. Park, 2007). Therefore, an axi-symmetric grid model with a fine
+4. CFD analysis CN = )
+mesh distribution, as shown in Fig. 6, was introduced because the
+: : turbulent jet behavior can be treated as axi-symmetric with regard
+4.1. Modeling strategy and grid model : :
+J 4 J to the center of a single hole, and this model can save on the com-
+: : CL. utational time. In the grid model, the flow region (“B” in Fig. 6
+CFD codes can be used as tools to investigate the applicabil- D : 5 ) £5 ( g 6)
+LL : : : : from a single discharge hole to an axial location of 8 cm and also
+ity of existing semi-analytical correlations to predict the velocity : : : a. CL.
+ROR with a diameter of 4 cm in the radial direction inside the boundary
+and temperature distribution in a turbulent water jet produced
+: of the steam and turbulent jet regions has been excluded from the
+by a condensing steam jet discharged into a water pool. The test : .
+CL. : : computational domain in order to start the CFD calculation from
+case selected for the CFD validation is Case-3 in Table 2. First of all, : Lo. :
+) CL. : a turbulent jet at 8 cm, and the inlet condition is provided both
+the local velocity distributions at the axial locations of x=8-12 cm LL,
+from the test data and Tollmien’s theory at 8 cm. The purpose of
+were compared carefully with the test results before proceeding to : Co :
+Co this modeling is first to evaluate the CFD results against the test
+comparing the temperature distributions because the heat transfer : : :
+: ) results at the axial locations from 8 to 16 cm before applying the
+enhancement due to the turbulence effect is calculated in the anal- ) : Co. :
+: ) CFD calculation approach adopted in this region into other regions.
+ysis based on the velocity results estimated by using the Reynolds :
+: : In order to evaluate the uncertainty of the CFD results due to the
+analogy concept implemented in the CFX-11. According to the pre- Ca ..
+: mesh distribution, a sensitivity calculation was set up as shown in
+vious CFD analysis results (Kang and Song, 2008) and the best CL. :
+Co. Table 4, which includes a numerical model of the convection term, a
+practice guidelines proposed by OECD/NEA (Bestion et al., 2007), :
+: ey oo turbulent model and an entrainment model (Kang and Song, 2008).
+it was observed that the prediction of a turbulent jet behavior in
+a subcooled water pool is mainly dependent on the mesh distri-
+bution, the discretization method of the convection term and the 4.2. Boundary conditions and governing equations
+turbulent model selected for use. And it has also been reported
+that the experimental result of a turbulent jet (Van Wissen et al., As for the inlet boundary condition (ANSYS Inc., 2007), the
+2005) showed that the turbulent intensity measured inside the Dirichlet condition was set at the axial location of 8 cm with alength
+jet boundary was about 3 times larger than that of a single phase of 4 cm in the radial direction (Fig. 6) with the velocity and temper-
+jet. Therefore, a sensitivity calculation by considering these factors ature distributions as shown in Fig. 7. The values of the turbulent
+including the turbulent intensity has been performed to evaluate intensities at the inlet of the calculation region were set as a 10%
+the uncertainty of the CFD analysis results. intensity of the mean velocity except for Case-6. The 10% of turbu-
+The CFD analysis for the turbulent jet considered in our experi- lent intensity, which is the maximum value of users’ input option
+ments has to be made as a transient state because the local thermal generally recommended by commercial CFD codes, was used accord-
+mixing pattern of the pool water is qualitatively proportional to the ing to our previous research (Kim et al., 2005) where we found that
+discharged duration of a steam jet. However, it is difficult to simu- the turbulence fluctuation generated by the steam injected through
+late a whole period of a steam discharge in the test, and the local small holes seems to be very high when compared to a general steam
+velocity and temperature behaviors at x=8-16 cm may not be so jet. In Case-6, however, the 40% of turbulent intensity was assumed
+sensitively dependent on the steam discharge time. So a transient because the eddy motions are very strongly when a steam jet is
+45.0
+.
+“%, 4251 gg,
+o ol
+% 5) ol
+ae c, & 40.0 "ty,
+E; ®e QL ol 3
+0 o = a7. "
+= ® d o
+@Q [-] o. BE,
+g x °, £ 35.0 og
+%0, = “og,
+2 32.5 7g
+0 ha TI “n
+30.0
+0.0 0.5 1.0 1.5 2.0 2.5 0.0 0.5 1.0 1.5 2.0 25
+Radial Distance from Jet Center (cm) Radial Distance from Jet Cenier (cm)
+Fig. 7. Inlet boundary conditions.

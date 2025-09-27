@@ -1,0 +1,52 @@
+(a) Initial deformation (m)
+-4 -2 0 2 + 6 8 19
+EET = aa.
+20°N — - ETT =)
+| 2 CO
+vy > I gn)
+IN | | a a =
+| | | pe be: PS
+2 | | <p §s I
+| gz ~ | | yw 9g
+10°N J, SE EE—— Fe : =
+3 | | te
+| , Yi | CR =
+a — + RS x=
+| | og: =
+| | Ee A
+a | | CE : FQ
+| | | i
+| “  ™
+5°S | | | x ©
+T2°E 78°E 84°E 90°E 96°E 102°E pO
+ES
+(b) Wave Height (m) A)
+0 02 04 06 08 1 12 14 16 18 >2 ; >
+: Rs >. 4 a A : OO
+- hy BY
+3 i ry Hag
+40°s : : _%
+80°S | ca? ome a
+180° 120°W 60°W 0° 60°E 120°E 180°
+(c) Time (hrs)
+TANMOTUOLOMNODT rrr rrr rrr ANANNNANANNNANNO
+80°D or a GA = Ss fo EE ei
+0° a — IN $i
+40°S J :; ))
+80°
+180° 120°W 60°W 0° 60°E 120°E 180°
+Figure 10. (a) Initial deformation of sea level. (b) Simulated maximum wave amplitude distribution. (c) Travel time contours of
+tsunami wave due to Indian Ocean tsunami event 26 December 2004. (The figure is on Robinson projection.)
+14b shows that the coastal locations of the Alaska region have experienced wave heights greater than 2
+m.
+Figure 15 shows the time series of ADCIRC simulated water levels at different locations against the
+observations. The red and blue lines represent the observations and model simulations, respectively.
+The x-axis displays the time in hours after the earthquake’s origin time, and the y-axis shows the water
+level in metres relative to sea level. The titles on each subplot show the station code and location as per
+the IOC sea level website. The observations are taken at various tide stations along Alaska’s coastlines
+and other locations extending to South America and the Pacific Ocean to Hawaii. The observations
+used for the current tsunami are taken from [46]. Figure 15 shows that the model could capture the
+aspects of the tsunami, but there are slight discrepancies with the observations at a few locations.
+The model matches the arrival time of the first wave peak at most locations very well, but at a few
+locations, it slightly underestimates the water level. The model appears to capture the wave behav-
+iour and overall trend against observation. Furthermore, the discrepancies in the model predictions

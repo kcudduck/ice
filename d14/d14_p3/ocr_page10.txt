@@ -1,0 +1,81 @@
+Evaluating the relationship between strong ge... https://www.swsc-journal.org/articles/swsc/fu...
+
+We plan to continpe. the further detailed apalysis of selected intense geomagnetic storms. In particular,
+
+y using this website, you agree t at EDP Sciences may store web audrence measurement cookies and, on some pages, Yes No
+further studies based on a wider time. span are still needed and we are_convinced that they can shed more
+
+cookies from social networks. More information an Setup
+
+light on the considered problem. Moreover, we plan to apply the determined geoelectric field for the
+systematic studies of GIC. There is a need for future engineering analysis for quantitative failure studies to
+understand their possible direct relationship to geomagnetically induced currents. Another exciting aspect of
+analysis will be the improvement of the method of geoelectric field determination. We are aware that 1-D
+layered Earth model conductivity used in this study changes vertically but not horizontally. Two-dimensional
+and three-dimensional Earth conductivity structure introduces some features not seen with 1-D models
+(Marti et al., 2014; Boteler & Pirjola, 2017). Therefore, the forthcoming study will take into account the
+verification of other Earth modeling assumptions.
+Acknowledgments
+Heliospheric, solar wind parameters and geomagnetic indices are from http://omniweb.gsfc.nasa.gov,
+geomagnetic field components from Belsk Observatory, a part of INTERMAGNET, http://rtbel.igf.edu.pl/. We
+acknowledge the Polish National Science Centre's financial support, grant number 2016/22/E/HS5/00406. The
+editor thanks Ari Viljanen and two anonymous reviewers for their assistance in evaluating this paper.
+References
+
+Adam A, Pracser E, Wesztergom V. 2012. Estimation of the electric resistivity distribution (EURHOM) in
+
+the European lithosphere in the frame of the EURISGIC WP2 project. Acta Geod Geophys Hung 47: 377-
+
+387. https://doi.org/10.1556/age0d.47.2012.4.1. [CrossRef] [Google Scholar]
+
+Adebesin BO, Pulkkinen A, Ngwira CM. 2016. The interplanetary and magnetospheric causes of
+
+extreme dB/dt at equatorial locations. Geophys Res Lett 43(22): 11501-11509. https://
+
+doi.org/10.1002/2016GL071526. [CrossRef] [Google Scholar]
+
+Annual Report of Tauron Polska Energia S.A. for the year 2019, April 1, 2020. https://
+
+en.raport.tauron.pl/. Accessed March 14, 2021. [Google Scholar]
+
+Bailey RL, Leonhardt R. 2016. Automated detection of geomagnetic storms with heightened risk of GIC.
+
+Earth Planet Sp 68: 99. https://doi.org/10.1186/s40623-016-0477-2. [CrossRef] [Google Scholar]
+
+Bailey RL, HalbedI TS, Schattauer I, Achleitner G, Leonhardt R. 2018. Validating GIC Models with
+
+measurements in Austria: Evaluation of accuracy and sensitivity to input parameters. Space Weather
+
+16(7): 887-902. https://doi.org/10.1029/20185W001842. [CrossRef] [Google Scholar]
+
+Boteler DH. 2012. On choosing fourier transforms for practical geoscience applications. Int J Geosci
+
+3(5A): 952-959. https://doi.org/10.4236/ijg.2012.325096. [CrossRef] [Google Scholar]
+
+Boteler DH, Pirjola RJ. 2017. Modeling geomagnetically induced currents. Space Weather 15(1): 258-
+
+276. https://doi.org/10.1002/20165W001499. [CrossRef] [Google Scholar]
+
+Boteler DH, Pirjola RJ. 2019. Numerical calculation of geoelectric fields that affect critical infrastructure.
+
+Int | Geosci 10: 930-949. https://doi.org/10.4236/ijg.2019.1010053. [Google Scholar]
+
+Boteler DH, Pirjola RJ, Marti L. 2019. Analytic calculation of geoelectric fields due to geomagnetic
+
+disturbances: A test case. IEEE Access 7: 147029-147037. https://doi.org/10.1109/
+
+ACCESS.2019.2945530. [Google Scholar]
+
+Caldas R, Hu Y, de Lima Neto FB, Markert B. 2017. Self-organizing maps and fuzzy C-means algorithms
+
+on gait analysis based on inertial sensors data. Adv Intell Syst Comput 557. 197-205. https://
+
+doi.org/10.1007/978-3-319-53480-0_20. [Google Scholar]
+
+Carter BA, Yizengaw E, Pradipta R, Halford AJ, Norman R, Zhang K. 2015. Interplanetary shocks and the
+
+resulting geomagnetically induced currents at the equator. Geophys Res Lett 42(16): 6554-6559.
+
+https://doi.org/10.1002/2015GL065060. [CrossRef] [Google Scholar]
+
+10 of 15 27/09/2025, 18:16

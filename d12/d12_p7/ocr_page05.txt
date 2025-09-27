@@ -1,0 +1,29 @@
+Confidential manuscript submitted to Journal of Geophysical Research: Oceans
+presented in Lynett et al. (2022) are also studied in this section. Finally, conclusions are drawn in
+Section 4.
+2 Data and Methods
+2.1 Atmospheric Pressure Observations and Empirical Model
+
+After Tonga’s volcanic eruption, thousands of Meteorological stations around the world
+captured the atmospheric pressure shock wave. These observations could be seriously affected by
+the location of the instrument and its surrounding topography. For example, several stations located
+in the cities of New Zealand present significantly smaller pressure peaks than those located near
+the coast. Moreover, the atmospheric pressure in Santiago de Chile presents overly high values,
+which could be caused by the Andes Mountains (reaching 6,500 m above sea level) partially
+reflecting the atmospheric pressure wave. Therefore, to construct an empirical atmospheric
+pressure model 1n the Pacific Ocean, we select atmospheric pressure stations based on two
+principles: (1) The instrument must be located at the coast, and (2) they need to be far from sharp
+orographic features (e.g., mountains or valleys).
+
+In total, we have selected 39 stations, as shown in Figure 1, over three regions. The near
+field region 1s defined as the area within 3,000 km from Tonga, and comprises 16 stations (Fiji
+Meteorological Service, Weather Underground, NIWA), providing atmospheric pressure
+measurements with a 5-10 min sampling frequency. The mid-field region 1s within 3,000-6,000
+km, and the far-field region 1s farther than 6,000 km from Tonga. There are 43 additional stations
+within these two regions, including 10 stations from Japan Soratena, 15 stations from the
+Meteorological Directorate of Chile, 2 stations from Taiwan, and 16 stations from the National
+Climatic Data Center of USA, providing a 1 min sampling frequency. Higher sampling rates are
+more likely to capture the peak values of the atmospheric pressure waves, thus, providing a more
+accurate representation of the event.
+
+5

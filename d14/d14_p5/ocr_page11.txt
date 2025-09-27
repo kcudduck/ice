@@ -1,0 +1,68 @@
+www.nature.com/scientificreports/
+40 -1000
+20h 0000000@0000000096 © : 17-1500
+Oo 0 A -2000
+O 2 a =
+-20 = Q 24 "a TE Qo PoeoeeeePY-2500
+-40 i -3000
+352 3:53 354 355 356 357 358 359 400 401 4:02
+April 24
+a 24-Apr-2023 03:54:00 b 24-Apr-2023 03:56:40 Cc 24-Apr-2023 03:58:40 Log, , (IE)
+3
+70°N pray 70° N et, 70°N pray
+ANE ANE A ANE
+RS \ RS \ RS \
+65 N ¥ 65 N 3 65 N ¥
+A \ \ 1
+a @) NN ¥ J O A r d O NN
+60° SO 60°N SO 60°N SO "
+KAR KAR? KAR
+55° 4 8 55° N vd ’ on | 55 N k) SUR ) i
+2 NGR — - 2 NGR PPN - 2 NGR . PPR - E
+0 20 A o 20 A ° 20 =
+50 NS : 50 Ne - 50 Ne :
+10'E 20 E 10" E 20 E 10°E 20 E
+Log, , (IE)
+3
+70° Ee 70° EN ANS 2
+N N re AY) \ \ 70° A \) A 5
+Ng ly if : PAR HN £, i ANB 7) A | ¥
+Ti A EER Ged
+Rsf M1 77 A\ \ at Aaa | > \ rsT2% AWW
+Hoy ws A We Healt NE 15
+65 N . S95 No 65 N RN \ i 601%) 65 oy [ry ° \\ |
+FUNG ewe, ¥ Nt fi sie A 74 2 5 :
+08 Joba 4 ¢ 7 7 {kane A I 00 phin bi ob ot nO) 0.5
+Tu oh SS ¢ AN HOR Ap PY
+60° N . 2 re - 60° N id A d ty RA = 60° N 5¢ aE 0
+Wd rie . - nd a | . URS 2a pe : Ung p \
+“osrprde> opr? iy <3 KR RY 2 a a : ; x 05
+i y Ir & s\\ Ne « Le SHES
+55'N ES ayes? Soil 55°N (CSAS NA A 55° N SFA) BPPELY shh
+oS P. Noo AX ‘st 7 IS LS ale. EIN -1.5
+NG NSS UNG = XA RRR i y ) NE dis < RR NY
+hy aa rs BN sy»? 2588 A ARN )
+7 NGR | Waa Pe = 2 NGR PPN = “ yd NGR PPN = E 2
+10'E 20 E 10° E 20 E 0 E 20 E
+Figure 8. Same as in Fig. 7, but for Event II.
+Figure 8 presents GIC measurements at Méntsala and SML index (top panel) and the three selected maps of the
+E-field magnitude (middle panel) and direction (bottom panel) at 03:54:00 UT, 03:56:40 UT, and 03:58:40 UT.
+The first stage of the animation beginning from 03:52 UT shows the quasi-stable conditions of GICs (at
+Mintséld), a flat line of GICs at about 20 A. However, the corresponding E-field increases from ~ 63° to 69° N.
+During ~03:53-04:00 UT, the E-field is found to be strong at almost all IMAGE stations, seems to be
+associated with the strongest GIC of —35.22 A recorded at Méntsald at 03:56:40 UT on April 24. This is in
+good agreement with Despirak et al.* reporting strong GICs on several substations of Karelian-Kola power line
+(located at north-west Russia). The E-field is found to be eastward at ~03:53-03:55 UT. However, a mixture of
+directions is found to develop from ~03:56 UT, when GIC exhibits a rapid decrease from ~ +20 to ~ —30 A
+at Mantsila. In addition, the GIC “recovery” is found to be associated with dominantly westward E-field at ~
+03:58 UT.
+The extreme values of the SML index are accompanied with the highest values of the E-field at SOL, DOB,
+UPS, NUR and TAR (Fig. 3) situated alongside the whole longitudes of the analyzed area at ~ 58 — 63° latitude
+(Fig. 8). In a clear contrast, the E-field at MAS, IVA, SOD and RAN (Fig. 5) at the latitude survey do not show
+exactly the pick values at the moment of the Event II, but a bit earlier and later times, which is in agreement with
+the strongest GIC observations at Vykhodnoy**. However at the stations MEK and HAN (Figs. 5 and 8) extreme
+values of E are coincident with the Event II. This is in a good agreement with the large GIC values observed at
+Kondopoga**. E-fields at all the stations (MAS, IVA, SOD, RAN, OUJ, MEK and HAN) (Fig. 5) show evident
+oscillations with period ~ 30 min, consistent with magnetic pulsations, as reported by Despirak at al.**, however,
+less visible towards lower latitudes.
+Scientific Reports | (2024) 14:25074 | https://doi.org/10.1038/s41598-024-76449-z nature portfolio

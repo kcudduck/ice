@@ -1,0 +1,30 @@
+Ant) = 1 [ C9 (2)dz (5)
+(1 =p) Jo
+where CW (2) is the sediment concentration profile of grain size i. After
+determining the shear velocity, the flow speed profile is calculated by :
+Uz) = / A (6)
+oy K(2)
+where z, is the bottom roughness from MacWilliams [2004] and K(z) is the
+eddy viscosity profile from Gelfenbaum and Smith [1986].
+
+The TsuSedMod model has been applied to four modern tsunami cases
+[Jaffe and Gelfenbuam 2007; Spiske et al. 2010; Jaffe et al. 2011, 2012] and
+two paleotsunami cases |Witter et al. 2012; Spiske et al. 2013|. For the 2009
+tsunami near Satitoa, Samoa, the flow speed estimated from TsuSedMod at
+three locations (100, 170 and 240 meters inland) were 3.6 to 3.8 ms™! (bottom
+layer /earlier wave) and 4.1 to 4.4 ms™* (top layer/later wave). These results
+are consistent with the 3 to 8 ms™! flow speed from the boulder transport
+inverse model |Jaffe et al. 2011].
+
+2.2. Sedimentation model
+
+The method used to calculate the sediment concentration of the sediment
+source in TSUFLIND is similar to the one presented in Madsen et al. [1993].
+The grain-size distribution of the sediment source is characterized by Ds,
+the largest grain and the smallest grain.
+
+When the entire tsunami deposit at a given location is considered, re-
+suspension sediment flux can be neglected and Soulsby’s model is applied.
+However, if the individual layer in the tsunami deposit is considered, intense
+
+5

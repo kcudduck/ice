@@ -1,0 +1,82 @@
+Remote Sens. 2024, 16, 3497 20 of 22
+VLF bands by more than 10%. Within the ULF band, the 0-5 Hz range is particularly
+sensitive, featuring an extreme value frequency point at 3.9 &= 1.0 Hz. In contrast, the
+HF band (above 18 kHz) remains unaffected by magnetic storms and can be primarily
+utilized in the design of future spacecraft and communication equipment.
+
+(2) The effects of magnetic storms exhibit hemispheric asymmetry. The timing and inten-
+sity of maximum disturbances differ between the hemispheres. In the ULF/ELF/VLF
+band, strong disturbances in the ULF band were observed earlier and with greater
+intensity in the northern hemisphere compared to the southern hemisphere. In addi-
+tion, in the ELF and VLF bands, constant perturbations below 6 kHz were present in
+the southern hemisphere, but not in the northern hemisphere. Consequently, in both
+bands, the strength of the electric field perturbation in the northern hemisphere was
+more indicative of the overall magnitude of magnetic storms.
+
+(3) Schumann waves exhibit hemispheric asymmetry. In the southern hemisphere,
+8 Hz Schumann waves dominate, while in the northern hemisphere, 13 Hz Schu-
+mann waves are more prevalent. Schumann waves are also enhanced during mag-
+netic storms.
+
+(4) The frequency band of the equatorial ionospheric electric field anomaly during this
+magnetic storm was concentrated in the 0-100 Hz range, while frequencies above
+100 Hz were less affected by the high-latitude penetrating electric field.
+
+Author Contributions: Methodology, ].Z.; software, ].Z.; validation, J.Z.; resources, ].H.; data curation,
+
+J.Z.; writing—original draft preparation, J.Z.; writing—review and editing, J.H.; supervision, Z.L.,
+
+W.L., YH., H.L. and Z.Z.; project administration, Z.L., W.L., Y.H. and H.L.; funding acquisition, J.H.
+
+and Z.L. All authors have read and agreed to the published version of the manuscript.
+
+Funding: This work made use of data from the CSES mission, a project funded by China National
+
+Space Administration (CNSA) and China Earthquake Administration (CEA). This work was sup-
+
+ported by the National Key R&D Program of intergovernmental cooperation in science and technology
+
+(Grant No. 2023YFE(0117300), the International Space Science Institute (ISSI in Bern, Switzerland
+
+and ISSI-BJ in Beijing, China), supporting International Team 23-583 led by Dedalo Marchetti and
+
+Essam Ghamry.
+
+Data Availability Statement: CSES data were obtained from https:/ /www.leos.ac.cn/ and Dst data
+
+were obtained from https://wdc.kugi.kyoto-u.acjp/index.html (accessed on 10 May 2024).
+
+Acknowledgments: The data used in this paper are supported by the CSES-1 satellite (https:/ / www.
+
+leos.ac.cn/) and https: / /wdc.kugi.kyoto-u.ac.jp/index.html (accessed on 10 May 2024). We thank the
+
+editors and reviewers for their kind words and consideration. We thank the authors of the literature
+for their excellent contributions.
+
+Conflicts of Interest: The authors declare no conflicts of interest.
+
+References
+
+1.  Blagoveshchenskii, D.V. Effect of Geomagnetic Storms (Substorms) on the Ionosphere: 1. A Review. Geomagn. Aeron. 2013, 53,
+275-290. [CrossRef]
+
+2. Piddington, J.H. Geomagnetic Storms, Auroras and Associated Effects. Space Sci. Rev. 1964, 3, 724-780. [CrossRef]
+
+3. Gonzalez, W.D.; Joselyn, J.A.; Kamide, Y.; Kroehl, HW.; Rostoker, G.; Tsurutani, B.T.; Vasyliunas, VM. What Is a Geomagnetic
+Storm? J. Geophys. Res. 1994, 99, 5771-5792. [CrossRef]
+
+4. Gonzalez, W.D.; Echer, E.; Clua-Gonzalez, A.L.; Tsurutani, B.T. Interplanetary Origin of Intense Geomagnetic Storms
+(Dst < —100 nT) during Solar Cycle 23. Geophys. Res. Lett. 2007, 34, 2006GGL028879. [CrossRef]
+
+5. Zong, Q.-G.; Reinisch, B.W.; Song, P.; Wei, Y.; Galkin, I.A. Dayside Ionospheric Response to the Intense Interplanetary Shocks—
+Solar Wind Discontinuities: Observations from the Digisonde Global Ionospheric Radio Observatory. J. Geophys. Res. 2010, 115,
+2009JA014796. [CrossRef]
+
+6. Lakhina, G.S.; Alex, S.; Tsurutani, B.T.; Gonzalez, W.D. Supermagnetic Storms: Hazard to Society. In Geophysical Monograph Series;
+Sharma, A.S., Bunde, A., Dimri, V.P, Baker, D.N., Eds.; American Geophysical Union: Washington, DC, USA, 2012; Volume 196,
+pp. 267-278, ISBN 978-0-87590-486-3.
+
+7. Lakhina, G.S.; Tsurutani, B.T. Geomagnetic Storms: Historical Perspective to Modern View. Geosci. Lett. 2016, 3, 5. [CrossRef]
+
+8. Rama Rao, P.V.S,; Gopi Krishna, S.; Vara Prasad, J.; Prasad, S.N.V.S,; Prasad, D.S5.V.V.D.; Niranjan, K. Geomagnetic Storm Effects
+on GPS Based Navigation. Ann. Geophys. 2009, 27,2101-2110. [CrossRef]

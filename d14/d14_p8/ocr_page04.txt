@@ -1,0 +1,51 @@
+Remote Sens. 2024, 16, 3497 4 of 22
+background field data. The power spectrum of the satellite electric field with background
+noise removed for the selected latitude width is
+
+P= Py storm) — Py (background) (1)
+
+The average degree of difference of frequency jis
+
+FL F
+Dj = — J (2)
+The variation growth rate is
+g 3)
+po— J
+/ D background
+
+n is the selected latitude width. P, is the satellite electric field power spectrum for the
+selected latitude width. Dy,ckoround 18 the D value of the quiet period.
+2.2. Wavelet Coherence (WTC) Analysis
+
+This work uses wavelet coherence (WTC) to analyze the correlation between electric
+field power sequences and Dst values at different frequencies. Continuous Wavelet Trans-
+form (CWT) and Discrete Wavelet Transform (DWT) are the two types of WT. Because of its
+appropriate time and frequency localization, the Morlet wavelet (dimensionless frequency,
+wo = 6) is an ideal option for extracting features [28]. The WTC spectrum quantifies the
+degree to which two-time series co-vary as functions of time and frequency. The XWT
+spectrum exposes large shared power areas and relative phases between two-time series in
+time frequency space [29,30]. The XWT of two-time series X(t) and Y(t) is defined as
+
+Wi (5) = Wi (s) Wy" (5) (4)
+
+The CWT coefficients of sequences X(t) and Y(t) at frequency scale s are denoted by
+WZ (s), and Wy *(s), respectively, and * denotes the complex conjugate.
+
+The square of the wavelet coherence factor is defined as
+
+S[s—IWXY (s)]|?
+R? (s) = Bl C/O) | (5)
+S[sTIWE (s)] [sT1W (s)]
+
+S is the smoothing operator and s is the scale. WTC values around 1 indicate a
+higher degree of resemblance across time series, whilst coherence values near 0 indicate
+no correlation.
+
+This paper focuses on the analysis of the 4 January 2021 magnetic storm by examining
+data from two days before and two days after the storm, covering the initial, main, and
+recovery phases. After removing background noise through satellite data processing, we
+conducted a quantitative analysis of the magnetic storm’s impact on different hemispheres
+and frequency bands using D value analysis, variation growth rate analysis, and WTC
+analysis. This analysis identified the strong disturbance frequencies and frequency bands
+of the magnetic storm, as well as its spatial and temporal characteristics. The technical
+route of this paper is shown in Figure 1.

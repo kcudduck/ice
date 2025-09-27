@@ -1,0 +1,50 @@
+Remote Sens. 2024, 16, 3497 5 of 22
+( Thed toed ne ("TT TTT TTT TTT TTTTTE,
+~~ Dstindex | EFD data:ULF,ELF,VLE,HF |
+.__SML index __’ DE EE
+(CC TT TT TTT TTT CTT TTT TTT TTT
+Data cleaning and denoising
+| Absolute change | | Relative change " Three-component trend |
+mr value) analysis (r) ___ analysis (Ex, Ey, Ez)
+Strong disturbance | . Strong disturbance |
+___ frequency point | \___frequency band _
+D value sequence
+TY "Spatial and temporal |
+Wavelet coherence OP ergs d |
+Ii lvsis | distribution
+PE I .____ characteristics |
+“TTT. 7777777771 Equatorial ionospheric anomal
+"Verification of | | 1 . . P y
+universality N Hemispheric asymmetry
+SSA SUS Schuman wave distribution |
+Figure 1. Technical route flow chart.
+3. Results
+3.1. Single-Frequency PSD Analysis
+To understand the responses of different frequency bands to magnetic storms, we
+first denoised the satellite electric field data and then obtained the power spectrum data
+(PSD) of four frequency bands (Figures 2 and 3). Figures 2 and 3 illustrate three frequencies
+from the ULF, ELF, VLE and HF bands, respectively, to observe the changes during the
+initial, main, and recovery phases of the magnetic storms. The main phase is highlighted
+by red rectangles.
+65 re ee ULF: 3.9HZ 65 ___ULF:93Hz 65 me ea OLF: 14.2 Hz 3
+= — TR gee = — = les === =F Fer _
+== —3 N= Lr == Srp = = = = fF = <
+mF 1 Ee Fears Ea EE = Ss Baas | (2 1
+5 = Fd = _¢ 0h HEE EL = = = | =| =f = —"F-— 1 0
+= - = -= |= = § = = —— = == : : = == ET =—-t = =: = 2
+vl. - i= =. dE. F-. rf yl. =. = PEEL -F-. § —42 ee RE = ee
+Tele ll x BS Bed: pr aek 5 AE 8 ERT HE" oR ie
+-65 E- 5 = = Cea eal —g Fe === -65 ml Som Aeas—tal - == 5 =" = "=.= -65 SE- _-_ == = |= =e — —_§ = == 0
+2 3 4 5 6 7 2 3 4 5 6 7 2 3 4 5 6 7
+BF SE a REE ES oT. 8 UETH EF: mas 4174
+nEESa a ES == — Vy FF = 3 = — nEISEEEEE guk S28 =
+=. ct ~ WEES HEseE Ss oaE ef. 2 WEES Toma ETE E
+Rpy==— = i MEET Ere UEEE EE SE =.
+14 =—————= = = =| = -= == = = = =F — == k= — So ——=—==—= : 1 Oo
+= =| “= =="5=—=="F — E =— = = — == ===-= = = = = = = = = : (0p)
+== == = = |= == — =" =i = = = L = — ed = = iL
+MELEE 2 NE HE RL eT TE mE EE
+sh er Bt Bal PE SE-B ESE BPs gs I aE Ea g :
+2 3 4 5 6 7 2 3 4 5 6 7 2 3 4 5 6 7
+November 2021 November 2021 November 2021
+Figure 2. ULF, ELF single-frequency PSD (the red rectangle is the main phase period).

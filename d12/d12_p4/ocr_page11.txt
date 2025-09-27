@@ -1,0 +1,95 @@
+A 7 ) S
+MI Journal of Geophysical Research: Oceans 10.1029/2020JC017011 2
+AND SPACE SCIENCE 2
+
+a i(kyx+k | | i(kyx+k $
+
+(x y.1) - 2 lI) dk, dk e' ’ ») — po (kooky )H (1) H > I dk dk." ’ ») 5
+
+(27) Poo (27) E
+
+(51):
+
+—— pol k,, k, |Jcos|awyt | H(t). 3
+
+Lp (kk Jeos( ane) (1) :
+
+<
+
+Note that the first term contributes to tsunamis only inside the surface pressure change but does not contrib- z
+ute to tsunamis outside the surface pressure change (i.e., the area where p, (x, y) = 0) since it does not propa- =
+gate. On the other hand, the second term contributes to the tsunamis outside the pressure change since it does =
+propagate as waves due to the factor of cos (51). As a result, the tsunami outside the source region is given by $
+surface 1 p i(kextkyy) 1 2
+
+ppurtace (x. Vy, /) — —— II dk, dk e y Lp (ks, cos (1) (52) =
+
+(2 7) © Poo =
+
+For the tsunamis caused by sea-bottom deformation (see Appendix B), the tsunami height ,"°"™ (x, y, () is :
+given by :
+—-1 7% i|kyx+k 1g ky, k E
+
+"Om (x, y, () = ——[ dk dk e [fxs folkd) iia =
+
+2 oo cosh kh =
+
+(27 ) 0 =
+
+| (53)  &
+
+1 = | kyx+kyy| A S
+
+= —— ll dk,dke "1 (Fer ky Jos (et) H (1) 5
+
+(27) = :
+
+where u, (.. k,) and 7, = k,) are the 2-D spatial Fourier transform of the sea-bottom vertical displace- 4
+ment u, (x. y) and the corresponding initial tsunami height distribution 7, (x. y) respectively. Using Equa- q
+tions 52 and 53, we confirmed that 7" (x. y, () = ppPotom (x. y, () if we set =
+R i k., k, Po k., k, Po X,Yy E
+
+fo (kooky) = - | ) — rf) - ) (54) Hd
+
+cosh khy Po8o Po8o =
+
+However, we should note that this situation ditfers for the wavetfields inside the source regions. For example, :
+the pressure change at the sea bottom caused by the sea-bottom vertical displacement distribution u, (x, y) g
+is given by Equation B14 in Appendix B as =
+=
+
+ottom 1 py i kyx+k n -
+
+p° ‘ (x. y, ho») — — I dk, dk e i ») Lo8oUo (ko, E.
+
+(27) = COA) coset) H (1) :
+
+cosh (kg ) E
+
+(55) z
+
+tanh (kh, ) | H
+
+pogo kun) 0 + pogottg (x 3) H (1). :
+
+On the other hand, the pressure change caused by the corresponding surface-pressure change source is =
+given by Equations 29 and 54 as :
+p(x.y.h.1) _ EE dk SE — yt Jk Jcos(ayt)H (7) :
+
+(27) wo 7 cosh (kh) oY =
+
+(56) =
+
+1% i(k x+kyy) Po8oto | Ky» Kk 2
+
+= II dk dk e (kerk) pusiolbeks) a :
+
+(27) - cosh (kh ] g
+
+:
+
+=
+
+2
+
+SAITO ET AL. 110f29  §

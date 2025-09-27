@@ -1,0 +1,36 @@
+3.3 Shallow-water equations 19
+Differentiating (26) first with respect to x and then to respect to y gives a
+set of two equations:
+wu + aut + 00g) + 1p — 50(Ugs + Viay) = 0, (28)
+vp + a(uuy + voy) + ny — 50 (Ute + Vy) = 0. (29)
+The kinematic condition (27) can be rewritten as
+ne + [u(l + an)l, + [v(1 + an), = §B8[(Viu). + (V7). (30)
+Equations (28)—(30) contain in fact various shallow-water models. The so-
+called fundamental shallow-water equations are obtained by neglecting the
+terms of order (3:
+ug + uty + vuy) +10. = 0, (31)
+vr + a(uv, + vv) +1, = 0, (32)
+ne + [u(l + an). + [v1 + an), = 0. (33)
+Recall that we assumed A to be constant for the derivation. Going back to an
+arbitrary water depth and to dimensional variables, the system of nonlinear
+shallow water equations reads
+Up + Uy + VUy + gn, = 0, (34)
+vr + uv, + vv, + gn, = 0, (35)
+ne + [uh +n)ls + [o(h +n), = 0. (36)
+This system of equations has been used for example by Titov and Syno-
+lakis for the numerical computation of tidal wave run-up Titov and Synolakis
+1998]. Note that this model does not include any bottom friction terms. To
+solve the problem of tsunami generation caused by bottom displacement,
+the motion of the seafloor obtained from seismological models Okada [1985]
+and described in Section 3 can be prescribed during a time ty. Usually tj is
+assumed to be small, so that the bottom displacement is considered as an in-
+stantaneous vertical displacement. This assumption may not be appropriate
+for slow events.
+
+The satellite altimetry observations of the Indian Ocean tsunami clearly
+show dispersive effects. The question of dispersive effects in tsunamis is
+open. Most propagation codes ignore dispersion. A few propagation codes
+that include dispersion have been developed Dalrymple et al. [2006]. A well-
+known code is FUNWAVE, developed at the University of Delaware over the
+past ten years Kirby et al. [1998]. Dispersive shallow water-wave models are
+presented next.

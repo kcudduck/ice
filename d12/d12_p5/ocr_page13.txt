@@ -1,0 +1,67 @@
+I. Charvet et al. / Ocean Modelling 69 (2013) 79-92 91
+Cabe, 2003). In the examination of residuals, we choose to detect log K + t(n-2.0//2)SE10gk, (E1)
+not only pure normal distributions but close to normal distributions
+so we set o = 0.001. If the residuals follow a normal distribution, the K+ tn-2.0/2)SEk. (E2)
+earation > Ese 95 Yes 10 ie : SE ESI GF ELIE & : We choose here to obtain 95% confidence intervals for logK and k
+n addition, standardized residuals have been plotted against ) ,
+the predictor variable to detect any violation of the linearity I (ET) 0 (22) ie (1 — )-1 Ue EOmEENES MEE or oe
+Lo. : prediction of response variables yo. for a range of chosen variables
+assumption: if the assumption holds, no correlation should be de- i.
+tected. The standardized residuals z; are easier to interpret than the Xo,» 15:
+ordinary residuals e;, as they are centered and scaled as follows: Yo; & tin-2.2)SE, | (E3)
+z=2_¢ (C2) With
+0
+In (C2), the standard deviation of the residuals ¢ can be calculated 1 (Xo, — x)
+from the estimated variance of the residuals, and gi by: SEjo, =| O° | TH ot 3): (E4)
+and given by: nS (x)
+2
+v= =88)( = 2) &) Because the regression results are only valid between the minimum
+The plot of the residuals against x allows to visually check that there and maximum values of x tested, confidence intervals for the whole
+is no heterogeneity of ¢* (Fig. 10 -a)). range of values Xmin < Xo, < Xmax are constructed and plotted in
+Fig. 11 along with the regression fit (18) and the confidence inter-
+Appendix D vals for the regression parameters. Here we choose o = ao” so 95%
+confidence intervals for the regression parameters and the predic-
+The regression coefficients of the fit for long elevated waves are tion variable are obtained.
+close to 2 and 1, they are tested against the two null hypotheses:
+Hy, : logK = 2 and Hy, : k = 1. The testing of hypotheses is done Appendix F
+using a t-test as (see Chatterjee and Hadi, 2006). A t-test can be ap-
+plied providing n >> 15; if n ~ 15 and outliers have been removed,
+or if n < 15 and the response variable is normally distributed
+(Moore and Mc Cabe, 2003). In other cases, this test should not Test a a h T/Th Tb
+he ore Bp Fp ole lB Ba TT oom oom 0a 07 ho
+: 2 0.076 0.000 0.45 0.53 13.04
+associated with k and logK: 3 0.065 0.000 0.45 0.49 13.04
+1 2 4 0.045 0.000 0.45 0.35 13.04
+SEjpgk = | G2 + amr] (D1) 5 0.054 0.000 0.45 0.48 13.04
+mia (Xi—X) 6 0.030 0.000 0.45 0.44 13.04
+7 0.027 0.000 0.45 0.42 13.04
+72 8 0.076 0.000 0.52 0.67 12.17
+SEx =| == (D2) 9 0.070 0.000 0.52 0.66 12.17
+2 i= (Xi =X) 10 0.067 0.000 0.52 0.58 12.17
+11 0.054 0.000 0.52 0.76 12.17
+toe — 28K = Clogic (D3) 12 0053 ~~ 0000 0.52 052 12.17
+SEiog 13 0.032 0.000 0.52 0.41 12.17
+14 0.024 0.000 0.52 0.35 12.17
+ff — k — Cy | (D4) 15 0.080 0.000 0.57 0.78 11.58
+SEx 16 0.072 0.000 0.57 0.73 11.58
+In (D1) and (D2), an unbiased estimate of the variance of the resid- 17 0.070 0.000 0.57 0.72 11.58
+uals is given by (C3), and the t statistics (D3) and (D4) are distrib- 18 0.043 0.000 0.57 0.70 11.58
+uted as a Student's t with n— 2 degrees of freedom (Chatterjee 19 0.035 0.000 0.57 0.45 11.58
+and Hadi, 2006). Cio and C are the constants chosen, to be com- 20 0.033 0.000 0.57 0.43 11.58
+pared with logK and k, respectively. If the magnitude of the t statis- 21 0.027 0.000 0.57 0.41 11.58
+tic is greater than the critical value from the t distribution t,_2 4/2), 22 0.042 0.000 0.45 1.31 13.04
+then the corresponding null hypothesis (in our case, Hy, or Ho, ) is 23 0.039 0.000 0.52 1.10 12.17
+rejected. The t values distribution table (used for all wave groups) 24 0.027 0.000 0.52 1.09 12.17
+can be found in SEMATECH, 2006. For all wave groups we choose 25 0.072 0.000 0.57 1.00 11.58
+a level of significance o=0.01, so for long elevated waves 26 0.028 0.000 0.57 1.59 11.08
+fos50005) = 2.898. We obtain [fg] = 1.51 and |t] = 2.00. Hence, 20 LIGD By Ose cic
+both hypotheses are validated. 28 0.110 0.000 0.56 6.54 11.74
+29 0.110 0.000 0.56 7.85 11.74
+. 30 0.074 0.023 0.46 0.68 12.90
+ATEN) 31 0.073 0.023 0.46 0.54 12.90
+When the errors are normally distributed, it is possible to con- i Cor Soa a pp hg
+struct the confidence intervals for the regression parameters (logK 34 0.029 0.027 0. 53 0.69 1 5 02
+and k) of Eq. (17). Confidence intervals are expected to contain the 35 0.01 6 0.039 0.5 5 0.63 11.80
+true value of the parameter of interest at the level of confidence
+chosen. The (1 —a')-100% confidence interval for logK and k, (continued on next page)
+respectively are given by Chatterjee and Hadi (2006):

@@ -1,0 +1,103 @@
+Yell ;
+MNJ» Space Weather 10.1029/2024SW004126 e
+SO
+
+AND SPACE SCIENCES 2
+900 | |
+
+| 4 - g
+
+800 ICME 1 ICME 2 Z
+2 :
+c 700 | 1
+= 600 | :
+
+| 2
+
+~ 500 OE
+— | p
+
+168
+
+| | =
+
+| | =
+
+-~ | | =
+ja | | S
+
+| | 2
+
+=
+
+2 50 3
+= | 2
+a E
+0 TT una 4 tA Hn TTY >
+
+| | 3
+
+— | | 5
+\¢ 10 | :
+
+1 | | °
+— | | =A
+— | | d
+
+| | 5
+
+3 0 | 3
+
+® El
+
+~ J he 2
+
+Oo Cow fl s
+
+80 | | p
+
+| d
+
+| 3
+
+__ 60 |
+— | | c
+- | | 3
+40 | | S
+m =:
+20 | :
+
+| g
+
+0 Sh A ARS | aati Wied S
+
+4 8 12 16 20 0 4 8 12 16 20 0 4
+
+UT on 10 - 11 Mav 2024 :
+
+Figure 2. UT variations of solar wind velocity (V), density (N), temperature (T), and total scalar interplanetary magnetic field H
+(IMF By). The arrival of ICME shock at 1634 UT, and a likely second shock at 2136 UT are marked as vertical dashed lines. g
+also Sym-H) exhibited a sharp increase (recovery) due to the northward (eastward) turning of IMF Bz (By) 1
+(Figure 3a) and partly due to enhanced magnetopause currents. Both the Sym-H and BATSRUS Dst decreased c
+again with the southward turning of IMF Bz, and the main phase of the storm continued. However, the BATSRUS :
+Dst is remained significantly higher than the Sym-H throughout the rest of the storm. While the peak negative  &
+®,
+
+Sym-H of —518 nT occurred at ~0214 UT, the peak negative in BATSRUS Dst (—342 nT) occurred around 0745 =
+UT on 11 May 2024. In brief, the BATSRUS significantly underestimated the storm intensity after the arrival of =
+the second ICME. The observed deviations in the BATSRUS Dst with respect to Sym-H could be due to the E
+method of deriving the Dst in the model. In the BATSRUS model under SWMF, the Dst index is calculated by — £
+computing the ground perturbations, through Biot-Savart law integrals, caused by the magnetospheric currents, >
+field-aligned currents (FAC), and the ionospheric Pedersen and Hall currents (Yu et al, 2010; Leihmohn ©
+et al., 2018). Although the detailed investigation of contributions from different current systems is beyond the ;
+scope of this paper, we speculate that the insufficient representation of magnetospheric currents (mainly the ring :
+current) could be one of the important sources for the observed deviation in the BATSRUS Dst. The contributions :
+from the FAC and ionospheric Pedersen and Hall currents are generally expected to be very small at low latitudes, E
+and to the Dst (Yu et al., 2010). d
+Figure 3c shows the latitudinal distribution of disturbance in the H-component observed from a chain of low- :
+latitude magnetometers from the Indian sector. The latitudes of magnetometer stations are shown as black  §
+dots, and the geomagnetic equator 1s indicated with an arrow in the figure. The complete list of magnetometer :
+I.
+=
+
+TULASI RAM ET AL. 4of 14 ¢

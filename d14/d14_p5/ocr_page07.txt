@@ -1,0 +1,64 @@
+www.nature.com/scientificreports/
+
+In general, Fig. 3 confirms the expected higher level of the E-field for Event IT associated with the SSS compared
+to that for Event I associated with a weaker substorm (see Fig. 2). It is worth noting that the determined E-field
+for station NUR, located around 40 km away from Mintsila, is particularly large, 793.7 mV km" (at 19:03 UT),
+the largest recorded value occurring before Event I (Fig. 3d).Figures 4 and 5 present the variations of E with
+latitude during two intervals around the two events, from 16:00 to 23:00 UT on April 23 (Fig. 4) and from 00:00
+to 08:00 UT on April 24 (Fig. 5), respectively. Seven stations: MAS, IVA, SOD, RAN, OUJ, MEK and HAN have
+been selected to cover a latitude range from 69.46° (MAS) to 62.25° (HAN). Interestingly, around the time of
+the FF shock impact (~17:35 UT on April 23, Fig 2), higher E fluctuations are observed at the high latitude
+stations (Fig. 4a-e) compared to the lower latitude stations (Fig. 4f-g). Figure 6 shows 10 s values of Bx and
+
+Geoelectric Fields, April 23, 2023
+— 1500 |
+€ 1000| @ | MAS (69.46 N, 23.7 E)
+I
+| !
+£500 | bi fy
+— I
+LL 0 YMA baer rap VY LN MAAN MMA pen ahi 4 WI WAAL Mk A sree AAS yd
+= 1500 ] -
+€ 1000 by IVA (68.56 N, 27.29 E)
+£500
+LL 0 jo"! Yh ene IIA ho td WA WON ein 2
+— 1 500
+€ 1000L © i SOD (67.37 N 26.63 E)
+> !
+£ 500 | I’ |
+LL 0 AANA WA an _ AA IIASA ah TW A NNANAANANT Ne hen Ae NA
+— 1
+o£ 500 0 0
+€ 1000 d | RAN (65.9 N, 26.41 E)
+> I
+£500 | | | |
+—
+LL 0 SIMA en pe J Whar TWN een TT NAA MN
+i 1500 | x -
+£ 1000 e | OUJ (64.52 N, 27.23 E)
+> |
+c 500 |
+LL] 0 LA AsV Ta AVAL VIVRONE VLA WW NY ANA TVW, NA ne Nn NAW ven pe
+a 1500 i ] ;
+€ 1000} f | | MEK (62.77 N, 30.97 E)
+> |
+£ 500 | I"
+— I
+LL 0 EV VT RN nN |p "eh J a | N NV V Man TO a nO Wl TY
+~ 1500
+1 I 0) oO
+£500
+I
+m 0 ke RIP POR ur | Sr Tar TOO, I Ace UE JPY VY
+z 2 CE
+= VIN ANT =
+O 0 oi My 0 OA A Som -1500
+G -20+ h | 3
+-40 -3000
+16:00 17:00 18:00 19:00 20:00 21:00 22:00 23:00
+Hours
+Figure 4. Geoelectric field E during the April 23, 2023 storm event (from 16:00 to 23:00 UT) for seven selected
+stations: MAS (a), IVA (b), SOD (c), RAN (d), OUJ (e), MEK (f) and HAN (g). For comparison, Mantsédla GIC
+(black, legend on the left) and SML index (red, legend on the right) in panel h have been shown. Event I is
+represented by a red dashed line, while a black vertical dashed line marks the time of the shock.
+Scientific Reports| (2024) 14:25074 | https://doi.org/10.1038/s41598-024-76449-z nature portfolio

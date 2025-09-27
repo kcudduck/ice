@@ -1,0 +1,61 @@
+886 1. Okita and Y. Kojima
+boundary conditions at the discontinuities z =0 and z = L: wave to go back and forth between the stellar surface and the top
+, of the plasma layer, and then this wave interferes with another one
+T_ 4k L n Kk | cos? k® L] propagating from the crust into the cavity. In extremal cases, we
+(D kD find
+3 @7°3 -
+ea) eo | ap fimo = im on, =20 5
+Although the physical situation is different from our present which coincides with the cut-off frequency in the classical limit. At
+work, similar expressions could be found also in our model. This the same time, transmission peaks become blended with neighbour-
+formula (48) implies that the transmission rate has a periodic struc- hg resonance
+ture depending on the wavenumber k® and the characteristic scale
+L of the intermediate layer unless kL ~ 0. Extrema of the trans- Jim Aw, = lim Aw, =0, (35) -
+mission rate work out to be ne 2
+i)
+Af (D3) AOL = nr where Aw,, = Om — Omn-1 | 3
+[k n KO] For 2 =1s"" and L = 10° cm, from equation (53) we can cal- 9
+culate some representative resonant frequencies: the fundamental =p
+Tax = 2 3 o—1 ©
+4k k@] o mode frequency w;ps | = 8.8 x 10” s7", the second mode wy , = 3
+3; KYL =(2n—1)m/2, 7.4 x 10* s7! and the third wos 5 = 1.9 x 10° s™'. Our numerical =
+{1 + kWEG)/ k@] } work also gives similar results; wp | = 2.2 x 10° s7!, wp, = a
+(49) 1.9 x 10* s7! and ws 3 = 5.2 x 10* s7!, respectively. Our re- 3
+with n = 1, 2, ... . Provided that the wavenumber in each region sults exhibit slightly positive deviations from the analytical results. a
+satisfies the inequalities Recall that the wavenumber k" in our magnetar model cannot be 3
+regarded as a constant, since the mass density drastically changes in o
+KY > k@ > k9, (30) the vicinity of the stellar surface. This discrepancy would probably 5
+be attributed to the inhomogeneity in the crust. If a sharp bound- 3
+kKPL > 1, (51) ary 1s formed at the stellar surface, such a difference may probably s
+become small. From a comparison with the analytical model, we =
+the coefficient of cos*[k”L] in equation (48) becomes dominant have concluded that the transmission enhancements obtained in our i]
+compared to that of sin*[k‘” L]. In this limit, equation (48) can be model are thought to be a result of the Alfvén resonance on the 2
+well approximated by rotating plasma cavity due to the potential barrier. o
+(1) 7.3) »
+T ~ wR cos? kL]. (52) S
+kO + k®] 3
+It is noticed that if kV ~ k® ~ k©® the transmission shows nei- 5§ ELECTROMAGNETIC FIELD STRUCTURE =
+ther periodic variations nor enhancements. Consequently, inequali- 3
+ties (50) and (51) give a set of resonant conditions of the In the preceding section we have elucidated that the transmission oo
+wave. Sterling & Hollweg (1984) have subsequently consid- rates of waves are highly enhanced at some selected frequencies SE
+ered a three-layer model for a solar flare, which is com- owing to the resonance effect in the rotating plasma cavity. Reso- <
+posed of a chromosphere, a spicule and a corona. In that work nance in the plasma portion has another spectacular nature. In this 2)
+they have confidently suggested the possibility of Alfvénic res- section, we show that resonance has a great impact not only on the S
+onance on solar spicules and have shown a new aspect of transmission rates, but also on the electromagnetic field structure N
+spicules which may account for occasionally twisting motions of associated with Alfvén waves. Most of our applications will once @B
+magnetic field lines, even when the above resonant conditions ap- again concern the WKB frequency regime of the negative helicity 3
+proximately hold. Conditions (46) and (47) may hold true also in 9- = [m(1 — h) + 2]€2. Hereafter we omit the subscript *—" for =
+our model except close to the thin regime beneath the stellar surface, simplicity. IN
+whenever large twisted waves with m >> 1 propagate in the rotating By substituting equation (28) into equations (11) and (12), we can o
+background. explicitly have the expressions for electromagnetic field amplitudes
+We can now quantify the particular frequencies at which the wave in the plasma zone in terms of k), normalized by a local magnetic
+resonance occurs. By solving the quadratic equation (o_)* — (m + field B,
+Qo — [KP]: = 0, together with the periodic condition KL =
+(2n — 1)7, the eigenfrequencies of the negative mode are obtained 6 By |? _ |0By E 1 |edE, 2
+as B2 ~~ B?  Qp? B?
+2 — m) m+2 \° [@n—1Den]’ de@ |” kD ,
+Wmp,n = — + ("3 + Ear] y (53) — Jm(@) <= — Jm(@) 255 I [Al
+with m, n = 1, 2, 3, = This formula shows that the resonant o { 27’ Gin? @ (z — L)
+frequencies depend critically on the azimuthal number m and the
+plasma cavity length L. They gently decrease with an increase in ,
+L or m. Physically, this means that it takes a longer time for the + £9] cos’ k,,) (z — L) 3 (56)
+© 2005 The Authors. Journal compilation © 2005 RAS, MNRAS 364, 879-890

@@ -1,0 +1,79 @@
+Arrival time (min) Amplitude (m) 27
+1800 1600 1400 1200 1000 800 600 400 200 0 0 0.5 1 1.5 2 (27
+v
+= MAIZURU T
+\E SASEBO =
+’ [EGASPI v =
+2 HUALIEN \ { y ; =)
+4 TSUKIZI = =
+= MONBETSU v 3
+v HAKODATE v Do —+
+= URAKAWA v N=]
+= MASSACRE BAY [— =
+v UNALASKA v Co
+£ SEWARD y =
+= WOMENS BAY = NV
+v SITKA v a
+= ENIWETOK v C=
+= NEAH BAY v DQ
+= JOHNSTON = 5
+r CRESCENT CITY 2 : 9
+v HONOLULU v QQ
+_ SAN FRANCISCO S =
+pA LONG BEACH = y a —
+= SANTA MONICA = —
+v SAN DIEGO - ay
+v CHRISTMAS v :
+v ENSENADA = CRA
+= GUAYMAS v 4
+= LA PAZ 5 2
+= MAZATLAN v :
+v NAOS ISLAND v :
+v SALINA CRUZ v  -)
+2 ACAPULCO v Pos
+= SAN JOSE oS
+v PUNTARENAS = FR
+v BUENAVENTURA y ioe
+= TUMACO y FO
+R=10 = SAN CRISTOBAL 4 R=0.095 LS
+NRMSD = 0.011 v rT v NRMSD = 0.057 :
+NMAD = 0.008 5 CHIMBOTE M NMAD = 0.032 1
+NNSE = 0.999 Y VATARANI vo NNSE = 0.896 =~.
+V1 ANTOFAGASTA MA Fro
+v | CALDERA v : ee
++ COQUIMBO 4 :
+v | VALPARAISO v : NY
+TALCAHUANO =
+1800 1600 1400 1200 1000 800 600 400 200 0 0 05 1 1.5 2 FRO
+BS
+Figure 19. Comparison of observed and simulated first peak values for travel time and amplitude for the Valdivia tsunami event on 22
+May 1960. The location of each station is indicated in figure 3, and the details are shown in table 1.
+varying Manning coefficients and bottom friction data across the domain will improve model accuracy
+in simulating coastal impacts. These advancements will contribute to more precise and operationally
+efficient tsunami predictions.
+Ethics. This work did not require ethical approval from a human subject or animal welfare committee.
+Data accessibility. The official release version of ADCIRC is available from the project website at http://adcirc.org/. The
+ADCIRC code can also be found in the GitHub repository: [49].
+The bathymetry data used for meshing in the current study can be downloaded from https://
+download.gebco.net/.
+The OceanMesh2D MATLAB package used for meshing can be accessed from: [50].
+The observations and model data used for plotting time series for five tsunami events are attached as a
+supplementary file in Excel format [51].
+Declaration of Al use. We have not used Al-assisted technologies in creating this article.
+Authors’ contributions. S.S.K.: conceptualization, data curation, formal analysis, investigation, methodology, resources,
+software, supervision, validation, visualization, writing—original draft, writing—review and editing; P.L.N.M.:
+conceptualization, data curation, formal analysis, investigation, methodology, resources, software, validation,
+visualization, writing—review and editing; S.K.T.: methodology, project administration, supervision; P.R.E.:
+investigation, supervision; R.M.M.V.: investigation, methodology, supervision.
+All authors gave final approval for publication and agreed to be held accountable for the work performed
+therein.
+Conflict of interest declaration. We declare we have no competing interests.
+Funding. No funding has been received for this article.
+Acknowledgements. The authors thank the Ministry of Earth Sciences (MoES), Government of India, for the extended
+support in carrying out the work. Thanks also to the ADCIRC developing team for sharing the code. We thank
+Flanders Marine Institute for maintaining the IOC sea level website and giving access to the data. This is INCOIS
+contribution number 543.
+1. Lavigne F, Paris R, Leone F, Gaillard JC, Morin J. 2004 Indian Ocean Tsunami. In Encyclopedia of natural hazards encyclopedia of earth sciences
+series, pp. 529-535. Dordrecht: Springer. (doi: 10.1007/978-1-4020-4399-4_192)
+2. Grilli ST, loualalen M, Asavanant J, Shi F, Kirby JT, Watts P. 2007 Source Constraints and Model Simulation of the December 26, 2004, Indian
+Ocean Tsunami. J. Waterw. Port Coast. Ocean Eng. 133, 414-428. (doi:10.1061/(asce)0733-950x(2007)133:6(414))

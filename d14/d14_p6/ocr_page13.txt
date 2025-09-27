@@ -1,0 +1,47 @@
+Rate geoelectric field 1s above threshold
+* Field averaged over 60 seconds
+\ - Logfit, field averaged over 60 seconds
+10! N\
+
+3
+
+E NN
+
+S he
+
+: NO
+
+wu LT
+
+5 10° \ Ne
+
+i
+
+uh 1 ht
+
+= .,
+
+5 ’, Ric
+
+a . ,
+
+w] 2 ™N
+
+= ky
+
+I; >
+
+p=] .
+
+[AF] "SN
+
+= : hy bY
+
+10-2 : Ny
+10!
+Geoelectric Field (V/km)
+Figure 2: Normalised recurrence rates of geoelectric fields measured at the FRN
+MT site. This is the final result of our normalisation procedure in stage one of
+the method. We use the log-normal fit as per the recommendation in 1, 2.
+2 Methodology, stage two
+3

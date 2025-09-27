@@ -1,0 +1,48 @@
+5
+1.0
+0.8
+0.6
+he
+4 0.4 ©
+D4 0,
+ -
+» E
+; 0.23
+—
+=>
+I
+| |
+a
+0.0
+FIG. 3. European substations at risk of electricity loss after a 1-in-10000 year storm. Colour indicates the fraction of HVTs
+we expect to fail within a given Voronoi tile.
+ometries from an EPRI report 40] and linearly interpo- should that not be the case, it is fairly straightforward to
+late the data where necessary, as well as the temperature substitute this number for a region-specific one if needed
+response for both designs — 7. These data were extracted (for those who have access to the data). We use the
+by hand from the said report. Both T™ and 7 are mul- cumulative fraction of transformer population exceeding
+tiplied by 2 to accommodate the fact that the studied safe temperatures as the proxy for the probability of fail-
+tie bar geometry designs represent the extreme “best” ure for the transformer in a given class; therefore, we can
+and “worst” cases; thus, we are considering the midpoint write:
+between them (this scaling factor can be found via in-
+specting the i. report). The HVT temperature can F(Ve) = f(Ve) > F(Tavr > Tmax) f(A), (7)
+be found as: 39] A
+where F'(V.) is the fraction of transformers overheating in
+Tavr =T" (Igr) (1 — 7) + Thi, (6) class V., A is the age category, with f(A) the fraction of
+transformers in given age category, and f(Tyvr > Taz)
+where t is the duration, and T,;; = 90°C is the surface 1s the fraction of transformers above safe temperature for
+oil temperature assumed in a severe geomagnetic storm the age, and f(V.) is the fraction associated with the
+40]. transformer type. For each of the 42 transformer types,
+To determine whether the temperature in Eq. (6) we associate V,. and a phase ¢ with them, and now, each
+makes a transformer tail, we look at the structural tem- transformer is a member of a group. E.g., there are seven
+perature limit in [39], which is a function of the trans- types in a group defined by {V. = 500, ¢ = 1}, so for each
+former’s age. We estimate the transformer population transformer in this group, f(V.) = 1/7. All the values for
+age distribution based on the statistics in the same re- transformer types, temperature limits, and transformer
+port. Each transformer has an associated voltage class population are presented in SI Table 51, 52, and 53.
+(V.), which we assign based on the proximity to one of Ultimately, we want to assess whether a power net-
+230, 345, 500, 765} [kV]. These values are chosen specif- ~~ work node n fails, and we achieve that by estimating the
+ically as these have associated statistics on the trans- percentage of transformers failing at any given node as:
+former phase demographics in the aforementioned report
+and prevalence in the US grid per class 41]. The US F(n) = 3 F() Foria(V) NN" FR(V,) | (8)
+dataset was the easiest to obtain, and we assume grids (SA >
+around the world would not have significantly different oe )
+characteristics in these particular features. However, fqria(Ve) is the prevalence of transformers in class V, in

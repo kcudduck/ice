@@ -1,0 +1,37 @@
+Confidential manuscript submitted to Journal of Geophysical Research: Oceans
+
+where d 1s water depth, L 1s wavelength, co 1s water wave celerity, T 1s wave period and D 1s
+propagation distance. In this study, the characteristic wavelength L 1s 900,000 m and the average
+water depth 1s approximately 4,500 m, which 1s representative of the Pacific Ocean. The effects of
+wave frequency dispersion accumulate in time/space. Therefore, according to Glimsdal et al.
+(2013), if 7 < 0.01, the dispersion effects are small, and if 7 > 0.1, the dispersion effects become
+significant. For a propagation distance of 10,000 km, which 1s the order of magnitude of the width
+of the Pacific Ocean, 7 1s 0.0016. This suggests already that the frequency dispersion effects for
+the Tonga event are expected to be negligible.
+
+The time series of the surface elevation at two DART buoys 1n the far-field comparing the
+dispersive and non-dispersive simulations are plotted in Figure 13. The results show minor
+differences only, with deviations being less than 6%. This indicates that the dispersion effect can
+be safely ignored when simulating the wave driven by the moving pressure in the 2022 Tonga
+tsunami event, since the pressure shock wave 1s a very long wave. This conclusion, however, does
+not hold when reproducing the other wave generation mechanisms. The additional mechanisms
+produce significantly shorter waves, as has been shown in Lynett et al. (2022). Therefore, shorter
+waves will be more affected because they travel a longer distance relative to their wavelength, as
+will be further discussed in the next section.
+
+0.05 43412 (8499 km 0.05 32401 (10385 km
+— No dispersion 0.04 ES em
+- - === - Dispersion '
+| 0.03 :
+0.02
+a 0.01 :
+g 0 pf EI
+y oo | v
+-0.02 A
+0.03 aL
+-0.04
+-0.05
+400 500 600 ) ) 700 800 200 09200 500 600 700 800 900 1000 1100 1200
+Time (min) Time (min)
+Figure 13 Time series of the surface elevation without and with dispersion effect
+30

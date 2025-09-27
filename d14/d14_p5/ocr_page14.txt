@@ -1,0 +1,109 @@
+www.nature.com/scientificreports/
+
+changes, variations, and growth in both E and GIC values. Moreover, the consistency in time of these changes
+
+was very high, the extreme values of modelled E for various locations, and GIC appeared at practically the same
+
+time, unlike Event I.
+
+In summary, it seems that GICs associated with different processes (expansion of electrojets or intense
+magnetic pulsations) are also associated with a different picture of the temporal-spatial change of the E-field.
+
+Moreover, the performed analysis underlines the important role of both the magnitude and direction
+of the E-field in understanding of the appearance of significant GICs, suggested in various studies'**’. The
+overestimation of modeled GICs, besides the potential reasons mentioned above, could be the effect of changes in
+geoelectric field directions with respect to the Mantsala pipeline or/and the existence of preferential orientations
+relative to the pipeline that subsequently drove large GICs™.
+
+Finally, it is worth mentioning that the scientific community has recently observed an increase in intense
+space weather incidents of a strength exceeding the analyzed strong geomagnetic storm of April 23-24, 2023.
+Therefore, our current and future work will focus on modeling the E-field during these new events, particularly
+the geomagnetic storm that occurred in May 2024. A comparative analysis of the results of this article with the
+spatial-temporal distribution of the geoelectric field during other events can shed light on understanding GICs
+and their relationship to physical processes.
+
+Data availability
+
+The solar wind plasma and IMF data used in this work are obtained from the OMNI database: http://cdaweb.
+
+gsfc.nasa.gov/cdaweb/istp_public/; the magnetometer data from IMAGE: http://space.fmi.fi/image/; the SML
+
+index from SuperMAG: https://supermag.jhuapl.edu/; and the GIC data from the Finnish Meteorological Insti-
+tute: https://space.fmi.fi/gic/.
+
+Received: 10 August 2024; Accepted: 14 October 2024
+
+Published online: 23 October 2024
+
+References
+
+1. Dungey,]. W. Interplanetary magnetic field and the auroral zones. Phys. Rev. Lett. 6,47-48. https://doi.org/10.1103/PhysRevLett.6.47
+(1961).
+
+2. Tsurutani, B. T. & Meng, C.-1. Interplanetary magnetic-field variations and substorm activity. J. Geophys. Res. 77, 2964-2970.
+https://doi.org/10.1029/JA0771016p02964 (1972).
+
+3. Tsurutani, B. T., Gonzalez, W. D., Tang, E, Akasofu, S. I. & Smith, E. J. Origin of interplanetary southward magnetic fields
+responsible for major magnetic storms near solar maximum (1978-1979). J. Geophys. Res. Sp. Phys. 93, 8519-8531. https://doi.
+org/10.1029/JA093i1A08p08519 (1988).
+
+4. Echer, E., Gonzalez, W. D., Tsurutani, B. T. & Gonzalez, A. L. C. Interplanetary conditions causing intense geomagnetic storms (dst
+< -100 nt) during solar cycle 23 (1996-2006). J. Geophys. Res. Sp. Phys. 113. https://doi.org/10.1029/2007JA012744 (2008).
+
+5. von Humboldt, A. Die vollstindigste aller bisherigen beobachtungen iiber den einfluss des nordlichts auf die magnetnadel
+angestellt. Ann. Phys. 29, 425-429. https://doi.org/10.1002/andp.18080290806 (1808).
+
+6. Gonzalez, W. D. et al. What is a geomagnetic storm?. J. Geophys. Res. Sp. Phys. 99, 5771-5792. https://doi.org/10.1029/93]A02867
+(1994).
+
+7. Gannon, J., Swidinsky, A. & Xu, Z. Geomagnetically Induced Currents from the Sun to the Power Grid. Geophysical Monograph
+Series (Wiley, 2019).
+
+8. Wawrzaszek, A., Gil, A., Modzelewska, R., Tsurutani, B. T. & Wawrzaszek, R. Analysis of large geomagnetically induced
+currents during the 7-8 September 2017 storm: Geoelectric field mapping. Space Weather 21, €2022SW003383. https://doi.
+org/10.1029/2022SW003383 (2023).
+
+9. Yagova, N. V,, Pilipenko, V. A., Sakharov, Y. A. & Selivanov, V. N. Spatial scale of geomagnetic Pc5/Pi3 pulsations as a factor of their
+efficiency in generation of geomagnetically induced currents. Earth Planets Sp. 73, 88. https://doi.org/10.1186/s40623-021-01407-2
+(2021).
+
+10. Heyns, M. J., Lotz, S. I. & Gaunt, C. T. Geomagnetic pulsations driving geomagnetically induced currents. Space Weather 19,
+e2020SW002557. https://doi.org/10.1029/2020SW 002557 (2021).
+
+11. Nikitina, L., Trichtchenko, L. & Boteler, D. H. Assessment of extreme values in geomagnetic and geoelectric field variations for
+canada. Space Weather 14, 481-494. https://doi.org/10.1002/2016SW001386 (2016).
+
+12. Kelbert, A. The role of global/regional earth conductivity models in natural geomagnetic hazard mitigation. Surv. Geophys. 41,
+115-166. https://doi.org/10.1007/s10712-019-09579-z (2020).
+
+13. Dimmock, A. P. et al. Modeling the geomagnetic response to the September 2017 space weather event over Fennoscandia using the
+space weather modeling framework: Studying the impacts of spatial resolution. Space Weather 19, €2020SW 002683. https://doi.
+org/10.1029/2020SW002683 (2021).
+
+14. Cordell, D. et al. Modeling geomagnetically induced currents in the Alberta power network: Comparison and validation using
+hall probe measurements during a magnetic storm. Space Weather 22, €2023SW003813. https://doi.org/10.1029/2023SW003813
+(2024).
+
+15. Barlow, W. H., Barlow, P. & Culley, R. S. VI. On the spontaneous electrical currents observed in the wires of the electric telegraph.
+Philos. Trans. R. Soc. Lond. 139, 61-72. https://doi.org/10.1098/rstl.1849.0006 (1849).
+
+16. Varley, C. Discussion of a few papers on Earth currents. J. Soc. Telegr. Eng. 2, 111-114. https://doi.org/10.1049/jste-1.1873.0033
+(1873).
+
+17. Campbell, W. H. Observation of electric currents in the Alaska oil pipeline resulting from auroral electrojet current sources.
+Geophys. |. Int. 61, 437-449. https://doi.org/10.1111/j.1365-246X.1980.tb04325.x (1980).
+
+18. Akasofu, S.-I. & Aspnes, J. D. Auroral effects on power transmission line systems. Nature 295, 136-137. https://doi.
+org/10.1038/295136a0 (1982).
+
+19. Lakhina, G. S., Hajra, R. & Tsurutani, B. T. Encyclopedia of Solid Earth Geophysics, chap. Geomagnetically Induced Currents,
+523-527 (Springer International Publishing, 2021).
+
+20. Gil, A. et al. Review of geomagnetically induced current proxies in mid-latitude european countries. Energies 16, 7406. https://doi.
+org/10.3390/en16217406 (2023).
+
+21. Svanda, M., Mourenas, D., Zertovd4, K. & Vybostokova, T. Immediate and delayed responses of power lines and transformers in
+the Czech electric power grid to geomagnetic storms. J. Space Weather Space Clim. 10, 26. https://doi.org/10.1051/swsc/2020025
+(2020).
+
+Scientific Reports | (2024) 14:25074 | https://doi.org/10.1038/s41598-024-76449-z nature portfolio

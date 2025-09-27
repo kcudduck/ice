@@ -1,0 +1,28 @@
+currents and partial ring current and, even FACs. Similar evidence of magnetic changes,
+confined in a narrow longitude range in the forenoon sector, and as a result with a little
+contribution to the Dst index, were provided by Akasofu and Kamide [2005] for some
+intense storms. Siscoe et al. [2006] and Green and Boarden [2006] already suggested
+that the H-spike in C59 might have a significant auroral-ionospheric component.
+Boteler [2006] pointed out that the combination of the negative depression in H at
+Rome and the large positive Z excursion at Greenwich were the signatures of a large
+westward electrojet at ~40° to 45° MLat, which will produce a considerable enlargement
+of the auroral oval during C59. However, he concluded that there was no evidence that
+it went far enough equatorward to contribute to the magnetic variation recorded at
+Colaba. More recently Cliver and Dietrich [2013], comparing C59 and the geomagnetic
+storm mn May 1921, indicated that an auroral negative depression contributed to the
+negative H-spike in the Colaba trace during C59.
+
+During C03, the availability of a large number of magnetic records spread through the
+globe has allowed us to go further in these suggestions regarding the auroral-ionosphere
+component 1n magnetograms and to propose a major role for FACs in CO3 and by
+extrapolation during C59. Extending what Siscoe et al. [2006] pointed out for the effect
+of 1onospheric currents involved in C59 to FACs, we conclude that the effect of FACs
+affecting a magnetogram at a latitude as low as 10° 1s also an exceptional aspect of the
+storm.
+
+The H-spike at Colaba in C59 (considered up to now as a Dst-spike) was addressed by
+simulation assuming solar wind conditions with very intense (~ 60 nT) and short time
+duration southern B; and an additional extreme enhancement of the solar wind density
+(~1800 cm™) after the negative B; [Li et al., 2006]. Similar profile shapes to the Li et al.
+
+9

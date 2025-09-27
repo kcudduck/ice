@@ -1,0 +1,72 @@
+Torsional Alfvén waves in rotating magnetars 881
+due to strong gravity of the neutron star, g ~ 10'* cm s=2. Therefore, Equations (11) and (12) imply that it stellar rotation can be com-
+the following transverse wave condition may be easily satisfied: pletely ignored, then 0 E, 6 B and the propagation vector k = ke; form
+13 1 dc a mutually orthogonal set of vectors, say, transverse electromagnetic
+V-&€=— Fy. (és) + — vs = 0. (1) modes (TEM). However, in the presence of rotation, such an orthog-
+w Cw @ 09 onality breaks down and thus longitudinal modes of the perturbed
+As one of the simplest solutions, wave Ansatz under this condition electric fields and currents are excited [transverse magnetic (TM)
+can be written formally as modes]. Other perturbed quantities related to the displacement are
+m1 calculated by using above the results (11) and (12):
+Ew, ¢,2,0) = (er ity) | — | Eine (2) @F c
+» Py &s ) ¢ on m,w dj = —V X6B— —0,0FE
+47t 47t
+m=1,2,3...). (2) cB, [ @ ml d?&, | wloFmi),
+— 1— Em —_— _
+Here, the notation ‘1’ denotes the difference of helicity states. Dis- + A1t \ wp dz? c? +
+placements and other perturbed quantities are always assumed to J
+Co. ~ wQw d&y . >
+have a harmonic time dependency e™'*". X (en Tiley) F —5———e€, pe HwrFme). (13) s
+The crust and the surrounding plasma can be regarded as a per- ct dz S
+fect conductor because ohmic dissipation time-scales are very long 1 ®
+compared with other time-scales of interest. The frozen condition 00s = yy OF =
+can read m met 3
+1 _ B,Qw wo d Ex o—i(@IFme) (14) E:
+E + v X B =0. (3) A7te We dz2 ?
+©
+The background is assumed to rotate uniformly with UV = wS2ey, The linearized equation of motion for uniformly rotating back- 5
+which means that the local electric field around a highly conducting ground from a static equilibrium state governing the torsional Alfvén 3
+spherical star has only aradial component EK = (—@ 2B, /c)e,,. The waves is now given by o
+electric field now generates the Goldreich—Julian charge density C
+0[0;0v; + (v - V) dv; + bv-V) V; | =
+pe =V -E [411 = —QB, /27c. (4) = 55; + OF, + (gdp), — (Vop);, (i =uw,¢,2). as 3
+Transverse displacements of the crustal matter produce electro- The profile of the mass density p in the crust is obtained by solving -
+magnetic field perturbations propagating along the local magnetic the equation of state for degenerate electrons as follows (Blaes et al. &»
+field B = B,e,. A self-consistent set of Maxwell equations for per- 1989) 2
+turbed electromagnetic fields 6 FE and 6B are 5/2 , 3/2 2)
+~ (Hemy) SH 2 om 12] >
+V -8E = 4718p. (5) P=""22pm 7 2 Ete |< 2
+57 3/2 &
+V-.0B =
+0 0, (6) ~ 8.0 x 10 (2) +2.5x 107" (2) | gem, (16) -
+cm cm
+1 &
+VX oE = — . 0;0B, (7) where m,, is an atomic mass unit, jt. is the mean molecular weight per <Q
+electron and the other symbols have their usual physical meanings. o
+At 1 The first term on the right-hand side of equation (15), 65;, 1s a -
+V XB = To 0] + c dro k, (8) perturbed elastic stress tensor associated with distorted matter in the ®
+where § denotes Eulerian perturbation. By taking the perturbation crust and can be written in terms of 5 | | 2
+. 0) Jel EJ N)
+of equation (3) and then combining with equation (7), FE and 6B 5S, = V, | | 2 — <H 5.V EHV | u og" n 9s’ >
+are expressed as 3 Ox; Ox; @
+©
+| 9 — 9 9 9 17 0]
+SE = —— (Su X B+v x 5B), 9) t.j=w.9.2) | | an 3
+C where 37 1s a bulk modulus, © 1s a shear modulus given by @
+_ 2 2 4/3 ND
+SB=(B-V)&. (10) n= 0.2952%"n, S
+4/3
+By using the relation between the displacement and the velocity ~ 4.8 x 10% p erg cm (18)
+perturbation dv = 0,€ + (v- V)& — (€ - V) v together with equa- 10" g cm
+tion (2), we obtain with the ion number density n; = p/Z i. m,, and §;; is the Kronecker
+A —\ "7! delta. In the following calculations, Z = 32 will be adopted as a
+SE = — (=) typical value in the crust. If one considers the complete transverse
+€ \@pc oscillation mode, the first term of equation (17) vanishes owing to
+. Cs op G62 V.£=0.
+X | FoF mL) Siler L1ey) + Low dz The second term on the right-hand side of equation (15) can be
+« orm) (11) resolved into perturbations of Lorentz and Coulomb forces
+1
+OF = 6p. E+ p.0 E+ . (0J X B+ jXoB)
+m—1
+_ @ ds 1 a—i@rFme) 1
+oB = B, (=) 5 + 1e4) Cc . (12) ~ p; (8 j— 0:8) XB. (19)
+© 2005 The Authors. Journal compilation © 2005 RAS, MNRAS 364, 879-890

@@ -1,0 +1,69 @@
+www.nature.com/scientificreports/
+25
+2 2 -1000
+20 B N DP ® " BS "
+= |? 096 &_ A Pa 3 1200 =
+oc 4 = A oR 2 5a 7 ww R £-1400 &
+10 - i g ASAD A A—& { ¥)
+§ = . -1600
+19:38 19:39 19:40 19:41 19:42 19:43 19:44 19:45 19:46 19:47 19:48
+April 23
+a 23-Apr-2023 19:38:40 b 23-Apr-2023 19:44:00 Cc 23-Apr-2023 19:45:30 Log, ([EI)
+3
+70° N af ; A 70° N PY i EV 70° N ip ) "
+ANB ANE AN
+2 2) ? pa SE AR 2
+RS \ RS \ rst i \
+¥
+65 N y 65 N y 65 N y
+A \ \ 1
+r oO N r O ho al oO N
+tT SO 60°N SO 60° N\ SO "
+KAR KAR KAR]
+2 | . 2 NGR PPN . 2 NGR PPN - 2
+50° 30 © 50° 30 © 50° 30 ©
+td) 10'E 20 E 4) 10'E 20 E 4) 10° E 20 E
+Log, , (IE])
+3
+p nN a LI 4
+70°N Mia EV.2 70°N 44 age 70°N ge 2.95
+oof 2) ”g ie? Kir 2) py Ne |X) 2
+Rs? o> \ rst] i \ rst g AN \
+| dr | aa PE | dat, A 15
+65 N ri A 4) 65 N Bre COTO a 65 N be Js»2 2) Ne
+as——e spite : AAI 57) sheet 0 PAST is :
+DOR ie 7 s—- i NW ve pont! ss 0.3
+Ps a ge
+Qc sh 7 KAA Re i CANE a
+PI As Or PATE EN A & $9074 WEA SATIN
+daar $900, ge 2a TV AANA ee OME p
+55"N ihn 27 x 55°N 7% 2 3 TT Af \ 55°N f Ae150000e ALE
+PR WRG os 7 sow 1 RV To CONAN HY yn FroenfM -1.5
+\ $2717] . ~~ wR \ Jd fire NG © 7 7Z2>syan
+vor MT h PPN - a NE SEC EE Gg - NolE<e ud dt dl -2
+20 E 20 © 230 =
+10'E 20 E 10 E 20 E 10° E 20 E
+Figure 7. (top) GICs at Mantsala (black, legend on the left) and the SML index (red, legend on the right)
+around Event I. Three intervals/times are denoted by red circles, marked as (a-c). (middle) E magnitude
+maps corresponding to (a-c). (bottom) E direction maps corresponding to (a—c). Color bars at the right
+show E magnitudes (mV km!) in log scale. Black dots on maps indicate geographic location of the IMAGE
+magnetometer stations (see Table 1) used for this analysis. For comparison, the Mantsala station location has
+also been denoted and highlighted by a red dot.
+the maximum value of 991.4 mV km exactly at the same time. The animation S1 displays that after 19:30 UT, E
+around MEK is directed towards East. Moreover, Fig. 3 and animation S1 reveal an interesting temporal feature
+of the April 23-24 storm as follows. The more south the magnetometer is located (e.g., NUR and TAR, both
+operated by Finnish Meteorological Institute), the associated E-field values were stronger during Event I in
+comparison to Event 11.
+
+Event | was chosen deliberately, as an example where the power of changes in the values of the geomagnetic
+indices and GIC is weaker compared to Event II (Figs. 7 and 8, middle and lower panels). This is the moment
+when during the substorm phase the local maximum of the SML-index value appeared. These lower values
+indicate that it is expected that the changes in the E-field maps will be more subtle — and this is exactly what
+they are.
+
+Event Il at 03:54:20 UT on April 24
+
+The second animation of maps included in the Supplementary Information (Supplementary Video S2) presents
+
+the temporal and spatial variations of computed E-field around Event II, from 03:52 to 04:02 UT on April 24.
+Scientific Reports | (2024) 14:25074 | https://doi.org/10.1038/s41598-024-76449-z nature portfolio

@@ -1,0 +1,88 @@
+A 7 ) S
+MI Journal of Geophysical Research: Oceans 10.1029/2020JC017011 2
+AND SPACE SCIENCE E
+
+We find that that the two pressure changes do not agree p(x. y, hy, () # pbotom (x, y, hy, ] inside the pressure z
+change source. Such disagreement is also found in the tsunami height and velocity fields inside the pressure z
+change source. These disagreements were not detectable in the past observations in which tsunami sensors E
+were located only outside the source region. However, this difference should appear in recent tsunami ob- =
+servations which are intended to detect tsunamis inside the source region. =
+=
+
+3.3. Moving Surface Pressure Change :
+We suppose a pressure change of the same spatial distribution as Equation 41 but moving with the propa- =
+gation velocity V, in the x direction: S
+(x-Vpt)* =
+
+2 (57) =
+
+Diurface (x. y, / = Pi (x — Vot )H (1) = Rye H(t) =
+
+As discussed using Equation 48, the tsunami is independent of the source duration T when the duration is =
+much shorter than the characteristic time T.. The vertical upward displacement, the velocities inside the sea g
+layer, and the pressure change at the sea bottom are obtained by the convolution of the pressure change 57 E
+with the impulse responses of Equations 32-37. The vertical upward displacement is 2
+»
+
+n(x Ys () = —U, (x. Ys 0, () — -0 ds.dg, J dri, x Gs y — Cys 0, [ — 7) Puartce (&. Cys r) E
+
+00 2 (58) :
+
+Lf ak eter PAT) (5) EN Sy H(t) py
+
+x oJ) 8
+
+27 —00 Lo80o 1 B ki Vi 2 1 _ kV, 2 1 4 kV, :
+
+2 0 :
+
+where p, (k,) is the 1-D spatial Fourier transform of p, (x) Equation 58 corresponds to Equation 2.4 in the c
+observation by Proudman (1929) but is not the same because we give the 3-D case including the dispersion, :
+while the 2-D case without the dispersion was derived by Proudman (1929). Using k = |, the horizontal El
+and the vertical velocities are given by S
+17 ik x pik.) cosh] k (hy B 2) kv 1 —ik, Vy :
+
+= — | dk e"™ . Wo| —— 75 € x70 7
+
+27 —0 Lo8o sinh ( kh ) ON {_ kV; 2
+
+wg (59) 2
+
++ a _ Cr H (1) :
+
+2k 1 — 2x 0 2k 1 + =X 0 =
+
+@, @, =
+
+and z
+_ k Vo
+
+1% ik x p(k, ) sinh k (hy B 2) | Dy ik Vr g
+
+v (oy at) == | dk" ———-——— ia, 2,2 © x
+
+27 oo L080 sinh ( kh ) | k“Vj =}
+
+2 a
+
+Wo (60) 5
+
+1 1 [opt E
+
+1 1 —iogt A eV =
+
++ ———e V — H(t). 2
+
+2 kV, 214 KM (4) z
+
+1 — 2x0 , 3
+
+:
+
+é
+
+:
+
+2
+
+SAITO ET AL. 120f29  §

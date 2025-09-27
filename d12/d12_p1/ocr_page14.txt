@@ -1,0 +1,30 @@
+to 3.3 ms~! at 350 meters inland. The Froude number, which is around 0.9,
+does not change significantly in space. Also the range of possible velocities
+and Froude numbers decreases from 150 meters to 350 meters inland.
+
+The flow speed profile shape is influenced by the eddy viscosity profile
+and shear velocity. The eddy viscosity profile parameterizes the vertical
+distribution of turbulent stress. TSUFLIND follows the flow eddy viscosity
+profile based on laboratory data from Gelfenbaum and Smith [1986]. The
+How speed gets the largest value on the water surface and decreases toward
+the sediment bed. TSUFLIND only gives the depth-averaged values as final
+results.
+
+TSUFLIND computes the water surface profile to estimate the water
+volume when the tsunami wave reaches the maximum inundation. With the
+help of Eq (16), the wave amplitude can be estimated based on the slope (m)
+and the water volume (1). For the Eastern India case, the wave amplitudes
+range from 5 to 7 meters and the wavelength is close to 50 km.
+
+4. Discussion
+4.1. Interpretation of test case results
+
+With the help of the presented model, we can reproduce tsunami sedi-
+ments as well as infer the flow condition that generated them based on ob-
+servations and analytical results of existing tsunami deposits. Figure 3 sum-
+marizes the results of our simulation for the tsunami deposits. The apparent
+difference of the deposit thickness between model results and observations for
+distances smaller than 120 m from the shoreline can be explained by strong
+return flow or large velocities from subsequent waves with small inundation.
+
+14

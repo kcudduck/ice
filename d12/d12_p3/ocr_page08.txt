@@ -1,0 +1,35 @@
+8
+6 | |
+JANE J
+0 | |
+0 2 4 0 8 10
+a
+FIG. 7. Critical Froude number Frg = / Ho /h§ at which the maximum wave amplitude is reached for the collapse of granular
+column, as a function of the initial aspect ratio a. The line corresponds to Eqs. for the three domains separated by the two
+vertical dotted lines at a = 0.93 and a = 3.
+to be different in this case 24, 25]. In addition, a 3D context would make the wave hydrodynamics more complex.
+APPENDIX : CRITICAL DEPTH FOR A MAXIMUM WAVE AMPLITUDE
+It 1s interesting here to provide a discussion on the critical water depth at which the maximum wave amplitude is
+reached, for the collapse of a granular column of a given aspect ratio, as observed in the bell-shaped curves of Figs.
+5(a)-(b). From Eqs (3)-(4), one can obtain that the critical depth is given by hf = AL Hs /(2L), which leads to
+the corresponding amplitude A¢ ~ 0.45y/ALo®Ho/(4L+). For a column with a given aspect ratio a, leading to a
+given deposit, we can infer from these expressions that both Af and AS increase linearly with the initial height Hj
+of the column, as can be observed in Fig. 5(a). To illustrate this point, fom Eqs. we can write hi /Hy in terms of
+the initial aspect ratio a of the granular column in the following manner:
+0.83a
+— for a < 0.93,
+1+ 1.65a ~
+hg 0.78a'/2
+— My — for 0.93 < a < 3, (8)
+Hy 1 + 1.65a ~o
+1.13
+——— for a 2 3.
+1 + 2.38a2/3 ~
+These expressions thus show that hg is proportional to Hy when the aspect ratio of the column is kept constant.
+The associated critical Froude number Fr; = /Hg/h§ is presented in figure [7] as a function of the aspect ratio of
+the column. It shows a nontrivial evolution with a, with a sharp decrease for low aspect ratio (a < 0.93), and an
+increasing region for higher values of a. It means that, for aspect ratios below 0.93, the maximum value for the
+amplitude of the wave is reached for Af small when compared to the initial column height Hy. Around a ~ 0.93, the
+curve reaches a global minimum where Fry; ~ 1.8, so that hi ~ Hy/3.24: It is the highest possible value of hf when
+varying the initial aspect ratio of the column. Then, increasing a beyond this point again implies that the critical
+wave amplitude occurs with hg increasingly small when compared to Hy.

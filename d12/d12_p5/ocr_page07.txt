@@ -1,0 +1,68 @@
+I. Charvet et al. / Ocean Modelling 69 (2013) 79-92 85
+3.2.1. Repeatability 1
+A critical element of the experimental study was to test the >
+reproducibility of the measurements. The pooled standard devia- io id |
+tion calculations are detailed in Appendix A, and the results dis- “ 3
+cussed here are shown in Table 3. In comparison with the La
+resolution of the spatial and temporal measurements (see Sec- oy 0.4 yd + Present data (long elevated)
+tion 3.1), the standard deviation values indicate that the small var- oc yi I pL <0)
+. eq. . ] . 5 — ~Synolakis (non breaking, A) (1/20)
+iability is of the same order as the accuracy - with the exception of Pd RR BRERA
+the period measurements for elevated waves where the variability / Borthwick c/30)
+5 5 5 5 5 yd Borthwick (1/30)
+is slightly higher —- thus these small variations are an effect of the 7 ----Synolakis (non breaking, E) (1/20)
+instrumental resolution only. In addition, taking @max min» Tmax mins
+and Rpaxmin aS the maximum and minimum amplitudes, periods 0.01 |
+and runups of the samples, respectively, the standard deviation meal Bit Md .
+of the measurements of these parameters were smaller than 7.4% a/h
+Of [mami a ; or OT mari a mania. The Stan card Fig. 5. Runup data for long elevated waves (present experiments), and relationships
+of the form of (2) obtained in previous studies for different values of « and 7) as
+population standard deviation o(i.e., standard deviation for all listed in Table 2.
+waves tested). Therefore, the experiments are repeatable.
+3.2.2. Data split 0-28 .
+A relative measure of the wave length should be defined to Pi lard
+investigate runup. In the present experiments, variations in water 0.23 h ! i \ - ---Synolakis solitary
+depth (h) are small (0.45 m < h < 0.69 m), and it is believed that h ' B ks
+for long waves such as tsunami the dynamics of wave runup will 0.18 A FREE
+be mainly influenced by the length of the beach over which the < ro \
+wave travels, in comparison to the actual length of the wave. Be- Ne AH &
+cause time series of wave elevation have been collected, we choose pi | : \
+to consider the wave period as a representative measure of the sos 7 FE EEA
+wave length. The time T, it takes for a given wave to travel the 7 Lo
+length of the beach I, can be estimated: Co 7 } te
+I, 7 ; AN
+T= [m= (12) re fl rep ——
+o \/gh(1-%) eh ol x/h
+Considering an average h ~ 0.58 m over the range of experiments, Fig. 6. Comparisons of wave profiles between typical elevated/ solitary wave for
+I, = 13.7 m, we obtain an approximate T, ~ 11 s. To distinguish be- the runup studies considered in Fig. 3 (i.e., The present study, Synolakis, 1987;
+) Co Borthwick et al.,, 2006 - numerical results and theory (Boussinseq first order
+tween long and very long waves, we used the discriminator T/T, as solitary wave).
+this provides a measure of the influence of beach length on the
+wave characteristics. For simplicity (and because the proportion
+of data would not change), we decided to use the critical value of json between the long elevated wave data, the results of Synolakis
+T/T, = 1 and split the data between long waves (T/T, < 1)and very ~~ (1987) and Borthwick et al. (2006) for beach slopes
+long waves (T/T, > 1). The present experimental cases (T/T, vs. ~~ 10 < cot 8 < 30. Example wave profiles for the aforementioned
+a/h) have been placed in Fig. 4. studies are shown in Fig. 6. The waves in the present study are
+not as steep as classic solitary waves, but can be compared to these
+4. Experimental results in terms of total height or area.
+Moreover, it should be noted that the experimental waves gen-
+As a first step, the consistency of the new results with previous erated were in the breaking region (both elevated waves and N-
+published studies is assessed. Next, the data is analysed through waves), for which analytical runup relationships do not exist. This
+dimensional analysis taking into account the unique wave charac- has been illustrated in Fig. 4 also, which compares the present data
+teristics (i.e., in terms of shape, energy, wavelength). Finally, by with the analytical results from Madsen and Schaffer (2010).
+applying a rigorous regression analysis, empirical runup relation- The results presented in Table 2 show that the values of y are
+ships are derived and their associated uncertainty estimated. For relatively clustered (0.582 < y < 1.25) for the empirically deter-
+the reader’s convenience, the data (wave parameters as calculated mined coefficients. This suggests that a linear relationship between
+using the aforementioned methods) have been listed in Appendix wave height and runup may exist.
+F. The present experimental waves follow the same trend as Syn-
+olakis’ for a range of a/h ratios, but the new elevated waves -
+4.1. Comparison with previous runup relationships which overall wavelength and shape differ from typical (steeper)
+solitary waves generated in previous hydraulic models — have a
+As previous experimental studies of runup largely looked at rel- higher runup (see Rossetto et al., 2011). Because Synolakis (1986)
+atively short solitary waves, the consistency of the present exper- and Synolakis (1987) used a smooth aluminium beach, we would
+iments with known runup results can only be assessed using a expect his waves to run up higher than the present waves, which
+representative subset of the present data (i.e., elevated waves for were climbing a concrete slope with relatively greater roughness.
+which T/T, < 1). A regression analysis was applied to this subset, However, the contrary is observed, which suggests wave amplitude
+and it is found that the general runup equation from Hall and is not the only parameter of importance, and that other measures
+Watts (1953) (2) 1s consistent with long elevated wave runup for such as wave length and/ or energy are paramount in determining
+a slope of 1:20, when « = 2.14 and y = 0.77. Fig. 5 shows a compar- wave runup.

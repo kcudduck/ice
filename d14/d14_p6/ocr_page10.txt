@@ -1,0 +1,59 @@
+10
+electromagnetic pulse assessment of the continental U.S. [49] C. M. Ngwira, A. Pulkkinen, F. D. Wilder, and G. Crow-
+electric grid: Geomagnetically induced current and trans- ley, Extended study of extreme geoelectric field event sce-
+former thermal analysis, https://ed-thelen.org/pics/ narios for geomagnetically induced current applications,
+EPRI-HEMP-2017.pdf (2017), accessed: 2023-12-12. Space Weather 11, 121 (2013).
+
+140] Electric Power Research Institute (EPRI), Palo Alto, 150] J. J. Love, Some experiments in extreme-value statisti-
+CA: 2019. 3002017708., Transformer thermal impact as- cal modeling of magnetic superstorm intensities, Space
+sessments for dc withstand capability: Examining the im- Weather 18, e2019SW002255 (2020).
+pacts of geomagnetically induced current (GIC) on trans- [51] J. J. Simmins, The impact of PAP 8 on the Common In-
+former thermal performance, https://www.epri.com/ formation Model (CIM), in 2011 IEEE/PES Power Sys-
+research/products/000000003002017708 (2019), ac- tems Conference and Exposition (IEEE, 2011) pp. 1-2.
+cessed: 2023-12-12. [52] Weidelt, P. and Beggan, C. and Turnbull, A. and
+
+141] J. G. Kappenman and B. W. Mcconnell, Meta-R-322 Mckay, K. and Bailey, R., Geomagnetically induced cur-
+Low-Frequency Protection Concepts for the Electric rents in Austria (GEOMAGICA), https://github.com/
+Power Grid: Geomagnetically Induced Current (GIC) geomagpy/GEOMAGICA (2018), accessed: 2023-12-11.
+and EE 3 HEMP Mitigation, Metatech Corporation, 358 [53] M. Lehtinen and R. J. Pirjola, Currents produced in
+S. Fairview Ave., Suite E, Goleta, CA 93117 https:// earthed conductor networks by geomagnetically-induced
+api.semanticscholar.org/CorpusID: 62781689 (2010). electric fields, Annales Geophysicae 3, 479 (1985)
+
+[42] U.S. Energy Information Administration, Population by 154] T. Kikuchi, K. K. Hashimoto, and K. Nozaki, Penetration
+country, https://www.eia.gov/international/data/ of magnetospheric electric fields to the equator during
+world/other-statistics/population-by-country a geomagnetic storm, Journal of Geophysical Research:
+(2020), accessed: 2023-12-13. Space Physics 113 (2008).
+
+[43] Center for International Earth Science Information Net- [55] R. Marshall, H. Gorniak, T. Van Der Walt, C. Waters,
+work - CIESIN - Columbia University, Gridded Popula- M. Sciffer, M. Miller, M. Dalzell, T. Daly, G. Pouferis,
+tion of the World, Version 4 (GPWv4): Population Den- G. Hesse, et al., Observations of geomagnetically induced
+sity, Palisades, New York: NASA Socioeconomic Data currents in the Australian power network, Space Weather
+and Applications Center (SEDAC). (2020), https:// 11, 6 (2013).
+doi.org/10.7927/H49C6VHW. Accessed: 2023-12-13. 56] J. Kappenman, Meta-R-319 Geomagnetic storms and
+
+[44] U.S. Energy Information Administration, Electric- their impacts on the US power grid, Metatech
+ity consumption by country, https://www.eia. Corporation, 358 S. Fairview Ave., Suite E, Go-
+gov/international/data/world/electricity/ leta, CA 93117 https://www.ferc.gov/sites/default/
+electricity-consumption (2020), accessed:  2023- files/2020-05/ferc_meta-r-319.pdf (2010).
+
+12-13. 57] E. Krausmann, E. Andersson , W. Murtagh and N.
+
+145] J. J. Love, G. M. Lucas, A. Kelbert, and P. A. Bedrosian, Mitchison, Space Weather and Power Grids: Find-
+Geoelectric hazard maps for the Mid-Atlantic United ings and Qutlook. An event co-organised by the FEuro-
+States: 100 year extreme values and the 1989 magnetic pean Commission's Joint Research Centre, the Swedish
+storm, Geophysical Research Letters 45, 5 (2018). Cwil Contingencies Agency and the NOAA Space
+
+[46] M. N. Berdichevsky and V. I. Dmitriev, Models and meth- Weather Prediction Centre 29-30 October, 2013, Is-
+ods of magnetotellurics (Springer Science & Business Me- pra, Italy , Tech. Rep. LB-NA-26370-EN-N (Luxem-
+dia, 2008). bourg, 2013) https://publications. jrc.ec.europa.
+
+47) A. D. Chave and A. G. Jones, The magnetotelluric eu/repository/handle/JRC86658
+method: Theory and practice (Cambridge University 158] J. S. Foster, E. Gjelde, W. R. Graham, R. J. Hermann,
+Press, 2012). H. M. Kluepfel, R. L. Lawson, G. K. Soper, L.. L. Wood,
+
+148] J. J. Love, G. M. Lucas, P. A. Bedrosian, and A. Kel- and J. B. Woodard, Report of the commission to as-
+bert, Extreme-value geoelectric amplitude and polariza- sess the threat to the United States from electromag-
+tion across the Northeast United States, Space weather netic pulse (EMP) attack, critical national infrastruc-
+17, 379 (2019). tures, Critical National Infrastructures (2008), https://
+
+apps.dtic.mil/sti/pdfs/ADA484672. pdf.

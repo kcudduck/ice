@@ -1,0 +1,46 @@
+51 KARL FC RARRAIAAS RFE LRA 13
+ble steam-air jet condensation in water in a rectangu- 2018, 91. 451-458.
+lar channel| J |. International Journal of Multiphase [19] KERNEY P J, FAETH G M, OLSON D R. Pene-
+Flow, 2019, 119. 14-27. tration characteristics of a submerged steam jet|] |.
+[10] LISQ, LUT, WANG L, et al. Experiment study AIChE Journal, 1972, 18(3). 548-553.
+on steam-water direct contact condensation in water 120] XU Q, GUO L J, CHANG L. Mechanisms of pres-
+flow in a Tee junction| J |. Applied Thermal Engineer- sure oscillation in steam jet condensation in water
+ing, 2017, 120. 99-106. flow in a vertical pipe| J]. International Journal of
+[11] CHONG D T, ZHAO Q B, YUAN F, er al. Re- Heat and Mass Transfer, 2017, 110. 643-656.
+search on the steam jet length with different nozzle 121] XU Q, GUO L J, ZOU S F, et al. Experimental
+structures| J |]. Experimental Thermal and Fluid Sci- study on direct contact condensation of stable steam
+ence, 2015, 64. 134-141. jet in water flow in a vertical pipe| J |. International
+[12] WU XZ, YAN JJ, SHAO SF, etal. Experimental Journal of Heat and Mass Transfer, 2013, 66. 808-
+study on the condensation of supersonic steam jet 817.
+submerged in quiescent subcooled water: Steam 122] ZHAO Q B, CHEN W X, YUAN F, etal. Pressure
+plume shape and heat transfer| J |. International Jour- oscillation and steam cavity during the condensation
+nal of Multiphase Flow, 2007, 33(12): 1296-1307. of a submerged steam jet] J |. Annals of Nuclear Ener-
+113] KIM Y S, YOUN Y J. Experimental study of turbu- gy, 2015, 85; 512-522.
+lent jet induced by steam jet condensation through a 123] CHONG DT, ZHAO Q B, YUAN F, etal. Experi-
+hole in a water tank| J |. International Communica- mental and theoretical study on the second dominant
+tions in Heat and Mass Transfer, 2008, 35(1). 21- frequency in submerged steam jet condensation] J |.
+29. Experimental Thermal and Fluid Science, 2015, 68;
+14] PARK C K, SONG C H., JUN H G. Experimental 744-758.
+investigation of the steam condensation phenomena 124] QIU BB, YAN] J, LIU J P, etal. Experimental in-
+due to a multi-hole sparger| ] |. Journal of Nuclear vestigation on the second dominant frequency of pres-
+Science and Technology, 2007, 44(4). 548-557. sure oscillation for sonic steam jet in subcooled water
+[15] AYA I, NARIAI H. Boundaries between regimes of J]. Experimental Thermal and Fluid Science, 2014,
+pressure oscillation induced by steam condensation in 58: 131-138.
+pressure suppression containment| J |. Nuclear Engi- 125] CHUN M H, KIM Y S, PARK J] W. An investiga-
+neering and Design, 1987, 99. 31-40. tion of direct condensation of steam jet in subcooled
+[16] CHO S, SONG C H, PARK C K, etal. Experimen- water| J |. International Communications in Heat and
+tal study on dynamic pressure pulse in direct contact Mass Transfer, 1996, 23(7): 947-958.
+condensation of steam discharging into subcooled wa- 126] HONG SJ, PARK G C, CHO S, et al. Condensa-
+ter | EB/OL |]. (1998-01-20) [ 2020-08-01 |. https: // tion dynamics of submerged steam jet in subcooled
+www. researchgate. net/publication/285905201 Ex- water| J |. International Journal of Multiphase Flow,
+perimental study on dynamic pressure pulse in di- 2012, 39: 66-77.
+rect contact condensation of steam discharging into 27] sRAbgR, SLI, EEE. KT AES EE gE mh IR AA RE
+_subcooled water. REET Fed ) ]. Rah E ad, 2014, 33(13). 148-
+117] GREGU G, TAKAHASHI M, PELLEGRINI M, et 153.
+al. Experimental study on steam chugging phenome- ZHANG Sherong, KONG Yuan, WANG Gaohui.
+non in a vertical sparger| J |. International Journal of Comparative analysis on propagation characteristics of
+Multiphase Flow, 2017, 88. 87-98. shock wave induced by underwater and air explosions
+[18] WANG L T, YUE XY, CHONG DT, et al. Ex- | J]. Journal of Vibration and Shock, 2014, 33(13).
+perimental investigation on the phenomenon of steam 148-153.
+condensation induced water hammer in a horizontal (NL 3. 4 2 XL)
+pipe| J |. Experimental Thermal and Fluid Science,

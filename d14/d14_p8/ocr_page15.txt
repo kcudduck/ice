@@ -1,0 +1,52 @@
+Remote Sens. 2024, 16, 3497 15 of 22
+WTC 22°S-22°N: Dst-29 Hz WTC 22°S-22°N: Dst-39 Hz WTC 22°S-22°N: Dst-4.9 Hz
+4 5 : - + 0: 4 le A E
+2 81 \ wr = 0.5 2 8 i om 0.5 2 - = 0.5
+PY EE aT , 32 Eomaocooo ee , NE, ae .
+2 3 4 5 6 7 2 3 4 5 6 71 2 3 4 5 6 71
+WTC 22°S- 22°N: 3 6.8Hz EE 22°S- 22°N: 0 78Hz — 22°S- 22°N: Dat -88Hz
+VEE eg CEE
+2 gh = Sg y = S gb | :
+= < Es os © SN Sal [XEN =) | | fos
+RELIES 6: <> oI N _— Fit Do ay Sa
+ai w SE CEE NG
+Ne. a ; Emer 32 Ee .
+2 3 4 5 6 71 2 3 4 5 6 71 2 3 4 5 6 71
+WTC 22°S- 22°N: HT Hz WTC 22°S- 22°N: Pst: 13.2 Hz WTC 22°S- 22°N: Pst 156 Hz
+rod YU EES eo BO |
+AR é Bed nn a Bo 4 Ea SLU
+Ss :B a = ° - i T 5 NE —
+s °C. e=" | >s 5 °% cS | os 5° E=7"| | 0s
+32 ee : 32 NEE : 32 a .
+2 3 4 5 6 71 2 3 4 5 6 71 2 3 4 5 6 71
+November 2021 November 2021 November 2021
+Figure 14. Wavelet coherence in the latitude range of 22°5-22°N.
+4. Discussion
+This paper analyzes the response of the ionospheric electric field to the November 4,
+2021 magnetic storm using EFD data from the four frequency bands of the CSES-1 satellite
+electric field. The analysis is conducted through power spectrogram analysis, D value
+analysis, growth rate analysis, and wavelet coherence.
+4.1. Comparison of Dayside and Nightside Data
+The CSES-1 satellite observation data encompass both dayside and nightside measure-
+ments. To compare the differences between dayside and nightside data, the ULF frequency
+band was selected for PSD and D value analysis. Figure 15 presents a comparison of the
+PSD at a single frequency point between the dayside and nightside. The red anomalies
+at 3.9 Hz, 9.3 Hz, and 14.2 Hz are observed to be more widely distributed and denser
+on the nightside compared to the dayside. Whether at high latitudes in the northern or
+southern hemisphere or at the equator, the distinction between periods of magnetic storms
+and periods of calm is not apparent in the dayside data. The nightside data also reveal
+red anomalies at the equator and at low and mid latitudes, whereas during calm periods,
+no such anomalies are observed on the nightside. At 14.2 Hz, there is still a red anomaly
+area difference between the nightside data during the magnetic storm and those during
+calm periods, but the PSD of the dayside data during the magnetic storm period is not
+significantly different from that of the calm period. It is possible that there are also covered
+perturbations in the dayside data, but the size of the perturbations is negligible for the
+nightside data.
+To quantitatively assess the ability of dayside data to monitor magnetic storms, D value
+analysis was conducted on the ULF band data from the dayside. As shown in Figure 16,
+during the main phase of the magnetic storm, no significant difference between the D value
+during the magnetic storm and that of the quiet period is evident across 65°5-65°N or at
+high latitudes in both hemispheres, where the impact of the magnetic storm is typically
+strongest. In the D value analysis of the nightside data, the difference between the D value
+at the maximum perturbation orbit and that of the quiet period reaches 2. Conversely, in
+the D value analysis of the dayside data, the difference between the D value and that of the

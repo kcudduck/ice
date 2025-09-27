@@ -1,0 +1,82 @@
+A721 | S
+NI Space Weather 10.1029/2024SW004126 e
+AND SPACE SCIENCES g
+
+50 =
+
+—~ 0 :
+
+— | ll » Lima nar ell | | | | I | =)
+
+c | MN il i | I CLLR nT ; | arty =
+COC im Ili ]
+
+- ul TE Lgl I
+
+Mm 50 | :
+
+-100 =
+
+200 <
+
+———— GOES :
+
+——— DSCOVR S
+
+—~ 1 5
+
+- 00 S
+
+JU Zz
+
+7) 0 vm. ad il us oy A Il J, I La dig yl, Wl 3
+
+N| | AT [ A -
+
+z
+
+-100 :
+
+’ rey | lll \ | :
+
+—-100§ | 2
+
+@
+<—>> ?
+
+-200 unshocked IMF
+
+5
+
+20:25 20:30 20:35 20:40 :
+
+UT on 10 May 2024 z
+
+Figure 5. Variations of Bx, By and Bz measured from GOES-18 at 6.6 RE (black) and the DSCOVR at L1-point (red). The ]
+period when Earth's magnetospheric bow shock 1s compressed below the geostationary orbit and allowing the GOES-18 to g
+measure the unshocked IMF 1s indicated in the figure. :
+period. Similar compressions of magnetopause and bow-shock inside the geostationary orbit were earlier reported
+for the 31 March 2001 storm (Ober et al., 2002). L
+When the particles in the magnetosphere flow toward the Earth, they encounter an increasingly strong magnetic =
+field. The positive gradient of the geomagnetic field 1s further amplified due to the compression of the magne- z
+tosphere. Consequently, the particles undergo a rapid transverse motion due to a stronger gradient drift force, and =
+the resulting ring current flows at much closer distances to the Earth (Daglis et al., 1999 and references therein]. E
+The more the magnetosphere 1s compressed, the more intense the ring current becomes and the closer it flows to d
+the Earth. However, the location of the magnetopause 1s influenced by two factors: (a) the geomagnetic pressure E
+balance with the SWDP (Holzer & Slavin, 1978) and (b) erosion of the magnetosphere via magnetic reconnection -
+with IMF, which maximizes during the intense southward-oriented IMF Bz (Maezawa, 1974). Southward IMF Bz 4
+also facilitates enhanced injection of solar wind particles into the magnetosphere, then to the ring current region 8
+(Dungey, 1961). A potent combination of strong SWDP and intense southward IMF Bz can push the magne- 4
+topause to much lower distances, guiding the intense ring current to flow much closer to the Earth. This was what 3]
+occurred during this storm, where the SWDP was maintained above 15 nPa throughout the main phase (except for 5
+a few brief intervals), and the IMF Bz turned strongly southward for several sustained intervals. :
+The ICME structures that trigger geomagnetic storms typically comprise a forward shock and a high-density d
+sheath, followed by a low-density and high-magnetic field cloud region (Burlaga et al., 1998; Gopalsw-  %
+amy, 2006). The sheath region exerts strong SWDP on the magnetosphere; however, the highly fluctuating IMF :
+(Temmer & Bothmer, 2022) may not facilitate a stable dayside reconnection. The major part of the geomagnetic -
+4
+
+- =
+c
+
+TULASI RAM ET AL. 7 of 14 :

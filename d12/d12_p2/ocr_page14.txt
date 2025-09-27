@@ -1,0 +1,7 @@
+2.4 Finite rectangular source 14
+gail
+05 NL
+EE [ti
+= AT
+Figure 5: Dimensionless free-surface deformation z/a after tensile fault. Here
+D = (0, 0, Us) and a = Us.

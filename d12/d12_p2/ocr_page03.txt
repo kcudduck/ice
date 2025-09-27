@@ -1,0 +1,43 @@
+2 Tsunami induced by near-shore earthquake 3
+constructed to satisty modern safety standards offered a satisfactory resis-
+tance, in particular those with reinforced concrete beams properly integrated
+in the frame structure. These were able to withstand pressure associated with
+the leading front of the order of 1 atmosphere (recall that an equivalent pres-
+sure p is obtained with a windspeed U of about 450 m/s, since p = p,;U?/2).
+By contrast brick buildings collapsed and were washed away. Highly porous
+or open structures survived. Buildings further away from the beach survived
+the front in some cases, but they were then destroyed by the erosion of the
+ground around the buildings by the water currents Hunt and Burgers [2005].
+
+Section 2 provides a description of the tsunami source when the source
+is an earthquake. In Section 3, we review the equations that are often used
+for tsunami propagation. Section 4 provides a short discussion on the energy
+of tsunamis. Section 5 is devoted to the run-up and inundation of tsunamis.
+Finally directions for future research are outlined.
+
+2 Tsunami induced by near-shore earthquake
+
+The inversion of seismic data allows one to reconstruct the permanent
+deformations of the sea bottom following earthquakes. In spite of the com-
+plexity of the seismic source and of the internal structure of the Earth, sci-
+entists have been relatively successful in using simple models for the source
+Okada [1985]. A description of Okada’s model follows.
+
+2.1 Introduction
+
+The fracture zones, along which the foci of earthquakes are to be found,
+have been described in various papers. For example, it has been suggested
+that Volterra’s theory of dislocations might be the proper tool for a quan-
+titative description of these fracture zones Steketee [1958|. This suggestion
+was made for the following reason. If the mechanism involved in earthquakes
+and the fracture zones is indeed one of fracture, discontinuities in the dis-
+placement components across the fractured surface will exist. As dislocation
+theory may be described as that part of the theory of elasticity dealing with
+surfaces across which the displacement field is discontinuous, the suggestion
+seems reasonable.
+
+As commonly done in mathematical physics, it is necessary for simplicity’s
+sake to make some assumptions. Here we neglect the curvature of the earth,
+its gravity, temperature, magnetism, non-homogeneity, and consider a semi-
+infinite medium, which is homogeneous and isotropic. We further assume
+that the laws of classical linear elasticity theory hold.

@@ -1,0 +1,33 @@
+YERMOLAEV ET AL... GEOEFFECTIVENESS AND EFFICIENCY X -11
+procedure for them as for Dst and Dst* indices and calculated estimations of efficiency
+for different drivers. Efficiency for Kp and AF indices is higher for CIR and Sheath than
+for MC and Ejecta.
+
+4. Discussion and conclusions
+
+The quantity of Sun's energy flowing in a magnetosphere and causing magnetospheric
+disturbances, is defined by following processes and relations:
+
+1. relative occurrence rate of disturbed types of solar wind streams (interplanetary
+drivers of magnetic storms),
+
+2. typical values of plasma and field parameters in these types of streams,
+
+3. probability in magnetic storm generation (geoeffectiveness) for these drivers (i.e.
+probability of occurrence of southward IMF Bz component in these drivers), and
+
+4. efficiency of physical process of magnetic storm generation for various drives.
+
+On the basis of OMNI data during 1976-2000 we estimated and compared these pro-
+cesses and relations.
+
+The results of our identification of solar wind streams were partially compared with
+tabulated data of various events presented on the websites http://star.mpae.gwdg.de/,
+http: //lempfi.gsfc.nasa.gov/, and with the ISTP Solar Wind Catalog on the website
+http: //www-spof.gsfc.nasa.gov/scripts/sw-cat /Catalog- events.html. and presented in pa-
+pers by Cane and Richardson [2003]; Alves et al. [2006]; Koskinen and Huttunen [2006];
+Echer et al. [2006]; Zhang et al. [2007]. This comparison showed a good agreement in more
+than 90% of events. It is important to note that, unlike numerous papers where solar wind
+identifications were made for selection of only one or two stream types we realized this
+approach with a single set of criteria to eight large-scale stream types. The obtained sta-
+DRAFT October 23, 2018, 3:27am DRAFT

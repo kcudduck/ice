@@ -1,0 +1,35 @@
+0.3
+;
+0.2
+3
+— 0.1 |
+5 |
+0 a Lr
+ks Pp i
+VL,”
+|
+-0.1
+0 1 2 3
+t, min
+Figure 3: Run-up height of the long single wave with A = (0.1 m and T = 20 s on a beach slope with tan a = 1:6, the
+numerical solution is shown by the red dotted line, analytical solution is shown by the blue dashed line and the
+experimental record is shown by the black solid line.
+4. Results of numerical and analytical calculations
+It 1s reported in (Didenkulova et al 2007; Didenkulova 2009) for a periodic sine wave, that the extreme run-up height
+increases proportionally to the square root of the wave front steepness. In this section, we study the nonlinear deformation
+and steepening of waves described by Eq. (9) and its effect on the extreme wave run-up height. The corresponding
+bathymetry used in analytical and numerical calculations 1s normalized on the water depth in the section of constant depth hy,
+and 1s shown in Fig. 1. The input wave parameters such as wave amplitude, A/ho, and effective wave length, A/Xo, where
+A =T,/gh, , are changed. The beach slope is taken tan a = 1:20 for all simulations.
+We underline that in order to have analytical solution, the criterion of no wave breaking should be satisfied. Therefore, all
+analytical and numerical calculations below are chosen for non-breaking waves.
+Fig. 4 shows the dimensionless maximum run-up height, Rn.«/A as a function of the initial wave amplitude, A/hg. The
+incident wave propagates over different distances to the bottom slope, Xo/A=1.7, 3.4, 5.1, 6.8; kho= 0.38. Analytical
+solution described in Section 2 1s shown with lines, and numerical solution described in Section 3 1s shown with symbols
+(diamonds, triangles, squares and circles). It can be seen that in most cases and especially for small values of Xo/A =1.7 and
+3.4, numerical simulations give larger run-up heights than analytical predictions. These differences can be explained by the
+effects of wave interaction with the toe of the underwater beach slope, which are not taken into account in the analytical
+solution. For larger distances Xo/A = 6.8, both analytical and numerical solutions give similar results, supported by the
+numerical scheme dissipation described in Section 3, which can be considered a “numerical error”. It should be mentioned
+that we use zero physical dissipation rate for these simulations, however, small dissipation for stability of the numerical
+7

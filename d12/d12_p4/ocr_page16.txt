@@ -1,0 +1,128 @@
+AP] ) S
+MI Journal of Geophysical Research: Oceans 10.1029/2020JC017011 2
+AND SPACE SCIENCE E
+
+:
+
+(mH, o'@ 4.0s (mH, o® 30.0s (mH, o'© 60.0s z
+
+4 Surface Pressure 4 4 4
+
+2 2 2 =
+
+0 0 0 A
+
+i) 2 — E
+
+-4 -4 -4 g
+
+[(m] [(m) [m] g
+
+2 2 2 2
+
+0 0 0 5
+
+2 -2 -2 :
+
+-4 -4 -4 =
+
+[km km [km 3
+
+0 ; 0 0 N)
+
+Velocity 5
+
+a
+
+1 1 1 2
+
+2 2 2 <
+
+9% :
+
+3 0.1 3 3 S
+
+an
+
+: ne ’ : . :
+
+Bottom Pressure 53
+
+2 2 2 pe
+
+0 0 0 =
+
+-2 -2 -2 C
+
+il 4 al E
+
+100 0 100 100 0 100 100 0 100 E}
+
+Distance [km] Distance [km] Distance [km] S
+
+mH, od 120.0s mH, 0® 250.0s (mH,0) (f) 500.0s S
+
+4 4 4 &
+
+2 2 2 g
+
+0 0 0 ®
+
+-2 = 9 :
+
+-4 —4 -4 3
+
+[m] [m] [m] .
+
+4 4 4 2
+
+0 0 0 2
+
+-2 -2 -2 Hd
+
+4 4 4 =)
+
+[km [km [km a
+
+0 0 0 :
+
+1 1 1 g
+
+|
+
+2 2 2 g
+
+3
+
+3 3 3 :
+
+4 4 4 =
+
+[mH,0] [mH,Q] [mH,O] :
+
+2 2 2 =
+
+0 0 0 o
+
+-2 -2 -2 =
+
+4 4 4 =
+
+100 0 100 100 0 100 100 0 100 2
+
+Distance [km] Distance [km] Distance [km] .
+
+Figure 5. Tsunami generation due to a moving surface pressure change for various elapsed times: (a) r = 4, (b) 30, =
+(c) 60, (d) 120, (e) 250, and (f) 500 s. Top panel shows the pressure change at the surface. The source is given by °
+Equation 57 where the peak pressure change is Py = —1 mH,0 (~ -9.8 kPa), the duration is T = 30 s, the spatial scale is 2
+given by a = 10 km, and the velocity is given by V;; = 0.2 km/s (= /g,#, and hy, = 4 km). Second panel shows tsunami 3
+height or vertical upward displacement at the sea surface. Third panel shows velocity distribution , [v2 + V2 in the sea 5
+layer with the depth hy = 4 km. Bottom panel shows the pressure change at the sea bottom. 2
+2
+
+.
+
+_
+=
+
+SAITO ET AL. 16 of 29 §

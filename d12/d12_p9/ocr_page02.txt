@@ -1,0 +1,65 @@
+Tsunami generation 1889
+(a) (b)
+Initial tsunami-height distribution
+(ii) Propagation
+ANT
+(i) Generation 4
+Figure 1. Schematic illustrations of (a) tsunami generation and (b) propagation.
+5
+assumptions. The validity of the conventional two-step method (us- 2 TSUNAMI GENERATION s
+ing Okada’s code and Kajiura’s equation) seems not to have been REPRODUCED BY ELASTIC DYNAMICS 3
+shown yet. Hence, 1t 1s important to examine whether the two-step DQ
+method works appropriately even for a compressible sea and elastic 2.1 Tsunami generation and propagation 3
+t. 3
+Crs CL. When an earthquake occurs under the sea, the sea-bottom defor- —
+In order to detect and observe tsunami inside the focal area of an =
+mation caused by the earthquake uplifts the sea surface (Fig. la). ©
+offshore region, an ocean-bottom pressure gauge 1s one of the most 2
+CL The raised sea surface then collapses due to gravity; the collapsed =
+reliable sensors (e.g. Bernard & Meinig 2011; Mungov ef al. 2013; o
+Co sea water volume displaces a massive amount of sea water, and the Q)
+Rabinovich & Eble 2015). We expect that the tsunami generation a Q
+displacement propagates as a tsunami (Fig. 1b). This process can @
+process will be observed as an ocean-bottom pressure change inside =}
+be theoretically investigated based on the water wave theory (e.g. O
+the focal area using dense and wide tsunami observation networks . oO
+Lo. Takahashi 1942; Kajiura 1963; Kervella ef al. 2007). In Cartesian =
+(e.g. Tsushima et al. 2012; Maeda et al. 2015). Hence, 1t will be I=
+coordinates, where the (x, y) axes are in the horizontal plane, and Q
+important to understand the mechanisms of ocean bottom pressure .. O
+the z-axis 1s vertical upward from the sea surface at z = 0 and =
+change caused by sea-bottom motion. Two theoretical relations have %o)
+down toward the sea depth at z = —h, the velocity potential =:
+been employed in previous studies. When the sea-bottom motion 0
+Co d(x, y, z,t) caused by a vertical displacement on the sea bottom =
+1s high frequency (f > c¢y/(4h,)), the relation between sea-bottom d(x. y) occurring at the time ¢ = 0 is given b o
+pressure p. and sea-bottom motion 1s thought to be given by p, = 4 8 B 8 4 >
+PoCoV, Where p 1s sea water density, c, 1s the phase velocity of the B | Ea a o
+ocean acoustic wave and v is the velocity at the sea-bottom motion ¢ (x.y,z,0) = — ery Joo) dkcdky exp [i (kex +k, )] a
+(Bolshakova ef al. 2011; Matsumoto ef al. 2012; Saito & Tsushima &
+2016). This relation can be theoretically derived in an infinite water d (kx, ky) QD
+medium without the sea bottom. On the other hand, when the sea- x k Q
+bottom motion was sufficiently low in frequency (f << ¢y/(4hy)), R
+the relation p, = pphga was often used, where 4 1s the sea depth — 80 [cosh (kz) + tanh (kh) sinh (kz)] sin (wot) H (£) g
+and a 1s the acceleration of the sea-bottom motion (e.g. Filloux wo Q
+1982; Yamamoto 1982; Bolshakova ef al. 2011; Matsumoto et al. ) D
+2012). Although these two relations have often been used to analyse + — sinh (kh) 6 of (1) o
+observed records, their validity inside focal area has not yet been k N
+confirmed. Co where d (ky, ky) 1s the 2-D Fourier transform of d(x, y), go 1s @B
+The purpose of this study 1s to investigate the validity and lim- b IT erat vo — 2g? is the hori | ©
+tations of the conventional theories used in tsunami studies. Us- the gravitational acceleration, Vox + Kk 1s the horizonta 3
+ing the equation of motion in a compressible sea with an elastic wavenumber and wy = /gok tanh(kh,) 1s the angular frequency. ®
+crust, we investigate the following method and theoretical relations: The function H(¢) 1s H (¢) = Owhent¢ <0 and H (¢) = 1 when nN
+(1) the two-step method for setting initial tsunami-height distribu- t > 0 (Saito 2013). on
+tion assuming incompressible sea water (the method using Okada’s The first term on the right-hand side represents the tsunami prop-
+code and Kajiura’s equation), (11) the relation p, = pycyv for high- agation. This describes the wave propagation in (x, y) space with
+frequency sea-bottom motion and (111) the relation p, = pohya for the dispersion relation wy = /gok tanh(kh,). Note that this propa-
+low-frequency sea-bottom motion. We confirm that the method (1) gation 1s caused by gravity. Hence, the first term includes the gravity
+works nicely for setting initial tsunami-height distribution. The rela- acceleration gy. The second term, given by the delta function, rep-
+tion (11) does not hold, in general because of the sea-bottom bound- resents the source term. Unlike the first term, the source term does
+ary condition. The relation (111) works nicely when the sea-bottom not include the gravity acceleration g,. These show that tsunami
+deformation 1s smooth, but fails when it deforms steeply. We also propagation 1s governed by gravity as a restoring force, whereas the
+show that the analytical solution of Saito (2013) could reproduce generation process 1s independent of gravity.
+the relation between the pressure and the motion at sea bottom more This 1dea has been widely and implicitly assumed in most stud-
+precisely than the simple relation p, = pghya for steep sea-bottom ies, in which the initial height distribution is calculated without
+deformation. considering gravity, and then tsunami propagation is calculated as

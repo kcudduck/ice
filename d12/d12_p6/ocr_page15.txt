@@ -1,0 +1,34 @@
+Acknowledgements
+The authors are very grateful to Professor Efim Pelinovsky, who gave an idea to this study a few years ago. Analytical
+calculations were performed with the support of RSF grant 16-17-0004 1. Numerical simulations and its comparison with the
+analytical findings were supported by the ETAG grant PUTI1378. Authors also thank the PHC PARROT project
+No 37456 YM, which funded the authors’ visits to France and Estonia and allowed this collaboration.
+Data availability
+The data used for all figures of this paper are available at doi: 10.13140/rg.2.2.27658.41922. The source code (in Matlab)
+used to generate this data may be shared upon request.
+References
+Brocchini, M., and Gentile, R.: Modelling the run-up of significant wave groups, Continental Shelf Research, 21(15), 1533-1550,
+https://doi.org/10.1016/S0278-4343(01)00015-2, 2001.
+Carrier, G. F., and Greenspan, H. P.: Water waves of finite amplitude on a sloping beach, Journal of Fluid Mechanics, 4(1), 97-109,
+https://do1.org/10.1017/50022112058000331, 1958.
+Carrier, G.F., Wu, T.T., and Yeh, H.: Tsunami run-up and draw-down on a plane beach, Journal of Fluid Mechanics, 475, 79-99,
+https://do1.org/10.1017/S0022112002002653, 2003.
+Didenkulova, I.: New trends in the analytical theory of long sea wave runup, in: Applied Wave Mathematics, edited by: Quak E., Soomere
+T., Springer, Berlin, Heidelberg, Germany, 265-296, https://doi.org/10.1007/978-3-642-00585-5_14, 20009.
+Didenkulova, I., Denissenko, P., Rodin, A., and Pelinovsky, E.: Effect of asymmetry of incident wave on the maximum runup height,
+Journal of Coastal Research, 65(1), 207-212, https://do1.org/10.2112/S165-036.1, 2013.
+Didenkulova, I., Pelinovsky, E.N., and Didenkulova, O.1.: Run-up of long solitary waves of different polarities on a plane beach. Izvestiya,
+Atmospheric and Oceanic Physics, 50(5), 532-538, https://do1.org/10.1134/S000143381405003X, 2014.
+Didenkulova, I., Pelinovsky, E. and Soomere, T.: Runup characteristics of symmetrical solitary tsunami waves of “unknown” shapes, Pure
+and Applied Geophysics, 165 (11/12), 2249-2264, https://doi.org/10.1007/978-3-0346-0057-6_13, 2008.
+Didenkulova, I., Pelinovsky, E., Soomere, T., and Zahibo, N.: Run-up of nonlinear asymmetric waves on a plane beach, in: Tsunami and
+nonlinear waves, edited by: Kundu A., Springer, Berlin, Heidelberg, Germany, 175-190, https://doi1.org/10.1007/978-3-540-71256-5_8,
+2007.
+Dutykh, D., Poncet, R. and Dias, F.: The VOLNA code for the numerical modeling of tsunami waves: Generation, propagation and
+inundation, European Journal of Mechanics-B/Fluids, 30(6), 598-615, https://doi.org/10.1016/j.euromechtlu.2011.05.003, 201 1a.
+Dutykh, D., Katsaounis, T., and Mitsotakis, D.: Finite volume schemes for dispersive wave propagation and runup, Journal of
+Computational Physics, 230(8), 3035-3061, https://doi.org/10.1016/;.jcp.2011.01.003, 2011b.
+Fuhrman, D.R., and Madsen, P.A.: Simulation of nonlinear wave run-up with a high-order Boussinesq model, Coastal Engineering, 55(2),
+139-154, https://do1.org/10.1016/j.coastaleng.2007.09.006, 2008.
+
+15

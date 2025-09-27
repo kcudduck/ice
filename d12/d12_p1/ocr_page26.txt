@@ -1,0 +1,14 @@
+Deposition
+Offshore Erosion zone P
+Zone ( Ry)
+Sloping beach
+Co ——
+§ Sea Level
+AIL —_— R,
+Go —
+d 0 Ry
+Tsunami
+Deposit
+Figure 1: Conceptual model of TSUFLIND with definition of the terminology
+used later in the paper. For more symbols used in this paper see Appendix I.
+20

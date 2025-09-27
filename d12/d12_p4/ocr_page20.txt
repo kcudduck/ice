@@ -1,0 +1,94 @@
+A 7D ) S
+MI Journal of Geophysical Research: Oceans 10.1029/2020JC017011 2
+AND SPACE SCIENCE E
+
+Dispersion =
+
+(a) :
+
+:
+
+— a = 10km, Vo 0.9(gyhg) "2 400s /\ 600s z
+E 4 S
+RY EE Et IA WY A A
+c 2 :
+Oo) 2
+T © ~~ - :
+EER YEW
+O _o . &
+- I EE
+= S
+ZEN I I A
+6 =
+
+50 0 50 100 150 =
+Distance [km] =
+
+(b) No Dispersion :
+
+: :
+
+— a = 10km, Vo 0.9(gghy) 2 400s 600s E
+= 0 A
+£ / \ / :
+4 TE N70 N70 WZ WE |
+O g
+1 0 — Ve 5
+oO i, 3
+SY IE EE EA Nh VA :
+> :
+ZEN I ER :
+—6 4
+
+50 0 50 100 150 2
+Distance [km] 2
+
+:
+
+Figure 8. Tsunami height distributions for various elapsed times (¢ = 200, 400, 600 s). (a) The source is given by Equation 57 where the peak pressure change E
+is Py = —1 mH,0 (~ —9.8 kPa), the duration is T = 30 s, the spatial scale is given by a = 10 km, and the velocity is given by V;, = 0.18 km/s (= 0.9,/g,4, and :
+ho = 4 km). (b) Instead of the dispersion relation @, = ,/g,k tanh (kz ) (Equation 27), we set @, = k4/gyh, in this simulation to remove wave dispersion. Other [
+parameters are the same as those in Figure 8a. =
+negative sea-surface pressure change made the sea-surface height uplifted inside the source region and g
+
+negative leading waves radiated from the source. We also simulated a case when the tsunamis are generated :
+
+by a moving pressure change. When the pressure change migrates near the tsunami-propagation veloci- 7
+
+ty, the tsunami height increases with increasing travel distance. This was originally predicted by Proud- 5
+
+man (1929) in the 2-D long-wave theory. The solutions in this study are in a 3-D space that can include =
+
+the depth-dependent particle velocities and pressure distributions in the sea. The derived solutions of the :
+
+pressure changes suggest that both the tsunami height and the sea-surface pressure changes contribute to =
+
+the ocean-bottom pressure change. This means that we can detect tsunamis by using ocean-bottom pressure 5
+
+gauges but need to know the sea-surface pressure change to correctly measure tsunami height by using the d
+
+pressure gauges. Moreover, when the pressure change source was characterized by short-wavelength com- E
+
+ponents, tsunamis showed dispersion. The dispersion sometimes possibly increases tsunami height more :
+extensively than the predictions assuming nondispersive tsunamis. The solutions derived in this study are :
+
+useful for recent offshore tsunami observations where the pressure gauges possibly detect the tsunami gen- e
+
+eration process with meteorological origins. :
+Appendix A: Integration Using Residue Theorem :
+
+The vertical displacement u_ (x. y, Z, / (Equation 24) includes an integration with respect to w: Z
+
+17 Le 11 :
+
+= [doe — 1 1 |
+
+1 ) 27T —o W* — wo; 1a, (AL) 5
+
+A
+
+s
+
+2
+
+SAITO ET AL. 20029  §

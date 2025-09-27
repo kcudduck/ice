@@ -1,0 +1,28 @@
+Figure 2 shows the terrestrial disturbance during the first hours of the storm event on 29
+October 2003 (see Table 1 for geographical and magnetic coordinates of the
+observatories). Measurements of the horizontal magnetic field component recorded at
+mid-latitude (~40° MLat) observatories spread in longitude appear in Figure 2a. Panels
+from top to bottom are: SUA, IRT, FRN, BSL, and SPT (increasing in MLong). Figure
+2b shows, for the same interval as Figure 2a, the SYM-H and Dst indices (top panel),
+and the horizontal magnetic field component recorded at the four low-latitude
+observatories involved 1n the computation of the Dst index: HER, KAK, HON, and
+SIG.
+
+Regarding the SYM-H index, the first magnetic signature of the storm 1s a sudden
+commencement of approximately 80 nT (solid vertical line at 06:12 UT), which can be
+also observed in the Dst index. After the SC, SYM-H index decreases to a minimum
+value of -432 nT at 23:03 UT on 30 October (not shown in the figure) in a three-step
+profile. The SC signature 1s commonly related to an enhancement of the magnetopause
+current, which 1s expected to be observed across the globe. Therefore, we proceed to
+carefully analyse magnetic records at different locations.
+
+First we compare the measurements of the horizontal component from a chain of mid-
+latitude magnetic observatories spread in longitude in order to provide a sample all
+around the globe. The magnetic trace at IRT, located in the mid-latitude afternoon
+sector, shows an increase of just less than 70 nT at SC onset. However, larger
+enhancements of ~120 nT appear at FRN and BSL at the SC. FRN and BSL, in the pre-
+and mid-night sector located, show a positive change which reaches ~300 nT and ~350
+nT respectively, about one hour after SC. SPT and SUA, located in the dawn and pre-
+noon sector, show different behaviour: instead of a positive disturbance, a rapid
+
+4

@@ -1,0 +1,75 @@
+Remote Sens. 2024, 16, 3497 19 of 22
+
+4.4. Hemispheric Asymmetry
+There is a clear hemispheric asymmetry observed in this magnetic storm. In this study,
+
+the maximum disturbance in the northern hemisphere corresponds to the first minimum
+
+of Dst, while the maximum disturbance in the southern hemisphere corresponds to the
+second minimum of Dst. The response of the high-latitude ionosphere in the northern
+hemisphere occurs approximately 4 h earlier than that in the southern hemisphere. Dif-
+ferent extreme values of Dst result in varying levels of perturbation due to hemispheric
+energy imbalances caused by solar wind energy deposition. De Abreu [36] found, using
+
+TEC data, that during the recovery phase, the mid-latitude region in North America ex-
+
+perienced a strong and persistent negative storm phase, whereas the mid-latitude region
+
+in South America exhibited calm daytime behavior. They proposed that the hemispheric
+asymmetric response in the F-region of the ionosphere might reflect different mechanisms
+for equatorial spread-F (ESF) generation across latitudinal regions during perturbations.
+
+Terete and Nigussie [37] investigated the drivers of the ionospheric response to the storm of
+
+17-18 March 2015 and found that the response of the high-latitude ionosphere in the
+
+Northern Hemisphere occurred about 12 h earlier than in the Southern Hemisphere. They
+
+suggested that spatial and temporal variations in solar wind energy deposition were re-
+
+sponsible for the hemispheric asymmetry in ionospheric response. In addition, IMF By has
+an impact on hemispheric asymmetry. The impacts of the interplanetary magnetic field
+
+(IMF) east-west component (By) on the interhemispheric asymmetry of } O/N2 depletion
+
+was investigated. Comparisons of simulation results with and without real By show that
+
+the dominant positive IMF By results in the Joule heating maximum occurred in the local
+afternoon of northern hemisphere and local morning in the southern hemisphere during
+
+the initial phase of the storm, which generated the corresponding } O/N2 changes [38].
+Zhima [25] proposed that ELF and VLF waves with frequencies below 6 kHz are
+
+primarily observed during the early main phase and recovery phases of magnetic storms,
+
+while wide-bandwidth waves from fcp to 20 kHz are significantly excited during the
+main and early recovery phases. In this paper, analysis shows that waves below 6 kHz
+are consistently present in the southern hemisphere, whereas the northern hemisphere
+is not affected. During the main phase of magnetic storms, the excited wave frequencies
+are predominantly below 18 kHz. Frequencies above 18 kHz, including those in the HF
+band, experience minimal interference from magnetic storms. Therefore, the HF band
+is particularly suitable for use in the design of future spacecraft and communication
+
+equipment [39].
+
+In summary, for the design of future spacecraft and communication equipment, it
+is advisable to prioritize frequency bands above 18 kHz to mitigate interference from
+magnetic storms. In the ELF/VLF bands, it is recommended to avoid frequencies below
+6 kHz due to persistent interference observed in the southern hemisphere. Although the
+ULF band exhibits the strongest response to magnetic storms, certain frequencies within
+this band show reduced susceptibility to interference. For instance, the wavelet analysis
+presented in Section 3.8 of this paper indicates that the correlation between magnetic storms
+and frequencies of 6.8 Hz and 8.8 Hz is weak. Furthermore, relying solely on the minimum
+value of Dst to classify magnetic storm intensity may be insufficient due to the effects of
+solar wind energy deposition. For example, the Dst curve of this magnetic storm exhibits a
+double-peak structure, indicating a greater accumulation of solar wind energy compared to
+a storm with a single Dst peak. Thus, the D value index of electric field disturbances may
+offer a more accurate classification metric in the future.
+
+5. Conclusions
+The analysis of this paper leads us to the following conclusions:
+
+(1) The ULE ELF and VLF bands are more significantly perturbed by magnetic storms,
+with the ULF band exhibiting the strongest response. Not only is the absolute incre-
+ment in the D value larger in the ULF band compared to the ELF and VLF bands,
+but the relative increment is also more pronounced, exceeding that of the ELF and

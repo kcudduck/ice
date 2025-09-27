@@ -1,0 +1,44 @@
+3.4 Boussinesq equations 20
+3.4 Boussinesq equations
+An additional dimensionless number, sometimes called the Stokes num-
+ber, 1s introduced:
+Qo
+S=—=1. (37)
+o
+For the Indian Ocean tsunami, one finds
+0.24 < 5 < 46. (38)
+Therefore the additional assumption that S$ ~ 1 may be realistic.
+
+In this subsection, we provide the guidelines to derive Boussinesqg-type
+systems of equations Bona et al. [2002]. Of course, the variation of bathymetry
+is essential for the propagation of tsunamis, but for the derivation the water
+depth will be assumed to be constant. Some notation is introduced. The po-
+tential evaluated along the free surface is denoted by ®(z,y,t) := ¢(z,y,n, 1).
+The derivatives of the velocity potential evaluated on the free surface are de-
+noted by ®y(z,y,t) := ¢.(x,y,n,t), where the star stands for x, y, z or t.
+Consequently, ®, (defined for * # z) and ®(,) have different meanings. They
+are however related since
+
+bo, = Dy + Dyn. :
+The vertical velocity at the free surface is denoted by W (x,y, t) := ¢. (x,y, n, t).
+
+The boundary conditions on the free surface (12) and (13) become
+
+n+ V& -Vn—-—W({1+Vn-Vn) = 0, (39)
+®, + gn + 3 |VO|* — sW?(14+Vn-Vn) = 0. (40)
+These two nonlinear equations provide time-stepping for n and ®. In addi-
+tion, Laplace’s equation as well as the kinematic condition on the bottom
+must be satisfied. In order to relate the free-surface variables with the bot-
+tom variables, one must solve Laplace’s equation in the whole water column.
+In Boussinesq-type models, the velocity potential is represented as a formal
+
+expansion,
+d(x, y, 2,1) = > oz, y,t) 2". (41)
+
+n=0
+
+Here the expansion is about z = 0, which is the location of the free surface at
+rest. Demanding that ¢ formally satisty Laplace’s equation leads to a recur-
+rence relation between ¢™ and ¢"*2). Let ¢, denote the velocity potential
+at z = 0, u, the horizontal velocity at z = 0, and w, the vertical velocity
+at z = 0. Note that ¢, and w, are nothing else than ¢® and ¢). The

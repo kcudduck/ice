@@ -1,0 +1,63 @@
+www.nature.com/scientificreports/
+Geomagnetic Field, 23 April 2023
+14000 _—
+13000 EI A ae
+— 12000 Nf
+=, AY Ww,
+)
+10000 \) —— MAS (69.46'N, 23.7°E)
+— IVA (68.56 N, 27.29 E)
+-
+—— RAN (65.9'N, 26.41E)
+5000 —— OUJ (64.52 N, 27.23 E)
+—— MEK (62.77 N, 30.97 E)
+4 Pin A
+om 2000
+Va
+0
+16:00 17:00 18:00 19:00 20:00 21:00 22:00 23:00
+Hours
+Figure 6. Geomagnetic field components Bx (a) and By (b) measured during the April 23, 2023 storm event
+(from 16:00 to 23:00 UT) at selected stations: MAS, IVA, SOD, RAN, OU]J, MEK and HAN. The dashed vertical
+black line is the shock arrival time (~ 17:35 UT), the Event I is represented by a red dashed line.
+Event | at 19:44:00 UT on April 23
+Figure 7 shows the computed E magnitude and direction maps at three time intervals during Event I. The
+measured GICs at Méntsdla and SML index are shown at the top for context. The three intervals of maps are
+shown, marked by red circles in the top panel.
+
+At 19:38:40 UT, the E-field structures are found to move roughly from West-North to South (Fig 7a, middle
+and lower panels). In the most parts of the map, the direction of the field is from West to East. Changes occur
+mostly at the edges of the map. Some of these changes may not necessarily be a physical effect, but a numerical
+one.
+
+At 19:44:00 UT, the moment with extreme SML value, the highest values of E-field were observed near the
+Arctic Circle, as well as around the Norwegian magnetometer in Dombés (Fig. 7b, middle and lower panels).
+One can also observe, that moving structures were inhomogeneous during that time, e.g., E around Polish
+station in Suwatki was stronger than in much more northern locations.
+
+At 19:45:30 UT, i.e., after the time when SML index reached its local minimum, the image of the electric
+field in the northern end of the analyzed area began to become significantly distorted (Fig. 7c, middle and lower
+panels).
+
+As reported by Despirak et al.**, GIC increases occurred during a substorm, with a poleward development of
+the westward electrojet. At that time the GIC measured at Mantsala was 13.97 A, although the local maximum
+was at 19:03:50 UT, with the value of 27.32 A. It can be noted that it perfectly matches the time of the largest
+increase that can be observed in the changes of the computed E-field, for Nurmijarvi (Fig. 3d). The estimated
+value of E is 793.7 mV km’. One may also observe, that the peak value of the E field in the vicinity of Event I
+occurred at different times at different stations. This is in contrast to Event II, whose peak occurred at the same
+time at all observatories (Fig. 3).
+
+Other, continuously available measurements of GICs are more east comparing to Méntséla. Around Event I,
+measurements at Vykhodnoy station (VKH, 68.83°N, 33.08°E), showed that at approximately 17:30 UT (around
+the time of the first substorm onset, compare with Fig. 2 in Despirak et al.**) there was the first strong oscillation
+in the GIC values, between ~ +20 and —30 A. Another peak was observed just after 20:00 UT with a value
+exceeding 25 A. It can be noted that the E-field computed for the magnetometer located at similar geographic
+latitude in Masi (MAS, Table 1, Fig. 4a), reached the maximum value of 915.7 mV km! at the same time, i.e.
+around the second substorm onset (see Fig. 2 in Despirak et al.?*). Our animation included in the Supplementary
+Information (Supplementary Video S1) shows that before 20:00 UT, the direction of the computed E for MAS
+changes its direction from South-West to North. The highest values on April 23 were recorded after 20:00 UT.
+GIC ranged between almost 40 A and —40 A. Looking more South, GIC data from Kondopoga (KND, 62.22°
+N, 34.36°E, Polar Geophysical Institute) show less rapid changes on April 23, with the highest value of ~ 15 A,
+around 19:30 UT. Figure 4f shows that E at a similar geographic latitude, Mekrijarvi (MEK, see Table 1) reached
+
+Scientific Reports | (2024) 14:25074 | https://doi.org/10.1038/541598-024-76449-7 nature portfolio

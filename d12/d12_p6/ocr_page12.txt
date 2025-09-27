@@ -1,0 +1,37 @@
+1.5
+1 7\ /\ ¥ 4 y \
+I NX \ - \
+I AVAVAVAVAY \
+= ¥YVVYV Wo
+0.5} \ A \ 3 1
+rr ANY sage t re —-h
+0 _——— = my
+0 0.05 0.1 0.15 0.2
+t/T
+
+Figure 9: Wave evolution at different locations x/4 =0, 0.85, 1.71, 2.56, 3.41, 4.27 and 5.12 along the section of
+constant depth for a basin with X¢/Z =5.12 and tan a = 1:20. Numerical results are shown by solid lines, while the
+analytical predictions are given by the black dotted lines. The parameters of the wave: A/ho = 0.03, kho = 0.19.
+
+1.8
+
+1.6 rE a
+
+S | Faron
+au a
+fo re
+1.2 7
+¢
+1
+1 1.5 2 2.5 3
+S/ sg
+Figure 10: The ratio of maximum run-up height in the conjoined basin, Rmax/A and the maximum run-up height on a
+plane beach, Ro/A versus the wave front steepness, s/so for A/ho = 0.057, kho = 0.38 (brown points), A/ho = 0.086,
+kho = 0.38 (red plus signs), A/ho = 0.057, kho = 0.29 (blue points), A/ho = 0.086, kho = 0.29 (turquoise plus signs),
+A/ho = 0.057, kho = 0.22 (violet points), A/ho = 0.086, kho = 0.22 (pink plus signs), A/ho = 0.057, kho = 0.19 (dark green
+points), A/ho = 0.086, kho=0.19 (light green plus signs). All markers correspond to the results of numerical
+simulations, while the asymptotic analytical predictions are given by the red solid line. Black dashed line corresponds
+to the power fit of the analytical results Eq. (16).
+The results of numerical simulations are shown in Fig. 10 with different markers. It can be seen that numerical data for the
+same period, but different amplitudes follow the same curve. The run-up 1s higher for waves with smaller kA. In our opinion,
+12

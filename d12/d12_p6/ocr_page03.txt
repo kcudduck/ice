@@ -1,0 +1,31 @@
+independently, not taking into account the point of merging of these two bathymetries. Numerically, we solve the nonlinear
+shallow water equations.
+The paper 1s organized as follows. In Section 2, we give the main formulas and briefly describe the analytical solution. The
+numerical model 1s described and validated in Section 3. The nonlinear deformation and run-up of the long single wave of
+positive polarity 1s described in Section 4. The main results are summarized in Section J.
+2. Analytical solution
+We solve the nonlinear shallow water equations for the bathymetry shown in Fig. 1:
+ou ou on
+—+u—+g—=0, (1)
+ot Ox 8 Ox
+on oO
+—+—|(A(x)+n)u |=0. (2)
+~ += [(h+m)u]
+Here n(x, t) 1s the vertical displacement of the water surface with respect to the still water level, u(x,r) — depth-averaged
+water flow, h(x) — unperturbed water depth, g 1s the gravitational acceleration, x 1s the coordinate directed onshore, and 7 1s
+time. The system of Egs.(1),(2) 1s solved independently for the two bathymetries shown in Fig. 1: a basin of constant depth
+ho and length Xo and a plane beach, where the water depth h(x) = - x tance.
+Egs. (1),(2) can be solved exactly for a few specific cases. In the case of constant depth, the solution 1s described by the
+Riemann wave (Stoker 1957). Its adaptation for the boundary problem can be found in Zahibo et al. (2008). In the case of a
+plane beach, the corresponding solution was found by Carrier and Greenspan (1958). Both solutions are well-known and
+widely used and we do not reproduce them here, but just provide some key formulas.
+As already mentioned, during its propagation along the basin of constant depth /o, the wave transforms as a Riemann wave
+(Zahibo et al. 2008):
+x+X,+L
+x,t)=n,|t————1, 3
+V(x,1)=3g| hy +1(x,1) | -2{/gh, : (4)
+where 77,(x =—L—X,t) is the water displacement at the left boundary. After the propagation over the section of constant
+depth ho, the incident wave has the following shape:
+X 0
+Myo (1) = 1, TV (x) ; Vio (1) =3yJg| ly +7150 (1) | = 2 8h, : (5)
+3

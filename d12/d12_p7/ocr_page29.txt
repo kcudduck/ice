@@ -1,0 +1,27 @@
+Confidential manuscript submitted to Journal of Geophysical Research: Oceans
+Acknowledgments
+P. L.-F. Liu would like to acknowledge the National University of Singapore research grant
+(NRF2018NRF-NSFCO003ES-002). Z. R. Ren would acknowledge the National Natural Science
+Foundation of China (Grant Nos. 12002099). This study was supported by the Yushan Program,
+Ministry of Education in Taiwan.
+Data availability statement
+The bathymetry data used in this work are derived from the ETOPO1 global relief model
+(https://maps.ngdc.noaa.gov/viewers/grid-extract/index.html). © The atmospheric pressure
+measurement 1s obtained from Fiji Meteorological Service (https://www.met.gov.1j/), Weather
+Underground (https://www.wunderground.com/), NIWA (https://miwa.co.nz/), Japan Soratena
+(https://global.weathernews.com/news/16551/), Meteorological = Directorate of Chile
+(https://climatologia.meteochile.gob.cl/), Central Weather Bureau of Taiwan
+(https://www.cwb.gov.tw/), and National Climatic Data Center of USA
+(https://mesonet.agron.iastate.edu/request/asos/ I min.phtml#). The DART buoy data 1s provided
+by the National Oceanic and Atmospheric = Administration of USA
+(https://nctr.pmel.noaa.gov/Dart/).
+Appendix A. Frequency dispersion effects
+To investigate the significance of frequency dispersion on the tsunami wave generation and
+propagation during the Tonga event, an additional numerical simulation, using the linear
+Boussinesq equations has been performed.
+Before presenting the numerical results, Glimsdal et al. (2013) introduced the parameter rt,
+known as “dispersion time”, to assess the potential effect that dispersion has on wave propagation:
+1 6c d® 1 6d°D 6dt
+r=Act—x——t-—=——=—7, (13)
+L L L L gl
+29

@@ -1,0 +1,52 @@
+Remote Sens. 2024, 16, 3497 7 of 22
+in the ULF band is larger than that in the ELF and VLF bands. Magnetic storms do not
+significantly affect the HF band.
+
+3.2. ULF Band’ D Value Analysis
+As discussed above, the responses of magnetic storms observed at different frequen-
+cies are different. The prevalent view of the storm—substorm relationship has been that
+substorms are the main building blocks of storms [13]. Although this view was questioned,
+both magnetic storms and substorms have an effect on the ionosphere [1], and magnetic
+storms and substorms generally occur in tandem. A substorm event was also present
+during the 4 November 2021 magnetic storm event. The disturbances recorded in the
+satellite electric field were the result of a combination of magnetic storms and substorms.
+Each frequency band contains many frequencies, and it is insufficient to analyze them
+using the PSD plots of a single frequency point. Therefore, it is necessary to analyze all
+frequencies collectively to identity the frequencies and bands most disturbed by magnetic
+storms. From the above analysis, the disturbance caused by magnetic storms varies across
+different regions. Therefore, the world is divided into three regions for analysis: 65°S to
+65°N, 22°S to 65°S, 22°S to 22°N, and 22°N to 65°N. Table 1 lists the maximum D values
+of the different bands, the corresponding frequencies, and the frequency bands that are
+most disturbed.
+Table 1. Statistics of significant disturbances in frequencies and bands (with maximum disturbance
+frequencies in parentheses).
+Band Parameters 22°5-65°S 22°N-22°S 22°N-65°N
+0-5 Hz 6-14 Hz 0-5 Hz
+ULF Disturbance Band (4.4 Hz) (13.2 Hz) (2.9 Hz)
+Maximum D value 1.81 2.83 2.30
+300 Hz-900 Hz Below 300 Hz
+Disturbance Band Above 1.8 kHz 1.2-1.8 kHz None
+ELF (780 Hz, 2441 Hz) (1511 Hz)
+Maximum D value 3.25 1.66 1.45
+: 3-10 kHz 6-5 kHz
+VIF Disturbance Band (5396 Hz) None (8887 Hz)
+Maximum D value 3.82 1.13 1.93
+Disturbance Band 1.79 MHz 2.57 MHz 1.93 MHz
+HF -
+Maximum D value 0.16 0.68 0.12
+Figure 4 shows the Dst index (a), SML index (b), and the D values from 1 November
+2021 to 7 November 2021. The Dst index represents the intensity of the magnetic storm and
+the SML index represents the intensity of the substorm. The Dst index decreases sharply
+during magnetic storms, and the D values also show significant changes. The D values
+in all four regions increase from approximately 0-1 to about 2 during the quiet period.
+Comparing the high and middle-to-low latitudes in the northern and southern hemispheres
+reveals a clear difference in the anomalous enhancement of the electric field in the ULF
+band. In the ranges 65°S to 65°N (c), 22°S to 65°S (d), and 22°S to 22°N (e), the maximum
+perturbation orbits correspond to the second Dst minimum. The maximum perturbation
+orbits in the range 22°N to 65°N (f) correspond to the first minimum. A clear hemispheric
+asymmetry is observed. The maximum D value in the range of 65°S to 65°N (c) occurs
+near 13 Hz, and the D value is essentially above 1.8 throughout the band. This is consistent
+with the perturbation in the range 22°S to 22°N (e), where the maximum frequency point
+of the perturbation is 13.2 Hz, corresponding to a maximum D value of 2.83. In contrast,
+the maximum frequency point of the perturbation in the ranges 22°S to 65°S and 22°N to
+65°N is not around 13 Hz, but is in the frequency band of 0-5 Hz. The maximum D value

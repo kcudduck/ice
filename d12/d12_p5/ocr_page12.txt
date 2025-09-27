@@ -1,0 +1,84 @@
+90 I. Charvet et al./ Ocean Modelling 69 (2013) 79-92
+be generated, especially for long waves, was small, so such results To obtain the standard deviation in x for a range of waves, it is nec-
+should be interpreted with caution. essary to combine all samples. To do so, we calculate the pooled
+
+The aim of investigating a possible common relationship for all variance and standard deviation s, for the combined samples
+wave forms would require more test data concerning very long ele- (Moore and Mc Cabe, 2003), after verifying the largest standard
+vated and N-wave data (smaller samples for these groups at pres- deviation is not larger than twice the smallest standard deviation
+ent). Notwithstanding, a common relationship for all wave forms for each sample in the pool.
+may not exist in reality. Indeed, the results indicate that the runup - >
+of elevated waves and the runup of N-waves should be treated as Sa > ioq (i = 1)sy (A2)
+two separate processes, as the negative components of N-waves x \ Soin —1)
+
+(a—,E,) often appear in the best fit.
+Taking x as a for positive amplitude, a- for negative amplitude, T for
+} period and R for runup, the standard deviations of these different vari-
+6. Conclusions : : EE
+ables are listed in Table 3. There were nine individual elevated waves
+and 4 N-waves to calculate the pooled standard deviations for ampli-
+The impact of long propagating waves is often assessed using : Co
+tudes and period. There were 26 runup standard deviations calcu-
+
+HUnup. or HVS [EOI researchersiave StHVEd to/obtain empirical lated for elevated waves and 18 for N-waves. These results make no
+or semi-empirical formulae that help predict the runup of long : Co :
+
+Ca : assumption on the variations of wave amplitudes further down the
+waves. Validation of runup laws with laboratory data or numerical flume (i.e., it is expected that 11 th
+
+.e., pected that o, will increase with x).
+
+codes is common. The runup of long propagating waves has been
+derived empirically mainly as a function of wave amplitude, water .
+depth, and bed slope, whether we consider a propagating bore, a Appendix B
+solitary/elevated or N-wave shape.
+
+The data obtained with the new pneumatic generator was used To find the best estimates of logK and k the residuals, e;, have to
+to find new runup relationships including parameters that have be calculated and the sum of squared residuals, SSE, has to be
+not been studied experimentally before. A semi-empirical ap- minimized:
+proach was chosen to investigate the relationship between wave ei =y; — Vi, (B1)
+runup and a number of parameters characterizing the wave form
+(1.e., positive and negative amplitudes, wave height, wavelength, n
+water depth, potential energy). Dimensional analysis was first used SSE = > er. (B2)
+to relate these parameters to runup. The relationship identified =1
+was a power law. Next, simple linear regression analysis was used In (B1) and (B2), for n data points, y; is one observed response to an
+to find the combination of parameters resulting in the best fit to input variable x;, and y; is the response predicted by (17) (for & ~ 0).
+the experimental data. Expressions for runup were derived sepa- We define the uncertainty associated with (17) as being mini-
+rately for long elevated waves, long N-waves, very long elevated mal when the coefficient of determination, R*, approaches 1 and
+waves, and very long N-waves. The resulting expressions are seen the mean of the deviations (squares) from the fit é is zero. R? indi-
+to be consistent with previous studies, for long waves (elevated cates the proportion of the total variability in the response variable
+and N-waves), with the runup seen to be scaled as the positive ~~ which is accounted for by the predictor variable (Chatterjee and
+amplitude (R ~ a). However, very long waves are shown to belong ~~ Hadi, 2006). The coefficient of determination is calculated using
+to a different regime than long waves, and to scale as R ~ +/a. This the total sum of squares, SST:
+result has been suggested also by Baldock and Holmes (1999) for i
+bore-like waves. It 1s believed that potential energy is a useful SST — Sw, _y2 (B3)
+addition to the parameters predicting runup. 1
+
+More systematic studies of the influence of slope variations on
+long wave runup dynamics are needed to clarify the relative contri- RZ —-1_ (SSE/SST), (B4)
+bution of the beach slope in comparison with wave parameters.
+
+The mean error is expressed as:
+n
+Acknowledgements ,_ Lie | B5)
+
+This work was funded by the UK Engineering and Physical Sci-
+ences Research Council. We also gratefully acknowledge Professor
+William Allsop and the staff at HR Wallingford for providing the Appendix C
+authors with access to the facility, support during the testing of
+the pneumatic generator, and contribution in terms of manpower The normal distribution of residuals has been checked in two
+and experimental equipment. Finally, the authors wish to thank ~~ ways. First, a normal probability plot was used to graphically as-
+the reviewers of this manuscript, particularly Dr Yong Sung Park, ~~ sess the fit of the data to a normal distribution (Fig. 10 -b)). If
+whose time in providing insightful comments and suggestions the data only deviated slightly from the normal distribution, dn
+was greatly beneficial to the present work. additional conservative statistical test of normality, Lilliefors
+
+(1967), was performed to test the null hypothesis Hy: the residuals
+Appendix A are normally distributed:
+
+The repeatability of waves was tested by running the same tests D = max.|F(€) = >n(e)l (1)
+a number of times (for both elevated and N-waves). Each sample is In (C1), F*(e) is the cumulative normal distribution function with
+composed of 3 to 6 repeats of one given wave, and the variance in a mean e and standard deviation s2, and S; (e) is the sample’s cumula-
+chosen wave parameter x (s2) is: tive distribution function. To validate Hy, D shall not exceed a criti-
+
+, cal value, the latter is determined according to the sample size n
+$2 = 2 =X) (A1) and the level of significance desired o. o represents the probability
+N—1 that the test will reject Hy, when it is in fact true (Moore and Mc

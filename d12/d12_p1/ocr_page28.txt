@@ -1,0 +1,49 @@
+Percentage (%)
+(a) 0.0 5.0 10.0 15.0 20.0 25.0 30.0
+I ——
+
+5 / —— Dm
+
+g 012 IE — £(@)
+
+= 0.08} Ti
+
+Eile wn
+
+£0.
+
+% “1 Nn ] i J EN } Nn
+b) & "6
+
+% 4b
+
+& CT 2 5 435601 234 5601 235435601 235 45.06
+(¢) g 0.4 Grain size (¢)
+
+2 0.3 I ® Field Data
+
+£02 aT
+
+2 0.1 ® o Also for (b)
+
+- 0.0 )
+(d) es 6 : Iv nd run-up st run-up
+
+= 4 3rd run-up 1 II fm |
+
+= p) p pd Vv pe : ® Sample Location
+
+'D —— Beach profile
+
+= 9 100 200 300 400 500 600
+
+Distance to Shoreline (m)
+Figure 3: TSUFLIND simulation results and field measurement at Ranganatha-
+puram, India. a: Vertical grading in grain size distribution (blue line) and mean
+grain size (red line) for four sampled locations (120m, 160m, 177m and 207m); b:
+the entire tsunami deposit grain-size distributions used as inputs to TSUFLIND
+(red points) and model result outputs from TSUFLIND (green line); c: tsunami
+deposit thickness field measurements (red points) and simulation results from TSU-
+FLIND (green line); d: topography, wave run up and sample locations for test case
+(1: 120m; I1 : 160m; [11: 177m; IV : 207m).
+28

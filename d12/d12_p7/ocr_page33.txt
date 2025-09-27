@@ -1,0 +1,31 @@
+Confidential manuscript submitted to Journal of Geophysical Research: Oceans
+003 21419 (7799 kam) 0. 32402 (10055 kam)
+
+E _ Hy A 1 Hi foe VS JE LADD ASAD Na ih Mi
+Figure 15. Comparison of time series of free surface elevation between present results (red line), Lynett
+et al.’s (2022) results (blue line) and the corrected DART data (black line).
+
+We have also compared the time series of free surface elevation between the present numerical
+simulation results (red line) and Lynett et al.’s (2022) results (blue line), as shown in Figure 15. In
+the near field (DART G), both solutions are very similar in terms of the long-wave components.
+However, Lynett et al.’s solutions present noticeable shorter wave components arriving S50 minutes
+after the volcanic explosion, which are likely produced by the additional mechanisms included in
+their model. Nevertheless, these shorter waves do not match with the arrival time observed 1n the
+field, which happens approximately 25 minutes later. In the mid-field, the amplitudes of the crest
+and trough of the leading wave for both models in DART 51407 are very similar, and slightly
+higher than the DART corrected data. However, the arrival time from Lynett et al.’s solution 1s
+well ahead of the observed arrival time, whereas the model presented in this paper captures the
+arrival time almost perfectly. The long-wave component (1.e., trend) of the trailing waves 1s also
+similar 1n both cases. However, the present model does not capture the high-frequency waves (as
+expected) and Lynett et al.’s results show a later arrival and a smaller amplitude than 1n the field
+data. Also in the mid-range, DART 21419, neither model presents accurate results, especially after
+the first waves, reflecting the complexity of the real world problem.
+
+Finally, in the far-field (DART 32402) both models produce similar results and are able to
+model the arrival time of the trailing waves accurately, capturing their large amplitudes to a great
+extent. This suggests that the trailing free waves are produced at the different stages and locations
+during the simulation, when the locked waves travel over the changing bathymetry, as has already
+been discussed. The additional wave generation mechanisms (e.g., caldera collapse) have some
+impact on the solutions, especially in the short-wave range in the near-field, but are likely to have
+
+33

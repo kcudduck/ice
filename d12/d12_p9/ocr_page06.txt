@@ -1,0 +1,67 @@
+Tsunami generation 1893
+(a) Sea Bottom (a) Sea Bottom
+0.4 tc=40s 0.4 tc=40s
+— fc=4s —— Static Solu.
+E 0.2 £ 0.2
+r= =
+Z L
+2 0.0 2 0.0
+= T
+-300 -200 -100 0 100 200 300
+-300 -200 -100 0 100 200 300
+Distance [km]
+Distance [km]
+(b) Sea Surface
+(b) Sea surface O
+0.4 5
+0.4 S
+= 0.2 ©
+— = 0.2 —
+5 = oO
+g 00 = 3
+T 2 0.0 =
+-0.2 T S
+0.2 >
+-300 -200 -100 0 100 200 300 a
+Distance [km] -300 -200 -100 0 100 200 300 =!
+o
+Figure 6. (a) The vertical-displacement distribution at the sea bottom at the Distance [km] 5
+B .
+pa xe me of Sth for the — res of oo curser ‘ = 40s Figure 7. (a) The vertical-displacement distribution at the sea bottom at 3
+(bo grey ine) and fc = 4 s (thin blac ine); (b) vertical 15p acement the elapsed time of 180 s for the simulation result of source duration Q
+distribution at the sea surface at the elapsed time of 180 s for the simulation _ : : =
+It of durati 40 s (bold dt — 4s (thin black t. = 40 s (bold grey line) and the permanent sea-bottom deformation cal- ©
+og. t of source duration Zo = 40 s (bold grey line) and 7c = 4s (thin blac culated based on the static equation of Okada (1985, thin red line); (b) 5
+ne). vertical-displacement distribution at the sea surface at the elapsed time of >
+180 s for the simulation result of source duration 7. = 40 s (bold grey line) =
+and the sea-surface deformation calculated based on the static equation and dS
+2001). This low-pass filter for the 2-D case 1s theoretically derived incompressible-fluid theory (Kajiura 1963, thin red line). =
+by the incompressible-fluid theory as, os
+N (GV)
+I d (k) Co S
+no (x,y) = 7 dkexp [ikx] oh (7) (6) solid earth. Fig. 7(b) compares the vertical displacement at the sea N
+7 Joo cosh (kho) surface calculated by the equation of motion (eq. 2, grey line) that =
+where d (k) 1s the 2-D wavenumber spectral contents of the vertical includes the compressible sea and elastic crust with that calculated 2
+displacement d(x) at the sea bottom. In eq. (6), the displacement by the incompressible-fluid theory (eq. 6, red line). These two lines <
+at the sea bottom d(x) is given by the solutions of the equilibrium also show very good agreement. The agreement in Figs 7(a) and ~~ 2
+equations, (b) confirms the validity of the incompressible-fluid theory in the :
+calculation of the initial tsunami-height distribution for tsunami N
+0 =o; + fis (7) propagation simulations. Note that Comer (1984) and Saito & PD
+where a free-surface boundary condition is assumed at the sea bot- Furumura (2009) | supported the validity of the Ka lura equation 3
+tom. This means that the effect of sea layer is neglected. Note in the case of an incompressible sea, whereas this study confirms =
+that the conventional method using egs (6) and (7) neglects the validity 1n the case of compressible sea and elastic crust. N
+compressibility of the sea water in the calculation of the initial
+tsunami-height distribution from the sea-bottom deformation. We
+CL. 3.3 Ocean-bottom pressure change
+numerically calculated the permanent sea-bottom deformation in
+2-D space by setting the fault length much longer than the fault It would not be possible in practice to directly observe the initial
+width in the 3-D analytical solution (e.g. Okada 1985). height distribution with current observation technologies. A
+Fig. 7(a) compares the sea-bottom deformation calculated by promising way to detect the generation of tsunami would be to use
+the equations of motion (eq. 2) (grey line) and the equilibrium ocean-bottom pressure gauges deployed inside the earthquake focal
+equations (7, red line). The two lines show very good agreement. area (e.g. Tsushima ef al. 2009, 2012; Maeda ef al. 2015; Gusman
+This agreement indicates that the sea water does not meaningfully et al. 2016). However, tsunami signals recorded by ocean-bottom
+affect the permanent sea-bottom deformation. The agreement cal- pressure gauges inside and near the source are contaminated
+culated by the analytic solution of the equilibrium equations and by dynamic pressure change due to seismic waves (Saito &
+the equations of motions was also reported by previous studies, for Tsushima 2016). Therefore, 1t 1s important to investigate how the
+example by Wald & Graves (2001) considering only solid earth ocean-bottom pressure fluctuates according to seismic waves. The
+and by Maeda & Furumura (2013) considering both sea water and mechanism of dynamic pressure change depends on time-scale

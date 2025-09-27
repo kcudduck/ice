@@ -1,0 +1,55 @@
+33. (Codiga DL. 2011 Unified Tidal Analysis and Prediction Using the UTide Matlab Functions. Technical Report 2011-01. Narragansett, p. 59. Graduate 29
+School of Oceanography, University of Rhode Island. See ftp://www.po.gso.uri.edu/ pub/downloads/codiga/pubs/2011Codiga-UTide-Report.
+pdf. 3S
+
+34. Benazir Oktari RS. 2024 Assessing tsunami risk along the Aceh coast, Indonesia: a quantitative analysis of fault rupture potential and early Z
+warning system efficacy for predicting arrival time and flood extent. Nat. Haz. 120, 4875-4900. (doi:10.1007/511069-024-06401-x) =
+
+35. Abdolali A, Kadri U, Kirby JT. 2019 Effect of Water Compressibility, Sea-floor Elasticity, and Field Gravitational Potential on Tsunami Phase Speed. =
+Sci. Rep. 9. (doi:10.1038/541598-019-52475-0) =
+
+36. Ammon (J, Lay T, Kanamori H, Cleveland M. 2011 A rupture model of the 2011 off the Pacific coast of Tohoku Earthquake. Earth Planets Space =
+63, 693-696. (doi:10.5047/eps.2011.05.015) =
+
+37. Shao, LiX, LiuQ, Zhao X, Yano T, Ji C. 2010 Preliminary slip model of the feb 27, 2010 mw 8.9. Chile: Maule. =
+
+38. HoT, Satake K, Watada S, Fujii Y. 2019 Source Estimate for the 1960 Chile Earthquake From Joint Inversion of Geodetic and Transoceanic Tsunami =
+Data. J. Geophys. Res. 124, 2812-2828. (doi:10.1029/2018jb016996) =
+
+39. Fine IV, Kulikov EA, Cherniawsky JY. 2013 Japan's 2011 Tsunami: Characteristics of Wave Propagation from Observations and Numerical S
+Modelling. Pure Appl. Geophys. 170, 1295-1307. (doi: 10.1007/s00024-012-0555-8) -
+
+40. Suppasri A, Shuto N, Imamura F, Koshimura S, Mas E, Yalciner AC. 2013 Lessons Learned from the 2011 Great East Japan Tsunami: Performance  : ©
+of Tsunami Countermeasures, Coastal Buildings, and Tsunami Evacuation in Japan. Pure Appl. Geophys. 170, 993-1018. (doi:10.1007/s00024- =
+012-0511-7) BS
+
+41. Dutykh D, Mitsotakis D, Gardeil X, Dias F. 2013 On the use of the finite fault solution for tsunami generation problems. Theor. Comput. Fluid Dyn. 3
+27,177-199. (doi:10.1007/s00162-011-0252-8) =
+
+42. Murty PLN, Sandhya KG, Bhaskaran PK, Jose F, Gayathri R, Balakrishnan Nair TM, Srinivasa Kumar T, Shenoi SSC. 2014 A coupled hydrodynamic : °°
+modeling system for PHAILIN cyclone in the Bay of Bengal. Coast. Eng. 93, 71-81. (doi:10.1016/j.coastaleng.2014.08.006) =
+
+43. Murty PLN, Padmanabham J, Srinivasa Kumar T, Kiran Kumar N, Ravi Chandra V, Shenoi SSC, Mohapatra M. 2017 Real-time storm surge and .
+inundation forecast for very severe cyclonic storm ‘Hudhud. Ocean Eng. 131, 25-35. (doi: 10.1016/j.0ceaneng.2016.12.026)
+
+44. Chian SCet al. 2019 Lessons Learnt From the 2009 Padang Indonesia, 2011 Tohoku Japan and 2016 Muisne Ecuador Earthquakes. Front. Built
+Environ. 5, 73. (doi:10.3389/fbuil.2019.00073)
+
+45. FritzHM et al. 2011 Field Survey of the 27 February 2010 Chile Tsunami. Pure Appl. Geophys. 168, 1989-2010. (doi:10.1007/s00024-011-0283-
+5)
+
+46. Spaeth MG, Berkman SC. 1965 The tsunami of march 28, 1964, as recorded at tide stations. vol. 33. US Department of Commerce, Coast and
+Geodetic Survey: Rockville, Md., U.S. Dept. of Commerce, Coast and Geodetic Survey, 1965.
+
+47. Suleimani E, Freymueller JT. 2020 Near-Field Modeling of the 1964 Alaska Tsunami: The Role of Splay Faults and Horizontal Displacements. J.
+Geophys. Res. 125, B019620. (doi:10.1029/2020jb019620)
+
+48. Johnson JM, Satake K, Holdahl SR, Sauber J. 1996 The 1964 Prince William Sound earthquake: Joint inversion of tsunami and geodetic data. J.
+Geophys. Res. 101, 523-532. (doi:10.1029/95jb02806)
+
+49. adcirc. 2024 ADCIRC Development Group. GitHub. See https://github.com/adcirc.
+
+50. CHLNDDEV. 2024 OceanMesh2D. GitHub. See https://github.com/CHLNDDEV/OceanMesh2D.
+
+51. Kolukula SS, Murty PLN, Kumar TS, Ramarao EP, Ramana Murthy MV. 2024 Tsunami modelling over global oceans. Figshare. (doi:10.6084/m?9.
+figshare.c.7599516)

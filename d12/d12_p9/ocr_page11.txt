@@ -1,0 +1,65 @@
+1898 1. Saito
+(a) (b)
+100 100
+—. 80 80
+L,
+: 1 .
+© 60 60
+O
+3 [ { i
+Q.
+d
+“40 40
+20 20
+-30 -20 -10 0 10 20 30 -30 -20 -10 0 10 20 30
+x [km] x [km]
+(©) amr TE S
+100 —-0.001 0.000 0.001 =
+Acceleration [m/s?] a
+oO
+E + >
+5 60 2
+& J =
+Oo Q
+Po] oO
+“40 a
+3
+O
+2
+20 ©
+-30 -20 -10 0 10 20 30 Q
+x [km] 3
+Q
+am BR The >
+-0.004 0.000 0.004 5
+Pressure [MPa] >
+()
+(d) <3
+0.010 &
+= x = 50 km, —— Pressure —— pg ho @potorn <3
+s 0.005 JA — |Incompressible theo N
+S 0.000 =
+\ e
+& -0.005 2
+-0.010 7
+0 20 40 60 80 100 120 140 160 180 200 =
+Elapsed time [s] IN)
+Figure 12. Sea-bottom wavefields in the case of an earthquake duration of 7. = 40 s with a width of 5 km. (a) Spatial and temporal distributions of the vertical P
+acceleration at the sea bottom. (b) A spatial filter of tanh kh / khg 1s applied to the acceleration distribution in (a). (¢) Spatial and temporal distributions of the =
+pressure at the sea bottom. (d) Waveforms at x = — 50 km are extracted from (a)—(c), and plotted by blue, red and grey lines, respectively. =
+@
+ND
+(1) A two-step method (using Okada’s code and Kajiura’s equa- (111) A relation p. = py ha 1s often used for low-frequency sea- Q
+tion) 1s usually used to set initial tsunami-height distribution. We bottom motion (f << ¢o/(4hy)). This relation works nicely when 7
+confirmed the validity of this method by showing excellent agree- the sea-bottom deformation is smooth (kh, << 1), but fails when
+ment between initial tsunami heights calculated by the two-step the sea bottom deforms steeply. The elastic numerical simulations
+method and by the simulation including elastic crust and compress- showed that the analytical solution of Saito (2013) could reproduce
+ible sea. However, note that the two-step method cannot reproduce more precisely the relation between the pressure change and the
+the sea-surface displacement correctly during the generation pro- sea-bottom motion.
+cess, because seismic waves, not considered in the two-step method,
+significantly contribute to the temporal change of sea-surface dis- Because conventional tsunami theories were originally developed
+placement. for near-shore observations, we should take care in using these
+(11) A relation p, = pocov 1s sometimes used for high-frequency theories for records observed offshore or inside the source region.
+sea-bottom motion (f > ¢y/(4ho)). We found that this relation does Recent studies revealed shorter scale heterogeneous slip distribu-
+not hold, in general, because of the sea-bottom boundary condition. tion on earthquake faults, and the steep sea-bottom deformation
+This relation worked only for the first motion. that occurred when the rupture reached the sea surface. In addition,

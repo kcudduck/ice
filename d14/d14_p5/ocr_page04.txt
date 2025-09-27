@@ -1,0 +1,80 @@
+www.nature.com/scientificreports/
+
+event with a varying number of high time resolution magnetic field data is considered®. Therefore, during the
+analysis of real data recorded by a station at a specific location, the data were compared with an interpolated
+value calculated for the same location, but excluding that station from the set of known data points during the
+interpolation. Figure 1 shows the correlation values between E measured at 19 of the 29 stations listed in Table
+1 (indicated on the x-axis) and those interpolated using nearest neighbor (green line), linear (blue line), cubic
+spline (black line), and natural neighbor interpolation (red line). The correlation was calculated using 10-second
+resolution data from 12:00 UT on April 23 to 12:00 UT on April 24, 2023. Moreover, 19 stations considered as
+verification points and indicated on x-axis have been ordered with decreasing geographic latitudes (Table 1).
+
+Figure 1 reveals the varying levels of effectiveness among the interpolation methods, which directly depend
+on the specific stations considered. Verification of interpolation quality has been performed by regression
+analysis between the time series measured in a given station and the time series interpolated for the same
+location. In this procedure, interpolation was performed with excluding the subject station from the data set. The
+lowest correlation coeflicient between the measured and interpolated E values occurs when the nearest neighbor
+interpolation method is used (green line) with the mean correlation coefficient of 0.79. For the other three
+methods, the mean correlation is above 0.80 (linear: 0.87, cubic spline: 0.86, and natural neighbor: 0.89), and in
+general is close to 0.90 for first 10 stations located at higher geographic latitudes, from 69.46° (MAS) to 64.94°
+(RVK) (from 66.18° to 62.23° magnetic latitude). When latitudes decrease, the correlations decrease (sparsely
+distributed magnetometers), while the lowest correlations are observed for the UPS station. It is noteworthy that
+the distance to the nearest station for UPS is the greatest, around 440 km.
+
+As suggested by Fig. 1, the natural neighbor interpolation method (red line) appears to be the most effective,
+showing the highest correlation between the measured and interpolated E values for most of the considered
+stations. It worth adding that the same interpolation method has been applied by Wawrzaszek et al.® to study the
+September 7-8, 2017 geomagnetic storm”®*’*!. Moreover, the natural neighbor interpolation does not require
+any statistical assumptions and parameters, it produces a continuous surface without discontinuities, and is
+suitable for small datasets®. Therefore, the natural neighbor method has been applied in this present work.
+
+High-resolution (1-min) near-Earth solar-wind plasma and IMF data analyzed in this work are taken from
+NASAs OMNIWeb (https://omniweb.gsfc.nasa.gov/). Substorm activity is studied using the Super MAG SML
+index (https://supermag.jhuapl.edu/)*>**, GICs at Mantséld are collected from the Finnish Meteorological
+Institute (https://space.fmi.fi/gic/).
+
+Results
+
+Solar and geomagnetic conditions
+
+The near-Earth solar wind, interplanetary and geomagnetic conditions during April 23-25, 2023 are shown
+in Fig. 2. A gradual decrease in the geomagnetic SYM-H index from a value of ~ 0 nT at 09:00 UT on April
+23 marks the geomagnetic storm main phase onset (Fig. 2f). It is preceded by a southward turning of IMF
+B, component at ~07:54 UT (Fig. 2e). This is followed by an almost steady southward IMF component B; of
+~ 11 nT.
+
+Bg further intensifiesto ~ 25nT at ~19:13 UT on April 23 during an interplanetary sheath (compressed plasma
+and IMFs*>*%; marked by a red horizontal bar at the top) by impingement of an interplanetary discontinuity at
+~17:35 UT (marked by a dashed vertical line). The discontinuity is characterized by sharp and simultaneous
+increases in the solar wind proton speed V}, (~ 358 to ~ 495 km s™ 1, Fig. 2a), density N,, (~ 5.7 to ~ 16.7 cm™?,
+Fig. 2¢), ram pressure Fy, (~ 1.2 to ~ 8.0 nPa, Fig. 2c), temperature 7, (~ 1.7 x 10* to ~ 25.2 x 10* K, Fig. 2d,
+black), and IMF magnitude Bj, (~ 10.3 to ~ 25.2 nT, Fig. 2e). From an analysis of high-resolution plasma and
+IMF data collected by the Wind spacecraft through the mixed-mode discontinuity normal analysis*’ and the
+application of the Rankine-Hugoniot**~" conservation laws, the discontinuity (identified at 16:58 UT at the
+spacecraft location, ~ 200 Earth radii upstream from the center of the Earth) is found to be a fast-forward (FF)
+shock with a magnetosonic Mach number M,,, of ~ 2.7, moving at a speed Vy, of ~ 247 km s~! (relative to the
+upstream solar wind) at an angle fg of ~ 81° with respect to the ambient IMF~°.
+
+Following this quasi-perpendicular shock, the sheath By caused a major decrease in the SYM-H index to
+—179 nT at 21:59 UT on April 23. This first storm main phase development is associated with multiple intense
+substorms, as indicated by the auroral SML index peaks of —1311 nT (~11:21 UT), —1213 nT (~16:46 UT),
+—1406 nT (~17:48 UT), —1608 nT (~18:45 UT), —1570 nT (~19:45 UT), —2018 nT (~20:20 UT), and —1660 nT
+(~21:37 UT on April 23) (Fig. 2f). The northward turning of IMF at ~21:03 UT (on April 23) resulted in
+significant reduction in substorm occurrences.
+
+The interplanetary sheath is followed by a classical interplanetary flux-rope magnetic cloud (MC!)
+structure from ~01:17 UT up to ~22:11 UT on April 24 (marked by a green bar at the top and a vertical gray
+shading). A sharp north-to-southward turning in IMF B, (with simultaneous polarity changes in By and By) is
+followed by slow and smooth polarity rotations in the IMF components and slowly decreasing IMF B (Fig. 2e).
+The MC is characterized by a rarefied density (IV, ~ 0.2 — 2.6 cm?) and cold (T}, ~ 1.5 x 10* K) plasma with
+low 3 (~ 0.01). The MC has a south-to-north magnetic component configuration, with a peak B; of ~ 33 nT
+at ~01:21 UT on April 24. This Bj led to the major second-step development of the storm main phase, SYM-H
+reaching —233 nT at 04:03 UT on April 24 (Fig. 2f). This SYM-H peak is associated with a supersubstorm (SSS,
+defined by an SML peak < —2500 nT~*"°) with an SML peak of —2760 nT (~03:54 UT on April 24). Thus, the
+double-peak storm main phase is attributed to a combined effect of an interplanetary sheath and an MC. The
+sheath and MC Bj; components cause magnetic reconnection’ with the Earth's (dayside) northward magnetic
+field, leading to the solar wind energy input into the magnetosphere during geomagnetic storms (see empirical
+verification of this mechanism for substorms by Tsurutani and Meng", and for magnetic storms by Tsurutani
+et al.*® and Echer et al.*). The storm gradually recovered to a “quiet” value of —41 nT at 22:44 UT on April 24.
+
+Scientific Reports | (2024) 14:25074 | https://doi.org/10.1038/s41598-024-76449-7 nature portfolio

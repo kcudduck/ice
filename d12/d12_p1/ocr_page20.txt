@@ -1,0 +1,24 @@
+Table [1] Continued: Symbols List
+w(w,t) ms! Horizontal velocity in shallow water equations
+qg ms 2 Gravitational constant
+B(x) m Bed topography function
+d m Water depth of continental shelf
+7. Appendix II
+TSUFLIND implements a simplified method to estimate the representa-
+tive offshore tsunami wave amplitude. First of all, the water volume on the
+land due to tsunami wave is calculated by:
+Ro
+V = / h(x)dx (17)
+0
+where V is the water volume, R,, is the distance of run-up to shoreline, h(x)
+is water depth distribution function on land. To simplify this problem, we
+assume tsunami wave is a solitary wave. The solitary wave form is given as
+a function of distance x and time t by
+n(x, t) = Esech” (k(x — Ct)) (18)
+where
+| 3¢
+k=1\— 19
+¢ 1s the wave amplitude and d is the water depth of continental shelf, which
+is assumed as 500 meters. C' is the wave celerity which is expressed as:
+C=+gh+H) (20)
+20

@@ -1,0 +1,50 @@
+3
+10
+SHALLOW / WATER DEEP WATER
+,
+bore , solitary nonlinear transition
+waves J waves waves
+A A
+El A A A
+C5 ’ A
+_ Ki A — — A — —m —m =A —m —m mm — — — —
+< A 0®
+A © ®
+° 50-6 -—-—0-—=——g——————— -
+/ O
+J Oo
+/
+,
+, ® H, =19cm, Ly =10cm
+, A H, =29cm, Ly =10cm
+i" 10 20 30
+ho (cm)
+FIG. 2. Evolution of the maximum wave amplitude A,, with the fluid depth hg, for three different initial granular columns of
+same width Lo but different height H,. The horizontal dashed lines indicate the saturation of A,, at large ho. Full symbols
+refer to shallow water waves, while empty symbols correspond to deep water waves. The shaded area corresponds to deep water
+waves, where A,, < 0.45 ho, and the black dashed line (--) represents the observed limit between bore and solitary waves
+10°
+] _ 10! 2
+= 3 CG - = ERT
+1% = YC 3 ro AAR
+3 Joa 3 - <
+10° oC ©“
+10°
+10° 10° 10° 10
+a a
+FIG. 3. (a) Relative final height Ho /Lo and (b) runout distance AL /Lo reached by the final deposit as a function of the
+aspect ratio of the initial column a = Ho/Lo. (—) Power laws He /Lo = aa” [with a = 1 and n = 1 when a < 0.93, and
+a= 0.95 and n = 1/3 when a 2 0.93], and AL /Lo = fa™ [with 8 = 1.65 and m = 1 when a < 3, and 8 = 2.38 and m = 2/3
+when a 2 3|. (0) Experiments of bore and solitary waves which are not significantly affected by the presence of the solid step.
+(x) Bore and solitary waves with a noticeable influence of the solid step, and nonlinear transition waves.
+with recent numerical simulations which reproduced finely a specific geophysical case with a complex topography 9],
+although the initial conditions are quite different than from our model laboratory configuration. On the contrary,
+when hg 1s of the order or greater than H,, the grains have essentially a vertical motion, closer to a “granular spillway”
+situation, in which a finite volume of grains discharges into deep water (see Supplemental Material 48|). This regime
+departs from shallow water conditions and leads to the formation of the so-called nonlinear transition waves for
+which A,, < 0.45 hg 44]. Increasing the initial height H, of the column, while keeping the other initial parameters
+constant, systematically leads to higher values for the wave amplitude. In the following, the study focuses on shallow
+water waves (A,, = 0.45 hg), whose understanding is of significant importance for risk assessments as bore waves are
+potentially very destructive in enclosed fjords scenarios 8], while at the same time solitary waves can propagate and
+distribute part of the collapse energy far from the source.
+In the present configuration, the generated wave is a direct consequence of the granular collapse. Therefore, it is

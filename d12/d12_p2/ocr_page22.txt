@@ -1,0 +1,37 @@
+3.6 Korteweg—de Vries equation 22
+more important to the west of the rupture. Considering the Stokes number
+to be of order one leads to the following system in dimensional form?:
+Up + Uy + gny — Lh Uggs = 0, (44)
+ny + [u(h +n), — Lh Ug = 0. (45)
+The classical Boussinesq equations are in fact slightly different. They are
+obtained by replacing u with the depth averaged velocity
+1 [7
+— / udz.
+h J_
+They read
+Ur + Uy + gy — Lh uy = 0, (46)
+ne + [u(h +n). = 0. (47)
+A number of variants of the classical Boussinesq system were studied by
+Bona et al., who in particular showed that depending on the modeling of
+dispersion the linearization about the rest state may or may not be well-
+posed Bona et al. [2002].
+3.6 Korteweg—de Vries equation
+The previous system allows the propagation of waves in both the positive
+and negative x—directions. Seeking solutions travelling in only one direction,
+for example the positive z—direction, leads to a single equation for n, the
+Korteweg-de Vries equation:
+37) 1
++c [14+ = | ny + =cod* Nye = 0, 48
+co (14 5) mat goods (49
+where d is the water depth. It admits solitary wave solutions travelling at
+speed V in the form
+(x,t) sech” [ 4/ ia (x — Vt) ith V (1 + )
+r.t) =a — (x — wi = C —
+1] , Ad3 , 0 2d
+The solitary wave solutions of the Korteweg—de Vries equation are of elevation
+(a > 0) and travel faster than cy. Their speed increases with amplitude. Note
+that a natural length scale appears:
+[4d3
+( =] —.
+3a
+“Equations (44) and (45) could have been obtained from equations (28) and (30).

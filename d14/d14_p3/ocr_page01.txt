@@ -1,0 +1,55 @@
+Evaluating the relationship between strong ge... https://www.swsc-journal.org/articles/swsc/fu...
+By using this website, you agree that EDP Sciences may store web audience measurement cookies and, on some pages, Yes No
+cookies from social networks. More information and setup
+eCp sciences Journals Books Conferences Submit your paper & EDPS Account
+CJIWIOL All issues Accepted Manuscripts Topical Issues Agora About Q Search = Menu
+All issues » Volume 11 (2021) » J. Space Weather Space Clim., 11 (2021) 30 » Full HTML
+Topical Issue - Geomagnetic Storms and Substorms: a Geomagnetically Induced Current perspective Table of Contents
+Open Access
+Article contents
+Issue J. Space Weather Space Clim.
+Topical Issue - Geomagnetic Storms and Substorms: a Geomagnetically Induced Current perspective
+Article Number 30
+DOI https://doi.org/10.1051/swsc/2021013
+Published online 16 April 2021
+J. Space Weather Space Clim. 2021, 11, 30 Database links
+Evaluating the relationship between strong geomagnetic Metrics
+storms and electric grid failures in Poland using the Show article metrics
+geoelectric field as a GIC proxy
+Services
+Agnieszka Gil1-2*, Monika Berendt-Marchel3, Renata Modzelewska’, Szczepan Moskwa?,
+Articles citing this article
+Agnieszka Siluszyk]!, Marek Siluszyk1-, Lukasz Tomasik?2, Anna Wawrzaszek? and
+CrossRef (13)
+Anna Wawrzynczak3© Same authors
+- Google Scholar
+1 Siedlce University, Faculty of Exact and Natural Sciences, Institute of Mathematics, Konarskiego 2, 08-110 |
+- EDP Sciences database
+Siedlce, Poland
+2 Space Research Centre, Polish Academy of Sciences, Bartycka 18A, 00-716 Warsaw, Poland Recommend this article
+3 Siedlce University, Faculty of Exact and Natural Sciences, Institute of Computer Sciences, Konarskiego 2, Download citation
+08-110 Siedlce, Poland
+4 AGH University of Science and Technology, Faculty of Electrical Engineering, Automatics, Computer Science Related Articles
+and Biomedical Engineering, al. Mickiewicza 30, 30-059 Krakow, Poland
+Analysis of geomagnetically induced
+5 ope . . . . « _ .
+Military University of Aviation, Dywizjonu 303 35, 08-521 Deblin, Poland currents at a low-latitude region over
+© National Centre for Nuclear Research, Swierk, Andrzeja Soltana 7, 05-400 Otwock, Poland the solar cycles 23 and 24:
+comparison between measurements
+* Corresponding author: gila@uph.edu.pl and calculations
+J. Space Weather Space Clim., 5, A35
+Received: 30 October 2020 Accepted: 22 March 2021 (2015)
+Abstract Impulsive disturbances of the
+geomagnetic field as a cause of
+We study intense geomagnetic storms (Dst < =100nT) during the first half of the solar cycle 24. This type of
+oo induced currents of electric power
+storm appeared only a few times, mostly associated with southwardly directed heliospheric magnetic field Bz. ;
+Ines
+Using various methods such as self-organizing maps, statistical and superposed epoch analysis, we show that
+: oo J. Space Weather Space Clim. 2019, 9,
+during and right after intense geomagnetic storms, there is growth in the number of transmission line
+A18
+failures. We also examine the temporal changes in the number of failures during 2010-2014 and find that the
+growing linear tendency of electrical grid failure occurrence is possibly connected with solar activity. We Geolectric field measurement
+compare these results with the geoelectric field calculated for the region of Poland using a 1-D layered modelling and validation during
+1 of 15 27/09/2025, 18:16

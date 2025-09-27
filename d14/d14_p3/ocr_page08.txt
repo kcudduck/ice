@@ -1,0 +1,53 @@
+Evaluating the relationship between strong ge... https://www.swsc-journal.org/articles/swsc/fu...
+By usinggthis website, you agree that EDP Sciences may store web audience measurement cookies and, on some pages, Yes No
+cookies from social networks. More information and setup
+% above normalised sum of daily electrical grid failures (a), averaged over the number of events
+i (b) Dst-index[nT], (c) B~ [nT] component of HMF and (d) computed geoelectric field £ [mV/km],
+during the intense geomagnetic storms with Dst < —=100 nT and Bz < —-10 nT (case 3), for years
+2010-2014.
+SOM were applied to investigate the impact on the number of electrical grid failures of the selected
+heliospheric and geomagnetic data. Twelve parameters were selected for the analysis. Four of them are the
+number of electrical grid failures: caused by the aging of the infrastructure elements (group D), electronic
+devices (group E), having unknown reasons (group F), and the sum of groups D-F. The remaining 8 are the
+following data: strength of HMF B [nT] and its B- [nT] component, solar wind speed SWs [km/s] and proton
+density SWd [N/cm?3], as well geomagnetic indices: Dst-index [nT], ap-index [nT], AE-index [nT], K-index.
+We considered here the intense geomagnetic storms between January 2010 and July 2014 (case 3 described
+in the Sect. 2.1, details in the Table 1). Because of various delays between geomagnetic disturbances and
+transmission line failures appearance described in the literature (e.g., Zois, 2013; Gil et al., 2019, 2020a,b;
+Svanda et al., 2020), we considered here data sets where EGFs are: zero, one, two, and three days delayed in
+relation to the heliospheric and geomagnetic parameters. We compared our results with computations for an
+undisturbed period at the beginning of 2010 (control data set).
+The above-described data sets with a 3-hour resolution were selected as an input. Various sizes of the map,
+the different number of iterations, and the neighborhood distance function were tested. The optimal set of
+computations parameters were a 4 x 4 neuron grid, 100 iterations, and the link distance function.
+Our analysis showed that the most substantial relationship between the number of failures and considered
+heliospheric and geomagnetic data was observed for the data set without delay. Figure 6 presents an
+example of our analysis results for the intense geomagnetic storm on 15 July 2012. The SOM neighbor weight
+distances describe the weight assigned to the adjacent neurons’ distances, labeled as blue hexagons. The red
+lines show which particular neurons are connected and the colors in the areas containing the red lines show
+the weight of the connection between neurons. The lighter the color, the shorter the distance between
+adjacent neurons. Figure 6 also displays numerical representation of the adjacent neurons’ connection
+weights. A weight close to 1 means a shorter distance between neurons and more robust grouping into
+clusters in the studied space. The connection weights between neurons close to 0 mean that they are located
+far apart in the studied space. The parameters related to these neurons are not correlated with each other.
+Fig. 6
+SOM neighbor weight distances with weight values of connections between neighboring neurons
+=] for data without delay for the intense geomagnetic storm, 15 July 2012. The blue hexagons
+represent neurons, and the red lines show which particular neurons are connected. Colors from
+black to yellow display the weight values of the connection between neighboring neurons.
+In Figure 6, the parameters related to the individual neurons are plotted. They represent the distribution of
+data in the studied space. The Dst geomagnetic index and B- component of HMF related to the first neuron in
+the lower-left corner have been grouped into one cluster located at some distance in the studied space from
+the other parameters constituting the second cluster. This means that the Dst and By parameters are
+strongly connected, but not so with the others. In the lower-right corner are grouped parameters related to
+the number of electrical grid failures caused by aging of the infrastructure elements, group D (eighth neuron
+counting from the lower-left corner by rows), failures related to electronic devices, group E (seventh neuron),
+failures having unknown reasons, group F (third neuron) and the sum of groups DEF. The proton density is
+located near neurons related to the number of electrical grid failures at a distance of 0.82. Additionally, the
+geomagnetic ap-index, HMF strength B, and AE-index are located in the upper-right corner, while the solar
+wind speed and K-index are located in the upper-left corner. The light color of the connections between the
+neurons related to the parameters above proves that the SWd, B, and ap-index parameters significantly
+impact the number of electrical grid failures, especially on groups D and E. The AE-index, K-index, and SWs
+parameters also impact the occurrence of failures due to the grouping of these parameters in the same
+cluster. However, the greater distance from the neurons related to electrical grid failures expresses their
+8 of 15 27/09/2025, 18:16

@@ -1,0 +1,65 @@
+8
+geoelectric field estimates to a global conductivity model. would still have a global estimate of expected power loss,
+It is our belief that the methodology presented in this pa- but the exact locations of predicted outages would be
+per can be applied on a global scale and inform the de- unreliable.
+cisions of policymakers in regulating power distribution Similarly, the magnetotelluric data are still very lim-
+network resilience. ited, and while our method of normalising these data to a
+
+Our main analysis was limited to only two continents — reference location and, from there, extrapolating world-
+Europe and North America — due to a lack of quality data wide has the advantage of universality, it does come with
+in other regions; however, these two serve as very good a drawback of potentially over-generalisation. This can
+proofs of concept. The key results show that a severe lead to underestimating storm recurrence in some specific
+geomagnetic storm can severely affect millions of peo- regions.
+ple. We believe that rather than approaching our results Most importantly, we only consider transformer fail-
+as final, they should be considered as a starting point yre due to overheating; however, the safety switch cas-
+for further analysis and a powerful tool and framework cade failure scenario is also a very important avenue of
+for future work, where more accurate grid connections,  ipvestigation that should be explored in the future, as
+transformer designs and voltages, grounding resistances, well as other more complex interactions with the increas-
+and other specifics on a global scale can be used to obtain jnely complex digital infrastructure automatically rout-
+realistic results for a given region. The unpredictable and ing power through the electrical grid.
+rare nature of coronal mass ejections impacting Earth Overall, to our knowledge, the approach proposed in
+makes the risk assessment much Hore difficult SINCE, at this paper is the first of its kind in assessing power distri-
+the time of writing this manuscript, it 1s virtually HIPOS- bution network resilience to GICs and can be broadly ap-
+sible to say what precisely the chances of a 1-1n-10000 plied at municipality, country, continent or even a global
+yeal storm occurring within the next decade are. While level to inform governing bodies and private entities alike
+it SCCLLLS prudent and most likely cost-effective to pIepate of the dangers associated with transformer overheating
+the grid for severe storms instead of waiting for failures during geomagnetic storms.
+to happen, a global-scale complete power outage does not
+seem possible with the assumptions we have made in our
+model.
+
+With that said, the data we have used to predict HVT DISCLOSURE STATEMENT
+overheating is limited. Our grid model relies on poten-
+tially incomplete or incorrect infrastructure data crowd- Authors report that there are no competing interests
+sourced by OpenStreetMaps, due to the lack of official to declare.
+public high voltage infrastructure data. However, this
+does not represent a failure of the model, as electrical
+utilities and government agencies can readily replace our
+orid map with their own private data for enhanced pre- DATA AVAILABILITY STATEMENT
+diction accuracy.
+
+One could potentially adapt our model to use a charac- All data used in this research are publicly available.
+teristic power line length or a synthetic network instead The program source code and instructions on how to pro-
+of real data, but this leads to the problem of losing re- cure the data can be found in the github repository of the
+gional precision in predicted transformer outages. We project: https://github.com/allfed /GeomagneticModel.
+
+[1] D. Alekseev, A. Kuvshinov, and N. Palshin, Compila- [5] H. Schulte in den Baumen, D. Moran, M. Lenzen,
+tion of 3D global conductivity model of the Earth for I. Cairns, and A. Steenge, How severe space weather can
+space weather applications, Earth, Planets and Space 67, disrupt global supply chains, Natural Hazards and Earth
+1 (2015), https://globalconductivity.ocean.ru/. Ac- System Sciences 14, 2749 (2014).
+cessed: 2023-12-11. 6] J. Eastwood, M. Hapgood, E. Biffis, D. Benedetti,
+
+2] Simon Blouin, Florian U. Jehn, and David C. Denken- M. Bisi, L. Green, R. Bentley, and C. Burnett, Quan-
+berger, Cascading Consequences: Estimating Indu.strial tifying the economic value of space weather forecasting
+Production Decline Following Nuclear War, Manuscript for power grids: An exploratory study, Space Weather
+in preparation. (2024). 16, 2052 (2018).
+
+[3] P. A. Bedrosian and J. J. Love, Mapping geoelectric fields [7] G. S. Lakhina and B. T. Tsurutani, Geomagnetic storms:
+during magnetic storms: Synthetic analysis of empirical historical perspective to modern view, Geoscience Letters
+united states impedances, Geophysical Research Letters 3, 1 (2016).
+
+42, 10 (2015). [8] J. F. Organek, Black sky hazards: Resilience planning,
+
+[4] A. Kelbert, The role of global /regional earth conductivity in Congress on Technical Advancement 2017 (2017) pp.
+models in natural geomagnetic hazard mitigation, Sur- 29-40.
+veys in Geophysics 41, 115 (2020).

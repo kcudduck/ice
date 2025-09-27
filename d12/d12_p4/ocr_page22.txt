@@ -1,0 +1,81 @@
+Yedl : =
+MI Journal of Geophysical Research: Oceans 10.1029/2020JC017011 2
+AND SPACE SCIENCE 2
+1 = | kyx+k i sinh| kh —Z Po ky, k 1 g
+
+oe Tae = ale)
+
+(27) = py cosh (kh) ko wf £
+
+(A8) 5
+
+1 © i(k x+kyy) PO k.,k,|sinh| k(h, —z =
+
+=— J] dk, dk, ’ o) polled) sob 2), — cos (wot) |H (7) g
+
+(27) oo Lo8o sinh ( kh ) Z
+
+where we used the dispersion relation @, = ,/g,k tanh ( kh, ). This is the same as Equation 1,25. =
+
+Appendix B: Tsunami Generation Due to Sea-Bottom Deformation :
+
+This appendix derives the equations for tsunami generation due to sea-bottm deformation with the S
+
+propagator matrix method. The 3-D linear momentum equation (Equation 1), stress tensor (Equa- E
+
+tion 2), and no-dilatation equation (Equation 3) are the same as those used in the surface pressure E
+
+change source. >
+
+oul x, ys 21) E
+
+posh = xt pg [Vie (Vue By 7
+
+T(x, y, 21) — -p(x. y, 21) (B2) £
+
+V-u=0 (B3) =
+
+The boundary condition at the sea surface is :
+
+—]
+
+p(x 2 0,1) = 0. (B4) ’
+
+:
+
+The vertical displacement at the sea bottom is given by :
+
+1 © n i| kyx+kyy Z
+
+(x. y, ho») =u, (x,y)H 2) = —— II dk dik, , ) d Ja (1) (B5) =
+
+(27) :
+
+for a sudden sea-bottom deformation. 2
+
+|
+
+Using the same procedure as for Equation 13, we obtain =
+
+U. (kes ky» ho, 0) (An(re) Anh) Uk. ky 0. o) (86) :
+
+T. (= k,, hy, o) Ay (ho) Ag) (ho) 0 :
+
+where the matrix A(z) is the same as Equation 11 and 2
+
+Uk,» ky» hy, 0) = ——i(ke ky) (B7) :
+
+For example, we show the procedure for deriving the ocean-bottom pressure change p(x y, hy, f) Equa- Z
+
+Oo
+
+tion B6 gives 4
+
+Ag (1) :
+
+I, (Kyo ky hg, 0) = an) Ue rk os 0). (B3)
+
+:
+
+EE EE E————————— :
+SAITO ET AL. 220f29  §

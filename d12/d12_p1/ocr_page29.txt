@@ -1,0 +1,34 @@
+(a)
+7.50
+|
+7
+4.51
+E
+jo;
+0 4.0
+CQ
+v9
+S 3.5
+2
+©) 3.0
+1.00
+>
+© 0.95
+=
+>
+Z 0.90
+O
+S
+© 0.85
+=
+[rs
+0.8
+Y50 200 250 300 350
+Distance to Shoreline (m)
+Figure 4: The estimated flow speeds and Froude numbers from TSUFLIND. a:
+Tsunami flow speed estimates are indicated by the gray area with the boundaries
+of maximum and minimum possible speeds. The dashed line is the average value
+of estimated flow speeds. b: Froude number estimates are indicated by the gray
+area in this figure with the maximum and minimum possible values. The dashed
+line is the average value of Froude number.
+29

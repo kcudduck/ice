@@ -1,0 +1,33 @@
+The role of geomagnetic storm-induced energet... https://www.scliencedirect.com/science/article...
+resultant modification of ionospheric electron density still lack in-depth knowledge.
+Furthermore, the transit speed and time of arrival estimations of interplanetary
+coronal mass ejection (ICME), which constitute important aspects of accurate space
+weather forecasting (Anatoly et al., 2022), have been shown to depend not only on the
+initial speed but also on the longitude of the solar source (Hildner et al., 1976; Anatoly
+et al., 2022). In view of these, the current study investigates the production of EPPs in
+relation to the drivers and intensities of the geomagnetic storms and the subsequent
+responses of the ionosphere to EPPs over the African sector and then compares the
+results with the results from the American sector. For this longitudinal comparison,
+eight disturbed periods across twelve GNSS stations spanning through the low-, mid-,
+and high-latitude regions in the American and African longitudinal sectors were
+considered.
+
+Access through your organization
+Check access to the full text by signing in through your organization.
+| Access through your organizatipr
+Section snippets
+Data and method of analysis
+We selected and analyzed four moderate storms and four intense storms that occurred
+during solar cycle 24. The storms were classified by using Dst threshold conditions
+defined by Gonzalez et al. (1994); great (intense) storms are those with a peak density
+of —100nT or less, moderate storms fall between -50nT and —100nT, and weak storms
+are those between -30nT and -50nT. The storms were further classified based on their
+drivers (e.g., Echer et al., 2008; Arowolo et al., 2021). This selection was ...
+Moderate storms
+Fig. 2, Fig. 3 show the events of the moderate CIR-driven storms of 28 May 2011. The
+Bz and temperature values at the time of the commencement of the storm were
+—-10.7nT and 29900K respectively. The maximum wind speed 1s 767 km/s and occurred
+on the 29th of May at 11:00UT. There was an increase in the other IMF and wind
+parameters in the main phase. The storm showed enhancement in both electron flux
+and proton flux during the recovery phase, which commenced around 14:00UT on the
+5 of 8 27/09/2025, 18:11

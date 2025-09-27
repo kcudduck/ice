@@ -1,0 +1,77 @@
+2164 H.S. Kang, C.-H. Song / Nuclear Engineering and Design 240 (2010) 2160-2168
+E = Bead neal Teens
+1m] Ero] my [x=foom
+> a, = “NY 5
+© I 3 08 RN
+5 075 WW, a=0.082 0 ENE
+pi ER @ 06 ARNG
+- hh, pe | og 044 NT Bo
+23 =» Casef MIRA, a | |» esa) “a eea—a=0.070
+§ 025 . Case2 RON a=0066|  B 02) * Case? “150M (2=0.066
+@ . Case3 Sart | = +» Cased 2 Wh
+£ 0.00] ¥ Cased NN E v Cased EAL
+= + Cased Cl | 3 0.04 . Cases Fo
+Te —( fe gretz]
+0.0 0.5 1.0 1.5 2.0 2.5 06: 0540.) 45 20. 25. 30-35
+Radial Distance from Jet Center (cm) Radial Distance from Jet Center (cm)
+= 1.00 oh LF | x= 16cm | E 1.00 A. : Xx = 20cm
+= . 7 ° * x =20cm |
+= an . hp S hy s+
+er dh . - <7} Et
+o 0.75 SOR ~ 075 EN. a
+3 a OX N & = : Res 2
+e RAH a=0.082 © he—ea=0.082
+2 0.50 BRE : a=0.076 a 0.50 Pu) - a=0.076
+= Casef “sea=2a=0.070 S he a=0.070
+su Case “arn, Vo Ad [a a 7
+~~ a=0.066 $5 E
+F 0254 . Case? NN © 025 > 2=0.066
+| Lo N hy
+= » Cased a rk = Sa
+E v Cased RAR £ te
+5 0.004 . caces a E 0.00 x
+a Zz
+0.0 05 10 15 20 25 3.0 35 40 45 0.0 0.5 1.0 1.5 2.0 2.5 3.0 35 4.0 45 50 5.5
+Radial Distance from Jet Center (cm) Radial Distance from Jet Center (cm)
+Fig. 5. Comparison of the measured temperatures in the radial direction with Tollmien’s theory (average T,, of Case-1-Case-5=15.7, 27.8, 31.7, 36.8 and 39.3°C).
+
+In Eq. (1), “yc” is the characteristic length in the radial direction temperature (Eq. (3)) at the jet centerline, based simply on the test
+from the jet centerline to the location at 50% of the Uy. In general, results, was also proposed and the error of this correlation was
+yc 1s dependent on the axial distance from the discharging nozzle about +£20%.
+exitin a single phase jet, whereas y. for the turbulent jet induced by The correlations for the velocity and temperature distributions
+a condensing steam may vary depending on the condition of steam of a turbulent jet at the centerline were developed based on our
+properties and the pool water temperature. Thus, a new variable measured data along the axial locations of only 8-20 cm away from
+of ‘x — L’, of which the physical meaning is the length between the the exit of the steam discharge hole. In order to apply these cor-
+end of a steam jet penetration length (L) (Kim et al., 2001) and relations to other regions outside the measurement region, the
+the measured location (x) along the axial location, is introduced to correlations should be validated against the test results by per-
+account for the effect of the steam mass flux and the pool water forming some supplementary tests. In the experiments, however,
+temperature. The correlation for yc, defined by Eq. (2), using the the turbulent jet may be disturbed if a Pitot tube-TC spool moves
+new variable was developed with an error of 10% based on the test closer to the exit of a steam discharge hole to measure the veloc-
+results (Kang and Song, 2008). And a correlation for the maximum ity and temperature distributions. In this study, therefore, the CFD
+
+EE
+C BIENIRIERE | CC
+Air Region Extended Region Bid
+== 8
+TREN AOE er-P LY. (700 mm) (500 mm) BENE
+fl Bagh my dy ma fg Bl a © ET —
+a Te Le aires BF SEER § 2 I~ HIER B= & f= sian
+ME ine || ||| IEEE
+HEELS Sims SSE SS REE CR ===
+SIRE ses ipEs sso ammaim TmgEe LE 2,000 mm
+IER aSss EER a EERE = THEIR — H=HTE=tig
+EE iSSSiESS=se EE i Hi i SEssiEEen
+=] = HE Ea s=— = =F gE §55 | i | oH T} EE
+— Ee = FEEEE
+S L1H BI S40 E Sil OB Hs ERE
+180 mm [El ee EE EE Lh EE
+Ha “hie
+B—JEMMIESt inlet gH gL | EERE
+HE loo a1 as Lid go — :
+EE = Region ===uizf4 Radial(y)
+[80 mm |i sw ana TET sie=ify]
+«od Fis 1 == A a
+PERS A em ofa i  B ed p e | na SR
+Dini 3 at mn 7 om mh mm ioe nm mn = = oni Yi eere——— ris
+g0mm EEE 320mm EEEEEEE E81 | memmemmnted Axial (x)
+Fig. 6. Axi-symmetric grid model.

@@ -1,0 +1,34 @@
+ion auroral hemispheric power, J. Geophys. Res., 113, A06311,
+do1:10.1029/2007JA012866.
+
+Farrugia, C. J., V. K. Jordanova, M. F. Thomsen, G. Lu, S. W. H. Cowley, and K. W.
+Ogilvie (2006), A two-ejecta event associated with a two-step geomagnetic
+storm, J. Geophys. Res., 111, A11104, do1:10.1029/2006JA011893.
+
+Fuller-Rowell, T. J., and D. S. Evans (1987), Height-integrated Pedersen and Hall
+conductivity patterns inferred from the TIROS/NOAA satellite data, J. Geophys.
+Res., 92, 7606-7618, do1:10.1029/JA0921A07p07606.
+
+Green, J. L. and S. Boardsen (2006), Duration and extent of the great auroral storm of
+1859, Adv. in Space Res., 38, 130-135.
+
+Kataoka, R. (2013), Probability of occurrence of extreme magnetic storms, Space
+Weather, 11, do1:10.1002/swe.20044, 214-218.
+
+Kozyra, J. U., W. B. Manchester IV, C. P. Escoubet, S. T. Lepri, M. W. Liemohn, W.
+D. Gonzalez, M. W. Thomsen, and B. T. Tsurutani (2013), Earth’s collision with
+a solar filament on 21 January 2005: Overview, J. Geophys. Res. Space Physics,
+118, 5967-5978, do1:10.1002/3gra.50567.
+
+Lakhina, G. S., S. Alex, B. T. Tsurutani, and W. D. Gonzalez. Research on Historical
+Records of Geomagnetic Storms. In K. Dere, J. Wang, and Y. Yan, eds., Coronal
+and Stellar Mass Ejections, vol. 226 of IAU Symposium, 3—15, 2005.
+
+Li, Q., Y. Gao, J. Wang, and D.-S. Han (2009), Local differences in great magnetic
+storms observed at middle and low latitudes, Earth Planets Space, 61, 995-1001.
+
+Li, X., M. Temerin, B. T. Tsurutani, and S. Alex (2006), Modeling of 1-2 September
+1859 super magnetic storm, Adv. Space Res., 38, do1:10.1016/7.asr.2005.06.070,
+2773-279.
+
+13

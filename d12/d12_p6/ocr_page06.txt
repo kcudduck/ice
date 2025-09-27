@@ -1,0 +1,31 @@
+2011a). The bathymetry source term 1s discretized using the hydrostatic reconstruction technique, which implies the well-
+balanced property of the numerical scheme (Gosse, 2013).
+0.1 0.1
+B 50m 120 m
+- 0.05 0.05
+0.1 50 100 150 200 0 50 100 150 200 250
+. 200m 245.3 m
+= 005 0.05
+50 100 150 200 250 50 100 150 200 250
+t, s t, s
+Figure 2: Water elevations along the 251 m long constant depth section of the Large Wave Flume (GWK), ho = 3.5 m,
+A=01m,T=20s, tana = 1:6: results of numerical simulations are shown by the red line, and experimental data are
+shown by the blue line.
+The numerical scheme 1s validated against experimental data of wave propagation and run-up in the Large Wave Flume
+(GWK), Hannover, Germany. The experiments were set with a flat bottom with constant depth hop = 3.5 m and length
+[a, b] = 251 m, and a plane beach with a slope tan a = 1:6 (see Fig. 1). The flume had 16 wave gauges along the constant
+depth section and a run-up gauge on the slope. The incident wave had amplitude, A = 0.1 m, and period, T = 20 s. The
+detailed description of the experiments can be found in Didenkulova et al (2013). The results of numerical simulations are in
+a good agreement with the laboratory experiments as along the constant depth section (see Fig. 2) as also on the beach
+(Fig. 3). The comparison of run-up height calculated numerically and analytically using the approach described in Section 2
+with the experimental record in shown 1n Fig. 3. It can be seen that the experimentally recorded wave 1s slightly smaller
+which may be caused by the bottom friction and especially on the slope. Both numerical and analytical models describe the
+first wave of positive polarity rather well. The numerical prediction of run-up height is slightly higher than the analytical
+one. This additional increase in the run-up height in numerical model may be explained by the nonlinear interaction with the
+reflected wave, which 1s not taken into account in the analytical model. The wave of negative polarity 1s much more sensitive
+to all the effects mentioned above than the wave of positive polarity and, therefore, looks different for all three lines in
+Fig. 3. By introducing additional dissipation in numerical model one can easily reach perfect agreement between the
+numerical simulations and experimental data. However, we do not do so, since below we are focusing on the analysis of
+analytical results and for clarity would like to avoid additional parameters in the numerical model. Also, we focus on the
+maximum run-up height and, therefore, expect small differences between the results of analytical and numerical models.
+6

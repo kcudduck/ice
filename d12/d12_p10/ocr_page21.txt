@@ -1,0 +1,72 @@
+Arrival time (min) Amplitude (m) 21
+1000 800 600 400 200 0 0 0.5 1 1.5 2 2.5 3
+v : 3S
+chit 3
+v v HV)
+jack : Aa
+Vv v : (D
+SYOwW LD
+rich Lo
+M M CE
+zanz : =
+v v :
+lamu Hr
+v v =
+okha IN
+v v : ©
+laru =
+v v a
+sala FD =
+v v CA
+blueb 5
+v v :
+
+. marm y =o
+coch ©
+garc Lo
+
+v v FS
+hani : S
+v v :
+; tuti : =
+R=1.0 R=0.79 ;
+NRIISD = 0.011 v _— vY ~~ NRMSD=0.195 ®
+NMAD = 0.003 - male v NMAD = 0.104 NR
+NNSE = 0.999 parad NNSE = 0.709 =
+v v CX
+colo
+v v
+chenn
+v v
+vish
+v v
+cocb
+1000 800 600 400 200 0 0 1 2 3
+Figure 13. Comparison of observed and simulated first peak values for travel time and amplitude for the Indian Ocean tsunami event
+of 26 December 2004. The location of each station is indicated in figure 3, and the details are shown in table 1.
+completely depend on the initial deformation, bathymetry and the physical parameters used for the
+modelling. From figure 15, the highest recorded first peak arrival heights were observed at Yakutat,
+Alaska (figure 15; yaku), with a height of 1.3 m, followed closely by Sitka, Alaska (figure 15; sitk) at 1
+m. These observations indicate the tsunami’s impact on coastal areas closer to the epicentre. Moving
+away from Alaska, the tsunami waves travelled southwestward, affecting coastal regions along the
+Pacific Ocean. As the waves propagated across the Pacific Ocean, their heights gradually reduced at
+locations farther from the earthquake’s epicentre. For instance, coastal locations in Washington state
+and California, such as Neah Bay (figure 15; neah), San Francisco and Los Angeles, recorded lower first
+peak arrival heights ranging from 0.3 to 0.6 m. Ensenada, Mexico (figure 15; ense), experienced a high
+first peak arrival height of 0.9 m, indicating the continued propagation of the tsunami across the Pacific
+Ocean. The tsunami reached Peru and Chile with varying arrival heights, ranging from 0.2 to 0.6 m at
+locations such as Talara (figure 15; tala), La Punta (figure 15; call), Arica (figure 15; aric) and Talca-
+huano (figure 15; talc). The tsunami waves travelled further across the Pacific Ocean, reaching the
+Hawaiian Islands. Honolulu (figure 15; hono), Kahului (figure 15; kahu) and other Hawaiian locations
+(figure 15; moku, midx) recorded arrival heights ranging from 0.2 to 1 m, indicating the impact of the
+tsunami on these distant islands.
+Figure 16 shows the observed and simulated values for the first peak arrival time and amplitude at
+various stations during the Alaska 1964 tsunami event. The stations are arranged in ascending order
+of distance from the epicentre (top to bottom). The majority of stations have perfect matches to small
+differences in arrival times and amplitudes. Stations like 'yaku' and ‘alam’ exhibit differences in both
+arrival times and amplitudes, highlighting the areas needing improvement. From figure 16 and looking
+at the statistical performance metrics displayed, overall, the model performed well but requires further
+refinement for consistent accuracy across all the stations. The electronic supplementary material, table
+S56, presents various statistical metrics to evaluate the performance of ADCIRC-modelled tsunami wave
+height across different stations, as shown in figure 15. Regression analysis shows high significance
+percentages at many stations, suggesting a strong statistical reliability in the results. The NRMSD

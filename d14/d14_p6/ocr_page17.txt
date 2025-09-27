@@ -1,0 +1,31 @@
+References
+
+[1] J. J. Love, “Some experiments in extreme-value statistical modeling
+of magnetic superstorm intensities,” Space Weather, vol. 18, no. 1,
+p. €20195W002255, 2020.
+
+2] J. J. Love, G. M. Lucas, A. Kelbert, and P. A. Bedrosian, “Geoelectric
+hazard maps for the mid-atlantic United States: 100 year extreme values
+and the 1989 magnetic storm,” Geophysical Research Letters, vol. 45, no. 1,
+pp. 5-14, 2018.
+
+13] Electric Power Research Institute (EPRI), Palo Alto, CA: 2019.
+3002017708., “Transformer thermal impact assessments for dc
+withstand capability: Examining the impacts of geomagneti-
+cally induced current (GIC) on transformer thermal performance.”
+Accessed: 2023-12-12.
+
+[4] Electric Power Research Institute (EPRI), EPRI, Palo Alto,
+CA: 2017. 3002009001, “Magnetohydrodynamic electromagnetic
+pulse assessment of the continental U.S. electric grid: Geo-
+magnetically induced current and transformer thermal analysis.”
+Accessed: 2023-12
+12.
+
+5] J. G. Kappenman and B. W. Mcconnell, “Meta-R-322 low-frequency
+protection concepts for the electric power grid: Geomagnetically
+induced current (GIC) and E 3 HEMP mitigation.” Metatech
+Corporation, 358 S. Fairview Ave., Suite E, Goleta, CA 93117
+2010.
+
+7

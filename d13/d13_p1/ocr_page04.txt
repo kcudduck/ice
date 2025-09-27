@@ -1,0 +1,67 @@
+H.S. Kang, C.-H. Song / Nuclear Engineering and Design 240 (2010) 2160-2168 2163
+It is noted that the point of the turbulent source in the theory is - =
+assumed to be located at the center point of a single discharge hole = 1004 x =8cm | : ag
+of the sparger. = 1 + Case3 ||
+In order to elucidate the effect of a condensing steam jet on the = 075 “A ~0.082 v Cased |
+turbulent jet, it is necessary to evaluate the spreading width of a = S\N oo ? lowmte |
+turbulent jet quantitatively by comparing it with the value of a sin- PE 0.50 TY add |
+gle phase turbulent jet predicted by Tollmien’s theory, because a Z Eo, —a=0.070 |
+liquid entrainment into a steam jet region from the surrounding N ik ROX a=ll.068
+pool water may increase the jet width of a turbulent jet. It was also e rR
+observed that the diameter of the vapor core in the steam jet was o nS
+expanded to 1.63 times that of a discharging hole while the steam < 0.00 RE
+jet propagates with an ellipsoidal shape under a steam mass flux of —
+about 1000 kg/m? s (Kim et al., 2001). The comparison of the nor- ad 20. 10 Li et ef
+malized radial velocity of the test results with Tollmien’s theory at Radial Bistance fom Jet Gentaricm)
+the axial locations of 8, 12, 16 and 20 cm are shown in Fig. 4. The Goes
+coefficients for ‘a’ (defined in Table 1) relevant to the spreading of ~~ 1.00 ~, |x =12cm | , Case?
+a single phase jet are recommended to be 0.066, 0.070 and 0.076 = RY + Case3
+from the theory (Abramovich, 1963). From our comparisons, how- 2 0.75 RN ; Si
+ever, the velocity distribution predicted using these values of the = ROY a=0.082 SANA
+a-coefficient does not agree well with the test results as shown in $ 0.50 RAY a=0.07/6
+Fig. 4, whereas the theory's solutions predict the test results well = Roo a=0.070
+when the coefficient of a=0.082 is used instead. This indicates that N 0.25 “in-a=0.066
+the extent of the radial spreading of a turbulent jet induced by a E RENN
+condensing steam jet is about 10-25% larger than that of a single S pee. eo
+phase turbulent jet induced by the effect of an entrainment and Geto iY aa
+expansion phenomena. 00 05 10 15 20 25 30 35
+The radial distribution of the normalized temperature is com- iy x
+pared between the test results and Tollmien’s theory using the Radial Distance from Jet Genter (cm)
+coefficient of ‘a’ in (Fig. 5) at each axial location of 8, 12, 16 and ep ———— T
+20cm. At 8cm, the values predicted by Tollmien’s theory with _. 1.00 X o 16cm | vw Casel
+“a=0.082" agreed well with the test data, whereas the predicted F Thy rane
+values are lower than the test data at 12, 16 and 20cm. It can S G7 wer v Cased
+be deduced that these differences may be mainly caused by using 2 RS a=0.082 + Caseb
+increased values of the average pool water temperature (T,, ) which 3 ne 2=0.076
+was used for the normalization process of the test data along the S 0A EN 2 0.070
+radial direction at each axial location. In the experiments, the tem- 9 RN a
+perature difference, AT (=Tm — To ), measured at the jet centerline = 0.25 N+ 3=0.066
+was decreased due to an increase of the average T,, when compared = Ry
+to the instant temperature of T,, measured at the jet centerline. In 9 fT
+the case of the local temperature difference of AT (=T(x, y) — Tso), aR Ee TAT
+the situation is reversed: it is clear that the difference between the EA Ne Sl PR JR FE SRG TR
+local measurement of the water temperature at each radial direc- Sw El :
+tion and the average pool water temperature is smaller at 16 and Radial Distance from Jet Center (cm)
+20 cm than at 8 cm. It is expected, from the fact that the comparison |
+of the velocity results at those axial locations shows a good agree- ~ 1007 x= 20cm | |
+ment, that the dimensionless temperature distributions at 12, 16 =) ke
+and 20 cm will agree well with the values predicted by Tollmien’s 2 0.75 RAY a=0.082
+theory using a constant value of the pool water temperature. = RR 2=0.076
+The velocity and temperature distributions inside the turbulent = x 2 BN 2=0.070
+jet along the radial direction at each axial location can be estimated 2 Fe ) 2=0 086 |
+when using Tollmien’s theory with a value of a=0.082. However, N BAN :
+the maximum velocity (Un), predicted by Tollmien’s theory, exist- 4 0.25 RONAN
+ing along the centerline of a turbulent jet cannot be obtained easily S RN
+because of the steam condensation phenomenon: in this turbulent < 300 A E———
+jet region, the velocity of the condensed water at a downstream BE eS SUP Seas pr es — ed
+part is less than 5% that of the steam velocity at the end of a steam 0.0 05 1.0 1.5 20 25 30 3.5 4.0 45 50 5.5
+jet region due to that fact that the water density is about 1000 times Radial Distance from Jet Center (cm)
+larger than that of the Ssh Therefore, a correlation to predict the Fig. 4. Comparison of the measured velocity in the radial direction with Tollmien’s
+maximum velocity at a jet centerline is proposed as Eq. (1), which theory (a =0.066, 0.07, 0.076, 0.082, ® = y/ax).
+can be calculated with the help of a previous correlation and the
+test data (Del Tin et al., 1983; Kang and Song, 2008). The error of
+this correlation is less than +10%.
+yc =0.11(x-L)+0.3d (2)
+dU
+Un = 0.95—= Je (1) mx 1) — e7Yc[0.36(x — L) + 1.84] (3)
+©.@)

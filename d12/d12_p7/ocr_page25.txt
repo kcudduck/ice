@@ -1,0 +1,37 @@
+Confidential manuscript submitted to Journal of Geophysical Research: Oceans
+
+Xi(t) — L/2 , with L being the wavelength, 900 km), whereas panel (c¢) records the maxima
+elsewhere. Both the leading and trailing waves are produced at the same time and location (the
+explosion at the volcano) but propagate at different celerities and the distance between them
+increases progressively. Thus, there 1s an area near Tonga in which they overlap, which 1s bounded
+by the dashed line circle. At any location outside the circle, which has a radius of approximately
+2,200 km (based on the pressure wave celerity, 319 m/s, free wave celerity, 198 m/s, and
+wavelength, 900 km), the leading and trailing waves can be perfectly distinguished.
+
+The wave amplitudes linked to the leading wave, shown 1n panel (b), are significantly larger
+in the near-field, where the atmospheric pressure 1s higher (see Figure 3). The maximum amplitude
+measured 1s approximately 10 cm. The area with the highest amplitudes 1s linked to the Tonga
+trench, where the depth 1s in the excess of 10,000 m (see the dark shade of blue line east of Tonga
+in Figure 1). Therefore, the local wave celerity of the free waves over the trench 1s roughly 313
+m/s, while the speed of atmospheric pressure waves 1s about 319 m/s, producing a Froude number
+very close to 1 (the critical condition), which 1s commonly associated with the Proudman
+resonance condition (Proudman, 1929). This effectively translates in an increase of the rate at
+which the atmospheric pressure disturbance transfers energy to the sea, which in turn produces a
+higher response of the free surface (i.e., larger waves). In addition, locked waves propagating over
+steep bathymetry features (e.g., ridges and trenches) are known to produce scattering of free waves
+(Vennell, 2007). These two processes can explain the fact that the wave height 1s significantly
+larger 1n the vicinity of Tonga’s trench in panel (b), and especially on the east side, which 1s
+“downstream”.
+
+Regarding the tsunami wave amplitude associated with the trailing waves, shown in panel (¢),
+it 1s clear that the amplification effect over the Tonga Trench plays a significant role 1n the large
+amplitudes observed in the Southeast Pacific as well. The amplitudes of the trailing waves in the
+North-West Pacific are negligible (generally smaller than that of the leading wave). Since the
+pressure forcing function is perfectly uniform in space and extends as a perfect circle with its center
+at Tonga, this indicates that the trailing wave produced initially by the pressure model 1s not likely
+to have produced the large waves in the South-East Pacific. Instead, it 1s highly likely that those
+have been produced by the free scattered waves generated as the pressure wave propagates over
+Tonga Trench instead (Vennell, 2007), as just mentioned. These free waves travel at the long wave
+celerity, which 1s slower than the pressure wave celerity and progressively separate from it.
+
+25

@@ -1,0 +1,58 @@
+1892  T. Saito
+(a) 80 sec. (b) 100 sec.
+[m] 0.5 [m] 0.5
+0.0 0.0
+Sea surface
+[m] 0.5 [m] 0.5
+0.0 0.0
+Sea bottom
+CESS IR YT Seg TT ITNAYR SY BV YT
+10 Ground 10 S
+20 20 =
+Km Km o
+[km] 30 [km] 30 S
+@
+40 40 3
+-200 -100 O 100 200 300 -200 -100 O 100 200 300 S
+>
+5
+«a
+(c) 120 sec. (d) 200 sec. 2
+[m] 0.5 [m] 0.5 >
+0
+5
+0.0 F - 0.0 Q
+®
+=]
+=
+3
+[m] 0.5 Im] 0.5 =
+0]
+N
+So
+7
+WA. IFAM SN «IBA | Wh JIA AL AAS. MAL IAT LT LL As <
+10 10 S
+20 20 LS
+Km Km —
+km] 5 A km] 5 V4 E
+40 40 <
+-200 -100 O 100 200 300 -200 -100 O 100 200 300 =
+0
+™
+damm 222200 P
+-0.050 -0.025 0.000 0.025 0.050 Z
+Velocity [m/s] 2
+Figure 5. Simulation results of the source duration 1s given by 7. = 4 s for the various elapsed times: (a) 80 s; (b) 100 s; (¢) 120 s and (d) 200 s. Vertical- S
+displacement distributions at the sea surface (blue) and at the sea bottom (black) are plotted in the upper bin. Vertical-velocity distribution in the vertical cross On
+section 1s displayed with a colour map in the lower bin. The sea depth 1s 4 km (0 < z < 4 km). The black line in the crust indicates the earthquake fault.
+short-duration earthquakes are in good agreement. Fig. 6(b) verifies studies (e.g. Inazu ef al. 2016a). In order to confirm whether the two-
+this agreement of the sea-surface deformation for long and short step method can rigorously reproduce the surface height distribution
+durations. as the elastic equations of motions (eqs 2 and 3), we compare our
+simulation results of the elastic equation with the initial tsunami-
+3.2 Validating a two-step method for sea-surface height distribution calculated by the two-step method. So
+ers In the two-step method, the initial tsunami-height distribution 1s
+height distribution :
+obtained by applying a spatial low-pass filter, often referred to as the
+A two-step method using Okada’s code and Kajiura’s equation 1s Kajiura filter (e.g. Takahashi 1942; Kajiura 1963), to the vertical-
+often used for setting the initial conditions in numerous tsunami displacement distribution at the sea bottom (e.g. Tanioka & Seno

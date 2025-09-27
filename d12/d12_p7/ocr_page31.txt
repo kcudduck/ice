@@ -1,0 +1,34 @@
+Confidential manuscript submitted to Journal of Geophysical Research: Oceans
+Appendix B. Comparisons with Lynett et al.’s model
+
+Lynett et al. (2022) have presented an alternative model to describe the atmospheric pressure
+and numerical simulations of the induced tsunami. The atmospheric pressure wave 1s formulated
+by defining the crest and trough independently to produce the distinctive N-wave shape. The crest
+and trough present the same basic shape (exponential curves decaying with the square of the phase),
+but each one has its own amplitude, celerity and wavelength (or wave period). These three are
+functions of time and that have been found using the available atmospheric pressure data. Lynett
+et al. (2022) adopted pressure data obtained from 134 weather stations with a sampling frequency
+of 6-10 minutes, located all around the globe. Thus, the measurements from some of those stations
+may be affected by the surrounding topographical features, unlike those carefully selected 1n this
+work. Lynett et al’s model offers a high flexibility, with 6 main parameters, and can account for
+the changes in wavelength of the pressure wave. In contrast, the model proposed in this paper
+(Equations 1-6) offers only 3 parameters (the amplitudes of crest and trough and the joint celerity),
+considering a constant wavelength.
+
+Apart from the differences in the empirical atmospheric models, there are significant
+differences 1n the simulation procedure, as follows. On the one hand, while Lynett et al.’s model
+adopted a Cartesian coordinate system based on the azimuthally equidistant projection, the present
+model uses spherical coordinates, which 1s a more physical representation of reality. In addition,
+we have accounted for Coriolis force. On the other hand, Lynett et al.’s model considered
+additional wave generation mechanisms (e.g., caldera collapse) on top of the atmospheric pressure
+wave, which introduce shorter waves 1n the system, whereas the present model only considers the
+latter. As a result, Lynett et al.’s model 1s based on the Boussinesq equations, which account for
+the frequency dispersion effect, while the present model adopts a (non-dispersive) LSWE model.
+
+In order to allow a direct comparison between the performance of both models, Lynett et al.’s
+results have been analyzed and presented in Figure 14, which can be directly compared with Figure
+9. In both cases the arrival time data 1s virtually the same, and very close to a perfect fit. Regarding
+crest and trough amplitudes, the R? is very similar or slightly better in Lynett et al.’s (2022) case,
+while the root mean square error (RMSE) metrics are higher by approximately 20% and 60% than
+
+31
